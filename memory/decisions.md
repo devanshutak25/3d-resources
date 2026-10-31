@@ -61,3 +61,14 @@ Architectural / structural decisions w/ rationale + date.
 - Social links kept only if handle matches studio name/domain (or opaque id); drops template (squarespace, yourhandle), personal and client accounts.
 - Description cities must match hq/offices; office cities added only when the studio's own site names them.
 - JSON-LD on /studios/ kept minimal (name, url, country); full objects doubled page size.
+
+## 2026-10-31: /studios/ v2
+- Sizes = LinkedIn "Company size" bands (user): boutique 1-10, small 11-50, mid 51-200, large 201+. Old boutique/mid dropped (don't map), old large kept.
+- `animation` -> `2d-animation` + `3d-animation` (user). New closed `markets` field (film, episodic, advertising, music-video, games, brand), card label "Works for" (user).
+- Cards drop the description (user: adds size, not info). Description stays required in data: feeds search + llms-full.
+- Lazy load: first 48 cards SSR (crawl/no-JS), studios.json carries every card as pre-rendered HTML so there is one card template and escaping stays server-side. Bigger JSON (257 KB gz) accepted over a duplicated client template.
+- Group by is a view, not a filter: Clear filters keeps it. Groups by HQ only, so each studio shows once. Age groups = founding decade, oldest first.
+- Discipline colors by hue family (film blue, animation warm, games green, interactive teal, CG violet, motion pink, live action red); label always present so near hues are fine.
+- Name dedupe for new studios only within the same HQ country ("Mir" Norway != "Studio Mir" Korea).
+- Studio sites with injected casino/spam or "coming soon" pages are not listed.
+- Group-owned studios with their own brand + site are listed separately (d3t, Climax under Keywords; Mikros under Rodeo FX).

@@ -30,13 +30,23 @@
       "uniqueItems": true,
       "items": {
         "enum": [
-          "animation", "stop-motion", "vfx", "motion-design", "cg", "archviz", "product-viz",
-          "games", "cinematics", "virtual-production", "previs", "xr", "experiential",
+          "2d-animation", "3d-animation", "stop-motion", "vfx", "motion-design", "cg", "archviz",
+          "product-viz", "games", "cinematics", "virtual-production", "previs", "xr", "experiential",
           "title-design", "live-action", "outsourcing", "mocap"
         ]
       }
     },
-    "size": { "enum": ["boutique", "mid", "large"] },
+    "markets": {
+      "description": "Who the work is for. Shown as 'Works for' on cards.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "enum": ["film", "episodic", "advertising", "music-video", "games", "brand"] }
+    },
+    "size": {
+      "description": "Headcount, LinkedIn 'Company size' ranges: boutique 1-10, small 11-50, mid 51-200, large 201+.",
+      "enum": ["boutique", "small", "mid", "large"]
+    },
     "founded": { "type": "integer", "minimum": 1850, "maximum": 2100 },
     "careers": { "$ref": "#/$defs/httpUrl" },
     "reel": { "$ref": "#/$defs/httpUrl" },

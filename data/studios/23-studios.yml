@@ -1,0 +1,1039 @@
+studios:
+  - name: Cirkus
+    url: https://cirkus.nz/
+    description: Auckland animation house with a troupe of directors and artists making character animation and design-led spots for brands worldwide.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cirkusnz
+      vimeo: https://vimeo.com/cirkusnz
+      youtube: https://www.youtube.com/user/CirkusProductions
+      x: https://x.com/CirkusNZ
+  - name: Cause and FX
+    url: https://causeandfx.nz/
+    description: New Zealand VFX studio delivering visual effects, animation and large format design for international film and episodic productions.
+    hq:
+      country: New Zealand
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://causeandfx.nz/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/causeandfx.nz
+      linkedin: https://www.linkedin.com/company/cause-and-fx
+  - name: Blockhead
+    url: https://www.blockheadvfx.com/
+    description: Auckland VFX and post studio offering 3D CGI, 2D compositing, colour grading and VR work for film, episodic and commercials.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.blockheadvfx.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/blockheadvfx
+      linkedin: https://nz.linkedin.com/company/blockhead
+  - name: Robot Playground Media
+    url: https://www.robotplaygroundmedia.com/
+    description: Singapore animation and VFX studio developing Asian-inspired original series and producing 2D and 3D animation for broadcasters and brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - The Violin
+      - Timescapes
+      - Downstairs
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.robotplaygroundmedia.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/robotplayground
+      linkedin: https://www.linkedin.com/company/robot-playground-media
+      youtube: https://www.youtube.com/user/robotplaygroundmedia
+      x: https://twitter.com/robotplaygrd
+  - name: Sparky Animation
+    url: https://sparkyanim.com/
+    description: Singapore 3D animation studio producing CG series and features and developing original titles for international licensing.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://sparkyanim.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/sparky-animation
+      vimeo: https://vimeo.com/user4112291
+      youtube: https://www.youtube.com/user/SparkyAnimation
+      x: https://twitter.com/AnimationSparky
+  - name: Vividthree
+    url: https://www.vividthree.com/
+    description: Singapore immersive media company producing VR, AR, VFX, animation and projection mapping content for brands, events and broadcasters.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - xr
+      - vfx
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+      - episodic
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.vividthree.com/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Boomzap Entertainment
+    url: https://boomzap.com/
+    description: Fully remote game studio registered in Singapore making story-driven hidden object and puzzle adventure games for PC and mobile.
+    hq:
+      country: Singapore
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2005
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/boomzapofficial
+      youtube: https://www.youtube.com/@boomzapgames
+      x: https://x.com/boomzap
+    notes: Virtual studio with no physical office, per its About page.
+  - name: Passion Republic
+    url: https://www.passionrepublic.com/
+    description: Malaysian game art studio providing 3D art, animation and co-development for console and PC games, with in-house mocap and photogrammetry.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - outsourcing
+      - mocap
+    markets:
+      - games
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.passionrepublic.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/passionrepublic
+      linkedin: https://www.linkedin.com/company/passionrepublic
+      youtube: https://www.youtube.com/@passionrepublictv1094
+      artstation: https://www.artstation.com/passionrepublic
+    notes: Studio page says the space holds over 300 teammates; site says it has worked with Blizzard and Sony Interactive since 2009.
+  - name: Kurechii
+    url: https://kurechii.com/
+    description: Malaysian indie game studio making mobile RPG and strategy games, including Postknight, Postknight 2 and Tiny Guardians.
+    hq:
+      country: Malaysia
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Postknight
+      - Postknight 2
+      - Tiny Guardians
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/kurechiigames
+      linkedin: https://www.linkedin.com/company/kurechii
+      youtube: https://www.youtube.com/channel/UC0ry2B0LjqXnVai5_cTqMXw
+      x: https://twitter.com/kurechii
+  - name: Inspidea
+    url: https://www.inspidea.com/
+    description: Digital 2D animation studio in Petaling Jaya producing cartoon series and animation services for broadcasters and producers.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2002
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/inspidea
+      linkedin: https://www.linkedin.com/company/inspidea
+      youtube: https://www.youtube.com/user/Inspidea
+      x: https://twitter.com/inspidea
+    notes: Site live but footer reads 2019; jobs by email (iwanttojoin@inspidea.com). Confirm activity before publishing.
+  - name: Toon City Animation
+    url: https://www.tooncityanimation.com/
+    description: Manila animation studio providing 2D, Harmony and CG animation services for television series from US and European producers.
+    hq:
+      city: Manila
+      country: Philippines
+    offices:
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1993
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/tooncityanimation
+      x: https://x.com/ToonCityPH
+  - name: Secret 6
+    url: https://secret6.com/
+    description: Game co-development studio producing 3D art, visual development and cinematic VFX for console, PC and VR developers.
+    hq:
+      city: Pasig City
+      country: Philippines
+    offices:
+      - city: San Francisco
+        country: United States
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - outsourcing
+      - cinematics
+    markets:
+      - games
+    notable:
+      - The Last of Us Part II
+      - Cyberpunk 2077
+      - Shadow of the Tomb Raider
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://apply.workable.com/secret-6/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/secret6
+      youtube: https://www.youtube.com/@Secret6Inc
+      x: https://twitter.com/secret6inc
+    notes: Workable profile lists San Francisco, Manila and Madrid; job postings are in Pasig City, Metro Manila. HQ city inferred from postings.
+  - name: Buko Studios
+    url: https://www.bukostudios.com/
+    description: Philippine game art studio creating 2D and 3D art, design and game development support for console and mobile developers.
+    hq:
+      country: Philippines
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.bukostudios.com/join-us
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bukostudios
+      linkedin: https://www.linkedin.com/company/bukostudios
+      x: https://twitter.com/BukoStudios
+  - name: Neun Farben
+    url: https://neun.ph/
+    description: Game art studio in Pasig City providing 3D characters, environments, animation, rigging, 2D concept art and game VFX for developers.
+    hq:
+      city: Pasig City
+      country: Philippines
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    size: mid
+    founded: 2013
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://neun.ph/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Part of Japan's X-Plus Group per About page; 100+ staff stated.
+  - name: Mulave Studios
+    url: https://mulavestudios.com/
+    description: Animation and VFX studio in Iloilo City producing 3D animation, digital effects and multimedia content for brands and institutions.
+    hq:
+      city: Iloilo City
+      country: Philippines
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      behance: https://www.behance.net/mulavestudios2
+  - name: Friendly Foes
+    url: https://friendlyfoes.ph/
+    description: Boutique animation and design studio in Manila making motion design, character animation and illustration for brands.
+    hq:
+      city: Manila
+      country: Philippines
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Top Peg Studio
+    url: https://toppeg-animation.com/
+    description: Philippine studio producing 2D animation, game assets and motion graphics as a service partner for producers and developers.
+    hq:
+      country: Philippines
+    disciplines:
+      - 2d-animation
+      - outsourcing
+      - motion-design
+    markets:
+      - episodic
+      - games
+    founded: 1998
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: The Monk Studios
+    url: https://themonkstudios.com/
+    description: Bangkok animation and VFX studio creating features, series, commercials and game cinematics for clients such as Netflix and Sony.
+    hq:
+      city: Bangkok
+      country: Thailand
+    offices:
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://themonkstudios.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UCVUbsVdKRKXSXzbhKmNyBxQ
+  - name: IGLOO Studio
+    url: https://igloostudio.com/
+    description: Bangkok animation studio producing 2D, 2.5D and 3D animation, VFX and story development for series, games and commercials.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+      - advertising
+      - games
+    size: mid
+    founded: 2008
+    notable:
+      - My Daemon
+      - Dispatch
+      - 'The Legend of Muay Thai: 9 Satra'
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://igloostudio.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/igloostudiobangkok
+      vimeo: https://vimeo.com/igloostudioth
+      youtube: https://www.youtube.com/@IGLOO_STUDIO
+      x: https://x.com/igloocgofficial
+  - name: Yggdrazil Group
+    url: https://ygg-cg.com/
+    description: Bangkok CG production studio delivering VFX, animation and game cinematics for film, streaming and advertising, plus its own games.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cinematics
+      - games
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    size: large
+    notable:
+      - Ne Zha
+      - The Stranded
+      - Home Sweet Home
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://ygg-cg.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/yggdrazil.group
+      linkedin: https://www.linkedin.com/company/yggdrazil/
+      youtube: https://www.youtube.com/user/YggDraZilGroup
+    notes: About page states over 200 employees. Listed on Thailand's MAI exchange.
+  - name: Agate
+    url: https://agate.id/
+    description: Bandung game developer offering game development, 3D game art, porting and gamification services alongside its own titles.
+    hq:
+      city: Bandung
+      country: Indonesia
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    founded: 2009
+    notable:
+      - 'Valthirian Arc: Hero School Story'
+      - Code Atma
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://agate.id/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Digital Happiness
+    url: https://www.digitalhappiness.net/
+    description: Bandung game developer behind the DreadOut survival horror series, making games for PC and console players.
+    hq:
+      city: Bandung
+      country: Indonesia
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2013
+    notable:
+      - DreadOut
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://www.digitalhappiness.net/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/DH_games
+  - name: Arsanesia
+    url: https://arsanesia.com/
+    description: Independent game studio in Indonesia making casual and educational games, including the Arsa Kids line for young children.
+    hq:
+      country: Indonesia
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://arsanesia.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/arsanesia_official
+      linkedin: https://www.linkedin.com/company/arsanesia
+      youtube: https://www.youtube.com/user/arsanesia
+      x: https://twitter.com/arsanesia
+  - name: 3rd World Studios
+    url: https://3rdworldstudios.com/
+    description: Islamabad 3D animation studio producing animated features in Unreal Engine, including Allahyar and the Legend of Markhor.
+    hq:
+      city: Islamabad
+      country: Pakistan
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2016
+    notable:
+      - Allahyar and the Legend of Markhor
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/3rdworldstudios.pk
+      youtube: https://www.youtube.com/channel/UCTPGJnhX0b8xk3Uj8UFfOfw
+      x: https://x.com/3rdworldpk
+  - name: Mindstorm Studios
+    url: https://mindstormstudios.com/
+    description: Pakistani mobile game studio making puzzle and casual games such as Hexa Sort, Point Out and Pro Golf for global players.
+    hq:
+      country: Pakistan
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Hexa Sort
+      - Pro Golf
+      - Cricket Revolution
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://mindstormstudios.simplicant.com/jobs/board
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mindstormstudios
+      linkedin: https://www.linkedin.com/company/mindstorm-studios
+      youtube: https://www.youtube.com/@MindstormStudiosMS
+  - name: Massive Monster
+    url: https://massivemonster.com/
+    description: Independent game studio with teams in Australia and the UK making character-driven console and PC games, including Cult of the Lamb.
+    hq:
+      country: Australia
+    offices:
+      - country: United Kingdom
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2016
+    notable:
+      - Cult of the Lamb
+      - The Adventure Pals
+      - Never Give Up
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://massivemonster.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UC-z28AAWkqUnGNo_TejEuPA
+      x: https://twitter.com/MassiveMonster
+    notes: Homepage says offices in Australia and the United Kingdom; About page lists 18 team members and a Melbourne-based founder. HQ city not stated.
+  - name: Hipster Whale
+    url: https://www.hipsterwhale.com/
+    description: Melbourne game studio making casual mobile and console games, including Crossy Road, Disney Crossy Road and PAC-MAN 256.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2014
+    notable:
+      - Crossy Road
+      - Disney Crossy Road
+      - PAC-MAN 256
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://www.hipsterwhale.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://au.linkedin.com/company/hipsterwhale
+      youtube: https://www.youtube.com/c/HipsterWhaleOfficial
+      x: https://twitter.com/hipsterwhaledev
+    notes: Subsidiary of Atari since 2026 per Wikipedia.
+  - name: Witch Beam
+    url: https://witchbeam.com.au/
+    description: Indie game studio in Brisbane making console and PC games, including the puzzle game Unpacking and the shooter Assault Android Cactus.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Unpacking
+      - Assault Android Cactus
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/witchbeamgames
+  - name: Dinosaur Polo Club
+    url: https://dinopoloclub.com/
+    description: Indie game studio in Wellington making minimalist strategy and puzzle games, including Mini Metro and Mini Motorways.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2013
+    notable:
+      - Mini Metro
+      - Mini Motorways
+    added_at: '2026-10-31T05:09:10.967Z'
+    careers: https://dinopoloclub.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dinopoloclub
+      youtube: https://www.youtube.com/channel/UC8PoS0kI5X0EReM-D0vm7ag
+  - name: Myriad Studios
+    url: https://myriadstudios.com.au/
+    description: Australian 3D capture company providing LiDAR, photogrammetry and cyberscan digital doubles of sets, props and actors for VFX and games.
+    hq:
+      country: Australia
+    offices:
+      - city: Gold Coast
+        country: Australia
+      - city: Sydney
+        country: Australia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - games
+    notable:
+      - The Fall Guy
+      - 'Godzilla x Kong: The New Empire'
+      - Thirteen Lives
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/myriadstudiosfilm
+      linkedin: https://au.linkedin.com/company/myriad-studios
+      youtube: https://www.youtube.com/@myriadstudiosAU
+    notes: About page lists studios at Village Roadshow Studios (Gold Coast) and Disney Studios Australia (Sydney); no HQ named.
+  - name: Metia Interactive
+    url: https://www.metia.co.nz/
+    description: Auckland game design and development studio making console, mobile and education games that draw on Māori culture, including Guardian Maia.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2003
+    notable:
+      - Guardian Maia
+      - Cube
+      - SPARX
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: EclipseVFX
+    url: https://eclipsevfx.com/
+    description: VFX vendor handling compositing, cleanup, paint, LED volume set extensions and CG environments for film and TV.
+    hq:
+      country: India
+    disciplines:
+      - vfx
+      - product-viz
+    markets:
+      - film
+      - episodic
+    notable:
+      - The Last Rodeo
+      - Lear Rex
+      - Finding Faith
+    added_at: '2026-10-31T05:09:10.968Z'
+    reel: https://eclipsevfx.com/demoreel.mp4
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/eclipsevfxstudio/
+      linkedin: https://www.linkedin.com/company/eclipsevfx/
+    notes: Site gives no address; Animator's Guild India list places it in Ahmedabad.
+  - name: Knownsense Studios
+    url: https://knownsensestudios.com/
+    description: New media studio making projection mapping shows, dome and VR attractions, holograms and interactive museum exhibits.
+    hq:
+      country: India
+    disciplines:
+      - experiential
+      - xr
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2010
+    notable:
+      - Statue of Unity projection show
+      - Red Fort projection show
+      - Gateway of India projection show
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site gives no address; AGI list and Inc42 place it in Ahmedabad. Input URL was Instagram; studio has its own site.
+  - name: iBrain Design
+    url: https://ibraindesign.in/
+    description: Architectural visualization studio producing exterior and interior renders, isometric views and walkthrough animations.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - archviz
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ibrain.design/
+      linkedin: https://www.linkedin.com/company/i-braindesign/
+      youtube: https://www.youtube.com/c/ibrainDesign
+      behance: https://www.behance.net/ibrain3ddesign
+  - name: Skillhouse
+    url: https://skillhouse.art/
+    description: Archviz studio in Ahmedabad making photoreal exterior and interior renders and walkthrough films for architects and developers.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - archviz
+    size: small
+    founded: 2016
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://skillhouse.art/careers.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/skillhouse.art/
+      linkedin: https://www.linkedin.com/company/skillhouse-art
+      vimeo: https://vimeo.com/skillhouse
+      youtube: https://www.youtube.com/@SKILLHOUSE-ART
+      behance: https://www.behance.net/skillhouse-art
+    notes: Size from site ("20+ Artists"), not LinkedIn.
+  - name: Viz Kingdom
+    url: https://vizkingdom.com/
+    description: Architectural visualization studio producing 3D renders, 360 VR views and walkthrough animations for clients in India and abroad.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - archviz
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/vizkingdom
+      linkedin: https://www.linkedin.com/company/vizkingdom
+      x: https://twitter.com/Vizkingdom
+  - name: Blue Ribbon 3D
+    url: https://www.blueribbon3d.com/
+    description: Ahmedabad studio making architectural renders, 3D walkthroughs, VR tours and product visualization for clients in 10+ countries.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - archviz
+      - product-viz
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/blueribbon3danimationstudio/
+      linkedin: https://www.linkedin.com/company/blueribbon-3d-animation-studio/
+      youtube: https://www.youtube.com/channel/UCLkWk931NuuyBKG0l4eE0qQ
+      x: https://x.com/blueribbon3d
+  - name: Tripoly Studio
+    url: https://tripolystudio.com/
+    description: Architectural visualization studio making renders, walkthrough animations, 360 VR videos and facade designs for builders and architects.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - archviz
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://tripolystudio.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/tripolystudio__official/
+      linkedin: https://www.linkedin.com/company/tripoly-studio-private-limited/
+      youtube: https://www.youtube.com/user/tripolystudio
+      x: https://twitter.com/StudioTripoly/
+      behance: https://www.behance.net/Tripolystudio1717
+    notes: Site lists offices in Ahmedabad, Surat, Rajkot, Bhavnagar, Bengaluru, Delhi, Mumbai, Dubai without naming an HQ; Ahmedabad per AGI list. Also sells web/IT services.
+  - name: GameAnax
+    url: https://www.gameanax.com/
+    description: Game and XR development studio building VR, AR and mobile games plus 2D and 3D game art for clients.
+    hq:
+      city: Ahmedabad
+      country: India
+    offices:
+      - city: Beverly Hills
+        country: United States
+    disciplines:
+      - games
+      - xr
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://www.gameanax.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: 300Mind
+    url: https://300mind.studio/
+    description: Game development studio in Ahmedabad building 2D and 3D games in Unity, Unreal and Roblox for mobile, PC, console and VR.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://300mind.studio/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/300mind/
+      linkedin: https://www.linkedin.com/company/300mind/
+      youtube: https://www.youtube.com/@300mind
+      behance: https://www.behance.net/300MindStudio
+  - name: Zatun
+    url: https://zatun.com/
+    description: Indie game developer and art outsourcing studio making original IP, work-for-hire games and 3D art for console, PC, mobile and VR.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ZatunGameStudio/
+      linkedin: https://www.linkedin.com/company/zatun
+      vimeo: https://vimeo.com/zatun
+      youtube: https://www.youtube.com/c/zatungamestudio/
+      x: https://twitter.com/zatun
+  - name: Popsicle Creative
+    url: https://www.popsicle-creative.com/
+    description: Design-first CGI studio making 3D motion films, product renders, simulations and VFX for brands.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - cg
+      - motion-design
+      - product-viz
+      - vfx
+    markets:
+      - advertising
+      - brand
+    size: small
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Size from site ("15 team members"), not LinkedIn.
+  - name: Vortex Films
+    url: https://vortexfilms.in/
+    description: CGI, VFX and post-production studio in Bangalore making product and launch films for hardware and tech brands.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - product-viz
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/@vortexfilmsin
+  - name: Chikuliba Media
+    url: https://www.chikuliba.com/
+    description: Animation studio producing 2D animated films, explainer videos and promos from script to post-production.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/@ChikulibaMedia
+    notes: Site places it in Chennai (AGI list says Bengaluru). No dated work on site; contact is a personal Gmail. Weak activity signal.
+  - name: Plankton Collective
+    url: https://planktoncollective.com/
+    description: Creator-led animation practice making animated films, title sequences, ad campaigns and educational content with independent artists.
+    hq:
+      country: India
+    disciplines:
+      - 2d-animation
+      - title-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/plankton_collective/
+      vimeo: https://vimeo.com/planktoncollective
+    notes: 'Site names no base city (AGI list: Bengaluru). Now a creator-led network rather than a staffed studio.'
+  - name: Vivi5 Studios
+    url: https://vivi5.net/
+    description: Animation and design studio in Bengaluru making animated brand films and explainer videos for companies.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://vivi5.net/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/vivi5_studios/
+      linkedin: https://www.linkedin.com/company/vivi5studios/
+      vimeo: https://vimeo.com/vivi5studios
+  - name: Xentrix Studios
+    url: https://www.xentrixstudios.com/
+    description: Animation production company making CG and 2D series for children's TV and streaming, with studios in India, Australia and the Philippines.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: Melbourne
+        country: Australia
+      - country: Philippines
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://www.xentrixstudios.com/en/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/xentrix-studios/
+    notes: Bengaluru address on contact page; Australia office in Richmond VIC; Philippines city not given.
+  - name: Graphic India
+    url: https://www.graphicindia.com/
+    description: Character entertainment company making animated series, motion comics and graphic novels built on Indian myth and original heroes.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - The Legend of Hanuman
+      - 'Baahubali: The Lost Legends'
+      - Astra Force
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/graphicindia/
+      x: https://twitter.com/graphicindia
+    notes: Website last updated 2021; Wikipedia shows The Legend of Hanuman S6 aired April 2025. Address from contact page (Whitefield, Bangalore).
+  - name: Rockstar India
+    url: https://www.rockstargames.com/careers/offices/rockstar-india
+    description: Bengaluru game studio, formerly Dhruva Interactive, building art and open-world content for Rockstar Games titles.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    notable:
+      - Grand Theft Auto VI
+      - Red Dead Redemption 2
+      - Grand Theft Auto V
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://www.rockstargames.com/careers/offices/rockstar-india
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Dhruva Interactive (input row 22) acquired by Rockstar in 2019 and renamed. Size from Wikipedia (1,600+), not LinkedIn. No own homepage; URL is the Rockstar office page.
+  - name: Moonfrog Labs
+    url: https://moonfroglabs.com/
+    description: Mobile game studio in Bengaluru making casual card and board games such as Teen Patti Gold and Ludo Club.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2013
+    notable:
+      - Teen Patti Gold
+      - Ludo Club
+      - Parchis Club
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Domain moonfrog.com times out; moonfroglabs.com is live. Size from site history ("200+ employees", Nov 2020), not LinkedIn.

@@ -1,0 +1,1170 @@
+studios:
+  - name: CGCG
+    url: https://www.cgcg.com.tw/
+    description: CGI production service studio in Taiwan handling asset, animation, lighting, FX and comp for US and Japanese animated series.
+    hq:
+      country: Taiwan
+    disciplines:
+      - 3d-animation
+      - vfx
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 1988
+    notable:
+      - 'Star Wars: The Clone Wars'
+      - 'Star Wars: The Bad Batch'
+      - 'Jurassic World: Camp Cretaceous'
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site says CGI production service provider since 1988; city not stated.
+  - name: Bandai Namco Filmworks
+    url: https://www.bnfw.co.jp/en/
+    description: Anime studio in Tokyo, formerly Sunrise, producing Gundam and other mecha and original series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1972
+    notable:
+      - Mobile Suit Gundam
+      - Cowboy Bebop
+      - Code Geass
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bandainamcofilmworks_en/
+      youtube: https://www.youtube.com/@bandainamcofilmworks
+      x: https://x.com/bnfw_en
+    notes: 'Wikipedia: 770 employees (Apr 2026).'
+  - name: Kinema Citrus
+    url: https://kinemacitrus.biz/
+    description: Anime studio in Tokyo producing TV series and films, including Made in Abyss and The Rising of the Shield Hero.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2008
+    notable:
+      - Made in Abyss
+      - The Rising of the Shield Hero
+      - Barakamon
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://kinemacitrus.biz/recruit_new/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/@kinemacitrus
+      x: https://x.com/KinemacINFO
+    notes: 'Wikipedia: 92 employees (2026).'
+  - name: Studio Colorido
+    url: https://colorido.co.jp/
+    description: Animation studio in Tokyo making original anime features and shorts, several of them Netflix co-productions.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2011
+    notable:
+      - Penguin Highway
+      - A Whisker Away
+      - Drifting Home
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://colorido.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/studiocolorido
+    notes: 'Wikipedia: 106 employees (Apr 2024).'
+  - name: Studio Chizu
+    url: https://studiochizu.com/
+    description: Animation studio in Tokyo founded to produce Mamoru Hosoda's feature films, from Wolf Children to Belle.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    founded: 2011
+    notable:
+      - Wolf Children
+      - Mirai
+      - Belle
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://studiochizu.com/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/studio_chizu
+      youtube: https://www.youtube.com/c/studiochizu
+      x: https://x.com/StudioChizu
+  - name: SAEROM
+    url: https://saeromani.com/
+    description: Animation service studio in Seoul producing 2D episodes for US network and streaming series since 1987.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 1987
+    notable:
+      - Adventure Time
+      - We Bare Bears
+      - Craig of the Creek
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Rough Draft Korea
+    url: https://www.rdkorea.co.kr/
+    description: Hand-drawn 2D animation studio in Seoul, sister to Rough Draft Studios, animating US series and specials.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    notable:
+      - The Simpsons
+      - SpongeBob SquarePants
+      - Adventure Time
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Digital eMation
+    url: https://www.emation.co.kr/
+    description: Animation service studio in Seoul producing 2D episodes for US prime-time and cable series.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 1993
+    notable:
+      - Family Guy
+      - The Venture Bros.
+      - Futurama
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site returned 403 to the fetcher (bot block). Wikipedia lists 2023 to 2025 credits, so active.
+  - name: NEXON
+    url: https://www.nexon.com/
+    description: Online game developer and publisher founded in Seoul, now headquartered in Tokyo, with studios in Seoul, Pangyo and Jeju.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Seoul
+        country: South Korea
+      - city: Seongnam
+        country: South Korea
+      - city: Jeju
+        country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 1994
+    notable:
+      - MapleStory
+      - Dungeon & Fighter
+      - The First Descendant
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: 7,067 employees (Dec 2021). Homepage is a JS shell but live.'
+  - name: Netmarble
+    url: https://company.netmarble.com/en
+    description: Mobile and PC game developer and publisher in Seoul making RPGs, many based on anime, webtoon and comic IP.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2000
+    notable:
+      - 'Solo Leveling: Arise'
+      - Seven Knights
+      - 'Ni no Kuni: Cross Worlds'
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/netmarblegames
+  - name: NEOWIZ
+    url: https://www.neowiz.com/
+    description: Game developer and publisher in Seongnam making console, PC and mobile titles, including the soulslike Lies of P.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2007
+    notable:
+      - Lies of P
+      - DJMax
+      - Brown Dust II
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.neowiz.com/kr/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/neowiz_official
+      linkedin: https://www.linkedin.com/company/neowiz-games-corp/
+      youtube: https://www.youtube.com/@NEOWIZ
+      x: https://x.com/NEOWIZ_KR
+    notes: 'Wikipedia: gaming arm founded 2007; original company 1997.'
+  - name: LIGHTSPEED STUDIOS
+    url: https://www.lightspeed-studios.com/
+    description: Tencent game studio group in Shenzhen making mobile and AAA shooters and action games, with teams in Asia, North America and Europe.
+    hq:
+      city: Shenzhen
+      country: China
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2011
+    notable:
+      - PUBG Mobile
+      - Apex Legends Mobile
+      - Undawn
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.lightspeed-studios.com/join-us.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: MOONTON
+    url: https://en.moonton.com/
+    description: 'Mobile game developer and publisher in Shanghai behind the MOBA Mobile Legends: Bang Bang and other RPG titles.'
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2014
+    notable:
+      - 'Mobile Legends: Bang Bang'
+      - Watcher of Realms
+      - Silver and Blood
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://en.moonton.com/join/index.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/moontongames/
+    notes: 'Wikipedia: 2,000+ employees (2025).'
+  - name: LIDENFILMS
+    url: https://lidenfilms.jp/
+    description: Anime studio in Tokyo with branches in Kyoto and Osaka, producing TV series such as Tokyo Revengers and Call of the Night.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kyoto
+        country: Japan
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 2012
+    notable:
+      - Tokyo Revengers
+      - Call of the Night
+      - Rurouni Kenshin (2023)
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://lidenfilms.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/lidenfilms
+    notes: 'Wikipedia: 303 employees (Apr 2026).'
+  - name: Tatsunoko Production
+    url: https://www.tatsunoko.co.jp/
+    description: Anime studio in Tokyo producing TV series and films since 1962, creator of Speed Racer and Gatchaman.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1962
+    notable:
+      - Speed Racer
+      - Science Ninja Team Gatchaman
+      - Time Bokan
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://tatsunoko.co.jp/recruit
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/Tatsunokopromotion
+      x: https://twitter.com/tatsunoko_pro
+    notes: 'Wikipedia: 113 employees (2025).'
+  - name: Doga Kobo
+    url: https://www.dogakobo.com/
+    description: Anime studio in Tokyo producing TV series and films, with recent credits including Oshi no Ko.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1973
+    notable:
+      - Oshi no Ko
+      - Monthly Girls' Nozaki-kun
+      - Himouto! Umaru-chan
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.dogakobo.com/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: 62 employees (June 2024).'
+  - name: Telecom Animation Film
+    url: https://www.telecom-anime.com/
+    description: Animation studio in Tokyo under TMS Entertainment producing anime series, films and background art for other studios.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1975
+    notable:
+      - 'Lupin III: The Castle of Cagliostro'
+      - Sherlock Hound
+      - Don't Toy with Me, Miss Nagatoro
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.tms-e.co.jp/company/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Sony PCL
+    url: https://www.sonypcl.jp/
+    description: Creative house in Tokyo offering post-production, LED virtual production, volumetric capture and immersive event staging.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - virtual-production
+      - experiential
+      - xr
+    markets:
+      - film
+      - episodic
+      - music-video
+      - brand
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.sonypcl.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/@SonyPCLcreation
+      x: https://x.com/SonyPCL
+    notes: Runs the Kiyosumi-Shirakawa BASE virtual production stage in Tokyo.
+  - name: Whatever
+    url: https://whatever.co/
+    description: Creative studio in Tokyo making interactive experiences, exhibitions, AR apps, games and commercials for brands and artists.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: New York
+        country: United States
+      - city: Taipei
+        country: Taiwan
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - experiential
+      - xr
+      - live-action
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Mrs. GREEN APPLE Wonder Museum
+      - Kao Silent Cleaning
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/whtevr_co/
+      linkedin: https://www.linkedin.com/company/whtevr-co/
+      x: https://twitter.com/whtevr_co
+  - name: Brilliant Pictures Group
+    url: https://www.brilliant-pictures.com/
+    description: Animation service group in Taiwan, parent of Wang Film, producing 2D and 3D animation for US studios and Chinese co-productions.
+    hq:
+      city: New Taipei
+      country: Taiwan
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1978
+    notable:
+      - Tiny Toon Adventures
+      - Animaniacs
+      - Courage the Cowardly Dog
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site cites about 250 active artists across Taiwan and China; founded 1978 as Wang Film Productions in Xindian.
+  - name: Shin-Ei Animation
+    url: https://www.shin-ei-animation.jp/
+    description: Anime studio in Tokyo producing the long-running Doraemon and Crayon Shin-chan TV series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kobe
+        country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1976
+    notable:
+      - Doraemon
+      - Crayon Shin-chan
+      - Teasing Master Takagi-san
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://shin-ei-animation.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/c/SHINEIANIMATIONOFFICIAL
+      x: https://x.com/shin_ei_ani
+    notes: 'Wikipedia: 143 employees (Mar 2024); refounded 1976 from A Production (1965).'
+  - name: J.C.STAFF
+    url: https://www.jcstaff.co.jp/
+    description: Anime studio in Tokyo producing TV series and films since 1986, including One-Punch Man and A Certain Magical Index.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1986
+    notable:
+      - One-Punch Man (seasons 2 and 3)
+      - A Certain Magical Index
+      - Toradora!
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site serves a self-signed certificate so content could not be read; Wikipedia lists 226 employees and current productions.
+  - name: Nippon Animation
+    url: https://www.nippon-animation.co.jp/
+    description: Anime studio in Tokyo producing TV series since 1975, from World Masterpiece Theater to Chibi Maruko-chan.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1975
+    notable:
+      - Anne of Green Gables
+      - Future Boy Conan
+      - Chibi Maruko-chan
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 76 employees (July 2025).'
+  - name: Devsisters
+    url: https://www.devsisters.com/
+    description: Game developer in Seoul making the Cookie Run series of mobile and console games with a strong character art focus.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2007
+    notable:
+      - 'Cookie Run: Kingdom'
+      - 'Cookie Run: OvenBreak'
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://careers.devsisters.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/devsisters
+      youtube: https://www.youtube.com/@devsisters
+      x: https://twitter.com/devsisters
+    notes: 'Wikipedia: about 300 employees (2025).'
+  - name: Pathea Games
+    url: https://www.patheagames.com/
+    description: Independent game studio in Chongqing making 3D life-sim and sandbox RPGs for PC and console.
+    hq:
+      city: Chongqing
+      country: China
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2010
+    notable:
+      - My Time at Portia
+      - My Time at Sandrock
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/patheagames/
+      x: https://twitter.com/PatheaGames
+  - name: NetEase Games
+    url: https://www.neteasegames.com/
+    description: Game division of NetEase in Hangzhou developing PC, mobile and console titles through internal studios in China and abroad.
+    hq:
+      city: Hangzhou
+      country: China
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Seongnam
+        country: South Korea
+      - city: Pasadena
+        country: United States
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    notable:
+      - Marvel Rivals
+      - Identity V
+      - Onmyoji
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://hr.163.com/job-list.html?lang=en
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UC7fPAi77lcCWFUc94UHyfGg
+      x: https://twitter.com/NetEaseGames_EN
+    notes: Size from parent NetEase (25,423 employees, Mar 2026).
+  - name: Free-D Workshop
+    url: https://www.freedworkshop.com/
+    description: VFX and CG studio in Hong Kong producing visual effects for films, series, commercials and video games.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    founded: 2005
+    added_at: '2026-10-31T05:09:10.956Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/freedworkshop
+      linkedin: https://hk.linkedin.com/company/free-d-workshop
+      vimeo: https://vimeo.com/user8355650
+      youtube: https://www.youtube.com/@free-dworkshoplimited4399
+  - name: Point Five Creations
+    url: https://www.pointfivecreations.com/
+    description: Artist-driven cel animation studio in Hong Kong making commercials, music videos, game openings and original shorts.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 2d-animation
+      - cinematics
+    markets:
+      - advertising
+      - music-video
+      - games
+    founded: 2018
+    notable:
+      - Assassin's Creed Origins (launch trailer)
+      - Cytus II (opening)
+      - Another World
+    added_at: '2026-10-31T05:09:10.956Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/Point5creations
+      x: https://x.com/point5creations
+  - name: Griot Groove
+    url: https://www.griotgroove.com/
+    description: 3DCG and VFX production house in Tokyo making realistic CG for games, film, commercials and TV anime, with its own mocap studio.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+      - mocap
+    markets:
+      - games
+      - film
+      - advertising
+      - episodic
+    size: mid
+    founded: 1996
+    added_at: '2026-10-31T05:09:10.956Z'
+    careers: https://www.griotgroove.com/recruit
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Site: about 100 employees; joined the Cygames group in May 2026; mocap studio branded IBUKI.'
+  - name: POLYGON MAGIC
+    url: https://www.polygonmagic.com/
+    description: Digital content producer in Tokyo making CG for games, pachinko machines, film and commercials, plus live stage and event shows.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kyoto
+        country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+      - experiential
+    markets:
+      - games
+      - film
+      - advertising
+    size: large
+    founded: 1996
+    added_at: '2026-10-31T05:09:10.956Z'
+    careers: https://polygon-saiyo.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/polygonmagic_group
+      x: https://twitter.com/polygonmagic
+    notes: 'Profile: 211 group employees (Feb 2026).'
+  - name: FelixFilm
+    url: https://www.felixfilm.co.jp/
+    description: Anime studio in Tokyo with 2D and 3DCG departments producing TV anime, films and pachinko visuals, plus CG for other studios.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kobe
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+    notable:
+      - MF Ghost
+      - Record of Ragnarok II (CG)
+    added_at: '2026-10-31T05:09:10.956Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/felixfilm2014
+  - name: SAMG Entertainment
+    url: https://www.samg.net/
+    description: CG kids' animation studio in South Korea creating original series such as Miniforce and Catch! Teenieping, plus co-production work.
+    hq:
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2000
+    notable:
+      - Catch! Teenieping
+      - Miniforce
+      - 'Miraculous: Tales of Ladybug & Cat Noir (seasons 1 to 3)'
+    added_at: '2026-10-31T05:09:10.956Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site is JS-rendered and returned no readable text; Wikipedia lists ongoing series, so active. HQ city not confirmed.
+  - name: Mocaplab
+    url: https://mocaplab.com/
+    description: Motion capture studio in Paris recording body, face, eye and finger performance for film, games, music videos and XR.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - mocap
+    markets:
+      - film
+      - games
+      - music-video
+      - advertising
+    size: small
+    founded: 2007
+    notable:
+      - Enemies (Unity)
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mocaplabstudio/
+      linkedin: https://www.linkedin.com/company/mocaplab
+      vimeo: https://vimeo.com/mocaplab
+      x: https://twitter.com/Mocaplab
+  - name: Mikros Animation
+    url: https://www.mikrosanimation.com/en/
+    description: CG animation studio making feature films and series for major studios, with teams in Paris, Montreal and Bangalore.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Montreal
+        country: Canada
+      - city: Bangalore
+        country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    size: large
+    notable:
+      - Orion and the Dark
+      - 'PAW Patrol: The Dino Movie'
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://www.mikrosanimation.com/en/people-and-culture/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mikrosanimation
+      linkedin: https://www.linkedin.com/company/mikrosanimation
+      vimeo: https://vimeo.com/user146188637
+      x: https://twitter.com/mikrosanimation
+    notes: Rodeo FX company since March 2025 (Rodeo FX already listed); keeps its own brand and site.
+  - name: TAT Productions
+    url: https://tatprod.com/
+    description: 3D animation studio and producer in Toulouse making animated features and series for TV, cinema and streaming.
+    hq:
+      city: Toulouse
+      country: France
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    size: large
+    founded: 2000
+    notable:
+      - Les As de la Jungle
+      - 'Astérix & Obélix: Le Combat des chefs'
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://careers.werecruit.io/fr/tat
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/tatproductionsofficiel/
+      linkedin: https://www.linkedin.com/company/tat-productions/
+      youtube: https://www.youtube.com/@TATproductionsofficiel
+      x: https://twitter.com/tatprodofficial
+  - name: Dwarf Animation Studio
+    url: https://www.dwarfanimation.com/
+    description: CG animation studio in Montpellier producing high-end animated features and series for the international market.
+    hq:
+      city: Montpellier
+      country: France
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2010
+    notable:
+      - My Dad the Bounty Hunter
+      - Monsters at Work
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://www.dwarfanimation.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dwarfanimation/
+      linkedin: https://www.linkedin.com/company/dwarfanimationstudio
+      youtube: https://www.youtube.com/c/Dwarf-labs
+  - name: Andarta Pictures
+    url: https://andarta-pictures.com/fr/
+    description: 2D animation studio in the Drôme producing and animating TV series for broadcasters and family audiences.
+    hq:
+      city: Bourg-lès-Valence
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    size: mid
+    founded: 2017
+    notable:
+      - La Quête d'Ewilan
+      - Lisa & Kolos
+      - Gustave
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://www.andarta-pictures.com/fr/recrutement/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/andartapictures
+      linkedin: https://www.linkedin.com/company/andarta-pictures
+  - name: Bobbypills
+    url: https://www.bobbypills.com/
+    description: Animation studio in Paris producing animated series and films aimed only at young adult audiences.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: small
+    founded: 2017
+    notable:
+      - Jim Queen
+      - The Broos
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bobbypillsstudio/
+      linkedin: https://www.linkedin.com/company/bobbypills/
+      youtube: https://www.youtube.com/@Bobbypills
+      x: https://x.com/Bobbypills_
+  - name: CGEV
+    url: https://www.cgev.fr/
+    description: VFX house in Paris handling compositing, matte painting, FX simulation and 3D for feature films and series.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2012
+    notable:
+      - The Substance
+      - Bastion 36
+      - Ad Vitam
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://www.cgev.fr/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/cgevvfx/
+      youtube: https://www.youtube.com/@cgevvfx
+  - name: Woodblock
+    url: https://woodblock.tv/
+    description: Animation studio in Berlin and Ludwigsburg creating films, design work and immersive visuals, including Sphere shows for Anyma and Illenium.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Ludwigsburg
+        country: Germany
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - experiential
+    markets:
+      - brand
+      - music-video
+      - advertising
+    size: mid
+    founded: 2013
+    notable:
+      - Illenium Sphere
+      - Anyma Sphere
+      - BBC Euros
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/woodblock.studio/
+      linkedin: https://www.linkedin.com/company/woodblock-studio/
+      youtube: https://www.youtube.com/@woodblock.studio
+  - name: TrickStudio Lutterbeck
+    url: https://trickstudio.de/
+    description: Independent animation studio in Cologne producing 2D and 3D animation for cinema, TV series, online and apps.
+    hq:
+      city: Cologne
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Fritzi & Sophie: Grenzenlose Freundschaft'
+      - 'Molly Monster: Der Kinofilm'
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://trickstudio.de/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/trickstudio/
+  - name: xoio
+    url: https://xoio.de/
+    description: Berlin CGI studio producing architectural and real estate images, animations, VR and interactive apps for developers and designers.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - archviz
+      - cg
+      - xr
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/xoio.de/
+      youtube: https://www.youtube.com/user/XoioTV
+      behance: https://www.behance.net/xoio
+  - name: Studio Seufz
+    url: https://studioseufz.com/seufzWP/
+    description: Stuttgart studio making video games and animated films, plus music videos, commercials and live visuals.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - games
+      - 2d-animation
+    markets:
+      - games
+      - film
+      - music-video
+    notable:
+      - The Longing
+      - Condenaditos
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: MAD Entertainment
+    url: https://www.madentertainment.it/
+    description: Naples production company and animation studio making animated features and series alongside documentaries and fiction.
+    hq:
+      city: Naples
+      country: Italy
+    disciplines:
+      - 3d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    founded: 2010
+    notable:
+      - Gatta Cenerentola
+      - Nostalgia
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/_madentertainment_/
+      youtube: https://www.youtube.com/channel/UCbAGrkybvEyTZa8x4Iwtp1Q
+  - name: Walking The Dog
+    url: https://walkingthedog.be/
+    description: Brussels animation producer and studio making 2D and 3D animated feature films with European partners.
+    hq:
+      city: Brussels
+      country: Belgium
+    offices:
+      - city: Genk
+        country: Belgium
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+    notable:
+      - A Magnificent Life
+      - Fox and Hare Save the Forest
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://walkingthedog.be/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      vimeo: https://vimeo.com/user3798880
+  - name: Dirty Monitor
+    url: https://www.dirtymonitor.com/
+    description: Charleroi studio creating video mapping, light shows and audiovisual scenography for cultural sites, ceremonies and expos.
+    hq:
+      city: Charleroi
+      country: Belgium
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - Grand Egyptian Museum opening ceremony
+      - Belgian Pavilion, Expo 2025 Osaka
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://www.dirtymonitor.com/recruitment
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dirtymonitor/
+      vimeo: https://vimeo.com/dirtymonitor
+      x: https://twitter.com/DirtyMonitorBe
+      behance: https://www.behance.net/DirtyMonitor
+  - name: Nørlum
+    url: https://www.noerlum.com/
+    description: Animation studio in Viborg developing and co-producing animated features and series with international partners.
+    hq:
+      city: Viborg
+      country: Denmark
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Song of the Sea
+      - Calamity
+      - 'Big Hero 6: The Series'
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/n-rlum/
+      x: https://twitter.com/noerlum
+  - name: Mir
+    url: https://www.mir.no/
+    description: Bergen studio crafting images of architecture and landscapes for architects, from museums and operas to bridges.
+    hq:
+      city: Bergen
+      country: Norway
+    disciplines:
+      - archviz
+    founded: 2000
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site blocks WebFetch (403); verified live via direct fetch of mir.no/about.
+  - name: HYPERBOWL
+    url: https://www.hyperbowl.de/
+    description: Virtual production house near Munich running an LED volume for commercials, film, TV, automotive shoots and live events.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - film
+      - episodic
+      - brand
+    size: small
+    founded: 2020
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://www.hyperbowl.de/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/hyperbowl.studio/
+      linkedin: https://www.linkedin.com/company/hyperbowlstudio/
+  - name: Volucap
+    url: https://volucap.com/
+    description: Volumetric video studio at Studio Babelsberg capturing performers in 3D for film VFX, XR, advertising, music and events.
+    hq:
+      city: Potsdam
+      country: Germany
+    disciplines:
+      - xr
+      - vfx
+    markets:
+      - film
+      - advertising
+      - music-video
+      - brand
+    size: small
+    founded: 2018
+    notable:
+      - The Matrix Resurrections
+      - Mickey 17
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://volucap.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/volucap/
+      linkedin: https://www.linkedin.com/company/volucap
+      youtube: https://www.youtube.com/c/Volucap
+      x: https://twitter.com/Volucap

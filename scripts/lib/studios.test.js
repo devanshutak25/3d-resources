@@ -22,6 +22,17 @@ t('every size has a label', () => {
   assert.deepStrictEqual([...schema.properties.size.enum].sort(), Object.keys(studios.SIZES).sort());
 });
 
+t('every market has a label and vice versa', () => {
+  assert.deepStrictEqual([...schema.properties.markets.items.enum].sort(), Object.keys(studios.MARKETS).sort());
+});
+
+t('decadeOf buckets founding years', () => {
+  assert.strictEqual(studios.decadeOf(undefined), '');
+  assert.strictEqual(studios.decadeOf(1972), 'pre-1980');
+  assert.strictEqual(studios.decadeOf(1980), '1980s');
+  assert.strictEqual(studios.decadeOf(2019), '2010s');
+});
+
 t('every country maps to a known region', () => {
   for (const [c, r] of Object.entries(studios.COUNTRY_REGION)) assert(studios.REGIONS[r], `${c} -> ${r}`);
 });

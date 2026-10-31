@@ -6,21 +6,25 @@ studios:
       city: Vancouver
       country: Canada
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    size: large
     founded: 1999
-    careers: https://www.atomiccartoons.com/careers
     notable:
       - Molly of Denali
       - 'LEGO Star Wars: Rebuild the Galaxy'
       - Marvel's Iron Man and His Awesome Friends
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.atomiccartoons.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/atomiccartoons/
       linkedin: https://www.linkedin.com/company/atomiccartoons
       vimeo: https://vimeo.com/atomiccartoons
       youtube: https://www.youtube.com/channel/UCHrLrNGfEFqCr9wCsGjiQUw
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Nelvana
     url: https://www.nelvana.com/
     description: Toronto animation studio and distributor producing kids and family series since the 1970s.
@@ -28,42 +32,50 @@ studios:
       city: Toronto
       country: Canada
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 1971
     notable:
       - Franklin
       - Babar
       - Max & Ruby
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/nelvanaent/
       linkedin: https://www.linkedin.com/company/nelvana/
       x: https://twitter.com/NelvanaEnt
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Jam Filled Entertainment
     url: https://www.jamfilled.com/
     description: Animation studio in Ottawa and Toronto producing 2D and CG series for US and Canadian networks.
     hq:
       city: Ottawa
       country: Canada
-    disciplines:
-      - animation
     offices:
       - city: Toronto
         country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
     founded: 2007
-    careers: https://job-boards.greenhouse.io/jamfilled/
     notable:
       - The Loud House
       - Final Space
       - DC Super Hero Girls
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://job-boards.greenhouse.io/jamfilled/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/jamfilled/
       x: https://twitter.com/JamFilledStudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cartoon Saloon
     url: https://www.cartoonsaloon.ie/
     description: Kilkenny studio making hand-drawn feature films, series and shorts.
@@ -71,46 +83,54 @@ studios:
       city: Kilkenny
       country: Ireland
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    size: large
     founded: 1999
-    careers: https://www.cartoonsaloon.ie/irish-animation-studio/careers/
     notable:
       - The Secret of Kells
       - Song of the Sea
       - Wolfwalkers
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.cartoonsaloon.ie/irish-animation-studio/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/cartoonsaloon/
       youtube: https://www.youtube.com/user/CartoonSaloon
       x: https://x.com/CartoonSaloon
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Brown Bag Films
     url: https://www.brownbagfilms.com/
     description: Dublin animation studio producing 2D and CG kids series, part of 9 Story Media Group.
     hq:
       city: Dublin
       country: Ireland
-    disciplines:
-      - animation
     offices:
       - city: Toronto
         country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+    size: large
     founded: 1994
-    careers: https://www.brownbagfilms.com/about-us/careers
     notable:
       - Doc McStuffins
       - Octonauts
       - Vampirina
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.brownbagfilms.com/about-us/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/brownbagfilms/
       linkedin: https://www.linkedin.com/company/brown-bag-films/
       vimeo: https://vimeo.com/brownbagfilms
       youtube: https://www.youtube.com/user/brownbagfilms
       x: https://x.com/BrownBagFilms
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Lighthouse Studios
     url: https://lighthousestudios.ie/
     description: Kilkenny studio producing 2D and hybrid animated series and features for streamers and broadcasters.
@@ -118,19 +138,25 @@ studios:
       city: Kilkenny
       country: Ireland
     disciplines:
-      - animation
-    careers: https://lighthousestudios.ie/careers
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 2017
     notable:
       - The Cuphead Show!
       - El Deafo
       - The Bob's Burgers Movie
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://lighthousestudios.ie/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lighthousestudiosire
       linkedin: https://www.linkedin.com/company/lighthousestudios
       x: https://x.com/Lighthouse_STU
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Blue Zoo
     url: https://www.blue-zoo.co.uk/
     description: London CG and 2D animation studio making kids series, shorts and commercial work.
@@ -138,43 +164,52 @@ studios:
       city: London
       country: United Kingdom
     disciplines:
-      - animation
-    careers: https://careers.blue-zoo.co.uk/
-    reel: https://www.blue-zoo.co.uk/showreel
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    size: large
+    founded: 2000
     notable:
       - Alphablocks
       - Supertato
       - The Adventures of Paddington
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://careers.blue-zoo.co.uk/
+    reel: https://www.blue-zoo.co.uk/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/blue_zoo
       linkedin: https://www.linkedin.com/company/blue-zoo-productions
       youtube: https://www.youtube.com/c/bluezoo
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Locksmith Animation
     url: https://locksmithanimation.com/
     description: London feature animation studio developing and producing CG films for theatrical and streaming release.
     hq:
       city: London
       country: United Kingdom
-    disciplines:
-      - animation
     offices:
       - city: Los Angeles, CA
         country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    size: mid
     founded: 2014
-    careers: https://locksmithanimation.com/careers
     notable:
       - Ron's Gone Wrong
       - That Christmas
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://locksmithanimation.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/locksmithanimation/
       linkedin: https://www.linkedin.com/company/locksmith-animation
       youtube: https://www.youtube.com/channel/UCTsEcgYsVPlmh6sv7sIu5FA
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Lupus Films
     url: https://www.lupusfilms.com/
     description: London studio producing hand-drawn family films, TV specials and series, often adapted from picture books.
@@ -182,18 +217,22 @@ studios:
       city: London
       country: United Kingdom
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    size: boutique
     founded: 2002
     notable:
       - The Snowman and the Snowdog
       - We're Going on a Bear Hunt
       - Ethel & Ernest
-    social:
-      instagram: https://www.instagram.com/lupusfilms/
-      linkedin: https://www.linkedin.com/company/lupus-films/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/lupusfilms/
+      linkedin: https://www.linkedin.com/company/lupus-films/
   - name: Mackinnon & Saunders
     url: https://www.mackinnonandsaunders.com/
     description: Puppet maker and animation producer building stop-motion puppets for feature films and series.
@@ -202,42 +241,53 @@ studios:
       country: United Kingdom
     disciplines:
       - stop-motion
-    careers: https://www.mackinnonandsaunders.com/jobs
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - advertising
     notable:
       - Corpse Bride
       - Frankenweenie
       - Mars Attacks!
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.mackinnonandsaunders.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mackandsaund/
       vimeo: https://vimeo.com/mackinnonandsaunders
       x: https://twitter.com/mackandsaund
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Xilam Animation
     url: https://xilam.com/
     description: Paris animation producer and studio making 2D and CG kids series and feature films.
     hq:
       city: Paris
       country: France
-    disciplines:
-      - animation
     offices:
       - city: Angoulême
         country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 1999
-    careers: https://xilam.com/rejoignez-nous/
     notable:
       - Oggy and the Cockroaches
       - Zig & Sharko
       - I Lost My Body
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://xilam.com/rejoignez-nous/
+    url_status: ok
+    url_last_verified: '2026-10-31'
     social:
       linkedin: https://www.linkedin.com/company/110164
       youtube: https://www.youtube.com/channel/UCFqgL7HJU8np9WhkPeqJR9g
       x: https://twitter.com/xilamanimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
     notes: Node fetch fails the TLS chain (server omits intermediate cert); loads in curl and browsers (2026-10-31).
   - name: Folivari
     url: https://folivari.com/
@@ -246,42 +296,52 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2014
     notable:
       - The Big Bad Fox and Other Tales
       - 'Ernest & Celestine: A Trip to Gibberitia'
-    social:
-      instagram: https://www.instagram.com/folivari/
-      linkedin: https://www.linkedin.com/company/folivari/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/folivari/
+      linkedin: https://www.linkedin.com/company/folivari/
   - name: Blue Spirit
     url: https://www.spirit-prod.com/
     description: French CG and 2D animation studio in Paris and Angoulême producing features, series and studio services.
     hq:
       city: Paris
       country: France
-    disciplines:
-      - animation
     offices:
       - city: Angoulême
         country: France
       - city: Montreal
         country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 2004
-    careers: https://jobs.spirit-prod.com/jobs/candidats_eng/index.php
     notable:
       - Blue Eye Samurai
       - My Life as a Zucchini
       - Arthur and the Children of the Round Table
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://jobs.spirit-prod.com/jobs/candidats_eng/index.php
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/bluespirit_animation/
       linkedin: https://www.linkedin.com/company/blue-spirit-productions/
       x: https://twitter.com/bluespiritprod
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Studio La Cachette
     url: https://www.studiolacachette.com/
     description: Paris 2D animation studio providing animation for series, features and shorts.
@@ -289,18 +349,21 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
     founded: 2014
-    reel: https://vimeo.com/704097664
     notable:
       - Primal
       - 'Star Wars: Visions'
       - Devil May Cry
-    social:
-      x: https://twitter.com/Studiocachette
     added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://vimeo.com/704097664
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      x: https://twitter.com/Studiocachette
   - name: Ellipse Animation
     url: https://www.ellipseanimation.com/
     description: Paris animation producer within Media-Participations, adapting European comics into series and features.
@@ -308,16 +371,20 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - animation
-    careers: https://www.ellipseanimation.com/careers/
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: small
     notable:
       - Yakari
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.ellipseanimation.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/ellipseanimation/
       linkedin: https://www.linkedin.com/company/ellipse-animation/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Hampa Studio
     url: https://hampastudio.com/
     description: Valencia studio making 3D and 2D animation for its own projects and partner productions.
@@ -325,15 +392,20 @@ studios:
       city: Valencia
       country: Spain
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    size: mid
     founded: 2006
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://hampastudio.teamtailor.com/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/hampastudio/
       linkedin: https://es.linkedin.com/company/hampa-studio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: nWave Pictures
     url: https://www.nwave.com/
     description: Brussels studio producing and distributing CG animated feature films.
@@ -341,21 +413,24 @@ studios:
       city: Brussels
       country: Belgium
     disciplines:
-      - animation
+      - 3d-animation
+      - experiential
+    markets:
+      - film
     founded: 1994
-    careers: https://www.nwave.com/jobs
     notable:
       - Fly Me to the Moon
       - The House of Magic
       - Bigfoot Family
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.nwave.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/nwave_studios/
       linkedin: https://linkedin.com/company/nwavestudios
       youtube: https://www.youtube.com/@nWaveStudios
       x: https://twitter.com/nWaveStudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Rainbow
     url: https://www.rbw.it/en/
     description: Italian producer and studio behind kids animation franchises, making CG and 2D series and films.
@@ -363,18 +438,23 @@ studios:
       city: Loreto
       country: Italy
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - film
     founded: 1995
-    careers: https://www.rbw.it/en/work-with-us/
     notable:
       - Winx Club
       - 44 Cats
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.rbw.it/en/work-with-us/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/rainbowspaofficial/
       linkedin: https://www.linkedin.com/company/rainbow-s.p.a./
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Qvisten Animation
     url: https://www.qvisten.no/
     description: Oslo animation studio making features, series and commercial animation.
@@ -382,34 +462,49 @@ studios:
       city: Oslo
       country: Norway
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
       - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: mid
+    founded: 1994
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.qvisten.no/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/qvistenanimation/
       linkedin: https://www.linkedin.com/company/qvistenanimation/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Sun Creature
     url: https://www.suncreature.com/
     description: Copenhagen animation studio making films, series and branded work for games and entertainment clients.
     hq:
       city: Copenhagen
       country: Denmark
-    disciplines:
-      - animation
     offices:
       - city: Bordeaux
         country: France
+    disciplines:
+      - 2d-animation
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - games
+      - advertising
+    size: small
+    founded: 2013
     notable:
       - Flee
-    social:
-      instagram: https://www.instagram.com/suncreaturestudio
-      linkedin: https://www.linkedin.com/company/sun-creature-studio/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/suncreaturestudio
+      linkedin: https://www.linkedin.com/company/sun-creature-studio/
   - name: Bonobostudio
     url: https://bonobostudio.hr/
     description: Zagreb production company making independent animated short and feature films.
@@ -417,32 +512,41 @@ studios:
       city: Zagreb
       country: Croatia
     disciplines:
-      - animation
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    founded: 2008
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/bonobostudio_zagreb/
       vimeo: https://vimeo.com/bonobostudio
       youtube: https://www.youtube.com/@bonobostudio_film
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Animoon
     url: https://animoon.pl/
     description: Polish animation producer making 2D, CG and puppet features, series and shorts.
     hq:
       country: Poland
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - stop-motion
+    markets:
+      - film
+      - episodic
+    founded: 2013
     notable:
       - Even Mice Belong in Heaven
       - Moomins and the Winter Wonderland
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/animoonstudio/
       vimeo: https://vimeo.com/user102968961
       youtube: https://www.youtube.com/user/AnimoonStudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Animagrad
     url: https://www.animagrad.com/
     description: Kyiv full-cycle animation studio producing CG features and series and offering production services.
@@ -450,19 +554,22 @@ studios:
       city: Kyiv
       country: Ukraine
     disciplines:
-      - animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
     founded: 2012
-    careers: https://www.animagrad.com/careers
     notable:
       - 'Mavka: The Forest Song'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.animagrad.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/animagrad/
       linkedin: https://www.linkedin.com/company/17909226/
       vimeo: https://vimeo.com/user44809934
       youtube: https://www.youtube.com/channel/UCV59dmkySNbHwXBa25CZ4pQ
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Studio Ghibli
     url: https://www.ghibli.jp/
     description: Tokyo hand-drawn animation studio making feature films, co-founded by Hayao Miyazaki and Isao Takahata.
@@ -470,7 +577,10 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - film
+    size: mid
     founded: 1985
     notable:
       - Spirited Away
@@ -485,26 +595,30 @@ studios:
     hq:
       city: Tokyo
       country: Japan
-    disciplines:
-      - animation
     offices:
       - city: Osaka
         country: Japan
       - city: Manila
         country: Philippines
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
     size: large
     founded: 1948
-    careers: https://corp.toei-anim.co.jp/ja/recruit.html
     notable:
       - Dragon Ball
       - One Piece
       - Sailor Moon
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://corp.toei-anim.co.jp/ja/recruit.html
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       youtube: https://www.youtube.com/ToeiAnimationjp
       x: https://twitter.com/toeianime_info
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: MAPPA
     url: https://www.mappa.co.jp/
     description: Tokyo anime studio making TV series and films such as Jujutsu Kaisen and Chainsaw Man.
@@ -512,19 +626,23 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 2011
-    careers: https://www.mappa.co.jp/recruit/
     notable:
       - Jujutsu Kaisen
       - Chainsaw Man
       - 'Attack on Titan: The Final Season'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.mappa.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       youtube: https://www.youtube.com/c/MAPPACHANNEL
       x: https://twitter.com/MAPPA_Info
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Production I.G
     url: https://www.production-ig.co.jp/
     description: Tokyo anime studio behind Ghost in the Shell and Haikyu!!, making TV series and feature films.
@@ -532,17 +650,21 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 1987
     notable:
       - 'Ghost in the Shell: Stand Alone Complex'
       - Psycho-Pass
       - Haikyu!!
-    social:
-      x: https://twitter.com/ProductionIG
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      x: https://twitter.com/ProductionIG
   - name: Science SARU
     url: https://sciencesaru.com/
     description: Tokyo anime studio making TV series and feature films with a digital 2D pipeline.
@@ -550,7 +672,11 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
     founded: 2013
     notable:
       - Devilman Crybaby
@@ -566,21 +692,25 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 1983
-    careers: https://www.ppi.co.jp/careers/
     notable:
       - Knights of Sidonia
       - 'Star Wars: Visions'
       - Your Friendly Neighborhood Spider-Man
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.ppi.co.jp/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/polygonpicturesinc/
       linkedin: https://www.linkedin.com/company/polygon-pictures
       youtube: https://www.youtube.com/user/polygonpictures
       x: https://x.com/PPI_CG_anime
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Kyoto Animation
     url: https://www.kyotoanimation.co.jp/
     description: Anime studio near Kyoto that produces TV series and feature films in-house.
@@ -588,43 +718,51 @@ studios:
       city: Uji
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
     founded: 1981
-    careers: https://www.kyotoanimation.co.jp/recruit/
     notable:
       - Violet Evergarden
       - A Silent Voice
       - Sound! Euphonium
-    social:
-      x: https://x.com/kyoani
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.kyotoanimation.co.jp/recruit/
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      x: https://x.com/kyoani
   - name: ufotable
     url: https://www.ufotable.com/
     description: Tokyo anime studio with in-house digital compositing, producing TV series and feature films.
     hq:
       city: Tokyo
       country: Japan
-    disciplines:
-      - animation
     offices:
       - city: Tokushima
         country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 2000
-    careers: https://www.ufotable.co.jp/careers
     notable:
       - 'Demon Slayer: Kimetsu no Yaiba'
       - Fate/Zero
       - Witch on the Holy Night
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.ufotable.co.jp/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/ufotable_inc/
       vimeo: https://vimeo.com/ufotable
       youtube: https://www.youtube.com/@ufotable_inc
       x: https://x.com/ufotable
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Studio Ponoc
     url: https://www.ponoc.jp/
     description: Tokyo hand-drawn animation studio making feature films and shorts, founded by former Studio Ghibli staff.
@@ -632,19 +770,21 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - film
     founded: 2015
-    careers: https://www.ponoc.jp/recruit/
     notable:
       - Mary and the Witch's Flower
       - The Imaginary
       - Modest Heroes
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.ponoc.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       youtube: https://www.youtube.com/c/StudioPonoc
       x: https://twitter.com/ponoc_intl
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Bones
     url: https://www.bones.co.jp/
     description: Tokyo anime studio producing original and adapted TV series and feature films.
@@ -652,14 +792,18 @@ studios:
       city: Tokyo
       country: Japan
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
     founded: 1998
-    careers: https://www.bones.co.jp/recruit/
     notable:
       - 'Fullmetal Alchemist: Brotherhood'
       - My Hero Academia
       - Mob Psycho 100
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.bones.co.jp/recruit/
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Studio Mir
@@ -669,7 +813,10 @@ studios:
       city: Seoul
       country: South Korea
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+    size: mid
     founded: 2010
     notable:
       - The Legend of Korra
@@ -685,59 +832,70 @@ studios:
       city: Hyderabad
       country: India
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - vfx
+    markets:
+      - episodic
+      - film
     founded: 2001
-    careers: https://www.greengold.tv/careers.php
     notable:
       - Chhota Bheem
       - Mighty Little Bheem
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.greengold.tv/careers.php
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/greengoldtv/
       linkedin: https://www.linkedin.com/company/greengoldtv/
       youtube: https://www.youtube.com/@GreenGoldTV
       x: https://x.com/greengoldtv
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Toonz Media Group
     url: https://toonzmediagroup.com/
     description: Animation studio and media group producing and distributing kids series and features, with its studio at Technopark.
     hq:
       city: Thiruvananthapuram
       country: India
-    disciplines:
-      - animation
     offices:
       - city: Dubai
         country: United Arab Emirates
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 1999
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://toonzmediagroup.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/toonzmediagroup/
       linkedin: https://www.linkedin.com/company/toonz-media-group/
       youtube: https://www.youtube.com/@toonzmediagroup
       x: https://twitter.com/toonzmediagroup
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Studio Durga
     url: https://www.studiodurga.com/
     description: Indian independent studio making hand-drawn 2D animation in an anime style for teen and young adult audiences.
     hq:
       country: India
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - film
     founded: 2017
     notable:
       - Karmachakra
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/studiodurga/
       youtube: https://www.youtube.com/c/StudioDurga
       x: https://twitter.com/StudioDurga
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Assemblage Entertainment
     url: https://www.madassemblage.com/
     description: Mumbai CG animation and VFX studio producing features and series for global studios, part of the Cinesite group.
@@ -745,23 +903,28 @@ studios:
       city: Mumbai
       country: India
     disciplines:
-      - animation
+      - 3d-animation
       - vfx
-    careers: https://www.madassemblage.com/careers/
-    reel: https://youtu.be/4-zzuL__viE
+    markets:
+      - film
+      - episodic
+    size: large
+    founded: 2013
     notable:
       - 'Gabby''s Dollhouse: The Movie'
       - Stitch Head
       - Wolf King
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.madassemblage.com/careers/
+    reel: https://youtu.be/4-zzuL__viE
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/madassemblage/
       linkedin: https://www.linkedin.com/company/madassemblage
       vimeo: https://vimeo.com/user44873880
       youtube: https://www.youtube.com/@madassemblage
       x: https://twitter.com/MadAssemblage
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cosmos-Maya
     url: https://cosmos-maya.com/
     description: Mumbai animation studio producing kids series and TV movies for Indian broadcasters and platforms.
@@ -769,18 +932,20 @@ studios:
       city: Mumbai
       country: India
     disciplines:
-      - animation
+      - 3d-animation
+    markets:
+      - episodic
     size: large
     founded: 1996
     notable:
       - Motu Patlu
       - Eena Meena Deeka
-    social:
-      instagram: https://instagram.com/cosmos_maya
-      linkedin: https://www.linkedin.com/company/cosmos-maya-india-pvt-ltd/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/cosmos_maya
+      linkedin: https://www.linkedin.com/company/cosmos-maya-india-pvt-ltd/
   - name: Studio Eeksaurus
     url: https://studioeeksaurus.com/
     description: Mumbai studio making animated shorts, commercials and films across mixed techniques.
@@ -788,14 +953,20 @@ studios:
       city: Mumbai
       country: India
     disciplines:
-      - animation
+      - 2d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - film
+      - music-video
+    founded: 2009
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/studioeeksaurus/
       vimeo: https://vimeo.com/eeksaurus
       youtube: https://www.youtube.com/user/studioeeksaurus
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Monsta
     url: https://monsta.com/
     description: Malaysian studio creating original CG animated series and features for family audiences.
@@ -803,19 +974,22 @@ studios:
       city: Cyberjaya
       country: Malaysia
     disciplines:
-      - animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
     founded: 2009
-    careers: https://monsta.com/monsta-career/
     notable:
       - BoBoiBoy
       - Mechamato
       - Papa Zola The Movie
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://monsta.com/monsta-career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       youtube: https://www.youtube.com/@Monsta
       x: https://x.com/themonstastudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Top Draw Animation
     url: https://www.topdrawanimation.com/
     description: Manila 2D animation studio producing series for global studios on Harmony and Animate pipelines.
@@ -823,19 +997,23 @@ studios:
       city: Manila
       country: Philippines
     disciplines:
-      - animation
+      - 2d-animation
       - outsourcing
+    markets:
+      - episodic
+      - film
+    size: large
     founded: 1999
-    careers: https://www.topdrawanimation.com/careers
     notable:
       - 'My Little Pony: Friendship Is Magic'
       - The Tom and Jerry Show
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.topdrawanimation.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/topdrawanimation_official/
       linkedin: https://www.linkedin.com/company/topdrawanimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Flying Bark Productions
     url: https://www.flyingbark.com.au/
     description: Sydney animation studio producing 2D and CG series and features for global studios.
@@ -843,21 +1021,26 @@ studios:
       city: Sydney
       country: Australia
     disciplines:
-      - animation
-    founded: 1968
-    careers: https://flyingbark.bamboohr.com/jobs/
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1967
     notable:
       - What If...?
       - Marvel's Moon Girl and Devil Dinosaur
       - 'Stranger Things: Tales From ''85'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://flyingbark.bamboohr.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/flyingbarkproductions/
       linkedin: https://au.linkedin.com/company/flying-bark-productions
       youtube: https://www.youtube.com/channel/UCsh6qmzRMZe0LC0smPraLqQ
       x: https://x.com/flyingbark
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Ludo Studio
     url: https://www.ludostudio.com.au/
     description: Brisbane studio producing animated and live-action series and films.
@@ -865,42 +1048,50 @@ studios:
       city: Brisbane
       country: Australia
     disciplines:
-      - animation
+      - 2d-animation
       - live-action
+    markets:
+      - episodic
+      - film
+    founded: 2012
     notable:
       - Bluey
       - The Bluey Movie
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/ludostudio
       linkedin: https://www.linkedin.com/company/ludo-studio/
       youtube: https://www.youtube.com/channel/UCdk-MzCvI3PsudraNEzST5w
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Studio Moshi
     url: https://studiomoshi.com/
     description: Melbourne 2D animation studio producing primetime and kids series, specials and features.
     hq:
       city: Melbourne
       country: Australia
-    disciplines:
-      - animation
     offices:
       - city: Los Angeles, CA
         country: United States
       - city: Dublin
         country: Ireland
-    reel: https://studiomoshi.com/reel
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2005
     notable:
       - Solar Opposites
       - Where Is Anne Frank
       - Monster Beach
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://studiomoshi.com/reel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/studiomoshi
       linkedin: https://www.linkedin.com/company/studiomoshi/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Punkrobot
     url: https://punkrobot.cl/
     description: Santiago animation studio making shorts, series and advertising, including the short Bear Story.
@@ -908,18 +1099,24 @@ studios:
       city: Santiago
       country: Chile
     disciplines:
-      - animation
-    careers: https://punkrobot.cl/trabajo/
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2008
     notable:
       - Bear Story
       - 'Star Wars: Visions (In the Stars)'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://punkrobot.cl/trabajo/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/punkrobotstudio/
       vimeo: https://vimeo.com/punkrobotstudio
       x: https://twitter.com/punkrobotstudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Pájaro
     url: https://www.pajaro.cl/
     description: Santiago animation studio making original and commissioned animated work.
@@ -927,15 +1124,18 @@ studios:
       city: Santiago
       country: Chile
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
     reel: https://www.pajaro.cl/reel.html
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/pajaropip/
       linkedin: https://www.linkedin.com/company/pajaro
       youtube: https://www.youtube.com/channel/UCGl8bIGHxngU27yKqKqLanQ
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Birdo
     url: https://www.birdo.com.br/
     description: São Paulo animation studio producing series, shorts and commercials.
@@ -943,15 +1143,20 @@ studios:
       city: São Paulo
       country: Brazil
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - brand
+    founded: 2005
     notable:
       - Oswaldo
-    social:
-      instagram: https://instagram.com/birdostudio
-      vimeo: https://vimeo.com/birdostudio
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/birdostudio
+      vimeo: https://vimeo.com/birdostudio
   - name: Triggerfish Animation Studios
     url: https://www.triggerfish.com/
     description: Cape Town animation studio producing CG and 2D features, specials and series.
@@ -959,19 +1164,24 @@ studios:
       city: Cape Town
       country: South Africa
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    size: mid
     founded: 1996
-    careers: https://careers.triggerfish.com/
     notable:
       - Revolting Rhymes
       - Zog
       - 'Kizazi Moto: Generation Fire'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://careers.triggerfish.com/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/triggerfishanimationstudios/
       x: https://twitter.com/triggerfish
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Kugali
     url: https://kugali.com/
     description: Lagos media company creating African animated series and comics.
@@ -979,7 +1189,9 @@ studios:
       city: Lagos
       country: Nigeria
     disciplines:
-      - animation
+      - 3d-animation
+    markets:
+      - episodic
     notable:
       - Iwájú
     added_at: '2026-10-30T21:40:17.280Z'

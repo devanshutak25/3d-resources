@@ -66,8 +66,9 @@ Studios have their own directory at [/studios/](https://3d.devanshutak.xyz/studi
   description: VFX and animation house for feature film, episodic, advertising and immersive work.
   hq: { city: London, country: United Kingdom }
   offices: [{ city: Montreal, country: Canada }]   # optional
-  disciplines: [vfx, animation, xr]                # closed list, see schema
-  size: large                                      # optional: boutique (<=20), mid (21-150), large (150+)
+  disciplines: [vfx, 3d-animation, xr]             # closed list, see schema
+  markets: [film, episodic, advertising]           # optional: film, episodic, advertising, music-video, games, brand
+  size: large                                      # optional, LinkedIn company size: boutique 1-10, small 11-50, mid 51-200, large 201+
   founded: 1986                                    # optional
   careers: https://www.framestore.com/careers      # optional
   notable: [Gravity, Paddington 2]                 # optional, max 4

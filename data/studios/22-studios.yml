@@ -1,0 +1,1132 @@
+studios:
+  - name: MR. X
+    url: https://mrxfx.com/
+    description: VFX studio in Toronto doing visual effects, creatures, environments and art direction for film and TV, relaunched under its original name.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2001
+    notable:
+      - Frankenstein
+      - The Boys
+      - 'IT: Welcome to Derry'
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://mrxfx.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/_mrxfx/
+      youtube: https://www.youtube.com/@MRXINCVFX
+    notes: Site describes a relaunch; ownership not stated on the page.
+  - name: Luma Pictures
+    url: https://www.lumapictures.com/
+    description: Independent VFX studio in Santa Monica building visual effects and the tools behind them for feature films and series.
+    hq:
+      city: Santa Monica
+      country: United States
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: large
+    founded: 2002
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/lumapictures/
+      linkedin: https://www.linkedin.com/company/luma-inc
+  - name: JAMM
+    url: https://www.jammvisual.com/
+    description: Artist-run VFX studio in Culver City doing 2D and 3D visual effects and color finishing for commercials and entertainment.
+    hq:
+      city: Culver City
+      country: United States
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    size: mid
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.jammvisual.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/jamm.vfx/
+      linkedin: https://www.linkedin.com/company/jamm-visual
+  - name: Pixel Magic
+    url: https://www.pixelmagicfx.com/
+    description: VFX studio in Toluca Lake, Los Angeles providing visual effects, 3D animation and compositing for motion pictures and TV.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 1985
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/pixel-magic/
+  - name: Alchemy 24
+    url: https://www.alchemy24.com/
+    description: VFX boutique in Montreal doing compositing, matte painting, set extensions and on-set supervision for film and TV, part of Rodeo FX.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/alchemy24/
+      vimeo: https://vimeo.com/alchemy24vfx
+  - name: Sinking Ship Entertainment
+    url: https://www.sinkingship.ca/
+    description: Toronto production company making live-action and animated kids series with in-house VFX and CG, plus games and apps.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - live-action
+      - vfx
+      - 3d-animation
+    markets:
+      - episodic
+    size: mid
+    founded: 2004
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/sinkingshipent/
+      linkedin: https://www.linkedin.com/company/sinking-ship-entertainment/
+      youtube: https://www.youtube.com/channel/UCdNmlmZh1tn2x2-sQBzYKBw
+      x: https://x.com/sinkingshipent
+  - name: Vine FX
+    url: https://www.vinefx.com/
+    description: Artist-led VFX studio in Cambridge creating creatures, CG environments, matte painting and postvis for film and TV.
+    hq:
+      city: Cambridge
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - previs
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2007
+    notable:
+      - The Lazarus Project
+      - Fantastic Beasts
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://jobs.vinefx.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/vine.fx/
+      linkedin: https://www.linkedin.com/company/vinefx
+      youtube: https://www.youtube.com/@Vine-FX
+      x: https://twitter.com/vinefx
+  - name: REALTIME
+    url: https://realtimeuk.com/
+    description: CGI studio in Manchester making game trailers, cinematics, cut-scenes, VFX and automotive content for publishers and brands.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    disciplines:
+      - cinematics
+      - cg
+      - vfx
+      - product-viz
+    markets:
+      - games
+      - advertising
+      - episodic
+    size: mid
+    founded: 1996
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://careers.realtimeuk.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/realtime_studio
+      linkedin: https://www.linkedin.com/company/realtime-studio
+      vimeo: https://vimeo.com/realtimestudio
+      youtube: https://www.youtube.com/channel/UC9UX7iuc2UjJJnBOnNsw85w
+      x: https://x.com/REALTIME_Studio
+  - name: Flix Interactive
+    url: https://www.flixinteractive.com/
+    description: Unreal Engine co-development studio in Bromsgrove providing art, gameplay engineering, animation and design for AAA games.
+    hq:
+      city: Bromsgrove
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2012
+    notable:
+      - Borderlands 4
+      - Sea of Thieves
+      - Sniper Elite 5
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.flixinteractive.com/#careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/flixinteractive/
+      linkedin: https://www.linkedin.com/company/flix-interactive-limited/
+      x: https://twitter.com/flixinteractive
+  - name: Arqui9
+    url: https://www.arqui9.com/
+    description: 3D studio in London producing architectural visualisation, animation and immersive content for architects and developers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    size: small
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/arqui9
+      linkedin: https://www.linkedin.com/company/arqui9-visualisation
+      youtube: https://youtube.com/arqui9visualisation
+      behance: https://www.behance.net/Arqui9
+    notes: LinkedIn lists Reigate as HQ; the studio's site says London.
+  - name: Secchi Smith
+    url: https://www.secchismith.com/
+    description: Architectural visualisation studio in London and Florence making CGIs and animations for architects, designers and developers.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Florence
+        country: Italy
+    disciplines:
+      - archviz
+    size: boutique
+    founded: 2019
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/secchi_smith/
+      linkedin: https://www.linkedin.com/company/secchi-smith
+  - name: Visualisation One
+    url: https://visualisation.one/
+    description: Architectural visualisation consultancy making CGI, film and immersive content for developers and luxury brands, with UK, US and Dubai studios.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Chester
+        country: United Kingdom
+      - city: New York
+        country: United States
+      - city: Dubai
+        country: United Arab Emirates
+    disciplines:
+      - archviz
+      - cg
+    size: small
+    founded: 1999
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/visualisationone/
+      linkedin: https://www.linkedin.com/company/visualisation-one-ltd
+  - name: SPINE
+    url: https://spine3d.com/
+    description: Visualization studio in Fort Lauderdale making 3D renderings, animation, VR and 360 sales tools for real estate developers and product brands.
+    hq:
+      city: Fort Lauderdale
+      country: United States
+    disciplines:
+      - archviz
+      - product-viz
+      - xr
+    markets:
+      - brand
+    founded: 2003
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Animation Vertigo
+    url: https://www.animationvertigo.com/
+    description: Motion capture services firm near Salt Lake City doing mocap tracking, cleanup and animation for games, film and TV, with a team in Manila.
+    hq:
+      city: Cottonwood Heights
+      country: United States
+    offices:
+      - city: Manila
+        country: Philippines
+    disciplines:
+      - mocap
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+      - film
+      - episodic
+    size: mid
+    founded: 2004
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Homepage blocks bots (503) for curl; WebFetch showed it live with 2026 copyright.
+  - name: SuperAlloy Interactive
+    url: https://superalloyinteractive.com/
+    description: Motion capture studio doing action design, fight choreography, stunt mocap, animation cleanup and previs for games and film.
+    hq:
+      city: North Las Vegas
+      country: United States
+    disciplines:
+      - mocap
+      - previs
+      - 3d-animation
+    markets:
+      - games
+      - film
+    size: boutique
+    notable:
+      - Ghost of Yotei
+      - God of War Ragnarok
+      - The Electric State
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/superalloyinteractive/
+      linkedin: https://www.linkedin.com/company/superalloy-interactive/
+      youtube: https://www.youtube.com/channel/UCUW2XbWEYkGh70LfXx3rmrA
+  - name: Track VFX
+    url: https://www.trackvfx.com/
+    description: VFX studio in Vancouver doing camera and object tracking, body matchmove, layout, previs, techvis and postvis for film and TV.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - vfx
+      - previs
+      - outsourcing
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2018
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.trackvfx.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/trackvfx/
+      linkedin: https://www.linkedin.com/company/trackvfx/
+      youtube: https://www.youtube.com/@trackvfx6760
+  - name: Distillery VFX
+    url: https://www.distilleryvfx.com/
+    description: Boutique VFX studio in Vancouver focused on environments, FX and compositing for streaming series and feature films.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2019
+    notable:
+      - The Last of Us
+      - 'Monarch: Legacy of Monsters'
+      - 'Tron: Ares'
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.distilleryvfx.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/distilleryvfx/
+      linkedin: https://www.linkedin.com/company/distilleryvfx
+    notes: Site says established 2019; LinkedIn says founded 2020.
+  - name: Black Kite Studios
+    url: https://blackkitestudios.com/
+    description: Independent, talent-first VFX and design studio in Shoreditch, London, run as a collective of effects artists and designers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    size: mid
+    founded: 2019
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/blackkitestudios
+      linkedin: https://www.linkedin.com/company/blackkitestudios
+      vimeo: https://vimeo.com/blackkitestudios
+  - name: Real by Fake
+    url: https://www.realbyfake.com/
+    description: VFX and post-production house in Montreal delivering photoreal effects for features, series, commercials and music videos.
+    hq:
+      city: Montreal
+      country: Canada
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Mexico City
+        country: Mexico
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    size: small
+    founded: 1997
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/realbyfake/
+      linkedin: https://www.linkedin.com/company/fake-studio/
+    notes: Site footer shows 2024; LinkedIn lists ~97 employees against an 11-50 size band.
+  - name: Millerhare
+    url: https://www.millerhare.com/
+    description: Visualisation studio in London making still, animated and interactive presentations of unbuilt architecture for developers and architects.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+    size: mid
+    founded: 1992
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.millerhare.com/jobs.htm
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/wearemillerhare
+      linkedin: https://www.linkedin.com/company/miller-hare-limited/
+      x: https://twitter.com/millerhare
+  - name: Glass Canvas
+    url: https://www.glass-canvas.co.uk/
+    description: Architectural visualisation studio in London and Sheffield making CGIs, animated films, verified views and VR for architects and developers.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Sheffield
+        country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+    size: small
+    founded: 2001
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/glasscanvascgi/
+      linkedin: https://www.linkedin.com/company/glass-canvas/
+      x: https://twitter.com/GlassCanvas/
+  - name: Baobab Studios
+    url: https://www.baobabstudios.com/
+    description: Interactive animation studio in Redwood City building animated series, games and immersive stories from original and licensed IP.
+    hq:
+      city: Redwood City
+      country: United States
+    disciplines:
+      - 3d-animation
+      - xr
+      - games
+    markets:
+      - episodic
+      - games
+    size: small
+    founded: 2015
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.baobabstudios.com/about#careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/baobabstudios
+      linkedin: https://www.linkedin.com/company/baobab-studios-inc-
+      youtube: https://www.youtube.com/baobabstudios
+      x: https://x.com/baobabstudios
+  - name: Fettle Animation
+    url: https://fettleanimation.com/
+    description: 2D animation studio in Marsden, Yorkshire making hand-drawn and digital animation for broadcast, games and brands.
+    hq:
+      city: Marsden
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - games
+      - advertising
+    size: boutique
+    founded: 2012
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://fettleanimation.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/fettleanimation/
+      linkedin: https://www.linkedin.com/company/fettle-animation
+      youtube: https://www.youtube.com/user/FettleAnimation
+      x: https://twitter.com/fettleanimation
+  - name: Cloth Cat
+    url: https://clothcat.com/
+    description: Independent animation and games studio in Cardiff making 2D and 3D series and co-developing games for PC, console and mobile.
+    hq:
+      city: Cardiff
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - games
+      - outsourcing
+    markets:
+      - episodic
+      - games
+    size: small
+    founded: 2012
+    notable:
+      - The Rubbish World of Dave Spud
+      - Howie
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://clothcat.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/clothcatstudio/
+      linkedin: https://uk.linkedin.com/company/cloth-cat-studio
+      youtube: https://www.youtube.com/@ClothCatStudio
+  - name: Mainframe Studios
+    url: https://www.mainframe.ca/
+    description: Animation studio in Vancouver developing IP and producing CG and 2D series and films such as Barbie Dreamhouse Adventures.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1993
+    notable:
+      - ReBoot
+      - Barbie Dreamhouse Adventures
+      - 'Octonauts: Above and Beyond'
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.mainframe.ca/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mainframestudios/
+      youtube: https://www.youtube.com/@MainframeStudios
+      x: https://x.com/MainframeAnim
+    notes: Division of WOW! Unlimited Media.
+  - name: Floyd County Productions
+    url: https://www.floydcountyproductions.tv/
+    description: Animation studio and production company in Atlanta making adult animated series and live action, creators of Archer.
+    hq:
+      city: Atlanta
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - live-action
+    markets:
+      - episodic
+      - film
+    founded: 2009
+    notable:
+      - Archer
+      - Hit-Monkey
+      - 'America: The Motion Picture'
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Homepage meta description shows unrelated text (concrete pumps), but page body is the studio's; may need a look.
+  - name: Lexhag
+    url: https://www.lexhag.co.uk/
+    description: Effects facility at Garden Studios, London covering sequence design, on-set technology and post-production VFX for film and TV drama.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+    founded: 2009
+    notable:
+      - The Thursday Murder Club
+      - Gangs of London
+      - Black Doves
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Glitch Productions
+    url: https://www.glitchprod.com/
+    description: Independent animation studio in Sydney making original animated web series for YouTube, aimed at teen and young adult audiences.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+    size: large
+    founded: 2017
+    notable:
+      - The Amazing Digital Circus
+      - Murder Drones
+      - Meta Runner
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.glitchprod.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/glitch_prod
+      youtube: https://www.youtube.com/@GLITCH
+      x: https://twitter.com/glitch_prod
+    notes: Wikipedia places the studio in Parramatta, Greater Sydney.
+  - name: Big Ant Studios
+    url: https://bigant.com/
+    description: Melbourne game developer building licensed sports games such as cricket, rugby league and AFL titles for console and PC.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2000
+    notable:
+      - Cricket 24
+      - AFL 23
+      - Rugby League Live 4
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://bigant.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bigantstudios
+      linkedin: https://au.linkedin.com/company/big-ant-studios
+      youtube: https://www.youtube.com/@bigantstudios
+      x: https://twitter.com/BigAntStudios
+    notes: Owned by Nacon since 2021. Size from Wikipedia headcount (170).
+  - name: Halfbrick
+    url: https://www.halfbrick.com/
+    description: Brisbane game studio making mobile and console games, including Fruit Ninja, Jetpack Joyride and Dan the Man.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2001
+    notable:
+      - Fruit Ninja
+      - Jetpack Joyride
+      - Dan the Man
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.halfbrick.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/halfbrick
+      youtube: https://www.youtube.com/user/HalfbrickStudios
+      x: https://twitter.com/Halfbrick
+  - name: League of Geeks
+    url: https://leagueofgeeks.com/
+    description: Independent game studio in Melbourne making strategy and digital board game titles such as Armello and Solium Infernum.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2011
+    notable:
+      - Armello
+      - Solium Infernum
+      - Jumplight Odyssey
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://leagueofgeeks.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/league.of.geeks
+      youtube: https://www.youtube.com/user/LeagueofGeeks
+      x: https://twitter.com/leagueofgeeks
+  - name: PlaySide Studios
+    url: https://playsidestudios.com/
+    description: Melbourne game developer and publisher making original titles and running external development on licensed IP for mobile, PC and console.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Gold Coast
+        country: Australia
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    size: large
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://playsidestudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/playsidestudios
+      linkedin: https://au.linkedin.com/company/playside
+      youtube: https://www.youtube.com/channel/UCfC6BUDu720tFtLdQ686rBw
+      x: https://x.com/PlaySide
+    notes: Site states 270+ staff and founded in 2011; Wikipedia gives 2012 launch and 261 staff.
+  - name: SMG Studio
+    url: https://smgstudio.com/
+    description: Independent game studio in Sydney making original and licensed games for console, PC and mobile, including Moving Out and Death Squared.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Brisbane
+        country: Australia
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2013
+    notable:
+      - Moving Out
+      - Death Squared
+      - Lego Party
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://smgstudio.com/jobs/eoi
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/weareSMGstudio
+      x: https://twitter.com/SMGstudio
+    notes: Site returns 403 to some fetchers; homepage verified live via direct request.
+  - name: Mighty Kingdom
+    url: https://www.mightykingdom.com/
+    description: Australian game developer making licensed and original games for mobile, PC and console with brands such as Hasbro, Paramount and LEGO.
+    hq:
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - 'Star Trek Lower Decks: The Badgey Directive'
+      - Power Rangers Mighty Force
+      - Gabby's Dollhouse
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.mightykingdom.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mightykingdom
+      linkedin: https://www.linkedin.com/company/mighty-kingdom
+      x: https://twitter.com/mightykingdom
+    notes: Site acknowledges Kaurna land (Adelaide area) but names no city.
+  - name: Krome Studios
+    url: https://www.kromestudios.com/
+    description: Brisbane game developer behind the Ty the Tasmanian Tiger series, also making work-for-hire titles for publishers across consoles.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1999
+    notable:
+      - Ty the Tasmanian Tiger
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/TheKromeStudios
+      x: https://twitter.com/kromestudios
+  - name: Like A Photon Creative
+    url: https://likeaphoton.com/
+    description: Independent animation studio in Queensland making family feature films and preschool series such as Balloon Barnyard for Disney Junior.
+    hq:
+      country: Australia
+    offices:
+      - city: Dublin
+        country: Ireland
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - The Pout-Pout Fish
+      - Balloon Barnyard
+      - The Tales from Sanctuary City
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/likeaphoton
+      linkedin: https://au.linkedin.com/company/like-a-photon
+  - name: Princess Bento
+    url: https://www.princessbento.com/
+    description: Adult animation studio in South Melbourne producing 2D series for networks such as Adult Swim, with credits on Smiling Friends and YOLO.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Smiling Friends
+      - YOLO
+      - Hazbin Hotel
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: http://careers.princessbento.com/
+    reel: https://www.princessbento.com/showreel
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/princessbentostudio
+      linkedin: https://www.linkedin.com/company/princess-bento-studios
+    notes: Co-owned by Princess Pictures per Wikipedia (Princess Pictures article).
+  - name: Resin
+    url: https://www.resin.com.au/
+    description: Independent VFX studio in South Australia delivering visual effects for feature films and episodic series, including around 200 shots for Elvis.
+    hq:
+      country: Australia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2004
+    notable:
+      - Elvis
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://au.linkedin.com/company/resin
+  - name: Studio Blackbird
+    url: https://studioblackbird.com.au/
+    description: Independent VFX studio in Surry Hills, Sydney creating visual effects for feature films, episodic drama and special projects.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2013
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Formation Effects
+    url: https://formationeffects.com/
+    description: Brisbane practical and visual effects company making creatures, specialty props, FX makeup and VFX for film and television.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Deadloch
+      - Beast of War
+      - Monarch
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://formationeffects.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/formation.effects
+      linkedin: https://www.linkedin.com/company/formation-effects
+  - name: Future Associate
+    url: https://www.future-associate.com/
+    description: Independent VFX studio in Sydney delivering creature, FX simulation, environment and compositing work for feature films and series.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    notable:
+      - Mortal Kombat II
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.future-associate.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/future-associate
+      vimeo: https://vimeo.com/user109823447
+  - name: ModelFarm
+    url: https://modelfarm.com.au/
+    description: Creative studio in Adelaide and Brisbane producing VFX, animation and virtual production for film and television.
+    hq:
+      city: Adelaide
+      country: Australia
+    offices:
+      - city: Brisbane
+        country: Australia
+    disciplines:
+      - vfx
+      - virtual-production
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Spartacus: House of Ashur'
+      - The Portable Door
+      - Beast of War
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Stage23
+    url: https://www.stage23.com/
+    description: Artist-run VFX and animation studio at Fox Studios Sydney creating design-led visual effects for film and television.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/stage23vfx
+      linkedin: https://www.linkedin.com/company/stage23
+  - name: Supervixen
+    url: https://www.supervixen.com.au/
+    description: Sydney design, direction and VFX studio taking projects from concept design through to in-house visual effects for brands and film.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/supervixen_creative
+      linkedin: https://www.linkedin.com/company/supervixen
+      x: https://x.com/SupervixenC
+  - name: Mukpuddy Animation
+    url: https://mukpuddy.com/
+    description: Auckland 2D animation studio making original comedy cartoons, series and mobile games for kids and family audiences.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 2d-animation
+      - games
+    markets:
+      - episodic
+      - advertising
+    founded: 2002
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mukpuddy
+      youtube: https://www.youtube.com/user/mukpuddy
+      x: https://x.com/Mukpuddy
+    notes: Site says started in 2002; Wikipedia infobox gives 2003.
+  - name: Grinding Gear Games
+    url: https://grindinggear.com/
+    description: Auckland game developer making the online action RPG Path of Exile and its sequel for PC and console.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2006
+    notable:
+      - Path of Exile
+      - Path of Exile 2
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://grindinggear.com/?page=careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Majority owned by Tencent since 2018.
+  - name: Ninja Kiwi
+    url: https://ninjakiwi.com/
+    description: Auckland game developer making the Bloons and Bloons Tower Defense series for mobile, PC and console players.
+    hq:
+      city: Auckland
+      country: New Zealand
+    offices:
+      - city: Dundee
+        country: United Kingdom
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2006
+    notable:
+      - Bloons
+      - Bloons Tower Defense
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/c/NinjaKiwiGames
+    notes: Owned by Modern Times Group since 2021.
+  - name: PikPok
+    url: https://pikpok.com/
+    description: Wellington game developer and publisher making mobile and console games, including the Into the Dead zombie series.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1997
+    notable:
+      - Into the Dead
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://apply.workable.com/pikpok/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/pikpokofficial
+      linkedin: https://www.linkedin.com/company/pikpok
+      youtube: https://www.youtube.com/user/pikpokgames
+      x: https://twitter.com/pikpokgames
+  - name: RocketWerkz
+    url: https://rocketwerkz.com/
+    description: Independent New Zealand game studio making survival and simulation games including Icarus, Stationeers and Kitten Space Agency.
+    hq:
+      city: Auckland
+      country: New Zealand
+    offices:
+      - city: Dunedin
+        country: New Zealand
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2014
+    notable:
+      - Icarus
+      - Stationeers
+      - Kitten Space Agency
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://careers.rocketwerkz.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/rocketwerkzstudios
+      youtube: https://www.youtube.com/rocketwerkz
+      x: https://twitter.com/rocketwerkz
+  - name: Wētā Workshop
+    url: https://www.wetaworkshop.com/
+    description: Wellington design and effects company making concept design, creatures, props, games and immersive experiences for film and TV.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - experiential
+      - games
+    markets:
+      - film
+      - episodic
+      - games
+    founded: 1987
+    notable:
+      - The Lord of the Rings
+    added_at: '2026-10-31T05:09:10.966Z'
+    careers: https://www.wetaworkshop.com/about-us/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/wetaworkshop
+      linkedin: https://www.linkedin.com/company/weta-workshop-ltd
+      youtube: https://www.youtube.com/channel/UCCBJv-2y0qRjM9E2tSGtT7Q
+      x: https://x.com/wetaworkshop
+    notes: Separate company from Wētā FX (already listed). Mostly physical design and fabrication.

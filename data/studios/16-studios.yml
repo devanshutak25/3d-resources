@@ -7,16 +7,19 @@ studios:
       country: United Kingdom
     disciplines:
       - title-design
+    markets:
+      - film
+      - episodic
     notable:
       - Brazil
       - Batman
       - 'Sweeney Todd: The Demon Barber of Fleet Street'
-    social:
-      linkedin: https://www.linkedin.com/company/2369360/
-      x: https://twitter.com/morrisonstudio
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      linkedin: https://www.linkedin.com/company/2369360/
+      x: https://twitter.com/morrisonstudio
   - name: Huge Designs
     url: https://www.hugedesigns.com/
     description: London motion graphics studio specialising in title sequences for film and television.
@@ -26,15 +29,20 @@ studios:
     disciplines:
       - title-design
       - motion-design
+    markets:
+      - film
+      - episodic
+    size: boutique
+    founded: 1993
     notable:
       - The Walking Dead
       - The Son
       - Magpie Murders
-    social:
-      instagram: https://instagram.com/hugedesigns_london/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/hugedesigns_london/
   - name: CHIPS
     url: https://chips.nyc/
     description: Brooklyn design and development studio making film titles, identities and websites for film studios and cultural clients.
@@ -43,6 +51,10 @@ studios:
       country: United States
     disciplines:
       - title-design
+    markets:
+      - film
+      - episodic
+      - brand
     notable:
       - Nosferatu
       - Wicked
@@ -59,10 +71,1158 @@ studios:
     disciplines:
       - cg
       - product-viz
+    markets:
+      - advertising
+    size: boutique
+    founded: 2015
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/boomcgi/
       linkedin: https://www.linkedin.com/company/boom-cgi
       x: https://x.com/boomcgi
-    added_at: '2026-10-30T21:40:17.280Z'
+  - name: Marza Animation Planet
+    url: https://www.marza.com/
+    description: CG animation studio in Tokyo producing full-CG feature films, series and music videos for Japanese and global audiences.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Burbank
+        country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - film
+      - episodic
+      - music-video
+    size: mid
+    founded: 2005
+    notable:
+      - Sonic x Shadow Tokyo Mission
+      - Tabekko Dobutsu The Movie
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://www.marza.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/marza_animation_planet/
+      youtube: https://www.youtube.com/channel/UCQSx1FMRP4t50_Nr80tE9iA
+      x: https://twitter.com/marza_official
+    notes: About page lists 150 employees.
+  - name: Digital Frontier
+    url: https://www.dfx.co.jp/
+    description: CG and VFX production house in Tokyo making film VFX, CG anime and game cutscenes, with its own motion capture studio.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+      - cinematics
+      - 3d-animation
+      - mocap
+    markets:
+      - film
+      - games
+      - episodic
+    size: large
+    founded: 1993
+    notable:
+      - Summer Wars
+      - Resident Evil 4
+      - Tekken 8
+    added_at: '2026-10-31T05:09:10.953Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Wikipedia lists 265 employees; homepage is a JS shell but live.
+  - name: OLM
+    url: https://www.olm.co.jp/
+    description: Animation group in Tokyo producing anime series, full CG work and VFX, including the long-running Pokémon TV anime.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Cyberjaya
+        country: Malaysia
+      - city: Bangkok
+        country: Thailand
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1994
+    notable:
+      - Pokémon (TV anime)
+      - The Apothecary Diaries
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://www.olm.co.jp/recruit
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/OLMGROUP
+    notes: About page lists OLM, Inc. at 204 employees (2025/3); LA office is group company Sprite Animation Studios.
+  - name: Orange
+    url: https://www.orange-cg.com/
+    description: 3DCG animation studio in Tokyo making cel-look CG anime series and films, plus game and short-form work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+      - games
+    size: mid
+    founded: 2004
+    notable:
+      - Land of the Lustrous
+      - Beastars
+      - Trigun Stampede
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://www.orange-cg.com/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cg_orange_inc/
+      youtube: https://www.youtube.com/channel/UCPpZ2HSOn-pyaOAJ8Cx-0yw
+      x: https://twitter.com/cg_orange_inc
+    notes: 'Company page: about 180 staff (Jan 2026).'
+  - name: SANZIGEN
+    url: https://www.sanzigen.co.jp/
+    description: 3DCG anime studio in Tokyo blending cel-look CG with hand-drawn style for TV series, films and music videos.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kyoto
+        country: Japan
+      - city: Nagoya
+        country: Japan
+      - city: Fukuoka
+        country: Japan
+      - city: Kanazawa
+        country: Japan
+      - city: Kobe
+        country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+      - music-video
+    size: large
+    founded: 2006
+    notable:
+      - BanG Dream!
+      - Arpeggio of Blue Steel
+      - The Heroic Legend of Arslan
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://www.sanzigen.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/@sanzigenchannel
+      x: https://x.com/SANZIGEN_INC
+    notes: 'Wikipedia: 320 employees (June 2022).'
+  - name: TRIGGER
+    url: https://www.st-trigger.co.jp/
+    description: Anime studio in Tokyo making original and adapted TV series and feature films in a bold, high-energy 2D style.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Fukuoka
+        country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2011
+    notable:
+      - Kill la Kill
+      - Promare
+      - 'Cyberpunk: Edgerunners'
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://www.st-trigger.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/trigger_inc/
+      youtube: https://www.youtube.com/user/studiotrigger
+      x: https://x.com/trigger_inc
+  - name: CoMix Wave Films
+    url: https://www.cwfilms.jp/
+    description: Animation studio and distributor in Tokyo producing Makoto Shinkai's feature films and other anime features and series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2007
+    notable:
+      - Your Name
+      - Weathering with You
+      - Suzume
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://www.cwfilms.jp/hr/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cwfilms_official/
+      youtube: https://www.youtube.com/user/cwfilms/videos
+      x: https://twitter.com/cwf_staff
+  - name: WIT STUDIO
+    url: https://www.witstudio.co.jp/
+    description: Anime studio in Tokyo producing TV series and films, with credits running from Attack on Titan to Spy x Family.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 2012
+    notable:
+      - Attack on Titan
+      - Ranking of Kings
+      - Vinland Saga
+    added_at: '2026-10-31T05:09:10.953Z'
+    careers: https://recruit.witstudio.co.jp/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/wit_studio/
+      youtube: https://www.youtube.com/@witstudio3461
+      x: https://x.com/WIT_STUDIO
+    notes: 'Wikipedia: 311 employees (May 2025).'
+  - name: CloverWorks
+    url: https://www.cloverworks.co.jp/
+    description: Anime studio in Tokyo, spun off from A-1 Pictures, producing TV series and films such as Bocchi the Rock! and Spy x Family.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 2018
+    notable:
+      - Bocchi the Rock!
+      - The Promised Neverland
+      - My Dress-Up Darling
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://cloverworks.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/CloverWorks
+    notes: 'Wikipedia: 258 employees (Feb 2026).'
+  - name: STUDIO4°C
+    url: https://www.studio4c.co.jp/
+    description: Animation studio in Tokyo making auteur-driven anime features, shorts and anthology segments since 1986.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 1986
+    notable:
+      - Tekkonkinkreet
+      - Mind Game
+      - Children of the Sea
+    added_at: '2026-10-31T05:09:10.954Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/portstudio4c
+      x: https://twitter.com/STUDIO4C
+  - name: MADHOUSE
+    url: https://www.madhouse.co.jp/
+    description: Anime studio in Tokyo producing TV series and feature films since 1972, from Perfect Blue to Frieren.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1972
+    notable:
+      - Perfect Blue
+      - Death Note
+      - 'Frieren: Beyond Journey''s End'
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.madhouse.co.jp/recruit
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/madhouse_news
+    notes: 'Wikipedia: 70 employees incl. contractors.'
+  - name: khara
+    url: https://www.khara.co.jp/
+    description: Animation studio in Tokyo founded by Hideaki Anno, producing the Rebuild of Evangelion films plus anime and live-action projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - cg
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2006
+    notable:
+      - Rebuild of Evangelion
+      - Mobile Suit Gundam GQuuuuuuX
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.khara.co.jp/recruiting/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UCM4FwhxLYLHlOSPnfxmxSQw
+      x: https://x.com/khara_inc
+    notes: 'Wikipedia: 90 employees.'
+  - name: Kamikaze Douga
+    url: https://www.kamikazedouga.co.jp/
+    description: CG and animation studio in Tokyo making anime films, opening sequences and game cinematics with a stylised 3D look.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+      - title-design
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - games
+    size: mid
+    founded: 2003
+    notable:
+      - Batman Ninja
+      - Pop Team Epic
+      - JoJo's Bizarre Adventure (openings)
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://recruit.kamikazedouga.co.jp/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/kamikazedouga
+      linkedin: https://www.linkedin.com/company/kamikazedouga/
+      youtube: https://www.youtube.com/channel/UCKnKSi9-SXOp8AZSDsDvEFg
+      x: https://twitter.com/kamikazenosyain
+    notes: 'Wikipedia: 73 employees.'
+  - name: Graphinica
+    url: https://www.graphinica.com/
+    description: Animation studio in Tokyo mixing 3DCG and 2D for anime series and films, plus cutscenes for console games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - cg
+      - cinematics
+    markets:
+      - episodic
+      - film
+      - games
+    size: large
+    founded: 2009
+    notable:
+      - Expelled from Paradise
+      - Hello World
+      - Xenoblade Chronicles (cutscenes)
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.graphinica.com/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/graphinica
+    notes: 'Wikipedia: 280 employees (July 2024).'
+  - name: OMNIBUS JAPAN
+    url: https://www.omnibusjp.com/
+    description: Post-production and CG/VFX house in Tokyo making commercials, broadcast content, 3D signage, XR and LED virtual production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - xr
+      - virtual-production
+    markets:
+      - advertising
+      - episodic
+      - film
+    size: large
+    founded: 1987
+    notable:
+      - Shinjuku 3D Cat
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.omnibusjp.com/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/omnibus_japan/
+      youtube: https://www.youtube.com/channel/UCQfyJm_Xnzbkch4gxgI5Tdw
+      x: https://twitter.com/OMNIBUSJAPAN
+    notes: 'Profile: 229 employees (Apr 2026); Tohoku Shinsha group company.'
+  - name: TMS Entertainment
+    url: https://www.tms-e.co.jp/
+    description: Anime studio in Tokyo producing long-running TV series and films such as Detective Conan and Lupin the Third.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1946
+    notable:
+      - Detective Conan
+      - Lupin the Third
+      - Anpanman
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.tms-e.co.jp/company/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UCkVvAm5jb62IMIJQj4wPVGA
+      x: https://x.com/TMSent_jp/
+    notes: 'Wikipedia: 372 employees (Mar 2026); founded 1946 as a non-animation company.'
+  - name: Studio Pierrot
+    url: https://pierrot.jp/
+    description: Anime studio in Tokyo producing TV series and films since 1979, including Naruto, Bleach and Tokyo Ghoul.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 1979
+    notable:
+      - Naruto
+      - Bleach
+      - Tokyo Ghoul
+    added_at: '2026-10-31T05:09:10.954Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UC0U2GG9WNndvt1wK41l9iqg
+    notes: 'Wikipedia: 240 employees (Apr 2025).'
+  - name: P.A.WORKS
+    url: https://www.pa-works.jp/
+    description: Anime studio based in Nanto, Toyama, making original and adapted TV series and feature films outside Tokyo.
+    hq:
+      city: Nanto
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2000
+    notable:
+      - Angel Beats!
+      - Shirobako
+      - 'Maquia: When the Promised Flower Blooms'
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.pa-works.jp/recruit
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UC1UbxgF-nISLr324cs70h5w
+      x: https://twitter.com/PAWORKS_info
+    notes: 'Wikipedia: 98 employees (Apr 2017, dated figure).'
+  - name: David Production
+    url: https://davidproduction.jp/
+    description: Anime studio in Tokyo producing TV series and films, with credits on JoJo's Bizarre Adventure, Cells at Work! and Fire Force.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2007
+    notable:
+      - JoJo's Bizarre Adventure
+      - Cells at Work!
+      - Fire Force
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://davidproduction.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/DPInc_official
+    notes: 'Wikipedia: 105 employees (June 2026).'
+  - name: A-1 Pictures
+    url: https://a1p.jp/
+    description: Anime studio in Tokyo under Aniplex, producing TV series and films such as Sword Art Online and Solo Leveling.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 2005
+    notable:
+      - Sword Art Online
+      - Your Lie in April
+      - Solo Leveling
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://a1p.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/a1pictureschannel
+      x: https://twitter.com/a1pictures
+    notes: 'Wikipedia: 285 employees (Sep 2025).'
+  - name: SHAFT
+    url: https://www.shaft-web.co.jp/
+    description: Anime studio in Tokyo with a distinct graphic visual style, producing TV series and films since 1975.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1975
+    notable:
+      - Puella Magi Madoka Magica
+      - Monogatari
+      - March Comes In like a Lion
+    added_at: '2026-10-31T05:09:10.954Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: 120 staff (170 incl. contractors).'
+  - name: SOLA DIGITAL ARTS
+    url: https://www.sola-digital.com/
+    description: CG animation studio in Tokyo making full-CG anime series, films, game opening movies and VR attractions.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Manhattan Beach
+        country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+      - cinematics
+      - vfx
+    markets:
+      - episodic
+      - film
+      - games
+    size: mid
+    founded: 2009
+    notable:
+      - Ultraman (Netflix)
+      - 'Ghost in the Shell: SAC_2045'
+      - Tekken 7 (opening movie)
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.sola-digital.com/recruitment/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/SolaDigitalArts
+    notes: 'About page: 110 employees (Dec 2021); foundation date 2009 though footer says 2010.'
+  - name: Satelight
+    url: https://www.satelight.co.jp/
+    description: Anime studio in Tokyo with an in-house 3DCG department, producing the Macross, Aquarion and Symphogear series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1995
+    notable:
+      - Macross Frontier
+      - Aquarion
+      - Symphogear
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.satelight.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/satelight_inc
+    notes: 'Wikipedia: 100 employees.'
+  - name: ILCA
+    url: https://www.ilca.co.jp/
+    description: Game developer in Tokyo that co-develops console titles and produces real-time CG video, art and design for publishers.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Nagoya
+        country: Japan
+      - city: Kyoto
+        country: Japan
+      - city: Kobe
+        country: Japan
+      - city: Taipei
+        country: Taiwan
+      - city: Da Nang
+        country: Vietnam
+    disciplines:
+      - games
+      - outsourcing
+      - cg
+      - cinematics
+    markets:
+      - games
+    size: large
+    founded: 2010
+    notable:
+      - 'Ace Combat 7: Skies Unknown'
+      - One Piece Odyssey
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.ilca.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/ILCA_jp
+    notes: 'Company page: 397 employees (Apr 2025).'
+  - name: Sublimation
+    url: https://www.sublimation.co.jp/
+    description: 3DCG anime studio in Tokyo planning and producing CG animation for TV anime, films and music projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.sublimation.co.jp/recruit-2/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://youtube.com/@sublimationchannel
+      x: https://x.com/Sublimation_Inc
+    notes: 'About page: 132 employees (Apr 2024); studios in Kunitachi, Tokyo.'
+  - name: DR MOVIE
+    url: https://drmovie.co.kr/
+    description: Animation studio in Seoul producing 2D series work for Japanese, US and Korean clients, plus its own original titles.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 1990
+    notable:
+      - 'Castlevania: Nocturne'
+      - The Rising of the Shield Hero (season 2)
+      - 'Avatar: The Last Airbender'
+    added_at: '2026-10-31T05:09:10.954Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: M83
+    url: https://www.m83.co.kr/
+    description: VFX studio in Seoul delivering visual effects for Korean films, drama and streaming series, with in-house AI production tools.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2020
+    notable:
+      - Space Sweepers
+      - Sweet Home
+      - 'Noryang: Deadly Sea'
+    added_at: '2026-10-31T05:09:10.954Z'
+    careers: https://www.m83.co.kr/recruit/recruit.php
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: ko.wikipedia lists 113 employees; KOSDAQ-listed since 2024.
+  - name: Macrograph
+    url: https://www.macrograph.co.kr/
+    description: VFX studio in Seoul specialising in digital actors, creatures and fluid simulation for Korean and Chinese feature films.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+    founded: 2007
+    notable:
+      - The Forbidden Kingdom
+      - 'The Admiral: Roaring Currents'
+      - The Wandering Earth
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      vimeo: https://vimeo.com/user17004593
+      youtube: https://www.youtube.com/@Macrographvfx
+  - name: OCON
+    url: https://www.oconstudios.com/
+    description: 3D animation studio in Seongnam producing kids' series and features such as Pororo, plus webtoon and XR content.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1996
+    notable:
+      - Pororo the Little Penguin
+      - 'Pororo Movie: Underwater Adventure'
+      - Super Z
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: 4th Creative Party
+    url: https://www.4thparty.co.kr/
+    description: VFX and CG studio in Seoul working on Korean feature films, animated series and theme park ride films.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - vfx
+      - 3d-animation
+      - experiential
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2009
+    notable:
+      - Snowpiercer
+      - Okja
+      - The Handmaiden
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Site responds but serves a self-signed certificate, so content could not be read. ko.wikipedia: 164 employees; predecessor EON Digital Film founded 1996.'
+  - name: Fantawild Animation
+    url: https://www.hqftdm.com/
+    description: CG animation arm of Fantawild in Shenzhen producing the Boonie Bears films and TV series plus other kids' titles.
+    hq:
+      city: Shenzhen
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2008
+    notable:
+      - Boonie Bears
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Light Chaser Animation
+    url: https://www.zhuiguang.com/
+    description: CG feature animation studio in Beijing making theatrical films drawn from Chinese myth and history.
+    hq:
+      city: Beijing
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    founded: 2013
+    notable:
+      - White Snake
+      - 'New Gods: Nezha Reborn'
+      - Chang'an
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Own site refused connection from outside China (likely geo-restricted); Wikipedia lists 2025 and 2026 releases, so active.
+  - name: miHoYo
+    url: https://www.mihoyo.com/
+    description: Game developer in Shanghai making anime-styled open-world and RPG titles, published globally under the HoYoverse brand.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2012
+    notable:
+      - Genshin Impact
+      - 'Honkai: Star Rail'
+      - Zenless Zone Zero
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: 5,000 employees (2022). Homepage is a JS shell but live.'
+  - name: Cygames
+    url: https://www.cygames.co.jp/
+    description: Game developer in Tokyo making mobile and console titles, with in-house CG, anime and art production teams.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2011
+    notable:
+      - Granblue Fantasy
+      - 'Umamusume: Pretty Derby'
+      - Shadowverse
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 3,644 employees (2023) and 2026 news, so active.'
+  - name: Arc System Works
+    url: https://www.arcsystemworks.jp/
+    description: Game developer in Yokohama making 2D and cel-shaded 3D fighting games for console and PC.
+    hq:
+      city: Yokohama
+      country: Japan
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 1988
+    notable:
+      - Guilty Gear
+      - Dragon Ball FighterZ
+      - BlazBlue
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/arcsystemworks
+      x: https://x.com/ARCSY_PR
+    notes: 'Wikipedia: 223 employees (Dec 2024).'
+  - name: Vanillaware
+    url: https://vanillaware.co.jp/
+    description: Small game developer in Osaka making action RPGs and adventure games with hand-painted 2D art and animation.
+    hq:
+      city: Osaka
+      country: Japan
+    disciplines:
+      - games
+      - 2d-animation
+    markets:
+      - games
+    size: small
+    founded: 2002
+    notable:
+      - Odin Sphere
+      - '13 Sentinels: Aegis Rim'
+      - Unicorn Overlord
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://x.com/vanillaware_boy
+    notes: 'Wikipedia: 39 employees (2024).'
+  - name: CyberConnect2
+    url: https://www.cc2.co.jp/
+    description: Game developer in Fukuoka making anime-licensed action games and original titles, with studios in Tokyo and Osaka.
+    hq:
+      city: Fukuoka
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 1996
+    notable:
+      - 'Naruto Shippuden: Ultimate Ninja Storm'
+      - 'Demon Slayer: The Hinokami Chronicles'
+      - Asura's Wrath
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.cc2.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cyberconnect2/
+      youtube: https://www.youtube.com/user/cc2channel/featured
+      x: https://twitter.com/PR_CC2
+    notes: 'Wikipedia: 272 employees (Feb 2025).'
+  - name: Monolith Soft
+    url: https://www.monolithsoft.co.jp/
+    description: Nintendo-owned game developer in Tokyo making the Xenoblade RPGs, with a Kyoto studio supplying art for other Nintendo titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kyoto
+        country: Japan
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    size: large
+    founded: 1999
+    notable:
+      - Xenoblade Chronicles
+      - Xenosaga
+      - 'The Legend of Zelda: Tears of the Kingdom (support)'
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://www.monolithsoft.co.jp/recruit/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/MONOLITHSOFT
+    notes: 'Wikipedia: 344 employees (2025).'
+  - name: NCSOFT
+    url: https://www.nc.com/
+    description: Game developer and publisher in Seongnam making online RPGs for PC and mobile, from Lineage to Throne and Liberty.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 1997
+    notable:
+      - Lineage
+      - Blade & Soul
+      - Throne and Liberty
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: about 3,100 employees.'
+  - name: KRAFTON
+    url: https://www.krafton.com/
+    description: 'Game publisher in Seoul behind PUBG: Battlegrounds and inZOI, running a network of internal and acquired studios.'
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2018
+    notable:
+      - 'PUBG: Battlegrounds'
+      - inZOI
+      - TERA
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 3,400+ employees; core studio Bluehole dates to 2007.'
+  - name: Smilegate
+    url: https://www.smilegate.com/en
+    description: Game developer and publisher in Seongnam making online action RPGs and shooters for PC and mobile.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2002
+    notable:
+      - Lost Ark
+      - Epic Seven
+      - Crossfire
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://careers.smilegate.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: about 3,300 employees (2023).'
+  - name: Red Candle Games
+    url: https://www.redcandlegames.com/
+    description: Indie game studio in Taipei making hand-drawn horror and action games rooted in Taiwanese and Asian folklore.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2015
+    notable:
+      - Detention
+      - Devotion
+      - Nine Sols
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UCzFIdV34VVQpCg_2ij6UdpQ
+      x: https://twitter.com/redcandlegames
+    notes: 'Wikipedia: 12 employees.'
+  - name: Rayark
+    url: https://www.rayark.com/
+    description: Game developer in Taipei making rhythm and RPG titles for mobile and console with illustrated, anime-styled art.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2011
+    notable:
+      - Cytus II
+      - Deemo
+      - Sdorica
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: 258 employees (2022).'
+  - name: NeoBards Entertainment
+    url: https://www.neobards.com/
+    description: Game studio with teams in Taipei and Suzhou that co-develops, remasters and ports console titles for Japanese publishers.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    offices:
+      - city: Taipei
+        country: Taiwan
+      - city: Suzhou
+        country: China
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    founded: 2017
+    notable:
+      - Silent Hill f
+      - Resident Evil Re:Verse
+      - Dead Rising Deluxe Remaster
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://neobards.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/neobards
+      x: https://twitter.com/neobards
+    notes: Wikipedia gives HQ Hong Kong; careers page lists only Taipei and Suzhou offices.
+  - name: TiMi Studio Group
+    url: https://www.timistudios.com/
+    description: Tencent game studio group in Shenzhen making mobile and multiplatform titles, with teams in Chengdu, Shanghai and abroad.
+    hq:
+      city: Shenzhen
+      country: China
+    offices:
+      - city: Chengdu
+        country: China
+      - city: Shanghai
+        country: China
+      - city: Singapore
+        country: Singapore
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2008
+    notable:
+      - Honor of Kings
+      - 'Call of Duty: Mobile'
+      - Pokémon Unite
+    added_at: '2026-10-31T05:09:10.955Z'
+    careers: https://tencent.wd1.myworkdayjobs.com/timi_careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/timistudios/
+      x: https://twitter.com/timistudios
+  - name: Creative Power Entertaining
+    url: https://www.22dm.com/
+    description: Animation studio in Guangzhou producing the Pleasant Goat and Big Big Wolf series, films and spin-offs for Chinese TV and web.
+    hq:
+      city: Guangzhou
+      country: China
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2004
+    notable:
+      - Pleasant Goat and Big Big Wolf
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Wikipedia: about 100 to 200 employees; Alpha Group subsidiary. Site footer copyright ends 2021 but site is up.'

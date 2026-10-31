@@ -1,0 +1,1065 @@
+studios:
+  - name: All of it Now
+    url: https://allofitnow.com/
+    description: Creative studio in Los Angeles making real-time content, virtual production and immersive installations for brands, artists and live events.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+      - experiential
+      - xr
+    markets:
+      - brand
+      - music-video
+    size: small
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/allofitnow
+      linkedin: https://www.linkedin.com/company/all-of-it-now
+    notes: Homepage says est. 2014; LinkedIn says founded 2011. Used the studio's own site.
+  - name: MELS
+    url: https://www.mels-studios.com/
+    description: Film studio campus in Montreal with sound stages, equipment rental, post-production, VFX and virtual production services for features and series.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - virtual-production
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: large
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://careers.smartrecruiters.com/Videotron/mels
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/melsstudios/
+      linkedin: https://www.linkedin.com/company/mels-studios/
+  - name: Mold3D Studio
+    url: https://www.mold3dstudio.com/
+    description: Real-time studio in Los Angeles providing virtual art department, environments and cinematics for virtual production, games and live shows.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+      - cg
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - games
+    notable:
+      - The Mandalorian
+      - Pinocchio (2022)
+      - 'Taylor Swift: The Eras Tour'
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Synapse Virtual Production
+    url: https://www.synapsevp.com/
+    description: Virtual production company in Los Angeles running LED stages and offering virtual art department, systems integration and training.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Target3D
+    url: https://www.target3d.co.uk/
+    description: Motion capture and tracking specialist in London with mocap and virtual production stages, plus system setup for studios and labs.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - mocap
+      - virtual-production
+    markets:
+      - games
+      - film
+    size: small
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.target3d.co.uk/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/target_3d
+    notes: Also a hardware reseller/integrator; included for its London mocap and VP stages.
+  - name: Motus Digital
+    url: https://motusdigital.com/
+    description: Motion capture animation studio in Dallas recording performances on a Vicon stage and delivering character animation for games, film and TV.
+    hq:
+      city: Dallas
+      country: United States
+    disciplines:
+      - mocap
+      - 3d-animation
+    markets:
+      - games
+      - film
+      - episodic
+    size: boutique
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      vimeo: https://vimeo.com/motusdigital
+      youtube: https://www.youtube.com/MotusDigitalStudio
+      x: https://twitter.com/MotusDigital
+  - name: Clear Angle Studios
+    url: https://www.clearanglestudios.co.uk/
+    description: 3D scanning studio near London capturing actors, props and sets with photogrammetry, LiDAR and DI4D facial capture for film and TV VFX.
+    hq:
+      city: Iver Heath
+      country: United Kingdom
+    disciplines:
+      - mocap
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2013
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.clearanglestudios.co.uk/career-opportunities/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/clearanglestudios/
+      linkedin: https://www.linkedin.com/company/clear-angle-studios-ltd
+    notes: Scanning/facial capture house; mapped to mocap as closest discipline. DI4D is now part of Clear Angle.
+  - name: Cantina Creative
+    url: https://www.cantinacreative.com/
+    description: Design and VFX studio in Los Angeles creating motion design, visual effects and digital experiences for feature films and series.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.cantinacreative.com/careerspage
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cantinacreative
+      x: https://twitter.com/CantinaCreative
+      behance: https://www.behance.net/cantina
+  - name: Blind Squirrel Games
+    url: https://blindsquirrelentertainment.com/
+    description: Game development studio in Irvine doing co-development, full builds, ports and remasters for publishers on console, PC and mobile.
+    hq:
+      city: Irvine
+      country: United States
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://blindsquirrelentertainment.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/blindsquirrelgames/
+      linkedin: https://www.linkedin.com/company/blind-squirrel-games
+      x: https://twitter.com/blind_squirrel_
+  - name: Concept Art House
+    url: https://www.conceptarthouse.com/
+    description: Art outsourcing studio in San Francisco producing concept art, 2D and 3D game art and visual development for games, film and collectibles.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+      - film
+    size: small
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/conceptarthouse/
+      x: https://x.com/conceptarthouse
+      artstation: https://www.artstation.com/cah
+  - name: Disbelief
+    url: https://disbelief.com/
+    description: Game development studio in Boston doing co-development, engineering, tech art, ports and remasters for console, PC and VR games.
+    hq:
+      city: Boston
+      country: United States
+    offices:
+      - city: Chicago
+        country: United States
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://disbelief.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Iron Galaxy Studios
+    url: https://www.irongalaxystudios.com/
+    description: Independent game developer in Chicago making original titles and doing co-development and ports for major publishers.
+    hq:
+      city: Chicago
+      country: United States
+    offices:
+      - city: Orlando
+        country: United States
+      - city: Nashville
+        country: United States
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    size: large
+    founded: 2008
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.irongalaxystudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/irongalaxystudios
+      linkedin: https://www.linkedin.com/company/iron-galaxy-studios
+      youtube: https://www.youtube.com/@IronGalaxy
+      x: https://twitter.com/irongalaxy
+  - name: Hardsuit Labs
+    url: https://www.hardsuitlabs.com/
+    description: Game studio in Seattle offering full development, co-development, engineering and console porting for publishers and developers.
+    hq:
+      city: Seattle
+      country: United States
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2015
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.hardsuitlabs.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Snowed In Studios
+    url: https://snowedin.ca/
+    description: Game development studio in Ottawa providing co-development, engineering and porting for console, PC and mobile titles.
+    hq:
+      city: Ottawa
+      country: Canada
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/snowedinstudios/
+      linkedin: https://www.linkedin.com/company/snowed-in-studios
+      x: https://twitter.com/snowedinstudios
+    notes: Site says founded 2009; LinkedIn says incorporated February 2010.
+  - name: Behaviour Interactive
+    url: https://www.bhvr.com/
+    description: Independent game developer in Montreal making Dead by Daylight and other titles for PC, console and mobile.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    notable:
+      - Dead by Daylight
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.bhvr.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/behaviour_interactive
+      linkedin: https://linkedin.com/company/behaviour-interactive/
+      youtube: https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ
+      x: https://twitter.com/behaviour
+  - name: Panic Button
+    url: https://panicbuttongames.com/
+    description: Game studio in Austin specializing in console ports and co-development for PlayStation, Xbox and Nintendo Switch.
+    hq:
+      city: Austin
+      country: United States
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://panicbuttongames.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/panicbuttongames
+      linkedin: https://www.linkedin.com/company/panic-button
+      x: https://twitter.com/panicbuttongame
+  - name: Sumo Digital
+    url: https://www.sumo-digital.com/
+    description: Game developer in Sheffield doing full development, co-development, porting and art services for AAA publishers.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    size: large
+    founded: 2003
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.sumo-digital.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/sumo-digital
+    offices:
+      - city: Pune
+        country: India
+  - name: d3t
+    url: https://d3tltd.com/
+    description: Co-development studio in Runcorn handling engineering, porting and optimisation for console and PC games, part of Keywords Studios.
+    hq:
+      city: Runcorn
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/d3tltd
+      linkedin: https://linkedin.com/company/d3t-ltd
+      youtube: https://youtube.com/@d3tltd78
+      x: https://x.com/d3tLtd
+  - name: Coconut Lizard
+    url: https://www.coconutlizard.co.uk/
+    description: Unreal Engine co-development studio in Newcastle giving AAA teams engineering and work-for-hire support, part of Keywords Studios.
+    hq:
+      city: Newcastle
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: small
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.coconutlizard.co.uk/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/coconut-lizard
+      x: https://twitter.com/CoconutLizard
+  - name: Wushu Studios
+    url: https://wushustudios.com/
+    description: Independent game studio in Liverpool co-developing AAA titles such as Forza Horizon 5 and Baldur's Gate 3 with global publishers.
+    hq:
+      city: Liverpool
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2017
+    notable:
+      - Forza Horizon 5
+      - Baldur's Gate 3
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/wushustudios/
+      linkedin: https://www.linkedin.com/company/wushustudios
+      x: https://twitter.com/wushustudios
+  - name: Climax Studios
+    url: https://www.climaxstudios.com/
+    description: AAA co-development studio in Portsmouth working on console and PC games for major publishers, part of Keywords Studios.
+    hq:
+      city: Portsmouth
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 1988
+    notable:
+      - 'Sackboy: A Big Adventure'
+      - Age of Empires IV
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.climaxstudios.com/join-our-team/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/climaxstudios/
+      linkedin: https://www.linkedin.com/company/climax/
+      youtube: https://www.youtube.com/@ClimaxStudios
+      x: https://twitter.com/climaxstudios
+  - name: Studio Gobo
+    url: https://www.studiogobo.com/
+    description: AAA co-development studio in Brighton building gameplay, features and DLC for console and PC action games.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2011
+    notable:
+      - LEGO Horizon Adventures
+      - Hogwarts Legacy
+      - For Honor
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.studiogobo.com/join-us
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/studiogobo
+      linkedin: https://www.linkedin.com/company/studio-gobo
+      x: https://twitter.com/studiogobo
+  - name: Third Kind Games
+    url: https://thirdkindgames.com/
+    description: Co-development and full development studio in Leamington Spa working on AAA franchises, part of Virtuos.
+    hq:
+      city: Leamington Spa
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/thirdkindgames/
+      linkedin: https://www.linkedin.com/company/third-kind-games/
+      x: https://x.com/ThirdKindGames
+  - name: Electric Square
+    url: https://electricsquare.com/
+    description: Game studio in Brighton co-developing AAA action games with major developers for console and PC.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://electricsquare.com/come-join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ElectricSqGames/
+      x: https://twitter.com/ElectricSqGames
+  - name: Alkemy X
+    url: https://alkemy-x.com/
+    description: Post and VFX company in Philadelphia doing editorial, design, animation and visual effects for advertising and entertainment.
+    hq:
+      city: Philadelphia
+      country: United States
+    disciplines:
+      - vfx
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - episodic
+    size: small
+    founded: 1981
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/alkemyx/
+      linkedin: https://www.linkedin.com/company/alkemy-x/
+      x: https://twitter.com/AlkemyX
+  - name: Brickyard VFX
+    url: https://brickyardvfx.com/
+    description: Digital production studio in Boston doing VFX, CG animation, motion design and live action for advertising and branded content.
+    hq:
+      city: Boston
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 1999
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/brickyardvfx/
+      linkedin: https://www.linkedin.com/company/brickyard-vfx
+  - name: Monsters Aliens Robots Zombies
+    url: https://monstersaliensrobotszombies.com/
+    description: VFX studio in Toronto delivering visual effects for premium TV series, backed by its own AI-assisted tools.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+    size: large
+    founded: 2018
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/marz/
+      x: https://twitter.com/marzvfx
+    notes: Also called MARZ.
+  - name: The Embassy
+    url: https://theembassyvfx.com/
+    description: VFX studio in Vancouver doing visual effects, animation and design for advertising, film and TV.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+      - episodic
+    size: mid
+    founded: 2002
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://theembassyvfx.com/pages/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/embassyvfx/
+      linkedin: https://www.linkedin.com/company/the-embassy-visual-effects-inc-/
+      vimeo: https://vimeo.com/theembassyvfx
+  - name: Barnstorm VFX
+    url: https://www.barnstormvfx.com/
+    description: VFX studio in Burbank creating visual effects for streaming series and feature films.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.barnstormvfx.com/jobs-1
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/barnstorm_vfx/
+      linkedin: https://www.linkedin.com/company/barnstorm-vfx/
+      youtube: https://www.youtube.com/channel/UCW_Y7yhMTk1bT63z6JUoWoA
+  - name: CoSA VFX
+    url: https://www.cosavfx.com/
+    description: VFX studio in Los Angeles delivering compositing, CG environments, matte painting and digital makeup for TV, streaming and film.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Vancouver
+        country: Canada
+      - city: Toronto
+        country: Canada
+      - city: Atlanta
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.cosavfx.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/cosa_vfx
+      linkedin: https://www.linkedin.com/company/cosa-vfx/
+      vimeo: https://vimeo.com/cosavfx
+      x: https://twitter.com/cosavfx
+  - name: Six Point Harness
+    url: https://sixpointharness.com/
+    description: Animation studio in Los Angeles developing and producing animated shorts, series and features for broadcast, film and web.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: mid
+    founded: 2003
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://sixpointharness.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/six-point-harness
+  - name: Rough Draft Studios
+    url: https://roughdraftstudios.com/
+    description: Animation studio in Glendale producing TV animation for series such as Futurama, The Simpsons and Big City Greens.
+    hq:
+      city: Glendale
+      country: United States
+    offices:
+      - city: Seoul
+        country: South Korea
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1991
+    notable:
+      - Futurama
+      - The Simpsons
+      - Big City Greens
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://roughdraftstudios.com/jobs.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Seoul office is sister studio Rough Draft Korea.
+  - name: Augenblick Studios
+    url: https://www.augenblickstudios.com/
+    description: Independent animation studio in Brooklyn making 2D animated series, shorts and commercials for TV, film and the web.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 1999
+    notable:
+      - City Island
+      - Teenage Euthanasia
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.augenblickstudios.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/augenblickstudios/
+      youtube: https://www.youtube.com/@augenblickstudiosinc
+      x: https://twitter.com/augenblicknyc
+  - name: Screen Novelties
+    url: https://screennovelties.com/
+    description: Stop-motion studio in Los Angeles making cartoon-style puppet animation for TV specials, commercials and game trailers.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+      - games
+    founded: 2003
+    notable:
+      - It's a SpongeBob Christmas!
+      - Fortnite Season 7 trailer
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Bix Pix Entertainment
+    url: https://www.bixpix.com/
+    description: Stop-motion animation studio in Burbank creating handmade series and commercials, creator of Tumble Leaf for Amazon.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Tumble Leaf
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Duncan Studio
+    url: https://duncanstudio.com/
+    description: Character animation studio in Pasadena doing CG and hand-drawn animation, story and design for features, series and commercials.
+    hq:
+      city: Pasadena
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2007
+    notable:
+      - 'Kung Fu Panda: Secrets of the Masters'
+      - Mary Poppins Returns
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: House of Cool
+    url: https://www.houseofcool.com/
+    description: Animation pre-production studio in Toronto doing storyboards, animatics and visual development for feature films and series.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - previs
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2004
+    notable:
+      - Ferdinand
+      - The Book of Life
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.houseofcool.com/cool-jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/houseofcoolinc/
+      linkedin: https://www.linkedin.com/company/house-of-cool-studios-inc/
+  - name: Industrial Brothers
+    url: https://www.industrialbrothers.com/
+    description: Animation studio in Toronto developing and producing CG kids series from concept through final delivery.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    size: mid
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.industrialbrothers.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/industrialbrothers/
+      linkedin: https://www.linkedin.com/company/industrial-brothers/
+  - name: Steamroller Studios
+    url: https://www.steamrollerstudios.com/
+    description: Artist-owned studio in Mount Dora, Florida doing character animation, game art, cinematics and theme park media for film and games.
+    hq:
+      city: Mount Dora
+      country: United States
+    disciplines:
+      - 3d-animation
+      - outsourcing
+      - cinematics
+      - games
+    markets:
+      - games
+      - film
+    size: large
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/steamrollerstudios/
+      linkedin: https://www.linkedin.com/company/steamroller-studios
+      youtube: https://www.youtube.com/c/SteamrollerStudios
+      x: https://twitter.com/SteamrollerTeam
+  - name: Karrot Animation
+    url: https://karrotanimation.com/
+    description: Animation studio in London making character-led 2D series and commercials, creators of Sarah & Duck.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    size: small
+    founded: 2008
+    notable:
+      - Sarah & Duck
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/karrotanimation/
+      linkedin: https://www.linkedin.com/company/karrot-animation
+      vimeo: https://vimeo.com/karrotanimation
+      x: https://twitter.com/KarrotAnimation
+  - name: Sixteen South
+    url: https://sixteensouth.tv/
+    description: Children's TV studio in Belfast creating, producing and distributing 2D and CG animated series such as Odo and Claude.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2002
+    notable:
+      - Odo
+      - Claude
+      - Lily's Driftwood Bay
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/sixteensouth
+  - name: Paper Owl Films
+    url: https://paperowlfilms.com/
+    description: Kids animation studio in Belfast producing series such as Pablo, with in-house sound, grading and post for long-form animation.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://paperowlfilms.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/paperowlfilms/
+      youtube: https://www.youtube.com/channel/UCQkI3o8O8e2mCjzbAj_70Zg
+  - name: Flickerpix
+    url: https://www.flickerpix.com/
+    description: Animation studio in Belfast making 2D, 3D, stop-motion and rotoscope animation from script to delivery for TV and commercial clients.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.flickerpix.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/flickerpix_animation/
+      vimeo: https://vimeo.com/flickerpix
+      youtube: https://www.youtube.com/channel/UC1HQxd8PTu3T6yvJSoKkyXQ
+      x: https://twitter.com/flickerpix_ni
+  - name: WONKY Films
+    url: https://wonkyfilms.com/
+    description: Animation studio in Bristol making character animation and illustration for ads, promos, broadcast and short films.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - episodic
+    size: boutique
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/wonky-films
+      vimeo: https://www.vimeo.com/wonkyfilms
+      x: https://www.twitter.com/wonkyfilms
+  - name: A Productions
+    url: https://aproductions.co.uk/
+    description: Animation studio in Bristol producing children's TV series, films and commercials, including JoJo & Gran Gran for CBeebies.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: mid
+    founded: 1985
+    notable:
+      - JoJo & Gran Gran
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://aproductions.co.uk/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/aproductionsuk/
+      linkedin: https://www.linkedin.com/company/a-productions-ltd
+  - name: Second Home Studios
+    url: https://www.secondhomestudios.com/
+    description: Animation studio in Birmingham making stop-motion, 2D animation, motion graphics and CGI for broadcasters and brands.
+    hq:
+      city: Birmingham
+      country: United Kingdom
+    disciplines:
+      - stop-motion
+      - 2d-animation
+      - motion-design
+      - cg
+    markets:
+      - episodic
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/secondhomestudios_uk/
+      vimeo: https://vimeo.com/secondhomestudios
+      x: https://twitter.com/SecondHomeHQ
+  - name: Bait Studio
+    url: https://www.baitstudio.com/
+    description: Motion design studio in Cardiff crafting title sequences, 2D and 3D animation and documentary graphics for broadcast TV and film.
+    hq:
+      city: Cardiff
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - title-design
+      - cg
+    markets:
+      - episodic
+      - film
+    size: boutique
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/baitstudio/
+      linkedin: https://www.linkedin.com/company/bait-studio
+      vimeo: https://vimeo.com/baitstudio
+  - name: Soho VFX
+    url: https://sohovfx.com/
+    description: VFX studio in Toronto's Junction producing photoreal visual effects for feature films and TV series.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2002
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://sohovfx.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Gradient Effects
+    url: https://www.gradientfx.com/
+    description: VFX studio in Los Angeles creating visual effects for feature films and episodic series, with teams in Montreal and Frankfurt.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Montreal
+        country: Canada
+      - city: Frankfurt
+        country: Germany
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.965Z'
+    careers: https://www.gradientfx.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Lola Visual Effects
+    url: https://lolavfx.com/
+    description: VFX studio in Los Angeles and London crafting invisible, story-driven visual effects for feature films, series and commercials.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: mid
+    founded: 2004
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'

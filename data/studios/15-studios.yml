@@ -7,42 +7,51 @@ studios:
     disciplines:
       - product-viz
       - cg
-    careers: https://www.px-group.de/jobs/
+    markets:
+      - advertising
+    size: mid
+    founded: 2009
     notable:
       - BMW X2
       - Kia Ceed
       - Leica Q3 43
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.px-group.de/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/px_group/
       vimeo: https://vimeo.com/pxgroup
       behance: https://www.behance.net/PXGroup
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Wonder Vision
     url: https://www.wonder-vision.com/
     description: UK CGI studio making product, food and drink and brand visuals, motion and content systems for brands and agencies.
     hq:
       city: Henley-on-Thames
       country: United Kingdom
+    offices:
+      - city: London
+        country: United Kingdom
     disciplines:
       - product-viz
       - cg
       - motion-design
-    offices:
-      - city: London
-        country: United Kingdom
-    careers: https://www.wonder-vision.com/creative-talent/
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2010
     notable:
       - ASICS Novablast
       - Sprite Global Rebrand CGI Toolkit
       - OLIPOP
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.wonder-vision.com/creative-talent/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/_wondervision_/
       linkedin: https://www.linkedin.com/company/wonder-vision
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Night Wolves Studio
     url: https://www.nightwolves.studio/
     description: Mumbai creative production studio making CGI brand content, VFX, episodic animation and game work for global brands.
@@ -51,18 +60,26 @@ studios:
       country: India
     disciplines:
       - cg
-      - product-viz
+      - 3d-animation
       - vfx
-      - animation
+      - product-viz
+      - outsourcing
+    markets:
+      - advertising
+      - brand
+      - episodic
+      - games
+    size: mid
+    founded: 2022
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.nightwolves.studio/career
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/nightwolves.studio/
       linkedin: https://www.linkedin.com/company/night-wolves/
       vimeo: https://vimeo.com/nightwolvesstudio
       behance: https://www.behance.net/nightwolves/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Sprout Studios
     url: https://sprout.cc/
     description: Boston design and innovation agency offering product rendering and CGI alongside product, packaging and brand design.
@@ -71,30 +88,39 @@ studios:
       country: United States
     disciplines:
       - product-viz
-    careers: https://sprout.cc/careers/
+    markets:
+      - brand
+      - advertising
+    size: small
+    founded: 2001
     notable:
       - Bose
       - Peloton
       - Kohler
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://sprout.cc/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/sproutstudios/
       linkedin: https://www.linkedin.com/company/sprout-studios/
       vimeo: https://vimeo.com/sproutstudios
       behance: https://www.behance.net/bostonsproutstudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Active Theory
     url: https://activetheory.net/
     description: Creative technology studio building interactive web, WebGL and real-time experiences for brands, with its own in-house web toolset.
     hq:
       city: Los Angeles
       country: United States
-    disciplines:
-      - xr
     offices:
       - city: Amsterdam
         country: Netherlands
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - advertising
+    size: small
     founded: 2012
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
@@ -105,12 +131,14 @@ studios:
     hq:
       city: Wellington
       country: New Zealand
-    disciplines:
-      - xr
     offices:
       - city: Amsterdam
         country: Netherlands
-    size: mid
+    disciplines:
+      - xr
+    markets:
+      - advertising
+      - brand
     founded: 2004
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
@@ -121,25 +149,29 @@ studios:
     hq:
       city: Chicago
       country: United States
-    disciplines:
-      - xr
-      - motion-design
     offices:
       - city: Amsterdam
         country: Netherlands
       - city: Paris
         country: France
-    careers: https://dogstudio.co/careers/
-    reel: https://vimeo.com/836218697
+    disciplines:
+      - xr
+      - motion-design
+    markets:
+      - brand
+    size: small
+    founded: 2006
     notable:
       - Virgin Galactic
       - 'Adobe: Taking Shape'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://dogstudio.co/careers/
+    reel: https://vimeo.com/836218697
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dogstudio.co/
       x: https://twitter.com/Dogstudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Immersive Garden
     url: https://immersive-g.com/
     description: Paris studio designing and building WebGL sites and interactive digital experiences for luxury and tech brands.
@@ -148,38 +180,48 @@ studios:
       country: France
     disciplines:
       - xr
+    markets:
+      - brand
+    size: small
+    founded: 2014
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/immersive_g/
       linkedin: https://fr.linkedin.com/company/immersive-garden
       x: https://x.com/Immersive_g
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Magnopus
     url: https://www.magnopus.com/
     description: Studio and product company making real-time, virtual production and cross-reality experiences, plus spatial creation tools.
     hq:
       city: Los Angeles
       country: United States
-    disciplines:
-      - xr
-      - virtual-production
     offices:
       - city: St Albans
         country: United Kingdom
-    careers: https://www.magnopus.com/current-openings
+    disciplines:
+      - xr
+      - virtual-production
+    markets:
+      - film
+      - games
+      - brand
+    size: mid
+    founded: 2013
     notable:
       - The Lion King
       - 'Mission: ISS'
       - The World of Fallout
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.magnopus.com/current-openings
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/magnopus
       linkedin: https://www.linkedin.com/company/magnopus
       youtube: https://www.youtube.com/channel/UCyIv2kbEIwztih-LF3uqZXQ
       x: https://x.com/magnopus
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Atlas V
     url: https://atlasv.io/
     description: Immersive entertainment studio producing VR experiences, games and exhibitions, with studio and production arms.
@@ -189,16 +231,20 @@ studios:
     disciplines:
       - xr
       - games
-    careers: https://atlasv.io/career/
+    markets:
+      - games
+    size: small
+    founded: 2017
     notable:
       - Battlescar
       - 'Mobile Suit Gundam: Silver Phantom'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://atlasv.io/career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/atlasv.io
       linkedin: https://www.linkedin.com/company/atlasv
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Preloaded
     url: https://preloaded.com/
     description: Immersive games studio making XR and connected play experiences for brands, institutions and platforms.
@@ -208,32 +254,40 @@ studios:
     disciplines:
       - games
       - xr
+    markets:
+      - games
+      - brand
+    size: small
     founded: 2000
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://preloaded.com/the-studio
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/preloaded_studio/
       linkedin: https://www.linkedin.com/company/preloaded/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: 14islands
     url: https://www.14islands.com/
     description: Design and technology studio building interactive sites, digital products and brand experiences.
     hq:
       city: Stockholm
       country: Sweden
-    disciplines:
-      - xr
     offices:
       - city: Reykjavik
         country: Iceland
+    disciplines:
+      - xr
+    markets:
+      - brand
+    size: small
+    founded: 2011
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/14islands/
       linkedin: https://www.linkedin.com/company/14islands/
       x: https://twitter.com/14islands
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Merci-Michel
     url: https://www.merci-michel.com/
     description: Paris studio making branded browser games, gamified campaigns and interactive web experiences.
@@ -243,14 +297,18 @@ studios:
     disciplines:
       - games
       - xr
-    size: boutique
+    markets:
+      - brand
+      - advertising
+      - games
+    size: small
     founded: 2012
-    reel: https://www.merci-michel.com/reel
     notable:
       - 'Cartier: Fabulous Journey'
       - 'Red Bull: League of Its Own'
       - 'Lacoste: Members Experience'
     added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://www.merci-michel.com/reel
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Dpt.
@@ -262,17 +320,21 @@ studios:
     disciplines:
       - xr
       - experiential
+    markets:
+      - brand
+    size: small
+    founded: 2007
     notable:
       - Oto's Planet
       - Plastisapiens
       - Marco & Polo Go Round
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/bonjourdpt/
       linkedin: https://www.linkedin.com/company/dpt/
       x: https://twitter.com/bonjourdpt
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: ScanLAB Projects
     url: https://scanlabprojects.co.uk/
     description: Creative practice using 3D scanning and point-cloud capture to make films, immersive installations and digital replicas.
@@ -282,11 +344,14 @@ studios:
     disciplines:
       - xr
       - cg
-    careers: https://scanlabprojects.co.uk/jobs
+      - experiential
+    size: small
+    founded: 2010
     notable:
       - 'FRAMERATE: Pulse of the Earth'
       - Felix's Room
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://scanlabprojects.co.uk/jobs
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Excurio
@@ -303,13 +368,13 @@ studios:
     notable:
       - Éternelle Notre-Dame
       - L'Horizon de Khéops
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/excurio.vr/
       linkedin: https://www.linkedin.com/company/excurio-vr
       youtube: https://www.youtube.com/@excurio-vr
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Groove Jones
     url: https://www.groovejones.com/
     description: Dallas studio building AR, VR, WebGL and AI experiences and apps for brands.
@@ -318,16 +383,21 @@ studios:
       country: United States
     disciplines:
       - xr
+    markets:
+      - brand
+      - advertising
+    size: mid
+    founded: 2015
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.groovejones.com/workwithus
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/groovejones/
       linkedin: https://www.linkedin.com/company/groovejones
       vimeo: https://vimeo.com/groovejones
       youtube: https://www.youtube.com/c/GrooveJones
       x: https://x.com/GrooveJonesXR
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Holition
     url: https://www.holition.com/
     description: London experiential studio using AR, mixed reality and interactive retail technology for beauty, fashion and luxury brands.
@@ -337,19 +407,23 @@ studios:
     disciplines:
       - xr
       - experiential
-    careers: https://www.holition.com/jobs
+    markets:
+      - brand
+    size: small
+    founded: 2009
     notable:
       - Burberry Virtual Studio
       - Jo Malone London Virtual Townhouse
       - Tommy Hilfiger Tommy Factory
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.holition.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
     social:
       instagram: https://www.instagram.com/holition
       linkedin: https://www.linkedin.com/company/holition
       vimeo: https://vimeo.com/holition
       x: https://twitter.com/Holition
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
     notes: Node fetch fails the TLS chain (server omits intermediate cert); loads in curl and browsers (2026-10-31).
   - name: Wevr
     url: https://wevr.com/
@@ -359,17 +433,19 @@ studios:
       country: United States
     disciplines:
       - xr
-    reel: https://wevr.com/highlights/2024-sizzle-reel
+    size: small
+    founded: 2010
     notable:
       - theBlu
       - 'Terracotta Warriors: Secrets of the First Emperor''s Mausoleum'
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://wevr.com/highlights/2024-sizzle-reel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/onwevr
       linkedin: https://www.linkedin.com/company/wevr/
       x: https://x.com/onwevr
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Make Real
     url: https://makereal.co.uk/
     description: Brighton studio making VR, AR, web and serious-game experiences for training, learning and entertainment.
@@ -379,14 +455,18 @@ studios:
     disciplines:
       - xr
       - games
+    markets:
+      - games
+    size: small
+    founded: 2017
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://makereal.co.uk/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/makerealvr/
       linkedin: https://www.linkedin.com/company/make-real-ltd/
       youtube: https://www.youtube.com/@MakeReal
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Innerspace VR
     url: https://www.innerspacevr.com/
     description: Paris studio developing VR games and narrative immersive experiences.
@@ -396,17 +476,21 @@ studios:
     disciplines:
       - xr
       - games
+    markets:
+      - games
+    size: small
+    founded: 2014
     notable:
       - A Fisherman's Tale
       - Another Fisherman's Tale
       - Maskmaker
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/innerspacevr/
       youtube: https://www.youtube.com/@INNERSPACEVRStudio
       x: https://x.com/InnerspaceVR
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Neutral Digital
     url: https://neutral.digital/
     description: CGI and real-time studio producing aircraft cabin, interior and exterior visuals and interactive tools for airlines and aviation brands.
@@ -416,31 +500,37 @@ studios:
     disciplines:
       - product-viz
       - xr
+    markets:
+      - advertising
+    size: small
+    founded: 2012
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/neutral.digital/
       linkedin: https://www.linkedin.com/company/neutraldigital
       x: https://x.com/neutraldigital
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: 1→10
     url: https://www.1-10.com/
     description: Kyoto creative company building XR, AI and interactive spatial experiences, events and location-based entertainment.
     hq:
       city: Kyoto
       country: Japan
-    disciplines:
-      - xr
-      - experiential
     offices:
       - city: Tokyo
         country: Japan
-    careers: https://www.1-10.com/recruit/
-    social:
-      youtube: https://youtube.com/channel/UCxvAjheFwuVH_EPm_adBR3w
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.1-10.com/recruit/
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      youtube: https://youtube.com/channel/UCxvAjheFwuVH_EPm_adBR3w
   - name: GiiÖii
     url: https://www.giioii.com/
     description: Seoul immersive studio making XR, virtual space and mixed physical-digital storytelling experiences.
@@ -453,12 +543,12 @@ studios:
     notable:
       - Find Willy
       - 'Carving with Memories: Ihyangjeong'
-    social:
-      instagram: https://www.instagram.com/giioii_immersivestudio/
-      linkedin: https://www.linkedin.com/company/68241327/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/giioii_immersivestudio/
+      linkedin: https://www.linkedin.com/company/68241327/
   - name: teamLab
     url: https://www.teamlab.art/
     description: Tokyo art collective making large-scale interactive digital art installations and permanent immersive museums.
@@ -467,18 +557,19 @@ studios:
       country: Japan
     disciplines:
       - experiential
+    size: large
     founded: 2001
-    careers: https://www.teamlab.art/jobs/
     notable:
       - teamLab Borderless
       - teamLab Planets TOKYO
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.teamlab.art/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/teamlab/
       youtube: https://www.youtube.com/@teamLabART
       x: https://twitter.com/teamLab_net
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Refik Anadol Studio
     url: https://refikanadolstudio.com/
     description: Los Angeles media art studio making data- and AI-driven installations, immersive rooms and architectural projections.
@@ -487,20 +578,21 @@ studios:
       country: United States
     disciplines:
       - experiential
-    founded: 2014
+    size: small
+    founded: 2012
     notable:
       - Machine Hallucination
       - 'LAX: Sky Dreams'
       - Large Nature Model
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/refikanadol/
       linkedin: https://www.linkedin.com/company/refik-anadol-studio/
       vimeo: https://vimeo.com/refo
       x: https://twitter.com/refikanadol/
       behance: https://www.behance.net/refikanadol
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Marshmallow Laser Feast
     url: https://marshmallowlaserfeast.com/
     description: London experiential art collective making VR, installation and sensory works about perception and the natural world.
@@ -510,6 +602,8 @@ studios:
     disciplines:
       - experiential
       - xr
+    size: small
+    founded: 2011
     notable:
       - In the Eyes of the Animal
       - Of the Oak
@@ -524,15 +618,16 @@ studios:
       country: United Kingdom
     disciplines:
       - experiential
+    size: boutique
     founded: 1997
     notable:
       - Submergence
-    social:
-      instagram: https://www.instagram.com/squidie/
-      x: https://twitter.com/squidsoup
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/squidie/
+      x: https://twitter.com/squidsoup
   - name: ENESS
     url: https://www.eness.com/
     description: Melbourne art and technology studio making interactive public art, inflatables and installations for cultural and commercial clients.
@@ -541,16 +636,17 @@ studios:
       country: Australia
     disciplines:
       - experiential
+    size: boutique
     founded: 1997
-    careers: https://www.eness.com/jobs
     notable:
       - Tree Man
       - Airship Orchestra
-    social:
-      instagram: https://www.instagram.com/studioeness
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.eness.com/jobs
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/studioeness
   - name: Ars Electronica Futurelab
     url: https://ars.electronica.art/futurelab/en/
     description: Artistic R&D lab and atelier in Linz building prototypes, installations and immersive experiences at the meeting of art and technology.
@@ -560,14 +656,16 @@ studios:
     disciplines:
       - experiential
       - xr
+    size: small
+    founded: 1996
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://ars.electronica.art/about/en/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/arselectronica
       linkedin: https://www.linkedin.com/company/arselectronica
       youtube: https://www.youtube.com/arselectronica
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: United Visual Artists
     url: https://www.uva.co.uk/
     description: London art practice making light, sound and site-specific installations, plus stage visuals for live tours.
@@ -589,20 +687,21 @@ studios:
     hq:
       city: London
       country: United Kingdom
-    disciplines:
-      - experiential
     offices:
       - city: Berlin
         country: Germany
+    disciplines:
+      - experiential
+    size: small
     founded: 2005
     notable:
       - Rain Room
-    social:
-      instagram: https://www.instagram.com/randominternational/
-      vimeo: https://vimeo.com/randomvids
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/randominternational/
+      vimeo: https://vimeo.com/randomvids
   - name: Studio Drift
     url: https://studiodrift.com/
     description: Amsterdam artist studio making kinetic sculptures, drone shows and choreographed installations inspired by nature.
@@ -612,14 +711,14 @@ studios:
     disciplines:
       - experiential
     founded: 2007
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://studiodrift.com/work-at-drift/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/studio.drift/
       youtube: https://www.youtube.com/channel/UCHdtQzNCfh981CHKUo9i_fw
       x: https://twitter.com/studiodrift
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: NAKED, INC.
     url: https://naked.co.jp/
     description: Tokyo creative company producing projection mapping, immersive exhibitions and light art events.
@@ -628,9 +727,11 @@ studios:
       country: Japan
     disciplines:
       - experiential
+    markets:
+      - brand
     founded: 1997
-    careers: https://naked.co.jp/recruit
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://naked.co.jp/recruit
     url_status: ok
     url_last_verified: '2026-10-31'
     notes: Node fetch fails the TLS chain (server omits intermediate cert); loads in curl and browsers (2026-10-31).
@@ -643,15 +744,18 @@ studios:
     disciplines:
       - experiential
       - motion-design
+    markets:
+      - brand
+    size: small
     founded: 2011
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/nohlab/
       linkedin: https://tr.linkedin.com/company/nohlab
       vimeo: https://vimeo.com/nohlab
       x: https://twitter.com/nohlab_studio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Ocubo
     url: https://www.ocubo.com/
     description: Portuguese studio producing projection mapping, light festivals, ceremonies and multimedia shows.
@@ -660,17 +764,21 @@ studios:
       country: Portugal
     disciplines:
       - experiential
+    markets:
+      - brand
+    size: small
+    founded: 2000
     notable:
       - Lumina Light Festival
       - Rock in Rio Lisboa
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/ocubo/
       linkedin: https://www.linkedin.com/company/ocubo-criativo/
       vimeo: https://vimeo.com/ocubo
       youtube: https://www.youtube.com/user/OCUBOpro
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cocolab
     url: https://cocolab.mx/
     description: Mexico City multimedia entertainment studio creating immersive experiences, projection shows and interactive installations.
@@ -679,12 +787,12 @@ studios:
       country: Mexico
     disciplines:
       - experiential
-    social:
-      instagram: https://www.instagram.com/cocolab.mx/
-      x: https://twitter.com/cocolabmx
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/cocolab.mx/
+      x: https://twitter.com/cocolabmx
   - name: Daily tous les jours
     url: https://www.dailytouslesjours.com/
     description: Montreal art and design studio creating interactive, collective installations for public spaces.
@@ -693,16 +801,17 @@ studios:
       country: Canada
     disciplines:
       - experiential
+    size: small
     founded: 2010
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.dailytouslesjours.com/en/job-offers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dailytlj/
       linkedin: https://ca.linkedin.com/company/daily-tous-les-jours
       vimeo: https://vimeo.com/dailytouslesjours
       x: https://twitter.com/DailyTLJ
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Local Projects
     url: https://localprojects.com/
     description: New York exhibition and media design firm creating interactive experiences for museums and public spaces.
@@ -711,17 +820,19 @@ studios:
       country: United States
     disciplines:
       - experiential
-    careers: https://localprojects.com/careers/
+    size: mid
+    founded: 2001
     notable:
       - Planet Word
       - Greenwood Rising
       - Bloomberg London Mithraeum
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://localprojects.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/local_projects/
       linkedin: https://www.linkedin.com/company/local-projects
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Bluecadet
     url: https://www.bluecadet.com/
     description: Philadelphia experience design studio building interactive exhibits, media installations and digital products for museums and brands.
@@ -730,18 +841,20 @@ studios:
       country: United States
     disciplines:
       - experiential
+    markets:
+      - brand
     size: mid
-    founded: 2007
-    careers: https://www.bluecadet.com/careers
+    founded: 2005
     notable:
       - MIT Museum
       - Cleveland Museum of Art
       - Philadelphia Phillies Hall of Fame Club
-    social:
-      instagram: https://instagram.com/bluecadet
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.bluecadet.com/careers
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/bluecadet
   - name: Seeper
     url: https://seeper.com/
     description: London immersive experience studio making projection mapping, attractions and interactive installations.
@@ -750,16 +863,19 @@ studios:
       country: United Kingdom
     disciplines:
       - experiential
+    markets:
+      - brand
+    size: small
     founded: 1998
     notable:
       - Shrek's Adventure! London
       - Titanic Belfast centenary projection
-    social:
-      instagram: https://www.instagram.com/seeperstudios/
-      linkedin: https://uk.linkedin.com/company/seeper-com
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/seeperstudios/
+      linkedin: https://uk.linkedin.com/company/seeper-com
   - name: Jason Bruges Studio
     url: https://www.jasonbruges.com/
     description: London studio making interactive light installations, kinetic artworks and responsive architectural interventions.
@@ -768,13 +884,15 @@ studios:
       country: United Kingdom
     disciplines:
       - experiential
+    size: small
+    founded: 2002
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/jasonbrugesstudio/
       linkedin: https://www.linkedin.com/company/jason-bruges-studio-limited/
       x: https://twitter.com/jasonbruges
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Tellart
     url: https://www.tellart.com/
     description: Amsterdam experience design studio creating research-led immersive exhibits, pavilions and installations.
@@ -783,40 +901,48 @@ studios:
       country: Netherlands
     disciplines:
       - experiential
-    careers: https://www.tellart.com/careers/
+    markets:
+      - brand
+    size: small
+    founded: 2000
     notable:
       - Netherlands Pavilion, Expo 2025
       - Chrome Web Lab
       - Dinner in 2050
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.tellart.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/tellart/
       linkedin: https://www.linkedin.com/company/tellart/
       vimeo: https://vimeo.com/tellart
       youtube: https://www.youtube.com/@tellart
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Pixel Artworks
     url: https://pixelartworks.com/
     description: Immersive experience design and production studio making interactive installations for brands, retail and venues.
     hq:
       city: London
       country: United Kingdom
-    disciplines:
-      - experiential
     offices:
       - city: Dubai
         country: United Arab Emirates
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    size: mid
+    founded: 2005
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://pixelartworks.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/wearepixelartworks/
       linkedin: https://www.linkedin.com/company/pixelartworks/
       vimeo: https://vimeo.com/wearepixelartworks
       youtube: https://www.youtube.com/@PixelArtworksOfficial
       x: https://x.com/Pixelartworks_
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: S1T2
     url: https://s1t2.com/
     description: Sydney studio creating interactive installations and immersive storytelling experiences.
@@ -826,14 +952,18 @@ studios:
     disciplines:
       - experiential
       - xr
+    markets:
+      - brand
+    size: small
+    founded: 2008
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/s1t2creative
       linkedin: https://www.linkedin.com/company/s1t2
       youtube: https://www.youtube.com/user/S1T2aus
       x: https://twitter.com/S1T2
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: aircord
     url: https://aircord.co.jp/
     description: Tokyo creative studio using video, light and technology to make interactive installations and digital experiences.
@@ -843,14 +973,18 @@ studios:
     disciplines:
       - experiential
       - xr
+    markets:
+      - brand
+      - advertising
+    size: small
     founded: 2006
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/aircord_inc
       linkedin: https://www.linkedin.com/company/aircord
       x: https://twitter.com/aircord
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Studio Trika
     url: https://studiotrika.com/
     description: Bengaluru new-media collective producing immersive installations, projection shows and art-technology experiences.
@@ -868,27 +1002,34 @@ studios:
     hq:
       city: Tokyo
       country: Japan
-    disciplines:
-      - motion-design
-      - experiential
     offices:
       - city: Sendai
         country: Japan
       - city: London
         country: United Kingdom
-    careers: https://www.w0w.co.jp/careers
+    disciplines:
+      - motion-design
+      - experiential
+      - title-design
+    markets:
+      - brand
+      - advertising
+      - episodic
+    size: mid
+    founded: 1997
     notable:
       - null² pavilion, Expo 2025 Osaka
       - Kaiju No. 8 Season 2 opening
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.w0w.co.jp/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/wowinc_jp/
       linkedin: https://www.linkedin.com/company/wowinc/
       vimeo: https://vimeo.com/wowinc
       youtube: https://www.youtube.com/user/wowinctokyo
       x: https://x.com/wow_tokyo
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Prologue
     url: https://prologue.com/
     description: Venice, California design studio making main titles, film and TV graphics, commercials and experiential work.
@@ -898,16 +1039,22 @@ studios:
     disciplines:
       - title-design
       - motion-design
+      - experiential
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: mid
     founded: 2003
     notable:
       - 'Sherlock Holmes: A Game of Shadows'
       - Rango
       - 'X-Men: First Class'
-    social:
-      vimeo: https://vimeo.com/prologuefilms
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      vimeo: https://vimeo.com/prologuefilms
   - name: Momoco
     url: https://momoco.co.uk/
     description: London studio designing title sequences and graphics for film and television.
@@ -916,13 +1063,21 @@ studios:
       country: United Kingdom
     disciplines:
       - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    size: boutique
+    founded: 1999
     notable:
       - Slow Horses
       - The Gentlemen
       - The Capture
-    social:
-      instagram: https://instagram.com/momoco_film_titles
-      x: https://x.com/momocolondon
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/momoco_film_titles
+      x: https://x.com/momocolondon

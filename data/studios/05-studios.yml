@@ -8,14 +8,19 @@ studios:
     disciplines:
       - motion-design
       - live-action
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2012
     notable:
       - Netflix
       - HOKA
-    social:
-      instagram: https://www.instagram.com/los_york/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/los_york/
   - name: Lost Project
     url: https://www.lostproject.com/
     description: Los Angeles design collective led by Craig Stouffer and Kristen Olsen making titles, CGI and brand work for networks and esports.
@@ -26,17 +31,21 @@ studios:
       - motion-design
       - title-design
       - cg
+    markets:
+      - brand
+      - episodic
+      - games
     notable:
       - League of Legends
       - Hulu
       - UFC
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lostproject/
       vimeo: https://vimeo.com/user4337522
       behance: https://www.behance.net/lostproject
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: LOVO Films
     url: https://lovo.be/
     description: Belgian production company with a director roster and in-house production and post, making branded content, music videos and short fiction.
@@ -45,12 +54,18 @@ studios:
       country: Belgium
     disciplines:
       - live-action
-    social:
-      instagram: https://www.instagram.com/lovofilms
-      linkedin: https://www.linkedin.com/company/lovo-films/
+    markets:
+      - advertising
+      - music-video
+      - brand
+    size: small
+    founded: 2003
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/lovofilms
+      linkedin: https://www.linkedin.com/company/lovo-films/
   - name: loyalkaspar
     url: https://www.loyalkaspar.com/
     description: New York branding agency doing identity, custom type and motion for networks and media brands.
@@ -60,18 +75,22 @@ studios:
     disciplines:
       - motion-design
       - title-design
+    markets:
+      - brand
+    size: small
+    founded: 2003
     notable:
       - Paramount+
       - NASCAR
       - Starz
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/loyalkaspar/
       linkedin: https://www.linkedin.com/company/loyalkaspar
       vimeo: https://vimeo.com/loyalkaspar
       x: https://twitter.com/loyalkaspar
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Luciole
     url: https://luciole.com/
     description: Paris design and communication agency doing brand identity, editorial, digital and motion design for institutional clients.
@@ -80,13 +99,17 @@ studios:
       country: France
     disciplines:
       - motion-design
+    markets:
+      - brand
+    size: small
+    founded: 1991
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/agenceluciole/
       linkedin: https://www.linkedin.com/company/agence-luciole/
       youtube: https://www.youtube.com/@AgenceLUCIOLE
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Luma
     url: https://luma.co.za/
     description: South African animation, VFX and design studio making character animation for commercials and its own original IP.
@@ -94,19 +117,24 @@ studios:
       city: Johannesburg
       country: South Africa
     disciplines:
-      - animation
+      - 3d-animation
       - vfx
       - cg
+    markets:
+      - advertising
+      - episodic
+    size: small
+    founded: 2001
     notable:
       - Bun and Bunee
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/lumaanimation
       linkedin: https://www.linkedin.com/company/luma-animation/
       vimeo: https://vimeo.com/lumastudios
       youtube: https://youtube.com/@lumaanimationstudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: LUNAPARK collective
     url: https://lunapark.pl/
     description: Warsaw post-production studio doing animation, VFX, editing, grading and sound for commercials.
@@ -115,15 +143,20 @@ studios:
       country: Poland
     disciplines:
       - vfx
-      - animation
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+    size: small
+    founded: 2005
     notable:
       - Samsung
-    social:
-      instagram: https://www.instagram.com/lunapark_collective/
-      behance: https://www.behance.net/LUNAPARK
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/lunapark_collective/
+      behance: https://www.behance.net/LUNAPARK
   - name: Lunapark Film
     url: https://www.lunaparkfilm.com/
     description: Istanbul studio making AI ad films, 2D and 3D animation, motion graphics and illustration for brands and agencies.
@@ -131,16 +164,22 @@ studios:
       city: Istanbul
       country: Turkey
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2011
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lunaparkfilm/
       linkedin: https://www.linkedin.com/company/lunaparkfilm
       vimeo: https://vimeo.com/lunaparkfilm
       behance: https://www.behance.net/lunapark_film
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Lunar Animation
     url: https://lunaranimation.com/
     description: Sheffield CGI and VFX studio making full CG animation for feature films, game cinematics and attractions.
@@ -148,21 +187,27 @@ studios:
       city: Sheffield
       country: United Kingdom
     disciplines:
-      - animation
+      - 3d-animation
       - cg
       - vfx
       - cinematics
-    careers: https://lunaranimation.com/careers
-    reel: https://lunaranimation.com/showreel
+    markets:
+      - film
+      - games
+      - advertising
+    size: boutique
+    founded: 2014
     notable:
       - LEGO
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://lunaranimation.com/careers
+    reel: https://lunaranimation.com/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lunaranimation
       vimeo: https://vimeo.com/lunaranimation
       x: https://www.x.com/LunarAnimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Lunar North
     url: https://www.lunarnorth.tv/
     description: Ferndale, Michigan design, animation and interactive studio building motion-led brand systems for regional and national clients.
@@ -171,6 +216,11 @@ studios:
       country: United States
     disciplines:
       - motion-design
+    markets:
+      - brand
+      - advertising
+    size: boutique
+    founded: 2012
     notable:
       - University of Michigan
       - Michigan Lottery
@@ -187,18 +237,24 @@ studios:
       - xr
       - cg
       - motion-design
-    careers: https://lusion.co/careers
+      - experiential
+    markets:
+      - brand
+      - advertising
+    size: small
+    founded: 2017
     notable:
       - Google
       - Porsche
       - Cognition AI
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://lusion.co/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lusionltd/
       linkedin: https://www.linkedin.com/company/lusionltd/
       x: https://twitter.com/lusionltd/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: LVLY
     url: https://www.lvly.tv/
     description: New York studio combining editorial, design and CG/VFX for commercial work, from product beauty shots to campaign design.
@@ -209,15 +265,19 @@ studios:
       - cg
       - vfx
       - motion-design
+    markets:
+      - advertising
+      - brand
+    size: mid
     notable:
       - Ray-Ban
       - Amazon
-    social:
-      instagram: https://www.instagram.com/wearelvly/
-      linkedin: https://www.linkedin.com/company/wearelvly
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/wearelvly/
+      linkedin: https://www.linkedin.com/company/wearelvly
   - name: Mac Guff
     url: https://macguff.com/
     description: Paris VFX studio making digital effects for feature films, advertising, TV and music videos, with in-house software.
@@ -226,19 +286,26 @@ studios:
       country: France
     disciplines:
       - vfx
-      - animation
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+      - episodic
+      - music-video
+    size: mid
+    founded: 1986
     notable:
       - Astérix et Obélix
       - Chanel
       - McDonald's
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mac_guff/
       linkedin: https://www.linkedin.com/company/14143/
       vimeo: https://vimeo.com/macguff
       x: https://twitter.com/macguffparis
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Made By Things
     url: https://madebythings.com/
     description: Columbus, Ohio content agency making animation, motion design and brand video built on marketing strategy.
@@ -247,15 +314,20 @@ studios:
       country: United States
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    size: boutique
+    founded: 2009
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://madebythings.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/madebythings/
       vimeo: https://vimeo.com/madebythings
       youtube: https://www.youtube.com/channel/UCNS3RMQsj7coaxrvw4JsmQQ
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: MAINFRAME
     url: https://www.mainframe.co.uk/
     description: Independent London 3D animation and motion design studio making CGI for luxury, tech and medical brands and agencies.
@@ -266,15 +338,19 @@ studios:
       - cg
       - motion-design
       - product-viz
-      - vfx
+      - live-action
+    markets:
+      - advertising
+      - brand
+    size: small
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mainframe.co.uk/
       linkedin: https://www.linkedin.com/company/mainframe/
       youtube: https://www.youtube.com/@Mainframe-studio
       behance: https://www.behance.net/Mainframe
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Make 'em Say
     url: https://www.makeemsay.com/
     description: Amsterdam 3D animation studio working in small senior-led teams on films, advertising and experimental projects.
@@ -282,16 +358,20 @@ studios:
       city: Amsterdam
       country: Netherlands
     disciplines:
-      - animation
+      - 3d-animation
       - motion-design
       - cg
+    markets:
+      - advertising
+      - brand
+    founded: 2010
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/makeemsay
       linkedin: https://www.linkedin.com/company/make-em-say
       vimeo: https://vimeo.com/makeemsay
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: MakeMake
     url: https://makemake.com/
     description: Santa Monica integrated studio of directors, editors, animators, colorists and VFX artists making ads and entertainment work.
@@ -300,20 +380,24 @@ studios:
       country: United States
     disciplines:
       - vfx
-      - animation
       - motion-design
+      - live-action
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
     notable:
       - Nike Jordan
       - SKIMS
       - Audible
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/worldofmakemake/
       linkedin: https://www.linkedin.com/company/world-of-makemake/
       youtube: https://www.youtube.com/@WorldofMakeMake
       x: https://x.com/worldofmakemake
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: makemepulse
     url: https://www.makemepulse.com/
     description: Paris creative studio making digital platforms, real-time 3D, AR/VR and installations for luxury brands.
@@ -324,20 +408,26 @@ studios:
       - xr
       - experiential
       - cg
+      - games
       - motion-design
+    markets:
+      - brand
+      - advertising
+    size: small
+    founded: 2008
     notable:
       - Audemars Piguet
       - Dior
       - Moët & Chandon
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/makemepulse
       linkedin: https://www.linkedin.com/company/makemepulse
       vimeo: https://vimeo.com/makemepulse
       x: https://x.com/makemepulse
       behance: https://www.behance.net/makemepulse
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Makevisual
     url: https://makevisual.com/
     description: Minneapolis creation studio making motion design and narrative animation for brand and entertainment work, including tech campaigns.
@@ -346,39 +436,47 @@ studios:
       country: United States
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
     notable:
       - Microsoft
       - Google
       - Verizon
-    social:
-      linkedin: https://www.linkedin.com/company/make--/
-      x: https://twitter.com/makevisual
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      linkedin: https://www.linkedin.com/company/make--/
+      x: https://twitter.com/makevisual
   - name: MAkinĖ Studios
     url: https://makinestudios.com/
     description: Creative studio making show packages, brand campaigns and title sequences for entertainment networks and media brands.
     hq:
       city: Marina del Rey, CA
       country: United States
-    disciplines:
-      - title-design
-      - motion-design
     offices:
       - city: Venice, CA
         country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - brand
+      - episodic
+      - advertising
     notable:
       - National Geographic Pole to Pole
       - Disney Channel rebrand
       - MTV
-    social:
-      instagram: https://www.instagram.com/makinestudios/
-      linkedin: https://www.linkedin.com/company/makine-studios/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/makinestudios/
+      linkedin: https://www.linkedin.com/company/makine-studios/
   - name: MAMMAL
     url: https://www.mammal.studio/
     description: Atlanta motion design studio making title sequences and brand campaigns for TV networks and global brands.
@@ -388,17 +486,21 @@ studios:
     disciplines:
       - motion-design
       - title-design
+    markets:
+      - brand
+      - episodic
+      - advertising
     notable:
       - The Sing Sing Chronicles titles
       - Coca-Cola
       - Disney
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mammal.studio/
       linkedin: https://www.linkedin.com/company/studiomammal
       vimeo: https://vimeo.com/mammalagency
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mana
     url: https://www.mana.tv/
     description: Los Angeles design and animation studio making 2D and 3D character work and trailers for games and entertainment.
@@ -406,20 +508,25 @@ studios:
       city: Los Angeles, CA
       country: United States
     disciplines:
-      - animation
       - cinematics
+      - 3d-animation
+      - 2d-animation
       - motion-design
+    markets:
+      - games
+      - advertising
+    founded: 2016
     notable:
       - Marvel SNAP
       - Star Trek Fleet Command
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mana.animation/
       vimeo: https://vimeo.com/manaanimation
       behance: https://www.behance.net/manaanimation
       artstation: https://www.artstation.com/mana_animation_studio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Manic Motion
     url: https://manicmotion.studio/
     description: Montpellier graphic animation studio making custom 2D and 3D motion design for promotional and institutional films.
@@ -428,13 +535,18 @@ studios:
       country: France
     disciplines:
       - motion-design
-      - animation
-    social:
-      instagram: https://www.instagram.com/manic.motion/
-      vimeo: https://vimeo.com/manicmotion
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+      - music-video
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/manic.motion/
+      vimeo: https://vimeo.com/manicmotion
   - name: Manuel Cam
     url: https://manuelcam.fr/
     description: French stop-motion studio near Paris making puppet animation for commercials and narrative films.
@@ -443,6 +555,12 @@ studios:
       country: France
     disciplines:
       - stop-motion
+    markets:
+      - advertising
+      - music-video
+      - episodic
+      - film
+    founded: 2008
     notable:
       - Terry's Chocolate
       - Deda-Shvili
@@ -455,25 +573,30 @@ studios:
     hq:
       city: London
       country: United Kingdom
+    offices:
+      - city: Los Angeles, CA
+        country: United States
     disciplines:
       - motion-design
       - cg
       - live-action
-    offices:
-      - city: Los Angeles, CA
-        country: United States
-    careers: https://mvsm.com/jobs
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2007
     notable:
       - Apple
       - Ford
       - Moncler
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://mvsm.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/man.vs.machine/
       vimeo: https://vimeo.com/mvsm
       x: https://twitter.com/man_vs_machine
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Massive Assembly
     url: https://www.massive.work/
     description: Boutique Los Angeles studio making title design, broadcast branding and brand motion for media and cultural clients.
@@ -483,17 +606,20 @@ studios:
     disciplines:
       - title-design
       - motion-design
-    size: boutique
+    markets:
+      - brand
+      - episodic
+      - games
     notable:
       - The Weekly for The New York Times
       - Sundance Film Festival
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/massive.work/
       linkedin: https://linkedin.com/company/massiveassembly/
       behance: https://www.behance.net/massiveassembly
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mathematic Studio
     url: https://mathematic.tv/
     description: Paris VFX, animation and motion design studio making CG and art direction for advertising, music videos and luxury brands.
@@ -502,41 +628,51 @@ studios:
       country: France
     disciplines:
       - vfx
-      - animation
+      - 3d-animation
       - motion-design
       - cg
-    careers: https://mathematic.tv/contact/careers/
+    markets:
+      - advertising
+      - music-video
+      - brand
+      - games
+    size: mid
+    founded: 2006
     notable:
       - Apple
       - Versace
       - Ed Sheeran
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://mathematic.tv/contact/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mathematic.tv/
       linkedin: https://www.linkedin.com/company/mathematic-studio
       vimeo: https://vimeo.com/mathematicstudio
       artstation: https://www.artstation.com/mathematic
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mayda
     url: https://mayda.co/
     description: Creative studio in Brooklyn and London making brand films, animation, live action and immersive installations.
     hq:
       city: Brooklyn, NY
       country: United States
+    offices:
+      - city: London
+        country: United Kingdom
     disciplines:
       - motion-design
       - live-action
       - experiential
-    offices:
-      - city: London
-        country: United Kingdom
-    careers: https://mayda.co/jobs/
+    markets:
+      - brand
+      - advertising
     notable:
       - Spotify
       - eBay
       - Wimbledon
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://mayda.co/jobs/
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: MDI Digital
@@ -547,8 +683,11 @@ studios:
       country: United Kingdom
     disciplines:
       - cg
-      - animation
+      - 3d-animation
       - product-viz
+    markets:
+      - advertising
+      - brand
     notable:
       - Cadbury
       - The Hollywood Reporter
@@ -566,14 +705,17 @@ studios:
       - experiential
       - cg
       - xr
-      - animation
+    markets:
+      - brand
+      - advertising
+    founded: 2010
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://mediacraft.video/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/videomapping_mediacraft/
       linkedin: https://www.linkedin.com/company/mediacraftpl/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mellow Studio
     url: https://www.mellowstudio.tv/
     description: Athens motion design and animation studio making 2D, 3D and motion graphics work for brands, studios and agencies.
@@ -582,16 +724,20 @@ studios:
       country: Greece
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-30T21:40:17.280Z'
     reel: https://vimeo.com/462545735
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mellowstudio_
       linkedin: https://www.linkedin.com/company/mellowstudio/
       vimeo: https://vimeo.com/mellowstudio
       behance: https://www.behance.net/mellowstudio_
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: MELT studio
     url: https://www.bymelt.com/
     description: Warsaw immersive experience studio making installations, VR and multimedia live shows for brands.
@@ -602,29 +748,33 @@ studios:
       - experiential
       - xr
       - motion-design
-    reel: https://www.bymelt.com/showreel
+    markets:
+      - brand
     notable:
       - Netflix
       - Coca-Cola
       - Adobe
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://www.bymelt.com/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       vimeo: https://vimeo.com/bymelt
       x: https://twitter.com/byMELT
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mesai
     url: https://www.mesai.co.kr/
     description: South Korean animation studio making original short films, such as ALARM, alongside commercial projects.
     hq:
       country: South Korea
     disciplines:
-      - animation
-    social:
-      youtube: https://www.youtube.com/channel/UC2qMP8_Rh-GO6vdQklzSEVw
+      - 3d-animation
+    markets:
+      - advertising
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      youtube: https://www.youtube.com/channel/UC2qMP8_Rh-GO6vdQklzSEVw
   - name: Midnight Sherpa
     url: https://midnightsherpa.com/
     description: Boutique Pasadena studio making CG animation, trailers and UI motion for games, tech and entertainment brands.
@@ -635,16 +785,18 @@ studios:
       - cinematics
       - cg
       - motion-design
-    size: boutique
+    markets:
+      - games
+      - brand
     notable:
       - Star Citizen event trailers
       - Google
       - Riot Games
-    social:
-      instagram: https://www.instagram.com/midnightsherpa/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/midnightsherpa/
   - name: Mighty Nice
     url: https://mightynice.com.au/
     description: Sydney animation studio in the Nexus Studios group making commercials, experiences and original long-form work.
@@ -652,19 +804,23 @@ studios:
       city: Sydney
       country: Australia
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
+    markets:
+      - advertising
+      - brand
     notable:
       - Lemonade Insurance
       - TAC
       - The Grot
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mightynicesydney/
       linkedin: https://www.linkedin.com/company/mighty-nice-sydney/
       vimeo: https://vimeo.com/mightynice
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Millarc
     url: https://www.millarc.com/
     description: Kraków CGI studio making photoreal product renders and animation, liquid simulations and exploded views for tech brands.
@@ -674,14 +830,19 @@ studios:
     disciplines:
       - product-viz
       - cg
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2008
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/millarc_com/
       linkedin: https://zw.linkedin.com/company/millarc
       vimeo: https://vimeo.com/millarc
       behance: https://behance.net/millarc_
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mirada Studios
     url: https://mirada.com/
     description: Los Angeles creative agency and production company in the Trailer Park Group, making live action, animation, VFX and immersive work.
@@ -691,19 +852,24 @@ studios:
     disciplines:
       - live-action
       - vfx
-      - animation
+      - 3d-animation
       - experiential
-    reel: https://mirada.com/featured/studio-reel/
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - games
     notable:
       - Target
       - NHL
       - IBM
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://mirada.com/featured/studio-reel/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/miradastudios/
       linkedin: https://www.linkedin.com/company/mirada-studios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: MixCode
     url: https://mixcode.tv/
     description: Taipei studio making 2D and 3D animation, branding and motion graphics for festivals, brands and concert visuals.
@@ -712,19 +878,24 @@ studios:
       country: Taiwan
     disciplines:
       - motion-design
-      - animation
-    careers: https://mixcode.tv/join-us
-    reel: https://mixcode.tv/showreel
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2013
     notable:
       - Kaohsiung Design Festival
       - ROG
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://mixcode.tv/join-us
+    reel: https://mixcode.tv/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mixcode.studio/
       vimeo: https://vimeo.com/user13844783
       behance: https://www.behance.net/mixcode
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mixtape Club
     url: https://mixtapeclub.com/
     description: New York animation studio making motion graphics and explainers for tech and entertainment clients, including Sphere content.
@@ -733,16 +904,22 @@ studios:
       country: United States
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+      - experiential
+    markets:
+      - brand
+      - advertising
+    size: small
+    founded: 2005
     notable:
       - Google Gemini at the Las Vegas Sphere
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mixtapeclub
       vimeo: https://vimeo.com/mixtapeclub
       x: https://twitter.com/mixtapeclub
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: MK12
     url: https://www.mk12.com/
     description: Kansas City animation studio making film title sequences, in-game animation and commercials for film, TV, games and advertising.
@@ -752,7 +929,13 @@ studios:
     disciplines:
       - title-design
       - motion-design
-      - animation
+      - 2d-animation
+    markets:
+      - film
+      - games
+      - episodic
+      - advertising
+    size: small
     notable:
       - Stranger Than Fiction
       - Quantum of Solace
@@ -769,16 +952,21 @@ studios:
     disciplines:
       - motion-design
       - title-design
+      - vfx
+    markets:
+      - brand
+      - advertising
+      - episodic
     notable:
       - Get Millie Black
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mmmultiply/
       linkedin: https://www.linkedin.com/company/mmmultiply/
       vimeo: https://vimeo.com/mmmultiply
       x: https://twitter.com/mmmultiply
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Moment Factory
     url: https://momentfactory.com/
     description: Montreal entertainment studio making multimedia experiences that combine video, lighting, sound and interaction for venues and landmarks.
@@ -788,15 +976,19 @@ studios:
     disciplines:
       - experiential
       - xr
+    markets:
+      - brand
+    size: large
+    founded: 2001
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://momentfactory.com/pages/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/momentfactory/
       linkedin: https://www.linkedin.com/company/momentfactory/
       vimeo: https://vimeo.com/momentfactory
       youtube: https://www.youtube.com/@MomentFactory
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mondlicht Studios
     url: https://mondlicht-studios.de/
     description: German CGI studio and Epic Games service partner making automotive films, key art and Unreal Engine real-time content.
@@ -807,11 +999,17 @@ studios:
       - product-viz
       - cg
       - motion-design
-    reel: https://mondlicht-studios.de/showreel
+    markets:
+      - advertising
+      - film
     notable:
       - BMW
       - Porsche
       - Beauty and the Beast posters
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://mondlicht-studios.de/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mondlichtstudios/
       linkedin: https://www.linkedin.com/company/mondlichtstudios/
@@ -819,9 +1017,6 @@ studios:
       youtube: https://www.youtube.com/channel/UCTFFZ93IuKYgzL_0g2q8ZHw
       x: https://twitter.com/mondlicht_team
       behance: https://www.behance.net/mondlichtstudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mordisco Studio
     url: https://mordisco.studio/
     description: Barcelona design and animation studio making TV branding, commercials and film credits in 2D, 3D and illustration.
@@ -830,19 +1025,24 @@ studios:
       country: Spain
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
       - title-design
+      - 3d-animation
+    markets:
+      - brand
+      - film
+      - advertising
     notable:
       - 3Cat
       - Moritz
       - Solán de Cabras
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mordiscostudio/
       linkedin: https://www.linkedin.com/company/mordiscostudio
       vimeo: https://vimeo.com/mordiscostudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Morphika
     url: https://www.morphika.tv/
     description: Barcelona CGI and 3D design studio making art-directed brand films for luxury beauty and tech clients.
@@ -853,28 +1053,37 @@ studios:
       - cg
       - product-viz
       - motion-design
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2014
     notable:
       - SK-II
       - Natura Bissé
       - OnePlus
-    social:
-      instagram: https://www.instagram.com/morphika/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/morphika/
   - name: MoSoMoS
     url: https://mosomos.com/
     description: New York and Tokyo animation studio mixing stop motion, 2D, mixed media, motion control and practical effects for brands.
     hq:
       city: Brooklyn, NY
       country: United States
-    disciplines:
-      - stop-motion
-      - animation
-      - live-action
     offices:
       - city: Tokyo
         country: Japan
+    disciplines:
+      - stop-motion
+      - 2d-animation
+      - live-action
+      - vfx
+    markets:
+      - advertising
+      - brand
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
@@ -885,18 +1094,24 @@ studios:
       city: London
       country: United Kingdom
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - games
     notable:
       - Google Pixel
       - Netflix
       - Monument Valley 3
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/mothanimation/
       linkedin: https://www.linkedin.com/company/mothstudio/
       youtube: https://www.youtube.com/channel/UCYrO3sbKJa8X9R6KQxbPGMg
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Motion By Design
     url: https://motionbydesign.com.au/
     description: Adelaide animation and video agency making explainers, training films and social content for government, health and retail.
@@ -905,21 +1120,24 @@ studios:
       country: Australia
     disciplines:
       - motion-design
-      - animation
-    careers: https://motionbydesign.com.au/careers/
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
     notable:
       - SA Health
       - South Australia Police
       - Woolworths
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://motionbydesign.com.au/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/motionbydesign/
       linkedin: https://www.linkedin.com/company/motion-by-design/
       vimeo: https://vimeo.com/motionbydesignaus
       youtube: https://www.youtube.com/@motionbydesign
       behance: https://www.behance.net/motionbydesign
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Motion Force
     url: https://motionforce.tv/
     description: Sports broadcast design studio making graphics packages and 3D animation for Olympics, NFL, NBA and NASCAR coverage.
@@ -929,6 +1147,8 @@ studios:
       - motion-design
       - title-design
       - cg
+    markets:
+      - brand
     notable:
       - Olympic Games
       - NBA on ESPN
@@ -943,13 +1163,20 @@ studios:
       city: Brighton
       country: United Kingdom
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
+      - xr
+    markets:
+      - advertising
+      - brand
+      - episodic
+      - games
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.moveanimation.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/move_animation/
       linkedin: https://www.linkedin.com/company/moveanimation/
       vimeo: https://vimeo.com/moveanimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'

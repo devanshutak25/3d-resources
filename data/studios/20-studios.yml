@@ -1,0 +1,1194 @@
+studios:
+  - name: Gemini Studio
+    url: https://geministudio.tv/
+    description: Cairo creative studio producing CG, VFX and animated spots for regional brand campaigns for clients like Careem, Shell and Mobily.
+    hq:
+      city: Cairo
+      country: Egypt
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/geministudioo/
+      vimeo: https://vimeo.com/user31405548
+      behance: https://www.behance.net/studiostudiostudio
+  - name: Trend VFX
+    url: https://www.trendvfx.com/
+    description: Egyptian visual effects house delivering VFX, breakdowns and title work for regional cinema, streaming series and TV commercials.
+    hq:
+      city: Giza
+      country: Egypt
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: mid
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://www.trendvfx.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/trendvfx.me/
+      linkedin: https://www.linkedin.com/company/trend-vfx/
+      vimeo: https://vimeo.com/trendvfx
+      x: https://twitter.com/trend_vfx
+  - name: Dumiah Studio
+    url: https://www.dumiah.com/
+    description: Cairo 3D animation and VFX studio making original kids' series, Unreal Engine shorts and brand mascots, with in-house Xsens mocap.
+    hq:
+      city: Cairo
+      country: Egypt
+    disciplines:
+      - 3d-animation
+      - vfx
+      - mocap
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: small
+    founded: 2016
+    notable:
+      - Adventure Palace (with Spacetoon)
+      - The Book
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dumiahstudio/
+      linkedin: https://www.linkedin.com/company/dumiahstudio/
+      youtube: https://www.youtube.com/channel/UCLczoDx-UiqPSCKUJbFDBsQ
+      x: https://twitter.com/DumiahStudio
+      artstation: https://www.artstation.com/dumiahstudio
+    notes: LinkedIn says established 2016; site says 2017.
+  - name: Squids VFX
+    url: https://www.squidsarts.com/
+    description: Cairo visual effects studio providing 3D, compositing and simulation for film and television productions.
+    hq:
+      city: Cairo
+      country: Egypt
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2016
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://www.squidsarts.com/c-a-r-e-e-r-s
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/squidsvfx/
+      linkedin: https://www.linkedin.com/company/squids-digital-arts
+      vimeo: https://vimeo.com/squidsvisualarts
+      youtube: https://www.youtube.com/channel/UCTzySTbd2n2wkfuqc43qoyg
+  - name: Sparks Animation Studio
+    url: https://sparks.studio/
+    description: Abu Dhabi studio producing 2D and 3D animation, motion design and media content for regional clients.
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: small
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Steer Studios
+    url: https://www.steerstudios.com/
+    description: Riyadh game development studio, part of Savvy Games Group, building original games with an international and regional team.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://www.steerstudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/steer-studios
+      youtube: https://www.youtube.com/@SteerStudios
+  - name: UMX Studio
+    url: https://umxstudio.co/
+    description: Riyadh mobile game developer making driving and dune-bashing games with Saudi themes, such as King of Steering.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2014
+    notable:
+      - King of Steering
+      - Drift X
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://umxstudio.co/career-new/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/umxstudio/
+      linkedin: https://www.linkedin.com/company/umxstudio
+      youtube: https://www.youtube.com/@UMXStudio
+      x: https://x.com/UMXStudio
+  - name: Plarium
+    url: https://company.plarium.com/
+    description: 'Herzliya game developer and publisher making mobile and PC titles such as RAID: Shadow Legends and Mech Arena.'
+    hq:
+      city: Herzliya
+      country: Israel
+    offices:
+      - city: Lviv
+        country: Ukraine
+      - city: Kharkiv
+        country: Ukraine
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2009
+    notable:
+      - 'RAID: Shadow Legends'
+      - Mech Arena
+      - 'Vikings: War of Clans'
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://plarium.com/en/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/plarium/
+  - name: Exodo Animation Studios
+    url: https://www.exodoanimation.com/
+    description: Jalisco 3D character animation and concept art studio making game trailers, commercials and original IP for clients such as Lego and Hi-Rez.
+    hq:
+      city: Zapopan
+      country: Mexico
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - cg
+    markets:
+      - games
+      - advertising
+      - brand
+    size: small
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/exodoanimation
+      linkedin: https://www.linkedin.com/company/exodoanimation
+      youtube: http://www.youtube.com/@ExodoAnimation
+  - name: Demente Animation Studio
+    url: https://demente.studio/
+    description: Guadalajara 2D and 3D animation service studio producing series, features and music videos for North American and UK producers.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - music-video
+    size: small
+    founded: 2015
+    notable:
+      - City Island (PBS Kids)
+      - Thomas & Friends
+      - Night of the Animated Dead
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: dmnt.mx redirects to demente.studio.
+  - name: Fotosíntesis Media
+    url: https://fotosintesis.media/
+    description: Mexico City studio producing animated feature films with social themes, including the 2D feature My Friend the Sun.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    size: large
+    notable:
+      - My Friend the Sun
+      - A Costume for Nicolas
+      - The Angel in the Clock
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/fotosintesis_media/
+      youtube: https://www.youtube.com/channel/UCiUaBgqc6DEALq_4ES-c59A
+      x: https://twitter.com/FotosintesisM
+  - name: Mako Animation Studio
+    url: https://www.makoanimation.mx/
+    description: Guadalajara studio offering 2D animation pipeline services, cut-out animation and motion graphics, plus original IP development.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - outsourcing
+    markets:
+      - episodic
+      - advertising
+    size: small
+    founded: 2015
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mako_animation
+      youtube: https://www.youtube.com/c/MakoanimationMxGdl
+      x: https://x.com/MakoAnimation
+    notes: Domain redirects to new.makoanimation.mx.
+  - name: Boxel Studio
+    url: https://www.boxelstudio.com/
+    description: Tijuana animation and VFX studio producing CG animation and effects for advertising and entertainment clients across the Americas.
+    hq:
+      city: Tijuana
+      country: Mexico
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+      - film
+    size: mid
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://boxelstudio.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/boxelstudio/
+      linkedin: https://www.linkedin.com/company/boxel-studio/
+      vimeo: https://vimeo.com/user9946602
+    notes: Site claims 350+ artists; LinkedIn lists 51-200.
+  - name: APUS
+    url: https://apusestudio.com/
+    description: Lima 2D animation studio making music videos, TV series, features and ads for clients including HBO Max, Cartoon Network and Titmouse.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - 2d-animation
+    markets:
+      - music-video
+      - episodic
+      - film
+      - advertising
+    size: mid
+    founded: 2016
+    notable:
+      - 'Sia: Hey Boy!'
+      - 'Juice WRLD: The Party Never Ends'
+      - La Orquestita
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/apusestudio/
+      vimeo: https://vimeo.com/apusestudio
+      behance: https://www.behance.net/apusestudio
+  - name: Cluster Studio
+    url: https://www.clusterstudio.com/
+    description: Mexico City post-production studio providing VFX, design and animation, color and editorial for commercials and feature films.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - film
+    size: small
+    founded: 2004
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/cluster_studiomx
+      vimeo: https://vimeo.com/clusterstudio
+  - name: Golem Studio
+    url: https://www.golemstudio.net/
+    description: Lima animation house producing 2D and 3D character animation, from storyboards to rendering and VFX, for features and series.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2012
+    notable:
+      - Dalia and the Red Book
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://golemstudio.net/trabaja-con-nosotros/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/golemstudioanimation/
+      linkedin: https://www.linkedin.com/company/golemstudioanimation/
+      vimeo: https://vimeo.com/golemstudioanimation
+      artstation: https://www.artstation.com/golemstudioanimation
+    notes: Site footer reads 2022; LinkedIn lists 51-200 staff.
+  - name: Bombillo Amarillo
+    url: https://www.bombilloamarillo.com/
+    description: Medellín animation studio providing 2D cut-out, frame-by-frame and 3D animation, concept art and FX for international series and films.
+    hq:
+      city: Medellín
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: mid
+    founded: 2009
+    notable:
+      - La Violinista
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://bombilloamarillo.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bombilloamarillo/
+      youtube: https://www.youtube.com/channel/UCCZtnh-yFyDvnt4pbGHmLyg
+      x: https://twitter.com/B_AMARILLO
+  - name: Maneki Studio
+    url: https://www.manekistudio.com/
+    description: Lima animation studio offering full 2D and 3D pipelines for series, advertising and films, including Funko shorts and preschool shows.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - advertising
+      - film
+    size: mid
+    founded: 2011
+    notable:
+      - Polinopolis
+      - VeeFriends shorts
+      - Zoe Manualidades Divertidas
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/manekistudio.animation/
+      linkedin: https://www.linkedin.com/company/manekistudio
+      vimeo: https://vimeo.com/manekistudio
+  - name: Team Toon Studio
+    url: https://www.teamtoonstudio.com/
+    description: Colombian 2D and 3D animation service studio producing outsourced series animation for international producers.
+    hq:
+      city: Puerto Colombia
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+    size: small
+    founded: 2014
+    notable:
+      - Globetrotters
+      - Tempura Town
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: http://instagram.com/teamtoonstudio
+      vimeo: http://vimeo.com/user30920164
+      x: https://twitter.com/TeamToonStudio
+  - name: Formidable Studio
+    url: https://www.formidable.studio/
+    description: Santiago animation studio, formerly Carburadores.tv, making commissioned animation and the 2D feature Nahuel and the Magic Book.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - advertising
+    size: small
+    founded: 2007
+    notable:
+      - Nahuel and the Magic Book
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: http://instagram.com/formidable.studio
+      linkedin: https://linkedin.com/company/formidablestudio
+  - name: Believe
+    url: https://www.believe.tv/
+    description: Santiago production studio making 2D and 3D animated commercials for brands such as Clash Royale, Pokémon, Oreo and Coca-Cola.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+      - games
+    size: small
+    founded: 2008
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/believe.tv/
+      linkedin: https://www.linkedin.com/company/believetv
+      vimeo: https://vimeo.com/believe
+    notes: LinkedIn HQ Las Condes, Santiago.
+  - name: Lucy Animation Studio
+    url: https://www.lucyanimationstudio.com/
+    description: Bogotá 2D animation studio directing commercial projects and developing original animated IP, with an office in the US.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - episodic
+    size: small
+    founded: 2016
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/lucy-animation-studio/
+    notes: Made the 2023 Pixelatl festival trailer (Cartoon Brew). Site shows client logos only, unlabeled.
+  - name: Polar Studio
+    url: https://polarstudio.tv/
+    description: Guadalajara VFX and motion graphics studio producing commercial work for brands like Telcel, Samsung, Red Bull and Nickelodeon.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: LinkedIn HQ field says Zapopan; About text and site say Guadalajara.
+  - name: Poston Digital Arts
+    url: https://poston.studio/
+    description: Santiago VFX and animation company producing CGI, 2D/3D animation and AR/VR activations for commercials, series and its own films.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - vfx
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - film
+      - brand
+    size: small
+    founded: 2003
+    notable:
+      - Maya and the Three AR campaign (Netflix)
+      - Un like de Navidad
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/poston_digital_arts/
+      linkedin: https://www.linkedin.com/company/poston-works/
+  - name: Usiku Games
+    url: https://www.usiku.games/
+    description: Nairobi game studio making mobile and PC games with African themes, plus impact and brand games for partners such as CGIAR.
+    hq:
+      city: Nairobi
+      country: Kenya
+    disciplines:
+      - games
+    markets:
+      - games
+      - brand
+    size: small
+    founded: 2018
+    notable:
+      - 'Wahenga: The Lost Ancestors'
+      - 'Electric Blue: Gecko Dash'
+      - Shamba Showdown
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/usiku-games/
+      youtube: https://youtube.com/channel/UCAk58yrD-JS080xU44HYuAQ
+      x: https://twitter.com/usikiugames
+  - name: Kiro'o Games
+    url: https://kirooworld.com/
+    description: Yaoundé video game studio building African fantasy games and comics around its Aurion universe for PC and mobile.
+    hq:
+      city: Yaoundé
+      country: Cameroon
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2013
+    notable:
+      - 'Aurion: Legacy of the Kori-Odan'
+      - 'Aurion: Kajuta Gems Fighters'
+    added_at: '2026-10-31T05:09:10.962Z'
+    careers: https://kirooworld.com/recrutement
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      x: https://twitter.com/KIROOGames
+  - name: Maliyo Games
+    url: https://www.maliyo.com/
+    description: 'Lagos game studio making casual mobile games rooted in African culture, including Disney Iwájú: Rising Chef.'
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2012
+    notable:
+      - 'Disney Iwájú: Rising Chef'
+      - Whot King
+      - Lagos Fashion
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/maliyogames/
+      linkedin: https://www.linkedin.com/company/maliyo-games/
+      youtube: https://www.youtube.com/@maliyogames
+      x: https://x.com/maliyogames
+  - name: Kucheza Gaming
+    url: https://kuchezagaming.com/
+    description: Lagos game studio developing games from African mythology and offering 2D and 3D game art outsourcing and co-development.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    size: small
+    founded: 2019
+    notable:
+      - The Wild Kingdoms
+      - Danfo Dash
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/kuchezagaming
+      linkedin: https://linkedin.com/company/kuchezagaming
+      x: https://twitter.com/kuchezagaming
+  - name: Magic Carpet Studios
+    url: https://magiccarpet.studio/
+    description: Lagos animation studio producing series, features, commercials and educational animation, including work on Cartoon Network's Garbage Boy and Trash Can.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: small
+    founded: 2016
+    notable:
+      - Garbage Boy and Trash Can
+      - Sip
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/magiccarpetstudios_
+      linkedin: https://www.linkedin.com/company/magic-carpet-studios
+      youtube: https://www.youtube.com/@MagicCarpetStudios
+  - name: Orange VFX Studios
+    url: https://www.orangevfx.com/
+    description: Lagos studio producing 3D animation, VFX, motion graphics and archviz for African brands, and running a training academy.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+      - archviz
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.962Z'
+    careers: https://orangevfx.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/orangevfxstudios/
+      linkedin: https://www.linkedin.com/company/orangevfx/
+      youtube: https://www.youtube.com/orangevfx
+      x: https://twitter.com/orangevfx
+  - name: Basement Animation
+    url: https://www.basementanimation.com/
+    description: Lagos animation studio producing original African content and animation services for international film, TV and digital productions.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: small
+    founded: 2011
+    notable:
+      - Raga Shaga Mama
+      - Eni & Tani
+    added_at: '2026-10-31T05:09:10.962Z'
+    careers: https://careers.basementanimation.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/basementng
+      linkedin: https://www.linkedin.com/company/basementng
+      vimeo: https://www.vimeo.com/basementng
+      x: https://www.twitter.com/basementng
+    notes: Site says founded 2011, animation-focused since 2016; LinkedIn says 2008.
+  - name: Eaxum
+    url: https://www.eaxum.com/
+    description: Nigerian animation studio making culturally rooted 3D films, commercial spots, music videos and interactive pieces.
+    hq:
+      city: Ikeja
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - music-video
+      - film
+    size: small
+    notable:
+      - Adidas Creator Club
+      - 'Knucks: Cut Knuckles'
+    added_at: '2026-10-31T05:09:10.962Z'
+    careers: https://eaxum.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/eaxum
+      youtube: https://youtube.com/@eaxum
+    notes: Ikeja is in Lagos State.
+  - name: Split Studio
+    url: https://www.splitstudio.tv/
+    description: São Paulo 2D animation studio producing series, films and games for networks such as Cartoon Network, Nickelodeon and Sanrio.
+    hq:
+      city: São Paulo
+      country: Brazil
+    offices:
+      - city: Brossard
+        country: Canada
+      - city: Fort Worth
+        country: United States
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - games
+    size: mid
+    founded: 2009
+    notable:
+      - Rick and Morty (season 5 episodes)
+      - 'Hello Kitty: Super Cute Adventures'
+      - Tito e os Pássaros
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/splitstudiobr/
+      linkedin: https://www.linkedin.com/company/splitstudio/
+      vimeo: https://vimeo.com/splitstudio
+      youtube: https://www.youtube.com/c/SplitStudioBR
+    notes: Site footer reads 2020; LinkedIn lists 51-200 staff.
+  - name: Miagui
+    url: https://miagui.cc/
+    description: Porto Alegre content studio producing CGI, animation, illustration and retouching for automotive, appliance, food and electronics brands.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    disciplines:
+      - product-viz
+      - cg
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: mid
+    added_at: '2026-10-31T05:09:10.962Z'
+    careers: https://miagui.cc/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/gomiagui/
+      linkedin: https://www.linkedin.com/company/miagui-imagevertising/
+      vimeo: https://vimeo.com/user34010804
+      behance: https://www.behance.net/Miagui
+  - name: Combo Studio
+    url: https://www.combostudio.com.br/
+    description: Rio de Janeiro 2D animation studio providing cut-out and paperless animation for series, music videos, ads and games.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - music-video
+      - advertising
+      - games
+    size: mid
+    founded: 2015
+    notable:
+      - Hazbin Hotel
+      - Rick and Morty
+      - Agent Elvis
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/comboestudio/
+      youtube: https://www.youtube.com/channel/UCD7YABqioIBkZzLFlqSfeaA
+  - name: Histeria!
+    url: https://histeria.studio/
+    description: São Paulo animation and motion studio producing cinematics, anthems and announcement films for Riot Games, Discord and other brands.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - cinematics
+    markets:
+      - games
+      - advertising
+      - brand
+    size: small
+    founded: 2013
+    notable:
+      - 'League of Legends: Welcome Back, Summoners'
+      - Valorant Console Announce
+      - 'Song of Nunu: You and Me Makes Us'
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/histeria.studios/
+      linkedin: https://www.linkedin.com/company/-histeria-/
+      vimeo: https://vimeo.com/histeria
+      behance: https://www.behance.net/histeria
+  - name: Hype Entertainment
+    url: https://www.hype.cg/
+    description: Porto Alegre animation studio creating original IP, series and films, and partnering with Punkrobot on service work for clients like Rovio.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - games
+    markets:
+      - episodic
+      - film
+      - games
+    size: small
+    founded: 2002
+    notable:
+      - Reverie Knights
+      - Talking Hank
+    added_at: '2026-10-31T05:09:10.962Z'
+    careers: https://www.hype.cg/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/hypeanimation/
+      linkedin: https://www.linkedin.com/company/hype-cg
+      vimeo: https://vimeo.com/hypecg
+      youtube: https://www.youtube.com/user/hypestudio
+    notes: Formerly hype.cg / Hype Animation Studio Brasil.
+  - name: Barajoun Studios
+    url: https://www.barajoun.com/
+    description: Gulf animation and VFX studio behind the CG feature Bilal and the sci-fi series Ajwan, also producing shorts and commercials.
+    hq:
+      city: Jeddah
+      country: Saudi Arabia
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2013
+    notable:
+      - 'Bilal: A New Breed of Hero'
+      - Ajwan
+      - Ziryab & the Magical Opus
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/barajoun-studios/
+    notes: LinkedIn HQ is Jeddah; site references UAE-made projects. Founded date is the LinkedIn page's.
+  - name: Al-Zahra Studio
+    url: https://alzahravfx.com/
+    description: Dubai VFX and 3D animation studio delivering effects for Indian and Arab features such as RRR and Baahubali 2, plus TV and ads.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: mid
+    founded: 2003
+    notable:
+      - RRR
+      - 'Baahubali 2: The Conclusion'
+      - 'Ponniyin Selvan: II'
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/alzahravfx
+      linkedin: https://www.linkedin.com/company/alzahra
+      youtube: https://www.youtube.com/channel/UCwXkdC8RzLRXxGawDQB9bpw
+      x: https://twitter.com/AlzahraStudio
+  - name: Mighty Animation
+    url: https://mighty.mx/
+    description: Guadalajara 2D and CG animation studio providing animation, storyboards and design for Disney, Adult Swim, Netflix and Nickelodeon shows.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    size: large
+    founded: 2012
+    notable:
+      - Rick and Morty (season 5)
+      - 'Vampirina: The Ghoul Girls'
+      - Legend Quest
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mightyanimation/
+      x: https://twitter.com/mightystudio
+    notes: mightyanimation.com has an expired TLS cert; mighty.mx is live. LinkedIn shows hiring posts within the last 3 months.
+  - name: Dogzilla Studio
+    url: https://www.dogzilla.com.br/
+    description: Curitiba 2D animation and illustration studio making kids' series, shorts and comics for clients such as Netflix, Warner and PlayKids.
+    hq:
+      city: Curitiba
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: small
+    founded: 2008
+    notable:
+      - O Menino Maluquinho (Netflix)
+      - Aztec Batman (Warner)
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: dogzillastudio.com redirects to dogzilla.com.br.
+  - name: Merkén Studios
+    url: https://www.merken.tv/
+    description: Santiago studio, formerly KeyEffx, producing 2D and 3D animation, motion capture and AR pieces for television, web and film.
+    hq:
+      city: Santiago
+      country: Chile
+    offices:
+      - city: Boston
+        country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - mocap
+    markets:
+      - episodic
+      - advertising
+    size: small
+    founded: 2012
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/merkenstudios/
+      linkedin: https://www.linkedin.com/company/merkenstudios/
+      vimeo: https://vimeo.com/merkenstudios
+      x: http://twitter.com/merkenstudios
+    notes: Site footer reads 2021.
+  - name: Leti Arts
+    url: https://www.letiarts.com/
+    description: Accra game studio making mobile games and digital comics based on African history and folklore, and running developer contests.
+    hq:
+      city: Accra
+      country: Ghana
+    disciplines:
+      - games
+    markets:
+      - games
+    size: boutique
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/leti-arts/
+    notes: letiarts.com redirects to letigames.com, which renders client-side only; LinkedIn shows posts from the last few days.
+  - name: Mono Animation
+    url: https://www.monoanimation.com.br/
+    description: São Paulo animation producer creating 2D and CG worlds and stories for entertainment series, films and advertising.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: small
+    founded: 2006
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/mono-animation/
+    notes: Site returns 403 to the fetcher (bot-blocked); LinkedIn shows posts from the last few days.
+  - name: Final Pixel
+    url: https://www.finalpixel.com/
+    description: Virtual production studio in London running LED volume shoots, virtual art department and real-time world building for film, series and ads.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2020
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/_finalpixel
+      linkedin: https://www.linkedin.com/company/final-pixel/
+      youtube: https://www.youtube.com/@_finalpixel
+      x: https://x.com/_FinalPixel
+  - name: Garden Studios
+    url: https://gardenstudios.io/
+    description: Film and TV studio campus in Park Royal, London, with sound stages and a permanent LED wall for virtual production shoots.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://gardenstudios.io/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/gardenstudioshq/
+      linkedin: https://www.linkedin.com/company/gardenstudioshq
+      youtube: https://www.youtube.com/@gardenstudioshq3469
+      x: https://twitter.com/GardenStudiosHQ
+    notes: LinkedIn lists founded 2020 but its About text says established 2021, so founded omitted.
+  - name: Bild Studios
+    url: https://www.bildstudios.com/
+    description: Live visuals and media technology studio in London for stage shows, broadcast and events, and the team behind the MARS Volume LED stage.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+      - experiential
+    markets:
+      - brand
+      - music-video
+    size: small
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bildstudios.social
+      linkedin: https://www.linkedin.com/company/bild-studios
+      x: https://twitter.com/bildvisual
+  - name: Quite Brilliant
+    url: https://www.quitebrilliant.co.uk/
+    description: Virtual production studio in London with its own LED stage, making commercials and branded content from concept through CGI and post.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+      - live-action
+      - vfx
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2013
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/quitebrilliant/
+      linkedin: https://uk.linkedin.com/company/quitebrilliant
+      vimeo: https://vimeo.com/quitebrilliant
+  - name: Painting Practice
+    url: https://paintingpractice.com/
+    description: Design studio in Cardiff doing concept art, previs, postvis, techvis, virtual production and in-show graphics for film and TV drama.
+    hq:
+      city: Cardiff
+      country: United Kingdom
+    disciplines:
+      - previs
+      - virtual-production
+      - cg
+      - motion-design
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2005
+    notable:
+      - His Dark Materials
+      - Black Mirror
+      - Doctor Who
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/painting_practice
+      linkedin: https://linkedin.com/company/painting-practice
+      youtube: https://www.youtube.com/@paintingpractice
+      artstation: https://www.artstation.com/painting_practice
+  - name: Vū
+    url: https://www.vu.studio/
+    description: Virtual production company running a network of LED volume stages and building creative tools for brands, filmmakers and creators.
+    hq:
+      city: Tampa
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+      - film
+    size: mid
+    founded: 2020
+    added_at: '2026-10-31T05:09:10.964Z'
+    careers: https://www.vu.studio/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/vu.network/
+      linkedin: https://www.linkedin.com/company/vu-network
+      x: https://x.com/vu_studio

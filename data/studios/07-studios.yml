@@ -8,16 +8,21 @@ studios:
     disciplines:
       - title-design
       - motion-design
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 1995
     notable:
       - Succession
       - Starfleet Academy
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/picturemillla/
       linkedin: https://www.linkedin.com/company/picturemill/
       youtube: https://www.youtube.com/@picturemill
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Picturesmith
     url: https://picturesmith.com/
     description: London stop-motion studio building sets and puppets for commercials, plus 2D animation for brands and agencies.
@@ -26,48 +31,59 @@ studios:
       country: United Kingdom
     disciplines:
       - stop-motion
-      - animation
-    careers: https://picturesmith.com/jobs/
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2007
     notable:
       - Disney
       - LEGO
       - Google
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://picturesmith.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/picturesmith/
       linkedin: https://www.linkedin.com/company/picturesmith
       vimeo: https://vimeo.com/picturesmith
       youtube: https://www.youtube.com/@picturesmiths
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Pigeon Studio
     url: https://studiopigeon.com/
     description: Kraków animation studio making 2D and 3D explainers, game trailers and product marketing films.
     hq:
       city: Kraków
       country: Poland
-    disciplines:
-      - animation
-      - motion-design
-      - cinematics
     offices:
       - city: Warsaw
         country: Poland
-    careers: https://studiopigeon.com/jobs/
-    reel: https://studiopigeon.com/portfolio/showreel/
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - cinematics
+    markets:
+      - brand
+      - advertising
+      - games
+    size: small
     notable:
       - Vinted
       - Unilever
       - Electrolux
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://studiopigeon.com/jobs/
+    reel: https://studiopigeon.com/portfolio/showreel/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/studio_pigeon/
       linkedin: https://linkedin.com/company/pigeonstudio
       vimeo: https://vimeo.com/studiopigeon
       youtube: https://www.youtube.com/channel/UCZk-FbC3iEeLRSdv5O7qKOg
       behance: https://www.behance.net/studiopigeon
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Pixel Farm
     url: https://pixelfarm.gr/
     description: 3D animation and VFX studio making TV commercials, social campaigns and branded content.
@@ -75,9 +91,15 @@ studios:
       city: Athens
       country: Greece
     disciplines:
-      - cg
-      - animation
+      - 3d-animation
+      - 2d-animation
+      - motion-design
       - vfx
+      - cg
+    markets:
+      - advertising
+      - brand
+    founded: 2012
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
@@ -89,12 +111,14 @@ studios:
       country: United Kingdom
     disciplines:
       - motion-design
-      - animation
-    reel: https://pixelpassion.tv/showreel
+      - 2d-animation
+    markets:
+      - brand
     notable:
       - Vampirina bumpers
       - Disney Junior
     added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://pixelpassion.tv/showreel
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Plains of Yonder
@@ -107,6 +131,11 @@ studios:
       - title-design
       - experiential
       - motion-design
+    markets:
+      - episodic
+      - brand
+    size: boutique
+    founded: 2014
     notable:
       - The White Lotus
     added_at: '2026-10-30T21:40:17.280Z'
@@ -118,10 +147,6 @@ studios:
     hq:
       city: Warsaw
       country: Poland
-    disciplines:
-      - cinematics
-      - vfx
-      - animation
     offices:
       - city: Manhattan Beach, CA
         country: United States
@@ -129,19 +154,29 @@ studios:
         country: Spain
       - city: Tokyo
         country: Japan
+    disciplines:
+      - cinematics
+      - vfx
+      - 3d-animation
+    markets:
+      - games
+      - advertising
+      - episodic
+      - film
     size: large
-    careers: https://platige.com/careers/
-    reel: https://platige.com/news/new-game-cinematics-showreel-is-here/
+    founded: 1997
     notable:
       - The Witcher
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://platige.com/careers/
+    reel: https://platige.com/news/new-game-cinematics-showreel-is-here/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/platigeimage/
       linkedin: https://www.linkedin.com/company/platige-image/
       youtube: https://www.youtube.com/user/PlatigeImage
       x: https://x.com/PlatigeImage
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: playard studios
     url: https://www.playardstudios.com/
     description: Miami Beach virtual production studio running Unreal Engine LED volumes, previs and in-camera VFX for film and TV.
@@ -152,15 +187,20 @@ studios:
       - virtual-production
       - vfx
       - previs
+    markets:
+      - film
+      - episodic
+    size: boutique
+    founded: 2019
     notable:
       - 'Ant-Man and the Wasp: Quantumania'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/playard_studios/
       linkedin: https://www.linkedin.com/company/playard-studios
       youtube: https://www.youtube.com/@playardstudios3161
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Playground
     url: https://playgroundparis.com/
     description: Paris graphic design studio making motion, illustration and festival identities for broadcast and cultural clients.
@@ -169,16 +209,19 @@ studios:
       country: France
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
     notable:
       - McDonald's France
       - Sidaction
       - Pitchfork Music Festival
-    social:
-      instagram: https://instagram.com/playground.paris
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/playground.paris
   - name: Plenty
     url: https://plenty.tv/
     description: Buenos Aires studio building animated brand identities, characters and content systems for networks and brands.
@@ -187,17 +230,22 @@ studios:
       country: Argentina
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+    size: small
+    founded: 2010
     notable:
       - Nickelodeon
       - Disney XD
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/plenty.tv
       linkedin: https://ar.linkedin.com/company/plenty
       behance: https://www.behance.net/plentytv
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: PlusOne Amsterdam
     url: https://plusoneamsterdam.com/
     description: Independent studio making brand identity systems, motion graphics and self-initiated digital art.
@@ -206,17 +254,20 @@ studios:
       country: Netherlands
     disciplines:
       - motion-design
+    markets:
+      - brand
+    size: small
     founded: 2009
-    reel: https://plusoneamsterdam.com/showreel
     notable:
       - Tommy Hilfiger
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://plusoneamsterdam.com/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/plusoneamstagram/
       linkedin: https://nl.linkedin.com/company/plusone
       x: https://twitter.com/plusoneams
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Polyester Studio
     url: https://polyesterstudio.com/
     description: Toronto animation studio designing brand mascots and character-led campaigns for consumer and finance brands.
@@ -224,19 +275,25 @@ studios:
       city: Toronto
       country: Canada
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2010
     notable:
       - DoorDash
       - Fidelity
       - State Farm
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/polyesterstudio/
       linkedin: https://www.linkedin.com/company/polyesterstudio
       vimeo: https://vimeo.com/polyester
       behance: https://www.behance.net/polyesterstudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Polynoid
     url: https://www.polynoid.tv/
     description: Berlin animation collective making 3D commercials, product visuals, character work and VFX.
@@ -245,18 +302,23 @@ studios:
       country: Germany
     disciplines:
       - cg
-      - animation
+      - 3d-animation
       - vfx
       - product-viz
+    markets:
+      - advertising
+      - games
+    size: boutique
+    founded: 2007
     notable:
       - Apple
       - Adidas
       - Halo 4
-    social:
-      instagram: https://www.instagram.com/polynoid.tv/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/polynoid.tv/
   - name: PopClutch
     url: https://popclutch.openroad.la/
     description: Burbank studio making entertainment branding, show packaging and on-air graphics for networks and streamers.
@@ -266,15 +328,20 @@ studios:
     disciplines:
       - title-design
       - motion-design
+    markets:
+      - brand
+      - episodic
+    size: boutique
+    founded: 2022
     notable:
       - Paramount+
       - CBS News
       - Enola Holmes 2
-    social:
-      instagram: https://www.instagram.com/popclutchla/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/popclutchla/
   - name: Post Office Studios
     url: https://www.postofficestudios.com/
     description: Mumbai motion design and new media studio making 3D animation and immersive content for global brands.
@@ -285,18 +352,22 @@ studios:
       - motion-design
       - cg
       - xr
+    markets:
+      - brand
+      - advertising
+    size: small
     notable:
       - LEGO
       - Nothing
       - Netflix
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/postoffice.studios/
       linkedin: https://www.linkedin.com/company/post-office-studios/
       vimeo: https://vimeo.com/postofficestudios
       behance: https://www.behance.net/postofficestudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Posthuman Studio
     url: https://posthuman.studio/
     description: London studio making CGI films and product visuals for luxury beauty, fashion and tech brands.
@@ -307,18 +378,23 @@ studios:
       - cg
       - product-viz
       - vfx
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2020
     notable:
       - Lancôme
       - Cartier
       - Valentino
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/posthuman.studio/
       linkedin: https://www.linkedin.com/company/posthuman-studio/
       vimeo: https://vimeo.com/user111995703
       behance: https://www.behance.net/posthuman
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Preymaker
     url: https://preymaker.com/
     description: New York creative studio making VFX, real-time animation and AR/VR work on a cloud-based pipeline for advertisers.
@@ -328,18 +404,22 @@ studios:
     disciplines:
       - vfx
       - xr
-      - animation
+      - 3d-animation
+    markets:
+      - advertising
+    size: small
+    founded: 2020
     notable:
       - Toyota
       - Nike
       - McDonald's
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/preymaker/
       linkedin: https://www.linkedin.com/company/preymaker/
       youtube: https://www.youtube.com/@preymaker9411
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Private Island
     url: https://www.privateisland.tv/
     description: London production studio mixing live action, motion design and generative AI for brand commercials.
@@ -349,15 +429,17 @@ studios:
     disciplines:
       - live-action
       - motion-design
+    markets:
+      - advertising
     notable:
       - McDonald's
       - Dell
       - Meta Quest
-    social:
-      instagram: https://www.instagram.com/privateislandtv/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/privateislandtv/
   - name: Psyop
     url: https://psyop.com/
     description: New York artist-led studio collective making character animation, mixed media, design and VFX for games, sports and brands.
@@ -365,15 +447,22 @@ studios:
       city: New York, NY
       country: United States
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
       - motion-design
       - vfx
-    social:
-      instagram: https://www.instagram.com/psyop/
-      linkedin: https://www.linkedin.com/company/psyop/
+    markets:
+      - advertising
+      - games
+      - brand
+    size: mid
+    founded: 2000
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/psyop/
+      linkedin: https://www.linkedin.com/company/psyop/
   - name: Purple Martin Studio
     url: https://www.purplemartin.studio/
     description: London studio making high-end stills post-production, motion design and VFX for fashion and lifestyle brands.
@@ -383,14 +472,18 @@ studios:
     disciplines:
       - vfx
       - motion-design
+    markets:
+      - advertising
+      - brand
+      - music-video
     notable:
       - On Running
       - FKA twigs
-    social:
-      instagram: https://www.instagram.com/purple_martin_studio/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/purple_martin_studio/
   - name: QuietMan
     url: https://quietman.com/
     description: New York production and effects house making VFX, matte painting, design and live-action spots, including Super Bowl ads.
@@ -401,16 +494,20 @@ studios:
       - vfx
       - live-action
       - motion-design
+    markets:
+      - advertising
+    size: small
+    founded: 1996
     notable:
       - Doritos
       - Eliquis
       - Mr. Clean
-    social:
-      linkedin: https://www.linkedin.com/company/quietman
-      vimeo: https://vimeo.com/quietmanonline
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      linkedin: https://www.linkedin.com/company/quietman
+      vimeo: https://vimeo.com/quietmanonline
   - name: Racoon Studio
     url: https://racoonstudio.com/
     description: Milan animation and motion design studio making character-led narrative videos for brands and agencies.
@@ -418,21 +515,25 @@ studios:
       city: Milan
       country: Italy
     disciplines:
-      - animation
+      - 2d-animation
       - motion-design
-    founded: 2006
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2005
     notable:
       - Ray-Ban
       - Woolrich
       - Inter
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/racoon_studio/
       linkedin: https://www.linkedin.com/company/racoon-studio-s-n-c-/
       vimeo: https://vimeo.com/racoonstudio
       behance: https://www.behance.net/RACOON_STUDIO
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Raumkapsel Animation
     url: https://raumkapsel.space/
     description: Kassel studio making 3D character animation for children's TV and branded content.
@@ -440,16 +541,19 @@ studios:
       city: Kassel
       country: Germany
     disciplines:
-      - animation
+      - 3d-animation
       - cg
+    markets:
+      - episodic
+      - brand
     notable:
       - Die Sendung mit der Maus
       - Deutsche Telekom
-    social:
-      instagram: https://www.instagram.com/raumkapsel_animation/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/raumkapsel_animation/
   - name: Raxo
     url: https://raxo.co/
     description: New York agency making design, animation and web work for music, fashion and entertainment brands.
@@ -458,19 +562,24 @@ studios:
       country: United States
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+    markets:
+      - brand
+      - music-video
+    size: small
+    founded: 2013
     notable:
       - Nike
       - Disney
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/raxo_studios/
       linkedin: https://www.linkedin.com/company/raxo/
       vimeo: https://vimeo.com/raxo
       x: https://twitter.com/raxo_studios
       behance: https://www.behance.net/raxo
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Red Paper Heart
     url: https://redpaperheart.com/
     description: Brooklyn art and design studio where designers and coders build interactive installations and data-driven experiences.
@@ -480,15 +589,19 @@ studios:
     disciplines:
       - experiential
       - xr
-    careers: https://redpaperheart.com/jobs
+    markets:
+      - brand
+    size: boutique
+    founded: 2011
     notable:
       - Impact Spark
       - Park Finder
-    social:
-      instagram: https://www.instagram.com/redpaperhearts/
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://redpaperheart.com/jobs
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/redpaperhearts/
   - name: Reepost
     url: https://reepoststudio.fr/
     description: Paris post-production studio offering editing, color grading, compositing, VFX and 3D for ads, luxury, music videos and film.
@@ -499,13 +612,19 @@ studios:
       - vfx
       - cg
       - motion-design
+    markets:
+      - advertising
+      - music-video
+      - film
+    size: boutique
+    founded: 2007
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/reepost/
       linkedin: https://www.linkedin.com/company/reepost/
       vimeo: https://vimeo.com/reepost
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Reframe Studio
     url: https://www.reframestudio.co.kr/
     description: Multicultural motion design collective making product visualization and CGI films for beauty and lifestyle brands.
@@ -516,35 +635,45 @@ studios:
       - product-viz
       - cg
       - motion-design
+    markets:
+      - advertising
+      - brand
     notable:
       - Yves Saint Laurent
       - Fenty Beauty
       - Bang & Olufsen
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/reframe_studio_kr
       vimeo: https://vimeo.com/reframestudiokr
       behance: https://www.behance.net/reframestudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Republic
     url: https://www.republicstudios.tv/
     description: New York and Shanghai animation studio making motion design for advertising, broadcast, film and interactive projects.
     hq:
       city: New York, NY
       country: United States
-    disciplines:
-      - motion-design
-      - animation
     offices:
       - city: Shanghai
         country: China
-    social:
-      vimeo: https://vimeo.com/republictv
-      behance: https://www.behance.net/republictv
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+      - film
+    size: boutique
+    founded: 2007
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      vimeo: https://vimeo.com/republictv
+      behance: https://www.behance.net/republictv
   - name: Revna Studio
     url: https://revnastudio.com/
     description: Iranian design and visual arts studio making 3D product animation for international brands across time zones.
@@ -553,14 +682,16 @@ studios:
     disciplines:
       - cg
       - product-viz
+    markets:
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/revnastudio/
       linkedin: https://www.linkedin.com/company/revnastudio
       vimeo: https://vimeo.com/revnastudio
       behance: https://www.behance.net/revnastudio/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Rhizomatiks
     url: https://rhizomatiks.com/
     description: Tokyo creative collective making R&D-led interactive installations, live performances and media art.
@@ -570,10 +701,14 @@ studios:
     disciplines:
       - experiential
       - xr
-    careers: https://careers.flowplateaux.com/
+    markets:
+      - brand
+      - music-video
+    founded: 2006
     notable:
       - Perfume
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://careers.flowplateaux.com/
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Ritzy Animation
@@ -583,16 +718,22 @@ studios:
       city: London
       country: United Kingdom
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+    size: boutique
+    founded: 2017
     notable:
       - Disney
       - BBC
       - FIFA
-    social:
-      instagram: https://www.instagram.com/ritzyanimation/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/ritzyanimation/
   - name: Rival LA
     url: https://www.rival.la/
     description: Los Angeles design studio building visual identities and motion work for brands across media.
@@ -601,14 +742,16 @@ studios:
       country: United States
     disciplines:
       - motion-design
+    markets:
+      - brand
     size: boutique
     founded: 2014
-    careers: https://www.rival.la/careers
     notable:
       - AT&T
       - Amazon
       - HBO
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.rival.la/careers
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Robot Fights Monster
@@ -618,17 +761,23 @@ studios:
       city: Melbourne
       country: Australia
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - games
+    size: boutique
+    founded: 2025
     notable:
       - Adult Swim
       - MTV
       - WeTransfer
-    social:
-      instagram: https://www.instagram.com/robotfightsmonster/
-      linkedin: https://www.linkedin.com/company/robot-fights-monster/
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/robotfightsmonster/
+      linkedin: https://www.linkedin.com/company/robot-fights-monster/
   - name: Rocketpanda
     url: https://www.therocketpanda.com/
     description: Verona animation studio making character-led 2D, 3D and traditional animation with illustration for brands.
@@ -636,14 +785,19 @@ studios:
       city: Verona
       country: Italy
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
-    careers: https://www.therocketpanda.com/careers
+    markets:
+      - advertising
+      - brand
+    size: boutique
     notable:
       - Discord
       - McDonald's
       - Corona
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.therocketpanda.com/careers
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Rocketscience Lab
@@ -655,14 +809,16 @@ studios:
     disciplines:
       - live-action
       - stop-motion
-      - animation
+      - 2d-animation
       - title-design
-    social:
-      instagram: https://www.instagram.com/rocketsciencelab/
-      youtube: https://www.youtube.com/@RocketscienceLab
+    markets:
+      - advertising
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/rocketsciencelab/
+      youtube: https://www.youtube.com/@RocketscienceLab
   - name: Roger
     url: https://roger.tv/
     description: Los Angeles creative studio working across animation, design and live action for campaigns and network rebrands.
@@ -670,20 +826,26 @@ studios:
       city: Los Angeles, CA
       country: United States
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
       - motion-design
       - live-action
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2004
     notable:
       - Netflix Times Square 3D billboard
       - Nickelodeon rebrand
       - Microsoft
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/roger_la
       linkedin: https://www.linkedin.com/company/rogerla/
       vimeo: https://vimeo.com/rogertv
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Roof Studio
     url: https://roofstudio.tv/
     description: Brooklyn studio making 3D animation, VFX and stop motion for brand commercials.
@@ -692,19 +854,23 @@ studios:
       country: United States
     disciplines:
       - cg
-      - animation
+      - 3d-animation
       - vfx
       - stop-motion
+    markets:
+      - advertising
+    size: small
+    founded: 2013
     notable:
       - IBM
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/roofstudionyc
       linkedin: https://www.linkedin.com/company/roof-studio
       vimeo: https://vimeo.com/roofstudio
       behance: https://www.behance.net/roofstudionyc
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Rotor Studios
     url: https://rotorstudios.com/
     description: North Sydney creative technology studio making automotive CG, VFX, product configurators and mixed reality content.
@@ -716,13 +882,17 @@ studios:
       - cg
       - xr
       - vfx
+    markets:
+      - advertising
+    size: mid
+    founded: 1998
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://rotorstudios.elmotalent.com.au/careers/careers/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/rotorstudios/
       linkedin: https://au.linkedin.com/company/rotor-studios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Royal Post
     url: https://royalpost.tv/
     description: Paris post-production house offering editing, color grading, VFX and CGI for commercials, films and music videos.
@@ -732,42 +902,50 @@ studios:
     disciplines:
       - vfx
       - cg
+    markets:
+      - advertising
+      - film
+      - music-video
+    size: boutique
     notable:
       - Stromae
       - Lenny Kravitz
       - BigFlo & Oli
-    social:
-      instagram: https://www.instagram.com/royalpost75/
-      linkedin: https://fr.linkedin.com/company/royal-post
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/royalpost75/
+      linkedin: https://fr.linkedin.com/company/royal-post
   - name: Run Jump Fly
     url: https://www.runjumpfly.studio/
     description: Cape Town creative studio with Johannesburg and London offices making film, animation, CGI and design for brands and agencies.
     hq:
       city: Cape Town
       country: South Africa
-    disciplines:
-      - live-action
-      - animation
-      - cg
     offices:
       - city: Johannesburg
         country: South Africa
       - city: London
         country: United Kingdom
-    founded: 2013
+    disciplines:
+      - live-action
+      - 2d-animation
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+    founded: 2014
     notable:
       - KFC
       - Volkswagen
       - Johnnie Walker
-    social:
-      instagram: https://www.instagram.com/runjumpflycreations/
-      youtube: https://www.youtube.com/channel/UCJzB6Z08192ggBqvNWlqH8g
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/runjumpflycreations/
+      youtube: https://www.youtube.com/channel/UCJzB6Z08192ggBqvNWlqH8g
   - name: Sarofsky
     url: https://www.sarofsky.com/
     description: Chicago studio making main title sequences, motion design, VFX and finishing for TV, streamers and brands.
@@ -778,18 +956,24 @@ studios:
       - title-design
       - motion-design
       - vfx
-    careers: https://www.sarofsky.com/careers
+    markets:
+      - episodic
+      - brand
+      - advertising
+    size: small
+    founded: 2009
     notable:
       - HBO Max
       - Verizon
       - Apple
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.sarofsky.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/Sarofsky_Design
       linkedin: https://www.linkedin.com/company/sarofsky
       x: https://twitter.com/sarofsky
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Scandi Motion
     url: https://www.scandimotion.com/
     description: Los Angeles design studio making entertainment marketing and brand motion graphics with a Nordic minimalist style.
@@ -798,6 +982,9 @@ studios:
       country: United States
     disciplines:
       - motion-design
+    markets:
+      - brand
+      - film
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
@@ -810,8 +997,14 @@ studios:
       - title-design
       - motion-design
       - vfx
-    reel: https://www.scatterlightstudios.com/reel
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2013
     added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://www.scatterlightstudios.com/reel
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Scholar
@@ -821,21 +1014,26 @@ studios:
       city: Los Angeles, CA
       country: United States
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - live-action
       - vfx
+    markets:
+      - advertising
+    size: small
+    founded: 2010
     notable:
       - Target
       - Taco Bell
       - Okta
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/helloscholar/
       linkedin: https://www.linkedin.com/company/helloscholar/
       vimeo: https://vimeo.com/helloscholar
       behance: https://www.behance.net/hello_scholar
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Scissor Films
     url: https://www.scissorfilms.com/
     description: Burbank virtual production studio offering LED volume shoots, VFX, editorial and color for brands, games and artists.
@@ -846,17 +1044,23 @@ studios:
       - virtual-production
       - vfx
       - live-action
+    markets:
+      - brand
+      - games
+      - advertising
+      - music-video
+    size: small
     notable:
       - Elden Ring Nightreign XR livestream
       - Netflix
       - Amazon Fire TV
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/scissorfilms
       linkedin: https://www.linkedin.com/company/scissorfilms
       youtube: https://www.youtube.com/@ScissorFilms
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: See Gee Studio
     url: https://www.seegeestudio.com/
     description: Sydney motion design duo of Laura Heath and Eddy Herringson making title sequences for streaming series and museums.
@@ -866,16 +1070,18 @@ studios:
     disciplines:
       - title-design
       - motion-design
+    markets:
+      - episodic
     size: boutique
     notable:
       - Fallout Season Two
       - Talamasca
       - Global Life Flow
-    social:
-      instagram: https://instagram.com/seegeestudio
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://instagram.com/seegeestudio
   - name: Seed Animation Studio
     url: https://seedanimation.com/
     description: London character animation studio in Soho making 2D, 3D and tactile commercials for agencies and brands.
@@ -883,30 +1089,41 @@ studios:
       city: London
       country: United Kingdom
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - advertising
+    size: small
     founded: 2003
+    added_at: '2026-10-30T21:40:17.280Z'
     reel: https://seedanimation.com/reel/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/seed_animation/
       linkedin: https://www.linkedin.com/company/seed-animation-studio/
       vimeo: https://vimeo.com/seedanimation
       x: https://twitter.com/seedanimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Sehsucht
     url: https://sehsucht.de/
     description: Hamburg and Berlin hybrid production studio combining filmmaking, animation and VFX for brand content.
     hq:
       city: Hamburg
       country: Germany
-    disciplines:
-      - vfx
-      - animation
-      - live-action
     offices:
       - city: Berlin
         country: Germany
+    disciplines:
+      - vfx
+      - 3d-animation
+      - live-action
+      - cg
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2000
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
@@ -917,14 +1134,19 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+    size: boutique
+    founded: 2022
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.sensofilms.com/fr/join-us
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/senso_films
       linkedin: https://www.linkedin.com/company/sensofilms/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Serial Cut
     url: https://serialcut.com/
     description: Madrid creative art studio making stylized CGI, photography and AI-assisted visuals for brands.
@@ -934,11 +1156,16 @@ studios:
     disciplines:
       - cg
       - product-viz
-    careers: https://serialcut.com/careers
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 1999
     notable:
       - Porsche
       - Withings
       - Coty
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://serialcut.com/careers
     url_status: ok
     url_last_verified: '2026-10-30'

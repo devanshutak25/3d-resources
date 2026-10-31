@@ -11,3 +11,4 @@ User working style + collab rules.
 (append as learned)
 - 2026-10-05: For multi-batch maintenance work the user may pre-approve all batches ("don't wait after every batch"). Then run, commit and push each batch without stopping; still report at the end.
 - 2026-10-05: For discovery/add tasks user said "don't wait for me, use your judgement, add as many as you can find". Add verified + deduped items directly; still stop between phases.
+- 2026-10-31: For UI work the user wants a localhost server running in-session to test (_site on :8080).

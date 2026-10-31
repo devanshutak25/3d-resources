@@ -34,25 +34,52 @@ body:
       label: Disciplines
       multiple: true
       options:
-        - Animation
+        - 2D animation
+        - 3D animation
         - Stop motion
-        - VFX
         - Motion design
+        - Title design
+        - VFX
+        - Previs
+        - Virtual production
+        - Live action
         - CG / 3D
-        - Arch viz
         - Product viz
+        - Arch viz
         - Games
         - Game cinematics
-        - Virtual production
-        - Previs
-        - XR / interactive
-        - Experiential
-        - Title design
-        - Live action
         - Outsourcing
         - Mocap
+        - XR / interactive
+        - Experiential
     validations:
       required: true
+  - type: dropdown
+    id: markets
+    attributes:
+      label: Works for (optional)
+      multiple: true
+      options:
+        - Film
+        - Episodic
+        - Advertising
+        - Music video
+        - Games
+        - Brand
+  - type: dropdown
+    id: size
+    attributes:
+      label: Size (optional, LinkedIn company size)
+      options:
+        - 1-10 people
+        - 11-50 people
+        - 51-200 people
+        - 201+ people
+  - type: input
+    id: founded
+    attributes:
+      label: Year founded (optional)
+      placeholder: "e.g. 1986"
   - type: input
     id: careers
     attributes:

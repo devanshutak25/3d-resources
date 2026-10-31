@@ -1,0 +1,1117 @@
+studios:
+  - name: USER T38
+    url: https://usert38.com/
+    description: Design, post-production and animation studio in Madrid delivering VFX for film producers, streamers and ad agencies.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2001
+    notable:
+      - El Cautivo
+      - Abuela Tremenda
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/usert38
+      linkedin: https://www.linkedin.com/company/usert38
+      vimeo: https://vimeo.com/worksusert38
+  - name: 3Doubles Producciones
+    url: https://3doubles.com/
+    description: 3D animation studio in Tenerife producing animated series and films alongside international co-production partners.
+    hq:
+      city: Santa Cruz de Tenerife
+      country: Spain
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://3doubles.factorial.es/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/3doublesprod/
+      linkedin: https://www.linkedin.com/company/3doublesproducciones/
+      x: https://x.com/3DoublesProd
+  - name: LAVAlabs Moving Images
+    url: https://lavalabs.de/
+    description: Creative studio in Düsseldorf producing VFX, 3D animation, motion design and product visuals for advertising and feature films.
+    hq:
+      city: Düsseldorf
+      country: Germany
+    offices:
+      - city: Stuttgart
+        country: Germany
+      - city: Frankfurt
+        country: Germany
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - product-viz
+    markets:
+      - advertising
+      - film
+    size: mid
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://lavalabs.de/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/lavalabs/
+      linkedin: https://www.linkedin.com/company/lavalabs-moving-images/
+      vimeo: https://vimeo.com/lavalabsmovingimages
+  - name: UFX Studios
+    url: https://ufxstudios.com/
+    description: VFX studio in Brussels with offices in Wallonia and Paris, covering previs, on-set supervision, virtual production and 2D/3D effects for film and series.
+    hq:
+      city: Brussels
+      country: Belgium
+    offices:
+      - city: Paris
+        country: France
+    disciplines:
+      - vfx
+      - previs
+      - virtual-production
+    markets:
+      - film
+      - episodic
+    notable:
+      - The Countess of Monte-Cristo
+      - Dog 51
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://ufxstudios.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ufx.studios/
+      linkedin: https://be.linkedin.com/company/umedia-vfx
+      vimeo: https://vimeo.com/umediavfx/
+    notes: VFX arm linked from Umedia's site (umedia.eu); social handles still use the Umedia VFX name.
+  - name: SSVFX
+    url: https://ssvfx.ie/
+    description: Visual effects studio in Dublin delivering VFX for international feature films and drama series.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - One Battle After Another
+      - Peacemaker
+      - Man on Fire
+    added_at: '2026-10-31T05:09:10.957Z'
+    careers: https://ssvfx.ie/about#jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ssvfx.ie/
+      x: https://x.com/ssvfx
+    notes: VFX division of Screen Scene post-production (screenscene.ie).
+  - name: Mikrofilm
+    url: https://mikrofilm.no/
+    description: Production and animation company in Oslo making animated shorts, commissioned films, commercials, title sequences and music videos.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - 2d-animation
+      - title-design
+    markets:
+      - film
+      - advertising
+      - music-video
+    founded: 1996
+    notable:
+      - The Danish Poet
+      - Tråder (Threads)
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mikrofilm_oslo/
+      vimeo: https://vimeo.com/mikrofilm
+  - name: Krutart
+    url: https://www.krutart.cz/
+    description: Prague animation studio making animated series, shorts and documentaries, plus fulldome planetarium films and museum exhibitions.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - 2d-animation
+      - experiential
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: small
+    founded: 2014
+    notable:
+      - 'Kosmix 2: Underwater'
+      - 'Little Eve: Stories of Planet Earth'
+    added_at: '2026-10-31T05:09:10.957Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/krutart_studio/
+      linkedin: https://www.linkedin.com/company/krutart
+      vimeo: https://vimeo.com/krutart
+  - name: Juice
+    url: https://j.studio/
+    description: VFX, animation and audio studio in Wrocław making game cinematic trailers, commercials, title work and music videos.
+    hq:
+      city: Wrocław
+      country: Poland
+    offices:
+      - city: Warsaw
+        country: Poland
+      - city: Tokyo
+        country: Japan
+      - city: Shanghai
+        country: China
+    disciplines:
+      - cinematics
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - games
+      - advertising
+      - episodic
+      - music-video
+    size: mid
+    founded: 2006
+    notable:
+      - Cyberpunk 2077 E3 2019 trailer
+      - 'Call of Duty: Modern Warfare trailer'
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://j.studio/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/juice.pl/
+      linkedin: https://www.linkedin.com/company/juicepl
+      vimeo: https://vimeo.com/juicepost
+      x: https://twitter.com/juicepl
+  - name: Fumi Studio
+    url: https://fumistudio.com/
+    description: Warsaw animation producer backing young directors, with author-driven shorts, animated series and feature films.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/fumistudio/
+      linkedin: https://www.linkedin.com/company/fumi-studio
+      vimeo: https://vimeo.com/fumistudio
+      youtube: https://www.youtube.com/channel/UCMH_v9diO2IQax27YemIDbQ
+  - name: Magiclab
+    url: https://www.magiclab.film/
+    description: Prague post-production and VFX company delivering visual effects, colour grading and deliverables for international films and series.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2009
+    notable:
+      - The Crow
+      - Say Nothing
+      - 'Peaky Blinders: The Immortal Man'
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.magiclab.film/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/magiclab-s-r-o-/
+  - name: Giant Animation
+    url: https://www.giantanimation.ie/
+    description: Independent CG animation studio in Dublin creating and producing animated series and films for TV and cinema.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Zog and the Flying Doctors
+      - Go Jetters
+      - Sherwood
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://giantanimation.ie/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/giantanimation/
+      linkedin: https://www.linkedin.com/company/giant-creative/
+      vimeo: https://vimeo.com/giantanimation
+      youtube: https://www.youtube.com/channel/UCuxbF6XeQm_olJhqEmvH09A
+      x: https://twitter.com/giant_animation
+  - name: Boulder Media
+    url: https://bouldermedia.tv/
+    description: Dublin animation studio partnering on high-end 2D TV shows and building original content, with some 3D work.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2000
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://bouldermedia.tv/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bouldermedia/
+      x: https://twitter.com/BoulderMediaLtd
+  - name: maaars
+    url: https://maaars.ch/
+    description: Zurich team of architects producing competition visualisations for architecture practices, working within Berrel Kräutler Architekten.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - archviz
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Nadasdy Film
+    url: https://www.nadasdyfilm.ch/
+    description: Geneva studio producing and making animated series, shorts and features in drawn animation, CGI, stop-motion and rotoscoping.
+    hq:
+      city: Geneva
+      country: Switzerland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    founded: 2001
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/nadasdyfilm/
+      linkedin: https://www.linkedin.com/company/nadasdy-film/
+  - name: Nukufilm
+    url: https://nukufilm.ee/en/
+    description: Tallinn stop-motion studio, running since 1957, making puppet and cut-out shorts and offering crew and studio services to other productions.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+    founded: 1957
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/nukufilm/
+      linkedin: https://www.linkedin.com/company/nukufilm/
+      vimeo: https://vimeo.com/nukufilm
+  - name: Eesti Joonisfilm
+    url: https://joonisfilm.ee/en/
+    description: Tallinn animation studio making auteur short films and family features, home of Priit Pärn's work and the Lotte films.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    founded: 1994
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/eesti_joonisfilm/
+      vimeo: https://vimeo.com/joonisfilm
+      youtube: https://www.youtube.com/channel/UCOF_pU5vkvtuOsVnE4xjp-A
+  - name: Rija Films
+    url: https://www.rijafilms.com/
+    description: Riga studio producing and distributing animated films, working in 2D cel animation and 3D, with in-house dubbing.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+    founded: 1993
+    notable:
+      - Thelma's Perfect Birthday
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Atom Art
+    url: https://atomart.lv/
+    description: Independent animation studio in Riga producing auteur shorts and animated features that screen at Berlinale and Annecy.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Jacob, Mimmi and the Talking Dogs
+      - Hush Hush Little Bear
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/animation_studio_atom_art/
+  - name: Polder Animation
+    url: https://polderanimation.com/
+    description: 3D character animation studio in Utrecht making its own films and series plus animation for brands and producers.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2010
+    notable:
+      - Trippel Trappel
+      - Dr. Panda
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: arx anima
+    url: https://www.arxanima.com/
+    description: CG studio network based in Vienna with studios in Frankfurt, Leipzig and Madrid, producing animated features, series, VFX and commercials.
+    hq:
+      city: Vienna
+      country: Austria
+    offices:
+      - city: Frankfurt
+        country: Germany
+      - city: Leipzig
+        country: Germany
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Talking Tom and Friends
+      - Rubikon
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.arxanima.com/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Sardinha em Lata
+    url: https://www.sardinhaemlata.com/
+    description: Portuguese animation producer and studio making feature films, series and shorts, plus commissioned and advertising work.
+    hq:
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/sardinha.em.lata/
+      vimeo: https://vimeo.com/sardinhaemlata
+      youtube: https://www.youtube.com/user/sardinhaemlataprod
+      x: https://twitter.com/Sardinha_SEL
+  - name: Kavaleer Productions
+    url: https://www.kavaleer.com/
+    description: Dublin animation studio creating and co-producing 2D kids' series, with script-to-screen work for hire.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/kavaleer_insta/
+      linkedin: https://www.linkedin.com/company/kavaleer-productions/
+      youtube: https://www.youtube.com/@KavaleerProductions
+      x: https://twitter.com/KavaleerTweets
+    notes: Site returns 403 to WebFetch; verified via direct fetch.
+  - name: 3Lateral
+    url: https://www.3lateral.com/
+    description: Epic Games studio in Novi Sad creating digital human characters, from scanning to animation, for AAA games, film and VFX.
+    hq:
+      city: Novi Sad
+      country: Serbia
+    offices:
+      - city: Manchester
+        country: United Kingdom
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - cg
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+      - film
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/3lateral/
+      linkedin: https://www.linkedin.com/company/3lateral
+      artstation: https://www.artstation.com/epic-games-novi-sad
+  - name: Storm Studios
+    url: https://www.stormstudios.no/
+    description: VFX company in Oslo delivering high-end visual effects for film and television productions.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 2001
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.stormstudios.no/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/stormstudiosvfx/
+      linkedin: https://www.linkedin.com/company/stormstudiosnorway
+      vimeo: https://vimeo.com/stormstudios
+      youtube: https://www.youtube.com/@stormstudiosvfx
+  - name: Orca Studios
+    url: https://www.orcastudios.es/
+    description: Cloud-native VFX studio headquartered in Las Palmas de Gran Canaria, with a Barcelona base and a production-focused approach.
+    hq:
+      city: Las Palmas de Gran Canaria
+      country: Spain
+    offices:
+      - city: Barcelona
+        country: Spain
+    disciplines:
+      - vfx
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.orcastudios.es/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/orcavfx/
+      linkedin: https://www.linkedin.com/company/orcavfx
+  - name: Quantic Dream
+    url: https://www.quanticdream.com/en
+    description: Paris game developer and publisher making narrative-driven games, with a second studio in Montreal.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Montreal
+        country: Canada
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1997
+    notable:
+      - 'Detroit: Become Human'
+      - Heavy Rain
+      - 'Beyond: Two Souls'
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.quanticdream.com/en/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/quanticdreamgames
+      youtube: https://www.youtube.com/channel/UCf1dGULY0opzBbE3XEXWvWg
+      x: https://twitter.com/Quantic_Dream
+  - name: DON'T NOD
+    url: https://dont-nod.com/en/
+    description: Paris game developer and publisher of story-driven games, with a second studio in Montreal.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Montreal
+        country: Canada
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2008
+    notable:
+      - Life Is Strange
+      - Remember Me
+      - Aphelion
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://dont-nod.com/en/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dontnod_ent/
+      x: https://twitter.com/DONTNOD_Ent
+  - name: MachineGames
+    url: https://www.machinegames.com/
+    description: Uppsala game developer owned by ZeniMax, making first-person action games including the modern Wolfenstein series.
+    hq:
+      city: Uppsala
+      country: Sweden
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2009
+    notable:
+      - 'Wolfenstein: The New Order'
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.machinegames.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/machinegames
+      x: https://twitter.com/machinegames
+  - name: MercurySteam
+    url: https://www.mercurysteam.com/
+    description: Game developer near Madrid making action games for console publishers, including recent Metroid titles.
+    hq:
+      city: San Sebastián de los Reyes
+      country: Spain
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Metroid Dread
+      - 'Castlevania: Lords of Shadow'
+      - 'Metroid: Samus Returns'
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mercurysteam_entertainment/
+      youtube: https://www.youtube.com/channel/UCT56v9xTV0UnQY63I840Saw
+      x: https://x.com/mercurysteam
+  - name: Warhorse Studios
+    url: https://warhorsestudios.cz/
+    description: Prague game developer making open-world historical RPGs, owned by Plaion since 2019.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2011
+    notable:
+      - 'Kingdom Come: Deliverance'
+      - 'Kingdom Come: Deliverance II'
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/warhorsestudios
+      youtube: https://youtube.com/warhorsestudios
+      x: https://x.com/WarhorseStudios
+  - name: Bohemia Interactive
+    url: https://www.bohemia.net/en
+    description: Independent Czech game developer and publisher in Prague making military simulation and survival games.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1999
+    notable:
+      - Arma Reforger
+      - DayZ
+      - 'Operation Flashpoint: Cold War Crisis'
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://careers.bohemia.net/en
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bohemiainteractive
+      linkedin: https://www.linkedin.com/company/bohemiainteractive
+      youtube: https://www.youtube.com/user/BohemiaInteract
+      x: https://x.com/bohemiainter
+  - name: People Can Fly
+    url: https://peoplecanfly.com/
+    description: 'Warsaw game developer making action games for major publishers, from Painkiller to Gears of War: E-Day.'
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2002
+    notable:
+      - 'Gears of War: E-Day'
+      - Outriders
+      - Bulletstorm
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://careers.smartrecruiters.com/PeopleCanFly
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/peoplecanfly/
+      linkedin: https://www.linkedin.com/company/people-can-fly
+      youtube: https://www.youtube.com/channel/UCnePaU9Enysi9vnl2aNbG1Q
+      x: https://twitter.com/PCFPeopleCanFly
+  - name: Flying Wild Hog
+    url: https://flyingwildhog.com/
+    description: Warsaw game developer making fast action games, from Hard Reset and Shadow Warrior to Trek to Yomi.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2009
+    notable:
+      - Shadow Warrior
+      - Trek to Yomi
+      - Hard Reset
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://flyingwildhog.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/flying_wild_hog/
+      x: https://twitter.com/flying_wild_hog
+  - name: 11 bit studios
+    url: https://11bitstudios.com/
+    description: Warsaw game developer and publisher making story-driven strategy and survival games.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2010
+    notable:
+      - This War of Mine
+      - Frostpunk
+      - The Alters
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://11bitstudios.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/11bitstudios/
+      youtube: https://www.youtube.com/11bitstudios/
+      x: https://twitter.com/11bitstudios
+  - name: Mimic Productions
+    url: https://www.mimicproductions.com/
+    description: Berlin studio building realistic digital humans, with scanning, rigging, motion capture and real-time characters for film, games and ads.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - cg
+      - mocap
+      - xr
+    markets:
+      - film
+      - games
+      - advertising
+      - music-video
+    size: small
+    founded: 2012
+    notable:
+      - 'The Matrix Awakens: An Unreal Engine 5 Experience'
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mimic_productions/
+      linkedin: https://www.linkedin.com/company/mimic-productions
+      vimeo: https://vimeo.com/user36764047
+      youtube: https://www.youtube.com/channel/UCZGlpGzuJV8x7mJAahuZO4Q
+      x: https://twitter.com/mimicproduction
+  - name: Maga Animation Studio
+    url: https://www.maga-animation.com/
+    description: Monza studio making character and gameplay animation, cinematic trailers and real-time content, mainly for game developers.
+    hq:
+      city: Monza
+      country: Italy
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - outsourcing
+    markets:
+      - games
+      - film
+      - episodic
+      - advertising
+    size: mid
+    founded: 1996
+    notable:
+      - 'Terminator: Survivors'
+      - Soulstice
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://www.maga-animation.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/maga_animation_studio/
+      linkedin: https://www.linkedin.com/company/maga-animation-studio
+      vimeo: https://vimeo.com/user20305952
+      youtube: https://www.youtube.com/user/MagaAnimationStudio
+  - name: BigHugFX
+    url: https://bighugfx.com/
+    description: VFX studio in Taufkirchen near Munich creating visual effects for feature films, TV and commercials.
+    hq:
+      city: Taufkirchen
+      country: Germany
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-10-31T05:09:10.958Z'
+    careers: https://bighugfx.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/bighug-fx-gmbh/
+      vimeo: https://vimeo.com/user48063895
+  - name: Fabian&Fred
+    url: https://www.fabianfred.com/
+    description: Hamburg production studio for animation developing and making animated features, series and shorts on social themes.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Heirloom
+      - Sidi Kaba
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/fabianfred
+      vimeo: https://www.vimeo.com/fabianfred
+      youtube: https://www.youtube.com/channel/UCBFtoBsKIBeUc7dodMYpxaA
+  - name: Folimage
+    url: https://www.folimage.fr/fr/
+    description: Animation studio in the Drôme producing auteur features, shorts and TV series, with an artist residency programme.
+    hq:
+      city: Bourg-lès-Valence
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Le Secret des mésanges
+      - Tu mourras moins bête
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/Folimage
+      linkedin: https://www.linkedin.com/company/folimage
+      vimeo: https://www.vimeo.com/Folimage
+      youtube: https://www.youtube.com/user/folimage
+  - name: Vivement Lundi !
+    url: https://www.vivement-lundi.com/
+    description: Rennes animation studio and producer making 2D and stop-motion films and series, plus documentaries, since 1998.
+    hq:
+      city: Rennes
+      country: France
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 1998
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/vivementlundi_prod/
+      linkedin: https://www.linkedin.com/company/les-productions-vivement-lundi/
+      x: https://x.com/VivementLundi
+  - name: 2 Minutes
+    url: https://2minutes.fr/
+    description: Paris animation studio and producer making 2D and 3D TV series and features, with sites in Angoulême, Réunion, Montreal and Nanjing.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Angoulême
+        country: France
+      - city: Montreal
+        country: Canada
+      - city: Nanjing
+        country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2000
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/2-minutes
+      youtube: https://www.youtube.com/channel/UC0xHqf5-hNptj4EaF-dmNrA
+  - name: Thuristar
+    url: https://thuristar.com/
+    description: Ghent production company and creative studio making animated series, shorts and specials.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Mush-Mush and the Mushables
+      - Luce and the Rock
+      - Goat Girl
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/thuristarproductions/
+      linkedin: https://www.linkedin.com/company/1071235/
+      vimeo: https://vimeo.com/thuristar
+      x: https://twitter.com/thuristar
+  - name: Schreiner Kastler
+    url: https://schreinerkastler.at/
+    description: Vienna studio producing architectural visualisation stills, animations and interactive panoramas for architects and developers.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - archviz
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: IO Interactive
+    url: https://ioi.dk/
+    description: Copenhagen game developer and publisher of the Hitman series and 007 First Light, with studios in Malmö, Barcelona and Brighton.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    offices:
+      - city: Malmö
+        country: Sweden
+      - city: Barcelona
+        country: Spain
+      - city: Brighton
+        country: United Kingdom
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Hitman
+      - 007 First Light
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://ioi.dk/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ioi_studios
+      linkedin: https://www.linkedin.com/company/iointeractive/
+      x: https://twitter.com/IOInteractive
+  - name: Arrowhead Game Studios
+    url: https://www.arrowheadgamestudios.com/
+    description: Stockholm game developer making co-op action games, including Helldivers 2.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2008
+    notable:
+      - Helldivers 2
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://jobs.arrowheadgamestudios.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/arrowheadgamestudios/
+      x: https://twitter.com/arrowheadgs
+  - name: Avalanche Studios Group
+    url: https://avalanchestudios.com/
+    description: Stockholm game developer and publisher building open-world games on its own Apex engine.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2003
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://avalanchestudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/avalanchestudios/
+      youtube: https://www.youtube.com/channel/UCSP5bAmRzaAXPcxnJablgYw
+      x: https://twitter.com/avalanchesweden
+  - name: Embark Studios
+    url: https://www.embark-studios.com/
+    description: Stockholm game developer owned by Nexon, making online action games such as The Finals and ARC Raiders.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2018
+    notable:
+      - The Finals
+      - ARC Raiders
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://careers.embark-studios.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/12648322/
+      x: https://x.com/embarkstudios
+  - name: Frozenbyte
+    url: https://www.frozenbyte.com/
+    description: Helsinki game developer making games since 2001, with around 80 staff.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2001
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://www.frozenbyte.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/frozenbytegames
+      youtube: https://www.youtube.com/user/frozenbytegames
+      x: https://twitter.com/Frozenbyte
+  - name: Funcom
+    url: https://www.funcom.com/
+    description: Oslo developer and publisher of online games, with studios in North Carolina, Lisbon and Bucharest.
+    hq:
+      city: Oslo
+      country: Norway
+    offices:
+      - city: Lisbon
+        country: Portugal
+      - city: Bucharest
+        country: Romania
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Conan Exiles
+      - Age of Conan
+      - The Secret World
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://www.funcom.com/careers-in-funcom/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/funcom
+      youtube: https://www.youtube.com/user/Funcom
+      x: https://twitter.com/funcom
+  - name: Playdead
+    url: https://playdead.com/
+    description: Independent Copenhagen game developer and publisher of atmospheric puzzle-platformers Limbo and Inside.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2006
+    notable:
+      - Limbo
+      - Inside
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://playdead.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/playdeadgames/
+      linkedin: https://www.linkedin.com/company/2250376/
+      x: https://x.com/Playdead/

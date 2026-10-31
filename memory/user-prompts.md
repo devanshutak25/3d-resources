@@ -128,3 +128,28 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > push changes resolve conflicts please
 
 **Answered:** Committed studios work on main, rebased onto bot README re-render (c20ba87); README conflict resolved by re-rendering from data. Validate + tests before push. Pushed to origin/main.
+
+**Prompt:** (2026-10-31)
+> let's look for more studios for /studios and add the ability to do grouping based on location and size. Also color code desciplines
+>
+> I also think we don't need to have body text in the studio cards, makes the card bigger without adding siginficant amount of info. We can just flesh out the desciplines if we need more detailed information
+>
+> also, if possible we should add age of the studios
+>
+> run one more pass of UI cleanups for the /studios page please
+>
+> add the ability to lazy load cards. no need to load all the cards at the start
+>
+> run localhost for testing in this session
+
+**Answered:** Asked 2 enum questions (sizes -> 4 LinkedIn bands; animation -> 2D/3D split + new markets "Works for"). Built lazy JSON-rendered page with group by region/country/size/age, colored discipline pills, no description, age "Est. YYYY (N yrs)", icon socials. 8 enrichment + 5 discovery agents: 754 -> 1,232 studios. localhost:8080 via scratchpad serve.js. Validate ✓, tests 8/8, build ✓. Not committed.
+
+**Prompt:** (2026-10-31, mid-task)
+> add studios from this as well if any are missing - "C:UsersDevanshuDesktopIndian Studios Repository - Sheet1.csv"
+
+**Answered:** 204 rows (Animator's Guild India list), 20 already listed, 2 agents verified the rest: 101 added, rest skipped (dead domains, live-action ad houses, non-CG agencies). Sumo Digital India -> Pune office.
+
+**Prompt:** (2026-10-31)
+> touch up UI please [Image #1]
+
+**Answered:** Filter panel polish: search icon, denser chips, Works for + People (size, short labels) on one row, labels aligned to chips, tinted active chips everywhere, dark native controls + accent checkbox, intro trimmed (suggest link moved to credit line), social icons right-aligned on wrap, chip-row scroll fade + 2-column tablet grid. Shared site header left as-is (all generated pages use it).

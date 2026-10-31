@@ -7,15 +7,18 @@ studios:
       country: Switzerland
     disciplines:
       - live-action
-      - animation
       - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-30T21:40:17.280Z'
     reel: https://boutiq.ch/showreel/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/boutiqfilms/
       vimeo: https://vimeo.com/boutiq
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Brand New School
     url: https://www.brandnewschool.com/
     description: New York design-led studio making motion design and brand work, from strategy and concept through production.
@@ -24,13 +27,20 @@ studios:
       country: United States
     disciplines:
       - motion-design
+      - live-action
+      - cg
+      - vfx
+    markets:
+      - brand
+      - advertising
+    size: mid
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/brandnewschool/
       linkedin: https://www.linkedin.com/company/brand-new-school
       vimeo: https://vimeo.com/brandnewschool
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Brikk Animation
     url: https://brikk.se/
     description: Animation studio making 2D and 3D game trailers, branded content and commercials for game studios and brands.
@@ -38,21 +48,27 @@ studios:
       city: Stockholm
       country: Sweden
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - cinematics
+    markets:
+      - games
+      - advertising
+      - brand
+    size: small
     notable:
       - Overwatch
       - Minecraft
       - IKEA
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/brikktv/
       linkedin: https://www.linkedin.com/company/brikksweden
       vimeo: https://vimeo.com/brikk
       x: https://x.com/brikk_animation
       behance: https://www.behance.net/brikk
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Buck
     url: https://buck.co/
     description: Global creative company with studios in five cities, making animation, design systems and experiential work for brands.
@@ -61,17 +77,22 @@ studios:
       country: United States
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
+      - 3d-animation
       - experiential
+    markets:
+      - brand
+      - advertising
     size: large
+    founded: 2004
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://buck.co/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/buck_design
       linkedin: https://www.linkedin.com/company/buck/
       vimeo: https://www.vimeo.com/buck
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Buda.tv
     url: https://www.buda.tv/
     description: Buenos Aires animation studio making character-driven 2D and 3D films for brands, from in-flight safety videos to ads.
@@ -79,19 +100,23 @@ studios:
       city: Buenos Aires
       country: Argentina
     disciplines:
-      - animation
-    reel: https://www.buda.tv/portfolio/buda-tv-reel-2024/
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
     notable:
       - Aeromexico safety video
       - Nike
       - Google
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://www.buda.tv/portfolio/buda-tv-reel-2024/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/buda.tv/
       vimeo: https://vimeo.com/budatv
       behance: https://www.behance.net/budatv
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Buff Motion
     url: https://www.buffmotion.com/
     description: Brighton motion graphics and animation studio making brand content for UK and US agencies and brands.
@@ -100,15 +125,18 @@ studios:
       country: United Kingdom
     disciplines:
       - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/buffmotion
       linkedin: https://www.linkedin.com/company/buff-motion
       youtube: https://www.youtube.com/@BuffMotion
       x: https://twitter.com/buffmotion
       behance: https://www.behance.net/buffmotion
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Bungalow
     url: https://wearebungalow.com/
     description: Character animation studio making playful motion and character campaigns for European consumer brands.
@@ -116,8 +144,11 @@ studios:
       city: Barcelona
       country: Spain
     disciplines:
-      - animation
+      - 2d-animation
       - motion-design
+    markets:
+      - advertising
+      - brand
     notable:
       - Naturgy
       - Colacao
@@ -132,17 +163,20 @@ studios:
       city: Barcelona
       country: Spain
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
     notable:
       - Spotify
       - Costa Coffee
       - The Grinch x Life Is Good
-    social:
-      instagram: https://www.instagram.com/cabeza_patata/
-      behance: https://www.behance.net/cabezapatata
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/cabeza_patata/
+      behance: https://www.behance.net/cabezapatata
   - name: Carbon
     url: https://heycarbon.com/
     description: New York creative studio, sister to Whitehouse Post, doing VFX, motion graphics, character animation, color and live action.
@@ -152,16 +186,19 @@ studios:
     disciplines:
       - vfx
       - motion-design
-      - animation
+      - 3d-animation
       - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://heycarbon.com/contact/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/hey.carbon/
       linkedin: https://www.linkedin.com/company/heycarbon/
       vimeo: https://vimeo.com/heycarbon/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cart And Horse
     url: https://www.cartandhorse.studio/
     description: Detroit design and motion studio making 3D animation, real-time interactive work and virtual production.
@@ -173,13 +210,16 @@ studios:
       - cg
       - virtual-production
       - xr
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/cartandhorse.studio/
       linkedin: https://www.linkedin.com/company/cart-and-horse/
       youtube: https://www.youtube.com/@cartandhorse
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cartel
     url: https://wearecartel.co/
     description: Remote-first character animation studio based in Hamburg, working in 2D and 3D for clients like Adobe and HBO.
@@ -187,18 +227,22 @@ studios:
       city: Hamburg
       country: Germany
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
     notable:
       - Adobe
       - HBO
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/wearecartel.co
       linkedin: https://www.linkedin.com/company/wearecartel
       vimeo: https://vimeo.com/wearecartel
       behance: https://www.behance.net/wearecartel
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Chalk Company
     url: https://www.chalkco.com/
     description: Sydney 3D and motion studio making product visuals, brand films and motion design for brands and agencies.
@@ -209,6 +253,9 @@ studios:
       - cg
       - product-viz
       - motion-design
+    markets:
+      - advertising
+      - brand
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
@@ -222,16 +269,19 @@ studios:
       - motion-design
       - title-design
       - live-action
+    markets:
+      - brand
+      - advertising
     notable:
       - Big Ten Network
       - FOX
       - Bravo
-    social:
-      instagram: https://www.instagram.com/charliecotv/
-      vimeo: https://vimeo.com/charlieco
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/charliecotv/
+      vimeo: https://vimeo.com/charlieco
   - name: Chromosphere
     url: https://chromosphere-la.com/
     description: Los Angeles design and animation studio making hybrid 2D/3D series, VR and interactive projects.
@@ -239,18 +289,22 @@ studios:
       city: Los Angeles, CA
       country: United States
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - xr
+    markets:
+      - episodic
+      - advertising
     notable:
       - City of Ghosts
       - Steven Universe
       - Airbnb
-    social:
-      instagram: https://www.instagram.com/chromospherestudio
-      x: https://x.com/chromosphereLA
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/chromospherestudio
+      x: https://x.com/chromosphereLA
   - name: Claus Studios
     url: https://www.clausstudios.com/
     description: One-person design studio of Justin C. Harder making illustration, motion graphics and title work for brands and entertainment.
@@ -259,14 +313,17 @@ studios:
     disciplines:
       - motion-design
       - title-design
+    markets:
+      - brand
+      - advertising
     notable:
       - Zillow
-    social:
-      instagram: https://www.instagram.com/clausstudios/
-      x: https://x.com/clausstudios
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/clausstudios/
+      x: https://x.com/clausstudios
   - name: Clubcamping
     url: https://clubcamping.tv/
     description: Buenos Aires animation studio making fast, action-heavy 2D cel animation for commercials worldwide.
@@ -274,15 +331,17 @@ studios:
       city: Buenos Aires
       country: Argentina
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://clubcamping.tv/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/clubcamping.tv/
       vimeo: https://vimeo.com/clubcamping
       behance: https://www.behance.net/clubcamping
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Coat of Arms
     url: https://coatofarms.tv/
     description: West Virginia filmmaking and design studio handling direction, animation, editing, color and sound for brands.
@@ -292,28 +351,27 @@ studios:
     disciplines:
       - motion-design
       - live-action
-      - animation
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
     notable:
       - Google Cloud
       - WebMD
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/coatofarmstv/
       linkedin: https://www.linkedin.com/company/coatofarms
       vimeo: https://vimeo.com/coatofarms
       behance: https://www.behance.net/coatofarms
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Coffee & TV
     url: https://coffeeand.tv/
     description: Studio of over 120 artists across London, New York and Los Angeles making motion design, animation, VFX and color.
     hq:
       city: London
       country: United Kingdom
-    disciplines:
-      - motion-design
-      - animation
-      - vfx
     offices:
       - city: New York, NY
         country: United States
@@ -321,14 +379,22 @@ studios:
         country: United States
       - city: Los Angeles, CA
         country: United States
-    size: mid
+    disciplines:
+      - motion-design
+      - vfx
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+      - episodic
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://coffeeand.tv/about/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/coffeetvstudio/
       linkedin: https://uk.linkedin.com/company/coffee-and-tv
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Collider
     url: https://www.collider.com.au/
     description: Sydney studio making films, animation, branding, installations and experiences for brands and cultural clients.
@@ -339,16 +405,19 @@ studios:
       - motion-design
       - experiential
       - title-design
+    markets:
+      - brand
+      - advertising
     notable:
       - Koala
       - Acciona
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/collider__/
       linkedin: https://au.linkedin.com/company/collider-pty-ltd
       vimeo: https://vimeo.com/collider
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Colors And The Kids
     url: https://catk.de/
     description: Berlin studio combining design, motion and music, making 3D animation and brand films for tech and entertainment clients.
@@ -358,17 +427,21 @@ studios:
     disciplines:
       - motion-design
       - cg
-    careers: https://catk.de/jobs
+    markets:
+      - brand
+      - advertising
+      - film
     notable:
       - The Minecraft Movie
       - IBM
       - Okta
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://catk.de/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/colorsandthekids/
       linkedin: https://www.linkedin.com/company/colorsandthekids
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Colossal
     url: https://colossal.film/
     description: Curitiba production studio making stylized 3D character animation for sportswear, snack and beauty brands.
@@ -376,19 +449,21 @@ studios:
       city: Curitiba
       country: Brazil
     disciplines:
-      - animation
+      - 3d-animation
       - cg
+    markets:
+      - advertising
     notable:
       - Puma
       - O Boticário
       - Doritos
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/videocolossal/
       vimeo: https://vimeo.com/colossalfilm
       behance: https://www.behance.net/colossalfilm
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Colosseum
     url: https://colosseum.co/
     description: Motion studio building 3D graphics packages and social content for college and pro sports teams and venues.
@@ -397,15 +472,17 @@ studios:
     disciplines:
       - motion-design
       - cg
-    careers: https://colosseum.co/careers
+    markets:
+      - brand
     notable:
       - GoDucks
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://colosseum.co/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/colosseum.company/
       x: https://x.com/colosseum_co
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Compost Creative
     url: https://www.compostcreative.com/
     description: Animation and VFX studio making broadcast graphics, title sequences and effects for documentaries, features and TV.
@@ -416,34 +493,40 @@ studios:
       - vfx
       - motion-design
       - title-design
+    markets:
+      - episodic
+      - film
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/compostcreative
       linkedin: https://www.linkedin.com/company/compost-creative-limited
       x: https://twitter.com/compostcreative
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Conduit Productions
     url: https://conduit.co.za/
     description: Motion design and VFX studio making 3D animation, fluid sims and live-action composites for commercials and music videos.
     hq:
       city: Cape Town
       country: South Africa
+    offices:
+      - city: Johannesburg
+        country: South Africa
     disciplines:
       - motion-design
       - vfx
       - cg
-    offices:
-      - city: Johannesburg
-        country: South Africa
+    markets:
+      - advertising
+      - music-video
     notable:
       - Coca-Cola
       - Alcatel
-    social:
-      x: https://twitter.com/ConduitFriends
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      x: https://twitter.com/ConduitFriends
   - name: Cream Studio
     url: https://wearecream.com/
     description: Richmond, Virginia motion design studio making title sequences, promos and branded content for streamers and brands.
@@ -453,18 +536,22 @@ studios:
     disciplines:
       - motion-design
       - title-design
-    careers: https://wearecream.com/work-with-us/
-    reel: https://vimeo.com/553477016
+    markets:
+      - episodic
+      - brand
+      - advertising
     notable:
       - Paramount Plus
       - Discover
       - Virginia Lottery
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://wearecream.com/work-with-us/
+    reel: https://vimeo.com/553477016
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/wearecreamstudio/
       linkedin: https://www.linkedin.com/company/cream-studio/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Creasenso
     url: https://www.creasenso.com/
     description: Paris creative consultancy matching brands with freelance motion designers, 3D artists, illustrators and photographers.
@@ -474,13 +561,16 @@ studios:
     disciplines:
       - outsourcing
       - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.creasenso.com/fr/join-us
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/creasenso
       linkedin: https://www.linkedin.com/company/creasenso/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Crinimo Studio
     url: https://crinimo.tv/
     description: Santiago production company making animation, motion design and branding for global clients, including Netflix title sequences.
@@ -489,19 +579,23 @@ studios:
       country: Chile
     disciplines:
       - motion-design
-      - animation
+      - 2d-animation
       - title-design
+    markets:
+      - brand
+      - episodic
+      - advertising
     notable:
       - Griselda titles
       - Shirley titles
       - Almarai Ramadan
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/crinimo.tv/
       vimeo: https://vimeo.com/crinimo
       behance: https://www.behance.net/crinimo
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cub Studio
     url: https://www.cubstudio.com/
     description: Brighton animation studio making 2D and 3D character work, mascots and motion graphics for sports bodies and brands.
@@ -509,15 +603,19 @@ studios:
       city: Brighton
       country: United Kingdom
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
     reel: https://www.cubstudio.com/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/cubstudio
       linkedin: https://www.linkedin.com/company/cub-studio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Cutters Studios
     url: https://www.cuttersstudios.com/
     description: Chicago production and post company with editorial, VFX, finishing, audio and production divisions for brands and agencies.
@@ -527,13 +625,15 @@ studios:
     disciplines:
       - vfx
       - live-action
+    markets:
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/cuttersstudios
       linkedin: https://www.linkedin.com/company/cutters-studios
       x: https://twitter.com/cuttersstudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: d'strict
     url: https://www.dstrict.com/
     description: Seoul digital media studio making large anamorphic screen content and immersive exhibitions such as ARTE MUSEUM.
@@ -544,17 +644,20 @@ studios:
       - experiential
       - cg
       - xr
-    careers: https://kr.dstrict.com/career
+    markets:
+      - brand
+      - advertising
     notable:
       - WAVE
       - ARTE MUSEUM
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://kr.dstrict.com/career
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dstrictholdings/
       vimeo: https://www.vimeo.com/dstrict
       youtube: https://www.youtube.com/user/dstrictmaster
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Daisy Chain Studio
     url: https://www.daisychainstudio.net/
     description: London motion and 3D studio co-run by Harry Butt and Connor Campbell, making playful brand and product films.
@@ -565,17 +668,19 @@ studios:
       - motion-design
       - cg
       - product-viz
-    size: boutique
+    markets:
+      - brand
+      - advertising
     notable:
       - Google Fitbit Ace
       - Drunk Elephant
       - Nike
-    social:
-      instagram: https://www.instagram.com/daisy_chain_studio/
-      vimeo: https://vimeo.com/daisychainstudio
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/daisy_chain_studio/
+      vimeo: https://vimeo.com/daisychainstudio
   - name: DAQ
     url: https://www.wearedaq.com/
     description: Barcelona illustration and animation duo making geometric images and motion for editorial titles and creative brands.
@@ -585,7 +690,8 @@ studios:
     disciplines:
       - motion-design
       - cg
-    size: boutique
+    markets:
+      - brand
     notable:
       - Wired
       - Nature
@@ -599,14 +705,22 @@ studios:
     hq:
       city: Kyiv
       country: Ukraine
-    disciplines:
-      - animation
-      - motion-design
     offices:
       - city: Miami, FL
         country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+      - episodic
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://darvideo.tv/career/
     reel: https://youtu.be/-UmfhPkZYtE
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/darvideo.tv/
       linkedin: https://www.linkedin.com/company/darvideo/
@@ -614,9 +728,6 @@ studios:
       youtube: https://www.youtube.com/@darvideostudio
       x: https://twitter.com/darvideo
       behance: https://www.behance.net/darvideostudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Dash Studio
     url: https://www.dashstudio.net/
     description: Motion design and animation studio behind the Dash Bash festival, making brand work for clients like J.P. Morgan and Red Hat.
@@ -625,19 +736,21 @@ studios:
       country: United States
     disciplines:
       - motion-design
-      - animation
-    careers: https://www.dashstudio.net/careers
+      - 2d-animation
+    markets:
+      - brand
     notable:
       - Dash Bash
       - J.P. Morgan
       - Red Hat
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.dashstudio.net/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       linkedin: https://www.linkedin.com/company/dashanimation/
       vimeo: https://vimeo.com/dashstudio
       x: https://twitter.com/dash_studio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Deep Sky Studios
     url: https://www.deepsky.tv/
     description: Portland production studio making 2D and 3D animation, live action, VFX and product visuals for brands and entertainment.
@@ -645,24 +758,29 @@ studios:
       city: Portland, OR
       country: United States
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - live-action
       - product-viz
       - vfx
-    careers: https://www.deepsky.tv/careers
+    markets:
+      - advertising
+      - brand
+      - episodic
     notable:
       - Nike
       - HBO
       - A&E
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.deepsky.tv/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/thisisdeepsky/
       linkedin: https://www.linkedin.com/company/deep-sky-studios
       vimeo: https://vimeo.com/deepsky/
       x: https://twitter.com/thisisdeepsky
       behance: https://www.behance.net/deepskystudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Demo Duck
     url: https://demoduck.com/
     description: Chicago video studio making animated explainers, commercials and product videos in 2D and 3D for education, health and B2B.
@@ -670,34 +788,42 @@ studios:
       city: Chicago, IL
       country: United States
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
+    markets:
+      - brand
+      - advertising
     notable:
       - McGraw Hill
       - Blue Cross Blue Shield
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/demoduckvideo/
       linkedin: https://www.linkedin.com/company/demo-duck/
       vimeo: https://vimeo.com/demoduck
       youtube: https://www.youtube.com/user/DemoDuckVideo
       x: https://twitter.com/demoduckvideo
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Digital District
     url: https://www.digital-district.fr/
     description: Paris VFX and post-production group with studios in France, Belgium and India, doing film effects, matte painting and color.
     hq:
       city: Paris
       country: France
-    disciplines:
-      - vfx
-      - motion-design
     offices:
       - city: Brussels
         country: Belgium
       - city: Mumbai
         country: India
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
     size: large
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
@@ -713,41 +839,53 @@ studios:
       - vfx
       - cinematics
       - mocap
-    careers: https://careers.digitaldomain.com/
+      - xr
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    founded: 1993
     notable:
       - Titanic
       - The Curious Case of Benjamin Button
       - Avengers
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://careers.digitaldomain.com/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/digitaldomaindd/
       x: https://twitter.com/digitaldomaindd
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Digital Kitchen
     url: https://www.thisisdk.com/
     description: Los Angeles creative studio, part of Sid Lee, making TV main titles, brand work and immersive spaces.
     hq:
       city: Los Angeles, CA
       country: United States
+    offices:
+      - city: Seattle, WA
+        country: United States
     disciplines:
       - title-design
       - experiential
       - motion-design
-    offices:
-      - city: Seattle, WA
-        country: United States
+    markets:
+      - episodic
+      - brand
+      - advertising
+    founded: 1995
     notable:
       - Yellowjackets
       - Manhunt
       - 'Harry Potter: Visions of Magic'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/digitalkitchen
       linkedin: https://www.linkedin.com/company/digital-kitchen/
       vimeo: https://vimeo.com/digitalkitchen
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Dirty Puppet
     url: https://dirtypuppet.com/
     description: Melbourne animation studio led by Cameron Gough, making 2D, 3D and mixed-media ads for brands and museums.
@@ -755,18 +893,21 @@ studios:
       city: Collingwood
       country: Australia
     disciplines:
-      - animation
-    size: boutique
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
     notable:
       - AFL
       - Museums Victoria
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dirtypuppet/
       vimeo: https://vimeo.com/dirtypuppet
       x: https://twitter.com/_dirtypuppet
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Dirty Work
     url: https://dwrk.it/
     description: São Paulo animation and production company mixing 2D, 3D and live action for brand films and agency work.
@@ -774,15 +915,19 @@ studios:
       city: São Paulo
       country: Brazil
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dwrk.it/
       linkedin: https://www.linkedin.com/company/dwrk
       vimeo: https://vimeo.com/dwrk
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Ditroit
     url: https://ditroit.it/
     description: Milan image studio making minimal CGI product films and stills for luxury brands.
@@ -792,15 +937,18 @@ studios:
     disciplines:
       - product-viz
       - cg
+    markets:
+      - advertising
+      - brand
     notable:
       - Hublot
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/ditroit_studio/
       vimeo: https://vimeo.com/ditroit
       behance: https://www.behance.net/ditroit
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: DixonBaxi
     url: https://www.dixonbaxi.com/
     description: London brand agency building identity systems with motion, sound and digital parts for media, sport and tech brands.
@@ -809,17 +957,19 @@ studios:
       country: United Kingdom
     disciplines:
       - motion-design
+    markets:
+      - brand
     notable:
       - Hulu
       - AC Milan
       - Roblox
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dixonbaxi/
       linkedin: https://www.linkedin.com/company/dixonbaxi
       behance: https://www.behance.net/DixonBaxi
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Double Up Studio
     url: https://doubleup.studio/
     description: Stockholm 3D animation and art direction studio run by Lina and Louise, making playful brand work and teaching 3D.
@@ -828,20 +978,23 @@ studios:
       country: Sweden
     disciplines:
       - cg
-      - animation
+      - 3d-animation
       - motion-design
-    reel: https://doubleup.studio/showreel
+    markets:
+      - brand
+      - advertising
     notable:
       - Postmates
       - MTV IDs
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://doubleup.studio/showreel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/doubleup.studio/
       linkedin: https://www.linkedin.com/company/double-up-studio/
       vimeo: https://vimeo.com/doubleupstudio
       behance: https://www.behance.net/doubleupstudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Drasik Studio
     url: https://drasik.com/
     description: Barcelona 2D and 3D animation studio of Vicenç Fontanet, making game trailers, commercials and music videos.
@@ -849,42 +1002,51 @@ studios:
       city: Barcelona
       country: Spain
     disciplines:
-      - animation
+      - 2d-animation
+      - 3d-animation
       - motion-design
       - cinematics
+    markets:
+      - games
+      - advertising
+      - music-video
     notable:
       - Nike
       - Vodafone
       - Universal Music
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/drasik_studio/
       linkedin: https://www.linkedin.com/company/drasikstudio/
       behance: https://www.behance.net/drasik
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Drive Studio
     url: https://drivestudio.com/
     description: El Segundo broadcast design studio making network branding, sports packages, insert graphics and Unreal set design.
     hq:
       city: El Segundo, CA
       country: United States
+    offices:
+      - city: Nashville, TN
+        country: United States
     disciplines:
       - motion-design
       - title-design
       - virtual-production
-    offices:
-      - city: Nashville, TN
-        country: United States
+    markets:
+      - brand
+    size: small
+    founded: 2000
+    added_at: '2026-10-30T21:40:17.280Z'
     reel: https://drivestudio.com/demo-reel/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/drivestudio/
       linkedin: https://www.linkedin.com/company/drive-studio/
       vimeo: https://vimeo.com/drivestudio
       behance: https://www.behance.net/drivestudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Dwarf Studios
     url: https://dw-f.jp/
     description: Stop-motion and character studio making series and commercials, including Pokémon Concierge for Netflix.
@@ -893,16 +1055,20 @@ studios:
       country: Japan
     disciplines:
       - stop-motion
-      - animation
+    markets:
+      - episodic
+      - advertising
+    size: small
+    founded: 2003
     notable:
       - Pokémon Concierge
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/dwarf_studios/
       youtube: https://www.youtube.com/user/2003dwarf
       x: https://twitter.com/dwarf_inc
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Eddy
     url: https://eddyanimation.tv/
     description: Paris animation production company making 2D and 3D game trailers, cinematics and brand content with its directors.
@@ -910,8 +1076,15 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - animation
+      - 3d-animation
+      - 2d-animation
       - cinematics
+    markets:
+      - games
+      - advertising
+      - brand
+    size: small
+    founded: 2015
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-10-30'
@@ -921,23 +1094,28 @@ studios:
     hq:
       city: Berlin
       country: Germany
+    offices:
+      - city: Munich
+        country: Germany
     disciplines:
       - product-viz
       - cg
       - xr
-    offices:
-      - city: Munich
-        country: Germany
-    careers: https://effekt-etage.de/careers
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2004
     notable:
       - Audi
       - BMW
       - Mercedes-Benz
-    social:
-      linkedin: https://www.linkedin.com/company/effekt-etage-gmbh/
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://effekt-etage.de/careers
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      linkedin: https://www.linkedin.com/company/effekt-etage-gmbh/
   - name: Elastique
     url: https://www.elastique.de/
     description: Cologne creative agency making motion design, spatial installations and interactive tools for brand communication.
@@ -947,16 +1125,22 @@ studios:
     disciplines:
       - motion-design
       - experiential
-    careers: https://www.elastique.de/career/
+      - xr
+    markets:
+      - brand
+      - advertising
+    size: small
+    founded: 2005
     notable:
       - Deutsche Telekom
       - BMW
       - Deutsche Bahn
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.elastique.de/career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/elastiquedesign/
       linkedin: https://www.linkedin.com/company/elastiquedesign/
       vimeo: https://vimeo.com/elastique
       youtube: https://www.youtube.com/@elastiquedesign
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'

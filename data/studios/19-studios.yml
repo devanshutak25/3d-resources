@@ -1,0 +1,1168 @@
+studios:
+  - name: Milestone
+    url: https://milestone.it/
+    description: Milan game developer specialising in racing games, with MotoGP, Ride and Hot Wheels titles.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1994
+    notable:
+      - MotoGP 26
+      - Ride 6
+      - Screamer
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://milestone.it/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/milestone_team/
+      linkedin: https://www.linkedin.com/company/milestone-s-r-l-/
+      youtube: https://www.youtube.com/channel/UCy9_4oCluE1Cih3QjQWLjdg
+      x: https://x.com/milestoneitaly
+  - name: Nixxes
+    url: https://www.nixxes.com/
+    description: Utrecht PlayStation Studios team porting and co-developing PlayStation games for PC.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    founded: 1999
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://www.nixxes.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/nixxessoftware
+      x: https://x.com/NixxesSoftware
+  - name: Trimaran
+    url: https://www.trimaran.com/
+    description: VFX vendor in Paris and Valenciennes building CG historical and sci-fi environments for features, series and documentaries.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Valenciennes
+        country: France
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 1991
+    notable:
+      - 'De Gaulle: The Sovereign Edge'
+      - Evil Dead Burn
+      - Vanished
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://www.trimaran.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/trimaran/
+      vimeo: https://vimeo.com/trimaran
+  - name: rendertaxi
+    url: https://www.rendertaxi.de/
+    description: Aachen archviz studio run by architects, producing renderings and animations for architects and landscape firms, with a Barcelona office.
+    hq:
+      city: Aachen
+      country: Germany
+    offices:
+      - city: Barcelona
+        country: Spain
+    disciplines:
+      - archviz
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/rendertaxi.de/
+      linkedin: https://www.linkedin.com/company/9257331
+      vimeo: https://vimeo.com/rendertaxi
+      x: https://twitter.com/rendertaxi
+  - name: Dreamwall
+    url: https://www.dreamwall.be/
+    description: Charleroi animation and creative production studio making animated series and films, plus real-time AR and virtual graphics for broadcast and sport.
+    hq:
+      city: Charleroi
+      country: Belgium
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - episodic
+      - film
+      - brand
+    size: mid
+    founded: 2007
+    notable:
+      - Les Aventures des Schtroumpfs
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://www.dreamwall.be/fr/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dreamwall_mediasolutions
+      linkedin: https://www.linkedin.com/company/dreamwall/
+      youtube: https://www.youtube.com/channel/UCxyFAE4V5Ypzkxq_SkrE9yg
+  - name: SURFSIDE3D
+    url: https://surfside3d.com/
+    description: Art outsourcing studio in Novi Sad producing 3D models, texturing, animation, VFX and concept art for game and film studios.
+    hq:
+      city: Novi Sad
+      country: Serbia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+      - film
+    size: mid
+    founded: 2018
+    notable:
+      - Atomic Heart
+      - SnowRunner
+      - Enlisted
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://surfside3d.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/surfside3dstudios/
+      linkedin: https://www.linkedin.com/company/surfside3d
+      artstation: https://www.artstation.com/surfside3d
+  - name: Amber
+    url: https://amberstudio.com/
+    description: Game development services company from Bucharest offering full development, co-development, art production, live ops and QA for publishers.
+    hq:
+      city: Bucharest
+      country: Romania
+    offices:
+      - city: Botoșani
+        country: Romania
+      - city: San Francisco
+        country: United States
+      - city: Montreal
+        country: Canada
+      - city: Manila
+        country: Philippines
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2013
+    notable:
+      - 2XKO
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://jobs.jobvite.com/amberstudiocareers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/amberstudioglobal
+      linkedin: https://www.linkedin.com/company/amber/
+  - name: RetroStyle Games
+    url: https://retrostylegames.com/
+    description: Kyiv game art outsourcing studio producing 2D and 3D assets, characters, animation and trailers for game developers.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    size: mid
+    founded: 2010
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://retrostylegames.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/retrostyle_games/
+      linkedin: https://www.linkedin.com/company/retrostyle-games/
+      artstation: https://www.artstation.com/retrostylegames
+  - name: Mad Head Games
+    url: https://www.madheadgames.com/
+    description: 'Novi Sad game developer making action and horror games, including Scars Above and Hellraiser: Revival.'
+    hq:
+      city: Novi Sad
+      country: Serbia
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2011
+    notable:
+      - Scars Above
+      - 'Clive Barker''s Hellraiser: Revival'
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://careers.madheadgames.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/madheadgames/
+      linkedin: https://www.linkedin.com/company/mad-head-games
+      youtube: https://www.youtube.com/user/MadHeadGames
+    notes: Wikipedia redirects Mad Head Games to Saber Interactive.
+  - name: Stepico
+    url: https://stepico.com/
+    description: Lviv game development company offering custom and mobile game production, porting, prototyping and QA for partners.
+    hq:
+      city: Lviv
+      country: Ukraine
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://stepico.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/stepicogames/
+      linkedin: https://www.linkedin.com/company/stepico
+      artstation: https://www.artstation.com/stepicogames
+  - name: Nordeus
+    url: https://nordeus.com/
+    description: Belgrade mobile games company making sports titles such as Top Eleven and Golf Rival for players worldwide.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Top Eleven
+      - Golf Rival
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://nordeus.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/lifeatnordeus/
+      linkedin: https://www.linkedin.com/company/954057/
+      youtube: https://www.youtube.com/user/lifeinnordeus
+      x: https://twitter.com/Nordeus
+  - name: Cyborn
+    url: https://www.cyborn.be/
+    description: Antwerp studio developing VR and mixed reality games, with game and XR services and an in-house motion capture and animation studio.
+    hq:
+      city: Antwerp
+      country: Belgium
+    disciplines:
+      - games
+      - xr
+      - mocap
+      - 3d-animation
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/cyborn/
+      youtube: https://www.youtube.com/c/cyborn/
+      x: https://twitter.com/cyborn3d/
+  - name: Kecskemétfilm
+    url: https://kecskemetfilm.hu/fooldal
+    description: Hungarian animation studio in Kecskemét producing animated short films, TV series and features, including co-productions.
+    hq:
+      city: Kecskemét
+      country: Hungary
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/kecskemetfilm
+  - name: Studio Meala
+    url: https://studiomeala.com/
+    description: Animation studio in the west of Ireland producing original IP and hand-drawn 2D animation for series, films and brands.
+    hq:
+      country: Ireland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - brand
+    notable:
+      - 'Kizazi Moto: Generation Fire'
+      - Doodle Girl
+      - 'Rocket Knight Adventures: Re-Sparked'
+    added_at: '2026-10-31T05:09:10.959Z'
+    careers: https://studiomeala.com/pages/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/studiomeala
+      youtube: https://www.youtube.com/c/StudioMealaAnimation
+      x: https://twitter.com/StudioMeala
+  - name: Taller del Chucho
+    url: https://tallerdelchucho.com/
+    description: Stop-motion studio and training workshop in Guadalajara making short films, features and commissioned puppet animation.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+    size: small
+    founded: 2019
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/taller_del_chucho/
+      linkedin: https://www.linkedin.com/company/taller-del-chucho
+      vimeo: https://vimeo.com/user166253591
+    notes: LinkedIn lists HQ as Zapopan, Jalisco (Guadalajara metro); site says Guadalajara.
+  - name: Cinema Fantasma
+    url: https://www.cinemafantasma.com/
+    description: Mexican stop-motion studio making features, series, network IDs and music videos, including Netflix's I Am Frankelda.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - brand
+      - music-video
+    size: mid
+    notable:
+      - I Am Frankelda
+      - Frankelda's Book of Spooks
+      - Rick and Morty IDs (Adult Swim)
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cinemafantasma
+      x: https://twitter.com/cinemafantasma
+  - name: Huevocartoon
+    url: https://www.huevocartoon.com/
+    description: Mexico City animation studio behind the Huevos film franchise, making 2D and CG features, web series and commercials.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2001
+    notable:
+      - Una Película de Huevos
+      - Un gallo con muchos huevos
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/huevocartoon.oficial/
+      youtube: https://www.youtube.com/channel/UCvdwbcKg_6tXXaG6J57LO1g
+      x: http://twitter.com/huevocartoon
+  - name: Copa Studio
+    url: https://www.copastudio.com/
+    description: Rio de Janeiro animation studio making original 2D series and films for kids and family audiences, plus service work.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 2009
+    notable:
+      - Jorel's Brother
+      - Trunk Train
+      - Haunted Tales for Wicked Kids
+    added_at: '2026-10-31T05:09:10.960Z'
+    careers: https://copastudio.com/work-with-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/copastudio/
+      linkedin: https://www.linkedin.com/company/copa-studio/
+      x: https://twitter.com/copastudio
+  - name: PinGuim Content
+    url: https://www.tvpinguim.com/
+    description: São Paulo animation studio creating educational kids' series and films in 2D, CG and stop-motion, including Earth to Luna!
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - film
+    size: mid
+    founded: 1989
+    notable:
+      - Earth to Luna!
+      - Fishtronaut
+      - Tarsilinha
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/pinguimcontent
+      vimeo: https://vimeo.com/pinguimcontent
+      youtube: https://www.youtube.com/tvpinguim1
+    notes: Formerly TV PinGuim. Domain redirects to a Wix site (pinguimcontent.wixsite.com/tvpg) with 2026 news.
+  - name: Black Madre
+    url: https://www.blackmadre.com/
+    description: São Paulo animation and illustration studio making handcrafted 2D work for brands such as Nike, Coca-Cola and Nubank.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/blackmadre
+      linkedin: https://www.linkedin.com/company/black-madre/
+      behance: https://www.behance.net/blackmadre
+  - name: Venturia Animation Studios
+    url: https://www.venturiaanimation.com/
+    description: Bogotá studio specializing in traditional 2D and rubber-hose animation for music videos, documentaries and original IP.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+    markets:
+      - music-video
+      - film
+    size: small
+    founded: 2017
+    notable:
+      - Satellite (Bebe Rexha and Snoop Dogg)
+      - Not Just a Goof
+    added_at: '2026-10-31T05:09:10.960Z'
+    careers: https://venturiaanimation.com/work-with-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/venturia.animation/
+      linkedin: https://www.linkedin.com/company/venturia-animation/
+  - name: SuperUber
+    url: https://www.superuber.com/
+    description: Rio de Janeiro design and technology studio building museum exhibits, brand experiences and immersive event installations.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - experiential
+      - xr
+      - motion-design
+    markets:
+      - brand
+    size: small
+    founded: 2002
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: http://instagram.com/superuber
+      vimeo: http://vimeo.com/superuber
+      x: https://x.com/SuperUber
+  - name: Visualfarm
+    url: https://visualfarm.com.br/
+    description: São Paulo studio producing large-scale projection mapping, immersive spaces, drone shows and laser shows for events and brands.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    size: small
+    founded: 2003
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/visualfarm/
+      linkedin: https://www.linkedin.com/company/visualfarm/
+      youtube: https://www.youtube.com/@visualfarm
+  - name: Wildlife Studios
+    url: https://www.wildlifestudios.com/
+    description: São Paulo mobile game developer behind free-to-play titles such as Sniper 3D, Tennis Clash and Zooba.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2011
+    notable:
+      - Sniper 3D
+      - Tennis Clash
+      - Zooba
+    added_at: '2026-10-31T05:09:10.960Z'
+    careers: https://careers.wildlifestudios.com/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/WildlifeStudios
+      linkedin: https://www.linkedin.com/company/wildlife-studios
+      youtube: https://www.youtube.com/channel/UCgYHGkTMJ6iInwyNWOCmbkA
+      x: https://twitter.com/wildlifestudios
+    notes: Site footer uses a US mailing address; LinkedIn HQ is São Paulo. Offices in US, Brazil and Finland.
+  - name: Sísmica Studio
+    url: https://sismica.studio/
+    description: Mexico City production company with in-house VFX and CGI, handling on-set supervision and shots for brands, film and streaming.
+    hq:
+      city: Mexico City
+      country: Mexico
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - vfx
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - film
+      - episodic
+      - brand
+    size: small
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/sismica.studio/
+      linkedin: https://www.linkedin.com/company/sismicastudio/
+      vimeo: https://vimeo.com/sismicastudio
+  - name: Bellolandia
+    url: https://www.bellolandia.com/
+    description: Buenos Aires 2D studio doing frame-by-frame animation, visual development and game cutscenes for series, films and games.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - cinematics
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - games
+      - advertising
+    size: small
+    founded: 2018
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/bellolandia/
+      youtube: https://www.youtube.com/@BellolandiaEstudio
+      x: https://x.com/bellolandia
+  - name: Can Can Club
+    url: https://www.cancanclub.com.ar/
+    description: Argentine animation studio led by directors Mab and Becho, making 2D commercials and short films for brands like Spotify and Nintendo.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - film
+    size: boutique
+    founded: 2008
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/cancanclub/
+      vimeo: https://vimeo.com/cancanclub
+      x: https://twitter.com/cancanclub
+      behance: https://www.behance.net/cancanclub
+    notes: LinkedIn HQ is CABA, Buenos Aires. Quirino 2026 nominee (My Gut Friend).
+  - name: Hook Up Animation
+    url: https://hookupanimation.com/
+    description: Buenos Aires studio producing animation and effects for TV series, features, commercials and channel promos for networks like Cartoon Network.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - vfx
+    markets:
+      - episodic
+      - advertising
+      - brand
+    size: small
+    founded: 2001
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/hookupanimationstudio/
+      linkedin: https://www.linkedin.com/company/hook-up-animation/
+      vimeo: https://vimeo.com/hookupanimation
+  - name: Zumbástico Studios
+    url: https://www.zumbastico.com/
+    description: Chilean kids and family animation studio that has produced eight original series, including Horatio and the Plasticines and Paper Port.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    size: small
+    notable:
+      - Horatio & the Plasticines
+      - Paper Port
+      - The Papernauts
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/zumbasticostudios/
+      linkedin: https://www.linkedin.com/company/zumbastico/
+      vimeo: https://vimeo.com/zumbastico
+      x: https://twitter.com/ZumbasticoST
+    notes: Site address is Providencia, RM (Santiago metro).
+  - name: ACE Team
+    url: https://www.aceteam.cl/
+    description: Santiago game developer making stylized action and strategy titles such as Zeno Clash, Rock of Ages and The Eternal Cylinder.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    notable:
+      - Zeno Clash
+      - Rock of Ages
+      - The Eternal Cylinder
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/ace_team_software/
+      youtube: https://www.youtube.com/user/ACETeamSoftware
+      x: https://twitter.com/theaceteam
+  - name: Ironhide Game Studio
+    url: https://www.ironhidegames.com/
+    description: Uruguayan indie game studio making hand-drawn strategy games such as the Kingdom Rush tower defense series.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2010
+    notable:
+      - Kingdom Rush
+      - Iron Marines
+      - Junkworld
+    added_at: '2026-10-31T05:09:10.960Z'
+    careers: https://www.ironhidegames.com/Careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/user/ironhidegames
+      x: https://twitter.com/ironhidegames
+  - name: Mad Hook
+    url: https://www.madhook.io/
+    description: 'Amman independent game studio making console and mobile action and drifting games such as Amer: Cop Pursuit and Highway Drifter.'
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2018
+    notable:
+      - 'Amer: Cop Pursuit'
+      - 'Highway Drifter: Hajwala Simulator'
+      - Amer Fighting
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/madhookgames/
+      youtube: https://www.youtube.com/channel/UCtEIh1ONbZYn52eFkeIwEew
+      x: https://twitter.com/madhookgames
+  - name: Maysalward
+    url: https://www.maysalward.com/
+    description: Amman mobile game developer adapting card and board games like Trix, Tarneeb and Dominoes for Arab players, plus brand games.
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - games
+    markets:
+      - games
+      - brand
+    size: small
+    founded: 2003
+    notable:
+      - Dominoes Pro
+      - King of Hearts
+    added_at: '2026-10-31T05:09:10.960Z'
+    careers: https://maysalward.com/work-with-us
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/maysalward
+      youtube: https://www.youtube.com/@Maysalwardgames
+      x: http://www.x.com/maysalward
+  - name: Rendermatic
+    url: https://www.rendermatic3d.com/
+    description: Cape Town CGI studio producing 3D product visuals, product films and content kits for brands and advertising agencies.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2012
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site is live but showed unrendered template placeholders to the fetcher.
+  - name: Sunrise Animation Studios
+    url: https://www.sunriseproductions.tv/
+    description: Cape Town CG animation studio producing family features and series, including Jungle Beat and the musical feature David.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    size: mid
+    founded: 1998
+    notable:
+      - Jungle Beat
+      - David
+      - The Legend of the Sky Kingdom
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/sunriseanimationstudios/
+      linkedin: https://www.linkedin.com/company/sunrise-productions/
+      youtube: https://www.youtube.com/@SunriseAnimationStudios
+    notes: Formerly Sunrise Productions; Wikipedia says founded in Zimbabwe before moving to Cape Town.
+  - name: Sea Monster Entertainment
+    url: https://www.seamonster.digital/
+    description: Cape Town studio building marketing and learning games, including web games and Roblox experiences, for brands and nonprofits.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - games
+    markets:
+      - games
+      - brand
+    size: small
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://www.seamonster.digital/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/seamonster_entertainment/
+      linkedin: https://www.linkedin.com/company/sea-monster/
+    notes: seamonster.co.za redirects to seamonster.digital.
+  - name: Free Lives
+    url: https://www.freelives.net/
+    description: Cape Town indie game developer making action and simulation games such as Broforce, Gorn, Terra Nil and Anger Foot.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - games
+    markets:
+      - games
+    size: small
+    founded: 2012
+    notable:
+      - Broforce
+      - Terra Nil
+      - Gorn
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/freelives_official/
+      youtube: https://www.youtube.com/c/freelivesgames
+      x: https://twitter.com/freelives
+    notes: LinkedIn says founded 2011; Wikipedia says April 2012.
+  - name: Chocolate Tribe
+    url: https://www.chocolatetribe.co.za/
+    description: Johannesburg visual effects and animation studio producing work for film, television, commercials and VR/AR projects.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - vfx
+      - 3d-animation
+      - xr
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: small
+    founded: 2014
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/chocolate-tribe/
+    notes: Site returns 403 to the fetcher (bot-blocked); LinkedIn shows posts within the last week.
+  - name: Polycat Visual Effects
+    url: https://www.polycat.com/
+    description: Cape Town CG animation and visual effects studio making computer-animated media for television, games and film.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - games
+      - film
+    size: small
+    founded: 2015
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/polycatvisualeffects
+      linkedin: https://www.linkedin.com/company/polycat/
+      vimeo: https://vimeo.com/user83016293
+    notes: Site is live but footer still reads 2020.
+  - name: Lucan Animation Studio
+    url: https://www.lucan.tv/
+    description: Cape Town animation studio producing feature-grade character animation for streaming shorts, game trailers and brand films.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - episodic
+      - games
+      - advertising
+      - brand
+    size: small
+    founded: 2011
+    notable:
+      - 'Kizazi Moto: Generation Fire (Moremi)'
+      - Terra Nil trailer
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/lucan_studio/
+      linkedin: https://www.linkedin.com/company/lucanstudio/
+      behance: https://www.behance.net/lucanstudio
+  - name: Rudo Company
+    url: https://rudocompany.com/
+    description: Buenos Aires 2D animation studio and directing duo making music videos, festival trailers and commissioned short films.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+    markets:
+      - music-video
+      - advertising
+      - brand
+    size: boutique
+    founded: 2015
+    notable:
+      - Pixelatl 2025 festival trailer
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/rudo.co/
+      vimeo: https://vimeo.com/rudoco
+      behance: https://behance.net/rudocompany
+  - name: DeTuco
+    url: https://www.detuco.com/
+    description: Buenos Aires 3D animation and VFX studio creating characters, shorts and series work for clients such as Cartoon Network and Disney XD.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - advertising
+      - film
+    size: small
+    founded: 2013
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/detucoestudio/
+      linkedin: https://www.linkedin.com/company/detuco
+      vimeo: https://vimeo.com/user17334430
+      youtube: http://www.youtube.com/@detuco
+  - name: 3dar
+    url: https://3dar.com/
+    description: Buenos Aires studio creating VR and mixed reality experiences, animation and VFX, including the Venice-awarded game Eggscape.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Santa Monica
+        country: United States
+    disciplines:
+      - xr
+      - 3d-animation
+      - vfx
+      - games
+    markets:
+      - film
+      - games
+    size: small
+    founded: 2004
+    notable:
+      - Eggscape
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/3dar/
+      vimeo: https://vimeo.com/3dar
+      x: https://twitter.com/3darStudios
+  - name: MOOCO Studio
+    url: https://mooco.studio/
+    description: Buenos Aires creative studio producing motion design, 3D and campaign assets for brands such as Nike, Red Bull and Call of Duty.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Miramar
+        country: United States
+    disciplines:
+      - motion-design
+      - cg
+      - vfx
+    markets:
+      - brand
+      - advertising
+      - games
+    size: mid
+    founded: 2007
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site now also pitches AI production tooling (LOOM) alongside motion and 3D work.
+  - name: Mundoloco CGI
+    url: https://www.mundolococgi.com/
+    description: Argentine CG animation studio behind the feature Underdogs (Metegol) and the Emmy-nominated preschool series Mini Beat Power Rockers.
+    hq:
+      country: Argentina
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    size: mid
+    notable:
+      - Underdogs (Metegol)
+      - Mini Beat Power Rockers
+      - Mafalda
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://instagram.com/mundolococgi/
+      linkedin: https://www.linkedin.com/company/catmandu/
+  - name: 2veinte
+    url: https://www.2veinte.com.ar/
+    description: Buenos Aires production company making 3D animation, game trailers and commissioned films for brands and publishers.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - motion-design
+    markets:
+      - advertising
+      - games
+      - brand
+    size: small
+    founded: 2009
+    notable:
+      - EA Skate and Nike SB trailer
+      - Catalysis (Quirino nominee)
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site refused connection from the fetcher; LinkedIn shows posts from the last 2 months. 2veinte.com (no .ar) is an unrelated site.
+  - name: Kodii
+    url: https://www.kodii.tv/
+    description: Cape Town creative studio making motion design, 3D character animation and illustration for brand launches and campaigns.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+      - advertising
+    size: boutique
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/kodii.tv/
+      linkedin: https://www.linkedin.com/company/kodii/
+      behance: https://www.behance.net/hellokodii
+  - name: Motif Studios
+    url: https://www.motifstudios.co.za/
+    description: Cape Town visual effects and design studio delivering VFX for features and TV, plus title sequences, channel identities and promos.
+    hq:
+      city: Cape Town
+      country: South Africa
+    offices:
+      - city: Edinburgh
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - brand
+    size: boutique
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Manga Productions
+    url: https://www.manga.com.sa/
+    description: Riyadh studio owned by the MiSK Foundation producing anime films and series, mobile games and comics, often with Toei Animation.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    offices:
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - games
+    markets:
+      - film
+      - episodic
+      - games
+    size: mid
+    founded: 2017
+    notable:
+      - The Journey
+      - Future's Folktales
+      - Grendizer U (regional rights)
+    added_at: '2026-10-31T05:09:10.961Z'
+    careers: https://manga.com.sa/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/manga_prd/
+      linkedin: https://www.linkedin.com/company/mangaproductions/
+      youtube: https://www.youtube.com/channel/UCYdS7yrguBz4WY350nWj35A
+      x: https://twitter.com/manga_prd
+  - name: Samaka Studio
+    url: https://www.samaka.tv/
+    description: Cairo animation studio making animated stories, motion graphics and character design for brands, streamers and TED-Ed.
+    hq:
+      city: Cairo
+      country: Egypt
+    offices:
+      - city: Abu Dhabi
+        country: United Arab Emirates
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+      - brand
+    size: boutique
+    founded: 2018
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/samakastudio/
+      linkedin: https://www.linkedin.com/company/samakastudio/
+      vimeo: https://vimeo.com/samakastudio
+      behance: https://www.behance.net/SamakaStudio
+    notes: LinkedIn HQ is El Dokki, Giza; site lists Maadi, Cairo and Yas Island, Abu Dhabi. Co-founded the Animatex festival.

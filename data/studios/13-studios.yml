@@ -6,17 +6,20 @@ studios:
       city: Lagos
       country: Nigeria
     disciplines:
-      - animation
+      - 3d-animation
       - vfx
       - live-action
+    markets:
+      - film
+      - advertising
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://instagram.com/_anthillstudios
       linkedin: https://www.linkedin.com/company/anthillstudios/
       x: https://twitter.com/anthillstudios_
       youtube: https://www.youtube.com/c/AnthillStudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Myrkott
     url: https://www.myrkott.com/
     description: Riyadh animation studio producing adult animated comedy series and films.
@@ -24,7 +27,11 @@ studios:
       city: Riyadh
       country: Saudi Arabia
     disciplines:
-      - animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    size: small
     founded: 2014
     notable:
       - Masameer County
@@ -40,28 +47,28 @@ studios:
       country: United States
     disciplines:
       - games
+    markets:
+      - games
     size: large
     founded: 1984
-    careers: https://www.naughtydog.com/careers
     notable:
       - The Last of Us
       - 'Uncharted 4: A Thief''s End'
       - Crash Bandicoot
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.naughtydog.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/naughtydog/
       youtube: https://www.youtube.com/user/NaughtyDog
       x: https://x.com/naughty_dog
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: CD PROJEKT RED
     url: https://www.cdprojektred.com/en
     description: Polish game developer making story-driven open-world RPGs.
     hq:
       city: Warsaw
       country: Poland
-    disciplines:
-      - games
     offices:
       - city: Kraków
         country: Poland
@@ -71,20 +78,24 @@ studios:
         country: Canada
       - city: Boston, MA
         country: United States
+    disciplines:
+      - games
+    markets:
+      - games
     size: large
     founded: 2002
-    careers: https://www.cdprojektred.com/en/jobs
     notable:
       - 'The Witcher 3: Wild Hunt'
       - Cyberpunk 2077
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.cdprojektred.com/en/jobs
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/cdprojektred/
       linkedin: https://www.linkedin.com/company/cd-projekt-red/
       youtube: https://www.youtube.com/@CDPROJEKTRED
       x: https://x.com/cdprojektred
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Remedy Entertainment
     url: https://www.remedygames.com/
     description: Finnish game developer making narrative action games with its own Northlight engine.
@@ -93,21 +104,23 @@ studios:
       country: Finland
     disciplines:
       - games
+    markets:
+      - games
     size: large
     founded: 1995
-    careers: https://www.remedygames.com/careers
     notable:
       - Alan Wake 2
       - Control
       - Max Payne
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.remedygames.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/RemedyGames
       linkedin: https://www.linkedin.com/company/32617
       vimeo: https://vimeo.com/RemedyGames
       x: https://twitter.com/RemedyGames
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Guerrilla Games
     url: https://www.guerrilla-games.com/
     description: Sony first-party studio in Amsterdam making open-world action games on its in-house Decima engine.
@@ -116,20 +129,22 @@ studios:
       country: Netherlands
     disciplines:
       - games
+    markets:
+      - games
     size: large
     founded: 2000
-    careers: https://www.guerrilla-games.com/join
     notable:
       - Horizon Zero Dawn
       - Horizon Forbidden West
       - Killzone
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.guerrilla-games.com/join
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/guerrillagames/
       linkedin: https://www.linkedin.com/company/guerrilla-games/
       x: https://twitter.com/guerrilla
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: FromSoftware
     url: https://www.fromsoftware.jp/
     description: Tokyo game developer making dark fantasy action RPGs with dense world and creature design.
@@ -138,20 +153,22 @@ studios:
       country: Japan
     disciplines:
       - games
+    markets:
+      - games
     size: large
     founded: 1986
-    careers: https://careers.fromsoftware.jp/jp/
     notable:
       - Elden Ring
       - Dark Souls
       - 'Sekiro: Shadows Die Twice'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://careers.fromsoftware.jp/jp/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/fromsoftware_jp/
       youtube: https://www.youtube.com/user/FromSoftwareInc/
       x: https://twitter.com/fromsoftware_pr
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Supergiant Games
     url: https://www.supergiantgames.com/
     description: Independent game studio in San Francisco making hand-painted action games.
@@ -160,19 +177,22 @@ studios:
       country: United States
     disciplines:
       - games
+    markets:
+      - games
+    size: small
     founded: 2009
-    careers: https://www.supergiantgames.com/join/
     notable:
       - Hades
       - Bastion
       - Transistor
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.supergiantgames.com/join/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/supergiantgames
       youtube: https://www.youtube.com/user/supergiantgames
       x: https://twitter.com/SupergiantGames
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Santa Monica Studio
     url: https://sms.playstation.com/
     description: Sony first-party game developer in Los Angeles behind the God of War series.
@@ -180,6 +200,8 @@ studios:
       city: Los Angeles, CA
       country: United States
     disciplines:
+      - games
+    markets:
       - games
     size: large
     founded: 1999
@@ -197,13 +219,16 @@ studios:
       country: United Kingdom
     disciplines:
       - games
+    markets:
+      - games
+    size: mid
     founded: 2000
-    careers: https://ninjatheory.com/careers/opportunities
     notable:
       - 'Hellblade: Senua''s Sacrifice'
       - 'Senua''s Saga: Hellblade II'
       - Heavenly Sword
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://ninjatheory.com/careers/opportunities
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Sucker Punch Productions
@@ -214,18 +239,21 @@ studios:
       country: United States
     disciplines:
       - games
+    markets:
+      - games
+    size: mid
     founded: 1997
-    careers: https://jobs.suckerpunch.com/
     notable:
       - Ghost of Tsushima
       - Ghost of Yōtei
       - Infamous Second Son
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://jobs.suckerpunch.com/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/suckerpunchprod/
       x: https://x.com/suckerpunchprod
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Housemarque
     url: https://housemarque.com/
     description: Sony first-party studio in Helsinki making arcade-style action games.
@@ -234,16 +262,19 @@ studios:
       country: Finland
     disciplines:
       - games
+    markets:
+      - games
+    size: mid
     founded: 1995
-    careers: https://housemarque.com/careers
     notable:
       - Returnal
       - Resogun
-    social:
-      instagram: https://www.instagram.com/housemarque
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://housemarque.com/careers
     url_status: ok
     url_last_verified: '2026-10-30'
+    social:
+      instagram: https://www.instagram.com/housemarque
   - name: Bloober Team
     url: https://www.blooberteam.com/
     description: Kraków game developer making psychological horror games.
@@ -252,18 +283,21 @@ studios:
       country: Poland
     disciplines:
       - games
+    markets:
+      - games
+    size: large
     founded: 2008
-    careers: https://blooberteam.traffit.com/career/
     notable:
       - Silent Hill 2 (2024)
       - Layers of Fear
       - The Medium
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://blooberteam.traffit.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       youtube: https://www.youtube.com/user/blooberteam
       x: https://twitter.com/blooberteam
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Techland
     url: https://techland.net/
     description: Polish game developer and publisher making open-world first-person action games.
@@ -272,21 +306,23 @@ studios:
       country: Poland
     disciplines:
       - games
+    markets:
+      - games
     size: large
     founded: 1991
-    careers: https://techland.net/company/careers
     notable:
       - Dying Light
       - Dying Light 2 Stay Human
       - Call of Juarez
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://techland.net/company/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/techlandgames/
       linkedin: https://www.linkedin.com/company/techland/
       youtube: https://www.youtube.com/channel/UCELOp53ps7F22ixRjUPCwZQ
       x: https://twitter.com/techlandgames
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: GSC Game World
     url: https://www.gsc-game.com/
     description: Ukrainian game developer behind the S.T.A.L.K.E.R. survival shooter series.
@@ -295,43 +331,49 @@ studios:
       country: Ukraine
     disciplines:
       - games
+    markets:
+      - games
+    size: large
     founded: 1995
-    careers: https://www.gsc-game.com/careers
     notable:
       - 'S.T.A.L.K.E.R. 2: Heart of Chornobyl'
       - 'S.T.A.L.K.E.R.: Shadow of Chernobyl'
       - Cossacks
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.gsc-game.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       linkedin: https://www.linkedin.com/company/gsc-gameworld
       youtube: https://www.youtube.com/c/gscgameworldofficial/
       x: https://twitter.com/GSC_GW
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: 4A Games
     url: https://www.4a-games.com.mt/
     description: Game developer founded in Kyiv and now based in Malta, making the Metro first-person shooter series.
     hq:
       city: Sliema
       country: Malta
-    disciplines:
-      - games
     offices:
       - city: Kyiv
         country: Ukraine
-    founded: 2005
-    careers: https://www.4a-games.com.mt/careers
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    founded: 2006
     notable:
       - Metro Exodus
       - Metro 2033
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.4a-games.com.mt/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/4agames/
       linkedin: https://www.linkedin.com/company/4a-games/
       youtube: https://www.youtube.com/c/4AGames
       x: https://twitter.com/4AGames
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Shift Up
     url: https://shiftup.co.kr/
     description: Seoul game developer making character-focused action and mobile games.
@@ -340,6 +382,9 @@ studios:
       country: South Korea
     disciplines:
       - games
+    markets:
+      - games
+    size: large
     founded: 2013
     notable:
       - Stellar Blade
@@ -356,29 +401,33 @@ studios:
       country: South Korea
     disciplines:
       - games
+    markets:
+      - games
     size: large
     founded: 2010
-    careers: https://www.pearlabyss.com/Company/Careers/Intro
     notable:
       - Black Desert
       - Crimson Desert
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.pearlabyss.com/Company/Careers/Intro
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       linkedin: https://www.linkedin.com/company/pearl-abyss
       youtube: https://www.youtube.com/channel/UCVtC-cy2yO6u0dOB7UeajDw
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Game Science
     url: https://gamesci.cn/
     description: Chinese game developer making action RPGs based on Chinese mythology.
     hq:
       city: Shenzhen
       country: China
-    disciplines:
-      - games
     offices:
       - city: Hangzhou
         country: China
+    disciplines:
+      - games
+    markets:
+      - games
     founded: 2014
     notable:
       - 'Black Myth: Wukong'
@@ -394,6 +443,10 @@ studios:
       country: China
     disciplines:
       - games
+    markets:
+      - games
+    size: large
+    founded: 2014
     notable:
       - Wuthering Waves
       - 'Punishing: Gray Raven'
@@ -408,19 +461,22 @@ studios:
       country: Japan
     disciplines:
       - games
+    markets:
+      - games
+    size: large
     founded: 2007
-    careers: https://www.platinumgames.com/recruit/mid-career/
     notable:
       - Bayonetta
       - 'Nier: Automata'
       - 'Metal Gear Rising: Revengeance'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.platinumgames.com/recruit/mid-career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/platinumgames_official/
       youtube: https://www.youtube.com/channel/UCPuG5gaLOk-b_R7N_bp9HaA
       x: https://x.com/platinumgames
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Kojima Productions
     url: https://www.kojimaproductions.jp/
     description: Independent Tokyo game studio led by Hideo Kojima, making cinematic action games.
@@ -429,17 +485,19 @@ studios:
       country: Japan
     disciplines:
       - games
+    markets:
+      - games
     founded: 2015
-    careers: https://www.kojimaproductions.jp/en/careers
     notable:
       - Death Stranding
       - 'Death Stranding 2: On the Beach'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.kojimaproductions.jp/en/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       linkedin: https://www.linkedin.com/company/kojimaproductions/
       youtube: https://www.youtube.com/c/KOJIMAPRODUCTIONS
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Toge Productions
     url: https://www.togeproductions.com/
     description: Indonesian independent game developer and publisher making narrative pixel-art games.
@@ -448,16 +506,19 @@ studios:
       country: Indonesia
     disciplines:
       - games
-    careers: https://www.togeproductions.com/career/
+    markets:
+      - games
+    founded: 2011
     notable:
       - Coffee Talk
       - Infectonator
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.togeproductions.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       youtube: https://www.youtube.com/user/togeproductions
       x: https://twitter.com/togeproductions
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Nodding Heads Games
     url: https://www.noddingheadsgames.com/
     description: Pune game studio making action-adventure games drawn from Indian mythology and art.
@@ -466,16 +527,18 @@ studios:
       country: India
     disciplines:
       - games
+    markets:
+      - games
     notable:
       - 'Raji: An Ancient Epic'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/noddingheadsgames/
       linkedin: https://www.linkedin.com/company/noddingheadsgames/
       youtube: https://www.youtube.com/channel/UCo0t8PwZ4uUdlKYzG_NXb7g
       x: https://twitter.com/games_heads
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Ogre Head Studio
     url: https://www.ogreheadstudio.com/
     description: Independent game developer in Hyderabad making PC and console games.
@@ -484,41 +547,45 @@ studios:
       country: India
     disciplines:
       - games
+    markets:
+      - games
     founded: 2014
-    careers: https://www.ogreheadstudio.com/career
     notable:
       - Asura
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.ogreheadstudio.com/career
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/ogreheadstudio/
       linkedin: https://in.linkedin.com/company/ogreheadstudio
       youtube: https://www.youtube.com/channel/UCeG6qxIU_CWOiAr7HyadJ6A
       x: https://twitter.com/ogreheadstudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: SuperGaming
     url: https://www.supergaming.com/
     description: Game developer headquartered in Singapore with studios in Pune, making multiplayer shooters for mobile.
     hq:
       city: Singapore
       country: Singapore
-    disciplines:
-      - games
     offices:
       - city: Pune
         country: India
-    careers: https://www.supergaming.com/careers.html
+    disciplines:
+      - games
+    markets:
+      - games
     notable:
       - Indus Battle Royale
       - MaskGun
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.supergaming.com/careers.html
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/supergaming_npc/
       linkedin: https://in.linkedin.com/company/supg
       youtube: https://www.youtube.com/@supergaming6686
       x: https://twitter.com/supergamingnpc
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Mad Mimic
     url: https://madmimic.com/
     description: Independent game developer in São Paulo making stylised action and strategy games.
@@ -527,16 +594,19 @@ studios:
       country: Brazil
     disciplines:
       - games
+      - outsourcing
+    markets:
+      - games
     notable:
       - Dandy Ace
       - No Heroes Here
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/madmimic/
       youtube: https://www.youtube.com/@MadMimic
       x: https://x.com/madmimic
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Sloclap
     url: https://www.sloclap.com/
     description: Independent Paris game studio making melee combat and sports games with stylised art.
@@ -545,19 +615,21 @@ studios:
       country: France
     disciplines:
       - games
+    markets:
+      - games
     founded: 2015
-    careers: https://careers.sloclap.com/
     notable:
       - Sifu
       - Absolver
       - Rematch
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://careers.sloclap.com/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       linkedin: https://www.linkedin.com/company/sloclap/
       youtube: https://www.youtube.com/@Sloclap
       x: https://x.com/sloclap
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: DIGIC Pictures
     url: https://digicgroup.com/pictures/
     description: Budapest animation studio making CG cinematics and trailers for video games.
@@ -566,22 +638,25 @@ studios:
       country: Hungary
     disciplines:
       - cinematics
-      - animation
+      - 3d-animation
+    markets:
+      - games
+      - episodic
     size: large
-    founded: 2002
-    careers: https://digicgroup.com/join-us/
+    founded: 2001
     notable:
       - Assassin's Creed Shadows world premiere trailer
       - Secret Level
       - Rainbow Six Siege cinematic trailers
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://digicgroup.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/digicpictures
       linkedin: https://www.linkedin.com/company/digic-pictures
       vimeo: https://vimeo.com/digicpictures
       youtube: https://www.youtube.com/user/TheDigicPictures
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Unit Image
     url: https://www.unit-image.fr/
     description: Paris animation and VFX studio making game trailers, cinematics and commercials.
@@ -590,20 +665,25 @@ studios:
       country: France
     disciplines:
       - cinematics
-      - animation
+      - 3d-animation
       - vfx
-    careers: https://www.unit-image.fr/fr/jobs/
+      - motion-design
+    markets:
+      - games
+      - advertising
+      - episodic
     notable:
       - Secret Level
       - 'Marvel Rivals: No One Rivals Doom'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.unit-image.fr/fr/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/unit_image
       linkedin: https://fr.linkedin.com/company/unit-image
       vimeo: https://vimeo.com/user7515497
       x: https://twitter.com/unit_image
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Brunch Studio
     url: https://www.brunchstudio.tv/
     description: Paris 2D and 3D animation studio making game cinematics, trailers and music videos.
@@ -612,18 +692,24 @@ studios:
       country: France
     disciplines:
       - cinematics
-      - animation
-    careers: https://www.brunchstudio.tv/careers
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - games
+      - advertising
+      - music-video
+      - episodic
     notable:
       - Valorant
       - League of Legends
       - Apex Legends
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.brunchstudio.tv/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/brunch.studio.tv/
       linkedin: https://www.linkedin.com/company/brunchstudio/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Plastic Wax
     url: https://www.plasticwax.com/
     description: Sydney animation and VFX studio making game trailers and cinematics, with in-house motion capture.
@@ -632,48 +718,56 @@ studios:
       country: Australia
     disciplines:
       - cinematics
-      - animation
-    reel: https://www.plasticwax.com/sizzle-reel
+      - 3d-animation
+      - vfx
+      - mocap
+    markets:
+      - games
     notable:
       - Subnautica 2 reveal trailer
       - Hogwarts Legacy
       - Mortal Kombat 1
+    added_at: '2026-10-30T21:40:17.280Z'
+    reel: https://www.plasticwax.com/sizzle-reel
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/plasticwax/
       linkedin: https://www.linkedin.com/company/plastic-wax-animation/
       vimeo: https://vimeo.com/plasticwax
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Squeeze
     url: https://www.squeezestudio.com/
     description: Québec City CG animation studio making series, features and game cinematics, with a mocap stage in Montreal.
     hq:
       city: Québec City
       country: Canada
-    disciplines:
-      - animation
-      - cinematics
-      - mocap
     offices:
       - city: Montreal
         country: Canada
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - mocap
+    markets:
+      - episodic
+      - film
+      - games
     size: large
     founded: 2011
-    careers: https://www.squeezestudio.com/en/careers
-    reel: https://youtu.be/QSZ2viDyslE
     notable:
       - What If...?
       - 'Invincible: Guarding the Globe cinematic'
       - Rainbow Six Operation Twin Shells trailer
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.squeezestudio.com/en/careers
+    reel: https://youtu.be/QSZ2viDyslE
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/squeezestudio_animation/
       linkedin: https://www.linkedin.com/company/2420548/
       vimeo: https://vimeo.com/squeezestudio
       youtube: https://www.youtube.com/user/SqueezeAnimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Brazen Animation
     url: https://www.brazenanimation.com/
     description: Dallas animation studio making game trailers and animated content for publishers and brands.
@@ -681,22 +775,25 @@ studios:
       city: Dallas, TX
       country: United States
     disciplines:
-      - animation
+      - 3d-animation
       - cinematics
+    markets:
+      - games
+      - advertising
     founded: 2013
-    careers: https://www.brazenanimation.com/careers/
     notable:
       - Valorant
       - 'Fortnite: Save The World'
       - Overwatch 2
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.brazenanimation.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/brazenanimation/
       linkedin: https://www.linkedin.com/company/brazen-animation/
       vimeo: https://vimeo.com/brazenanimation
       x: https://twitter.com/brazenanimation
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Brain Zoo Studios
     url: https://www.brainzoostudios.com/
     description: Los Angeles animation studio making game cinematics, with keyframe, motion capture and facial capture services.
@@ -705,21 +802,23 @@ studios:
       country: United States
     disciplines:
       - cinematics
-      - animation
+      - 3d-animation
       - mocap
+    markets:
+      - games
     founded: 1995
-    careers: https://www.brainzoostudios.com//
     notable:
       - Baldur's Gate 3
       - Borderlands 3
       - Mortal Kombat 11
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.brainzoostudios.com//
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/brainzoostudios/
       linkedin: https://www.linkedin.com/company/brain-zoo-studios
       youtube: https://www.youtube.com/@BrainZooStudiosTV
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Virtuos
     url: https://www.virtuosgames.com/
     description: Game co-development and art production company working with major publishers from studios across Asia, Europe and North America.
@@ -728,22 +827,24 @@ studios:
     disciplines:
       - outsourcing
       - games
+    markets:
+      - games
     size: large
     founded: 2004
-    careers: https://www.virtuosgames.com/careers/
     notable:
       - Horizon Forbidden West
       - Outriders
       - 'Gears of War: E-Day'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.virtuosgames.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
     social:
       x: https://twitter.com/virtuosgames
       artstation: https://www.artstation.com/virtuosgames
       instagram: https://www.instagram.com/virtuosgames/
       linkedin: https://www.linkedin.com/company/virtuosgames/
       youtube: https://www.youtube.com/@VirtuosGames
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
   - name: Keywords Studios
     url: https://www.keywordsstudios.com/
     description: Dublin-based services group for the games industry covering art production, co-development, QA and localisation.
@@ -752,25 +853,25 @@ studios:
       country: Ireland
     disciplines:
       - outsourcing
+    markets:
+      - games
     size: large
     founded: 1998
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.keywordsstudios.com/en/careers/browse-careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/keywordsstudiosglobal/
       linkedin: https://www.linkedin.com/company/keywordsstudios/
       youtube: https://www.youtube.com/c/KeywordsStudios
       x: https://twitter.com/KeywordsStudios
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Lakshya Digital
     url: https://lakshyadigital.com/
     description: Indian game art outsourcing studio producing 2D, 3D and animation for console, PC and mobile games.
     hq:
       city: Gurugram
       country: India
-    disciplines:
-      - outsourcing
     offices:
       - city: Pune
         country: India
@@ -782,61 +883,73 @@ studios:
         country: United Kingdom
       - city: Manila
         country: Philippines
+    disciplines:
+      - outsourcing
+    markets:
+      - games
     size: large
     founded: 2004
-    careers: https://lakshyadigital.com/careers/
     notable:
       - Microsoft Flight Simulator
       - Spyro Reignited Trilogy
       - 'Middle-earth: Shadow of War'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://lakshyadigital.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lakshya.digital
       linkedin: https://www.linkedin.com/company/lakshya-digital/
       youtube: https://www.youtube.com/@LakshyaDigitalOfficial
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Room 8 Group
     url: https://room8studio.com/
     description: External game development group founded in Kyiv, providing game art, co-development, trailers and animation.
     hq:
       city: Limassol
       country: Cyprus
-    disciplines:
-      - outsourcing
-      - cinematics
     offices:
       - city: Kyiv
         country: Ukraine
+    disciplines:
+      - outsourcing
+      - cinematics
+    markets:
+      - games
     size: large
-    careers: https://room8studio.com/careers/
     notable:
       - Age of Empires IV
       - South of Midnight
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://room8studio.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/room8.group/
       linkedin: https://www.linkedin.com/company/room-8
       x: https://x.com/Room8studio
       artstation: https://www.artstation.com/room8studio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Kevuru Games
     url: https://kevurugames.com/
     description: Ukrainian game art and development studio producing 2D, 3D and animation for game studios.
     hq:
       city: Kyiv
       country: Ukraine
-    disciplines:
-      - outsourcing
     offices:
       - city: San Francisco, CA
         country: United States
-    careers: https://kevurugames.com/career/
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    size: large
     notable:
       - Epic Games
       - Lucasfilm
       - Housemarque
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://kevurugames.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/kevurugames/
       linkedin: https://www.linkedin.com/company/kevuru-games/
@@ -844,9 +957,6 @@ studios:
       x: https://x.com/kevurugames
       behance: https://www.behance.net/kevuru-games
       artstation: https://www.artstation.com/kevuru_games
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Lemon Sky Studios
     url: https://www.lemonskystudios.com/
     description: Kuala Lumpur game art, animation and cinematics studio working for game and entertainment studios worldwide.
@@ -856,21 +966,24 @@ studios:
     disciplines:
       - outsourcing
       - cinematics
+      - 3d-animation
+    markets:
+      - games
     size: large
     founded: 2006
-    careers: https://www.lemonskystudios.com/careers
     notable:
       - Supervive
       - Naughty Dog
       - Riot Games
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.lemonskystudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/lemonskystudios/
       linkedin: https://www.linkedin.com/company/lemonskystudios/
       youtube: https://www.youtube.com/channel/UC2tLWQGRd0isUmVf8anCdtg
       artstation: https://www.artstation.com/lemonsky
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Liquid Development
     url: https://www.liquiddevelopment.com/
     description: Portland game art outsourcing studio for concept, character, environment and key art.
@@ -879,35 +992,39 @@ studios:
       country: United States
     disciplines:
       - outsourcing
-    careers: https://www.liquiddevelopment.com/careers
+    markets:
+      - games
     notable:
       - Halo Infinite
       - Borderlands 3
       - Valorant
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.liquiddevelopment.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       linkedin: https://www.linkedin.com/company/liquid-development
       x: https://twitter.com/LiquidDevArt
       artstation: https://www.artstation.com/liquiddevelopment
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Sperasoft
     url: https://sperasoft.com/
     description: Game co-development studio providing engineering, art and live ops support, part of Keywords Studios.
     hq:
       city: Burbank, CA
       country: United States
-    disciplines:
-      - outsourcing
     offices:
       - city: Abu Dhabi
         country: United Arab Emirates
-    careers: https://apply.workable.com/sperasoft/
+    disciplines:
+      - outsourcing
+    markets:
+      - games
     notable:
       - Battlefield 6
       - Borderlands 4
       - Rainbow Six Siege
     added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://apply.workable.com/sperasoft/
     url_status: ok
     url_last_verified: '2026-10-30'
   - name: Glass Egg
@@ -918,15 +1035,17 @@ studios:
       country: Vietnam
     disciplines:
       - outsourcing
+    markets:
+      - games
     size: large
     founded: 1999
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.glassegg.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/glasseggvirtuos/
       linkedin: https://www.linkedin.com/company/glasseggvirtuos/
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Kokku
     url: https://kokkugames.com/
     description: Brazilian game co-development studio providing art production and full game development.
@@ -936,18 +1055,20 @@ studios:
     disciplines:
       - outsourcing
       - games
+    markets:
+      - games
     founded: 2011
-    careers: https://apply.workable.com/kokku-games/
     notable:
       - Horizon Zero Dawn
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://apply.workable.com/kokku-games/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/kokkugames/
       linkedin: https://www.linkedin.com/company/kokku/
       x: https://twitter.com/KokkuGames
       artstation: https://www.artstation.com/kokku
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Atomhawk
     url: https://atomhawk.com/
     description: Concept art and game art outsourcing studio in Gateshead, part of Sumo Group.
@@ -956,14 +1077,17 @@ studios:
       country: United Kingdom
     disciplines:
       - outsourcing
+      - cinematics
+    markets:
+      - games
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://atomhawk.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/atomhawkdesign/
       linkedin: https://www.linkedin.com/company/atomhawk
       artstation: https://www.artstation.com/atomhawk
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Original Force
     url: https://www.of3d.com/en/
     description: Nanjing studio providing 3D game art, animation and CG cinematics for game and film clients.
@@ -972,8 +1096,11 @@ studios:
       country: China
     disciplines:
       - outsourcing
-      - animation
+      - 3d-animation
       - cinematics
+    markets:
+      - games
+      - film
     founded: 1999
     notable:
       - Duck Duck Goose
@@ -986,8 +1113,6 @@ studios:
     hq:
       city: Singapore
       country: Singapore
-    disciplines:
-      - outsourcing
     offices:
       - city: Nanjing
         country: China
@@ -997,17 +1122,21 @@ studios:
         country: Taiwan
       - city: Kuala Lumpur
         country: Malaysia
+    disciplines:
+      - outsourcing
+    markets:
+      - games
     size: large
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.winkingworks.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/winking_studios
       linkedin: https://www.linkedin.com/company/winkingstudios
       youtube: https://www.youtube.com/channel/UCqZmnpTja0F23VUivoHSaiA
       x: https://twitter.com/winkingstudios
       artstation: https://www.artstation.com/winkingart
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Streamline Studios
     url: https://www.streamline-studios.com/
     description: Kuala Lumpur game co-development studio providing art, engineering and full-cycle production.
@@ -1017,26 +1146,26 @@ studios:
     disciplines:
       - outsourcing
       - games
-    careers: https://www.streamline-studios.com/en/careers
+    markets:
+      - games
+    founded: 2001
     notable:
       - 'MARVEL Tōkon: Fighting Souls'
+    added_at: '2026-10-30T21:40:17.280Z'
+    careers: https://www.streamline-studios.com/en/careers
+    url_status: ok
+    url_last_verified: '2026-10-30'
     social:
       instagram: https://www.instagram.com/streamlinestudios/
       linkedin: https://www.linkedin.com/company/streamlinestudios/
       youtube: https://www.youtube.com/@streamline-studios
       x: https://twitter.com/streamlinenews
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
   - name: Juego Studios
     url: https://www.juegostudio.com/
     description: Bengaluru game development and art outsourcing studio working on mobile, PC, console and XR titles.
     hq:
       city: Bengaluru
       country: India
-    disciplines:
-      - outsourcing
-      - games
     offices:
       - city: London
         country: United Kingdom
@@ -1044,14 +1173,19 @@ studios:
         country: Saudi Arabia
       - city: Plano, TX
         country: United States
+    disciplines:
+      - outsourcing
+      - games
+    markets:
+      - games
     size: large
     founded: 2013
+    added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.juegostudio.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
     social:
       artstation: https://www.artstation.com/juegostudios
       behance: https://www.behance.net/JuegoStudios
       linkedin: https://www.linkedin.com/company/juego-studio
       x: https://www.twitter.com/juegostudio
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'

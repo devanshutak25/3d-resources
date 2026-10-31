@@ -1,0 +1,680 @@
+studios:
+  - name: Lucid Arcade Studios
+    url: https://lucidarcade.studio/
+    description: 3D motion studio in Mumbai making CGI product ads, LED stage visuals and music videos for brands and artists.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - product-viz
+      - motion-design
+      - experiential
+    markets:
+      - advertising
+      - music-video
+      - brand
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/lucidarcade/
+      behance: https://www.behance.net/lucidarcadestudios
+  - name: Redmint Interactive
+    url: https://redmint.in/
+    description: CG boutique in Mumbai producing 2D and 3D animation, architectural and product visualization, VFX and broadcast design.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - archviz
+      - product-viz
+      - vfx
+    markets:
+      - advertising
+      - brand
+    founded: 2019
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://redmint.in/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/channel/UCiRS3BILpxQTuf9lnajhZEw
+  - name: Reliance Animation
+    url: https://www.relianceanimation.com/
+    description: Animation studio in Mumbai producing original 2D and 3D kids IP such as Little Singham and Little Krishna for TV and streaming.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2005
+    notable:
+      - Little Singham
+      - Little Krishna
+      - Krishna Aur Kans
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.relianceanimation.com/careers.php
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/relianceanimation
+      youtube: https://www.youtube.com/user/Biganimation
+      x: https://twitter.com/RelianceAni
+    notes: LinkedIn page linked from site shows group-level data (5,001-10,000, Pune), so size omitted.
+  - name: Famous Studios
+    url: https://www.famousstudios.com/
+    description: Production and post facility in Mumbai with shooting floors, virtual production, grading and VFX through its FHOA division for ads and OTT.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - virtual-production
+      - live-action
+    markets:
+      - advertising
+      - episodic
+      - music-video
+    size: large
+    founded: 1946
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.famousstudios.com/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/famous_1945/
+      linkedin: https://www.linkedin.com/company/famous-studios
+      x: https://twitter.com/Famous_Studios
+    notes: Input URL famousstudios.in is dead; live site is famousstudios.com.
+  - name: Games2win
+    url: https://games2winmedia.com/
+    description: Casual mobile game developer and publisher in Mumbai making driving, fashion and story games such as Driving Academy.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2005
+    notable:
+      - Driving Academy
+      - International Fashion Stylist
+      - Decisions
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://games2winmedia.com/careers-in-mobile-gaming-work-for-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://in.linkedin.com/company/games2win-india-pvt-ltd
+  - name: yFX
+    url: https://www.yfxstudios.com/
+    description: In-house VFX studio of Yash Raj Films in Mumbai, creating CGI, creatures and visual effects for Hindi feature films.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+    size: large
+    founded: 2016
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.yfxstudios.com/join-us
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/yfx-studios-private-limited
+      youtube: https://www.youtube.com/@yFXStudios8
+  - name: Pixadoo
+    url: https://www.pixadoo.com/
+    description: Projection mapping and immersive content studio making anamorphic visuals, concert screens and interactive installations for events and brands.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+      - music-video
+    size: small
+    founded: 2012
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/pixadoo.in/
+      linkedin: https://in.linkedin.com/company/pixadoo-visuals
+      x: https://x.com/pixadoo_
+    notes: Input listed Mumbai; LinkedIn lists Bengaluru HQ. Site covers India and Dubai.
+  - name: Ink In Caps
+    url: https://iiclab.com/
+    description: Experiential tech agency in Mumbai building AR, VR, spatial computing and interactive brand activations for marketing campaigns.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+      - advertising
+    size: mid
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://iiclab.com/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/inkincaps/
+      linkedin: https://in.linkedin.com/company/ink-in-caps
+      youtube: https://www.youtube.com/inkincaps/
+      x: https://twitter.com/inkincaps
+  - name: Trip Creative Services
+    url: https://wearetrip.in/
+    description: Design and animation studio in Mumbai making explainers, event content, music videos, branding and AR/VR pieces for brands.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - xr
+    markets:
+      - brand
+      - advertising
+      - music-video
+    size: boutique
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/tripcreativeservices/
+      linkedin: https://www.linkedin.com/company/trip-creative-services
+      youtube: https://www.youtube.com/user/wearetrip
+  - name: Coffee Beans Studio
+    url: https://coffeebeansstudio.com/
+    description: Film and animation production house in Nagpur combining live shoots, 2D and 3D animation and VFX for brand and marketing content.
+    hq:
+      city: Nagpur
+      country: India
+    disciplines:
+      - live-action
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/coffeebeansstudio/
+      youtube: https://www.youtube.com/channel/UCq8jMGfZooegpdaxnwEvxbQ
+    notes: Input listed Mumbai, Hyderabad, Nagpur; site lists only Nagpur studio addresses.
+  - name: Gametion Technologies
+    url: https://gametion.com/
+    description: Mobile game studio in Mumbai making casual multiplayer board and puzzle games, including Ludo King and Carrom King.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2008
+    notable:
+      - Ludo King
+      - Carrom King
+      - Sudoku King
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://gametion.com/careers.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/gametion.technologies/
+      linkedin: https://www.linkedin.com/company/gametion/
+      x: https://twitter.com/gametion
+  - name: Threye Interactive
+    url: https://www.threye.com/
+    description: Game studio making mobile games plus AR, VR and simulation training products for the aerospace and defence sector.
+    hq:
+      country: India
+    disciplines:
+      - games
+      - xr
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.threye.com/careers.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      youtube: https://www.youtube.com/ThreyeInc
+      x: https://x.com/ThreyeGames
+    notes: Input listed Delhi; site does not state a city, so city omitted.
+  - name: Axis Three Dee Studios
+    url: https://axis3dstudio.com/
+    description: Creative content studio in New Delhi making 3D projection mapping, immersive installations and large-format show visuals.
+    hq:
+      city: New Delhi
+      country: India
+    disciplines:
+      - experiential
+      - cg
+    markets:
+      - brand
+    size: small
+    founded: 2004
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/axis3dstudios
+      linkedin: https://www.linkedin.com/company/axis-three-dee-studios-pvt-ltd
+      youtube: https://www.youtube.com/@axisthreedeestudios
+  - name: Digital Jalebi Labs
+    url: https://digitaljalebilabs.com/
+    description: Experience design studio in Noida building museum galleries, experience centres and interactive installations for brands and public bodies.
+    hq:
+      city: Noida
+      country: India
+    offices:
+      - city: Dehradun
+        country: India
+      - city: Dubai
+        country: United Arab Emirates
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    notable:
+      - Delhi Ridge Interpretation Center
+      - Hero VIDA Experience Center
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Facts from site JS bundle (Noida HQ, Dehradun, Dubai; 2026 projects). A separate digitaljalebi.com site claims a Bangalore base; relation unclear.
+  - name: Girgit Studios
+    url: https://www.girgitstudios.com/
+    description: Animation studio in Pune making animated films, explainers and original content for brands, nonprofits and media companies.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    size: small
+    founded: 2011
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/girgit_animation/
+      linkedin: https://www.linkedin.com/company/girgit-studios/
+      youtube: https://www.youtube.com/@GIRGIT
+  - name: OB Studios
+    url: https://www.oceanbluee.com/
+    description: CG studio in Pune producing 2D and 3D animation, game art, photoreal 3D visualization and AR/VR content for global clients.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - outsourcing
+      - product-viz
+      - xr
+    markets:
+      - games
+      - advertising
+    size: small
+    founded: 2012
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/oceanbluee_studios/
+      linkedin: https://in.linkedin.com/company/obstudios
+      vimeo: https://vimeo.com/oceanbluee
+      youtube: https://www.youtube.com/channel/UCZxI-NHT8NHZmhVdVq8P1yQ
+    notes: Listed as Ocean Bluee Animation Studios; now trades as OB Studios.
+  - name: Ubisoft Pune
+    url: https://www.ubisoft.com/en-us/company/careers/locations/pune
+    description: Pune studio of the publisher Ubisoft, working on mobile and console game production and quality control for AAA titles.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - games
+      - outsourcing
+    markets:
+      - games
+    size: large
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.ubisoft.com/en-us/company/careers/locations/india
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Parent Ubisoft not in known-studios, so a standalone record. Size from Ubisoft India page (1,000+ employees), not LinkedIn.
+  - name: Digikore Studios
+    url: https://www.digikore.com/
+    description: VFX and CG studio in Pune delivering visual effects for Hollywood films and TV series, plus branded content and production services.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    size: large
+    founded: 2000
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/digikore_studios/
+      linkedin: https://in.linkedin.com/company/digikore-studios-limited
+    notes: Site links a separate VFX site at digikorevfx.com.
+  - name: Nautilus Mobile
+    url: https://www.nautilusmobile.com/
+    description: Mobile game studio in Pune behind the Real Cricket franchise of 3D cricket games for Android and iOS.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2013
+    notable:
+      - Real Cricket 24
+      - Real Cricket 22
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.nautilusmobile.com/career-1
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/realcricket_official/
+      linkedin: https://in.linkedin.com/company/nautilusmobile
+      youtube: https://www.youtube.com/@RealCricket
+  - name: Dream Game Studios
+    url: https://www.dreamgamestudios.in/
+    description: Mobile game studio in Mumbai developing Dream Cricket, a 3D cricket game with real players and stadiums for Android and iOS.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Dream Cricket
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dreamcricketapp/
+      youtube: https://www.youtube.com/@dreamcricket_official
+      x: https://x.com/dreamcricketapp
+    notes: dreamgamestudios.in redirects to the Dream Cricket game site, which gives a Worli, Mumbai address. Input listed Pune. Social links are the game's accounts.
+  - name: philmCGI
+    url: https://philmcgi.com/
+    description: Animation and VFX studio in Pune and Thrissur making CG series, feature animation and visual effects for European and Indian producers.
+    hq:
+      city: Pune
+      country: India
+    offices:
+      - city: Thrissur
+        country: India
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+    size: mid
+    notable:
+      - Latte and the Magic Waterstone
+      - The Fox-Badger Family
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://philmcgi.com/jobs/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/philmcgi/
+      linkedin: https://www.linkedin.com/company/motion-philm-cgi-pvt-ltd-/
+      vimeo: https://vimeo.com/user52051199
+      youtube: https://www.youtube.com/@philmcgi
+      x: https://twitter.com/PhilmCGI
+  - name: Toolbox Studio
+    url: https://www.toolbox-studio.com/
+    description: VFX studio in Pune doing roto, paint, compositing and motion graphics for international streaming series, films and ads.
+    hq:
+      city: Pune
+      country: India
+    offices:
+      - city: Mumbai
+        country: India
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - episodic
+      - film
+      - advertising
+    size: mid
+    founded: 2008
+    notable:
+      - The Haunting of Bly Manor
+      - The Boys
+      - Legends of Tomorrow
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.toolbox-studio.com/careers.php
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/toolbox-animation-studio
+      youtube: https://www.youtube.com/user/toolboxstudio
+      x: https://twitter.com/toolbox_pune
+    notes: Site timeline says founded 2008 and Mumbai office opened 2011; LinkedIn says founded 2005.
+  - name: Dreampoint Studios
+    url: https://www.dreampointstudio.com/
+    description: Projection mapping studio in Pune creating monument shows, light and sound shows, digital museum exhibits and immersive content.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dreampoint_studios/
+      youtube: https://www.youtube.com/@DreampointStudios-d6r
+  - name: Prayan Animation
+    url: https://www.prayananimation.com/
+    description: Animation studio in Thiruvananthapuram making 2D and 3D animation, explainers and kids content, plus comic and picture book art.
+    hq:
+      city: Thiruvananthapuram
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    size: mid
+    founded: 2012
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://www.prayananimation.com/careers.php
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/prayananimation/
+      linkedin: https://www.linkedin.com/company/prayan-animation-studio-pvt-ltd/
+      youtube: https://www.youtube.com/user/PrayanAnimation
+      x: https://twitter.com/prayananimation
+  - name: 99Games
+    url: https://99games.in/
+    description: Mobile game studio in Udupi that develops and publishes free-to-play games for iOS and Android, founded at the start of the App Store.
+    hq:
+      city: Udupi
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: mid
+    founded: 2008
+    added_at: '2026-10-31T05:09:10.970Z'
+    careers: https://99games.in/careers.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/99games/
+      linkedin: https://www.linkedin.com/company/99games
+      youtube: https://www.youtube.com/c/ninetyninegames
+      x: https://twitter.com/99games
+  - name: Studio LKY
+    url: https://www.studiolky.com/
+    description: Animation studio in Indore making animated music videos, short films and client projects, and running animation challenges for artists.
+    hq:
+      city: Indore
+      country: India
+    disciplines:
+      - 2d-animation
+    markets:
+      - music-video
+    size: boutique
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/studiolky/
+      linkedin: https://www.linkedin.com/company/studiolky
+      youtube: https://www.youtube.com/@studiolky
+      x: https://twitter.com/studiolky
+    notes: Input gave only Instagram; homepage found at studiolky.com (footer dated 2023).
+  - name: Rain Narrative
+    url: https://www.rainnarrative.in/
+    description: Architectural visualization studio in Wayanad, Kerala, producing CG stills and animations in Blender with real-time work in Unreal Engine.
+    hq:
+      city: Kalpetta
+      country: India
+    disciplines:
+      - archviz
+    founded: 2023
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/rain_narrative.in/
+      youtube: https://www.youtube.com/@rainnarrative
+      behance: https://www.behance.net/rainnarrative_in
+    notes: Three core members plus freelancers.
+  - name: Studio Ojas
+    url: https://www.studiosojas.com/
+    description: Motion design studio in India making product animation and brand motion for tech companies and agencies, from storyboards to final animation.
+    hq:
+      country: India
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/studio.ojas/
+      x: https://x.com/studiosojas
+    notes: Small team (four people on About page); no city stated.
+  - name: Immersive
+    url: https://www.immersivedesign.in/
+    description: Architectural visualization studio in Gujarat producing photoreal architecture and interior renders, walkthroughs and installation design.
+    hq:
+      country: India
+    disciplines:
+      - archviz
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Wix site; projects in Rajkot and Gujarat phone numbers, but no city stated, so city omitted.
+  - name: Arteon Interactive
+    url: https://arteoninteractive.com/
+    description: Independent game studio in India building original games and IP, including the PC title Indian Dhaba Simulator in development.
+    hq:
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    size: boutique
+    founded: 2025
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/arteon-interactive
+  - name: Dots In Space
+    url: https://dotsinspace.in/
+    description: Visualization studio making photoreal 3D renders of furniture, kitchens and surface materials for Indian furniture and modular brands.
+    hq:
+      country: India
+    disciplines:
+      - product-viz
+      - archviz
+    markets:
+      - advertising
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dotsinspaceco
+    notes: Works with clients in Mumbai and Delhi; no base city stated.
+  - name: Artgripper Studio
+    url: https://artgripper.studio/
+    description: 3D-first studio making CGI product films, 3D animation and brand design for cosmetics, automotive, tech and luxury brands.
+    hq:
+      country: India
+    disciplines:
+      - product-viz
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.971Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/artgripper.studio/
+      behance: https://www.behance.net/artgripperstudio
+    notes: Input listed Goa; site lists a Goa client but no studio city, so city omitted.

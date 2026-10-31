@@ -1,0 +1,1046 @@
+studios:
+  - name: PlaySimple Games
+    url: https://playsimple.in/
+    description: Mobile game studio making word and casual puzzle games such as Daily Themed Crossword and WordTrip for a global audience.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2014
+    notable:
+      - Daily Themed Crossword
+      - WordTrip
+      - Crossword Jam
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://careers.playsimple.in/jobs/Careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/playsimple.games/
+      linkedin: https://www.linkedin.com/company/playsimple-games
+    notes: Part of MTG (Modern Times Group). City from job listings (Bangalore North).
+  - name: Mayhem Studios
+    url: https://mayhem-studios.com/
+    description: Game studio developing Underworld Gang Wars, an India-set battle royale shooter for mobile.
+    hq:
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Underworld Gang Wars
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://mayhem.keka.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/mayhem_studios/
+      youtube: https://www.youtube.com/@ugw_official
+    notes: 'City not on site (AGI list: Bengaluru). Latest site news July 2024 (Lumikai funding, closed beta May 2024).'
+  - name: Studio Sirah
+    url: https://www.studiosirah.com/
+    description: Indie game studio making midcore strategy games drawn from Indian mythology, history and culture.
+    hq:
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - 'Kurukshetra: Ascension'
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://www.studiosirah.com/join-us
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/studiosirah/
+      linkedin: https://www.linkedin.com/company/studio-sirah/
+    notes: 'City not on site (AGI list: Bengaluru). Kurukshetra: Ascension is on Steam (app 1857540).'
+  - name: Denzong Films
+    url: https://denzongfilms.com/
+    description: Bangalore video production house making brand films, ads and social content, with an in-house animation and post unit.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - live-action
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2019
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://denzongfilms.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/denzongfilms/
+      linkedin: https://www.linkedin.com/company/denzong-films
+      vimeo: https://vimeo.com/denzongfilms
+      youtube: https://www.youtube.com/channel/UCPLRjVuroH5yqcuwfnIw7QQ
+    notes: Size from site ("10 people core" plus freelance bench), not LinkedIn. Mostly live action.
+  - name: MotionGility
+    url: https://motiongility.com/
+    description: Explainer video studio making animated product, SaaS, fintech and healthcare videos for tech brands.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: McCordsville
+        country: United States
+      - city: Toronto
+        country: Canada
+      - city: London
+        country: United Kingdom
+      - city: Abu Dhabi
+        country: United Arab Emirates
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://motiongility.com/careers/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site lists offices in USA, Canada, UK, UAE and Bengaluru without naming an HQ; Bengaluru per AGI list.
+  - name: Just Magic Studio
+    url: https://justmagicstudio.com/
+    description: Game art outsourcing studio providing 2D and 3D game art and game UI for studios and publishers.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/justmagicstudiopvtltd/
+      x: https://twitter.com/justmagicstudio
+  - name: AutoVRse
+    url: https://www.autovrse.com/
+    description: XR studio building VR training, AI safety tools and 3D product showcases for industrial and enterprise clients.
+    hq:
+      country: India
+    disciplines:
+      - xr
+      - product-viz
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/autovrse.design/
+      linkedin: https://www.linkedin.com/company/autovrse
+      x: https://x.com/autovrse
+    notes: 'Site gives no address (AGI list: Bengaluru). Site says it has built VR training "since 2016". Partly a software product (VRseBuilder).'
+  - name: HashCube
+    url: https://www.hashcube.com/
+    description: Social and puzzle game studio in Bangalore making cross-platform titles for web and mobile players worldwide.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2008
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://hashcube.freshteam.com/jobs
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Cloudzee Animation
+    url: https://www.cloudzeeanimation.com/
+    description: Animation studio producing 3D and 2D animation for children's TV series, commercials and games, from design to compositing.
+    hq:
+      city: Bhubaneswar
+      country: India
+    offices:
+      - city: Bengaluru
+        country: India
+      - city: Hyderabad
+        country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+      - games
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/cloudzeeindia
+      linkedin: https://www.linkedin.com/company/cloudzeeindia
+      x: https://twitter.com/CLOUDZEEIndia
+    notes: Site cites 45+ artists.
+  - name: Concreate
+    url: https://www.concreate.in/
+    description: Chennai creative studio making brand identities, websites, motion graphics and character animation for startups and design-first companies.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - motion-design
+      - cg
+    markets:
+      - brand
+    size: boutique
+    founded: 2020
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/concreatehq/
+      linkedin: https://www.linkedin.com/company/concreatehq/
+      behance: https://www.behance.net/concreatehq/
+    notes: Size from team page (7 people listed), not LinkedIn.
+  - name: Basilic Fly Studio
+    url: https://basilicflystudio.com/
+    description: VFX studio delivering compositing, CG and on-set supervision for Hollywood features and streaming series.
+    hq:
+      city: Chennai
+      country: India
+    offices:
+      - city: Pune
+        country: India
+      - city: London
+        country: United Kingdom
+      - city: Vancouver
+        country: Canada
+      - city: Paris
+        country: France
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2013
+    notable:
+      - Deadpool & Wolverine
+      - 'Avatar: The Way of Water'
+      - Stranger Things
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://basilicflystudio.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/basilicflystudio/
+      linkedin: https://www.linkedin.com/company/basilic-fly-studio/
+      youtube: https://www.youtube.com/channel/UCx18aROblThnvLTpEJyOe3g
+    notes: basilicfly.com has an expired TLS cert and redirects to basilicflystudio.com. Paris office via subsidiary One of Us.
+  - name: Nextwave Multimedia
+    url: https://www.nextwavemultimedia.com/
+    description: Chennai mobile game studio behind the World Cricket Championship series of cricket sims.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1995
+    notable:
+      - World Cricket Championship
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/nextwave-multimedia/
+      youtube: https://www.youtube.com/@NextwaveMultimediaWCC
+      x: https://x.com/Nextwaveapps
+    notes: Nazara Technologies subsidiary since 2021.
+  - name: EFFE Animation
+    url: https://www.effeanimation.com/
+    description: Chennai 3D animation studio making product, technical, medical and training animations plus AR/VR configurators for industry.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - xr
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://effeindia.com/career/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/effeanimation/
+      linkedin: https://www.linkedin.com/showcase/effeanimation
+      youtube: https://www.youtube.com/c/3DAnimationVideos
+    notes: Animation arm of EFFE India (careers on effeindia.com).
+  - name: Dots3D
+    url: https://dots3d.com/
+    description: Chennai archviz studio making interior and exterior renders, walkthroughs and 360 tours for architects and builders.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - archviz
+    founded: 2013
+    added_at: '2026-10-31T05:09:10.968Z'
+    careers: https://dots3d.com/career
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dotsdesigner/
+      youtube: https://www.youtube.com/channel/UCQTEM5DEmFvnBlxZS_82hZQ
+    notes: Founded = site "since 2013".
+  - name: Yaksha
+    url: https://yaksha.io/
+    description: Chennai XR studio building WebAR, VR training and digital twin apps for manufacturing, automotive and hospitality firms.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - xr
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/yakshavisualtechnologies
+      linkedin: https://www.linkedin.com/company/yaksha-visual-technologies/
+      youtube: https://www.youtube.com/@yakshavisualtechnologies8191
+      x: https://x.com/yaksha_dev
+    notes: Legal name Yaksha Visual Technologies. Also lists app/web dev services.
+  - name: Fusion VR
+    url: https://www.fusionvr.in/
+    description: Chennai digital museum company designing and building immersive exhibits, stereoscopic 3D films and interactive galleries.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - experiential
+      - xr
+      - 3d-animation
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: 'Site: immersive museum experiences since 2010; team in digital content since 2000.'
+  - name: Rocket Science Animation
+    url: https://rocketscienceanimation.com/
+    description: Gurgaon animation studio making CG, character animation and motion graphics for agencies and brands.
+    hq:
+      city: Gurugram
+      country: India
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - cg
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/rsalabs/
+      linkedin: https://www.linkedin.com/company/rocketscienceanimation/
+      youtube: https://www.youtube.com/@rocketscienceanimation2696
+    notes: 'Site: "over 15 years of industry experience". AGI list says Delhi; site says Gurgaon.'
+  - name: Improper
+    url: https://improper.tv/
+    description: Animation and design studio making handcrafted 2D and stop-motion title sequences and ads for streaming and brands.
+    hq:
+      country: India
+    disciplines:
+      - 2d-animation
+      - title-design
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Farzi (titles)
+      - Ray (titles)
+      - Khauf (titles)
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/improper.tv
+      linkedin: https://www.linkedin.com/company/improper-tv/
+      vimeo: https://vimeo.com/user142896309
+    notes: 'City not on site (AGI list: Delhi).'
+  - name: NERVE
+    url: https://nerve-design.com/
+    description: Delhi design studio making brand identities, motion design and 3D product films for brands.
+    hq:
+      city: Delhi
+      country: India
+    disciplines:
+      - motion-design
+      - product-viz
+      - cg
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Founder-led (Ved Uttam); headcount not stated.
+  - name: Chasing Illusions Studio
+    url: https://www.chasingillusions.com/
+    description: Delhi 3D animation studio making architectural walkthroughs, medical and industrial animation for clients in India, the US and UK.
+    hq:
+      city: Delhi
+      country: India
+    offices:
+      - city: Bay Point
+        country: United States
+      - city: Nonthaburi
+        country: Thailand
+    disciplines:
+      - 3d-animation
+      - archviz
+    founded: 2009
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/chasing.illusions.studio/
+      linkedin: https://www.linkedin.com/company/chasing-illusions-studio-pvt-ltd/
+      x: https://x.com/chasingilusions
+  - name: Studio Blink
+    url: https://www.instagram.com/studioblink.in/
+    description: Multidisciplinary design studio working across animation, live visuals and interactive media.
+    hq:
+      country: India
+    disciplines:
+      - motion-design
+      - experiential
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      vimeo: https://vimeo.com/user162849004
+    notes: 'no website. Instagram active (posts to Oct 2026). City not in bio (AGI list: Goa).'
+  - name: Framenote Studio
+    url: https://www.behance.net/framenotestudio
+    description: CGI studio making automotive and product key visuals and launch films for brands such as MG Motor and Skoda.
+    hq:
+      city: New Delhi
+      country: India
+    disciplines:
+      - product-viz
+      - cg
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/framenotestudio
+      vimeo: https://vimeo.com/framenotestudio
+    notes: no website (framenote.studio is a parked lander). Behance lists New Delhi and Gurgaon; latest work is MG Majestor launch CGI.
+  - name: Octro
+    url: https://www.octro.com/
+    description: Mobile game studio making social card and casino-style games such as Teen Patti, Indian Rummy and Octro Poker.
+    hq:
+      city: Noida
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2006
+    notable:
+      - Teen Patti Octro
+      - Indian Rummy
+      - Octro Poker
+    added_at: '2026-10-31T05:09:10.969Z'
+    careers: https://www.octro.com/career.html
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/octrogames/
+      linkedin: https://www.linkedin.com/company/octro-inc-
+      youtube: https://www.youtube.com/c/Octroofficial
+      x: https://twitter.com/octroinc
+    notes: Open roles listed in Noida (AGI list says Gurugram).
+  - name: Firefly Creative Studio
+    url: https://www.firefly.in/
+    description: Hyderabad studio providing film VFX from previs to post, plus ad films with character animation and live action.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - vfx
+      - 3d-animation
+      - live-action
+      - previs
+    markets:
+      - film
+      - advertising
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/firefly-creative-studio-pvt-ltd
+    notes: JS-only site; facts read from its bundle (Jubilee Hills address, careers@firefly.in, 2024 Vimeo uploads).
+  - name: Pixelloid Studios
+    url: https://pixelloid.com/
+    description: Hyderabad 3D animation and VFX studio working on Telugu feature films and international projects, with a training academy.
+    hq:
+      city: Hyderabad
+      country: India
+    offices:
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+    size: mid
+    founded: 2005
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Size from site ("about 120 people"), not LinkedIn. Vancouver is a liaison office.
+  - name: HaloHues Studios
+    url: https://www.halohuesstudios.com/
+    description: Hyderabad motion capture and scanning studio offering full-body and facial capture, photogrammetry, HDRI and VFX.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - mocap
+      - vfx
+    markets:
+      - film
+      - games
+    added_at: '2026-10-31T05:09:10.969Z'
+    careers: https://www.halohuesstudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/halohuesstudios
+      linkedin: https://www.linkedin.com/company/halohues-studios/
+      youtube: https://www.youtube.com/@HaloHuesStudios
+      x: https://x.com/halohuesS
+  - name: Makuta VFX
+    url: https://www.makutavfx.com/
+    description: VFX studio started in Hyderabad, with effects work on Telugu features such as Baahubali, Eega and Magadheera.
+    hq:
+      city: Santa Clara
+      country: United States
+    offices:
+      - city: Hyderabad
+        country: India
+      - city: Universal City
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+    founded: 2010
+    notable:
+      - 'Baahubali: The Beginning'
+      - Eega
+      - Magadheera
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Site behind Cloudflare bot check (403); facts from Wikipedia, which lists HQ as Santa Clara and the studio as founded in Hyderabad. Recent activity not confirmed.
+  - name: Annapurna Studios
+    url: https://annapurnastudios.com/
+    description: Hyderabad film studio with sound stages, post-production and VFX services for Telugu and Indian films and series.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - live-action
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 1976
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: Production house and studio facility (22 acres) rather than a pure VFX shop.
+  - name: Hitwicket
+    url: https://hitwicket.com/
+    description: Hyderabad mobile game studio making Hitwicket Superstars, a cricket strategy game played worldwide.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - Hitwicket Superstars
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/hitwicketsuperstars/
+      youtube: https://www.youtube.com/@HitwicketGame
+    notes: Operated by Metasports Media Pvt Ltd (Hyderabad). JS-only site; facts read from its bundle.
+  - name: Little Red Zombies
+    url: https://www.littleredzombies.com/
+    description: Character art outsourcing studio making 3D outfits, heads, creatures and groomed hair for AAA games.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - Alan Wake 2
+      - Split Fiction
+      - 007 First Light
+    added_at: '2026-10-31T05:09:10.969Z'
+    careers: https://www.littleredzombies.com/join-us/
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/littleredzombies/
+      linkedin: https://www.linkedin.com/company/littleredzombies
+      artstation: https://www.artstation.com/littleredzombies
+    notes: Footer reads 2011-2026; founding year not stated.
+  - name: Firebolt Entertainment
+    url: https://fireboltentertainment.com/
+    description: 3D art studio providing scan-based digital doubles, 3D assets and motion capture for games and film.
+    hq:
+      country: India
+    disciplines:
+      - mocap
+      - outsourcing
+      - cg
+    markets:
+      - games
+      - film
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/firebolt-entertainment/
+      vimeo: https://vimeo.com/fireboltentertainment
+      artstation: https://www.artstation.com/fireboltentertainment
+    notes: 'Site gives no address (AGI list: Hyderabad). Uploads through Jan 2025.'
+  - name: Pixalot Labs
+    url: https://www.pixalotlabs.com/
+    description: Game art outsourcing studio in Hyderabad making 2D and 3D characters, environments, animation and cinematics.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - outsourcing
+      - cinematics
+    markets:
+      - games
+    size: mid
+    founded: 2017
+    added_at: '2026-10-31T05:09:10.969Z'
+    careers: https://www.pixalotlabs.com/careers
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/pixalot-labs/
+      youtube: https://www.youtube.com/@pixalotlabs4227
+      artstation: https://www.artstation.com/pixalot
+    notes: Size from site ("100+ artists"), not LinkedIn.
+  - name: The Kairos Pictures
+    url: https://kairospicture.com/
+    description: Cross-media studio making animated films, explainers, motion comics and long-form comics for brands and publishers.
+    hq:
+      country: India
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/thekairospictures/
+      linkedin: https://www.linkedin.com/company/kairospicturesllp/
+      behance: https://www.behance.net/thekairospictures
+    notes: 'City not on site (AGI list: Jaipur). Run by Goppo Dhara Mediaworks LLP.'
+  - name: EDIIIE
+    url: https://www.ediiie.com/
+    description: Jaipur simulation studio building VR, AR, MR and digital twin training for industrial safety and workforce skills.
+    hq:
+      city: Jaipur
+      country: India
+    disciplines:
+      - xr
+    size: mid
+    founded: 2015
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      linkedin: https://www.linkedin.com/company/ediiie/
+      youtube: https://www.youtube.com/@ediiie
+    notes: Size from site ("100+ Team Members"), not LinkedIn. Legal name Dhi Tattva Solutions Pvt. Ltd.
+  - name: Tatwansh Digital
+    url: https://tatwansh.com/
+    description: Jaipur creative studio making 3D animation, motion graphics, explainer videos and AI-assisted video for brands worldwide.
+    hq:
+      city: Jaipur
+      country: India
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2023
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/tatwansh_digital
+      linkedin: https://www.linkedin.com/company/tatwansh-digital/
+      youtube: https://www.youtube.com/@tatwansh_digital
+      behance: https://www.behance.net/tatwansh
+    notes: Size from site ("about 20 people"), not LinkedIn.
+  - name: Studio Kokaachi
+    url: https://kokaachi.com/
+    description: Kochi comics publisher and 2D animation studio making hand-drawn title sequences and animated segments for Indian films and series.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - 2d-animation
+      - title-design
+    markets:
+      - film
+      - episodic
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/kokaachi
+      x: https://twitter.com/studiokokaachi
+    notes: 'Site: title sequences for 30+ films and web series over 11 years; no AI use.'
+  - name: Kappiri Studio
+    url: https://www.kappiri.studio/
+    description: Kochi design, animation and film studio making visuals for studios, game developers and advertisers.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - games
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/kappiri.studio
+      vimeo: https://vimeo.com/kappiri
+      behance: https://www.behance.net/kappiri
+    notes: No dated work or named clients on site; weak activity signal.
+  - name: Qatsi Studio
+    url: https://www.qatsi.studio/
+    description: Kochi studio working in direction, design, motion and 3D to make product and brand films.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - motion-design
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/qatsi.studio
+      linkedin: https://www.linkedin.com/company/studioqatsi
+      vimeo: https://vimeo.com/qatsistudio
+      x: https://x.com/Qatsi_studio
+      behance: https://www.behance.net/qatsistudio
+  - name: Dimension Rendering Studios
+    url: https://www.dimension-rendering.com/
+    description: Architectural visualization studio in Kolkata making photoreal exterior and interior renders, 3D walkthroughs and VR tours for real estate developers.
+    hq:
+      city: Kolkata
+      country: India
+    offices:
+      - city: New Delhi
+        country: India
+    disciplines:
+      - archviz
+      - xr
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+  - name: Defocus Studio
+    url: https://defocusstudio.com/
+    description: Explainer and product video studio making 2D explainers, 3D product animation and motion graphics for tech and B2B companies.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2015
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/defocusstudio/
+      linkedin: https://in.linkedin.com/company/d-focus-studio
+      youtube: https://www.youtube.com/c/DefocusStudio
+      x: https://twitter.com/defocusstudio
+    notes: Input listed Kolkata; LinkedIn lists Bangalore as HQ.
+  - name: Stray Motion
+    url: https://www.straymotion.com/
+    description: Motion design studio in Mumbai making title sequences, VFX and CGI for streaming series, films and cricket broadcasts.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - title-design
+      - motion-design
+      - vfx
+      - cg
+    markets:
+      - episodic
+      - film
+      - brand
+    size: boutique
+    founded: 2022
+    notable:
+      - The Railway Men
+      - Mrs. Deshpande
+      - ICC Men's Cricket World Cup 2023
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/stray.motion/
+      linkedin: https://www.linkedin.com/company/straymotion/
+      vimeo: https://vimeo.com/straymotion
+      behance: https://www.behance.net/straymotion
+    notes: Input gave only Instagram; homepage found at straymotion.com.
+  - name: Inkbling
+    url: https://www.inkbling.in/
+    description: VFX and CGI studio in Mumbai making effects for Hindi TV serials and streaming shows, including Balaji Telefilms productions.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - episodic
+    notable:
+      - Naagin 5
+      - Brahmarakshas 2
+      - Bebakee
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    notes: inkblingdesign.com redirects to inkbling.in.
+  - name: Skill Tool Studio
+    url: https://skilltoolstudio.com/
+    description: Stop-motion and claymation studio in Navi Mumbai making puppet animation for commercials and short films.
+    hq:
+      city: Navi Mumbai
+      country: India
+    disciplines:
+      - stop-motion
+    markets:
+      - advertising
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/skilltoolstudio/
+      vimeo: https://vimeo.com/skiltoolstudio
+  - name: Fairycows
+    url: https://fairycows.co.in/
+    description: Animation studio in Mumbai making animated commercials, brand films and short films, including National Award winner Radha.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Radha
+      - Home Delivery
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/fairycows/
+      vimeo: https://vimeo.com/fairycows
+  - name: Totem Creative
+    url: https://www.totemcreative.in/
+    description: Hand-drawn 2D animation studio in Pune making frame-by-frame films for TED-Ed, game brands such as Krafton, and agencies.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - games
+    size: boutique
+    founded: 2016
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/totem.creative/
+      linkedin: https://www.linkedin.com/company/totem-creative-llp/
+      vimeo: https://vimeo.com/totemcreativemumbai
+      youtube: https://www.youtube.com/totemcreative
+    notes: Input listed Mumbai; site and LinkedIn say Pune.
+  - name: Vaibhav Studios
+    url: https://www.vaibhavstudios.com/
+    description: Animation studio in Mumbai making original series, short films and promos, including the International Emmy-nominated Lamput.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    size: small
+    founded: 2003
+    notable:
+      - Lamput
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/vaibhavstudios/
+      linkedin: https://www.linkedin.com/company/vaibhav-studios/
+      youtube: https://www.youtube.com/user/vaibhavstudios
+  - name: Visual Sarkarsm
+    url: https://www.visualsarkarsm.com/
+    description: Design studio in Mumbai making illustrated animation, brand films, title sequences, music videos and stop-motion pieces for brands.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - stop-motion
+      - title-design
+    markets:
+      - brand
+      - advertising
+      - music-video
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/visualsarkarsm/
+      vimeo: https://vimeo.com/visualsarkarsm
+    notes: Latest Vimeo upload June 2025.
+  - name: Dynamite Design
+    url: https://www.dynamitedesign.tv/
+    description: Design studio in Mumbai making channel branding, broadcast design, title sequences and brand identities for networks and streamers.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - brand
+      - episodic
+    size: boutique
+    founded: 2011
+    notable:
+      - The Revolutionaries
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/dynamitedesign/
+      linkedin: https://www.linkedin.com/company/dynamite-design
+      vimeo: https://vimeo.com/dynamitedesign
+      x: https://twitter.com/dynamitesays
+  - name: Atomic Arts
+    url: https://atomicarts.com/
+    description: VFX and animation house in London with teams in Mumbai and Bengaluru, delivering effects for Hollywood features and streaming series.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Mumbai
+        country: India
+      - city: Bengaluru
+        country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: large
+    founded: 1994
+    notable:
+      - It Chapter Two
+      - Rocketman
+      - Dumbo
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/atomicartsvfx/
+      linkedin: https://www.linkedin.com/company/atomic-arts
+      x: https://twitter.com/AtomicArtsVFX
+    notes: Input row was Atomic Arts India; parent not in known-studios, so this is a full record for the studio with its India offices.
+  - name: Rsquare
+    url: https://www.rsquare.work/
+    description: Motion-driven design studio in Mumbai making brand animation, motion identities and design systems for agencies and companies.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    size: boutique
+    founded: 2023
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-10-31'
+    social:
+      instagram: https://www.instagram.com/r_squarre/
+      linkedin: https://www.linkedin.com/company/rsquare-motion-design
