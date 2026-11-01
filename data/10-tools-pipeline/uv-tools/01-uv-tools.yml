@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Checker Gen
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: UV Toolkit
     url: https://alexbel.gumroad.com/
@@ -38,7 +38,7 @@ entries:
     readme_tags:
       - Blender
       - Toolkit
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Zen UV
     url: https://superhivemarket.com/products/zen-uv
@@ -59,7 +59,7 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.068Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -83,7 +83,7 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.069Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free

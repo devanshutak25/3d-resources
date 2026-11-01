@@ -5,7 +5,7 @@ entries:
     description: Color picker for Unity in immediate-mode GUI.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -28,7 +28,7 @@ entries:
     description: Standalone color picker asset for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -51,7 +51,7 @@ entries:
     description: Color picker element for the newer Unity uGUI system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -75,7 +75,7 @@ entries:
     description: Read data from private Google Sheets into Unity (read-only).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -98,7 +98,7 @@ entries:
     description: Behaviour tree built on the xNode node editor for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -121,7 +121,7 @@ entries:
     description: MVP script generator for the Unity editor.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -144,7 +144,7 @@ entries:
     description: Spine 2D animation runtimes, including a Unity runtime.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -167,7 +167,7 @@ entries:
     description: MikuMikuDance model and motion importer for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -192,7 +192,7 @@ entries:
     description: Serializable callbacks for Unity that return values, blending UnityEvent and System.Func.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -215,7 +215,7 @@ entries:
     description: Extension and utility methods for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -238,7 +238,7 @@ entries:
     description: Game data editor for Unity for entering, maintaining, and consuming game data.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -261,7 +261,7 @@ entries:
     description: Script to split any mesh into smaller chunks.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -286,7 +286,7 @@ entries:
     description: Tool for exploring, extracting, and exporting assets from Unity games and apps.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -307,7 +307,7 @@ entries:
     description: BitCake's collection of Unity workflow tools.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -328,7 +328,7 @@ entries:
     description: Imports Photoshop .psd files into Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -349,7 +349,7 @@ entries:
     description: Unity editor tool that imports Photoshop PSD layers as sprites.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -372,7 +372,7 @@ entries:
     description: Unity Android plugin for triggering device vibration.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -393,7 +393,7 @@ entries:
     description: Android plugin generator for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -414,7 +414,7 @@ entries:
     description: WebView overlay plugin for Unity on Android, iOS, Web Player, and macOS. Windows is unsupported.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -435,7 +435,7 @@ entries:
     description: Unity plugin for the Flurry analytics SDK.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -458,7 +458,7 @@ entries:
     description: Flurry analytics library for Unity on Android and iOS.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -480,7 +480,7 @@ entries:
     description: Google's plugin for sending game events and screen views from Unity to Google Analytics.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -504,7 +504,7 @@ entries:
     description: GetSocial social SDK and demo for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -526,7 +526,7 @@ entries:
     description: Cross-platform unified API plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -549,7 +549,7 @@ entries:
     description: Unity 4.x version of the Reign plugins.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -572,7 +572,7 @@ entries:
     description: Example of writing a Unity native plugin in Rust.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -596,7 +596,7 @@ entries:
     description: Pure C# implementation of Lua 5.2, compatible with Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -617,7 +617,7 @@ entries:
     description: Profiler for Lua inside Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -638,7 +638,7 @@ entries:
     description: Gradle plugin to run Unity batchmode commands and unit tests and export .unitypackage files.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -660,7 +660,7 @@ entries:
     description: HAP video player plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -681,7 +681,7 @@ entries:
     description: Syphon video-sharing plugin for Unity on macOS.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -700,7 +700,7 @@ entries:
     description: Blend shape controller plugin for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -725,7 +725,7 @@ entries:
     description: Unity game patcher and plugin framework for modding shipped games.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -746,7 +746,7 @@ entries:
     description: Plugin that plays elevator music while Unity compiles your code.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -769,8 +769,8 @@ entries:
     description: Connects Unity to Siemens PLCSim via COM interop (S7PROSimLib).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -791,7 +791,7 @@ entries:
     description: Example Unity plugin for NVIDIA OptiX.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -815,7 +815,7 @@ entries:
     description: Visual scripting language for Unity, no code required.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -840,7 +840,7 @@ entries:
     description: Open-source visual scripting and state machine system for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -864,7 +864,7 @@ entries:
     description: Unity development code snippets for VS Code.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -885,7 +885,7 @@ entries:
     description: Unity code snippets for various IDEs.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -909,7 +909,7 @@ entries:
     description: Visual Studio toolbox of MonoBehaviour events in execution order, plus installable templates.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -930,7 +930,7 @@ entries:
     description: Official Unity debugging support for VS Code.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -954,7 +954,7 @@ entries:
     description: VS Code integration for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -976,8 +976,8 @@ entries:
     description: VS Code extension with tools for Unity development.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -996,7 +996,7 @@ entries:
     description: JetBrains ReSharper and Rider plugin for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1016,7 +1016,7 @@ entries:
     description: JetBrains Rider integration for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1038,7 +1038,7 @@ entries:
     description: Unity support for both ReSharper and Rider.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1060,7 +1060,7 @@ entries:
     description: Vim editor integration for Unity on Linux.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:

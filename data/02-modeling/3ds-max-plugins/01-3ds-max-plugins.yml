@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Particles/Dynamics
       - 3ds Max
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Forest Pack
     url: https://www.itoosoft.com/forestpack
@@ -33,7 +33,7 @@ entries:
       platform:
         - win
     added_at: '2026-10-05T08:51:07.088Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -56,7 +56,7 @@ entries:
       tech:
         - procedural
     added_at: '2026-10-05T08:51:07.089Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -82,7 +82,7 @@ entries:
         - physics
         - gpu
     added_at: '2026-10-05T08:51:07.090Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid

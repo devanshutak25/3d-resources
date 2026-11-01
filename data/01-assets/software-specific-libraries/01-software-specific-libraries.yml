@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Houdini
       - Official
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Blender
       - Demo Scenes
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Blender
       - Addons
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Substance 3D Assets
     url: https://substance3d.adobe.com/assets/
@@ -83,7 +83,7 @@ entries:
     readme_tags:
       - Adobe
       - Materials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - assets-libraries/textures-free-pbr
@@ -107,7 +107,7 @@ entries:
     readme_tags:
       - Community
       - Substance
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - learning-community-industry/communities-forums
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - ZBrush
       - Alphas/Brushes
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Maxon Asset Browser
     url: https://www.maxon.net/en/cinema-4d/features/asset-browser
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - C4D
       - Official
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - Maya
       - Examples
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -197,7 +197,7 @@ entries:
     readme_tags:
       - 3DCoat
       - Smart Materials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     deprecated: true
   - name: Krita Resources
@@ -205,7 +205,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official brushes, textures, templates.
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -217,7 +217,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Brushes, materials, 3D models, auto-actions.
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -229,7 +229,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free RenderMan assets, shaders, HDRIs.
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -241,7 +241,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free V-Ray/Corona asset library (3D models, materials, HDRIs).
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -253,7 +253,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Free templates, plugins, UI kits.
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:

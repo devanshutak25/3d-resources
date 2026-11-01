@@ -5,7 +5,7 @@ entries:
     description: Wang et al., AAAI 2025. CAD2Program reconstructs 3D parametric models from 2D CAD drawings with a vision-language model.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -24,7 +24,7 @@ entries:
     description: Embodied reasoning, thinking, and motion transfer.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -41,7 +41,7 @@ entries:
     description: Wang et al., arXiv 2023. Reduces multi-face Janus artifacts in score distillation text-to-3D generation.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -60,7 +60,7 @@ entries:
     description: Men et al., CVPR 2024. En3D generates realistic 3D human avatars from synthetic 2D data.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -79,7 +79,7 @@ entries:
     description: Yan et al., ECCV 2024. Street Gaussians models dynamic urban driving scenes with Gaussian splatting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -98,7 +98,7 @@ entries:
     description: Dihlmann et al., CVPR 2024. SIGNeRF generates and edits objects inside existing NeRF scenes.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -117,7 +117,7 @@ entries:
     description: Yenphraphai et al., CVPR 2024. Image Sculpting edits 2D objects by lifting them to 3D geometry.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -134,7 +134,7 @@ entries:
     description: Li et al., CVPR 2024. 3D-Fauna learns a deformable 3D model of 100+ animal species from web images.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -153,7 +153,7 @@ entries:
     description: Dai et al., arXiv 2024. GO-NeRF generates 3D objects placed inside existing NeRF scenes for VR content.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -172,7 +172,7 @@ entries:
     description: Yeh et al., CVPR 2024. TextureDreamer transfers relightable textures from 3 to 5 photos onto 3D shapes.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -191,7 +191,7 @@ entries:
     description: Liu et al., arXiv 2024. EndoGaussian reconstructs dynamic endoscopic surgical scenes in real time with Gaussian splatting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -210,7 +210,7 @@ entries:
     description: Zhao et al., arXiv 2024. PSAvatar animates real-time head avatars with a point-based model and 3D Gaussians.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -230,7 +230,7 @@ entries:
     description: Dong et al., NeurIPS 2023. ViCA-NeRF edits NeRF scenes from text instructions with multi-view consistency.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -249,7 +249,7 @@ entries:
     description: Rivero et al., arXiv 2024. Rig3DGS builds controllable 3D Gaussian portraits from casual phone videos.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -268,7 +268,7 @@ entries:
     description: Zhou et al., ICML 2024. GALA3D generates complex text-to-3D scenes from LLM layouts with Gaussian splatting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -287,7 +287,7 @@ entries:
     description: Yang et al., SIGGRAPH Asia 2024. GaussianObject reconstructs 3D objects from four views with Gaussian splatting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -306,7 +306,7 @@ entries:
     description: Patashnik et al., SIGGRAPH 2024. Keeps diffusion image edits consistent across multi-view images of a scene.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -323,7 +323,7 @@ entries:
     description: Cao et al., ICRA 2024. Lightning NeRF is a hybrid scene representation for fast NeRF training in driving scenes.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -342,7 +342,7 @@ entries:
     description: Irshad et al., ECCV 2024. NeRF-MAE pretrains masked autoencoders on NeRF grids for 3D representation learning.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -359,7 +359,7 @@ entries:
     description: Yavartanoo et al., arXiv 2024. Text2CAD generates 3D CAD models from text by first producing technical drawings.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -378,7 +378,7 @@ entries:
     description: Singer et al., ICML 2023. MAV3D generates dynamic 3D scenes from text with a 4D NeRF and text-to-video diffusion.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -397,7 +397,7 @@ entries:
     description: Tang et al., ICCV 2023. Make-It-3D creates textured 3D objects from a single image using a 2D diffusion prior.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -416,7 +416,7 @@ entries:
     description: Huang et al., NeurIPS 2023. DreamWaltz generates animatable 3D avatars from text with a human body prior.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -436,7 +436,7 @@ entries:
     description: Tang et al., ICLR 2024. DreamGaussian generates textured 3D meshes from text or images in minutes with Gaussian splatting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -455,7 +455,7 @@ entries:
     description: Huang et al., ICLR 2024. TextField3D adds noisy text fields for open-vocabulary 3D generation.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -474,7 +474,7 @@ entries:
     description: Shi et al., arXiv 2023. TOSS adds text guidance to novel view synthesis from a single image.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -493,7 +493,7 @@ entries:
     description: Cheng et al., ICLR 2024. Progressive3D edits text-to-3D content region by region for complex prompts.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -512,7 +512,7 @@ entries:
     description: Long et al., CVPR 2024. Wonder3D generates textured meshes from a single image with cross-domain diffusion.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -531,7 +531,7 @@ entries:
     description: Shi et al., arXiv 2023. Zero123++ generates consistent multi-view images from one input image for 3D creation.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -550,7 +550,7 @@ entries:
     description: Sun et al., ICLR 2024. DreamCraft3D generates 3D objects from a reference image with bootstrapped diffusion.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -569,7 +569,7 @@ entries:
     description: Liu et al., CVPR 2024. One-2-3-45++ turns a single image into a textured 3D mesh in about a minute.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -588,7 +588,7 @@ entries:
     description: Li et al., arXiv 2023. Instant3D generates 3D objects from text in one feed-forward pass, without per-prompt optimization.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -607,7 +607,7 @@ entries:
     description: Xu et al., ICLR 2024. DMV3D denoises multi-view diffusion with a transformer 3D reconstruction model.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -626,7 +626,7 @@ entries:
     description: Qiu et al., CVPR 2024. RichDreamer uses a normal-depth diffusion model for detailed text-to-3D.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -645,7 +645,7 @@ entries:
     description: Qian et al., CVPR 2024. GaussianAvatars builds photoreal head avatars from 3D Gaussians rigged to a face model.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -664,7 +664,7 @@ entries:
     description: Gao et al., ECCV 2024. MinD-3D reconstructs 3D objects from fMRI brain signals.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -681,7 +681,7 @@ entries:
     description: Xu et al., arXiv 2023. SEEAvatar generates photoreal 3D avatars from text with constrained geometry and appearance.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -700,7 +700,7 @@ entries:
     description: Zou et al., CVPR 2024. Reconstructs 3D Gaussians from a single image with a triplane transformer.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -719,7 +719,7 @@ entries:
     description: Li et al., arXiv 2023. M3DBench is a benchmark for instructing large models with multi-modal 3D prompts.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -736,7 +736,7 @@ entries:
     description: Ling et al., CVPR 2024. Align Your Gaussians generates animated 4D objects from text with dynamic 3D Gaussians.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -756,7 +756,7 @@ entries:
     description: Ren et al., arXiv 2023. Make-A-Character creates lifelike 3D character avatars from text descriptions.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -775,7 +775,7 @@ entries:
     description: Ren et al., arXiv 2023. DreamGaussian4D generates animated 4D content quickly with Gaussian splatting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -794,7 +794,7 @@ entries:
     description: AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -811,7 +811,7 @@ entries:
     description: Moreau et al., ICCV 2023. CROSSFIRE relocalizes a camera in real time using a NeRF as the scene map.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -828,7 +828,7 @@ entries:
     description: Hyung et al., CVPR 2023. Edits local regions of 3D-aware GAN outputs by distilling CLIP knowledge.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -847,7 +847,7 @@ entries:
     description: Irshad et al., ICCV 2023. NeO 360 synthesizes novel views of outdoor scenes from a few input images.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -866,7 +866,7 @@ entries:
     description: Hu et al., ICCV 2023. PlankAssembly turns three orthographic line drawings into 3D CAD models.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -885,7 +885,7 @@ entries:
     description: Zhu et al., arXiv 2023. PonderV2 is a universal pretraining method for 3D foundation models.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -902,7 +902,7 @@ entries:
     description: Gao et al., CVPR 2023. SurfelNeRF reconstructs and renders indoor scenes online with neural surfels.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -921,7 +921,7 @@ entries:
     description: Zhu et al., WACV 2023. Explicit radiance field that reconstructs multiple 360-degree scenes from sparse, insufficient RGB-D views.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:

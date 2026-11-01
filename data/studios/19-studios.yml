@@ -17,7 +17,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://milestone.it/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/milestone_team/
       linkedin: https://www.linkedin.com/company/milestone-s-r-l-/
@@ -38,7 +38,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://www.nixxes.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/nixxessoftware
       x: https://x.com/NixxesSoftware
@@ -66,7 +66,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://www.trimaran.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/trimaran/
       vimeo: https://vimeo.com/trimaran
@@ -82,8 +82,8 @@ studios:
     disciplines:
       - archviz
     added_at: '2026-10-31T05:09:10.959Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rendertaxi.de/
       linkedin: https://www.linkedin.com/company/9257331
@@ -109,7 +109,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://www.dreamwall.be/fr/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dreamwall_mediasolutions
       linkedin: https://www.linkedin.com/company/dreamwall/
@@ -135,7 +135,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://surfside3d.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/surfside3dstudios/
       linkedin: https://www.linkedin.com/company/surfside3d
@@ -167,7 +167,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://jobs.jobvite.com/amberstudiocareers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/amberstudioglobal
       linkedin: https://www.linkedin.com/company/amber/
@@ -187,7 +187,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://retrostylegames.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/retrostyle_games/
       linkedin: https://www.linkedin.com/company/retrostyle-games/
@@ -210,7 +210,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://careers.madheadgames.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/madheadgames/
       linkedin: https://www.linkedin.com/company/mad-head-games
@@ -232,7 +232,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://stepico.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/stepicogames/
       linkedin: https://www.linkedin.com/company/stepico
@@ -253,7 +253,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://nordeus.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lifeatnordeus/
       linkedin: https://www.linkedin.com/company/954057/
@@ -274,7 +274,7 @@ studios:
       - games
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/cyborn/
       youtube: https://www.youtube.com/c/cyborn/
@@ -292,7 +292,7 @@ studios:
       - episodic
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/kecskemetfilm
   - name: Studio Meala
@@ -313,7 +313,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://studiomeala.com/pages/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studiomeala
       youtube: https://www.youtube.com/c/StudioMealaAnimation
@@ -331,8 +331,8 @@ studios:
     size: small
     founded: 2019
     added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/taller_del_chucho/
       linkedin: https://www.linkedin.com/company/taller-del-chucho
@@ -358,7 +358,7 @@ studios:
       - Rick and Morty IDs (Adult Swim)
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cinemafantasma
       x: https://twitter.com/cinemafantasma
@@ -382,7 +382,7 @@ studios:
       - Un gallo con muchos huevos
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/huevocartoon.oficial/
       youtube: https://www.youtube.com/channel/UCvdwbcKg_6tXXaG6J57LO1g
@@ -407,7 +407,7 @@ studios:
     added_at: '2026-10-31T05:09:10.960Z'
     careers: https://copastudio.com/work-with-us/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/copastudio/
       linkedin: https://www.linkedin.com/company/copa-studio/
@@ -432,8 +432,8 @@ studios:
       - Fishtronaut
       - Tarsilinha
     added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/pinguimcontent
       vimeo: https://vimeo.com/pinguimcontent
@@ -454,8 +454,8 @@ studios:
     size: small
     founded: 2011
     added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/blackmadre
       linkedin: https://www.linkedin.com/company/black-madre/
@@ -478,8 +478,8 @@ studios:
       - Not Just a Goof
     added_at: '2026-10-31T05:09:10.960Z'
     careers: https://venturiaanimation.com/work-with-us/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/venturia.animation/
       linkedin: https://www.linkedin.com/company/venturia-animation/
@@ -499,7 +499,7 @@ studios:
     founded: 2002
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: http://instagram.com/superuber
       vimeo: http://vimeo.com/superuber
@@ -519,7 +519,7 @@ studios:
     founded: 2003
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/visualfarm/
       linkedin: https://www.linkedin.com/company/visualfarm/
@@ -542,8 +542,8 @@ studios:
       - Zooba
     added_at: '2026-10-31T05:09:10.960Z'
     careers: https://careers.wildlifestudios.com/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/WildlifeStudios
       linkedin: https://www.linkedin.com/company/wildlife-studios
@@ -572,7 +572,7 @@ studios:
     founded: 2009
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/sismica.studio/
       linkedin: https://www.linkedin.com/company/sismicastudio/
@@ -596,7 +596,7 @@ studios:
     founded: 2018
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bellolandia/
       youtube: https://www.youtube.com/@BellolandiaEstudio
@@ -617,7 +617,7 @@ studios:
     founded: 2008
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/cancanclub/
       vimeo: https://vimeo.com/cancanclub
@@ -641,8 +641,8 @@ studios:
     size: small
     founded: 2001
     added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hookupanimationstudio/
       linkedin: https://www.linkedin.com/company/hook-up-animation/
@@ -666,7 +666,7 @@ studios:
       - The Papernauts
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/zumbasticostudios/
       linkedin: https://www.linkedin.com/company/zumbastico/
@@ -690,7 +690,7 @@ studios:
       - The Eternal Cylinder
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ace_team_software/
       youtube: https://www.youtube.com/user/ACETeamSoftware
@@ -714,7 +714,7 @@ studios:
     added_at: '2026-10-31T05:09:10.960Z'
     careers: https://www.ironhidegames.com/Careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/ironhidegames
       x: https://twitter.com/ironhidegames
@@ -736,7 +736,7 @@ studios:
       - Amer Fighting
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/madhookgames/
       youtube: https://www.youtube.com/channel/UCtEIh1ONbZYn52eFkeIwEew
@@ -759,8 +759,8 @@ studios:
       - King of Hearts
     added_at: '2026-10-31T05:09:10.960Z'
     careers: https://maysalward.com/work-with-us
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/maysalward
       youtube: https://www.youtube.com/@Maysalwardgames
@@ -781,7 +781,7 @@ studios:
     founded: 2012
     added_at: '2026-10-31T05:09:10.960Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site is live but showed unrendered template placeholders to the fetcher.
   - name: Sunrise Animation Studios
     url: https://www.sunriseproductions.tv/
@@ -801,8 +801,8 @@ studios:
       - David
       - The Legend of the Sky Kingdom
     added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/sunriseanimationstudios/
       linkedin: https://www.linkedin.com/company/sunrise-productions/
@@ -824,7 +824,7 @@ studios:
     added_at: '2026-10-31T05:09:10.961Z'
     careers: https://www.seamonster.digital/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/seamonster_entertainment/
       linkedin: https://www.linkedin.com/company/sea-monster/
@@ -847,7 +847,7 @@ studios:
       - Gorn
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/freelives_official/
       youtube: https://www.youtube.com/c/freelivesgames
@@ -871,7 +871,7 @@ studios:
     founded: 2014
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/chocolate-tribe/
     notes: Site returns 403 to the fetcher (bot-blocked); LinkedIn shows posts within the last week.
@@ -892,7 +892,7 @@ studios:
     founded: 2015
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/polycatvisualeffects
       linkedin: https://www.linkedin.com/company/polycat/
@@ -919,7 +919,7 @@ studios:
       - Terra Nil trailer
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lucan_studio/
       linkedin: https://www.linkedin.com/company/lucanstudio/
@@ -942,7 +942,7 @@ studios:
       - Pixelatl 2025 festival trailer
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rudo.co/
       vimeo: https://vimeo.com/rudoco
@@ -964,7 +964,7 @@ studios:
     founded: 2013
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/detucoestudio/
       linkedin: https://www.linkedin.com/company/detuco
@@ -992,8 +992,8 @@ studios:
     notable:
       - Eggscape
     added_at: '2026-10-31T05:09:10.961Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/3dar/
       vimeo: https://vimeo.com/3dar
@@ -1019,7 +1019,7 @@ studios:
     founded: 2007
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site now also pitches AI production tooling (LOOM) alongside motion and 3D work.
   - name: Mundoloco CGI
     url: https://www.mundolococgi.com/
@@ -1037,8 +1037,8 @@ studios:
       - Mini Beat Power Rockers
       - Mafalda
     added_at: '2026-10-31T05:09:10.961Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/mundolococgi/
       linkedin: https://www.linkedin.com/company/catmandu/
@@ -1062,8 +1062,8 @@ studios:
       - EA Skate and Nike SB trailer
       - Catalysis (Quirino nominee)
     added_at: '2026-10-31T05:09:10.961Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     notes: Site refused connection from the fetcher; LinkedIn shows posts from the last 2 months. 2veinte.com (no .ar) is an unrelated site.
   - name: Kodii
     url: https://www.kodii.tv/
@@ -1081,7 +1081,7 @@ studios:
     size: boutique
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/kodii.tv/
       linkedin: https://www.linkedin.com/company/kodii/
@@ -1107,7 +1107,7 @@ studios:
     founded: 2011
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Manga Productions
     url: https://www.manga.com.sa/
     description: Riyadh studio owned by the MiSK Foundation producing anime films and series, mobile games and comics, often with Toei Animation.
@@ -1132,8 +1132,8 @@ studios:
       - Grendizer U (regional rights)
     added_at: '2026-10-31T05:09:10.961Z'
     careers: https://manga.com.sa/careers/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/manga_prd/
       linkedin: https://www.linkedin.com/company/mangaproductions/
@@ -1159,7 +1159,7 @@ studios:
     founded: 2018
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/samakastudio/
       linkedin: https://www.linkedin.com/company/samakastudio/

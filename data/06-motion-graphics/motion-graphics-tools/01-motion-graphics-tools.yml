@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Creative
       - Visual Tools
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Experimental
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Nuke
       - Lens Sim
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Motion Design
       - Node Compositing
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -85,7 +85,7 @@ entries:
     readme_tags:
       - Motion Design
       - Browser
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Lottie
       - Motion Design
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -117,7 +117,7 @@ entries:
     readme_tags:
       - Motion Design
       - WebGPU
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -132,7 +132,7 @@ entries:
     description: A 3D plugin for After Effects that allows you to import and animate 3D models.
     license: Paid
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -148,7 +148,7 @@ entries:
     description: Library for physically accurate animations, works with react-three-fiber.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -173,7 +173,7 @@ entries:
         - win
         - mac
         - linux
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Easing Functions
     url: https://easings.net/
@@ -191,7 +191,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Periodic Table of Motion
     url: http://foxcodex.html.xdomain.jp/index.html
@@ -208,7 +208,7 @@ entries:
         - motion-graphics
       platform:
         - web
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: unreachable
   - name: Motion Canvas
     url: https://motioncanvas.io/
@@ -224,7 +224,7 @@ entries:
       platform:
         - web
     added_at: '2026-10-05T08:51:07.126Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -247,7 +247,7 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.127Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -271,7 +271,7 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.128Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -294,7 +294,7 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.130Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -316,7 +316,7 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.131Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -343,6 +343,6 @@ entries:
       - Motion Design
       - AI
     best_for: Launch films and title sequences from a text brief
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'

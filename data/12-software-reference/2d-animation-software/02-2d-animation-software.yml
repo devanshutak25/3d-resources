@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Image→Pixel
       - Conversion
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -36,7 +36,7 @@ entries:
     readme_tags:
       - Browser
       - Vectorization
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -55,7 +55,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Editor
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -76,7 +76,7 @@ entries:
     readme_tags:
       - Windows
       - PSD Support
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -86,7 +86,7 @@ entries:
     description: Open-source pixel art and animation editor for macOS.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -107,7 +107,7 @@ entries:
     description: Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -136,7 +136,7 @@ entries:
     readme_tags:
       - Natural Media
       - Watercolor Sim
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/drawing-painting-3d
@@ -146,7 +146,7 @@ entries:
     description: Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -173,7 +173,7 @@ entries:
     readme_tags:
       - Browser
       - 2D Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: TVPaint Animation
     url: https://www.tvpaint.com/
@@ -194,8 +194,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.122Z'
-    url_last_verified: '2026-10-05'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     readme_tags:
       - Paid
       - Frame by Frame
@@ -219,7 +219,7 @@ entries:
         - win
         - mac
     added_at: '2026-10-05T08:51:07.123Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -241,7 +241,7 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.125Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -253,7 +253,7 @@ entries:
     description: 2D grid-based painting tool from Marmoset.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:

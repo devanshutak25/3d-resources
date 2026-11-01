@@ -21,7 +21,7 @@ entries:
     readme_tags:
       - Original Impl
       - INRIA
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: 4D Gaussian Splatting
     url: https://github.com/hustvl/4DGaussians
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Dynamic Scenes
       - 4D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: LichtFeld Studio
     url: https://github.com/MrNeRF/LichtFeld-Studio
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Desktop App
       - GPL-3.0
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Brush
     url: https://github.com/ArthurBrussee/brush
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Open Source
       - Reconstruction
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MegaSaM
     url: https://github.com/mega-sam/mega-sam
@@ -103,7 +103,7 @@ entries:
     readme_tags:
       - SfM
       - Casual Video
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -123,7 +123,7 @@ entries:
     description: Taichi-based implementation (Apache-2.0).
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -146,7 +146,7 @@ entries:
     description: Warp/Python-based implementation (AGPL-3.0).
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -167,7 +167,7 @@ entries:
     description: Differentiable point-based rendering framework for Gaussian Splatting.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -188,7 +188,7 @@ entries:
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute, supporting Windows, macOS, Linux, iOS, and visionOS.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -211,7 +211,7 @@ entries:
     description: Cross-platform, high performance 3DGS renderer in C++ and Vulkan Compute/Graphics.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -233,7 +233,7 @@ entries:
     description: WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo here.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -254,7 +254,7 @@ entries:
     description: Viewer that allows you to edit the rendering code during runtime or to display multiple scenes at once.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -274,7 +274,7 @@ entries:
     description: Conversion scripts for different 3DGS conventions.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -293,7 +293,7 @@ entries:
     description: A modular differential gaussian rasterization library.
     license: Open Source
     entry_type: tool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -313,7 +313,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: HuggingFace introductory guide to 3D Gaussian Splatting.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -328,7 +328,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Curated implementation of Vanilla 3DGS in PyTorch.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -343,7 +343,7 @@ entries:
     added_at: '2026-04-19T17:29:43.000Z'
     description: Summary of Gaussian-splatting head-avatar techniques (Towards Data Science).
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -372,7 +372,7 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.440Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -394,7 +394,7 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.443Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -418,7 +418,7 @@ entries:
         - gaussian-splatting
         - blender-addon
     added_at: '2026-10-05T08:51:07.445Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -441,7 +441,7 @@ entries:
       workflow:
         - rendering
     added_at: '2026-10-05T08:51:07.447Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -463,7 +463,7 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.449Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -485,7 +485,7 @@ entries:
         - gaussian-splatting
         - photogrammetry
     added_at: '2026-10-05T08:51:07.452Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -508,7 +508,7 @@ entries:
       workflow:
         - rendering
     added_at: '2026-10-05T08:51:07.454Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -529,7 +529,7 @@ entries:
       workflow:
         - rendering
     added_at: '2026-10-05T08:51:07.456Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -550,7 +550,7 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.458Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -572,7 +572,7 @@ entries:
         - gaussian-splatting
         - photogrammetry
     added_at: '2026-10-05T08:51:07.460Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -594,7 +594,7 @@ entries:
         - gpu
         - photogrammetry
     added_at: '2026-10-05T08:51:07.462Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Non-Commercial

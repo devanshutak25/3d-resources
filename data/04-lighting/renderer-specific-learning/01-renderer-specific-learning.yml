@@ -8,8 +8,8 @@ entries:
     readme_tags:
       - Arnold
       - Volumes
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     notes: Doc page removed; redirects to Autodesk help root.
     deprecated: true
     tags:
@@ -33,7 +33,7 @@ entries:
     readme_tags:
       - Octane
       - Tutorials
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -65,15 +65,15 @@ entries:
     readme_tags:
       - Thesis
       - Light Transport
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: unreachable
   - name: Takua Renderer
     url: https://www.yiningkarlli.com/projects/takuarenderer.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: Karl Li's hobbyist physically-based renderer project page with technical write-ups.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -87,8 +87,8 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Forums, shaders, resources.
     entry_type: community
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       workflow:
         - rendering
@@ -99,7 +99,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official shaders, docs, tutorials.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:

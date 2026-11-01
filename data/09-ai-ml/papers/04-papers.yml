@@ -5,7 +5,7 @@ entries:
     description: Du et al., ICCV 2021. Learns a 4D radiance and flow field for view synthesis and video processing such as denoising and super-resolution.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -24,7 +24,7 @@ entries:
     description: Fan et al., ICLR 2023. Self-supervised object segmentation that works from any view of complex real-world scenes using NeRF.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -41,7 +41,7 @@ entries:
     description: Wang et al., CVPR 2021. Hybrid voxel and MLP radiance field for rendering dynamic human heads with fine detail.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -61,7 +61,7 @@ entries:
     description: Lin et al., SIGGRAPH Asia 2022. Generalizable NeRF using cascaded cost volumes for interactive free-viewpoint video of dynamic scenes.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -80,7 +80,7 @@ entries:
     description: Peng et al., ICCV 2021. Builds animatable NeRF human models from multi-view video using skeleton-driven deformation fields.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -100,7 +100,7 @@ entries:
     description: Wang et al., CVPR 2023. Diffusion model that generates 3D digital avatars as neural radiance fields, including from text or a photo.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -120,7 +120,7 @@ entries:
     description: Yu et al., ICCV 2021. Bakes NeRFs into octrees of spherical harmonics for real-time rendering.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -140,7 +140,7 @@ entries:
     description: Wen et al., CVPR 2023. Jointly tracks the 6-DoF pose of an unknown object and reconstructs its 3D shape from RGB-D video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -160,7 +160,7 @@ entries:
     description: Mohammad Shafiei et al., BMVC 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -181,7 +181,7 @@ entries:
     description: Yu et al., CVPR 2023. Extends light field networks to dynamic scenes for fast rendering of deforming content.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -201,7 +201,7 @@ entries:
     description: Li et al., CVPR 2023. Image-based rendering method for novel view synthesis from long monocular videos of dynamic scenes.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -221,7 +221,7 @@ entries:
     description: Chen et al., CVPR 2023. Encodes human performances in UV volumes so free-view video renders in real time and can be retextured.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -241,7 +241,7 @@ entries:
     description: Wang et al., CVPR 2021. Learns to blend nearby source views for image-based rendering that generalizes to unseen scenes.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -261,7 +261,7 @@ entries:
     description: Fang et al., SIGGRAPH Asia 2022. Time-aware voxel features that train dynamic radiance fields in minutes.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -281,7 +281,7 @@ entries:
     description: Liu et al., CVPR 2022. Image-based rendering that predicts visibility per ray to handle occlusions when synthesizing novel views.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -301,7 +301,7 @@ entries:
     description: Li et al., CVPR 2022. Dynamic NeRF conditioned on latent codes that renders novel views of multi-view video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -321,7 +321,7 @@ entries:
     description: Huang et al., ICCV 2023. Pre-trains point cloud encoders by rendering color and depth images through differentiable neural rendering.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -339,8 +339,8 @@ entries:
     description: Bhalgat et al., NeurIPS 2023 (**Spotlight**)
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: unreachable
     tags:
       tech:
         - gaussian-splatting
@@ -357,7 +357,7 @@ entries:
     description: Xu et al., NeurIPS 2021. Combines occupancy and radiance fields in a 3D-aware GAN for more accurate surfaces.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -377,7 +377,7 @@ entries:
     description: Raj et al., CVPR 2021. Builds volumetric head avatars from a few input views using pixel-aligned features.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -397,7 +397,7 @@ entries:
     description: 'Pan et al., NeurIPS 2021. ShadeGAN: 3D-aware GAN with explicit lighting and shading for more accurate generated shapes.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -417,7 +417,7 @@ entries:
     description: Peng et al., CVPR 2021. Anchors latent codes to a deformable body mesh to render dynamic humans from sparse multi-view video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -437,7 +437,7 @@ entries:
     description: SIGGRAPH 1998 paper founding image-based lighting.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -456,7 +456,7 @@ entries:
     description: SIGGRAPH 1997 paper. Original HDR-from-bracketed-exposures recovery method.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:

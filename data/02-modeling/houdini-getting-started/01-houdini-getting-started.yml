@@ -7,7 +7,7 @@ entries:
     readme_tags:
       - Official
       - Curated Hub
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -39,7 +39,7 @@ entries:
     readme_tags:
       - Procedural
       - Classic Intro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Houdini in Five Minutes
     url: https://vimeo.com/384384552
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Quick Intro
       - Entagma
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -77,7 +77,7 @@ entries:
         - beginner
       tech:
         - houdini
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Houdini Crash Course (ikrima)
     url: https://ikrima.dev/houdini/basics/hou-crash-course/
@@ -94,5 +94,5 @@ entries:
         - beginner
       tech:
         - houdini
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok

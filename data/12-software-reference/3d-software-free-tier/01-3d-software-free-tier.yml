@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Womp3D
     url: https://www.womp.com/
@@ -45,8 +45,8 @@ entries:
     readme_tags:
       - Browser
       - Product Design
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
   - name: Vectary
     url: https://www.vectary.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -68,7 +68,7 @@ entries:
     readme_tags:
       - Browser
       - E-commerce
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: World Machine
     url: https://www.world-machine.com/
@@ -76,7 +76,7 @@ entries:
     description: Command tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
     entry_type: software
     license: Freemium
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Free NC
       - Learning Version
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - modeling-sculpting-texturing/houdini-getting-started
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - AI Anim
       - Free NC
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - software-reference/ai-motion-capture-software
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Bezi
     url: https://www.bezi.com/
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Browser
       - Multiplayer
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Gravity Sketch
     url: https://www.gravitysketch.com/
@@ -220,8 +220,8 @@ entries:
     readme_tags:
       - VR
       - Concept
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: unreachable
   - name: Re:Form
     url: https://reformsculpt.com/
     added_at: '2026-07-21T10:53:26.000Z'
@@ -242,7 +242,7 @@ entries:
     readme_tags:
       - Browser
       - WebGPU
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Mush3D
     url: https://mush3d.com/
@@ -264,7 +264,7 @@ entries:
       tech:
         - gpu
     added_at: '2026-10-05T08:51:07.096Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium

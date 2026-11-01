@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Blockouts
       - Quake-style
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-level-design
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - 2D Levels
       - Dead Cells Creator
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-level-design
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - Tilemap Editor
       - TMX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-level-design
@@ -74,7 +74,7 @@ entries:
     description: Free project-based 2D level editor with grid and entity layers.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -91,8 +91,8 @@ entries:
     description: A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
     license: Free
     entry_type: software
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -106,7 +106,7 @@ entries:
     description: Free tile map editor for building 2D and isometric game maps in the FMP format.
     license: Free
     entry_type: software
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -130,7 +130,7 @@ entries:
     readme_tags:
       - Procedural
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Village Generator
     url: https://watabou.itch.io/village-generator
@@ -147,7 +147,7 @@ entries:
     readme_tags:
       - Procedural
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: One Page Dungeon
     url: https://watabou.itch.io/one-page-dungeon
@@ -164,7 +164,7 @@ entries:
     readme_tags:
       - Procedural
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Dungeon Architect
     url: https://dungeonarchitect.dev/
@@ -183,7 +183,7 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.114Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid

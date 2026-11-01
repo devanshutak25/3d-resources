@@ -5,7 +5,7 @@ entries:
     description: HTML5 Collaborative 2D/3D Game Maker.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -25,7 +25,7 @@ entries:
     description: A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -40,7 +40,7 @@ entries:
     description: Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -55,8 +55,8 @@ entries:
     description: A 2D rendering API for.NET, written in C#.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       workflow:
         - rendering
@@ -68,7 +68,7 @@ entries:
     description: A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -83,8 +83,8 @@ entries:
     description: Newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-05'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       tech:
         - real-time
@@ -97,7 +97,7 @@ entries:
     description: A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -115,7 +115,7 @@ entries:
     description: Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -134,7 +134,7 @@ entries:
     readme_tags:
       - Game Engine
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -153,7 +153,7 @@ entries:
     readme_tags:
       - Python
       - Game Library
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -180,14 +180,14 @@ entries:
     readme_tags:
       - WebXR
       - Editor
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: CopperLicht
     url: https://www.ambiera.com/copperlicht/index.html
     added_at: '2026-04-19T17:29:43.000Z'
     description: JavaScript library and WebGL 3D engine for games and 3D applications.
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -213,7 +213,7 @@ entries:
         - real-time
         - path-tracing
     added_at: '2026-10-05T08:51:07.108Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -233,7 +233,7 @@ entries:
       tech:
         - real-time
     added_at: '2026-10-05T08:51:07.110Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Source 2
@@ -250,7 +250,7 @@ entries:
       platform:
         - web
     added_at: '2026-10-05T08:51:07.111Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source

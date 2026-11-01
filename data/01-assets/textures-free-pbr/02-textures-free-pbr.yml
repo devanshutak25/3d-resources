@@ -5,7 +5,7 @@ entries:
     description: AMD's free MaterialX-based material library. Download materials or upload your own.
     entry_type: asset-source
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -23,7 +23,7 @@ entries:
     description: Public domain photographic textures, reference images, and cutouts. (CC0)
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -41,8 +41,8 @@ entries:
     description: Free PBR sets of architectural materials, including tile textures.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     notes: Domain now redirects to an unrelated spam/gambling site (checked 2026-10-05). Do not restore without a new official URL.
     deprecated: true
     tags:
@@ -61,7 +61,7 @@ entries:
     description: Digital textures for 3D rendering and real-time use.
     entry_type: asset-source
     license: Freemium
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -92,7 +92,7 @@ entries:
         - pbr
       platform:
         - web
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: The Blendersauce Vault Materials
     url: https://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/
@@ -100,8 +100,8 @@ entries:
     description: Free material vault covering bricks, concrete, fabric, metal, nature, plaster, stone, tiles, and wood.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-05'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: unreachable
     tags:
       workflow:
         - texturing
@@ -131,7 +131,7 @@ entries:
         - web
       tech:
         - pbr
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: 3DTexel
     url: https://3dtexel.com/free-library/
@@ -154,5 +154,5 @@ entries:
     readme_tags:
       - CC0
       - 1000+ Materials
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok

@@ -20,8 +20,8 @@ studios:
       - Percy Jackson and the Olympians
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://vimeo.com/1231430802
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hybridevfx/
       linkedin: https://www.linkedin.com/company/hybridevfx/
@@ -48,7 +48,7 @@ studios:
     careers: https://www.raynault.com/careers
     reel: https://www.raynault.com/showreel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/raynault_vfx
       linkedin: https://ca.linkedin.com/company/raynault-com
@@ -74,7 +74,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.spinvfx.com/spin-careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/spinvfxlife/
       linkedin: https://www.linkedin.com/company/spin-vfx/
@@ -99,7 +99,7 @@ studios:
       - Fast X
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: BOT VFX
     url: https://www.botvfx.com/
     description: VFX company with a US base in Atlanta and production studios across India, working on film and episodic series.
@@ -125,7 +125,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://botvfx.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/botvfx/
       linkedin: https://www.linkedin.com/company/bot-vfx/
@@ -162,7 +162,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://thethirdfloorinc.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/thethirdfloor_visualization/
       linkedin: https://www.linkedin.com/company/the-third-floor-inc-/
@@ -194,7 +194,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.proof-inc.com/about--join-us
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/proof_previs/
       linkedin: https://www.linkedin.com/company/proof-inc
@@ -228,7 +228,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://halon.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/halonentertainment/
       linkedin: https://www.linkedin.com/company/halon-entertainment
@@ -259,7 +259,7 @@ studios:
     founded: 2015
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/user88401435
       youtube: https://www.youtube.com/@dayfornite9580
@@ -284,7 +284,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.luxmc.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Dimension
     url: https://dimensionstudio.co/
     description: Real-time production studio offering virtual production, digital humans and performance capture, with a London office and an LED stage in Rome.
@@ -310,7 +310,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://dimensionstudio.co/join-us/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dimensionstudio/
       linkedin: https://www.linkedin.com/company/dimensionstudio/
@@ -339,7 +339,7 @@ studios:
       - The Survivors
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nantstudios
       linkedin: https://www.linkedin.com/company/nantstudios/
@@ -361,7 +361,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://marsvolume.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/marsvolume
       linkedin: https://www.linkedin.com/company/marsvolume/
@@ -396,7 +396,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.stargatestudios.net/general-5
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/stargatestudios/
       linkedin: https://www.linkedin.com/company/stargate-studios
@@ -429,8 +429,8 @@ studios:
       - Deadpool & Wolverine
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.base-fx.com/careers/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/base-fx/
       vimeo: https://vimeo.com/basefx
@@ -451,8 +451,8 @@ studios:
       - The Wandering Earth II
       - Moon Man
     added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/morevfx
       youtube: https://www.youtube.com/@MOREVFX
@@ -477,7 +477,7 @@ studios:
       - Parasite
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dexterstudios.official/
       vimeo: https://vimeo.com/dextershowreel
@@ -506,7 +506,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://shirogumi.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/shirogumi
       x: https://twitter.com/SHIROGUMI_INC
@@ -533,7 +533,7 @@ studios:
       - Westworld
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/infinitestudiossg/
       linkedin: https://www.linkedin.com/company/infinitestudiossingapore/
@@ -555,7 +555,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://redchilliesvfx.com/showreel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/redchillies.vfx/
       linkedin: https://www.linkedin.com/company/redchillies-vfx/
@@ -586,7 +586,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://recruitment.phantom-fx.com/jobs/Careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/phantomfx_india/
       linkedin: https://www.linkedin.com/company/phantom-fx/
@@ -610,7 +610,7 @@ studios:
       - Simmba
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ny_vfxwaala/
       youtube: https://www.youtube.com/channel/UCeGtDRb5qsTTX22Q9s1jOSQ
@@ -641,7 +641,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.futureworks.in/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Anibrain
     url: https://anibrain.com/
     description: VFX and animation studio in Pune with a 700-person team, delivering creature, FX and full VFX work for international films.
@@ -662,7 +662,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://anibrain.com/vfx-and-animation-jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/anibrainstudio/
       linkedin: https://www.linkedin.com/company/anibrain
@@ -699,7 +699,7 @@ studios:
     careers: https://taufilms.com/careers
     reel: https://taufilms.com/studio-reel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/taufilms/
       linkedin: https://www.linkedin.com/company/tau-films/
@@ -735,7 +735,7 @@ studios:
     careers: https://buf.com/jobs
     reel: https://buf.com/demo-reels?id=9659
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/buf_vfx
       linkedin: https://www.linkedin.com/company/buf-compagnie
@@ -764,7 +764,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://careers.theyard-vfx.com/en-GB
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/theyard_vfx/
       linkedin: https://www.linkedin.com/company/the-yard-vfx
@@ -794,7 +794,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.upp.cz/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/uppas
   - name: FIN VFX
@@ -823,7 +823,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.findesign.com.au/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/fin_vfx/
       linkedin: https://www.linkedin.com/company/fin-vfx
@@ -858,7 +858,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.altvfx.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/alt.vfx/
       linkedin: https://www.linkedin.com/company/alt-vfx/
@@ -888,7 +888,7 @@ studios:
       - 'Godzilla: King of the Monsters'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: The Refinery
     url: https://therefinery.tv/
     description: South African VFX and post-production company in Cape Town and Johannesburg working on film, series and commercials.
@@ -914,7 +914,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://therefinery.tv/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/therefinery.post/
       vimeo: https://vimeo.com/therefinerypost
@@ -938,7 +938,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.rvx.is/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rvx_vfx
       linkedin: https://www.linkedin.com/company/rvx
@@ -964,7 +964,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://effettidigitali.zohorecruit.eu/jobs/Careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/effettidigitaliitaliani/
       linkedin: https://www.linkedin.com/company/519780/
@@ -987,7 +987,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.twinpines.es/recruitment
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/5317198
       vimeo: https://vimeo.com/user17355110
@@ -1012,7 +1012,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.pixar.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/pixar/
       linkedin: https://www.linkedin.com/company/pixar-animation-studios
@@ -1041,7 +1041,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.disneyanimation.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/disneyanimation/
       linkedin: https://www.linkedin.com/company/walt-disney-animation-studios/
@@ -1068,7 +1068,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.dreamworks.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Illumination
     url: https://www.illumination.com/
     description: Universal-backed producer of CG family features, with animation production at its own Paris studio.
@@ -1091,7 +1091,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.illumination.com/homepage/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/illuminationent/
       linkedin: https://www.linkedin.com/company/illumination-entertainment/
@@ -1115,7 +1115,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.illuminationstudiosparis.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/illumination-studios-paris/
   - name: Sony Pictures Animation
@@ -1138,7 +1138,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.sonypicturesanimation.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/sonyanimation/
       x: https://twitter.com/SonyAnimation
@@ -1166,7 +1166,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://skydance.com/job-listings/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Titmouse
     url: https://titmouse.net/
     description: Independent studio making 2D and CG animated series, features and shorts for adult and kids audiences.
@@ -1196,7 +1196,7 @@ studios:
     careers: https://titmouse.net/careers/
     reel: https://titmouse.net/work/titmouse-reel-2026/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/titmouseinc
       x: https://twitter.com/titmouseinc
@@ -1227,7 +1227,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.reelfx.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/wearereelfx
       vimeo: https://vimeo.com/wearereelfx
@@ -1256,7 +1256,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://jobs.lever.co/bentoboxent
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bentoboxent/
       youtube: https://www.youtube.com/user/BentoBoxOfficial
@@ -1285,7 +1285,7 @@ studios:
       - Robot Chicken
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/shadowmachine_official/
       linkedin: https://www.linkedin.com/company/shadowmachine
@@ -1310,7 +1310,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.tonkohouse.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/tonkohouse/
       youtube: https://www.youtube.com/@tonkohouse
@@ -1336,7 +1336,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://mercuryfilmworks.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mercuryfilmworks
       linkedin: https://www.linkedin.com/company/mercury-filmworks
@@ -1361,7 +1361,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://gurustudio.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/gurustudioto
       linkedin: https://www.linkedin.com/company/guru-studio
@@ -1387,7 +1387,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://apply.workable.com/bardel-entertainment/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bardelentertainment/
       linkedin: https://www.linkedin.com/company/bardel-entertainment

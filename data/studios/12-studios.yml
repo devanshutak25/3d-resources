@@ -19,7 +19,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.atomiccartoons.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/atomiccartoons/
       linkedin: https://www.linkedin.com/company/atomiccartoons
@@ -45,7 +45,7 @@ studios:
       - Max & Ruby
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nelvanaent/
       linkedin: https://www.linkedin.com/company/nelvana/
@@ -72,7 +72,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://job-boards.greenhouse.io/jamfilled/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/jamfilled/
       x: https://twitter.com/JamFilledStudio
@@ -96,7 +96,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.cartoonsaloon.ie/irish-animation-studio/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cartoonsaloon/
       youtube: https://www.youtube.com/user/CartoonSaloon
@@ -124,7 +124,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.brownbagfilms.com/about-us/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/brownbagfilms/
       linkedin: https://www.linkedin.com/company/brown-bag-films/
@@ -152,7 +152,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://lighthousestudios.ie/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lighthousestudiosire
       linkedin: https://www.linkedin.com/company/lighthousestudios
@@ -179,7 +179,7 @@ studios:
     careers: https://careers.blue-zoo.co.uk/
     reel: https://www.blue-zoo.co.uk/showreel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/blue_zoo
       linkedin: https://www.linkedin.com/company/blue-zoo-productions
@@ -205,7 +205,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://locksmithanimation.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/locksmithanimation/
       linkedin: https://www.linkedin.com/company/locksmith-animation
@@ -229,7 +229,7 @@ studios:
       - Ethel & Ernest
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lupusfilms/
       linkedin: https://www.linkedin.com/company/lupus-films/
@@ -254,7 +254,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.mackinnonandsaunders.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mackandsaund/
       vimeo: https://vimeo.com/mackinnonandsaunders
@@ -282,8 +282,8 @@ studios:
       - I Lost My Body
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://xilam.com/rejoignez-nous/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/110164
       youtube: https://www.youtube.com/channel/UCFqgL7HJU8np9WhkPeqJR9g
@@ -307,7 +307,7 @@ studios:
       - 'Ernest & Celestine: A Trip to Gibberitia'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/folivari/
       linkedin: https://www.linkedin.com/company/folivari/
@@ -337,7 +337,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://jobs.spirit-prod.com/jobs/candidats_eng/index.php
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bluespirit_animation/
       linkedin: https://www.linkedin.com/company/blue-spirit-productions/
@@ -361,7 +361,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://vimeo.com/704097664
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/Studiocachette
   - name: Ellipse Animation
@@ -381,7 +381,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ellipseanimation.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ellipseanimation/
       linkedin: https://www.linkedin.com/company/ellipse-animation/
@@ -402,7 +402,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://hampastudio.teamtailor.com/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hampastudio/
       linkedin: https://es.linkedin.com/company/hampa-studio
@@ -425,7 +425,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.nwave.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nwave_studios/
       linkedin: https://linkedin.com/company/nwavestudios
@@ -451,7 +451,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.rbw.it/en/work-with-us/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rainbowspaofficial/
       linkedin: https://www.linkedin.com/company/rainbow-s.p.a./
@@ -474,7 +474,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.qvisten.no/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/qvistenanimation/
       linkedin: https://www.linkedin.com/company/qvistenanimation/
@@ -501,7 +501,7 @@ studios:
       - Flee
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/suncreaturestudio
       linkedin: https://www.linkedin.com/company/sun-creature-studio/
@@ -519,7 +519,7 @@ studios:
     founded: 2008
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bonobostudio_zagreb/
       vimeo: https://vimeo.com/bonobostudio
@@ -542,7 +542,7 @@ studios:
       - Moomins and the Winter Wonderland
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/animoonstudio/
       vimeo: https://vimeo.com/user102968961
@@ -564,7 +564,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.animagrad.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/animagrad/
       linkedin: https://www.linkedin.com/company/17909226/
@@ -588,7 +588,7 @@ studios:
       - The Boy and the Heron
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Toei Animation
     url: https://www.toei-anim.co.jp/
     description: Tokyo anime studio producing long-running TV series and feature films.
@@ -615,7 +615,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://corp.toei-anim.co.jp/ja/recruit.html
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/ToeiAnimationjp
       x: https://twitter.com/toeianime_info
@@ -639,7 +639,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.mappa.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/c/MAPPACHANNEL
       x: https://twitter.com/MAPPA_Info
@@ -662,7 +662,7 @@ studios:
       - Haikyu!!
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/ProductionIG
   - name: Science SARU
@@ -684,7 +684,7 @@ studios:
       - Dan Da Dan
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Polygon Pictures
     url: https://www.ppi.co.jp/
     description: Tokyo CG animation studio producing anime-style series and features for Japanese and global clients.
@@ -705,7 +705,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ppi.co.jp/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/polygonpicturesinc/
       linkedin: https://www.linkedin.com/company/polygon-pictures
@@ -731,7 +731,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.kyotoanimation.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/kyoani
   - name: ufotable
@@ -757,7 +757,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ufotable.co.jp/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ufotable_inc/
       vimeo: https://vimeo.com/ufotable
@@ -781,7 +781,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ponoc.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/c/StudioPonoc
       x: https://twitter.com/ponoc_intl
@@ -805,7 +805,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.bones.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Studio Mir
     url: https://www.studiomir.co.kr/
     description: Seoul animation studio producing 2D series for US streamers and studios.
@@ -824,7 +824,7 @@ studios:
       - Devil May Cry
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Green Gold Animation
     url: https://www.greengold.tv/
     description: Hyderabad studio creating original kids animation IP for TV, streaming and film, plus VFX for Indian films.
@@ -845,7 +845,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.greengold.tv/careers.php
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/greengoldtv/
       linkedin: https://www.linkedin.com/company/greengoldtv/
@@ -871,7 +871,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://toonzmediagroup.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/toonzmediagroup/
       linkedin: https://www.linkedin.com/company/toonz-media-group/
@@ -891,7 +891,7 @@ studios:
       - Karmachakra
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studiodurga/
       youtube: https://www.youtube.com/c/StudioDurga
@@ -918,7 +918,7 @@ studios:
     careers: https://www.madassemblage.com/careers/
     reel: https://youtu.be/4-zzuL__viE
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/madassemblage/
       linkedin: https://www.linkedin.com/company/madassemblage
@@ -942,7 +942,7 @@ studios:
       - Eena Meena Deeka
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/cosmos_maya
       linkedin: https://www.linkedin.com/company/cosmos-maya-india-pvt-ltd/
@@ -962,7 +962,7 @@ studios:
     founded: 2009
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studioeeksaurus/
       vimeo: https://vimeo.com/eeksaurus
@@ -986,7 +986,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://monsta.com/monsta-career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/@Monsta
       x: https://x.com/themonstastudio
@@ -1010,7 +1010,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.topdrawanimation.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/topdrawanimation_official/
       linkedin: https://www.linkedin.com/company/topdrawanimation
@@ -1035,7 +1035,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://flyingbark.bamboohr.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/flyingbarkproductions/
       linkedin: https://au.linkedin.com/company/flying-bark-productions
@@ -1059,7 +1059,7 @@ studios:
       - The Bluey Movie
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ludostudio
       linkedin: https://www.linkedin.com/company/ludo-studio/
@@ -1088,7 +1088,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://studiomoshi.com/reel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studiomoshi
       linkedin: https://www.linkedin.com/company/studiomoshi/
@@ -1112,7 +1112,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://punkrobot.cl/trabajo/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/punkrobotstudio/
       vimeo: https://vimeo.com/punkrobotstudio
@@ -1131,7 +1131,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://www.pajaro.cl/reel.html
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/pajaropip/
       linkedin: https://www.linkedin.com/company/pajaro
@@ -1153,7 +1153,7 @@ studios:
       - Oswaldo
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/birdostudio
       vimeo: https://vimeo.com/birdostudio
@@ -1178,7 +1178,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://careers.triggerfish.com/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/triggerfishanimationstudios/
       x: https://twitter.com/triggerfish
@@ -1196,4 +1196,4 @@ studios:
       - Iwájú
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'

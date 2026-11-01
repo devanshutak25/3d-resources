@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: 21 free, ~32 subscription (Sintel, Vincent, Spring-era creatures).
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Rain Rig (Blender)
     url: https://studio.blender.org/characters/rain/v3/
@@ -51,7 +51,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Snow Rig (Blender)
     url: https://studio.blender.org/characters/snow/v4/
@@ -76,7 +76,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Storm Rig (Blender)
     url: https://studio.blender.org/characters/storm/v1/
@@ -104,7 +104,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: Subscriber download per character library page.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Sprite Rig (Blender)
     url: https://studio.blender.org/characters/sprite/v1/
@@ -127,7 +127,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Ellie Rig (Blender)
     url: https://studio.blender.org/characters/ellie/v1/
@@ -151,7 +151,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Rex Rig (Blender)
     url: https://studio.blender.org/characters/rex/v1/
@@ -175,7 +175,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Einar Rig (Blender)
     url: https://studio.blender.org/characters/einar/v1/
@@ -200,7 +200,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Autumn Rig (Blender)
     url: https://studio.blender.org/characters/autumn/v1/
@@ -224,7 +224,7 @@ entries:
         - blender
     readme_tags:
       - Creature Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Vincent Rig (Blender)
     url: https://studio.blender.org/characters/vincent/v2/
@@ -252,7 +252,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: Listed as subscription on library page.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Cookie Flex Rig (Blender)
     url: https://blendswap.com/blend/7417
@@ -276,7 +276,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: Old (2.6x era); may need fixes in modern Blender. Blend Swap login needed.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Simple Character Rig (Blender)
     url: https://joeycarlino.gumroad.com/l/lzHRac
@@ -301,7 +301,7 @@ entries:
         - blender
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: P2Design Free Rigs (Blender)
     url: https://www.p2design-academy.com/p/free-rigs
@@ -327,7 +327,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: License terms not stated on page; email signup may be required.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Dave Character Rig (Blender)
     url: https://superhivemarket.com/products/dave-blender-character-rig
@@ -354,7 +354,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: Royalty-free license.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Free Skeleton Rig (Blender)
     url: https://palurdasarts.gumroad.com/l/FreeSkeletonRig
@@ -380,7 +380,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: CC-BY-NC-SA 4.0, by Felix Paul Kuhn.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: UE5 Mannequin Blender Rig (Blender)
     url: https://fafuccino.itch.io/ue5-mannequin-blender-rig
@@ -405,7 +405,7 @@ entries:
     readme_tags:
       - Game Animation
     notes: Mesh not included; export from UE5. Commercial use OK.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: UE5-Blender-Rig (Blender)
     url: https://github.com/cjmlima/UE5-Blender-Rig
@@ -430,7 +430,7 @@ entries:
     readme_tags:
       - Game Animation
     notes: CC0-1.0.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Keeper of the Lighthouse (3ds Max)
     url: https://www.miloscerny.com/download-keeper
@@ -451,7 +451,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: CC-BY-NC; credit Milos Cerny and Oleg Knyazev.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Shalabology Free Rigs (3ds Max)
     url: https://shalabology.wordpress.com/free-stuffs/free-rigs/3dsmax/
@@ -471,7 +471,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: Old blog; license unclear.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: RigsArena (3ds Max)
     url: https://rigsarena.blogspot.com/
@@ -491,7 +491,7 @@ entries:
     readme_tags:
       - Rig Hub
     notes: Aggregator; individual rig licenses vary, some links may be dead.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Bony4D (Cinema 4D)
     url: https://ace5studios.com/bony4d/
@@ -516,7 +516,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: Download via Gumroad.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Beefy4D (Cinema 4D)
     url: https://ace5studios.com/beefy4d/
@@ -540,7 +540,7 @@ entries:
         - cinema-4d
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Ace5 Studios Rig Shop (Cinema 4D)
     url: https://shop.ace5studios.com/
@@ -563,7 +563,7 @@ entries:
         - cinema-4d
     readme_tags:
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Free Girl Character Rig (Cinema 4D)
     url: https://www.thepixellab.net/free-cinema-4d-3d-girl-character-rig
@@ -586,7 +586,7 @@ entries:
     readme_tags:
       - Character Rigs
     notes: License not stated.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Toon Rig (Cinema 4D)
     url: https://www.maxon.net/en/cinema-4d/features/toon-rig
@@ -612,7 +612,7 @@ entries:
         - cinema-4d
     readme_tags:
       - Rigging
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Character Object (Cinema 4D)
     url: https://www.maxon.net/en/cinema-4d/features/character-object
@@ -638,7 +638,7 @@ entries:
         - cinema-4d
     readme_tags:
       - Rigging
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Electra Rig (Houdini)
     url: https://www.sidefx.com/contentlibrary/electra-rig/
@@ -666,7 +666,7 @@ entries:
       - Character Rigs
       - KineFX
     notes: SideFX content library license. H20 version also exists.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Luchador & Chicken (Houdini)
     url: https://www.sidefx.com/contentlibrary/luchador-chicken/
@@ -693,7 +693,7 @@ entries:
     readme_tags:
       - Character Rigs
       - KineFX
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Erik Rig (Houdini)
     url: https://www.sidefx.com/contentlibrary/erik-rig/
@@ -720,7 +720,7 @@ entries:
       - Character Rigs
       - KineFX
     notes: Houdini 18.5 era.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: KineFX APEX Rigging & ML Skinning (Houdini)
     url: https://www.sidefx.com/contentlibrary/kinefx-with-apex-rigging-and-ml-skinning/
@@ -745,7 +745,7 @@ entries:
       - Creature Rigs
       - KineFX
     notes: 5.5 GB download.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Mannequins Asset Pack (Unreal)
     url: https://www.fab.com/listings/ad542ee6-34d0-4828-a56c-13846cd649d0
@@ -768,7 +768,7 @@ entries:
         - unreal
     readme_tags:
       - Control Rig
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Paragon Characters (Unreal)
     url: https://dev.epicgames.com/documentation/en-us/unreal-engine/free-epic-games-content-for-unreal-engine
@@ -791,7 +791,7 @@ entries:
     readme_tags:
       - Game Characters
     notes: Points to Epic free content doc; individual heroes on Fab. Commercial use in UE allowed.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MetaHuman Creator (Unreal)
     url: https://www.metahuman.com/
@@ -816,7 +816,7 @@ entries:
         - maya
     readme_tags:
       - Digital Humans
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Unity-Chan (Unity)
     url: https://unity-chan.com/download/index.php
@@ -839,7 +839,7 @@ entries:
     readme_tags:
       - Anime
     notes: 'Unity-Chan License: free incl. commercial with guideline conditions.'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: redirect
   - name: Robot Kyle (Unity)
     url: https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
@@ -861,7 +861,7 @@ entries:
         - unity
     readme_tags:
       - Game Characters
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Genesis 9 Starter Essentials (Daz Studio)
     url: https://www.daz3d.com/genesis-9-starter-essentials
@@ -882,7 +882,7 @@ entries:
         - beginner
     readme_tags:
       - Digital Humans
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Cascadeur Scenes (RenderHub)
     url: https://www.renderhub.com/casc-scenes
@@ -907,7 +907,7 @@ entries:
     readme_tags:
       - Cascadeur
       - Character Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Spineboy Example (Spine)
     url: https://esotericsoftware.com/spine-examples-spineboy
@@ -931,7 +931,7 @@ entries:
     readme_tags:
       - 2D Rigs
     notes: Raptor example also at /spine-examples-raptor.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Characters Content Pack (Moho)
     url: https://moho.lostmarble.com/products/characters-content-pack
@@ -953,7 +953,7 @@ entries:
         - beginner
     readme_tags:
       - 2D Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Animation Guides Free Puppets (Character Animator)
     url: https://www.animationguides.com/downloads/category/puppets/free-puppets/
@@ -973,7 +973,7 @@ entries:
         - beginner
     readme_tags:
       - 2D Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Template-Chan (Toon Boom Harmony)
     url: https://jessejayjones.gumroad.com/l/template-chan
@@ -996,7 +996,7 @@ entries:
         - beginner
     readme_tags:
       - 2D Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Sir Owl Rig (Toon Boom Harmony)
     url: https://mip888art.gumroad.com/l/mip888art_owl_rig
@@ -1016,7 +1016,7 @@ entries:
         - beginner
     readme_tags:
       - 2D Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Cartoon Animator Content Store (Cartoon Animator)
     url: https://www.reallusion.com/contentstore/cartoon-animator/
@@ -1039,7 +1039,7 @@ entries:
         - beginner
     readme_tags:
       - 2D Rigs
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: anima.to Rigs
     url: https://anima.to/rigs/
@@ -1066,5 +1066,5 @@ entries:
     readme_tags:
       - Rig Hub
     notes: Many listings are fan rigs of IP characters.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok

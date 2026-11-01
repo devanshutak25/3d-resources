@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Film Guides
       - Encyclopedia
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -30,7 +30,7 @@ entries:
     readme_tags:
       - Technique Articles
       - Ongoing
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - Gold Standard
       - Video Essays
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -72,7 +72,7 @@ entries:
     readme_tags:
       - Deep Analysis
       - Film
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Fundamentals
       - Color Science
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -112,7 +112,7 @@ entries:
     readme_tags:
       - Practical
       - Narrative
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -133,8 +133,8 @@ entries:
     readme_tags:
       - DP Blog
       - ASC
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     deprecated: true
     tags:
       workflow:
@@ -154,7 +154,7 @@ entries:
     readme_tags:
       - Roger Deakins
       - Lighting
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -174,7 +174,7 @@ entries:
     readme_tags:
       - Roger Deakins
       - Lighting
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -194,7 +194,7 @@ entries:
     readme_tags:
       - Roger Deakins
       - Lighting
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -214,7 +214,7 @@ entries:
     readme_tags:
       - Cinematic Lighting
       - Technique
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:

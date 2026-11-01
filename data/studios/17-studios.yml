@@ -18,7 +18,7 @@ studios:
       - 'Jurassic World: Camp Cretaceous'
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site says CGI production service provider since 1988; city not stated.
   - name: Bandai Namco Filmworks
     url: https://www.bnfw.co.jp/en/
@@ -40,7 +40,7 @@ studios:
       - Code Geass
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bandainamcofilmworks_en/
       youtube: https://www.youtube.com/@bandainamcofilmworks
@@ -66,7 +66,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://kinemacitrus.biz/recruit_new/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/@kinemacitrus
       x: https://x.com/KinemacINFO
@@ -91,7 +91,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://colorido.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/studiocolorido
     notes: 'Wikipedia: 106 employees (Apr 2024).'
@@ -113,7 +113,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://studiochizu.com/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/studio_chizu
       youtube: https://www.youtube.com/c/studiochizu
@@ -137,7 +137,7 @@ studios:
       - Craig of the Creek
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Rough Draft Korea
     url: https://www.rdkorea.co.kr/
     description: Hand-drawn 2D animation studio in Seoul, sister to Rough Draft Studios, animating US series and specials.
@@ -156,7 +156,7 @@ studios:
       - Adventure Time
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Digital eMation
     url: https://www.emation.co.kr/
     description: Animation service studio in Seoul producing 2D episodes for US prime-time and cable series.
@@ -175,7 +175,7 @@ studios:
       - Futurama
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site returned 403 to the fetcher (bot block). Wikipedia lists 2023 to 2025 credits, so active.
   - name: NEXON
     url: https://www.nexon.com/
@@ -201,8 +201,8 @@ studios:
       - Dungeon & Fighter
       - The First Descendant
     added_at: '2026-10-31T05:09:10.955Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: 7,067 employees (Dec 2021). Homepage is a JS shell but live.'
   - name: Netmarble
     url: https://company.netmarble.com/en
@@ -222,7 +222,7 @@ studios:
       - 'Ni no Kuni: Cross Worlds'
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/netmarblegames
   - name: NEOWIZ
@@ -242,8 +242,8 @@ studios:
       - Brown Dust II
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.neowiz.com/kr/career
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/neowiz_official
       linkedin: https://www.linkedin.com/company/neowiz-games-corp/
@@ -271,7 +271,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.lightspeed-studios.com/join-us.html
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: MOONTON
     url: https://en.moonton.com/
     description: 'Mobile game developer and publisher in Shanghai behind the MOBA Mobile Legends: Bang Bang and other RPG titles.'
@@ -291,7 +291,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://en.moonton.com/join/index.html
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/moontongames/
     notes: 'Wikipedia: 2,000+ employees (2025).'
@@ -320,7 +320,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://lidenfilms.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/lidenfilms
     notes: 'Wikipedia: 303 employees (Apr 2026).'
@@ -343,8 +343,8 @@ studios:
       - Time Bokan
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://tatsunoko.co.jp/recruit
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/Tatsunokopromotion
       x: https://twitter.com/tatsunoko_pro
@@ -369,7 +369,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.dogakobo.com/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: 62 employees (June 2024).'
   - name: Telecom Animation Film
     url: https://www.telecom-anime.com/
@@ -390,7 +390,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.tms-e.co.jp/company/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Sony PCL
     url: https://www.sonypcl.jp/
     description: Creative house in Tokyo offering post-production, LED virtual production, volumetric capture and immersive event staging.
@@ -409,7 +409,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.sonypcl.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/@SonyPCLcreation
       x: https://x.com/SonyPCL
@@ -439,7 +439,7 @@ studios:
       - Kao Silent Cleaning
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/whtevr_co/
       linkedin: https://www.linkedin.com/company/whtevr-co/
@@ -468,7 +468,7 @@ studios:
       - Courage the Cowardly Dog
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site cites about 250 active artists across Taiwan and China; founded 1978 as Wang Film Productions in Xindian.
   - name: Shin-Ei Animation
     url: https://www.shin-ei-animation.jp/
@@ -492,8 +492,8 @@ studios:
       - Teasing Master Takagi-san
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://shin-ei-animation.jp/recruit/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/c/SHINEIANIMATIONOFFICIAL
       x: https://x.com/shin_ei_ani
@@ -516,8 +516,8 @@ studios:
       - A Certain Magical Index
       - Toradora!
     added_at: '2026-10-31T05:09:10.955Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     notes: Site serves a self-signed certificate so content could not be read; Wikipedia lists 226 employees and current productions.
   - name: Nippon Animation
     url: https://www.nippon-animation.co.jp/
@@ -538,7 +538,7 @@ studios:
       - Chibi Maruko-chan
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 76 employees (July 2025).'
   - name: Devsisters
     url: https://www.devsisters.com/
@@ -558,7 +558,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://careers.devsisters.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/devsisters
       youtube: https://www.youtube.com/@devsisters
@@ -580,7 +580,7 @@ studios:
       - My Time at Sandrock
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/patheagames/
       x: https://twitter.com/PatheaGames
@@ -609,7 +609,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://hr.163.com/job-list.html?lang=en
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/channel/UC7fPAi77lcCWFUc94UHyfGg
       x: https://twitter.com/NetEaseGames_EN
@@ -631,7 +631,7 @@ studios:
     founded: 2005
     added_at: '2026-10-31T05:09:10.956Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/freedworkshop
       linkedin: https://hk.linkedin.com/company/free-d-workshop
@@ -657,7 +657,7 @@ studios:
       - Another World
     added_at: '2026-10-31T05:09:10.956Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/Point5creations
       x: https://x.com/point5creations
@@ -682,7 +682,7 @@ studios:
     added_at: '2026-10-31T05:09:10.956Z'
     careers: https://www.griotgroove.com/recruit
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Site: about 100 employees; joined the Cygames group in May 2026; mocap studio branded IBUKI.'
   - name: POLYGON MAGIC
     url: https://www.polygonmagic.com/
@@ -706,7 +706,7 @@ studios:
     added_at: '2026-10-31T05:09:10.956Z'
     careers: https://polygon-saiyo.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/polygonmagic_group
       x: https://twitter.com/polygonmagic
@@ -732,7 +732,7 @@ studios:
       - Record of Ragnarok II (CG)
     added_at: '2026-10-31T05:09:10.956Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/felixfilm2014
   - name: SAMG Entertainment
@@ -752,7 +752,7 @@ studios:
       - 'Miraculous: Tales of Ladybug & Cat Noir (seasons 1 to 3)'
     added_at: '2026-10-31T05:09:10.956Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site is JS-rendered and returned no readable text; Wikipedia lists ongoing series, so active. HQ city not confirmed.
   - name: Mocaplab
     url: https://mocaplab.com/
@@ -772,8 +772,8 @@ studios:
     notable:
       - Enemies (Unity)
     added_at: '2026-10-31T05:09:10.957Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mocaplabstudio/
       linkedin: https://www.linkedin.com/company/mocaplab
@@ -802,7 +802,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://www.mikrosanimation.com/en/people-and-culture/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mikrosanimation
       linkedin: https://www.linkedin.com/company/mikrosanimation
@@ -828,7 +828,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://careers.werecruit.io/fr/tat
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/tatproductionsofficiel/
       linkedin: https://www.linkedin.com/company/tat-productions/
@@ -853,7 +853,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://www.dwarfanimation.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dwarfanimation/
       linkedin: https://www.linkedin.com/company/dwarfanimationstudio
@@ -877,7 +877,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://www.andarta-pictures.com/fr/recrutement/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/andartapictures
       linkedin: https://www.linkedin.com/company/andarta-pictures
@@ -899,7 +899,7 @@ studios:
       - The Broos
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bobbypillsstudio/
       linkedin: https://www.linkedin.com/company/bobbypills/
@@ -925,7 +925,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://www.cgev.fr/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/cgevvfx/
       youtube: https://www.youtube.com/@cgevvfx
@@ -954,7 +954,7 @@ studios:
       - BBC Euros
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/woodblock.studio/
       linkedin: https://www.linkedin.com/company/woodblock-studio/
@@ -977,7 +977,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://trickstudio.de/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/trickstudio/
   - name: xoio
@@ -992,7 +992,7 @@ studios:
       - xr
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/xoio.de/
       youtube: https://www.youtube.com/user/XoioTV
@@ -1015,7 +1015,7 @@ studios:
       - Condenaditos
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: MAD Entertainment
     url: https://www.madentertainment.it/
     description: Naples production company and animation studio making animated features and series alongside documentaries and fiction.
@@ -1034,7 +1034,7 @@ studios:
       - Nostalgia
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/_madentertainment_/
       youtube: https://www.youtube.com/channel/UCbAGrkybvEyTZa8x4Iwtp1Q
@@ -1058,7 +1058,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://walkingthedog.be/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/user3798880
   - name: Dirty Monitor
@@ -1078,7 +1078,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://www.dirtymonitor.com/recruitment
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dirtymonitor/
       vimeo: https://vimeo.com/dirtymonitor
@@ -1101,7 +1101,7 @@ studios:
       - 'Big Hero 6: The Series'
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/n-rlum/
       x: https://twitter.com/noerlum
@@ -1116,7 +1116,7 @@ studios:
     founded: 2000
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site blocks WebFetch (403); verified live via direct fetch of mir.no/about.
   - name: HYPERBOWL
     url: https://www.hyperbowl.de/
@@ -1136,7 +1136,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://www.hyperbowl.de/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hyperbowl.studio/
       linkedin: https://www.linkedin.com/company/hyperbowlstudio/
@@ -1162,7 +1162,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://volucap.com/career/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/volucap/
       linkedin: https://www.linkedin.com/company/volucap

@@ -17,7 +17,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://careers.playsimple.in/jobs/Careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/playsimple.games/
       linkedin: https://www.linkedin.com/company/playsimple-games
@@ -36,7 +36,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://mayhem.keka.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mayhem_studios/
       youtube: https://www.youtube.com/@ugw_official
@@ -55,7 +55,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://www.studiosirah.com/join-us
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studiosirah/
       linkedin: https://www.linkedin.com/company/studio-sirah/
@@ -77,7 +77,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://denzongfilms.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/denzongfilms/
       linkedin: https://www.linkedin.com/company/denzong-films
@@ -108,7 +108,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://motiongility.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site lists offices in USA, Canada, UK, UAE and Bengaluru without naming an HQ; Bengaluru per AGI list.
   - name: Just Magic Studio
     url: https://justmagicstudio.com/
@@ -122,7 +122,7 @@ studios:
       - games
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/justmagicstudiopvtltd/
       x: https://twitter.com/justmagicstudio
@@ -136,7 +136,7 @@ studios:
       - product-viz
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/autovrse.design/
       linkedin: https://www.linkedin.com/company/autovrse
@@ -156,7 +156,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://hashcube.freshteam.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Cloudzee Animation
     url: https://www.cloudzeeanimation.com/
     description: Animation studio producing 3D and 2D animation for children's TV series, commercials and games, from design to compositing.
@@ -178,7 +178,7 @@ studios:
       - games
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cloudzeeindia
       linkedin: https://www.linkedin.com/company/cloudzeeindia
@@ -199,7 +199,7 @@ studios:
     founded: 2020
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/concreatehq/
       linkedin: https://www.linkedin.com/company/concreatehq/
@@ -233,7 +233,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://basilicflystudio.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/basilicflystudio/
       linkedin: https://www.linkedin.com/company/basilic-fly-studio/
@@ -254,7 +254,7 @@ studios:
       - World Cricket Championship
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/nextwave-multimedia/
       youtube: https://www.youtube.com/@NextwaveMultimediaWCC
@@ -275,8 +275,8 @@ studios:
       - brand
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://effeindia.com/career/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/effeanimation/
       linkedin: https://www.linkedin.com/showcase/effeanimation
@@ -294,7 +294,7 @@ studios:
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://dots3d.com/career
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dotsdesigner/
       youtube: https://www.youtube.com/channel/UCQTEM5DEmFvnBlxZS_82hZQ
@@ -309,7 +309,7 @@ studios:
       - xr
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/yakshavisualtechnologies
       linkedin: https://www.linkedin.com/company/yaksha-visual-technologies/
@@ -328,7 +328,7 @@ studios:
       - 3d-animation
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Site: immersive museum experiences since 2010; team in digital content since 2000.'
   - name: Rocket Science Animation
     url: https://rocketscienceanimation.com/
@@ -345,7 +345,7 @@ studios:
       - brand
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rsalabs/
       linkedin: https://www.linkedin.com/company/rocketscienceanimation/
@@ -369,7 +369,7 @@ studios:
       - Khauf (titles)
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/improper.tv
       linkedin: https://www.linkedin.com/company/improper-tv/
@@ -390,7 +390,7 @@ studios:
       - advertising
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Founder-led (Ved Uttam); headcount not stated.
   - name: Chasing Illusions Studio
     url: https://www.chasingillusions.com/
@@ -409,7 +409,7 @@ studios:
     founded: 2009
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/chasing.illusions.studio/
       linkedin: https://www.linkedin.com/company/chasing-illusions-studio-pvt-ltd/
@@ -423,8 +423,8 @@ studios:
       - motion-design
       - experiential
     added_at: '2026-10-31T05:09:10.969Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/user162849004
     notes: 'no website. Instagram active (posts to Oct 2026). City not in bio (AGI list: Goa).'
@@ -443,7 +443,7 @@ studios:
       - brand
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/framenotestudio
       vimeo: https://vimeo.com/framenotestudio
@@ -466,7 +466,7 @@ studios:
     added_at: '2026-10-31T05:09:10.969Z'
     careers: https://www.octro.com/career.html
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/octrogames/
       linkedin: https://www.linkedin.com/company/octro-inc-
@@ -489,7 +489,7 @@ studios:
       - advertising
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/firefly-creative-studio-pvt-ltd
     notes: JS-only site; facts read from its bundle (Jubilee Hills address, careers@firefly.in, 2024 Vimeo uploads).
@@ -511,7 +511,7 @@ studios:
     founded: 2005
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Size from site ("about 120 people"), not LinkedIn. Vancouver is a liaison office.
   - name: HaloHues Studios
     url: https://www.halohuesstudios.com/
@@ -528,7 +528,7 @@ studios:
     added_at: '2026-10-31T05:09:10.969Z'
     careers: https://www.halohuesstudios.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/halohuesstudios
       linkedin: https://www.linkedin.com/company/halohues-studios/
@@ -556,7 +556,7 @@ studios:
       - Magadheera
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Site behind Cloudflare bot check (403); facts from Wikipedia, which lists HQ as Santa Clara and the studio as founded in Hyderabad. Recent activity not confirmed.
   - name: Annapurna Studios
     url: https://annapurnastudios.com/
@@ -573,7 +573,7 @@ studios:
     founded: 1976
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Production house and studio facility (22 acres) rather than a pure VFX shop.
   - name: Hitwicket
     url: https://hitwicket.com/
@@ -589,7 +589,7 @@ studios:
       - Hitwicket Superstars
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hitwicketsuperstars/
       youtube: https://www.youtube.com/@HitwicketGame
@@ -611,7 +611,7 @@ studios:
     added_at: '2026-10-31T05:09:10.969Z'
     careers: https://www.littleredzombies.com/join-us/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/littleredzombies/
       linkedin: https://www.linkedin.com/company/littleredzombies
@@ -631,7 +631,7 @@ studios:
       - film
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/firebolt-entertainment/
       vimeo: https://vimeo.com/fireboltentertainment
@@ -653,7 +653,7 @@ studios:
     added_at: '2026-10-31T05:09:10.969Z'
     careers: https://www.pixalotlabs.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/pixalot-labs/
       youtube: https://www.youtube.com/@pixalotlabs4227
@@ -672,7 +672,7 @@ studios:
       - brand
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/thekairospictures/
       linkedin: https://www.linkedin.com/company/kairospicturesllp/
@@ -690,7 +690,7 @@ studios:
     founded: 2015
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/ediiie/
       youtube: https://www.youtube.com/@ediiie
@@ -711,7 +711,7 @@ studios:
     founded: 2023
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/tatwansh_digital
       linkedin: https://www.linkedin.com/company/tatwansh-digital/
@@ -732,7 +732,7 @@ studios:
       - episodic
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/kokaachi
       x: https://twitter.com/studiokokaachi
@@ -750,7 +750,7 @@ studios:
       - games
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/kappiri.studio
       vimeo: https://vimeo.com/kappiri
@@ -771,7 +771,7 @@ studios:
       - brand
     added_at: '2026-10-31T05:09:10.969Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/qatsi.studio
       linkedin: https://www.linkedin.com/company/studioqatsi
@@ -792,7 +792,7 @@ studios:
       - xr
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Defocus Studio
     url: https://defocusstudio.com/
     description: Explainer and product video studio making 2D explainers, 3D product animation and motion graphics for tech and B2B companies.
@@ -810,7 +810,7 @@ studios:
     founded: 2015
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/defocusstudio/
       linkedin: https://in.linkedin.com/company/d-focus-studio
@@ -840,7 +840,7 @@ studios:
       - ICC Men's Cricket World Cup 2023
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/stray.motion/
       linkedin: https://www.linkedin.com/company/straymotion/
@@ -864,7 +864,7 @@ studios:
       - Bebakee
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: inkblingdesign.com redirects to inkbling.in.
   - name: Skill Tool Studio
     url: https://skilltoolstudio.com/
@@ -878,7 +878,7 @@ studios:
       - advertising
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/skilltoolstudio/
       vimeo: https://vimeo.com/skiltoolstudio
@@ -899,7 +899,7 @@ studios:
       - Home Delivery
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/fairycows/
       vimeo: https://vimeo.com/fairycows
@@ -918,7 +918,7 @@ studios:
     founded: 2016
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/totem.creative/
       linkedin: https://www.linkedin.com/company/totem-creative-llp/
@@ -942,7 +942,7 @@ studios:
       - Lamput
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vaibhavstudios/
       linkedin: https://www.linkedin.com/company/vaibhav-studios/
@@ -964,7 +964,7 @@ studios:
       - music-video
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/visualsarkarsm/
       vimeo: https://vimeo.com/visualsarkarsm
@@ -986,8 +986,8 @@ studios:
     notable:
       - The Revolutionaries
     added_at: '2026-10-31T05:09:10.970Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dynamitedesign/
       linkedin: https://www.linkedin.com/company/dynamite-design
@@ -1019,7 +1019,7 @@ studios:
       - Dumbo
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/atomicartsvfx/
       linkedin: https://www.linkedin.com/company/atomic-arts
@@ -1040,7 +1040,7 @@ studios:
     founded: 2023
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/r_squarre/
       linkedin: https://www.linkedin.com/company/rsquare-motion-design

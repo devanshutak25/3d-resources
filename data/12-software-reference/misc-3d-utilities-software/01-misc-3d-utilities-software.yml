@@ -5,7 +5,7 @@ entries:
     description: Webpages as collaborative 3D webspaces interconnected by portals.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -18,7 +18,7 @@ entries:
     description: Node-based WebGL design tool, used for procedural geometry, particles, materials.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Fluids
       - FX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -66,8 +66,8 @@ entries:
     readme_tags:
       - Low-poly
       - Voxel
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
   - name: MeshLab
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Mesh Processing
       - Photogrammetry
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -105,7 +105,7 @@ entries:
     readme_tags:
       - PSD
       - Browser
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -125,7 +125,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Free Community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -148,7 +148,7 @@ entries:
     readme_tags:
       - Base Meshes
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - RAW Editor
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -183,7 +183,7 @@ entries:
     readme_tags:
       - Recording
       - Streaming
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -209,7 +209,7 @@ entries:
     readme_tags:
       - Screen Capture
       - Windows
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -231,7 +231,7 @@ entries:
     readme_tags:
       - Terrain Gen
       - Node-based
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -252,7 +252,7 @@ entries:
     readme_tags:
       - Fractals
       - HDR/EXR
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -274,7 +274,7 @@ entries:
     readme_tags:
       - Strange Attractors
       - GPU
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -296,7 +296,7 @@ entries:
     readme_tags:
       - RenderMan-like
       - Renderer
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     stale: true
     last_pushed: '2014-05-04'
@@ -320,7 +320,7 @@ entries:
     readme_tags:
       - Timeline
       - Editorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
@@ -337,14 +337,14 @@ entries:
     readme_tags:
       - VTubing
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: KodeLife
     url: https://hexler.net/kodelife
     added_at: '2026-04-19T17:29:43.000Z'
     description: Real-time shader editor supporting GLSL, HLSL, and Metal, with a UI for creating and testing shaders.
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -362,7 +362,7 @@ entries:
     readme_tags:
       - Framework
       - Vulkan
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -382,7 +382,7 @@ entries:
     readme_tags:
       - Creative Coding
       - Python
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -400,7 +400,7 @@ entries:
     readme_tags:
       - Generative
       - 3D Structures
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -422,7 +422,7 @@ entries:
     readme_tags:
       - Pseudo-3D
       - Canvas
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -449,7 +449,7 @@ entries:
       tech:
         - procedural
     added_at: '2026-10-05T08:51:07.115Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -474,8 +474,8 @@ entries:
         - procedural
         - gpu
     added_at: '2026-10-05T08:51:07.116Z'
-    url_last_verified: '2026-10-05'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     readme_tags:
       - Paid
       - GPU
@@ -498,7 +498,7 @@ entries:
         - procedural
         - node-based
     added_at: '2026-10-05T08:51:07.118Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -518,7 +518,7 @@ entries:
       tech:
         - procedural
     added_at: '2026-10-05T08:51:07.120Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -540,7 +540,7 @@ entries:
         - node-based
         - real-time
     added_at: '2026-10-05T08:51:07.157Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Non-Commercial
@@ -562,7 +562,7 @@ entries:
         - linux
         - ios
     added_at: '2026-10-05T08:51:07.159Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -582,7 +582,7 @@ entries:
       platform:
         - web
     added_at: '2026-10-05T08:51:07.161Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -606,7 +606,7 @@ entries:
         - node-based
         - real-time
     added_at: '2026-10-05T08:51:07.162Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -630,7 +630,7 @@ entries:
       tech:
         - real-time
     added_at: '2026-10-05T08:51:07.164Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid

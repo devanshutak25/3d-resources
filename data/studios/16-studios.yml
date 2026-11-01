@@ -16,7 +16,7 @@ studios:
       - 'Sweeney Todd: The Demon Barber of Fleet Street'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/2369360/
       x: https://twitter.com/morrisonstudio
@@ -40,7 +40,7 @@ studios:
       - Magpie Murders
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/hugedesigns_london/
   - name: CHIPS
@@ -61,7 +61,7 @@ studios:
       - Severance
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: BOOM CGI
     url: https://boomcgi.com/
     description: London CGI studio making photoreal stills, animation and product CGI for brands and ad agencies.
@@ -77,7 +77,7 @@ studios:
     founded: 2015
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/boomcgi/
       linkedin: https://www.linkedin.com/company/boom-cgi
@@ -106,7 +106,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://www.marza.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/marza_animation_planet/
       youtube: https://www.youtube.com/channel/UCQSx1FMRP4t50_Nr80tE9iA
@@ -136,7 +136,7 @@ studios:
       - Tekken 8
     added_at: '2026-10-31T05:09:10.953Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Wikipedia lists 265 employees; homepage is a JS shell but live.
   - name: OLM
     url: https://www.olm.co.jp/
@@ -166,7 +166,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://www.olm.co.jp/recruit
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/OLMGROUP
     notes: About page lists OLM, Inc. at 204 employees (2025/3); LA office is group company Sprite Animation Studios.
@@ -192,7 +192,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://www.orange-cg.com/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cg_orange_inc/
       youtube: https://www.youtube.com/channel/UCPpZ2HSOn-pyaOAJ8Cx-0yw
@@ -231,7 +231,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://www.sanzigen.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/@sanzigenchannel
       x: https://x.com/SANZIGEN_INC
@@ -258,7 +258,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://www.st-trigger.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/trigger_inc/
       youtube: https://www.youtube.com/user/studiotrigger
@@ -282,7 +282,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://www.cwfilms.jp/hr/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cwfilms_official/
       youtube: https://www.youtube.com/user/cwfilms/videos
@@ -307,7 +307,7 @@ studios:
     added_at: '2026-10-31T05:09:10.953Z'
     careers: https://recruit.witstudio.co.jp/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wit_studio/
       youtube: https://www.youtube.com/@witstudio3461
@@ -332,8 +332,8 @@ studios:
       - My Dress-Up Darling
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://cloverworks.co.jp/recruit/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/CloverWorks
     notes: 'Wikipedia: 258 employees (Feb 2026).'
@@ -356,7 +356,7 @@ studios:
       - Children of the Sea
     added_at: '2026-10-31T05:09:10.954Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/portstudio4c
       x: https://twitter.com/STUDIO4C
@@ -379,8 +379,8 @@ studios:
       - 'Frieren: Beyond Journey''s End'
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.madhouse.co.jp/recruit
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/madhouse_news
     notes: 'Wikipedia: 70 employees incl. contractors.'
@@ -405,7 +405,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.khara.co.jp/recruiting/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/channel/UCM4FwhxLYLHlOSPnfxmxSQw
       x: https://x.com/khara_inc
@@ -434,7 +434,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://recruit.kamikazedouga.co.jp/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/kamikazedouga
       linkedin: https://www.linkedin.com/company/kamikazedouga/
@@ -465,7 +465,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.graphinica.com/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/graphinica
     notes: 'Wikipedia: 280 employees (July 2024).'
@@ -491,7 +491,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.omnibusjp.com/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/omnibus_japan/
       youtube: https://www.youtube.com/channel/UCQfyJm_Xnzbkch4gxgI5Tdw
@@ -518,7 +518,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.tms-e.co.jp/company/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/channel/UCkVvAm5jb62IMIJQj4wPVGA
       x: https://x.com/TMSent_jp/
@@ -542,7 +542,7 @@ studios:
       - Tokyo Ghoul
     added_at: '2026-10-31T05:09:10.954Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/channel/UC0U2GG9WNndvt1wK41l9iqg
     notes: 'Wikipedia: 240 employees (Apr 2025).'
@@ -566,7 +566,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.pa-works.jp/recruit
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/channel/UC1UbxgF-nISLr324cs70h5w
       x: https://twitter.com/PAWORKS_info
@@ -591,7 +591,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://davidproduction.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/DPInc_official
     notes: 'Wikipedia: 105 employees (June 2026).'
@@ -615,7 +615,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://a1p.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/a1pictureschannel
       x: https://twitter.com/a1pictures
@@ -639,7 +639,7 @@ studios:
       - March Comes In like a Lion
     added_at: '2026-10-31T05:09:10.954Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: 120 staff (170 incl. contractors).'
   - name: SOLA DIGITAL ARTS
     url: https://www.sola-digital.com/
@@ -667,8 +667,8 @@ studios:
       - Tekken 7 (opening movie)
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.sola-digital.com/recruitment/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/SolaDigitalArts
     notes: 'About page: 110 employees (Dec 2021); foundation date 2009 though footer says 2010.'
@@ -693,7 +693,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.satelight.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/satelight_inc
     notes: 'Wikipedia: 100 employees.'
@@ -729,7 +729,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.ilca.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/ILCA_jp
     notes: 'Company page: 397 employees (Apr 2025).'
@@ -750,7 +750,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.sublimation.co.jp/recruit-2/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://youtube.com/@sublimationchannel
       x: https://x.com/Sublimation_Inc
@@ -774,7 +774,7 @@ studios:
       - 'Avatar: The Last Airbender'
     added_at: '2026-10-31T05:09:10.954Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: M83
     url: https://www.m83.co.kr/
     description: VFX studio in Seoul delivering visual effects for Korean films, drama and streaming series, with in-house AI production tools.
@@ -795,7 +795,7 @@ studios:
     added_at: '2026-10-31T05:09:10.954Z'
     careers: https://www.m83.co.kr/recruit/recruit.php
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: ko.wikipedia lists 113 employees; KOSDAQ-listed since 2024.
   - name: Macrograph
     url: https://www.macrograph.co.kr/
@@ -815,7 +815,7 @@ studios:
       - The Wandering Earth
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/user17004593
       youtube: https://www.youtube.com/@Macrographvfx
@@ -837,7 +837,7 @@ studios:
       - Super Z
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: 4th Creative Party
     url: https://www.4thparty.co.kr/
     description: VFX and CG studio in Seoul working on Korean feature films, animated series and theme park ride films.
@@ -858,8 +858,8 @@ studios:
       - Okja
       - The Handmaiden
     added_at: '2026-10-31T05:09:10.955Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     notes: 'Site responds but serves a self-signed certificate, so content could not be read. ko.wikipedia: 164 employees; predecessor EON Digital Film founded 1996.'
   - name: Fantawild Animation
     url: https://www.hqftdm.com/
@@ -877,7 +877,7 @@ studios:
       - Boonie Bears
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Light Chaser Animation
     url: https://www.zhuiguang.com/
     description: CG feature animation studio in Beijing making theatrical films drawn from Chinese myth and history.
@@ -894,8 +894,8 @@ studios:
       - 'New Gods: Nezha Reborn'
       - Chang'an
     added_at: '2026-10-31T05:09:10.955Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     notes: Own site refused connection from outside China (likely geo-restricted); Wikipedia lists 2025 and 2026 releases, so active.
   - name: miHoYo
     url: https://www.mihoyo.com/
@@ -915,7 +915,7 @@ studios:
       - Zenless Zone Zero
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: 5,000 employees (2022). Homepage is a JS shell but live.'
   - name: Cygames
     url: https://www.cygames.co.jp/
@@ -938,7 +938,7 @@ studios:
       - Shadowverse
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 3,644 employees (2023) and 2026 news, so active.'
   - name: Arc System Works
     url: https://www.arcsystemworks.jp/
@@ -958,7 +958,7 @@ studios:
       - BlazBlue
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/arcsystemworks
       x: https://x.com/ARCSY_PR
@@ -982,7 +982,7 @@ studios:
       - Unicorn Overlord
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://x.com/vanillaware_boy
     notes: 'Wikipedia: 39 employees (2024).'
@@ -1010,7 +1010,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.cc2.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cyberconnect2/
       youtube: https://www.youtube.com/user/cc2channel/featured
@@ -1039,7 +1039,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://www.monolithsoft.co.jp/recruit/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/MONOLITHSOFT
     notes: 'Wikipedia: 344 employees (2025).'
@@ -1061,7 +1061,7 @@ studios:
       - Throne and Liberty
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: about 3,100 employees.'
   - name: KRAFTON
     url: https://www.krafton.com/
@@ -1081,7 +1081,7 @@ studios:
       - TERA
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 3,400+ employees; core studio Bluehole dates to 2007.'
   - name: Smilegate
     url: https://www.smilegate.com/en
@@ -1102,7 +1102,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://careers.smilegate.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: about 3,300 employees (2023).'
   - name: Red Candle Games
     url: https://www.redcandlegames.com/
@@ -1122,7 +1122,7 @@ studios:
       - Nine Sols
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/channel/UCzFIdV34VVQpCg_2ij6UdpQ
       x: https://twitter.com/redcandlegames
@@ -1144,8 +1144,8 @@ studios:
       - Deemo
       - Sdorica
     added_at: '2026-10-31T05:09:10.955Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: 258 employees (2022).'
   - name: NeoBards Entertainment
     url: https://www.neobards.com/
@@ -1170,8 +1170,8 @@ studios:
       - Dead Rising Deluxe Remaster
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://neobards.com/careers/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/neobards
       x: https://twitter.com/neobards
@@ -1203,7 +1203,7 @@ studios:
     added_at: '2026-10-31T05:09:10.955Z'
     careers: https://tencent.wd1.myworkdayjobs.com/timi_careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/timistudios/
       x: https://twitter.com/timistudios
@@ -1224,5 +1224,5 @@ studios:
       - Pleasant Goat and Big Big Wolf
     added_at: '2026-10-31T05:09:10.955Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: 'Wikipedia: about 100 to 200 employees; Alpha Group subsidiary. Site footer copyright ends 2021 but site is up.'

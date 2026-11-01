@@ -18,7 +18,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://mrxfx.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/_mrxfx/
       youtube: https://www.youtube.com/@MRXINCVFX
@@ -43,7 +43,7 @@ studios:
     founded: 2002
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lumapictures/
       linkedin: https://www.linkedin.com/company/luma-inc
@@ -63,7 +63,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.jammvisual.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/jamm.vfx/
       linkedin: https://www.linkedin.com/company/jamm-visual
@@ -82,8 +82,8 @@ studios:
     size: small
     founded: 1985
     added_at: '2026-10-31T05:09:10.965Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/pixel-magic/
   - name: Alchemy 24
@@ -101,7 +101,7 @@ studios:
     founded: 2007
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/alchemy24/
       vimeo: https://vimeo.com/alchemy24vfx
@@ -121,7 +121,7 @@ studios:
     founded: 2004
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/sinkingshipent/
       linkedin: https://www.linkedin.com/company/sinking-ship-entertainment/
@@ -147,7 +147,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://jobs.vinefx.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vine.fx/
       linkedin: https://www.linkedin.com/company/vinefx
@@ -173,7 +173,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://careers.realtimeuk.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/realtime_studio
       linkedin: https://www.linkedin.com/company/realtime-studio
@@ -200,7 +200,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.flixinteractive.com/#careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/flixinteractive/
       linkedin: https://www.linkedin.com/company/flix-interactive-limited/
@@ -221,7 +221,7 @@ studios:
     founded: 2011
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/arqui9
       linkedin: https://www.linkedin.com/company/arqui9-visualisation
@@ -243,7 +243,7 @@ studios:
     founded: 2019
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/secchi_smith/
       linkedin: https://www.linkedin.com/company/secchi-smith
@@ -267,7 +267,7 @@ studios:
     founded: 1999
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/visualisationone/
       linkedin: https://www.linkedin.com/company/visualisation-one-ltd
@@ -286,7 +286,7 @@ studios:
     founded: 2003
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Animation Vertigo
     url: https://www.animationvertigo.com/
     description: Motion capture services firm near Salt Lake City doing mocap tracking, cleanup and animation for games, film and TV, with a team in Manila.
@@ -308,7 +308,7 @@ studios:
     founded: 2004
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Homepage blocks bots (503) for curl; WebFetch showed it live with 2026 copyright.
   - name: SuperAlloy Interactive
     url: https://superalloyinteractive.com/
@@ -330,7 +330,7 @@ studios:
       - The Electric State
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/superalloyinteractive/
       linkedin: https://www.linkedin.com/company/superalloy-interactive/
@@ -354,7 +354,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.trackvfx.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/trackvfx/
       linkedin: https://www.linkedin.com/company/trackvfx/
@@ -379,7 +379,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.distilleryvfx.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/distilleryvfx/
       linkedin: https://www.linkedin.com/company/distilleryvfx
@@ -396,7 +396,7 @@ studios:
     founded: 2019
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/blackkitestudios
       linkedin: https://www.linkedin.com/company/blackkitestudios
@@ -423,7 +423,7 @@ studios:
     founded: 1997
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/realbyfake/
       linkedin: https://www.linkedin.com/company/fake-studio/
@@ -442,7 +442,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.millerhare.com/jobs.htm
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/wearemillerhare
       linkedin: https://www.linkedin.com/company/miller-hare-limited/
@@ -463,7 +463,7 @@ studios:
     founded: 2001
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/glasscanvascgi/
       linkedin: https://www.linkedin.com/company/glass-canvas/
@@ -486,7 +486,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.baobabstudios.com/about#careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/baobabstudios
       linkedin: https://www.linkedin.com/company/baobab-studios-inc-
@@ -509,7 +509,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://fettleanimation.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/fettleanimation/
       linkedin: https://www.linkedin.com/company/fettle-animation
@@ -537,7 +537,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://clothcat.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/clothcatstudio/
       linkedin: https://uk.linkedin.com/company/cloth-cat-studio
@@ -562,7 +562,7 @@ studios:
     added_at: '2026-10-31T05:09:10.965Z'
     careers: https://www.mainframe.ca/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mainframestudios/
       youtube: https://www.youtube.com/@MainframeStudios
@@ -588,7 +588,7 @@ studios:
       - 'America: The Motion Picture'
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Homepage meta description shows unrelated text (concrete pumps), but page body is the studio's; may need a look.
   - name: Lexhag
     url: https://www.lexhag.co.uk/
@@ -608,7 +608,7 @@ studios:
       - Black Doves
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Glitch Productions
     url: https://www.glitchprod.com/
     description: Independent animation studio in Sydney making original animated web series for YouTube, aimed at teen and young adult audiences.
@@ -629,7 +629,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://www.glitchprod.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/glitch_prod
       youtube: https://www.youtube.com/@GLITCH
@@ -654,7 +654,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://bigant.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bigantstudios
       linkedin: https://au.linkedin.com/company/big-ant-studios
@@ -679,7 +679,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://www.halfbrick.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/halfbrick
       youtube: https://www.youtube.com/user/HalfbrickStudios
@@ -703,7 +703,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://leagueofgeeks.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/league.of.geeks
       youtube: https://www.youtube.com/user/LeagueofGeeks
@@ -727,7 +727,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://playsidestudios.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/playsidestudios
       linkedin: https://au.linkedin.com/company/playside
@@ -759,7 +759,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://smgstudio.com/jobs/eoi
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/weareSMGstudio
       x: https://twitter.com/SMGstudio
@@ -780,7 +780,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://www.mightykingdom.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mightykingdom
       linkedin: https://www.linkedin.com/company/mighty-kingdom
@@ -801,7 +801,7 @@ studios:
       - Ty the Tasmanian Tiger
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/TheKromeStudios
       x: https://twitter.com/kromestudios
@@ -824,7 +824,7 @@ studios:
       - The Tales from Sanctuary City
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/likeaphoton
       linkedin: https://au.linkedin.com/company/like-a-photon
@@ -846,7 +846,7 @@ studios:
     careers: http://careers.princessbento.com/
     reel: https://www.princessbento.com/showreel
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/princessbentostudio
       linkedin: https://www.linkedin.com/company/princess-bento-studios
@@ -866,7 +866,7 @@ studios:
       - Elvis
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://au.linkedin.com/company/resin
   - name: Studio Blackbird
@@ -883,7 +883,7 @@ studios:
     founded: 2013
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Formation Effects
     url: https://formationeffects.com/
     description: Brisbane practical and visual effects company making creatures, specialty props, FX makeup and VFX for film and television.
@@ -902,7 +902,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://formationeffects.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/formation.effects
       linkedin: https://www.linkedin.com/company/formation-effects
@@ -923,7 +923,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://www.future-associate.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/future-associate
       vimeo: https://vimeo.com/user109823447
@@ -949,7 +949,7 @@ studios:
       - Beast of War
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Stage23
     url: https://www.stage23.com/
     description: Artist-run VFX and animation studio at Fox Studios Sydney creating design-led visual effects for film and television.
@@ -968,7 +968,7 @@ studios:
     founded: 2017
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/stage23vfx
       linkedin: https://www.linkedin.com/company/stage23
@@ -986,7 +986,7 @@ studios:
       - film
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/supervixen_creative
       linkedin: https://www.linkedin.com/company/supervixen
@@ -1006,7 +1006,7 @@ studios:
     founded: 2002
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mukpuddy
       youtube: https://www.youtube.com/user/mukpuddy
@@ -1030,7 +1030,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://grindinggear.com/?page=careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     notes: Majority owned by Tencent since 2018.
   - name: Ninja Kiwi
     url: https://ninjakiwi.com/
@@ -1052,7 +1052,7 @@ studios:
       - Bloons Tower Defense
     added_at: '2026-10-31T05:09:10.966Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/c/NinjaKiwiGames
     notes: Owned by Modern Times Group since 2021.
@@ -1072,7 +1072,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://apply.workable.com/pikpok/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/pikpokofficial
       linkedin: https://www.linkedin.com/company/pikpok
@@ -1099,7 +1099,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://careers.rocketwerkz.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rocketwerkzstudios
       youtube: https://www.youtube.com/rocketwerkz
@@ -1123,7 +1123,7 @@ studios:
     added_at: '2026-10-31T05:09:10.966Z'
     careers: https://www.wetaworkshop.com/about-us/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wetaworkshop
       linkedin: https://www.linkedin.com/company/weta-workshop-ltd

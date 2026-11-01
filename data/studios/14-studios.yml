@@ -16,7 +16,7 @@ studios:
       - games
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/centroid
       x: https://twitter.com/Centroid3D
@@ -39,7 +39,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.audiomotion.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Imaginarium Studios
     url: https://www.imaginariumstudios.co.uk/
     description: Performance capture and virtual production company at Pinewood Studios, formed by Andy Serkis.
@@ -55,7 +55,7 @@ studios:
     founded: 2011
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/theimaginariumstudios/
       linkedin: https://www.linkedin.com/company/2567269
@@ -86,7 +86,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://vimeo.com/891980434?share=copy
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/officialhouseofmoves/
       linkedin: https://www.linkedin.com/company/house-of-moves/
@@ -108,7 +108,7 @@ studios:
       - episodic
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/animatrik-film-design/
       x: https://twitter.com/Animatrik
@@ -131,7 +131,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://metricminds.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/metricminds/
       linkedin: https://www.linkedin.com/company/125280/
@@ -162,7 +162,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.brickvisual.com/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/brickvisual/
       linkedin: https://www.linkedin.com/company/brick-visual/
@@ -194,7 +194,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.binyanstudios.com/what-we-do/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/binyanstudios/
       linkedin: https://www.linkedin.com/company/binyan-studios-3d-visualization
@@ -226,8 +226,8 @@ studios:
       - One West End
       - New York By Gehry
     added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dboxglobal/
       linkedin: https://www.linkedin.com/company/dboxglobal/
@@ -243,7 +243,7 @@ studios:
     size: small
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/luxigon/
       linkedin: https://www.linkedin.com/company/luxigon
@@ -263,7 +263,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.squintopera.com/join/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/squintopera
       linkedin: https://www.linkedin.com/company/squint-opera
@@ -288,8 +288,8 @@ studios:
       - Reno-Tahoe International Airport
       - Los Angeles Aerial Rapid Transit
     added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
   - name: Neoscape
     url: https://neoscape.com/
     description: Creative agency for real estate and architecture offering renderings, film, animation, digital twins, VR, branding and web.
@@ -314,7 +314,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://neoscape.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/neoscapeinc/
       linkedin: https://www.linkedin.com/company/neoscape
@@ -335,7 +335,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.recentspaces.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/recentspaces/
       linkedin: https://www.linkedin.com/company/recent-spaces
@@ -357,7 +357,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.atchain.com/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/atchain/
       linkedin: https://www.linkedin.com/company/atchain/
@@ -382,7 +382,7 @@ studios:
       - Gonio
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/pixelflakesldn/
       linkedin: https://www.linkedin.com/company/pixelflakes/
@@ -400,7 +400,7 @@ studios:
     founded: 1989
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hayesdavidson/
       linkedin: https://www.linkedin.com/company/hayes-davidson/
@@ -423,7 +423,7 @@ studios:
       - Portland Museum of Art
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/darcstudio_/
       linkedin: https://www.linkedin.com/company/darcstudio/
@@ -445,7 +445,7 @@ studios:
       - Canary Wharf
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/methanoia.studio/
       linkedin: https://www.linkedin.com/company/methanoia
@@ -462,7 +462,7 @@ studios:
     founded: 2010
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dougandwolfviz/
   - name: VIZE
@@ -480,7 +480,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://vize.com/index.php?tag=jobs%2Fopenings%2Fcareer
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vizerenderings
   - name: Cityscape Digital
@@ -497,7 +497,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.cityscapedigital.co.uk/recruitment
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cityscapedigital/
       linkedin: https://www.linkedin.com/company/cityscape-digital-ltd/
@@ -521,8 +521,8 @@ studios:
       - IBM
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.miysis.be/en/working
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/miysis_3d/
       linkedin: https://www.linkedin.com/company/miysis-sprl/
@@ -551,7 +551,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://jobs.indg.com/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/indg
   - name: Taylor James
@@ -582,7 +582,7 @@ studios:
       - FIJI Water
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/taylorjamesltd/
       linkedin: https://www.linkedin.com/company/taylor-james/
@@ -609,7 +609,7 @@ studios:
       - 'Bang & Olufsen: Beolab 19'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/arsthanea
       linkedin: https://www.linkedin.com/company/ars-thanea
@@ -643,7 +643,7 @@ studios:
       - Bang & Olufsen
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/happy_finish/
       linkedin: https://www.linkedin.com/company/happyfinish/
@@ -668,7 +668,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.lightshape.net/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/_lightshape_/
       linkedin: https://www.linkedin.com/company/lightshape/
@@ -693,7 +693,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://pikcells.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/pikcellsuk/
       linkedin: https://www.linkedin.com/company/pikcells
@@ -726,7 +726,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.bloomimages.de/career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bloomimages/
       linkedin: https://www.linkedin.com/company/bloomimages-gmbh
@@ -753,7 +753,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.arxcreative.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/arx.creative
   - name: Visualhouse
@@ -782,7 +782,7 @@ studios:
     founded: 2006
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/visualhouse.co
       linkedin: https://www.linkedin.com/company/visualhouse
@@ -810,7 +810,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.oddy.works/legal/conduct
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/oddy_works/
       linkedin: https://www.linkedin.com/company/oddy_/
@@ -843,7 +843,7 @@ studios:
     founded: 2007
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Omegarender
     url: https://omegarender.com/
     description: 3D visualization studio, now trading as OMEGA, offering CGI, property branding and sales tools for real estate developers.
@@ -862,7 +862,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://omegarender.com/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/omegarender.studio/
       linkedin: https://www.linkedin.com/company/omegarender-llp/
@@ -883,7 +883,7 @@ studios:
       - Steinacker Kloten
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nightnurseimages
       linkedin: https://www.linkedin.com/company/nightnurse-images
@@ -904,7 +904,7 @@ studios:
       - Komische Oper Berlin
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/expressiv
       youtube: https://www.youtube.com/user/expressivat
@@ -919,7 +919,7 @@ studios:
       - archviz
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/zoomvp/
   - name: ArtefactoryLab
@@ -932,8 +932,8 @@ studios:
       - archviz
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.artefactorylab.com/nous-rejoindre/
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/artefactorylab/
       linkedin: https://www.linkedin.com/company/artefactorylab3/
@@ -954,7 +954,7 @@ studios:
       - Mercedes Platz Berlin
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/archimation
   - name: Peak Studio
@@ -972,7 +972,7 @@ studios:
       - Noho One
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       behance: https://www.behance.net/peakstudio
   - name: HISM
@@ -992,7 +992,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.hism.studio/hism-careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/hism.studio/
       linkedin: https://www.linkedin.com/company/hism-eu/
@@ -1022,7 +1022,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://jobs.punctum-images.com/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/punctum_images/
       linkedin: https://www.linkedin.com/company/punctum-images/
@@ -1046,7 +1046,7 @@ studios:
       - 101 Spadina
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/normandthegang/
       linkedin: https://www.linkedin.com/company/norm-li
@@ -1072,7 +1072,7 @@ studios:
       - Mayfield
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/assemblystudios/
       linkedin: https://www.linkedin.com/company/assembly-studios/
@@ -1095,7 +1095,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://zoa3d.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/zoa3d
       linkedin: https://www.linkedin.com/company/zoastudio
@@ -1119,7 +1119,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.lunas.pro/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lunas.inc/
       linkedin: https://www.linkedin.com/company/lunas-visualization/
@@ -1137,7 +1137,7 @@ studios:
     founded: 2011
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/renderatolyesi34/
       youtube: https://www.youtube.com/channel/UCIugRvZueU01iOUeSrYwXHA
@@ -1154,7 +1154,7 @@ studios:
       - Waterfall Midrand
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/visoo_emotive_imagery/
       vimeo: https://vimeo.com/visoo
@@ -1176,7 +1176,7 @@ studios:
       - Centre Pompidou Francilien Massy
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/golem_images/
       linkedin: https://www.linkedin.com/company/golem-images/

@@ -19,7 +19,7 @@ studios:
       - Abuela Tremenda
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/usert38
       linkedin: https://www.linkedin.com/company/usert38
@@ -40,7 +40,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://3doubles.factorial.es/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/3doublesprod/
       linkedin: https://www.linkedin.com/company/3doublesproducciones/
@@ -71,7 +71,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://lavalabs.de/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lavalabs/
       linkedin: https://www.linkedin.com/company/lavalabs-moving-images/
@@ -98,7 +98,7 @@ studios:
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://ufxstudios.com/join-us/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ufx.studios/
       linkedin: https://be.linkedin.com/company/umedia-vfx
@@ -121,8 +121,8 @@ studios:
       - Man on Fire
     added_at: '2026-10-31T05:09:10.957Z'
     careers: https://ssvfx.ie/about#jobs
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ssvfx.ie/
       x: https://x.com/ssvfx
@@ -146,7 +146,7 @@ studios:
       - Tråder (Threads)
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mikrofilm_oslo/
       vimeo: https://vimeo.com/mikrofilm
@@ -169,8 +169,8 @@ studios:
       - 'Kosmix 2: Underwater'
       - 'Little Eve: Stories of Planet Earth'
     added_at: '2026-10-31T05:09:10.957Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/krutart_studio/
       linkedin: https://www.linkedin.com/company/krutart
@@ -206,7 +206,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://j.studio/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/juice.pl/
       linkedin: https://www.linkedin.com/company/juicepl
@@ -226,7 +226,7 @@ studios:
     founded: 2009
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/fumistudio/
       linkedin: https://www.linkedin.com/company/fumi-studio
@@ -252,7 +252,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.magiclab.film/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/magiclab-s-r-o-/
   - name: Giant Animation
@@ -272,8 +272,8 @@ studios:
       - Sherwood
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://giantanimation.ie/careers/
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/giantanimation/
       linkedin: https://www.linkedin.com/company/giant-creative/
@@ -296,7 +296,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://bouldermedia.tv/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bouldermedia/
       x: https://twitter.com/BoulderMediaLtd
@@ -310,7 +310,7 @@ studios:
       - archviz
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Nadasdy Film
     url: https://www.nadasdyfilm.ch/
     description: Geneva studio producing and making animated series, shorts and features in drawn animation, CGI, stop-motion and rotoscoping.
@@ -327,7 +327,7 @@ studios:
     founded: 2001
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nadasdyfilm/
       linkedin: https://www.linkedin.com/company/nadasdy-film/
@@ -344,7 +344,7 @@ studios:
     founded: 1957
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nukufilm/
       linkedin: https://www.linkedin.com/company/nukufilm/
@@ -362,7 +362,7 @@ studios:
     founded: 1994
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/eesti_joonisfilm/
       vimeo: https://vimeo.com/joonisfilm
@@ -383,7 +383,7 @@ studios:
       - Thelma's Perfect Birthday
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Atom Art
     url: https://atomart.lv/
     description: Independent animation studio in Riga producing auteur shorts and animated features that screen at Berlinale and Annecy.
@@ -399,7 +399,7 @@ studios:
       - Hush Hush Little Bear
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/animation_studio_atom_art/
   - name: Polder Animation
@@ -420,7 +420,7 @@ studios:
       - Dr. Panda
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: arx anima
     url: https://www.arxanima.com/
     description: CG studio network based in Vienna with studios in Frankfurt, Leipzig and Madrid, producing animated features, series, VFX and commercials.
@@ -446,8 +446,8 @@ studios:
       - Rubikon
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.arxanima.com/career
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
   - name: Sardinha em Lata
     url: https://www.sardinhaemlata.com/
     description: Portuguese animation producer and studio making feature films, series and shorts, plus commissioned and advertising work.
@@ -463,7 +463,7 @@ studios:
     founded: 2007
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/sardinha.em.lata/
       vimeo: https://vimeo.com/sardinhaemlata
@@ -480,8 +480,8 @@ studios:
     markets:
       - episodic
     added_at: '2026-10-31T05:09:10.958Z'
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/kavaleer_insta/
       linkedin: https://www.linkedin.com/company/kavaleer-productions/
@@ -508,7 +508,7 @@ studios:
       - film
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/3lateral/
       linkedin: https://www.linkedin.com/company/3lateral
@@ -529,7 +529,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.stormstudios.no/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/stormstudiosvfx/
       linkedin: https://www.linkedin.com/company/stormstudiosnorway
@@ -549,7 +549,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.orcastudios.es/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/orcavfx/
       linkedin: https://www.linkedin.com/company/orcavfx
@@ -574,7 +574,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.quanticdream.com/en/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/quanticdreamgames
       youtube: https://www.youtube.com/channel/UCf1dGULY0opzBbE3XEXWvWg
@@ -600,7 +600,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://dont-nod.com/en/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dontnod_ent/
       x: https://twitter.com/DONTNOD_Ent
@@ -620,7 +620,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.machinegames.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/machinegames
       x: https://twitter.com/machinegames
@@ -640,7 +640,7 @@ studios:
       - 'Metroid: Samus Returns'
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mercurysteam_entertainment/
       youtube: https://www.youtube.com/channel/UCT56v9xTV0UnQY63I840Saw
@@ -661,7 +661,7 @@ studios:
       - 'Kingdom Come: Deliverance II'
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/warhorsestudios
       youtube: https://youtube.com/warhorsestudios
@@ -684,7 +684,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://careers.bohemia.net/en
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bohemiainteractive
       linkedin: https://www.linkedin.com/company/bohemiainteractive
@@ -708,7 +708,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://careers.smartrecruiters.com/PeopleCanFly
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/peoplecanfly/
       linkedin: https://www.linkedin.com/company/people-can-fly
@@ -732,7 +732,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://flyingwildhog.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/flying_wild_hog/
       x: https://twitter.com/flying_wild_hog
@@ -754,7 +754,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://11bitstudios.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/11bitstudios/
       youtube: https://www.youtube.com/11bitstudios/
@@ -780,7 +780,7 @@ studios:
       - 'The Matrix Awakens: An Unreal Engine 5 Experience'
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/mimic_productions/
       linkedin: https://www.linkedin.com/company/mimic-productions
@@ -810,7 +810,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://www.maga-animation.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/maga_animation_studio/
       linkedin: https://www.linkedin.com/company/maga-animation-studio
@@ -831,7 +831,7 @@ studios:
     added_at: '2026-10-31T05:09:10.958Z'
     careers: https://bighugfx.com/jobs/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/bighug-fx-gmbh/
       vimeo: https://vimeo.com/user48063895
@@ -851,7 +851,7 @@ studios:
       - Sidi Kaba
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/fabianfred
       vimeo: https://www.vimeo.com/fabianfred
@@ -872,7 +872,7 @@ studios:
       - Tu mourras moins bête
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/Folimage
       linkedin: https://www.linkedin.com/company/folimage
@@ -893,7 +893,7 @@ studios:
     founded: 1998
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vivementlundi_prod/
       linkedin: https://www.linkedin.com/company/les-productions-vivement-lundi/
@@ -920,7 +920,7 @@ studios:
     founded: 2000
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/2-minutes
       youtube: https://www.youtube.com/channel/UC0xHqf5-hNptj4EaF-dmNrA
@@ -942,7 +942,7 @@ studios:
       - Goat Girl
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/thuristarproductions/
       linkedin: https://www.linkedin.com/company/1071235/
@@ -958,7 +958,7 @@ studios:
       - archviz
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: IO Interactive
     url: https://ioi.dk/
     description: Copenhagen game developer and publisher of the Hitman series and 007 First Light, with studios in Malmö, Barcelona and Brighton.
@@ -982,7 +982,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://ioi.dk/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ioi_studios
       linkedin: https://www.linkedin.com/company/iointeractive/
@@ -1003,7 +1003,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://jobs.arrowheadgamestudios.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/arrowheadgamestudios/
       x: https://twitter.com/arrowheadgs
@@ -1021,7 +1021,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://avalanchestudios.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/avalanchestudios/
       youtube: https://www.youtube.com/channel/UCSP5bAmRzaAXPcxnJablgYw
@@ -1043,7 +1043,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://careers.embark-studios.com/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/12648322/
       x: https://x.com/embarkstudios
@@ -1061,7 +1061,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://www.frozenbyte.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/frozenbytegames
       youtube: https://www.youtube.com/user/frozenbytegames
@@ -1088,7 +1088,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://www.funcom.com/careers-in-funcom/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/funcom
       youtube: https://www.youtube.com/user/Funcom
@@ -1110,7 +1110,7 @@ studios:
     added_at: '2026-10-31T05:09:10.959Z'
     careers: https://playdead.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/playdeadgames/
       linkedin: https://www.linkedin.com/company/2250376/

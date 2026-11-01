@@ -9,7 +9,7 @@ entries:
     readme_tags:
       - India Community
       - Events
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -23,7 +23,7 @@ entries:
     readme_tags:
       - Portfolios
       - Pro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Game Art
       - Forum
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Agora Community
     url: https://agora.community/
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - 3D Artists
       - Community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Skool
       - Pro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -81,7 +81,7 @@ entries:
     readme_tags:
       - Blender
       - Forum
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -97,7 +97,7 @@ entries:
     readme_tags:
       - ZBrush
       - Forum
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -111,7 +111,7 @@ entries:
     readme_tags:
       - Industry News
       - Tutorials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -125,7 +125,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -141,7 +141,7 @@ entries:
     readme_tags:
       - Pro Community
       - Forum
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - Houdini
       - Forum Thread
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -169,7 +169,7 @@ entries:
     readme_tags:
       - Houdini
       - KineFX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -183,8 +183,8 @@ entries:
     readme_tags:
       - Unity
       - Shooter Forum
-    url_last_verified: '2026-10-05'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: ok
     tags:
       platform:
         - web
@@ -201,8 +201,8 @@ entries:
     readme_tags:
       - Blender
       - Community
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: broken
     tags:
       platform:
         - web
@@ -217,7 +217,7 @@ entries:
     readme_tags:
       - Blender
       - News
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -233,7 +233,7 @@ entries:
     readme_tags:
       - Blender
       - Feature Requests
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -249,7 +249,7 @@ entries:
     readme_tags:
       - AI Models
       - Sharing
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -265,7 +265,7 @@ entries:
     readme_tags:
       - Unreal
       - Learning
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -281,7 +281,7 @@ entries:
     readme_tags:
       - Dev Blog
       - Community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -295,7 +295,7 @@ entries:
     readme_tags:
       - Creative Commons
       - Audio
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -311,7 +311,7 @@ entries:
     readme_tags:
       - GameDev
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -327,7 +327,7 @@ entries:
     readme_tags:
       - Discord
       - Automation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -341,7 +341,7 @@ entries:
     readme_tags:
       - HuggingFace
       - LLMs
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -357,7 +357,7 @@ entries:
     readme_tags:
       - Unreal
       - VR Template
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -373,7 +373,7 @@ entries:
     readme_tags:
       - Unity
       - GitHub Org
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -390,7 +390,7 @@ entries:
     readme_tags:
       - AI Models
       - Hub
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -406,7 +406,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Forum Thread
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -420,8 +420,8 @@ entries:
     readme_tags:
       - VR
       - Cardboard
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     notes: Google+ shut down.
     deprecated: true
     tags:
@@ -438,7 +438,7 @@ entries:
     readme_tags:
       - Unity
       - Reddit
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -454,7 +454,7 @@ entries:
     readme_tags:
       - Blender
       - Reddit
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -470,7 +470,7 @@ entries:
     readme_tags:
       - Generative AI
       - Reddit
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -486,7 +486,7 @@ entries:
     readme_tags:
       - Virtual Production
       - Reddit
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -502,7 +502,7 @@ entries:
     readme_tags:
       - Unreal
       - Reddit
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -518,7 +518,7 @@ entries:
     readme_tags:
       - Motion Design
       - Newsletter
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -536,7 +536,7 @@ entries:
     readme_tags:
       - Reddit
       - Low-Poly
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:

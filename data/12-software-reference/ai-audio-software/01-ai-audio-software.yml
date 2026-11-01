@@ -16,7 +16,7 @@ entries:
     readme_tags:
       - Song Gen
       - 100M users
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -37,7 +37,7 @@ entries:
     readme_tags:
       - Electronic/Pop
       - Commercial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -58,7 +58,7 @@ entries:
     readme_tags:
       - Voice Cloning
       - TTS
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -77,8 +77,8 @@ entries:
     readme_tags:
       - Open Model
       - Music + SFX
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     deprecated: true
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -100,8 +100,8 @@ entries:
     readme_tags:
       - Singing
       - Expression
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
   - name: AIVA
@@ -124,7 +124,7 @@ entries:
     readme_tags:
       - Orchestral
       - Scoring
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -146,7 +146,7 @@ entries:
     readme_tags:
       - Open Source
       - Multilingual
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -170,7 +170,7 @@ entries:
     readme_tags:
       - Zero-Shot
       - Voice Clone
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -193,7 +193,7 @@ entries:
     readme_tags:
       - Open Source
       - Lyrics→Song
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
@@ -215,7 +215,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
     added_at: '2026-10-05T08:51:07.022Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Non-Commercial
@@ -239,7 +239,7 @@ entries:
       - ai-ml-for-cg/ai-audio-music
     notes: Tencent community license excludes the EU, UK and South Korea.
     added_at: '2026-10-05T08:51:07.023Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -264,7 +264,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
     added_at: '2026-10-05T08:51:07.025Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -288,7 +288,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/ai-audio-music
     added_at: '2026-10-05T08:51:07.026Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium

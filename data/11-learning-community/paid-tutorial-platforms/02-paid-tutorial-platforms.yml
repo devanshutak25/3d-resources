@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - Blender
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Shaders
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -46,7 +46,7 @@ entries:
     readme_tags:
       - Rive
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - Rive
       - SwiftUI
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -82,7 +82,7 @@ entries:
     readme_tags:
       - Unreal
       - Rive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -102,7 +102,7 @@ entries:
     readme_tags:
       - Unity
       - VR
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -122,7 +122,7 @@ entries:
     readme_tags:
       - Unity
       - SteamVR
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -142,7 +142,7 @@ entries:
     readme_tags:
       - Unity
       - Vive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -162,7 +162,7 @@ entries:
     readme_tags:
       - Unity
       - Vive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -182,7 +182,7 @@ entries:
     readme_tags:
       - Unity
       - Vive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -202,7 +202,7 @@ entries:
     readme_tags:
       - Unity
       - VRTK
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -222,7 +222,7 @@ entries:
     readme_tags:
       - Houdini
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -242,7 +242,7 @@ entries:
     readme_tags:
       - VFX
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -262,7 +262,7 @@ entries:
     readme_tags:
       - Blender
       - Unreal
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -283,7 +283,7 @@ entries:
     readme_tags:
       - Houdini
       - Stylized
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -303,7 +303,7 @@ entries:
     readme_tags:
       - Blender
       - Environment
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -323,7 +323,7 @@ entries:
     readme_tags:
       - Blender
       - Environment
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -341,7 +341,7 @@ entries:
     readme_tags:
       - Unreal
       - Materials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -363,7 +363,7 @@ entries:
     readme_tags:
       - Unreal
       - Optimization
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -383,7 +383,7 @@ entries:
     readme_tags:
       - Animation
       - VFX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -401,7 +401,7 @@ entries:
     readme_tags:
       - Unreal
       - VFX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -421,7 +421,7 @@ entries:
     readme_tags:
       - Unreal
       - Color
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -443,7 +443,7 @@ entries:
     readme_tags:
       - Unreal
       - Tips
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -463,7 +463,7 @@ entries:
     readme_tags:
       - Unreal
       - Gamedev
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -483,7 +483,7 @@ entries:
     readme_tags:
       - AI
       - ComfyUI
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -503,7 +503,7 @@ entries:
     readme_tags:
       - MoCap
       - Metahuman
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -525,7 +525,7 @@ entries:
     readme_tags:
       - 3DGS
       - Tutorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -545,7 +545,7 @@ entries:
     readme_tags:
       - WebGL
       - JavaScript
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -565,7 +565,7 @@ entries:
     readme_tags:
       - Unity
       - Character
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -589,7 +589,7 @@ entries:
     readme_tags:
       - Unity
       - ECS
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -613,7 +613,7 @@ entries:
     readme_tags:
       - Unity
       - GitHub
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -633,7 +633,7 @@ entries:
     readme_tags:
       - MIT
       - CG Theory
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -651,7 +651,7 @@ entries:
     readme_tags:
       - C
       - Renderer
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -669,7 +669,7 @@ entries:
     readme_tags:
       - Math
       - Vectors
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -687,7 +687,7 @@ entries:
     readme_tags:
       - MIT
       - Rendering
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       skill:
@@ -703,7 +703,7 @@ entries:
     readme_tags:
       - WebGL
       - Interactive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -723,7 +723,7 @@ entries:
     readme_tags:
       - 3DGS
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       skill:
@@ -741,7 +741,7 @@ entries:
     readme_tags:
       - 3DGS
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       skill:
@@ -759,7 +759,7 @@ entries:
     readme_tags:
       - CMU
       - Rendering
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       skill:
@@ -775,7 +775,7 @@ entries:
     readme_tags:
       - Animation
       - Programming
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -796,7 +796,7 @@ entries:
     readme_tags:
       - Rebelway
       - ML
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -816,8 +816,8 @@ entries:
     readme_tags:
       - Creative Arts
       - Courses
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -834,7 +834,7 @@ entries:
     readme_tags:
       - Sculpting
       - Characters
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -870,5 +870,5 @@ entries:
     readme_tags:
       - Course
       - Maya Molecular
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok

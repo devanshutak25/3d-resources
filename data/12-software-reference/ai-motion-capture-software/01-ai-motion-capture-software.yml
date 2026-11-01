@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - High Accuracy
       - Multi-Camera
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -41,7 +41,7 @@ entries:
       - Webcam/Video
     dual_listed_in:
       - animation-rigging/ai-motion-capture
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: DeepMotion
     url: https://www.deepmotion.com/
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Game-Ready
       - BVH/FBX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -84,8 +84,8 @@ entries:
     readme_tags:
       - Browser
       - Hand Tracking
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Live Link Face (Apple)
@@ -106,8 +106,8 @@ entries:
     readme_tags:
       - Free
       - iPhone Face Capture
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     dual_listed_in:
       - animation-rigging/ai-motion-capture
   - name: Viggle AI
@@ -128,7 +128,7 @@ entries:
     readme_tags:
       - Video→Animation
       - AI
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -151,7 +151,7 @@ entries:
     readme_tags:
       - Open Source
       - Mocap
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - animation-rigging/ai-motion-capture
@@ -172,7 +172,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:06.997Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -196,7 +196,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:06.998Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -222,7 +222,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.000Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -246,7 +246,7 @@ entries:
       - animation-rigging/ai-motion-capture
     notes: Tencent community license excludes the EU, UK and South Korea.
     added_at: '2026-10-05T08:51:07.001Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -270,7 +270,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.003Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Non-Commercial
@@ -294,7 +294,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.004Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium
@@ -320,7 +320,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.006Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-05'
     readme_tags:
@@ -347,7 +347,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.008Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -374,7 +374,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.010Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -400,7 +400,7 @@ entries:
     dual_listed_in:
       - animation-rigging/ai-motion-capture
     added_at: '2026-10-05T08:51:07.013Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Freemium

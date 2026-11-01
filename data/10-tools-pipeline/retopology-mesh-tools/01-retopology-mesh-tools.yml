@@ -7,7 +7,7 @@ entries:
     entry_type: reference
     readme_tags:
       - Topology
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -25,8 +25,8 @@ entries:
     readme_tags:
       - Blender
       - Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -47,8 +47,8 @@ entries:
     readme_tags:
       - Blender
       - Retopo
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - generalist
@@ -69,7 +69,7 @@ entries:
     readme_tags:
       - Blender
       - Auto Retopo
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - YouTube
       - Tutorial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -120,7 +120,7 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.066Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Free
@@ -145,7 +145,7 @@ entries:
       tech:
         - blender-addon
     added_at: '2026-10-05T08:51:07.067Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Paid
@@ -170,6 +170,6 @@ entries:
       - Mesh Repair
     best_for: Inspecting STL meshes and reviewing supported repairs
     notes: Supports limited cleanup and selected local repairs, not general mesh reconstruction; passing mesh checks does not guarantee printability.
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'

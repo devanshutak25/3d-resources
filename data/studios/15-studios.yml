@@ -18,7 +18,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.px-group.de/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/px_group/
       vimeo: https://vimeo.com/pxgroup
@@ -48,7 +48,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.wonder-vision.com/creative-talent/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/_wondervision_/
       linkedin: https://www.linkedin.com/company/wonder-vision
@@ -74,7 +74,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.nightwolves.studio/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nightwolves.studio/
       linkedin: https://www.linkedin.com/company/night-wolves/
@@ -100,7 +100,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://sprout.cc/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/sproutstudios/
       linkedin: https://www.linkedin.com/company/sprout-studios/
@@ -124,7 +124,7 @@ studios:
     founded: 2012
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Resn
     url: https://resn.co.nz/
     description: Digital production studio making interactive sites, campaigns and web experiences for global brands.
@@ -142,7 +142,7 @@ studios:
     founded: 2004
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Dogstudio
     url: https://dogstudio.co/
     description: Multidisciplinary design and technology studio making interactive web experiences, brand work and digital products; part of DEPT.
@@ -168,7 +168,7 @@ studios:
     careers: https://dogstudio.co/careers/
     reel: https://vimeo.com/836218697
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dogstudio.co/
       x: https://twitter.com/Dogstudio
@@ -186,7 +186,7 @@ studios:
     founded: 2014
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/immersive_g/
       linkedin: https://fr.linkedin.com/company/immersive-garden
@@ -216,7 +216,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.magnopus.com/current-openings
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/magnopus
       linkedin: https://www.linkedin.com/company/magnopus
@@ -241,7 +241,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://atlasv.io/career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/atlasv.io
       linkedin: https://www.linkedin.com/company/atlasv
@@ -262,7 +262,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://preloaded.com/the-studio
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/preloaded_studio/
       linkedin: https://www.linkedin.com/company/preloaded/
@@ -283,7 +283,7 @@ studios:
     founded: 2011
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/14islands/
       linkedin: https://www.linkedin.com/company/14islands/
@@ -310,7 +310,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://www.merci-michel.com/reel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Dpt.
     url: https://dpt.co/
     description: Montreal studio creating VR, AR, mixed reality and physical interactive installations for brands and cultural institutions.
@@ -329,8 +329,8 @@ studios:
       - Plastisapiens
       - Marco & Polo Go Round
     added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/bonjourdpt/
       linkedin: https://www.linkedin.com/company/dpt/
@@ -353,7 +353,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://scanlabprojects.co.uk/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Excurio
     url: https://www.excurio.com/
     description: Paris VR studio, formerly Emissive, producing free-roam location-based VR expeditions about history and heritage.
@@ -370,7 +370,7 @@ studios:
       - L'Horizon de Khéops
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/excurio.vr/
       linkedin: https://www.linkedin.com/company/excurio-vr
@@ -391,7 +391,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.groovejones.com/workwithus
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/groovejones/
       linkedin: https://www.linkedin.com/company/groovejones
@@ -417,8 +417,8 @@ studios:
       - Tommy Hilfiger Tommy Factory
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.holition.com/jobs
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/holition
       linkedin: https://www.linkedin.com/company/holition
@@ -441,7 +441,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://wevr.com/highlights/2024-sizzle-reel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/onwevr
       linkedin: https://www.linkedin.com/company/wevr/
@@ -462,7 +462,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://makereal.co.uk/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/makerealvr/
       linkedin: https://www.linkedin.com/company/make-real-ltd/
@@ -486,7 +486,7 @@ studios:
       - Maskmaker
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/innerspacevr/
       youtube: https://www.youtube.com/@INNERSPACEVRStudio
@@ -506,7 +506,7 @@ studios:
     founded: 2012
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/neutral.digital/
       linkedin: https://www.linkedin.com/company/neutraldigital
@@ -528,7 +528,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.1-10.com/recruit/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://youtube.com/channel/UCxvAjheFwuVH_EPm_adBR3w
   - name: GiiÖii
@@ -545,7 +545,7 @@ studios:
       - 'Carving with Memories: Ihyangjeong'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/giioii_immersivestudio/
       linkedin: https://www.linkedin.com/company/68241327/
@@ -565,7 +565,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.teamlab.art/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/teamlab/
       youtube: https://www.youtube.com/@teamLabART
@@ -586,7 +586,7 @@ studios:
       - Large Nature Model
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/refikanadol/
       linkedin: https://www.linkedin.com/company/refik-anadol-studio/
@@ -610,7 +610,7 @@ studios:
       - Seeing Echoes in the Mind of the Whale
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Squidsoup
     url: https://www.squidsoup.org/
     description: Digital art group making immersive light and sound installations, shown at festivals, galleries and public spaces.
@@ -624,7 +624,7 @@ studios:
       - Submergence
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/squidie/
       x: https://twitter.com/squidsoup
@@ -644,7 +644,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.eness.com/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studioeness
   - name: Ars Electronica Futurelab
@@ -661,7 +661,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://ars.electronica.art/about/en/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/arselectronica
       linkedin: https://www.linkedin.com/company/arselectronica
@@ -680,7 +680,7 @@ studios:
       - Great Animal Orchestra
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Random International
     url: https://www.random-international.com/
     description: Collaborative art studio making interactive sculpture and large-scale installations that respond to human presence.
@@ -698,7 +698,7 @@ studios:
       - Rain Room
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/randominternational/
       vimeo: https://vimeo.com/randomvids
@@ -714,7 +714,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://studiodrift.com/work-at-drift/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/studio.drift/
       youtube: https://www.youtube.com/channel/UCHdtQzNCfh981CHKUo9i_fw
@@ -732,8 +732,8 @@ studios:
     founded: 1997
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://naked.co.jp/recruit
-    url_status: ok
-    url_last_verified: '2026-10-31'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
     notes: Node fetch fails the TLS chain (server omits intermediate cert); loads in curl and browsers (2026-10-31).
   - name: Nohlab
     url: https://nohlab.com/
@@ -750,7 +750,7 @@ studios:
     founded: 2011
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/nohlab/
       linkedin: https://tr.linkedin.com/company/nohlab
@@ -773,7 +773,7 @@ studios:
       - Rock in Rio Lisboa
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ocubo/
       linkedin: https://www.linkedin.com/company/ocubo-criativo/
@@ -789,7 +789,7 @@ studios:
       - experiential
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cocolab.mx/
       x: https://twitter.com/cocolabmx
@@ -805,8 +805,8 @@ studios:
     founded: 2010
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.dailytouslesjours.com/en/job-offers
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/dailytlj/
       linkedin: https://ca.linkedin.com/company/daily-tous-les-jours
@@ -829,7 +829,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://localprojects.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/local_projects/
       linkedin: https://www.linkedin.com/company/local-projects
@@ -852,7 +852,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.bluecadet.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/bluecadet
   - name: Seeper
@@ -872,7 +872,7 @@ studios:
       - Titanic Belfast centenary projection
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/seeperstudios/
       linkedin: https://uk.linkedin.com/company/seeper-com
@@ -888,7 +888,7 @@ studios:
     founded: 2002
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/jasonbrugesstudio/
       linkedin: https://www.linkedin.com/company/jason-bruges-studio-limited/
@@ -912,7 +912,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.tellart.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/tellart/
       linkedin: https://www.linkedin.com/company/tellart/
@@ -936,7 +936,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://pixelartworks.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wearepixelartworks/
       linkedin: https://www.linkedin.com/company/pixelartworks/
@@ -958,7 +958,7 @@ studios:
     founded: 2008
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/s1t2creative
       linkedin: https://www.linkedin.com/company/s1t2
@@ -980,7 +980,7 @@ studios:
     founded: 2006
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/aircord_inc
       linkedin: https://www.linkedin.com/company/aircord
@@ -995,7 +995,7 @@ studios:
       - experiential
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: WOW
     url: https://www.w0w.co.jp/
     description: Visual design studio making films, animation openings, installations and exhibition spaces for brands and expos.
@@ -1023,7 +1023,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.w0w.co.jp/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wowinc_jp/
       linkedin: https://www.linkedin.com/company/wowinc/
@@ -1052,7 +1052,7 @@ studios:
       - 'X-Men: First Class'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/prologuefilms
   - name: Momoco
@@ -1077,7 +1077,7 @@ studios:
       - The Capture
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/momoco_film_titles
       x: https://x.com/momocolondon

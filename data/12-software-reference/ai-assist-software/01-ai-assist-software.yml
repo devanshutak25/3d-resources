@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Auto CG Chars
       - USD Export
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -39,7 +39,7 @@ entries:
     readme_tags:
       - Upscale
       - Denoise
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -58,8 +58,8 @@ entries:
     readme_tags:
       - Creative Upscale
       - Freepik
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
   - name: Blockade Labs Skybox AI
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - AI Skybox
       - 360°
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -89,8 +89,8 @@ entries:
     description: Unity in-editor AI for texture, sprite, and animation generation.
     license: Paid
     entry_type: software
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     notes: Unity Muse retired; page redirects to Unity AI.
     deprecated: true
     tags:
@@ -107,7 +107,7 @@ entries:
     description: Prompt-to-game builder for playable 2D and 3D browser games with editable code.
     license: Freemium
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -127,7 +127,7 @@ entries:
     entry_type: software
     license: Paid
     best_for: Detail-preserving upscaling
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -155,7 +155,7 @@ entries:
     readme_tags:
       - Open Source
       - Local
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -173,7 +173,7 @@ entries:
         - ai-generative
     readme_tags:
       - Photo Upscale
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
@@ -197,7 +197,7 @@ entries:
     dual_listed_in:
       - ai-ml-for-cg/ai-assisted-cg-tools
     added_at: '2026-10-05T08:51:07.021Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Open Source
@@ -231,6 +231,6 @@ entries:
     readme_tags:
       - AI Agent
     best_for: Prompt-driven Blender work
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'

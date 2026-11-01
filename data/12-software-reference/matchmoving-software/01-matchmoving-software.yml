@@ -18,7 +18,7 @@ entries:
     readme_tags:
       - Matchmove
       - Pro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -41,7 +41,7 @@ entries:
     readme_tags:
       - Lens Distortion
       - Pro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - High-End
       - Studio Standard
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -88,7 +88,7 @@ entries:
     readme_tags:
       - Free
       - Blender Bridge
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
@@ -108,7 +108,7 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.434Z'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
       - Subscription

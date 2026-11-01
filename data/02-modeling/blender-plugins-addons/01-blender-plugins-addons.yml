@@ -20,7 +20,7 @@ entries:
     readme_tags:
       - Distributed Render
       - Blender
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Blender to Unity FBX
     url: https://github.com/EdyJ/blender-to-unity-fbx-exporter
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Unity Export
       - FBX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MB Lab
     url: https://github.com/animate1978/MB-Lab
@@ -67,7 +67,7 @@ entries:
     readme_tags:
       - Characters
       - Archived
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     archived: true
   - name: PSOFT Pencil+ 4
@@ -91,7 +91,7 @@ entries:
     readme_tags:
       - NPR
       - Line Render
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Graswald
     url: https://blendermarket.com/products/graswald
@@ -112,8 +112,8 @@ entries:
     readme_tags:
       - Foliage
       - Premium
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     notes: Product removed from Superhive.
     deprecated: true
   - name: Easy HDRI
@@ -137,7 +137,7 @@ entries:
     readme_tags:
       - HDRI Management
       - Workflow
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: F Spy Blender
     url: https://github.com/stuffmatic/fSpy-Blender
@@ -145,8 +145,8 @@ entries:
     description: Official fSpy Blender importer.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx
@@ -168,7 +168,7 @@ entries:
     description: Pyblish publishing-pipeline integration for Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -189,7 +189,7 @@ entries:
     description: VS Code extension for Blender addon development.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -210,7 +210,7 @@ entries:
     description: Helper addons by Antonio Vazquez.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -231,7 +231,7 @@ entries:
     description: Computational and parametric design addon for Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -253,7 +253,7 @@ entries:
     description: Node-based parametric modeling for Blender, aimed at architects.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -276,7 +276,7 @@ entries:
     description: Export manager for sharing assets between Blender and Unreal/Unity.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -297,7 +297,7 @@ entries:
     description: Add-on for unfolding meshes into printable paper models.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -315,8 +315,8 @@ entries:
     description: AMD's physically based GPU/CPU render engine for Blender.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-10-01'
-    url_status: broken
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     notes: AMD removed the ProRender page; redirects to amd.com home.
     deprecated: true
     tags:
@@ -339,7 +339,7 @@ entries:
     description: OpenBIM/IFC architectural authoring add-on for Blender. Formerly BlenderBIM.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -357,7 +357,7 @@ entries:
     description: Open source CAM toolpath generation for CNC inside Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -375,7 +375,7 @@ entries:
     description: CAD-style precision sketching with constraints for Blender.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -395,7 +395,7 @@ entries:
     description: Transfers Genesis 8 and 3 characters from Daz Studio into Blender.
     license: Free
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -415,7 +415,7 @@ entries:
     description: Builds interactive web apps from Blender scenes.
     license: Freemium
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -435,7 +435,7 @@ entries:
     description: Blender addon to change scene fps.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -454,7 +454,7 @@ entries:
     description: Dynamic rigging tool that speeds up Blender animation workflow.
     license: Open Source
     entry_type: plugin
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -475,7 +475,7 @@ entries:
     description: Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -498,7 +498,7 @@ entries:
     description: Blender addon to export USDZ files.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:

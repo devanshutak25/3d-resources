@@ -23,8 +23,8 @@ entries:
     readme_tags:
       - Manga
       - Frame-by-Frame
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     dual_listed_in:
       - software-reference/design-software
   - name: Procreate
@@ -51,7 +51,7 @@ entries:
     readme_tags:
       - iPad-native
       - Storyboarding
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - software-reference/design-software
@@ -79,7 +79,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Sprite Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Toon Boom Harmony
     url: https://www.toonboom.com/products/harmony
@@ -101,7 +101,7 @@ entries:
     readme_tags:
       - Studio Standard
       - TV Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Toon Boom Storyboard Pro
     url: https://www.toonboom.com/products/storyboard-pro
@@ -123,7 +123,7 @@ entries:
     readme_tags:
       - Storyboarding
       - Animatics
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/pre-production-tools
@@ -148,7 +148,7 @@ entries:
     readme_tags:
       - Node-based
       - Pixel VFX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: OpenToonz
     url: https://opentoonz.github.io/e/
@@ -173,7 +173,7 @@ entries:
     readme_tags:
       - Ghibli Pipeline
       - Traditional 2D
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Pencil2D
     url: https://www.pencil2d.org/
@@ -200,7 +200,7 @@ entries:
     readme_tags:
       - Lightweight
       - Hand-drawn
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Synfig Studio
     url: https://www.synfig.org/
@@ -226,7 +226,7 @@ entries:
     readme_tags:
       - Vector
       - Cutout
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Rive
     url: https://rive.app/
@@ -252,7 +252,7 @@ entries:
     readme_tags:
       - Interactive
       - UI Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Autograph
     url: https://www.maxon.net/en/autograph
@@ -278,7 +278,7 @@ entries:
     readme_tags:
       - USD
       - Free Commercial
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Cavalry
     url: https://cavalry.studio/en/
@@ -302,7 +302,7 @@ entries:
     readme_tags:
       - Procedural
       - Data-Driven
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Spine (Esoteric Software)
     url: https://esotericsoftware.com/
@@ -325,14 +325,14 @@ entries:
     readme_tags:
       - Skeletal
       - Game Runtimes
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Procreate Handbook
     url: https://help.procreate.com/procreate/handbook/introduction
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official guide and brush library.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -344,7 +344,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorials and documentation.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -356,7 +356,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official documentation and scripting API.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -368,7 +368,7 @@ entries:
     added_at: '2026-04-16T19:59:30.000Z'
     description: Source, plugins, and documentation.
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -402,7 +402,7 @@ entries:
     readme_tags:
       - OpenToonz Fork
       - Stop Motion
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: DragonBones
     url: http://dragonbones.effecthub.com
@@ -424,7 +424,7 @@ entries:
     readme_tags:
       - Open Source
       - 2D Skeletal
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Spriter Pro
     url: https://brashmonkey.com/download-spriter-pro/
@@ -445,7 +445,7 @@ entries:
     readme_tags:
       - Sprite Animation
       - Paid
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: GraphicsGale
     url: https://graphicsgale.com/us/
@@ -465,7 +465,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Moho (Smith Micro)
     url: https://moho.lostmarble.com/
@@ -487,7 +487,7 @@ entries:
     readme_tags:
       - Bone Rigging
       - Vector Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Friction
     url: https://friction.graphics/
@@ -513,7 +513,7 @@ entries:
       - AE-alt
     dual_listed_in:
       - motion-graphics-video/motion-graphics-inspiration
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: REXPaint
     url: https://www.gridsagegames.com/rexpaint/
@@ -533,7 +533,7 @@ entries:
     readme_tags:
       - ASCII Art
       - Roguelike
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: PiskelApp
     url: https://www.piskelapp.com/
@@ -541,7 +541,7 @@ entries:
     description: Free Online Pixel Art and Animated Sprite Tool.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -554,7 +554,7 @@ entries:
     description: Greenshift animation addon allows you to use and configure Rive files directly in the WordPress editor.
     entry_type: plugin
     license: Freemium
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -578,7 +578,7 @@ entries:
     readme_tags:
       - 2D VFX
       - Sprites
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -601,7 +601,7 @@ entries:
     readme_tags:
       - Sprite Sheets
       - Multi-Engine
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -628,7 +628,7 @@ entries:
     readme_tags:
       - Pixel Art
       - Godot-built
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -653,7 +653,7 @@ entries:
     readme_tags:
       - Artwork→Pixel
       - Rigging
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx
@@ -663,7 +663,7 @@ entries:
     description: LibreSprite is an open source fork of Aseprite.
     license: Open Source
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -696,7 +696,7 @@ entries:
     readme_tags:
       - Tilesets
       - Pixel Art
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - game-development/game-dev-sprite-vfx

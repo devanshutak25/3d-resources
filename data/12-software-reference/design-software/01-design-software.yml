@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Raster
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -42,7 +42,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Vector
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Industry Standard
       - Layout
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -89,7 +89,7 @@ entries:
     readme_tags:
       - Free OSS
       - Painting
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -110,7 +110,7 @@ entries:
     readme_tags:
       - UI/UX
       - Mac-native
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -137,7 +137,7 @@ entries:
     readme_tags:
       - Collaborative
       - UI/UX
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: ProtoPie
     url: https://www.protopie.io/
@@ -160,7 +160,7 @@ entries:
     readme_tags:
       - Prototyping
       - Interaction
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Affinity
     url: https://affinity.studio/
@@ -183,8 +183,8 @@ entries:
     readme_tags:
       - Free (Canva)
       - Vector + Raster
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
   - name: Inkscape
     url: https://inkscape.org/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -207,7 +207,7 @@ entries:
     readme_tags:
       - Vector
       - SVG
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: GIMP
     url: https://www.gimp.org/
@@ -232,7 +232,7 @@ entries:
     readme_tags:
       - Open Source
       - Photoshop-alt
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: PhotoGIMP
     url: https://github.com/Diolinux/PhotoGIMP
@@ -257,7 +257,7 @@ entries:
     readme_tags:
       - Open Source
       - Photoshop-like
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Penpot
     url: https://penpot.app/
@@ -280,14 +280,14 @@ entries:
     readme_tags:
       - Open Source
       - Figma-alt
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Affinity Help Center
     url: https://www.affinity.studio/help/getting-started/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Official tutorials, guides, getting started.
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -309,7 +309,7 @@ entries:
     readme_tags:
       - Mac-native
       - Image Editor
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: PixiEditor
     url: https://pixieditor.net/
@@ -334,7 +334,7 @@ entries:
     readme_tags:
       - Unified
       - Node-based
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Lunacy
     url: https://icons8.com/lunacy
@@ -356,7 +356,7 @@ entries:
     readme_tags:
       - Sketch-alt
       - Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Origami Studio
     url: https://origami.design/
@@ -379,7 +379,7 @@ entries:
     readme_tags:
       - Prototyping
       - Meta
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Unicorn Studio
     url: https://www.unicorn.studio/
@@ -403,7 +403,7 @@ entries:
     readme_tags:
       - Web Motion
       - No-code
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Vectorpea
     url: https://www.vectorpea.com/
@@ -424,7 +424,7 @@ entries:
     readme_tags:
       - Browser
       - Illustrator-alt
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Graphite
     url: https://graphite.art/
@@ -453,7 +453,7 @@ entries:
       - Open Source
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Picsart
     url: https://picsart.com/
@@ -478,7 +478,7 @@ entries:
     readme_tags:
       - AI Tools
       - Mobile
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: PowerPoint
     url: https://www.microsoft.com/microsoft-365/powerpoint
@@ -501,8 +501,8 @@ entries:
     readme_tags:
       - Presentations
       - Microsoft
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
   - name: Google Drawings
     url: https://docs.google.com/drawings
     added_at: '2026-04-28T09:01:32.000Z'
@@ -522,8 +522,8 @@ entries:
     readme_tags:
       - Browser
       - Collaborative
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
   - name: Microsoft Paint
     url: https://apps.microsoft.com/detail/9PCFS5B6T72H
     added_at: '2026-04-28T09:01:32.000Z'
@@ -543,8 +543,8 @@ entries:
     readme_tags:
       - Windows-native
       - Lightweight
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
   - name: Paint.NET
     url: https://paint.net/
     added_at: '2026-06-02T11:58:24.000Z'
@@ -564,7 +564,7 @@ entries:
     readme_tags:
       - Windows-native
       - Layers
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: FontLab 8
     url: https://www.fontlab.com/font-editor/fontlab/
@@ -582,7 +582,7 @@ entries:
     readme_tags:
       - Font Editor
       - Pro
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Adobe Express
     url: https://new.express.adobe.com/
@@ -597,7 +597,7 @@ entries:
     readme_tags:
       - Web
       - Adobe
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -618,7 +618,7 @@ entries:
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
       - art-design-visual-storytelling/pre-production-tools
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: ArcBrush
     url: https://arcbrush.com/
@@ -637,7 +637,7 @@ entries:
     readme_tags:
       - Node-based
       - Non-destructive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     dual_listed_in:
       - art-design-visual-storytelling/design-tools
@@ -656,5 +656,5 @@ entries:
     readme_tags:
       - Freeware
       - Photo Stylize
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok

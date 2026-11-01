@@ -5,7 +5,7 @@ entries:
     description: Frosted glass material made in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -28,7 +28,7 @@ entries:
     description: Unity project reproducing the sand rendering style of Journey.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -54,7 +54,7 @@ entries:
     description: NVIDIA HairWorks hair simulation integration for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -78,7 +78,7 @@ entries:
     description: Marschner hair shading model implemented in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -103,7 +103,7 @@ entries:
     description: Car paint material for the Unity Standard Assets car.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -128,8 +128,8 @@ entries:
     description: Dual quaternion skinning implementation for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -153,7 +153,7 @@ entries:
     description: Real-time rendering of 3D scenes as 2D pixel art in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -178,7 +178,7 @@ entries:
     description: Quad-warp projection sample for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -203,7 +203,7 @@ entries:
     description: Collection of effects for Unity 5.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -228,7 +228,7 @@ entries:
     description: Static (non-realtime) screen blur for Unity, handy as a dialog background.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -251,7 +251,7 @@ entries:
     description: Screen-space ambient obscurance image effect for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -276,7 +276,7 @@ entries:
     description: Collection of free effects for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -301,7 +301,7 @@ entries:
     description: Bloom post-processing effect for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -326,7 +326,7 @@ entries:
     description: System for rendering spheres cheaply and accurately in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -351,7 +351,7 @@ entries:
     description: Recreation of a Dishonored 2 effect in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -376,7 +376,7 @@ entries:
     description: Sonar scanning effect for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -401,7 +401,7 @@ entries:
     description: Open-source screen-space reflections for Unity 5.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -426,7 +426,7 @@ entries:
     description: Volumetric clouds for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -451,7 +451,7 @@ entries:
     description: Unity legacy edge-detect image effect ported to Post Processing Stack v2.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -476,7 +476,7 @@ entries:
     description: Koch fractals demo for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -501,7 +501,7 @@ entries:
     description: Signed distance function generator running inside Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -526,7 +526,7 @@ entries:
     description: Example passing skinned-mesh data into the Unity VFX Graph.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -551,7 +551,7 @@ entries:
     description: Simple tool for placing light probes in Unity scenes.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -577,8 +577,8 @@ entries:
     description: Unity project showing automatic light probe placement via the LightProbesVolumes package.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -602,7 +602,7 @@ entries:
     description: Source for the Volumetric Lines Unity Asset Store asset.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -627,7 +627,7 @@ entries:
     description: Light probe editor for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -652,7 +652,7 @@ entries:
     description: Ray tracing demo built in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -678,7 +678,7 @@ entries:
     description: Ray marching of signed distance functions in Unity, by Sebastian Lague.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -703,7 +703,7 @@ entries:
     description: Voxel world demo built in Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -727,7 +727,7 @@ entries:
     description: Generates voxel 3D meshes in Unity using greedy meshing.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -752,7 +752,7 @@ entries:
     description: Voxel game prototype made with Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -775,7 +775,7 @@ entries:
     description: Collection of voxel utilities for Unity. Experimental.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -800,7 +800,7 @@ entries:
     description: Efficient voxel framework for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -825,7 +825,7 @@ entries:
     description: Minimap and radar system for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -848,7 +848,7 @@ entries:
     description: Adds inline links and images to Unity uGUI Text.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -871,7 +871,7 @@ entries:
     description: Signed-distance-field text rendering for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -895,7 +895,7 @@ entries:
     description: Polygon renderer for the Unity UI system.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -918,7 +918,7 @@ entries:
     description: 3D scroll view for Unity (NGUI and uGUI support).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -941,7 +941,7 @@ entries:
     description: Makes Unity ScrollRects scroll infinitely.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -964,7 +964,7 @@ entries:
     description: Dynamic scroll view built on uGUI.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -985,7 +985,7 @@ entries:
     description: Touch/drag scroll list using Unity GUI (4.6+).
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1008,8 +1008,8 @@ entries:
     description: Variable-size infinite scroll for Unity UI.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -1031,7 +1031,7 @@ entries:
     description: uGUI-based runtime file browser for Unity, draggable and resizable.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1052,8 +1052,8 @@ entries:
     description: Pinterest-style variable tile layout for Unity UI.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -1075,7 +1075,7 @@ entries:
     description: Open-source pause menu for Unity, originally built for the game New Horizons.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1098,7 +1098,7 @@ entries:
     description: Text outline and vertex effects for Unity UI.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1121,8 +1121,8 @@ entries:
     description: Open-source GUI framework for Unity.
     entry_type: tool
     license: Open Source
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - games
@@ -1144,7 +1144,7 @@ entries:
     description: Xamarin.Forms platform implementation for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1167,7 +1167,7 @@ entries:
     description: Multiple GUI theme system for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -1190,7 +1190,7 @@ entries:
     description: UI menu package for Unity.
     entry_type: plugin
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:

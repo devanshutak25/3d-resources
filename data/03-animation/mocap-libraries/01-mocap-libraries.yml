@@ -5,7 +5,7 @@ entries:
     description: Free mocap packs on Gumroad from a UE artist. Everyday actions, crowd reactions, fitness, soccer and MetaHuman-ready clips.
     license: Free
     entry_type: asset-source
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -25,7 +25,7 @@ entries:
     description: 2500 free human motion-capture clips in BVH format.
     entry_type: asset-source
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -38,7 +38,7 @@ entries:
     description: Motion-capture library from Reallusion.
     license: Freemium
     entry_type: asset-source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -72,7 +72,7 @@ entries:
       - FBX
       - Free Packs
     notes: Browse/download via Rokoko Studio (free account). Free packs (263+ assets incl. Eric Jacobus set) usable commercially. Distinct from existing Rokoko Vision / Smartsuit entries.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MoCap Online
     url: https://mocaponline.com/
@@ -100,7 +100,7 @@ entries:
       - FBX
       - Game-Ready
     notes: Standard license covers commercial use, no royalties. Free sampler pack available. Also sold on Fab, Unity Asset Store, Superhive, itch.io.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MoCap Central
     url: https://mocapcentral.com/
@@ -125,7 +125,7 @@ entries:
       - MetaHuman
       - Free Sample
     notes: One purchase includes both UE and Unity files. Site does not name Kinetic Impulse; appears unrelated despite the pairing in the brief.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Kinetic Impulse Horse Mocap
     url: https://www.kinetic-impulse.com/mocap_data/index.html
@@ -147,7 +147,7 @@ entries:
       - Animals
       - Horse
     notes: Sold via sister site horselocomotion.com; formats and license terms by enquiry. Pick-and-mix purchase.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Truebones Studios
     url: https://truebones.gumroad.com/
@@ -170,7 +170,7 @@ entries:
       - BVH
       - Animals
     notes: Quality varies by pack. Check per-product terms.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Truebones iClone Zoo
     url: https://truebones.net/tb/zoo/zoo.html
@@ -189,7 +189,7 @@ entries:
       - Animals
       - iClone
     notes: iClone-only formats. Some models sourced from games; check rights before commercial use. FBX zoo sold separately on Truebones Gumroad.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Kubold
     url: https://www.kubold.com/
@@ -214,7 +214,7 @@ entries:
       - Combat
       - Root Motion
     notes: Sold on Unity Asset Store and Fab. Some older Unity packs deprecated.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Movement Animset Pro
     url: https://www.fab.com/listings/9611ad11-7bff-476d-9ab0-fbb4696f1efe
@@ -238,7 +238,7 @@ entries:
       - Locomotion
       - Root Motion
     notes: Animations only, no controller. Shares fab.com host with existing Fab entry.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Kevin Iglesias
     url: https://www.keviniglesias.com/
@@ -262,7 +262,7 @@ entries:
       - Free Packs
       - Unity
     notes: Hand-keyed, not mocap. Royalty-free, commercial use without attribution. Also on Unity Asset Store and itch.io (kevdev).
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Explosive
     url: https://www.explosive.ws/
@@ -287,7 +287,7 @@ entries:
       - RPG
       - Free Packs
     notes: Site does not state mocap; treat as keyed game animation.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: RamsterZ Animations
     url: https://www.ramsterzanimations.com/
@@ -311,7 +311,7 @@ entries:
       - Combat
       - Free Packs
     notes: Mocap vs keyed not stated. Also sells on Fab (fab.com/sellers/RamsterZ).
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Game Animation Sample Project
     url: https://www.fab.com/listings/880e319a-a59e-4ed2-b268-b32dac7fa016
@@ -336,7 +336,7 @@ entries:
     notes: Usable in any UE project incl. offline/VFX work; UE-only content license.
     dual_listed_in:
       - animation-rigging/character-rigs-other
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Animation Starter Pack
     url: https://www.fab.com/listings/98ff449d-79db-4f54-9303-75486c4fb9d9
@@ -357,7 +357,7 @@ entries:
       - UE Mannequin
       - Prototyping
     notes: UE-only content license.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Paragon Animations Retargeted to Manny
     url: https://www.fab.com/listings/e6de87b1-b755-478d-9228-a9eb89ff4411
@@ -378,7 +378,7 @@ entries:
       - UE5 Manny
       - Paragon
     notes: Paragon content is UE-only license. Third-party convenience upload of Epic assets.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Lyra Starter Game
     url: https://www.fab.com/listings/93faede1-4434-47c0-85f1-bf27c0820ad0
@@ -401,7 +401,7 @@ entries:
     notes: UE-only license. Animation-only extract also on Fab (Lyra Animation Sequences Only).
     dual_listed_in:
       - animation-rigging/character-rigs-other
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Unity Starter Assets
     url: https://assetstore.unity.com/packages/3d/characters/first-person-third-person-character-controllers-196526
@@ -424,7 +424,7 @@ entries:
     notes: Small animation set; mainly a controller. Unity non-standard EULA.
     dual_listed_in:
       - animation-rigging/character-rigs-other
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Xsens Free Mocap Assets
     url: https://www.xsens.com/entertainment/free-xsens-motion-capture-animation-assets
@@ -444,7 +444,7 @@ entries:
       - FBX
       - Sports
     notes: License terms not stated on page; check download terms. movella.com URL redirects here.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: HEAT
     url: https://heat.tech/
@@ -474,8 +474,8 @@ entries:
       - Retargeting
       - MetaHuman
     notes: Free tier is non-commercial. Mover plan ($5/mo, $50/yr) allows commercial use. Enterprise pricing for studios >15 staff or >$1M revenue.
-    url_last_verified: '2026-10-05'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: unreachable
   - name: Awesome Dog Mocap
     url: https://awesomedog.com/
     added_at: '2026-10-05T12:00:00.000Z'
@@ -497,7 +497,7 @@ entries:
       - Animals
       - Dog
     notes: Direct FBX shop at awesomedog.co.uk (Payhip). Same studio records Abranimations' human dance mocap.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: AnimationShopee
     url: https://www.animationshopee.com/
@@ -522,7 +522,7 @@ entries:
       - FBX
       - Per-Clip
     notes: No subscription.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: mocapdata.com
     url: https://mocapdata.com/
@@ -545,7 +545,7 @@ entries:
       - BVH
       - Free Data
     notes: Free data historically CC BY 2.1 Japan (attribution). Registration required. Confirm current terms page.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: The Motion Capture Library
     url: https://themotioncapturelibrary.co.uk/
@@ -566,7 +566,7 @@ entries:
     readme_tags:
       - FBX
       - Centroid
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: unreachable
   - name: Game MoCap
     url: https://gamemocap.com/
@@ -588,7 +588,7 @@ entries:
       - Dance
       - Emotes
     notes: Sold mainly via Unity Asset Store; pricing on store listings.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: XSTAGE
     url: https://www.xstage.co/en/motions
@@ -610,7 +610,7 @@ entries:
       - Dance
       - VTuber
     notes: Standard license is non-commercial; Commercial license tier needed for games/film/UGC. Upgrade possible after purchase.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: RancidMilk Free Character Animations
     url: https://rancidmilk.itch.io/free-character-animations
@@ -632,7 +632,7 @@ entries:
       - CMU
       - FBX
     notes: 'CMU terms: commercial use ok, no reselling the data. Root motion, no fingers, needs cleanup.'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Free Motion Pack 1
     url: https://jdbeardmore.itch.io/free-motion-pack-1
@@ -651,7 +651,7 @@ entries:
       - Mixamo Rig
       - FBX
     notes: Creator states animations can be used however you wish. No mesh included.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: cMonkeys Huge FBX Mocap Library
     url: https://archive.org/details/Huge_FBX_Mocap_Library
@@ -673,7 +673,7 @@ entries:
       - CMU
       - FBX
     notes: 'CMU terms: commercial use ok, no direct resale. Variable quality. Also on Unity Asset Store in 3 parts. Overlaps RancidMilk and existing CMU cgspeed entry; maybe keep one.'
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MocapClub
     url: https://www.mocapclub.com/Pages/Library.htm
@@ -692,7 +692,7 @@ entries:
       - C3D
       - Animals
     notes: Educational use only. Raw marker data, needs solving to a skeleton. Old site.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MetaHuman Cinema Pack
     url: https://www.fab.com/listings/b60e43c1-e2c2-4777-a673-61f9af1ba03c
@@ -715,7 +715,7 @@ entries:
       - MetaHuman
       - Cinematics
     notes: Same seller likely has MetaHuman Performance Collection (156 clips).
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: PoserMocap
     url: https://www.posermocap.com/
@@ -733,7 +733,7 @@ entries:
     readme_tags:
       - Daz
       - BVH
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Mocap ATLAS
     url: https://www.mocapatlas.com/
@@ -759,5 +759,5 @@ entries:
       - Free Clips
       - 120fps
     notes: Indie and Pro licenses both commercial (Pro if org revenue >$100k). No AI training, no redistribution.
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok

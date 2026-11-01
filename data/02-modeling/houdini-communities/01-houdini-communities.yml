@@ -8,8 +8,8 @@ entries:
     readme_tags:
       - Forum
       - Very Active
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Discord
       - Community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -44,7 +44,7 @@ entries:
     readme_tags:
       - Discord
       - Procedural
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -63,7 +63,7 @@ entries:
     readme_tags:
       - Reddit
       - Community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -81,8 +81,8 @@ entries:
     readme_tags:
       - Chinese Content
       - Bilibili
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       output:
         - film-vfx
@@ -99,7 +99,7 @@ entries:
     readme_tags:
       - Tips
       - Archive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -119,7 +119,7 @@ entries:
     readme_tags:
       - Tips Archive
       - Quick Reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -139,7 +139,7 @@ entries:
     readme_tags:
       - Blog
       - Tools
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -164,7 +164,7 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Awesome Houdini (wyhinton)
     url: https://github.com/wyhinton/AwesomeHoudini
@@ -180,5 +180,5 @@ entries:
         - web
       tech:
         - houdini
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok

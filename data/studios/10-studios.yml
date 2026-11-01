@@ -14,7 +14,7 @@ studios:
       - Vivid Sydney Opera House
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Vallée Duhamel
     url: https://valleeduhamel.com/
     description: Montreal directing duo mixing live action, CGI and AI imagery in films, motion design and video art.
@@ -33,7 +33,7 @@ studios:
     founded: 2013
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/valleeduhamel/
       vimeo: https://www.vimeo.com/valleeduhamel/
@@ -60,7 +60,7 @@ studios:
       - Audi
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vantage_films
       linkedin: https://www.linkedin.com/company/vantage-films
@@ -84,8 +84,8 @@ studios:
       - UEFA Champions League
       - Atlético Madrid
     added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vasavastudio
       linkedin: https://www.linkedin.com/company/vasava
@@ -110,7 +110,7 @@ studios:
       - Volkswagen
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/versus.creative.studio/
       linkedin: https://www.linkedin.com/company/versusnyc/
@@ -135,7 +135,7 @@ studios:
       - Genentech
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Vincent Studios
     url: https://vincentstudios.co.uk/
     description: London animation and design studio making UI, VFX, branding and generative design for games, film and ads.
@@ -158,7 +158,7 @@ studios:
       - BBC
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: Volvox Labs
     url: https://www.volvoxlabs.com/
     description: Brooklyn new media art studio making immersive installations, kinetic sculptures and interactive brand experiences.
@@ -179,7 +179,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.volvoxlabs.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/volvoxlabs/
       linkedin: https://www.linkedin.com/company/volvox-labs/
@@ -200,7 +200,7 @@ studios:
       - Canva
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/vucko.co/
       linkedin: https://linkedin.com/company/vuckoco
@@ -220,7 +220,7 @@ studios:
     founded: 2021
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/waaaw.studio/
       linkedin: https://www.linkedin.com/company/waaaw-studio/
@@ -243,7 +243,7 @@ studios:
     founded: 2002
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/watermark_creative/
       linkedin: https://www.linkedin.com/company/watermark-creative
@@ -268,7 +268,7 @@ studios:
       - Lynk & Co
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wearepi/
       linkedin: https://www.linkedin.com/company/we-are-pi/
@@ -297,7 +297,7 @@ studios:
       - Blizzard
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/weareroyale/
       linkedin: https://www.linkedin.com/company/weareroyale/
@@ -320,7 +320,7 @@ studios:
       - Shopify
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wradstudio/
       linkedin: https://www.linkedin.com/company/wrad-work/
@@ -345,7 +345,7 @@ studios:
       - Ancestry
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/wecanmake.co.uk
       linkedin: https://www.linkedin.com/company/wecanmake/
@@ -367,7 +367,7 @@ studios:
       - LA Philharmonic
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wednesday__studio/
       linkedin: https://www.linkedin.com/company/wednesdaystudio/
@@ -393,7 +393,7 @@ studios:
       - The Balvenie
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wheregiantsroam_
       linkedin: https://www.linkedin.com/company/wheregiantsroam/
@@ -418,7 +418,7 @@ studios:
       - Design Indaba
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wickedpixels_vfx/
       vimeo: https://vimeo.com/wickedpixels
@@ -441,7 +441,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://wilderbeast.tv/reel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wilderbeast.tv/
   - name: Woodwork Amsterdam
@@ -465,7 +465,7 @@ studios:
     careers: https://woodwork.nl/careers
     reel: https://woodwork.nl/showreel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/woodworkamsterdam
       linkedin: https://www.linkedin.com/company/woodwork-amsterdam
@@ -492,7 +492,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.worship.studio/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/worship.studio/
       vimeo: https://vimeo.com/worshipstudio
@@ -519,7 +519,7 @@ studios:
       - Apple
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Yambo Studio
     url: https://www.yambo-studio.com/
     description: CGI and motion design studio making 3D campaigns and still images for tech and sportswear brands.
@@ -541,7 +541,7 @@ studios:
       - Microsoft
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       vimeo: https://vimeo.com/yambo
       behance: https://www.behance.net/yambo
@@ -564,7 +564,7 @@ studios:
       - Sky Arts
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/yaminations
       vimeo: https://vimeo.com/yamination
@@ -586,7 +586,7 @@ studios:
     founded: 2013
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/yeahhaus
       linkedin: https://www.linkedin.com/company/yeah-haus/
@@ -611,7 +611,7 @@ studios:
       - Marvel
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/yellowlabtv/
       vimeo: https://vimeo.com/yellowlabtv
@@ -636,7 +636,7 @@ studios:
       - Transurban
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/yescaptain_/
       linkedin: https://www.linkedin.com/company/yes-captain/
@@ -660,7 +660,7 @@ studios:
       - Nothing Phone 3A Pro concept
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/yonick_studio/
       behance: https://www.behance.net/yonick_studio
@@ -683,7 +683,7 @@ studios:
     founded: 1998
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/yuandcompany/
       linkedin: https://www.linkedin.com/company/yu-co
@@ -708,7 +708,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://zedemanimations.com/career-opportunities/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/zedemanimations/
       vimeo: https://vimeo.com/zedem
@@ -733,7 +733,7 @@ studios:
       - Peripetics
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/zeitguised
   - name: Zero VFX
@@ -758,7 +758,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.zerovfx.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Zoic Studios
     url: https://www.zoicstudios.com/
     description: Los Angeles VFX studio with a New York team making creatures and environments for TV, film and ads.
@@ -783,7 +783,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.zoicstudios.com/join
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/zoicstudios
       linkedin: https://www.linkedin.com/company/zoic-studios/
@@ -813,7 +813,7 @@ studios:
       - Vintage Culture
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/zombiestudio.tv
       vimeo: https://vimeo.com/user12341992
@@ -849,7 +849,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ilm.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ilmvfx/
       linkedin: https://www.linkedin.com/company/industrial-light-&-magic
@@ -877,7 +877,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://careers.wetafx.co.nz/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/wetafxofficial/
       linkedin: https://www.linkedin.com/company/weta-fx
@@ -916,7 +916,7 @@ studios:
       - Dune
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Sony Pictures Imageworks
     url: https://www.imageworks.com/
     description: Sony Pictures studio headquartered in Vancouver making visual effects and feature animation for film.
@@ -942,7 +942,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.imageworks.com/job-postings
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/imageworksvfx/
       x: https://twitter.com/imageworksvfx
@@ -968,7 +968,7 @@ studios:
     careers: https://image-engine.com/jobs/
     reel: https://vimeo.com/1138215450
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/image.engine.vfx/
       linkedin: https://www.linkedin.com/company/image-engine-design-inc-/
@@ -996,7 +996,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://cinesite.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cinesite/
       linkedin: https://www.linkedin.com/company/cinesite/
@@ -1031,7 +1031,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.eyelinestudios.com/about/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/eyelinestudios/
       linkedin: https://www.linkedin.com/company/eyelinestudios/
@@ -1073,7 +1073,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://apply.workable.com/pxo/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/pixomondo/
       linkedin: https://www.linkedin.com/company/pixomondo/
@@ -1102,7 +1102,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.unionvfx.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/unionvfx/
       linkedin: https://www.linkedin.com/company/union-visual-effects/
@@ -1129,7 +1129,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.blue-bolt.com/hiring
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/blueboltvfx/
       linkedin: https://www.linkedin.com/company/bluebolt/
@@ -1161,7 +1161,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://craftyapes.com/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/craftyapesvfx/
       linkedin: https://www.linkedin.com/company/crafty-apes-llc/
@@ -1204,7 +1204,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://folksvfx.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/folksvfx/
       vimeo: https://vimeo.com/folksreel
@@ -1234,7 +1234,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ilpvfx.com/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/importantlookingpirates/
       linkedin: https://www.linkedin.com/company/important-looking-pirates-vfx
@@ -1263,7 +1263,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.trixter.de/jobs/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/trixterfilm/
       linkedin: https://www.linkedin.com/company/trixter/
@@ -1295,7 +1295,7 @@ studios:
     careers: https://www.risefx.com/rise-visual-effects-studios-jobs.php
     reel: https://www.risefx.com/rise-visual-effects-studios-work-showreel.php
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/rise_fx/
       linkedin: https://www.linkedin.com/company/rise-visual-effects-studios
@@ -1323,7 +1323,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://careers.smartrecruiters.com/PitchBlackCreative/el-ranchito-%5Benglish%5D
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/elranchito_vfx
       linkedin: https://www.linkedin.com/company/el-ranchito/

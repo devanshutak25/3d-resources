@@ -17,7 +17,7 @@ entries:
       - Orbital Video
       - Stability
     notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Hunyuan Video I2V
     url: https://huggingface.co/tencent/HunyuanVideo-I2V
@@ -35,7 +35,7 @@ entries:
       - I2V
       - Multilingual
     notes: entry_type 'reference' used for HF model card; could be 'tool' if treated as runnable model.
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Hugging Face Transformers
     url: https://huggingface.co/docs/transformers/index
@@ -53,7 +53,7 @@ entries:
     readme_tags:
       - NLP
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: sd-concepts-library (Stable Diffusion Concepts Library)
     url: https://huggingface.co/sd-concepts-library
@@ -61,7 +61,7 @@ entries:
     description: Community library of Stable Diffusion textual-inversion concepts to browse and use in prompts.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:

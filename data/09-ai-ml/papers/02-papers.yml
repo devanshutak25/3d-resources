@@ -5,7 +5,7 @@ entries:
     description: Sun et al., SIGGRAPH Asia 2022. 3D-aware GAN for high-resolution portraits with interactive, disentangled editing of shape, texture and pose.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -22,7 +22,7 @@ entries:
     description: Wang et al., ICLR 2023. Decomposes NeRF scenes into individual 3D objects from 2D images so they can be moved, rotated or removed.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -41,7 +41,7 @@ entries:
     description: Poole et al., ICLR 2023. Generates 3D NeRF models from text by optimizing them with a pretrained 2D diffusion model via score distillation.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -60,7 +60,7 @@ entries:
     description: Shi et al., arXiv 2022. Survey of deep generative models across 3D representations such as point clouds, meshes, voxels and neural fields.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -77,7 +77,7 @@ entries:
     description: Lin et al., CVPR 2023. Two-stage coarse-to-fine text-to-3D method that produces high-resolution textured meshes.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -96,7 +96,7 @@ entries:
     description: Xu et al., CVPR 2023. Zero-shot text-to-3D that uses a 3D shape prior and text-to-image diffusion to guide NeRF optimization.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -115,7 +115,7 @@ entries:
     description: Dupont et al., 3DV 2022. Network that predicts CAD operation types and their construction steps from B-rep models.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -134,7 +134,7 @@ entries:
     description: Tseng et al., ICRA 2022. Category-level NeRF that renders articulated objects and estimates their part poses.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -153,7 +153,7 @@ entries:
     description: Sun et al., CVPR 2022. Reconstructs radiance fields on explicit voxel grids, converging in minutes instead of hours.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -172,7 +172,7 @@ entries:
     description: Chng et al., ECCV 2022. Radiance field with Gaussian activations that jointly reconstructs the scene and estimates camera poses.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -191,7 +191,7 @@ entries:
     description: Esposito et al., Arxiv 2022.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -211,7 +211,7 @@ entries:
     description: Maggio et al., ICRA 2023. Robot localization method that runs a Monte Carlo particle filter against a pretrained NeRF map.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -228,7 +228,7 @@ entries:
     description: Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -245,7 +245,7 @@ entries:
     description: Uy et al., CVPR 2022. Reverse-engineers point clouds into editable CAD by fitting sketch-and-extrude cylinders.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -264,7 +264,7 @@ entries:
     description: Lambourne et al., SIGGRAPH Asia 2022. Converts rounded voxel shapes into editable prismatic CAD models built from extruded sketches.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -283,7 +283,7 @@ entries:
     description: Li et al., ICCAD 2022. Algorithm and hardware co-design for real-time NeRF rendering on edge devices aimed at AR and VR.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -302,7 +302,7 @@ entries:
     description: Li et al., NeurIPS 2022. Streams radiance fields frame by frame to reconstruct and render free-viewpoint 3D video.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -321,7 +321,7 @@ entries:
     description: Chen et al., arXiv 2021. Builds animatable NeRF human avatars from monocular RGB video using a parametric body model.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -341,7 +341,7 @@ entries:
     description: Wu et al., ICCV 2021. Generative network that outputs CAD models as sequences of sketch and extrude operations.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -360,7 +360,7 @@ entries:
     description: Deng et al., CVPR 2022. Adds sparse depth from structure-from-motion as supervision so NeRF trains faster with fewer views.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -379,7 +379,7 @@ entries:
     description: Garbin et al., Arxiv 2021.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -398,7 +398,7 @@ entries:
     description: Niemeyer et al., CVPR 2021.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -417,7 +417,7 @@ entries:
     description: Meng et al., ICCV 2021. GAN-based NeRF that trains on images with unknown or random camera poses.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -436,7 +436,7 @@ entries:
     description: Reiser et al., ICCV 2021. Splits a NeRF into thousands of tiny MLPs to render orders of magnitude faster.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -455,7 +455,7 @@ entries:
     description: Tancik et al., CVPR 2021. Meta-learns initial weights for coordinate-based networks so they fit new signals in fewer steps.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -472,7 +472,7 @@ entries:
     description: Lombardi et al., SIGGRAPH 2021.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -491,7 +491,7 @@ entries:
     description: Kosiorek et al., Arxiv 2021.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -510,7 +510,7 @@ entries:
     description: Wang et al., NeurIPS 2021. Represents surfaces as signed distance functions trained with volume rendering for multi-view reconstruction.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -529,7 +529,7 @@ entries:
     description: Liu et al., ICLR 2021. Network that extracts 3D wireframes of vertices and edges directly from raw point clouds.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -548,7 +548,7 @@ entries:
     description: Yu et al., CVPR 2021. Conditions NeRF on image features so it predicts radiance fields from one or a few input images.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -567,7 +567,7 @@ entries:
     description: 'Yariv et al., NeurIPS 2021. VolSDF: models density as a function of signed distance for better surface reconstruction with volume rendering.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -586,7 +586,7 @@ entries:
     description: Rebain et al., Arxiv 2020.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -605,7 +605,7 @@ entries:
     description: Schwarz et al., NeurIPS 2020. Generative radiance field model that synthesizes 3D-consistent images from unposed 2D image collections.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -624,7 +624,7 @@ entries:
     description: Trevithick and Yang, ICCV 2021. Learns a general radiance field from 2D image features that renders novel views of unseen scenes.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -643,7 +643,7 @@ entries:
     description: Zhang et al., arXiv 2020. Analyzes NeRF and adds an inverted-sphere background model for unbounded 360-degree scenes.
     entry_type: paper
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -662,7 +662,7 @@ entries:
     description: Dellaert and Yen-Chen, arXiv 2020. Survey of the NeRF paper and the wave of neural volume rendering work that followed it.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -681,7 +681,7 @@ entries:
     description: Sharma et al., ECCV 2020. Network that segments point clouds and fits parametric surfaces such as B-splines and primitives.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -700,7 +700,7 @@ entries:
     description: Nash et al., ICML 2020. Transformer that generates 3D meshes directly as sequences of vertices and faces.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -719,7 +719,7 @@ entries:
     description: Cherenkova et al., ICIP 2020. Point-voxel deconvolution autoencoder that reconstructs CAD models from 3D scans.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -738,7 +738,7 @@ entries:
     description: 'Li et al., CVPR 2019. SPFN: supervised network that fits geometric primitives such as planes, spheres and cylinders to point clouds.'
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -757,7 +757,7 @@ entries:
     description: Yang et al., ICCV 2021. Object-compositional NeRF that lets individual objects in a scene be moved, duplicated or removed.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -776,7 +776,7 @@ entries:
     description: Bao et al., CVPR 2023. Edits a NeRF from a single edited image using semantic and geometric priors.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -796,7 +796,7 @@ entries:
     entry_type: paper
     license: Free
     year: 2006
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -813,7 +813,7 @@ entries:
     description: ArXiv 2022 paper on integrating text-to-image AI in 3D design workflows.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -832,7 +832,7 @@ entries:
     description: SIGGRAPH course notes on importance sampling for production rendering.
     entry_type: paper
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     notes: Original host igorsklyar.com dead sitewide (444). Wayback snapshot verified as the full PDF 2026-10-05.
     tags:

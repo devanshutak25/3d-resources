@@ -15,7 +15,7 @@ entries:
     readme_tags:
       - Mograph Education
       - Courses
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Toniko Pantoja
     url: https://www.youtube.com/@TonikoPantoja
@@ -26,7 +26,7 @@ entries:
     readme_tags:
       - Industry Insight
       - Technique
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -49,7 +49,7 @@ entries:
     readme_tags:
       - Motion Design
       - YouTube
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Alan Becker Tutorials
     url: https://www.youtube.com/@AlanBeckerTutorials
@@ -60,7 +60,7 @@ entries:
     readme_tags:
       - Beginner Friendly
       - Animation Tutorials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - Motion
       - Animation
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       output:
@@ -96,7 +96,7 @@ entries:
     readme_tags:
       - Approachable
       - Character Anim
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -111,7 +111,7 @@ entries:
     description: 'Unreal Engine cinematics: animated decals, cinematic environments, faster filmmaking.'
     entry_type: channel
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -127,7 +127,7 @@ entries:
     description: Interactive web explainer of the 12 principles of animation.
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -145,7 +145,7 @@ entries:
     readme_tags:
       - SwiftUI
       - Rive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -161,7 +161,7 @@ entries:
     readme_tags:
       - Rive
       - Webflow
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -174,7 +174,7 @@ entries:
     description: Free course that teaches you how to design and code an iOS/SwiftUI app with Rive animated assets, icon animations, custom layouts, and interactions.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -190,7 +190,7 @@ entries:
     description: Beginner to intermediate tutorial for setting up a Flutter web app with Rive animations.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -206,7 +206,7 @@ entries:
     description: Teddy Bear Animation, create an animated and interactive Login screen.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -221,7 +221,7 @@ entries:
     description: Tutorial on how to add Rive to your Unity games using Noesis.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -236,7 +236,7 @@ entries:
     description: Simple Animated Menu Toggle Button in Rive.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -251,7 +251,7 @@ entries:
     description: Best approach for animation in 2023.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -264,7 +264,7 @@ entries:
     description: Techniques to optimize Rive animations in React apps.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -277,7 +277,7 @@ entries:
     description: '"We''ve been playing around with this awesome interactive animation tool called Rive, and it''s blown us away!".'
     entry_type: reference
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -290,7 +290,7 @@ entries:
     description: '- Sprinkling some beautiful animations across your app.'
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -303,7 +303,7 @@ entries:
     description: Learn how to create next-level interactive animations for Webflow websites with Rive.
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -318,8 +318,8 @@ entries:
     description: '"Rive reduces the time it takes to make complex animation, making some motion items easier and faster to build."'
     entry_type: tutorial
     license: Free
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       workflow:
         - animation
@@ -331,7 +331,7 @@ entries:
     description: Demonstrating Rive on the Flutter Community live stream for the 2022 Flutter Puzzle Hack.
     entry_type: channel
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -344,7 +344,7 @@ entries:
     description: NextJS blog template with Rive to show animated blog thumbnails and syncing scroll to Rive animations deployed on Vercel. Code.
     entry_type: reference
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:

@@ -19,7 +19,7 @@ entries:
     readme_tags:
       - Browser
       - Dynamic Topology
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Tinkercad
     url: https://www.tinkercad.com/
@@ -43,7 +43,7 @@ entries:
     readme_tags:
       - Browser
       - Education
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Wings 3D
     url: https://www.wings3d.com/
@@ -66,7 +66,7 @@ entries:
     readme_tags:
       - Subdiv Modeling
       - Lightweight
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MagicaVoxel
     url: https://ephtracy.github.io/
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - Voxel
       - Path Tracing
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: MagicaCSG
     url: https://ephtracy.github.io/index.html?page=magicacsg
@@ -116,7 +116,7 @@ entries:
     readme_tags:
       - SDF
       - Windows-only
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: VRoid Studio
     url: https://vroid.com/en/studio/
@@ -140,7 +140,7 @@ entries:
     readme_tags:
       - Anime Characters
       - VTuber
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: SDF Modeler
     url: https://sascha-rode.itch.io/sdf-modeler
@@ -165,7 +165,7 @@ entries:
     readme_tags:
       - SDF
       - Non-destructive
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Sculptris
     url: https://sculptris.br.uptodown.com/windows
@@ -184,7 +184,7 @@ entries:
     readme_tags:
       - Free
       - Introductory Sculpt
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Blender
     url: https://www.blender.org/
@@ -219,7 +219,7 @@ entries:
     readme_tags:
       - Open Source
       - Full Pipeline
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Goxel
     url: https://github.com/guillaumechereau/goxel
@@ -227,7 +227,7 @@ entries:
     description: Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
     entry_type: software
     license: Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -243,7 +243,7 @@ entries:
     license: Free
     entry_type: software
     best_for: 3D fractal imaging
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -270,7 +270,7 @@ entries:
       - Windows
     dual_listed_in:
       - tools-pipeline-utilities/misc-3d-utilities
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     stale: true
     last_pushed: '2023-03-05'
@@ -280,7 +280,7 @@ entries:
     description: Intuitive and free 3D modeling software for everyone.
     license: Free
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -295,7 +295,7 @@ entries:
     description: Terrain creation and editing software. It is freeware.
     license: Free
     entry_type: software
-    url_last_verified: '2026-10-05'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -310,7 +310,7 @@ entries:
     description: Easy to use real time 3D tree generator for the simple creation.
     license: Free
     entry_type: software
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -328,7 +328,7 @@ entries:
     readme_tags:
       - Character Creation
       - Open Source
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -347,7 +347,7 @@ entries:
     readme_tags:
       - Sculpting
       - Otoy Forum
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -378,7 +378,7 @@ entries:
     readme_tags:
       - Browser
       - Node-Based
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Autodesk Project Falcon
     url: https://www.autodesk.com/solutions/media-entertainment/project-falcon
@@ -399,7 +399,7 @@ entries:
     readme_tags:
       - Browser
       - Kitbashing
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
   - name: Bforartists
     url: https://www.bforartists.de/
@@ -418,8 +418,8 @@ entries:
         - mac
         - linux
     added_at: '2026-10-05T08:51:07.102Z'
-    url_last_verified: '2026-10-05'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     readme_tags:
       - Open Source
       - Blender Fork

@@ -8,7 +8,7 @@ entries:
     readme_tags:
       - General 3D
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -22,7 +22,7 @@ entries:
     readme_tags:
       - General 3D
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -36,7 +36,7 @@ entries:
     readme_tags:
       - Multi-DCC
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -50,7 +50,7 @@ entries:
     readme_tags:
       - News
       - CG
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -64,7 +64,7 @@ entries:
     readme_tags:
       - News
       - Europe
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -78,7 +78,7 @@ entries:
     readme_tags:
       - News
       - Tutorials
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -92,7 +92,7 @@ entries:
     readme_tags:
       - 3D Education
       - Character Art
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -108,7 +108,7 @@ entries:
     readme_tags:
       - Freelance
       - Skool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -122,7 +122,7 @@ entries:
     readme_tags:
       - GAN Papers
       - Reading Club
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -138,7 +138,7 @@ entries:
     readme_tags:
       - AI Art
       - Prompts
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -154,7 +154,7 @@ entries:
     readme_tags:
       - Blender Forum
       - Scripting
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -172,7 +172,7 @@ entries:
     readme_tags:
       - Blender
       - Python
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -190,7 +190,7 @@ entries:
     readme_tags:
       - Blender
       - Python
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -205,7 +205,7 @@ entries:
     description: Blender Q&A community on Stack Exchange.
     entry_type: community
     license: Free
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -218,7 +218,7 @@ entries:
     description: Awesome list of Blender addons and resources.
     license: Open Source
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -231,7 +231,7 @@ entries:
     description: Blender development hub. Links to the DevTalk forum and the developers blog.
     license: Free
     entry_type: reference
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -246,7 +246,7 @@ entries:
     description: Weekly newsletter with articles and lessons on Blender and 3D.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -259,7 +259,7 @@ entries:
     description: Official Blender chat server for artists and developers.
     license: Free
     entry_type: community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       platform:
@@ -272,8 +272,8 @@ entries:
     description: Yearly Blender Conference in Amsterdam. Talks, workshops, and community meetups.
     license: Free
     entry_type: community
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       platform:
         - web
@@ -285,8 +285,8 @@ entries:
     description: Facebook group where Blender users share renders, ask questions and post tutorials.
     license: Free
     entry_type: community
-    url_last_verified: '2026-10-01'
-    url_status: ok
+    url_last_verified: '2026-11-01'
+    url_status: redirect
     tags:
       platform:
         - web
@@ -298,7 +298,7 @@ entries:
     description: CG Boost sculpting challenge. 31 days, 31 topics.
     license: Free
     entry_type: community
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       workflow:
@@ -316,7 +316,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -332,7 +332,7 @@ entries:
     readme_tags:
       - Blender Fork
       - UI
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -348,7 +348,7 @@ entries:
     readme_tags:
       - Blender
       - Discord
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -364,7 +364,7 @@ entries:
     readme_tags:
       - Blender
       - Tech Art
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -380,7 +380,7 @@ entries:
     readme_tags:
       - 3D/VFX
       - Blender
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -396,7 +396,7 @@ entries:
     readme_tags:
       - Blender
       - Concept Art
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -414,7 +414,7 @@ entries:
     readme_tags:
       - Blender
       - NPR
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -434,7 +434,7 @@ entries:
     readme_tags:
       - Blender
       - Procedural
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -450,7 +450,7 @@ entries:
     readme_tags:
       - 3D
       - Mentorship
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -466,7 +466,7 @@ entries:
     readme_tags:
       - Blender
       - Skool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:
@@ -482,7 +482,7 @@ entries:
     readme_tags:
       - Plasticity
       - Skool
-    url_last_verified: '2026-10-01'
+    url_last_verified: '2026-11-01'
     url_status: ok
     tags:
       tech:

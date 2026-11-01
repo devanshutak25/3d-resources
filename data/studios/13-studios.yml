@@ -14,7 +14,7 @@ studios:
       - advertising
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://instagram.com/_anthillstudios
       linkedin: https://www.linkedin.com/company/anthillstudios/
@@ -38,7 +38,7 @@ studios:
       - 'Masameer: The Movie'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Naughty Dog
     url: https://www.naughtydog.com/
     description: Sony first-party game developer in Santa Monica making cinematic third-person action games.
@@ -58,7 +58,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.naughtydog.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/naughtydog/
       youtube: https://www.youtube.com/user/NaughtyDog
@@ -90,7 +90,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.cdprojektred.com/en/jobs
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/cdprojektred/
       linkedin: https://www.linkedin.com/company/cd-projekt-red/
@@ -115,7 +115,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.remedygames.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/RemedyGames
       linkedin: https://www.linkedin.com/company/32617
@@ -140,7 +140,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.guerrilla-games.com/join
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/guerrillagames/
       linkedin: https://www.linkedin.com/company/guerrilla-games/
@@ -163,8 +163,8 @@ studios:
       - 'Sekiro: Shadows Die Twice'
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://careers.fromsoftware.jp/jp/
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/fromsoftware_jp/
       youtube: https://www.youtube.com/user/FromSoftwareInc/
@@ -188,7 +188,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.supergiantgames.com/join/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/supergiantgames
       youtube: https://www.youtube.com/user/supergiantgames
@@ -210,7 +210,7 @@ studios:
       - God of War Ragnarök
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Ninja Theory
     url: https://ninjatheory.com/
     description: Xbox game studio in Cambridge making story-driven action games.
@@ -230,7 +230,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://ninjatheory.com/careers/opportunities
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Sucker Punch Productions
     url: https://www.suckerpunch.com/
     description: Sony first-party game developer near Seattle making open-world action games.
@@ -250,7 +250,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://jobs.suckerpunch.com/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/suckerpunchprod/
       x: https://x.com/suckerpunchprod
@@ -272,7 +272,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://housemarque.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/housemarque
   - name: Bloober Team
@@ -294,7 +294,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://blooberteam.traffit.com/career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/blooberteam
       x: https://twitter.com/blooberteam
@@ -317,7 +317,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://techland.net/company/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/techlandgames/
       linkedin: https://www.linkedin.com/company/techland/
@@ -342,7 +342,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.gsc-game.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/gsc-gameworld
       youtube: https://www.youtube.com/c/gscgameworldofficial/
@@ -368,7 +368,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.4a-games.com.mt/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/4agames/
       linkedin: https://www.linkedin.com/company/4a-games/
@@ -392,7 +392,7 @@ studios:
       - Destiny Child
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Pearl Abyss
     url: https://www.pearlabyss.com/
     description: South Korean game developer making open-world MMO and action games on its own engine.
@@ -411,7 +411,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.pearlabyss.com/Company/Careers/Intro
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/pearl-abyss
       youtube: https://www.youtube.com/channel/UCVtC-cy2yO6u0dOB7UeajDw
@@ -434,7 +434,7 @@ studios:
       - 'Black Myth: Zhong Kui'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Kuro Games
     url: https://www.kurogames.com/
     description: Guangzhou game developer making anime-style action games for mobile and PC.
@@ -452,7 +452,7 @@ studios:
       - 'Punishing: Gray Raven'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
   - name: PlatinumGames
     url: https://www.platinumgames.com/
     description: Osaka game developer specialising in character action games.
@@ -472,7 +472,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.platinumgames.com/recruit/mid-career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/platinumgames_official/
       youtube: https://www.youtube.com/channel/UCPuG5gaLOk-b_R7N_bp9HaA
@@ -494,7 +494,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.kojimaproductions.jp/en/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/kojimaproductions/
       youtube: https://www.youtube.com/c/KOJIMAPRODUCTIONS
@@ -515,7 +515,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.togeproductions.com/career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       youtube: https://www.youtube.com/user/togeproductions
       x: https://twitter.com/togeproductions
@@ -533,7 +533,7 @@ studios:
       - 'Raji: An Ancient Epic'
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/noddingheadsgames/
       linkedin: https://www.linkedin.com/company/noddingheadsgames/
@@ -555,7 +555,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.ogreheadstudio.com/career
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/ogreheadstudio/
       linkedin: https://in.linkedin.com/company/ogreheadstudio
@@ -580,7 +580,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.supergaming.com/careers.html
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/supergaming_npc/
       linkedin: https://in.linkedin.com/company/supg
@@ -602,7 +602,7 @@ studios:
       - No Heroes Here
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/madmimic/
       youtube: https://www.youtube.com/@MadMimic
@@ -625,7 +625,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://careers.sloclap.com/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/sloclap/
       youtube: https://www.youtube.com/@Sloclap
@@ -651,7 +651,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://digicgroup.com/join-us/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/digicpictures
       linkedin: https://www.linkedin.com/company/digic-pictures
@@ -677,8 +677,8 @@ studios:
       - 'Marvel Rivals: No One Rivals Doom'
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.unit-image.fr/fr/jobs/
-    url_status: ok
-    url_last_verified: '2026-10-30'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/unit_image
       linkedin: https://fr.linkedin.com/company/unit-image
@@ -706,7 +706,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.brunchstudio.tv/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/brunch.studio.tv/
       linkedin: https://www.linkedin.com/company/brunchstudio/
@@ -730,7 +730,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     reel: https://www.plasticwax.com/sizzle-reel
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/plasticwax/
       linkedin: https://www.linkedin.com/company/plastic-wax-animation/
@@ -762,7 +762,7 @@ studios:
     careers: https://www.squeezestudio.com/en/careers
     reel: https://youtu.be/QSZ2viDyslE
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/squeezestudio_animation/
       linkedin: https://www.linkedin.com/company/2420548/
@@ -788,7 +788,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.brazenanimation.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/brazenanimation/
       linkedin: https://www.linkedin.com/company/brazen-animation/
@@ -814,7 +814,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.brainzoostudios.com//
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/brainzoostudios/
       linkedin: https://www.linkedin.com/company/brain-zoo-studios
@@ -838,7 +838,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.virtuosgames.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       x: https://twitter.com/virtuosgames
       artstation: https://www.artstation.com/virtuosgames
@@ -860,7 +860,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.keywordsstudios.com/en/careers/browse-careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/keywordsstudiosglobal/
       linkedin: https://www.linkedin.com/company/keywordsstudios/
@@ -896,7 +896,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://lakshyadigital.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lakshya.digital
       linkedin: https://www.linkedin.com/company/lakshya-digital/
@@ -922,7 +922,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://room8studio.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/room8.group/
       linkedin: https://www.linkedin.com/company/room-8
@@ -949,7 +949,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://kevurugames.com/career/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/kevurugames/
       linkedin: https://www.linkedin.com/company/kevuru-games/
@@ -978,7 +978,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.lemonskystudios.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/lemonskystudios/
       linkedin: https://www.linkedin.com/company/lemonskystudios/
@@ -1001,7 +1001,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.liquiddevelopment.com/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       linkedin: https://www.linkedin.com/company/liquid-development
       x: https://twitter.com/LiquidDevArt
@@ -1026,7 +1026,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://apply.workable.com/sperasoft/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Glass Egg
     url: https://www.glassegg.com/
     description: Vietnamese game art studio for vehicle and hard-surface art, now part of Virtuos.
@@ -1042,7 +1042,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.glassegg.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/glasseggvirtuos/
       linkedin: https://www.linkedin.com/company/glasseggvirtuos/
@@ -1063,7 +1063,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://apply.workable.com/kokku-games/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/kokkugames/
       linkedin: https://www.linkedin.com/company/kokku/
@@ -1083,7 +1083,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://atomhawk.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/atomhawkdesign/
       linkedin: https://www.linkedin.com/company/atomhawk
@@ -1106,7 +1106,7 @@ studios:
       - Duck Duck Goose
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
   - name: Winking Studios
     url: https://www.winkingworks.com/
     description: Singapore-headquartered game art outsourcing and development group with studios in China, Taiwan and Malaysia.
@@ -1130,7 +1130,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.winkingworks.com/careers/
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/winking_studios
       linkedin: https://www.linkedin.com/company/winkingstudios
@@ -1154,7 +1154,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.streamline-studios.com/en/careers
     url_status: ok
-    url_last_verified: '2026-10-30'
+    url_last_verified: '2026-11-01'
     social:
       instagram: https://www.instagram.com/streamlinestudios/
       linkedin: https://www.linkedin.com/company/streamlinestudios/
@@ -1183,7 +1183,7 @@ studios:
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.juegostudio.com/careers
     url_status: ok
-    url_last_verified: '2026-10-31'
+    url_last_verified: '2026-11-01'
     social:
       artstation: https://www.artstation.com/juegostudios
       behance: https://www.behance.net/JuegoStudios
