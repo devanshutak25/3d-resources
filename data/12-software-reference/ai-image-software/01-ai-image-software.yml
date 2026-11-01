@@ -310,6 +310,8 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
+    stale: true
+    last_pushed: '2024-11-13'
   - name: HunyuanDiT (Tencent)
     url: https://github.com/Tencent-Hunyuan/HunyuanDiT
     added_at: '2026-04-16T19:59:30.000Z'

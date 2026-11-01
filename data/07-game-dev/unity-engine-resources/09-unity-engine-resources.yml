@@ -926,3 +926,5 @@ entries:
         - linux
       tech:
         - opensource-alt
+    stale: true
+    last_pushed: '2024-10-28'

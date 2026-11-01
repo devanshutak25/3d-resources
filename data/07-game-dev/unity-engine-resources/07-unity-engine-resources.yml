@@ -22,6 +22,8 @@ entries:
     readme_tags:
       - shader
       - glass
+    stale: true
+    last_pushed: '2024-06-10'
   - name: JourneySand
     url: https://github.com/AtwoodDeng/JourneySand
     added_at: '2026-04-19T17:15:03.000Z'
@@ -245,6 +247,7 @@ entries:
       - ui
     stale: true
     last_pushed: '2019-01-03'
+    archived: true
   - name: KinoObscurance
     url: https://github.com/keijiro/KinoObscurance
     added_at: '2026-04-19T17:15:03.000Z'
@@ -979,6 +982,8 @@ entries:
     readme_tags:
       - ui
       - scroll
+    stale: true
+    last_pushed: '2024-11-23'
   - name: Unity Scrolly
     url: https://github.com/alhaddado/unity-scrolly
     added_at: '2026-04-19T17:15:03.000Z'

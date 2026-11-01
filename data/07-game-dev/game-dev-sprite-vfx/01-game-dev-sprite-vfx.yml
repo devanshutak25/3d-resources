@@ -54,8 +54,6 @@ entries:
         - win
       tech:
         - opensource-alt
-    stale: true
-    last_pushed: '2022-02-16'
   - name: Sprite Sheet Maker
     url: https://isometric8.itch.io/sprite-sheet-maker
     added_at: '2026-04-16T21:13:44.000Z'

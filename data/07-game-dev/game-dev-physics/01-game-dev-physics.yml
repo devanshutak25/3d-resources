@@ -110,8 +110,6 @@ entries:
         - physics
         - opensource-alt
         - unity-plugin
-    stale: true
-    last_pushed: '2023-09-01'
   - name: UnrealJolt
     url: https://github.com/Yadhu-S/UnrealJolt
     added_at: '2026-04-19T17:29:43.000Z'

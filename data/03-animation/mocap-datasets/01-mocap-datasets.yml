@@ -98,6 +98,8 @@ entries:
     year: 2022
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-08-18'
   - name: Motion-X
     url: https://motion-x-dataset.github.io/
     added_at: '2026-10-05T12:00:00.000Z'
@@ -142,6 +144,8 @@ entries:
     year: 2020
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2022-09-10'
   - name: 100STYLE
     url: https://www.ianxmason.com/100style/
     added_at: '2026-10-05T12:00:00.000Z'
@@ -446,6 +450,8 @@ entries:
     year: 2019
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-11-09'
   - name: 3DPW
     url: https://virtualhumans.mpi-inf.mpg.de/3DPW/
     added_at: '2026-10-05T12:00:00.000Z'
@@ -551,6 +557,8 @@ entries:
     year: 2022
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2023-08-16'
   - name: MANN Dog Motion Capture (AI4Animation)
     url: https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2018
     added_at: '2026-10-05T12:00:00.000Z'
@@ -786,6 +794,8 @@ entries:
     year: 2023
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-06-10'
   - name: HuMMan
     url: https://caizhongang.github.io/projects/HuMMan/
     added_at: '2026-10-05T12:00:00.000Z'

@@ -21,3 +21,5 @@ entries:
       - Pose-controlled
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-07-31'

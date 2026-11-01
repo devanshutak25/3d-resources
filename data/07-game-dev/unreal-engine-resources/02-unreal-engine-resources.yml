@@ -109,6 +109,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-26'
   - name: Myo Ue4
     url: https://github.com/getnamo/myo-ue4
     added_at: '2026-04-19T17:29:43.000Z'
@@ -199,6 +201,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-08-12'
   - name: Ps Replay Kit
     url: https://github.com/PushkinStudio/PsReplayKit
     added_at: '2026-04-19T17:29:43.000Z'
@@ -240,6 +244,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-11-06'
   - name: UE4 Game Lift Client SDK
     url: https://github.com/YetiTech-Studios/UE4GameLiftClientSDK
     added_at: '2026-04-19T17:29:43.000Z'
@@ -660,6 +666,8 @@ entries:
         - opensource-alt
       workflow:
         - material-authoring
+    stale: true
+    last_pushed: '2024-06-12'
   - name: DungeonGenerator
     url: https://github.com/orfeasel/DungeonGenerator
     added_at: '2026-04-19T17:29:43.000Z'
@@ -725,6 +733,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-07-09'
   - name: Inventory + Equipment System
     url: https://github.com/angelhodar/OpenRPG_Inventory
     added_at: '2026-04-19T17:29:43.000Z'
