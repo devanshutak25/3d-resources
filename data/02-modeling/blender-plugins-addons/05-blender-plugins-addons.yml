@@ -1,0 +1,638 @@
+entries:
+  - name: Maya Scene IO
+    url: https://github.com/MenuuTUX/maya-scene-io
+    description: Add-on that reads and writes Maya ASCII and reads Maya Binary scenes in Blender without Maya installed.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - maya
+    readme_tags:
+      - Interop
+      - .ma/.mb
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.856Z'
+  - name: Polychase
+    url: https://github.com/theartful/polychase
+    description: Free GeoTracker-style add-on that tracks camera or object motion in video inside Blender with optical flow and PnP.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Tracking
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.858Z'
+  - name: BlendCap
+    url: https://github.com/Arcomade/BlendCap
+    description: Markerless capture add-on that rebuilds body, hand and face performance from one ordinary video and retargets it onto a Blender rig.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - ai-generative
+    readme_tags:
+      - Mocap
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.860Z'
+  - name: Squishy Volumes
+    url: https://github.com/Algebraic-UG/squishy_volumes
+    description: Blender 5 extension that runs Material Point Method (MPM) simulations inside Blender.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - physics
+    readme_tags:
+      - MPM
+      - Simulation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.861Z'
+  - name: DeepBump
+    url: https://github.com/HugoTini/DeepBump
+    description: ML add-on that generates normal and height maps from a single photo inside Blender.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - pbr
+        - ai-generative
+    readme_tags:
+      - Normal Maps
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.862Z'
+  - name: Quick Menu
+    url: https://github.com/passivestar/quickmenu
+    description: Productivity add-on that puts common modeling operators in one menu and adds missing ones.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Productivity
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.863Z'
+  - name: CC/iC Blender Tools
+    url: https://github.com/soupday/cc_blender_tools
+    description: Add-on that imports Character Creator 3-5 and iClone 7-8 characters and sets up their materials in Blender automatically.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+        - rigging
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Character Creator
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.865Z'
+  - name: Import 3dm
+    url: https://github.com/jesterKing/import_3dm
+    description: Blender importer for Rhino .3dm files built on McNeel's rhino3dm module.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Rhino
+      - Import
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.866Z'
+  - name: NijiGPen
+    url: https://github.com/chsh2/nijiGPen
+    description: Grease Pencil add-on with 2D boolean and offset ops, stroke cleanup and mesh generation from 2D shapes.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - concept
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Grease Pencil
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.867Z'
+  - name: Super IO
+    url: https://github.com/atticus-lv/super_io
+    description: 'Clipboard-driven import and export shortcuts for Blender 5: copy files in the OS file browser and paste them into the scene.'
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Import
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.868Z'
+  - name: b3dsdf
+    url: https://github.com/williamchange/b3dsdf
+    description: Shader node group library of 2D/3D signed distance functions and vector ops for procedural materials in Blender.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - procedural
+        - node-based
+    readme_tags:
+      - SDF
+      - Shaders
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.870Z'
+  - name: Drag and Drop Support
+    url: https://github.com/mika-f/blender-drag-and-drop
+    description: Add-on that imports FBX, OBJ, Alembic, BVH and other files dropped onto the Blender window.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Import
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.871Z'
+  - name: Light Wrangler
+    url: https://superhivemarket.com/products/light-wrangler
+    description: Lighting add-on that places lights where you point in the viewport, with scrims, gobos, IES profiles and light textures.
+    license: Paid
+    entry_type: plugin
+    pricing: $59 one-time (individual), 7-day trial
+    tags:
+      workflow:
+        - lighting
+      output:
+        - product-viz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Lighting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.872Z'
+  - name: Fluent
+    url: https://superhivemarket.com/products/fluent
+    description: Hard-surface add-on for boolean cuts plus plate, wire, pipe, grid, screw and cloth panel tools (Power Trip edition).
+    license: Paid
+    entry_type: plugin
+    pricing: $20 / $29.90 (Power Trip)
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Hard Surface
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.874Z'
+  - name: Pie Menu Editor
+    url: https://superhivemarket.com/products/pie-menu-editor
+    description: UI add-on that builds custom pie menus, popups, side panels and toolbars in Blender without code.
+    license: Paid
+    entry_type: plugin
+    pricing: $16 one-time
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - UI
+      - Hotkeys
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.875Z'
+  - name: True Terrain
+    url: https://superhivemarket.com/products/true-terrain
+    description: Landscape add-on with terrain presets, hydro/thermal/wind erosion, rivers, lakes, oceans and masked scattering.
+    license: Paid
+    entry_type: plugin
+    pricing: $9.99 Lite / $59.99 Full
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - procedural
+    readme_tags:
+      - Terrain
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.877Z'
+  - name: Physics Dropper
+    url: https://superhivemarket.com/products/physics-dropper
+    description: Add-on that drops selected objects with rigid body or cloth sims so they settle, then bakes the result to keyframes.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free on GitHub / $4 on Superhive
+    tags:
+      workflow:
+        - simulation
+        - modeling
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - physics
+    readme_tags:
+      - Physics
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.879Z'
+  - name: Conform Object
+    url: https://superhivemarket.com/products/conform-object
+    description: Add-on that projects a smaller object onto a larger surface in one direction, non-destructively, with grid and shrinkwrap modes.
+    license: Paid
+    entry_type: plugin
+    pricing: $21 one-time
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Modeling
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.880Z'
+  - name: Random Flow
+    url: https://superhivemarket.com/products/random-flow
+    description: Hard-surface add-on that generates random sci-fi panels, greebles, extrusions, cables and scatter detail.
+    license: Paid
+    entry_type: plugin
+    pricing: $15 one-time
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - procedural
+    readme_tags:
+      - Greebles
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.882Z'
+  - name: UVgami
+    url: https://superhivemarket.com/products/uvgami
+    description: One-click automatic UV unwrapper for Blender with hard-surface and organic modes, batch unwrap and a proxy mode for dense meshes.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free on GitHub / $1 on Superhive
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - UV
+      - Auto Unwrap
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.884Z'
+  - name: Meerkat
+    url: https://github.com/arryllopez/meerkat
+    description: Blender addon and sync server for real-time, object-level collaborative scene layout between Blender instances over LAN or the internet.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - previs
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - collaborative
+    readme_tags:
+      - Collaboration
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.540Z'
+  - name: CurioMesh
+    url: https://github.com/CurioCrafter/CurioMesh
+    description: Blender addon that auto-retopologizes sculpts and scans into quads part by part, or redoes only a caged region and stitches it back without gaps.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - retopo
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - photogrammetry
+    readme_tags:
+      - Retopology
+      - Quads
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.608Z'
+  - name: Spriteturn
+    url: https://kedrem.itch.io/spriteturn
+    description: Blender addon that renders a model from every needed direction frame by frame and packs a pixel-art sprite sheet with JSON and a Godot 4 SpriteFrames file.
+    license: Freemium
+    entry_type: plugin
+    pricing: Free Lite / $9.99
+    tags:
+      workflow:
+        - rendering
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - godot
+    readme_tags:
+      - Sprite Sheets
+      - Godot
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.624Z'
+  - name: Game Rig Tools
+    url: https://cgdive.itch.io/game-rig-tools
+    description: CGDive Blender addon that builds game-ready deform rigs and exports rigged, animated characters to Unreal, Unity and Godot.
+    license: Free
+    entry_type: plugin
+    pricing: Name your own price
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - unreal
+        - unity
+        - godot
+    readme_tags:
+      - Game Rigs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.626Z'
+  - name: Rigodotify
+    url: https://felesmachina.itch.io/rigodotify
+    description: Rigify feature set and converter that turns Blender rigs into game-engine rigs whose bones Godot, Unity and Unreal retargeters detect automatically.
+    license: Free
+    entry_type: plugin
+    pricing: Name your own price
+    tags:
+      workflow:
+        - rigging
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - godot
+        - unity
+        - unreal
+    readme_tags:
+      - Rigify
+      - Game Rigs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.637Z'
+  - name: PSX Retro Tools
+    url: https://fawkek.itch.io/psx-retro-tools
+    description: Blender addon that turns scenes into PS1-style visuals with low-poly, low-res, dithered and unstable retro effects.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+        - rendering
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    readme_tags:
+      - PS1 Style
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.639Z'

@@ -397,3 +397,25 @@ entries:
       - Paid
       - Production Tracking
     best_for: Studio production tracking
+  - name: RenderDay
+    url: https://renderday.com/
+    description: GPU render farm for Blender that test-renders frames of an uploaded .blend and quotes one fixed price before you pay.
+    license: Paid
+    entry_type: service
+    pricing: Per-job fixed quote (examples from about EUR 2 per still)
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - cloud
+      tech:
+        - render-farm
+        - cloud-render
+        - blender
+    readme_tags:
+      - Render Farm
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.583Z'

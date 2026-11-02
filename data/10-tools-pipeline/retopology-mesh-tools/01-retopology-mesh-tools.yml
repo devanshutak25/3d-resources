@@ -173,3 +173,72 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: Poly Budget
+    url: https://ozdeger.github.io/poly-budget/
+    description: Browser tool that decimates a model to a triangle budget or quad-remeshes it, bakes a normal map from the original and exports FBX, GLB or OBJ.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - retopo
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - Decimation
+      - Remesh
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.515Z'
+  - name: MeshDecimationTools
+    url: https://github.com/Georgy-Khachatryan/MeshDecimationTools
+    description: C++ library that builds discrete LOD chains and continuous meshlet-hierarchy LOD for triangle meshes using edge-collapse decimation.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    best_for: engine and tech-art LOD pipelines
+    tags:
+      workflow:
+        - retopo
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - real-time
+    readme_tags:
+      - LOD
+      - Decimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.536Z'
+  - name: trueform
+    url: https://polydera.com/trueform
+    description: Mesh library for exact booleans, remeshing, registration and spatial queries, with C++, Python and TypeScript/WASM bindings and a live browser demo.
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+    readme_tags:
+      - Mesh Booleans
+      - CSG
+    pricing: Free non-commercial / paid commercial license
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.580Z'

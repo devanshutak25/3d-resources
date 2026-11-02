@@ -386,3 +386,192 @@ entries:
       - Browser
       - GLB
     best_for: Static model geometry inspection
+  - name: GLBKit
+    url: https://www.glbkit.com/
+    description: Browser toolkit that opens 19 3D formats, converts between GLB, glTF, OBJ, FBX and STL, and reports triangles, draw calls and texture memory.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - GLB
+      - Viewer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.509Z'
+  - name: 3D Lab Viewer
+    url: https://viewer.3dlab.id/
+    description: Browser viewer for STL, OBJ, STEP, 3MF and GLB with measuring, cross-sections and export to STL, OBJ, GLB or 3MF.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - product-viz
+        - generalist
+      platform:
+        - web
+        - win
+    readme_tags:
+      - STEP
+      - Viewer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.511Z'
+  - name: Volum
+    url: https://volum.didac.dev/
+    description: Desktop library that indexes local STL, 3MF, OBJ and STEP folders into searchable, thumbnailed projects without moving files.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      output:
+        - product-viz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Asset Manager
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.513Z'
+  - name: KTX Viewer
+    url: https://ktxviewer.com/
+    description: Browser viewer for KTX and KTX2 textures, including Basis Universal, BC1-BC7, ETC and ASTC, with mip, cubemap face and channel inspection.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - KTX2
+      - Textures
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.518Z'
+  - name: Trophy
+    url: https://github.com/taigrr/trophy
+    description: Terminal 3D viewer that renders OBJ, GLB and STL files with software rendering, including GLB textures and over SSH.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - glb
+    readme_tags:
+      - Terminal
+      - Viewer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.548Z'
+  - name: <model-viewer>
+    url: https://modelviewer.dev/
+    description: Google web component that embeds interactive glTF/GLB models in a page, with AR mode and an editor for testing models.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - product-viz
+        - xr
+      platform:
+        - web
+        - ios
+        - android
+      tech:
+        - glb
+    readme_tags:
+      - GLB
+      - AR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.554Z'
+  - name: Babylon.js Sandbox
+    url: https://sandbox.babylonjs.com/
+    description: Drag-and-drop browser viewer for glTF, GLB, OBJ and .babylon files built on the Babylon.js engine.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - glb
+        - pbr
+    readme_tags:
+      - GLB
+      - Viewer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.566Z'
+  - name: glTF Sample Viewer
+    url: https://github.khronos.org/glTF-Sample-Viewer-Release/
+    description: Khronos reference viewer that renders glTF 2.0 files with physically based shading in WebGL.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
+        - glb
+    readme_tags:
+      - glTF
+      - Reference Viewer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.647Z'
+  - name: PlayCanvas Model Viewer
+    url: https://playcanvas.com/viewer
+    description: Browser viewer for glTF 2.0 models and 3D Gaussian splats from PlayCanvas, built to follow the glTF spec closely.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - glb
+        - gaussian-splatting
+    readme_tags:
+      - glTF
+      - 3DGS
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.649Z'

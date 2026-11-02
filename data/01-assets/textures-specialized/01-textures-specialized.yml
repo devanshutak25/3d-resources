@@ -155,3 +155,46 @@ entries:
         - web
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Screaming Brain Studios
+    url: https://screamingbrainstudios.itch.io/
+    description: 'itch.io creator releasing 30,000+ CC0 textures and tiles: tiny low-res texture packs, planet surfaces, space backgrounds and isometric tiles.'
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - Retro Textures
+      - CC0
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.374Z'
+  - name: Pixar One Twenty Eight
+    url: https://renderman.pixar.com/pixar-one-twenty-eight
+    description: Pixar's 1993 library of 128 repeating textures (bricks, fabrics, woods), updated with bump and normal maps and released under CC BY 4.0.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - generalist
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - pbr
+    readme_tags:
+      - Pixar
+      - Tileable
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.462Z'

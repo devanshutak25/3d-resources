@@ -153,3 +153,20 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > touch up UI please [Image #1]
 
 **Answered:** Filter panel polish: search icon, denser chips, Works for + People (size, short labels) on one row, labels aligned to chips, tinted active chips everywhere, dark native controls + accent checkbox, intro trimmed (suggest link moved to credit line), social icons right-aligned on wrap, chip-row scroll fade + 2-column tablet grid. Shared site header left as-is (all generated pages use it).
+
+**Prompt:** (2026-11-02)
+> There are a lot of now vibe coded tools out now. Can you please find and add more assets
+>
+> Add https://keenface.ai/ and https://github.com/nikopueringer/CorridorKey2.0
+>
+> Also, look for more studios.
+>
+>
+> Let's flesh out our lists even more
+
+**Answered:** Catalog +367 (3,838 -> 4,205), studios +188 (1,232 -> 1,420, 79 countries). Added KeenFace (§09 3d-generation), CorridorKey 2.0 repo + paid CorridorKey 2.0 Plugin (§09 ai-assisted-cg-tools); fixed original CorridorKey license Open Source -> Free (custom CC BY-NC-SA terms). 5 catalog discovery agents (web-tools, dcc-plugins, ai-cg, motion-vfx, assets) + 3 studio agents (asia, emea, americas+specialists) launched.
+
+**Prompt:** (2026-11-03)
+> yes please, push
+
+**Answered:** Committed the discovery batch on main and pushed to origin/main.

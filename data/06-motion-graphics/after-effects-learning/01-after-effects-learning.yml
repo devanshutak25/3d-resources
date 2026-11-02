@@ -35,3 +35,58 @@ entries:
       - Free
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: After Effects Command IDs
+    url: https://hyperbrew.github.io/after-effects-command-ids/
+    description: Interactive viewer and JSON files listing After Effects menu Command IDs across versions, for use in scripts.
+    license: Open Source
+    entry_type: reference
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Scripting
+      - Reference
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.414Z'
+  - name: After Effects Scripting Guide (docsforadobe)
+    url: https://ae-scripting.docsforadobe.dev/
+    description: Community-maintained reference for the After Effects ExtendScript scripting API, part of the docsforadobe.dev directory.
+    license: null
+    entry_type: reference
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Scripting
+      - Docs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.415Z'
+  - name: After Effects Expression Reference (docsforadobe)
+    url: https://ae-expressions.docsforadobe.dev/
+    description: Community-maintained reference of After Effects expression methods, objects and attributes.
+    license: null
+    entry_type: reference
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Expressions
+      - Docs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.416Z'

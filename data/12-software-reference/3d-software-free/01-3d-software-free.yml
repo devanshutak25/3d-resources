@@ -424,3 +424,47 @@ entries:
       - Open Source
       - Blender Fork
     best_for: Blender with friendlier UI
+  - name: Roughform
+    url: https://roughform.com/
+    description: Browser hard-surface modeler with bevel, inset and loop tools, nondestructive booleans, modifiers and OBJ export, usable on desktop and iPad.
+    license: Free
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+        - ipad
+    readme_tags:
+      - Hard Surface
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.501Z'
+  - name: SculptForge
+    url: https://sculptforge.app/
+    description: Open-source sculpting app with ZBrush-style keys, quad remesh, LOD generation, OpenUSD and Python, plus send-to-Unreal and optional AI brush and sketch-to-3D tools.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - sculpting
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - usd
+        - opensource-alt
+    readme_tags:
+      - Sculpting
+      - ZBrush Alt
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.572Z'

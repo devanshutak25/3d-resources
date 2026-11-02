@@ -85,3 +85,91 @@ entries:
       - Paid
       - Cinema 4D
     best_for: Tree and plant generation
+  - name: Cinema4D MCP
+    url: https://github.com/ttiimmaacc/cinema4d-mcp
+    description: Cinema 4D plugin and MCP server that connects the app to Claude for prompt-driven modeling and scene edits.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - cinema-4d
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.828Z'
+  - name: Plugins 4D
+    url: https://plugins4d.com/
+    description: Cinema 4D plugin store with HOT4D oceans, Flow Graph node animation, UDIM import, Jet Fluids and paint tools, built for R20 to 2027.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - fx
+        - texturing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Plugin Store
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.951Z'
+  - name: Nitro4D
+    url: https://nitro4d.com/
+    description: Cinema 4D plugin store with 30 tools such as NitroBake, NitroSplineModel and NitroMoFracture for baking, modeling and fracturing.
+    license: Paid
+    entry_type: plugin
+    pricing: EUR 15-65 per plugin
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Plugin Store
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.952Z'
+  - name: Aturtur's Cinema 4D Scripts
+    url: https://github.com/aturtur/cinema4d-scripts
+    description: Free collection of commented Python scripts for Cinema 4D's Script Manager, useful for learning C4D scripting.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Scripts
+      - Python
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.953Z'

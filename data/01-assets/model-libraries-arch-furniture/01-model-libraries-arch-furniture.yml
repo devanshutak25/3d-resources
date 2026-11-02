@@ -193,3 +193,75 @@ entries:
         - modeling
       platform:
         - web
+  - name: Maxtree
+    url: https://www.maxtree.org/
+    description: Store of 3D plant and tree model collections for archviz, compatible with 3ds Max, Blender, C4D, Unreal, Maya and Twinmotion.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - Vegetation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.379Z'
+  - name: Globe Plants
+    url: https://www.globeplants.com/
+    description: Photoreal 3D plant and tree models sold per species for 3ds Max, SketchUp and other CG tools, with custom model requests.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - xr
+      platform:
+        - web
+    readme_tags:
+      - Vegetation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.381Z'
+  - name: XfrogPlants
+    url: https://xfrog.com/
+    description: Library of about 8,000 3D plant models for archviz.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - Vegetation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.382Z'
+  - name: CADMAPPER
+    url: https://cadmapper.com/
+    description: Web tool that exports map data for any area as CAD files for AutoCAD, SketchUp, Rhino and Illustrator, with free whole-city road files.
+    license: Freemium
+    entry_type: tool
+    pricing: Free whole-city files; areas up to 100 km2 for a small fee
+    tags:
+      workflow:
+        - modeling
+        - previs
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - City Context
+      - CAD
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.384Z'

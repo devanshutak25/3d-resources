@@ -65,3 +65,27 @@ entries:
         - generalist
       platform:
         - web
+  - name: ScansLibrary
+    url: https://www.scanslibrary.com/
+    description: Subscription library of photoscanned surfaces, 3D assets, atlases, fabrics and large-scale scans, with UE5 PCG systems and some free assets.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Revenue-tiered plans, e.g. Indie $69/mo, Business $499/mo, Studio $1,399/mo
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - photogrammetry
+        - pbr
+        - unreal
+    readme_tags:
+      - Scans
+      - Atlases
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.463Z'

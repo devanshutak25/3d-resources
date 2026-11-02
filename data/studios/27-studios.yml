@@ -1,0 +1,1104 @@
+studios:
+  - name: AIOI Studios
+    url: https://aioi.io/
+    description: Full-pipeline VFX, animation and new media studio for film and series, TPN Blue Shield certified.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    careers: https://aioi.io/career/
+    social:
+      youtube: https://www.youtube.com/channel/UCLxBdD_IVKSwtt33etaw-5g
+    size: mid
+    founded: 2022
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.047Z'
+  - name: Colory Animation Studio
+    url: https://colory.vn/
+    description: CG animation studio making commercials, TV series, VFX and original shorts.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - episodic
+      - film
+    founded: 2009
+    notable:
+      - The Adventure of Egg, Lime and Chili
+      - Vinamilk Susu campaigns
+      - In the Shade of the Tree (Duoi Bong Cay)
+    social:
+      vimeo: https://vimeo.com/coloryanimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.092Z'
+  - name: Thunder Cloud Studio
+    url: https://thundercloud-studio.com/
+    description: AAA game art outsourcing studio for 3D characters, environments, cinematics and game animation.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    disciplines:
+      - outsourcing
+      - cinematics
+      - 3d-animation
+    markets:
+      - games
+    founded: 2013
+    careers: https://thundercloud-studio.com/career/
+    social:
+      linkedin: https://www.linkedin.com/company/thunder-cloud-studio/
+      artstation: https://www.artstation.com/thundercloudstudio
+      youtube: https://www.youtube.com/channel/UCpyZIcOZjMvFYeFdnJxB4SQ
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.137Z'
+  - name: Life Render
+    url: https://www.liferender.com/
+    description: 3D medical animation studio making mechanism-of-action, surgical and medical device animations for pharma and medtech.
+    hq:
+      city: Rajagiriya
+      country: Sri Lanka
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+    notes: Site gives a Rajagiriya address; a LinkedIn page named liferender says Burbank, CA (unconfirmed same company).
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.183Z'
+  - name: Auleek
+    url: https://auleek.com/
+    description: 3D art outsourcing studio for game assets, character animation, rigging and archviz.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    offices:
+      - city: Brossard
+        country: Canada
+      - city: Aire-la-Ville
+        country: Switzerland
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - archviz
+    markets:
+      - games
+    founded: 2015
+    social:
+      linkedin: https://www.linkedin.com/company/auleek/
+      artstation: https://www.artstation.com/auleekltd
+      vimeo: https://vimeo.com/auleek
+      youtube: https://www.youtube.com/channel/UCwIE9pDkkF8pNDCO7OXyEPQ
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.225Z'
+  - name: Cycore Studios
+    url: https://www.cycorestudios.com/
+    description: 3D animation, VFX and product and architectural visualization for films, TV series and commercials.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - 3d-animation
+      - vfx
+      - product-viz
+      - archviz
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://www.cycorestudios.com/careers
+    size: small
+    founded: 2011
+    social:
+      linkedin: https://www.linkedin.com/company/cycore-studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.264Z'
+  - name: Tiltnek Studios
+    url: https://tiltnek.com/
+    description: 3D studio making game-ready assets, cinematic animation and original games.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - games
+    markets:
+      - games
+    founded: 2025
+    social:
+      instagram: https://instagram.com/tiltnek
+      linkedin: https://linkedin.com/company/tiltnek
+      youtube: https://youtube.com/@tiltnek
+      x: https://x.com/tiltnek
+    size: boutique
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.303Z'
+  - name: Dreamer Donkey
+    url: https://www.dreamerdonkey.com/
+    description: 2D and 3D animation, motion graphics and storyboarding studio for brands.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      youtube: https://www.youtube.com/@dreamerdonkey
+      linkedin: https://www.linkedin.com/company/dreamer-donkey-ltd-/
+    size: small
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.342Z'
+  - name: Studio Britānta
+    url: https://www.studiobritanta.com/
+    description: Creative studio making 2D and 3D motion graphics, animated music videos and ads.
+    hq:
+      city: Kathmandu
+      country: Nepal
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - music-video
+      - advertising
+      - brand
+    notable:
+      - UNFAO Black Cardamom infomercial
+      - WWF Nepal corral infomercials
+    social:
+      instagram: https://www.instagram.com/studio.britanta/
+      behance: https://www.behance.net/studiobritanta
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.381Z'
+  - name: Incessant Rain Studios
+    url: https://www.incessantrain.com/
+    description: Animation and VFX studio working for international film, TV and streaming productions.
+    hq:
+      city: Kathmandu
+      country: Nepal
+    offices:
+      - city: Rancho Palos Verdes
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    careers: https://incessantrain.com/careers
+    social:
+      instagram: https://www.instagram.com/incessantrain.studios/
+      linkedin: https://www.linkedin.com/company/incessant-rain-animation-studios-p.-ltd./
+      youtube: https://www.youtube.com/channel/UCP2YiLbebgT-Hut35h7CKCg
+    size: mid
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.418Z'
+  - name: ICE Animations
+    url: https://www.iceanimations.com/
+    description: Animation and VFX house of the Lakson Group making 2D, 3D, motion graphics and CGI for films, ads and TV.
+    hq:
+      city: Karachi
+      country: Pakistan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - film
+      - episodic
+    careers: https://www.iceanimations.com/careers/
+    social:
+      instagram: https://www.instagram.com/iceanimations/
+      linkedin: https://www.linkedin.com/company/ice-animations/
+      vimeo: https://vimeo.com/iceanimation
+    size: large
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.460Z'
+  - name: 8bit
+    url: https://8bit-studio.co.jp/
+    description: Anime studio producing TV series and films, with in-house 3DCG and character design.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Niigata
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2008
+    careers: https://8bit-studio.co.jp/recruit/
+    notable:
+      - That Time I Got Reincarnated as a Slime
+      - Blue Lock
+      - Infinite Stratos
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.500Z'
+  - name: GONZO
+    url: https://gonzo.co.jp/
+    description: Anime studio producing TV series, films and digital animation since the 1990s.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1992
+    careers: https://www.gonzo.co.jp/recruit/index.html
+    notable:
+      - Afro Samurai
+      - Last Exile
+      - Hellsing
+    social:
+      youtube: https://www.youtube.com/user/gonzo
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.538Z'
+  - name: Tezuka Productions
+    url: https://tezuka.co.jp/
+    description: Anime studio founded by Osamu Tezuka, producing series and films from his manga library.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1968
+    careers: https://tezuka.co.jp/recruit/index.html
+    notable:
+      - Astro Boy (2003)
+      - Black Jack
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.577Z'
+  - name: ROBOT COMMUNICATIONS
+    url: https://www.robot.co.jp/
+    description: Film, commercial and animation production company with in-house CG, part of IMAGICA GROUP.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 1986
+    careers: https://www.robot.co.jp/recruit_entrance/
+    notable:
+      - La Maison en Petits Cubes
+      - 'Always: Sunset on Third Street'
+    social:
+      instagram: https://www.instagram.com/robot_communications_inc/
+      x: https://x.com/robot_inc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.615Z'
+  - name: Studio Deen
+    url: https://www.deen.co.jp/
+    description: Anime studio producing TV series, films and OVAs since 1975.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1975
+    careers: https://www.deen.co.jp/recruitlist
+    notable:
+      - Higurashi When They Cry
+      - KonoSuba
+      - Hetalia
+      - Rurouni Kenshin (1996)
+    social:
+      x: https://x.com/St_DEEN_PR
+      youtube: https://www.youtube.com/c/StudioDEEN
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.654Z'
+  - name: TROYCA
+    url: https://troyca.co.jp/
+    description: Anime studio producing TV series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2013
+    careers: https://troyca.co.jp/recruit
+    notable:
+      - Aldnoah.Zero
+      - IDOLiSH7
+      - Overtake!
+    social:
+      x: https://twitter.com/troyca_inc
+      youtube: https://www.youtube.com/channel/UCFYnGaIja9opYiDA58CpoRQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.693Z'
+  - name: Brain's Base
+    url: http://www.brainsbase.co.jp/
+    description: Anime studio producing TV series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1996
+    careers: http://www.brainsbase.co.jp/recruit/
+    notable:
+      - Durarara!!
+      - Baccano!
+      - Natsume's Book of Friends
+    social:
+      x: https://twitter.com/brains_base
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.733Z'
+  - name: Studio Gokumi
+    url: https://www.gokumi.co.jp/
+    description: Anime studio producing TV series plus graphics and video for games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - games
+    founded: 2010
+    notable:
+      - Yuki Yuna is a Hero
+      - Saki Achiga-hen
+    social:
+      x: https://twitter.com/St_gokumi
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.772Z'
+  - name: SILVER LINK.
+    url: https://www.silverlink.co.jp/
+    description: Anime studio producing TV series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2007
+    notable:
+      - Non Non Biyori
+      - Baka and Test
+    social:
+      x: https://x.com/silverlink2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.811Z'
+  - name: Bascule
+    url: https://bascule.co.jp/
+    description: Interactive studio designing live, broadcast, XR and space-linked experiences for brands and media.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    founded: 2000
+    social:
+      x: https://twitter.com/bascule_inc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.850Z'
+  - name: Asahi Production
+    url: https://asahi-pro.co.jp/
+    description: Animation production house providing 2D animation, 3DCG, compositing, finishing and editing for anime and commercials.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 1973
+    careers: https://asahi-pro.co.jp/recruit
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.889Z'
+  - name: Lumine Studio
+    url: https://www.luminestudio.com/
+    description: VFX, 3D animation, motion graphics and game asset studio working on films, series and ads.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - outsourcing
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    founded: 2006
+    careers: http://luminestudio.com/careers
+    social:
+      instagram: https://www.instagram.com/lumine_studio/
+      linkedin: https://www.linkedin.com/company/lumine-studio/
+      x: https://twitter.com/LumineStudio
+      youtube: https://www.youtube.com/user/LumineShowreel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.928Z'
+  - name: Illusion CGI Studio
+    url: https://www.illusion.co.th/
+    description: CGI still, CGI motion and retouching studio for advertising agencies.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+    founded: 2001
+    size: small
+    notable:
+      - KFC Hot & Spicy (Ogilvy Hong Kong)
+      - Lurzer's Archive covers
+    social:
+      instagram: https://www.instagram.com/illusioncgistudio/
+      linkedin: https://www.linkedin.com/company/illusion-cgi-studio/
+      behance: https://www.behance.net/IllusionCGIstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:13.968Z'
+  - name: M2 Animation
+    url: https://m2animation.com/
+    description: Animation studio making TV series, game trailers and cinematics with 350+ artists in Bangkok.
+    hq:
+      city: Bangkok
+      country: Thailand
+    offices:
+      - city: Aarhus
+        country: Denmark
+      - city: Beverly Hills
+        country: United States
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - episodic
+      - games
+    founded: 2012
+    size: large
+    careers: https://m2animation-2.careers-page.com
+    notable:
+      - Warhammer Age of Sigmar cinematic trailer
+      - Whiteout Survival (Century Games)
+      - 'Ire: A Prologue (ProbablyMonsters)'
+      - Team Mekbots (Peacock)
+    social:
+      linkedin: https://www.linkedin.com/company/m2animation/
+      youtube: https://www.youtube.com/@M2ANIMATIONSTUDIO
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.008Z'
+  - name: EEZ Studios
+    url: https://www.eezstudios.com/
+    description: CG production studio making original IP, animated series, music videos and commercials.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+      - music-video
+      - advertising
+    founded: 2016
+    size: small
+    notable:
+      - A Letter to Hanako
+      - Deva Village
+      - Butterbear music videos
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.048Z'
+  - name: Muffin Animation
+    url: https://www.muffinanimation.com/
+    description: 3D animation, character design, motion graphics and VFX for TV commercials and digital experiences.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+      - vfx
+    markets:
+      - advertising
+      - music-video
+    social:
+      youtube: https://www.youtube.com/c/muffinanimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.086Z'
+  - name: Puppeteer Studios
+    url: https://www.puppeteerstudios.com/
+    description: 3D animation and cinematics studio making game art, trailers and animation for games, film, TV and brands.
+    hq:
+      city: Pasig City
+      country: Philippines
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - outsourcing
+    markets:
+      - games
+      - film
+      - episodic
+      - brand
+    notable:
+      - 'Gears of War: E-Day environment art'
+      - Pioneers of Pagonia
+      - Black Adam
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.126Z'
+  - name: Flystudio
+    url: https://flystudio.my/
+    description: Animation and VFX studio making TV commercials, film VFX, game cinematics and original animated features.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cinematics
+    markets:
+      - advertising
+      - film
+      - games
+    founded: 2001
+    size: mid
+    notable:
+      - Putri Santubong
+      - A Mighty Adventure
+      - Munchy's Mini Tiger Bar TVC
+    social:
+      instagram: https://www.instagram.com/flystudiokl/
+      linkedin: https://www.linkedin.com/company/flystudiokl
+      youtube: https://www.youtube.com/@flystudio-asia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.167Z'
+  - name: Xanthus Animation Studio
+    url: https://www.xanthus.com.tw/
+    description: Animation and VFX studio developing original animated IP and producing animation and post VFX for film and TV.
+    hq:
+      city: New Taipei
+      country: Taiwan
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2004
+    social:
+      youtube: https://www.youtube.com/user/xanthus3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.209Z'
+  - name: SIMAGE Animation
+    url: https://www.simage.hk/
+    description: Animation studio producing 2D and 3D series, original IP and commercial animation.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2004
+    size: small
+    social:
+      instagram: https://www.instagram.com/simage.animation/
+      linkedin: https://hk.linkedin.com/company/simage-animation-and-media-ltd
+      x: https://x.com/SimageAnimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.247Z'
+  - name: Gonzhu Studios
+    url: https://www.gonzhustudios.com/
+    description: VFX and animation studio making digital doubles, 3D modelling and original kids and teen series.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    offices:
+      - country: Spain
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.286Z'
+  - name: One Cool Cut
+    url: https://www.onecoolcut.com/
+    description: Post house of One Cool Group providing editing, motion graphics, grading and 3D CG for ads, online video and trailers.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - motion-design
+      - cg
+    markets:
+      - advertising
+      - film
+    social:
+      vimeo: https://vimeo.com/onecoolcut
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.328Z'
+  - name: idNerd
+    url: https://www.idnerd.com/
+    description: Animation and interactive studio making projection mapping, 3D anamorphic displays and immersive exhibitions.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2010
+    size: small
+    careers: https://idnerd.bamboohr.com/jobs
+    notable:
+      - Causeway Bay SOGO anamorphic facade
+      - City Gallery 'Building for Tomorrow' exhibition
+      - MGM Spectacle
+    social:
+      linkedin: https://hk.linkedin.com/company/idnerd
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.368Z'
+  - name: Moonshine Studio
+    url: https://moonshine.tw/
+    description: Animation and VFX studio for drama, film, concerts and commercials, with a virtual production stage and mocap.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - vfx
+      - 3d-animation
+      - virtual-production
+      - mocap
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Gold Leaf (PTS drama)
+      - Mayday Life concert film
+    social:
+      linkedin: https://www.linkedin.com/company/moonshineanimation/
+    size: large
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.408Z'
+  - name: BLACKBOW
+    url: https://blackbow.cn/
+    description: Multimedia studio making visuals and immersive shows for national ceremonies, exhibitions and brand events.
+    hq:
+      city: Beijing
+      country: China
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    careers: https://blackbow.cn/career/
+    notable:
+      - Beijing 2022 Winter Olympics opening ceremony
+      - China National Day Evening Gala 2019
+      - Beijing 8 Minutes show, PyeongChang 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.445Z'
+  - name: Papergames
+    url: https://www.papegames.com/
+    description: Game developer making 3D dress-up and adventure games for PC, console and mobile.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2013
+    careers: https://career.papegames.com/PaperStar
+    notable:
+      - Infinity Nikki
+      - Love and Deepspace
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.484Z'
+  - name: Lilith Games
+    url: https://www.lilith.com/
+    description: Game developer and publisher of mobile and PC strategy, RPG and shooter games.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - games
+    markets:
+      - games
+    size: large
+    notable:
+      - AFK Arena
+      - Rise of Kingdoms
+      - Farlight 84
+    social:
+      linkedin: https://www.linkedin.com/company/lilith-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.525Z'
+  - name: HYPERGRYPH
+    url: https://www.hypergryph.com/
+    description: Game developer making anime-styled strategy and action RPG games.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2017
+    size: large
+    notable:
+      - Arknights
+      - 'Arknights: Endfield'
+    social:
+      linkedin: https://www.linkedin.com/company/hypergryph/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.565Z'
+  - name: Gulliver Studios
+    url: https://www.gulliverstudios.com/
+    description: VFX studio delivering visual effects for Korean and international film and streaming series.
+    hq:
+      city: Goyang
+      country: South Korea
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2019
+    careers: https://www.gulliverstudios.com/careers
+    notable:
+      - Squid Game (Emmy, Outstanding Special Visual Effects)
+    social:
+      instagram: https://www.instagram.com/gulliverstudios/
+      youtube: https://www.youtube.com/@gulliverstudiosvfx2946
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.603Z'
+  - name: ROI VISUAL
+    url: https://roivisual.com/
+    description: Animation studio and IP company producing kids series such as Robocar POLI.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Robocar POLI
+      - Doremi Friends
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.642Z'
+  - name: Lionheart Studio
+    url: https://lionhearts.co.kr/
+    description: Game developer making MMORPG, collection RPG and shooter games for PC, console and mobile.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    careers: https://lionhearts.co.kr/career
+    notable:
+      - 'Odin: Valhalla Rising'
+      - Valhalla Survival
+    social:
+      youtube: https://www.youtube.com/@LionheartStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.683Z'
+  - name: WEMADE
+    url: https://www.wemade.com/
+    description: Game developer and publisher of MMORPGs and blockchain games.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    notable:
+      - The Legend of Mir 2
+      - Night Crows
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.723Z'
+  - name: Com2uS
+    url: https://www.com2us.com/
+    description: Mobile game developer and publisher.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1998
+    size: large
+    notable:
+      - Summoners War
+      - Com2uS Pro Baseball
+    social:
+      linkedin: https://www.linkedin.com/company/com2us/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.762Z'
+  - name: DIGITAL IDEA
+    url: http://www.digitalidea.co.kr/
+    description: VFX studio working on Korean films and series since 1998, plus VR/AR, new media and commercials.
+    hq:
+      city: Goyang
+      country: South Korea
+    disciplines:
+      - vfx
+      - xr
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 1998
+    careers: http://www.digitalidea.co.kr/myboard/re_careers
+    notable:
+      - PyeongChang 2018 Olympics opening ceremony AR
+      - Train to Busan
+      - '#Alive'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.802Z'
+  - name: Rising Sun Pictures
+    url: https://www.rsp.com.au/
+    description: VFX studio for Hollywood features and series, part of Pitch Black, with an accredited VFX education program.
+    hq:
+      city: Adelaide
+      country: Australia
+    offices:
+      - city: Brisbane
+        country: Australia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 1995
+    size: large
+    careers: https://www.rsp.com.au/careers/
+    social:
+      instagram: https://instagram.com/rspvfx
+      linkedin: https://www.linkedin.com/company/rising-sun-pictures
+      x: https://twitter.com/rspvfx
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.842Z'
+  - name: Viskatoons
+    url: https://www.viskatoons.com/
+    description: Animation studio making series, commercials, explainers and music videos.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+      - music-video
+      - brand
+    founded: 1980
+    size: boutique
+    social:
+      instagram: https://www.instagram.com/viskatoons/
+      linkedin: https://www.linkedin.com/company/viskatoons
+      vimeo: https://vimeo.com/viskatoons
+      youtube: https://www.youtube.com/@ViskatoonsOfficial
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.883Z'
+  - name: Virtual Ideas
+    url: https://www.virtualideas.com.au/
+    description: 3D visualisation and animation studio making renders and marketing films for property and architecture.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    size: small
+    notable:
+      - Wynyard Place
+      - Melrose Park Retirement Resort
+      - Barangaroo
+    social:
+      instagram: https://www.instagram.com/virtualideas/
+      linkedin: https://au.linkedin.com/company/virtual-ideas
+      vimeo: https://vimeo.com/virtualideas
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.921Z'
+  - name: Cheeky Little Media
+    url: https://cheekylittle.com.au/
+    description: Kids animation studio creating original animated series and entertainment brands.
+    hq:
+      city: Manly
+      country: Australia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2013
+    size: small
+    notable:
+      - Kitty is Not a Cat
+    social:
+      instagram: https://www.instagram.com/cheekylittlemedia/
+      linkedin: https://au.linkedin.com/company/cheeky-little
+      youtube: https://www.youtube.com/channel/UCcfobVKfEX_wSVxKQuAHpPQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:14.960Z'
+  - name: KOJO
+    url: https://kojo.co/
+    description: Sport, experience and entertainment company making screen content, VFX, motion and live event experiences, part of PMY Group.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Adelaide
+        country: Australia
+      - city: Sydney
+        country: Australia
+      - city: Brisbane
+        country: Australia
+      - city: Perth
+        country: Australia
+    disciplines:
+      - vfx
+      - motion-design
+      - experiential
+    markets:
+      - film
+      - brand
+      - advertising
+    size: mid
+    careers: https://kojo.co/careers/
+    notable:
+      - 'Ultraman: Rising'
+      - NFL Melbourne Game
+      - AFL Gather Round 2025
+      - MLB London Series
+    social:
+      instagram: https://www.instagram.com/kojoworld/
+      linkedin: https://www.linkedin.com/company/kojo/
+      x: https://twitter.com/KOJOworld
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:48:15.004Z'

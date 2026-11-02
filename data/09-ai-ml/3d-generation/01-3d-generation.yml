@@ -111,3 +111,176 @@ entries:
         - linux
     stale: true
     last_pushed: '2023-12-10'
+  - name: KeenFace
+    url: https://keenface.ai/
+    description: Photo-to-3D-head service. Turns a few face photos into a MetaHuman-compatible GLB with 4K PBR maps and 51 fitted ARKit blendshapes, via web Studio or REST API.
+    license: Paid
+    entry_type: tool
+    pricing: EUR 0.10/credit, 150 credits per head; 450 free credits on sign-up
+    pricing_last_verified: '2026-11-02'
+    best_for: Digital doubles and avatar heads from photos at scale
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+        - cloud
+      tech:
+        - ai-generative
+        - pbr
+    readme_tags:
+      - Digital Doubles
+      - MetaHuman
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:18:43.748Z'
+  - name: LHM (Large Animatable Human Model)
+    url: https://github.com/aigc3d/LHM
+    description: Model that reconstructs an animatable 3D human from a single image in seconds, with ComfyUI nodes for motion extraction and video-driven animation. ICCV 2025.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - games
+        - film-vfx
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - Digital Human
+      - Image-to-3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.288Z'
+  - name: Pixel3DMM
+    url: https://github.com/SimonGiebenhain/pixel3dmm
+    description: Single-image 3D face reconstruction that predicts screen-space priors and fits a FLAME head model to them.
+    license: Free NC
+    entry_type: tool
+    pricing: Free for non-commercial use (CC BY-NC 4.0)
+    tags:
+      workflow:
+        - modeling
+        - face-capture
+      output:
+        - film-vfx
+        - games
+      tech:
+        - gpu
+    readme_tags:
+      - Face
+      - FLAME
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.289Z'
+  - name: PartCrafter
+    url: https://github.com/wgsxm/PartCrafter
+    description: Image-to-3D model that generates an object as several separate part meshes from a single RGB image in one pass. NeurIPS 2025.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Image-to-3D
+      - Parts
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.291Z'
+  - name: HoloPart
+    url: https://github.com/VAST-AI-Research/HoloPart
+    description: VAST model that splits an existing 3D mesh into complete, semantically meaningful parts, filling in geometry hidden by other parts.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Parts
+      - Mesh
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.292Z'
+  - name: Cube (Roblox)
+    url: https://github.com/Roblox/cube
+    description: Roblox foundation model for text-to-3D shape generation with bounding-box conditioning, plus CubePart for part-controlled mesh synthesis.
+    license: Free NC
+    entry_type: tool
+    pricing: Free for research (Cube3D research-only RAIL-MS license)
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Text-to-3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.297Z'
+  - name: TripoSplat
+    url: https://github.com/VAST-AI-Research/TripoSplat
+    description: TripoAI model that converts a single image into up to 262k 3D Gaussians, with an official ComfyUI workflow template.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - xr
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - Image-to-Splat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.298Z'
+  - name: 3D Valley
+    url: https://3dvalley.com/
+    description: Web hub with image-to-3D and text-to-3D generation plus in-browser retexture, remesh, repair and reduce tools for GLB, OBJ and STL files.
+    license: Freemium
+    entry_type: tool
+    pricing: Free daily runs / credits at 1 cent each, about 5 cents per model
+    tags:
+      workflow:
+        - modeling
+        - retopo
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Image to 3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.581Z'

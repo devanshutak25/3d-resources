@@ -346,3 +346,439 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: EffectCraft
+    url: https://getartcraft.com/apps/effectcraft
+    description: Open-source motion graphics compositor written in Rust, with layers, keyframes, effects, expressions, 3D cameras and lights and a render queue.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      tech:
+        - opensource-alt
+    readme_tags:
+      - AE Alternative
+      - Rust
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.396Z'
+  - name: Lumit
+    url: https://lumitlab.com/
+    description: Open-source compositing and motion graphics app with layers, graph editor, 100+ GPU effects, OFX hosting and After Effects project import.
+    license: Open Source
+    entry_type: software
+    pricing: Free; Pro $6/mo for relay collaboration and sync
+    tags:
+      workflow:
+        - compositing
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - gpu
+        - node-based
+    readme_tags:
+      - AE Alternative
+      - Beta
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.397Z'
+  - name: Overlord
+    url: https://battleaxe.co/overlord
+    description: Bridge that sends Figma, Photoshop and Illustrator layers to After Effects in one click, keeping gradients, live text and shape names.
+    license: Paid
+    entry_type: plugin
+    pricing: $75
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - After Effects
+      - Figma
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.407Z'
+  - name: Motion Studio (Mt. Mograph)
+    url: https://mtmograph.com/products/motion
+    description: Extension with 80+ tools for easing, anchor points, layer management and color, running inside After Effects, Premiere Pro, Illustrator and DaVinci Resolve.
+    license: Paid
+    entry_type: plugin
+    pricing: $13/mo per seat ($11/mo annual), 7-day trial
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - After Effects
+      - Easing
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.409Z'
+  - name: Newton 4
+    url: https://www.motionboutique.com/products/newton-4
+    description: 2D physics engine for After Effects that turns 2D layers into physics simulations.
+    license: Paid
+    entry_type: plugin
+    pricing: Paid via aescripts, free trial
+    tags:
+      workflow:
+        - animation
+        - simulation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - physics
+    readme_tags:
+      - After Effects
+      - Physics
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.410Z'
+  - name: Bolt CEP
+    url: https://github.com/hyperbrew/bolt-cep
+    description: Vite and TypeScript boilerplate for building Adobe CEP extensions in Svelte, React or Vue, with hot reload and type-safe ExtendScript.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - CEP
+      - Dev
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.412Z'
+  - name: HyperFrames
+    url: https://hyperframes.heygen.com/
+    description: Open-source framework from HeyGen that renders HTML compositions to video, built for AI agents to author motion graphics as code.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - HTML to Video
+      - Agents
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.430Z'
+  - name: Theatre.js
+    url: https://www.theatrejs.com/
+    description: JavaScript animation library with a visual keyframe editor for animating Three.js scenes, WebGPU setups and UI on the web.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - creative-coding
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Web Animation
+      - Three.js
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.432Z'
+  - name: Motionity
+    url: https://www.motionity.app/
+    description: Open-source browser motion graphics editor with keyframing, masking, filters and text animations.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Browser
+      - Keyframes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.434Z'
+  - name: Excalimate
+    url: https://excalimate.com/
+    description: Browser tool that turns Excalidraw diagrams into keyframe animations and exports MP4, WebM, GIF, animated SVG and dotLottie, with an MCP server.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - mcp
+    readme_tags:
+      - Excalidraw
+      - Lottie
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.437Z'
+  - name: Expressive Animator
+    url: https://expressive.app/expressive-animator/
+    description: Vector animation app for animated icons, logos and banners that exports animated SVG, Lottie, GIF and video.
+    license: Paid
+    entry_type: software
+    pricing: €129.99 one-time, 7-day trial
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - perpetual
+    readme_tags:
+      - SVG
+      - Lottie
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.438Z'
+  - name: Keyshape
+    url: https://www.keyshapeapp.com/
+    description: macOS app for drawing and animating 2D vector graphics, exporting SVG animations, Lottie, video and sprite sheets.
+    license: Paid
+    entry_type: software
+    pricing: Mac App Store purchase, 14-day trial
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - games
+      platform:
+        - mac
+    readme_tags:
+      - SVG
+      - Lottie
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.440Z'
+  - name: SVGator
+    url: https://www.svgator.com/
+    description: Browser SVG animation editor for keyframing vector illustrations into animated SVG for web and apps.
+    license: Freemium
+    entry_type: tool
+    pricing: Free plan; Pro paid
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - SVG
+      - Browser
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.443Z'
+  - name: Linearity Move
+    url: https://www.linearity.io/move/
+    description: Motion design app for iPad and macOS that animates vector designs with custom motion paths and exports Lottie.
+    license: Freemium
+    entry_type: software
+    pricing: Free to start; paid plans
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - ipad
+        - mac
+    readme_tags:
+      - iPad
+      - Lottie
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.445Z'
+  - name: Choreo
+    url: https://www.choreomotion.app/
+    description: Free browser design tool for UI micro-interactions where hover, press, focus and drag states are built on a live canvas and handed off as code.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - UI Motion
+      - Browser
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.447Z'
+  - name: ThorVG
+    url: https://www.thorvg.org/
+    description: Open-source C++ vector graphics engine that renders SVG and Lottie animations, with WebGPU and other GPU backends.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - rendering
+      output:
+        - motion-graphics
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+        - ios
+        - android
+      tech:
+        - gpu
+        - webgpu
+    readme_tags:
+      - Lottie
+      - Renderer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.450Z'
+  - name: Kilnframe
+    url: https://kilnframe.com/
+    description: Premiere Pro and Resolve Studio plugin that listens to speech in a marked range and renders matching animated inserts with sound effects locally via HyperFrames.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+        - animation
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+      tech:
+        - ai-generative
+    readme_tags:
+      - Premiere
+      - Resolve
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.455Z'
+  - name: Shader Lab
+    url: https://eng.basement.studio/tools/shader-lab
+    description: Browser WebGPU editor that stacks and keyframes shader effects on images, video, text and 3D models, with video export.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - creative-coding
+      output:
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - webgpu
+        - real-time
+    readme_tags:
+      - Shaders
+      - WebGPU
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.496Z'
+  - name: Lowkey Studio
+    url: https://lowkeyviewer.com/studio/
+    description: Browser keyframe compositor that layers video, images and audio on a timeline with GPU shader effects, running on WebGPU.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - webgpu
+    readme_tags:
+      - Compositor
+      - WebGPU
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.506Z'
+  - name: 3dsvg
+    url: https://3dsvg.design/
+    description: Browser tool that turns SVG logos and icons into lit, animated 3D objects and exports 4K images or video.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - SVG to 3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.522Z'

@@ -619,3 +619,103 @@ entries:
     notes: Requires Reallusion login. Pipeline tool, not standalone rig.
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Expy Kit
+    url: https://github.com/pKrime/Expy-Kit
+    description: Blender add-on that converts Rigify armatures to a game-ready hierarchy and renames bones for Unreal and Mixamo export.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+    readme_tags:
+      - Retargeting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.957Z'
+  - name: Dreamwall Picker
+    url: https://github.com/DreamWall-Animation/dwpicker
+    description: Open-source animation picker for Maya 2017+ with a picker designer, forked from Hotbox Designer.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+    readme_tags:
+      - Picker
+      - Maya
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.960Z'
+  - name: Rokoko Studio Live for Blender
+    url: https://github.com/Rokoko/rokoko-studio-live-blender
+    description: Official Rokoko plugin that streams motion capture from Rokoko Studio into Blender in real time and retargets it.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - real-time
+    readme_tags:
+      - Mocap
+      - Live Link
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.962Z'
+  - name: Armature
+    url: https://adrianmelian.itch.io/armature
+    description: Windows app that fits a skeleton to a character mesh and auto-generates skin weights locally with an AI solver, exporting one USD file for Maya or Unreal.
+    license: Freemium
+    entry_type: software
+    pricing: Free for personal use and commercial use under $100k/yr; $149 per artist one-time
+    tags:
+      workflow:
+        - rigging
+        - skinning
+      output:
+        - games
+      platform:
+        - win
+      tech:
+        - usd
+        - maya
+        - unreal
+    readme_tags:
+      - Auto-Rig
+      - USD
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.343Z'

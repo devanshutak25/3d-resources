@@ -261,3 +261,73 @@ entries:
       platform:
         - win
         - mac
+  - name: Live2D Cubism
+    url: https://www.live2d.com/en/
+    description: 2D modeling software that animates original layered drawings directly, with free and pro editions of Cubism Editor.
+    license: Freemium
+    entry_type: software
+    pricing: FREE and PRO editions
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - 2D Rigging
+      - Illustration
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.491Z'
+  - name: Cartoon Animator
+    url: https://www.reallusion.com/cartoon-animator/
+    description: Reallusion 2D animation app for building animated video from PSD and vector graphics and animation drawings.
+    license: Paid
+    entry_type: software
+    pricing: Paid, free trial
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - 2D Animation
+      - Rigging
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.493Z'
+  - name: Inochi2D
+    url: https://inochi2d.com/
+    description: Open-source framework and rigging app for real-time 2D puppet animation using layered meshes, physics and compositing.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - real-time
+        - opensource-alt
+    readme_tags:
+      - 2D Puppet
+      - VTuber
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.494Z'

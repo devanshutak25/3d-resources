@@ -166,7 +166,7 @@ entries:
     url: https://github.com/nikopueringer/CorridorKey
     added_at: '2026-04-16T19:59:30.000Z'
     description: Corridor Crew's open keying tool. AI-driven chroma key for VFX work.
-    license: Open Source
+    license: Free
     entry_type: tool
     url_last_verified: '2026-11-01'
     url_status: ok
@@ -185,6 +185,7 @@ entries:
     readme_tags:
       - Keying
       - Corridor
+    notes: 'Custom licence on top of CC BY-NC-SA 4.0: commercial footage OK, reselling the tool is not. Successor: CorridorKey 2.0.'
   - name: Sammie Roto 2
     url: https://github.com/Zarxrax/Sammie-Roto-2
     added_at: '2026-04-16T19:59:30.000Z'
@@ -454,3 +455,622 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     added_at: '2026-10-30T20:38:59.350Z'
+  - name: CorridorKey 2.0
+    url: https://github.com/nikopueringer/CorridorKey2.0
+    description: Second-generation green and blue screen keying model from Corridor Digital. Python tools output alpha mattes, foreground color and HDR EXR from footage, with optional matte hints.
+    license: Free
+    entry_type: tool
+    pricing: Free; orgs over $20M annual revenue need a paid seat
+    pricing_last_verified: '2026-11-02'
+    best_for: AI keying of green screen plates on an NVIDIA RTX GPU
+    notes: 'Custom licence on top of CC BY-NC-SA 4.0: commercial footage OK, reselling the tool or offering it as a paid API is not. Needs RTX 30-series+, 4 GB VRAM (1440p) / 6 GB (4K). Paid host plugins: see CorridorKey 2.0 Plugin.'
+    tags:
+      workflow:
+        - compositing
+        - roto
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - ai-generative
+        - gpu
+        - opensource-alt
+    readme_tags:
+      - Keying
+      - Matting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:18:43.752Z'
+  - name: CorridorKey 2.0 Plugin
+    url: https://corridorkey.com/
+    description: Official CorridorKey 2.0 keyer as plugins for DaVinci Resolve, Nuke, After Effects, Premiere Pro and Blender, plus a standalone app for Windows and Apple Silicon Macs.
+    license: Paid
+    entry_type: plugin
+    pricing: '$39 one-time Personal, $85/seat Studio (beta: $19.50 / $42.50 until 2026-11-21)'
+    pricing_last_verified: '2026-11-02'
+    notes: 14-day money-back guarantee, no trial. NVIDIA RTX 30-series+ on Windows, M-series on macOS 14+. AMD and Linux planned.
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+      tech:
+        - ai-generative
+        - gpu
+        - perpetual
+    readme_tags:
+      - Keying
+      - Plugin
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:18:43.757Z'
+  - name: maya-mcp-server
+    url: https://github.com/chadrik/maya-mcp-server
+    description: MCP server that runs Python in one or more live Maya sessions through the command port and streams their output to agents.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - maya
+        - mcp
+    readme_tags:
+      - MCP
+      - Maya
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.831Z'
+  - name: DaVinci Resolve MCP
+    url: https://github.com/samuelgursky/davinci-resolve-mcp
+    description: MCP server that drives DaVinci Resolve Studio through its scripting API for editing, media pool and color tasks.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+      - Resolve
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.833Z'
+  - name: After Effects MCP
+    url: https://github.com/Dakkshin/after-effects-mcp
+    description: MCP server that controls After Effects compositions, layers, text, shapes and keyframes through ExtendScript.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+      - After Effects
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.835Z'
+  - name: TouchDesigner MCP
+    url: https://github.com/8beeeaaat/touchdesigner-mcp
+    description: MCP server that talks to the TouchDesigner WebServer DAT so AI agents can create nodes, read project structure and run Python.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - node-based
+        - mcp
+    readme_tags:
+      - MCP
+      - TouchDesigner
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.837Z'
+  - name: Nuke MCP
+    url: https://github.com/kleer001/nuke-mcp
+    description: MCP server with 57 tools that lets Claude or local LLMs build node graphs, deep, 3D and tracking setups in a running Nuke session.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+        - mcp
+    readme_tags:
+      - MCP
+      - Nuke
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.839Z'
+  - name: Substance Painter MCP
+    url: https://github.com/elliezu/SubstancePainterMCP
+    description: MCP server with 79 tools to inspect, edit layers, apply smart materials and export from a local Substance 3D Painter project.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      tech:
+        - pbr
+        - mcp
+    readme_tags:
+      - MCP
+      - Substance
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.841Z'
+  - name: DCC-MCP
+    url: https://dcc-mcp.github.io/
+    description: Open MCP adapters and agent skills that let AI agents drive Maya, Houdini, Blender, Unreal, Nuke, Substance and other DCCs.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+      - Multi-DCC
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.843Z'
+  - name: FreeCAD MCP
+    url: https://github.com/neka-nat/freecad-mcp
+    description: FreeCAD add-on plus MCP server for Claude Desktop that creates and edits models, runs scripts and FEM analyses.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+      - CAD
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.846Z'
+  - name: Roblox Studio MCP Server
+    url: https://create.roblox.com/docs/studio/mcp
+    description: Built-in Roblox Studio MCP server that lets AI clients edit scripts, run Luau, playtest and insert assets in an open place.
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+      - Roblox
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.848Z'
+  - name: Aura
+    url: https://www.tryaura.dev/
+    description: AI agent for Unreal 5.4+ and Unity that builds features in the editor, then playtests them to find bugs.
+    license: Paid
+    entry_type: service
+    pricing: Free 2-week trial, then paid
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+      tech:
+        - unreal
+        - unity
+        - ai-generative
+    readme_tags:
+      - AI Agent
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.931Z'
+  - name: MatteDesk
+    url: https://github.com/fishfinger44/MatteDesk
+    description: Local browser-based roto and matte tool that propagates object masks across a shot with SAM 3.1, MatAnyone2 and VideoMaMa, exporting EXR alphas and Nuke .nk data.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    best_for: Multi-object roto on Windows with a 12 GB+ NVIDIA GPU
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - gpu
+    readme_tags:
+      - Roto
+      - Matting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.220Z'
+  - name: CutieRoto
+    url: https://github.com/petermercell/CutieRoto
+    description: Native Nuke 17 plugin that propagates a few hand-keyed roto masks across a whole clip, using a TensorRT or libtorch port of the Cutie video segmenter.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - roto
+      output:
+        - film-vfx
+      platform:
+        - linux
+      tech:
+        - gpu
+    readme_tags:
+      - Nuke
+      - Roto
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.226Z'
+  - name: SAM 3 (Segment Anything 3)
+    url: https://github.com/facebookresearch/sam3
+    description: Meta model that detects, segments and tracks objects in images and video from text, point, box or mask prompts. SAM 3.1 adds faster multi-object tracking.
+    license: Free
+    entry_type: tool
+    pricing: Free (SAM License, royalty-free)
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+        - generalist
+      tech:
+        - gpu
+    readme_tags:
+      - Segmentation
+      - Roto
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.247Z'
+  - name: MatAnyone 2
+    url: https://github.com/pq-yang/MatAnyone2
+    description: Human video matting model that keeps fine hair and edge detail instead of segmentation-like boundaries, built for difficult real-world footage. CVPR 2026.
+    license: Free NC
+    entry_type: tool
+    pricing: Free for non-commercial use (S-Lab License)
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - gpu
+    readme_tags:
+      - Matting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.250Z'
+  - name: VideoMaMa
+    url: https://github.com/cvlab-kaist/VideoMaMa
+    description: Mask-guided video matting model that turns segmentation masks into fine alpha mattes using a video generative prior. CVPR 2026, from KAIST and Adobe Research.
+    license: Free NC
+    entry_type: tool
+    pricing: Free for non-commercial use (CC BY-NC 4.0)
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - gpu
+    readme_tags:
+      - Matting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.252Z'
+  - name: Video Depth Anything
+    url: https://github.com/DepthAnything/Video-Depth-Anything
+    description: ByteDance depth model built on Depth Anything V2 that gives temporally consistent depth for arbitrarily long videos. Small model Apache-2.0, larger ones non-commercial.
+    license: Open Source
+    entry_type: tool
+    pricing: Free; Base/Large weights CC BY-NC 4.0
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - gpu
+    readme_tags:
+      - Depth
+      - Video
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.256Z'
+  - name: IC-Light
+    url: https://github.com/lllyasviel/IC-Light
+    description: 'Image relighting models from the ControlNet author: relight a foreground subject from a text prompt or to match a background image.'
+    license: Open Source
+    entry_type: tool
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - lighting
+        - compositing
+      output:
+        - generalist
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Relighting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.266Z'
+  - name: Cosmos DiffusionRenderer (NVIDIA)
+    url: https://github.com/nv-tlabs/cosmos-transfer1-diffusion-renderer
+    description: NVIDIA video de-lighting and relighting framework that estimates base color, normal, depth, roughness and metallic passes from footage, then re-renders it under new lighting.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (code Apache-2.0)
+    tags:
+      workflow:
+        - lighting
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Relighting
+      - G-Buffers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.268Z'
+  - name: Light-A-Video
+    url: https://github.com/bcmi/Light-A-Video
+    description: Training-free video relighting method that applies IC-Light style relighting across frames with progressive light fusion for temporal consistency. ICCV 2025.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - lighting
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Relighting
+      - Video
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.271Z'
+  - name: DiffusionLight
+    url: https://github.com/DiffusionLight/DiffusionLight
+    description: Estimates scene lighting from a single photo by inpainting a chrome ball with a diffusion model, producing an HDR light probe for CG lighting.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - lighting
+        - look-dev
+      output:
+        - film-vfx
+        - generalist
+      tech:
+        - ai-generative
+    readme_tags:
+      - HDRI
+      - Light Probe
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.274Z'
+  - name: MeshAnything V2
+    url: https://github.com/buaacyw/MeshAnythingV2
+    description: Model that converts scans, generated meshes or point clouds into artist-style meshes via adjacent mesh tokenization. ICCV 2025.
+    license: Free NC
+    entry_type: tool
+    pricing: Free for non-commercial use (S-Lab License)
+    tags:
+      workflow:
+        - retopo
+      output:
+        - games
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Retopology
+      - Artist Mesh
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.322Z'
+  - name: DeepMesh
+    url: https://github.com/zhaorw02/DeepMesh
+    description: Autoregressive transformer, tuned with reinforcement learning, that generates artist-style meshes from an input point cloud. ICCV 2025.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - retopo
+        - modeling
+      output:
+        - games
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Retopology
+      - Artist Mesh
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.326Z'
+  - name: Pallaidium
+    url: https://github.com/tin2tin/Pallaidium
+    description: Free generative AI add-on for Blender's Video Sequence Editor that takes a project from script and shot list to generated images, video and audio on the timeline.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (GPL-3.0)
+    tags:
+      workflow:
+        - previs
+        - storyboard
+        - editing
+      output:
+        - film-vfx
+      tech:
+        - blender-addon
+        - ai-generative
+    readme_tags:
+      - Blender VSE
+      - Previs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.337Z'
+  - name: Premiere Pro MCP
+    url: https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP
+    description: Local MCP bridge that exposes 283 Premiere Pro editing tools to Codex, Claude Code and other MCP clients through a CEP panel.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+      - Premiere
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.345Z'
+  - name: TDMCP
+    url: https://github.com/TouchDesigner/TDMCP
+    description: Official MCP server that runs inside TouchDesigner as a component so AI agents can create and wire operators, set parameters and write DAT and GLSL code.
+    license: Free
+    entry_type: tool
+    pricing: Free (public beta)
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - mcp
+        - node-based
+        - real-time
+    readme_tags:
+      - MCP
+      - TouchDesigner
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.348Z'
+  - name: Kiln
+    url: https://kilnstudio.tools/
+    description: Local MCP server, CLI and TypeScript engine where a coding agent writes 3D assets as JavaScript, gets rendered views and checks back, and exports GLB with source.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+        - mcp
+        - glb
+    readme_tags:
+      - MCP
+      - Procedural
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.577Z'

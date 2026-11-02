@@ -256,3 +256,25 @@ entries:
       - Open Source
       - JavaScript
     best_for: Browser 2D games
+  - name: React Three Fiber
+    url: https://r3f.docs.pmnd.rs/
+    description: React renderer for Three.js that builds 3D scenes from reusable, state-driven components.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+        - xr
+      platform:
+        - web
+      tech:
+        - real-time
+    readme_tags:
+      - Three.js
+      - React
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.550Z'

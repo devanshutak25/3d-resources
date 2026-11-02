@@ -407,3 +407,153 @@ entries:
     notes: Browser version at spritefusion.com/sprite-normals; the CLI builds from source with Cargo.
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Sprite Fusion Pixel Snapper
+    url: https://www.spritefusion.com/pixel-snapper
+    description: Tool that snaps messy or AI-generated pixel art onto a consistent pixel grid, online or as a desktop build.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - illustration
+      platform:
+        - web
+        - win
+        - mac
+      tech:
+        - ai-generative
+    readme_tags:
+      - Pixel Art
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.542Z'
+  - name: Top Down Sprite Maker
+    url: https://flinkerflitzer.itch.io/tdsm
+    description: Desktop app that builds customizable top-down pixel art characters and exports animated sprite sheets without drawing.
+    license: Paid
+    entry_type: software
+    pricing: $10
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Pixel Art
+      - Sprites
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.544Z'
+  - name: Coolifier
+    url: https://polyshades.itch.io/coolifier
+    description: Stylization tool that applies chains of 30+ non-AI filters to OBJ, GLB or FBX models, sprites and UI with real-time preview, plus texture ripping and tiling.
+    license: Paid
+    entry_type: software
+    pricing: EUR 20
+    tags:
+      workflow:
+        - look-dev
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - linux
+    readme_tags:
+      - Stylization
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.620Z'
+  - name: Pixor
+    url: https://frakassets.itch.io/pixor
+    description: Renderer that turns animated 3D models into pixel-art sprite sheets in 4, 8 or 16 directions with fixed pixel scale, palettes, outlines and a CLI for batches.
+    license: Paid
+    entry_type: software
+    pricing: $19.99 (free browser demo)
+    tags:
+      workflow:
+        - rendering
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - linux
+        - web
+    readme_tags:
+      - 3D to Pixel Art
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.622Z'
+  - name: Blender To Pixels
+    url: https://astropulse.itch.io/blender-to-pixels
+    description: Tool by Astropulse that turns 3D models and animations built in Blender into pixel art.
+    license: Free
+    entry_type: tool
+    pricing: Name your own price
+    tags:
+      workflow:
+        - rendering
+        - animation
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender
+    readme_tags:
+      - 3D to Pixel Art
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.628Z'
+  - name: SpritePaint
+    url: https://spritepaint.com/
+    description: Browser pixel art editor with layers, onion-skinned frame animation up to 100 frames, and PNG, GIF, sprite sheet or MP4 export.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Pixel Art
+      - Animation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.654Z'
+  - name: Jaconir Sprite Sheet Generator
+    url: https://jaconir.online/tools/sprite-sheet-generator
+    description: Browser sprite packer and slicer that builds texture atlases with PNG plus JSON, XML or CSS data for Godot, Unity and Phaser.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - godot
+        - unity
+    readme_tags:
+      - Atlas
+      - Sprite Sheets
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.656Z'

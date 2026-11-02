@@ -600,3 +600,361 @@ entries:
       - Non-Commercial
       - NeRF
     best_for: Fast NeRF training
+  - name: SHARP (Apple)
+    url: https://github.com/apple-aiml-research/ml-sharp
+    description: Apple research model that regresses a 3D Gaussian scene from a single photo in under a second for photoreal novel-view synthesis.
+    license: Free NC
+    entry_type: tool
+    pricing: Free; model weights for research use only
+    tags:
+      workflow:
+        - modeling
+      output:
+        - xr
+        - generalist
+      tech:
+        - gaussian-splatting
+        - gpu
+    readme_tags:
+      - Image-to-Splat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.300Z'
+  - name: Shape of Motion
+    url: https://github.com/vye16/shape-of-motion
+    description: Research code for 4D reconstruction of a dynamic scene from a single monocular video, representing motion with Gaussians.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - match-move
+        - modeling
+      output:
+        - film-vfx
+      tech:
+        - gaussian-splatting
+        - gpu
+    readme_tags:
+      - 4D
+      - Dynamic Splats
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.329Z'
+  - name: Awesome 4DGS
+    url: https://github.com/awesome-4dgs/awesome-4dgs
+    description: Curated, regularly updated list of papers, project pages, code and datasets for dynamic (4D) Gaussian splatting.
+    license: null
+    entry_type: reference
+    pricing: Free
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+        - xr
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - 4DGS
+      - Papers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.331Z'
+  - name: Blender 3DGS/4DGS Viewer Node
+    url: https://github.com/mediastormDev/Blender-3DGS-4DGS-Viewer-Node
+    description: Blender node setup by Mediastorm that loads 3DGS and 4DGS PLY data for quick inspection and camera-motion design ahead of external splat renders.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - previs
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    readme_tags:
+      - 4DGS
+      - Blender
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.525Z'
+  - name: Gaussian-Splat-Lite
+    url: https://github.com/WilliamLiu-1997/Gaussian-Splat-Lite
+    description: Three.js Gaussian splat renderer for WebGPU and WebGL2 that reads PLY, SPZ, SOG and RAD and streams LOD for large scenes.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - xr
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - webgpu
+        - real-time
+    readme_tags:
+      - 3DGS
+      - Three.js
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.528Z'
+  - name: ml-sharp-web
+    url: https://ml-sharp-web.vercel.app/
+    description: Browser playground that runs Apple SHARP to turn a single image into a Gaussian splat you can preview and download as PLY.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - Image to Splat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.530Z'
+  - name: GaussianSplats3D
+    url: https://github.com/mkkellogg/GaussianSplats3D
+    description: Three.js library for loading and rendering 3D Gaussian splat scenes from PLY, .splat and .ksplat files.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - real-time
+    readme_tags:
+      - 3DGS
+      - Three.js
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.557Z'
+  - name: WebGL Gaussian Splat Viewer
+    url: https://antimatter15.com/splat/
+    description: Lightweight WebGL viewer by Kevin Kwok for navigating 3D Gaussian splat scenes in the browser with mouse or keyboard.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - real-time
+    readme_tags:
+      - 3DGS
+      - Viewer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.560Z'
+  - name: gsplat.js
+    url: https://github.com/huggingface/gsplat.js
+    description: Hugging Face JavaScript library for loading and rendering Gaussian splat scenes in web apps.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - real-time
+    readme_tags:
+      - 3DGS
+      - JavaScript
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.562Z'
+  - name: OOOSplat
+    url: https://github.com/ooolabdev/ooosplat
+    description: Local desktop app that turns regular or 360 video and image sequences into Gaussian splats via bundled COLMAP and Brush, with crop, delete and export to PLY, SPZ, SOG or MP4.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+        - xr
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - gpu
+    readme_tags:
+      - 3DGS
+      - Video to Splat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.570Z'
+  - name: Photos to Gaussian Splat
+    url: https://antoinemopa.github.io/splatting-rs/
+    description: Browser tool that turns 2 to 12 photos of an object into a Gaussian splat locally, with optional refinement steps and PLY download.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - ai-generative
+        - webgpu
+    readme_tags:
+      - Photos to Splat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.585Z'
+  - name: Blurry
+    url: https://www.useblurry.com/
+    description: Cloud workspace for storing, annotating, measuring and sharing Gaussian splats, point clouds and other reality-capture data through embeddable viewers.
+    license: Freemium
+    entry_type: service
+    pricing: Free (30 GB, non-commercial) / Professional and Scale plans
+    tags:
+      workflow:
+        - reference
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - web
+        - cloud
+      tech:
+        - gaussian-splatting
+        - collaborative
+    readme_tags:
+      - 3DGS
+      - Hosting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.589Z'
+  - name: Reall3dViewer
+    url: https://github.com/reall3d-com/Reall3dViewer
+    description: Three.js web renderer for large Gaussian splat scenes with streaming, adaptive LOD and its own SPX compressed format.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - real-time
+    readme_tags:
+      - 3DGS
+      - Streaming
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.592Z'
+  - name: Radix
+    url: https://sparkjs.dev/radix/
+    description: WebGPU Gaussian splat renderer for Three.js from the Spark team, storing splats in typed-array tables on CPU and GPU with a WebGL2 fallback.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - gaussian-splatting
+        - webgpu
+        - real-time
+    readme_tags:
+      - 3DGS
+      - WebGPU
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.595Z'
+  - name: Splatline
+    url: https://github.com/jaskirat1616/Splatline
+    description: macOS pipeline that converts videos and photos into Gaussian splat scenes through swappable backends (SHARP, VGGT, DepthSplat, LongSplat, TripoSplat) without CUDA.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - mac
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - Video to Splat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.597Z'
+  - name: msplat (Metal)
+    url: https://github.com/rayanht/msplat
+    description: 3D Gaussian Splatting trainer for Apple Silicon written as fused Metal compute shaders, with Python, Swift and C++ CLI front ends.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - mac
+      tech:
+        - gaussian-splatting
+        - gpu
+    readme_tags:
+      - 3DGS
+      - Apple Silicon
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.600Z'

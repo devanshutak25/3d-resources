@@ -88,3 +88,286 @@ entries:
         - win
         - mac
         - linux
+  - name: 3D Gen Studio
+    url: https://www.3dgenstudio.com/
+    description: Desktop studio that chains ComfyUI and API workflows into 3D asset pipelines (image gen, mesh gen, UV unwrap, texturing, auto-rigging) with GLB, OBJ and FBX export.
+    license: Free
+    entry_type: software
+    pricing: Free; community license bars reselling or hosting the software, outputs usable commercially
+    tags:
+      workflow:
+        - modeling
+        - texturing
+        - uv
+        - rigging
+      output:
+        - games
+      tech:
+        - ai-generative
+        - node-based
+        - mcp
+    readme_tags:
+      - ComfyUI
+      - Pipeline
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.240Z'
+  - name: Comfy Textures
+    url: https://github.com/AlexanderDzhoganov/ComfyTextures
+    description: Unreal Engine editor plugin that connects to ComfyUI to create and refine textures for scene objects with diffusion models.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      tech:
+        - unreal-plugin
+        - ai-generative
+    readme_tags:
+      - Unreal
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.278Z'
+  - name: ComfyUI-3D-Pack
+    url: https://github.com/MrForExample/ComfyUI-3D-Pack
+    description: Node suite that lets ComfyUI process meshes and UV textures with 3DGS, NeRF and image-to-3D models such as InstantMesh, CRM and TripoSR.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - linux
+      tech:
+        - node-based
+        - ai-generative
+        - gaussian-splatting
+    readme_tags:
+      - ComfyUI
+      - Image-to-3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.307Z'
+  - name: ComfyUI-Hunyuan3DWrapper
+    url: https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
+    description: Kijai's ComfyUI nodes for Tencent Hunyuan3D-2 shape and texture generation, with prebuilt wheels for the texture rasterizer.
+    license: Free
+    entry_type: plugin
+    pricing: Free (Tencent Hunyuan 3D 2.0 Community License; excludes EU, UK, South Korea)
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - ComfyUI
+      - Hunyuan3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.309Z'
+  - name: ComfyUI-Trellis2
+    url: https://github.com/visualbruno/ComfyUI-Trellis2
+    description: Wrapper nodes that run Microsoft TRELLIS.2 image-to-3D in ComfyUI, plus nodes for mesh smoothing, multi-view rendering, Pixal3D texturing and mesh export.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - generalist
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - ComfyUI
+      - TRELLIS
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.310Z'
+  - name: ComfyUI for Nuke
+    url: https://github.com/vinavfx/ComfyUI-for-Nuke
+    description: Nuke integration that exposes ComfyUI nodes inside Nuke's node graph, sending work to a running ComfyUI server.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (GPL-3.0)
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - Nuke
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.312Z'
+  - name: ComfyUI-OCIO
+    url: https://github.com/SlavaSexton/ComfyUI-OCIO
+    description: 'Nuke-style OpenColorIO nodes for ComfyUI: read and write EXR, ProRes and image sequences, grade in ACES and check results in a float viewer with live exposure.'
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - color-grading
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - node-based
+    readme_tags:
+      - OCIO
+      - EXR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.313Z'
+  - name: CoCoTools IO
+    url: https://github.com/Conor-Collins/ComfyUI-CoCoTools_IO
+    description: ComfyUI nodes for 32-bit image I/O, focused on multilayer EXR loading, layer extraction and saving.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - node-based
+    readme_tags:
+      - EXR
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.315Z'
+  - name: ComfyUI-qwenmultiangle
+    url: https://github.com/jtydhr88/ComfyUI-qwenmultiangle
+    description: Custom node with an interactive Three.js viewport for setting camera azimuth and elevation, outputting prompts for multi-angle image generation.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - previs
+        - concept
+      output:
+        - generalist
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - Camera Angles
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.316Z'
+  - name: Yedp Action Director
+    url: https://github.com/yedp123/ComfyUI-Yedp-Action-Director
+    description: ComfyUI node with a 3D viewport that loads up to 16 characters with FBX, GLB or BVH mocap and renders ControlNet passes from Mixamo-rigged animation.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - previs
+        - animation
+      output:
+        - generalist
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - ControlNet
+      - Mixamo
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.318Z'
+  - name: ComfyUI-GeometryPack
+    url: https://github.com/PozzettiAndrea/ComfyUI-GeometryPack
+    description: Geometry processing nodes for ComfyUI that load, analyze, remesh, UV unwrap and preview 3D meshes, using libigl, CGAL and Blender backends.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (GPL-3.0)
+    tags:
+      workflow:
+        - retopo
+        - uv
+        - modeling
+      output:
+        - games
+        - generalist
+      tech:
+        - node-based
+    readme_tags:
+      - Mesh
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.319Z'
+  - name: ComfyUI-SeedVR2 Video Upscaler
+    url: https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
+    description: Official ComfyUI node for ByteDance SeedVR2, upscaling both video and still images.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - generalist
+      tech:
+        - node-based
+        - gpu
+    readme_tags:
+      - Upscaling
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.321Z'
+  - name: Nukomfy
+    url: https://github.com/francescolorussi/Nukomfy
+    description: Nuke plugin that turns ComfyUI workflows into reusable gizmos, sends jobs to networked ComfyUI machines and imports results back into the comp.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+    readme_tags:
+      - Nuke
+      - ComfyUI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.464Z'

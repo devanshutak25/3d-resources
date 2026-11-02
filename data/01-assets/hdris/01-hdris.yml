@@ -202,3 +202,44 @@ entries:
         - web
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: CGEES
+    url: https://cgees.com/hdris
+    description: CC0 HDRI library of skies and 360 environments up to 24K, downloadable without an account. Rebuilt successor to iHDRI.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - lighting
+      output:
+        - generalist
+        - archviz
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - CC0
+      - 24K
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.331Z'
+  - name: Noah Witchell Free HDR Bundles
+    url: https://www.noahwitchell.com/freebies
+    description: Free HDRI bundles from VFX artist Noah Witchell, usable for any purpose including commercial work, with no attribution required.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - lighting
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - HDRI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.468Z'

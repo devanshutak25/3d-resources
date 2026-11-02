@@ -463,3 +463,43 @@ entries:
       - Public Domain
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Location Textures
+    url: https://www.locationtextures.com/
+    description: Reference photo packs that cover whole locations from every angle and light, plus 30K 360 HDRI panoramas at pay-what-you-want.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Photo packs from $15; panoramas $0+
+    tags:
+      workflow:
+        - reference
+        - lighting
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Photo Reference
+      - HDRI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.396Z'
+  - name: Wikimedia Commons
+    url: https://commons.wikimedia.org/
+    description: Free media repository of 150M+ freely usable images, videos, sounds and 3D models, each file carrying its own license.
+    license: Mixed
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Public Domain
+      - Reference
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.470Z'

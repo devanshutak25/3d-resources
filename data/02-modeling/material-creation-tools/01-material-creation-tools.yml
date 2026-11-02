@@ -199,3 +199,110 @@ entries:
       - Browser
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: NormalMap.io
+    url: https://normalmap.io/
+    description: Browser tool that turns a photo or texture into normal, height, roughness and AO maps, with a movable-light 3D preview and a tileable option.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
+        - ai-generative
+    readme_tags:
+      - Normal Map
+      - PBR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.516Z'
+  - name: NormalMap-Online
+    url: https://cpetry.github.io/NormalMap-Online/
+    description: GPU browser tool that creates normal, displacement, AO and specular maps from a height map, with all processing local.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
+    readme_tags:
+      - Normal Map
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.556Z'
+  - name: Puck's Seamlessifier + Ripper
+    url: https://puszke.itch.io/pucks-texture-ripper
+    description: Desktop tool that rips textures out of photos with polygon selection, makes them tileable with several blending methods and packs them into atlases.
+    license: Paid
+    entry_type: software
+    pricing: $14.99
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Texture Ripping
+      - Tileable
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.615Z'
+  - name: Yoink!
+    url: https://realduende.itch.io/yoink
+    description: Desktop tool that rips textures from photos, correcting perspective even on curved surfaces, with custom palette quantization for stylized game textures.
+    license: Paid
+    entry_type: software
+    pricing: $9.99
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Texture Ripping
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.632Z'
+  - name: RGBA Texture Packer (ShareTextures)
+    url: https://www.sharetextures.com/tools/texture-packer.html
+    description: Browser tool that packs any grayscale maps (AO, roughness, metallic, opacity) into the R, G, B and A channels of one texture, detecting map types from filenames.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - pbr
+    readme_tags:
+      - Channel Packing
+      - ORM
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.643Z'

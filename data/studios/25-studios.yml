@@ -678,3 +678,413 @@ studios:
       instagram: https://www.instagram.com/artgripper.studio/
       behance: https://www.behance.net/artgripperstudio
     notes: Input listed Goa; site lists a Goa client but no studio city, so city omitted.
+  - name: Croteam
+    url: https://www.croteam.com/
+    description: Game developer behind the Serious Sam series and The Talos Principle, owned by Devolver Digital.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1992
+    notable:
+      - Serious Sam series
+      - The Talos Principle 2
+      - 'The Talos Principle: Reawakened'
+    social:
+      youtube: https://youtube.com/croteam
+      x: https://twitter.com/croteam
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.096Z'
+  - name: Zagreb Film
+    url: https://www.zagrebfilm.hr/
+    description: Public animation house of the Zagreb School of animation, producing animated shorts, series and documentaries.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 1953
+    notable:
+      - Surogat (Dušan Vukotić, 1961 Oscar)
+      - Akcija stadion (1977)
+    social:
+      instagram: https://www.instagram.com/ZagrebFilmHR/
+      x: https://twitter.com/ZagrebFilmHR
+      youtube: https://www.youtube.com/@zagrebfilmanimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.141Z'
+  - name: Haemimont Games
+    url: https://www.haemimontgames.com/
+    description: Strategy game developer known for Tropico 3 to 5, Surviving Mars and Jagged Alliance 3.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1997
+    careers: https://www.haemimontgames.com/careers/
+    notable:
+      - Tropico 3, 4, 5
+      - Surviving Mars
+      - Jagged Alliance 3
+      - 'Stranded: Alien Dawn'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.181Z'
+  - name: Fenris Creations
+    url: https://fenris.com/
+    description: Game developer of EVE Online and the EVE universe titles, formerly CCP Games.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1997
+    notable:
+      - EVE Online
+      - EVE Frontier
+      - EVE Vanguard
+      - EVE Echoes
+    social:
+      x: https://x.com/fenriscreations
+      youtube: https://www.youtube.com/@fenriscreations
+      linkedin: https://www.linkedin.com/company/fenriscreations
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.223Z'
+  - name: Snapshot Games
+    url: https://www.snapshotgames.com/
+    description: Sofia game developer of the tactics game Phoenix Point, founded by Julian Gollop.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - games
+    markets:
+      - games
+    careers: https://jobs.gohire.io/snapshot-games-iwnh5ere/
+    notable:
+      - Phoenix Point
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.263Z'
+  - name: Outfit7
+    url: https://www.outfit7.com/
+    description: Mobile game and animated content company behind Talking Tom & Friends, started in Ljubljana.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Ljubljana
+        country: Slovenia
+      - city: London
+        country: United Kingdom
+      - city: Shanghai
+        country: China
+    disciplines:
+      - games
+      - 3d-animation
+    markets:
+      - games
+      - episodic
+    founded: 2009
+    careers: https://www.outfit7.com/careers
+    notable:
+      - My Talking Tom
+      - Talking Tom Gold Run
+      - Talking Tom & Friends
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.301Z'
+  - name: Rovio
+    url: https://www.rovio.com/
+    description: Game company behind Angry Birds, with game studios in Finland, Sweden, Canada and Spain.
+    hq:
+      city: Espoo
+      country: Finland
+    disciplines:
+      - games
+    markets:
+      - games
+      - film
+    founded: 2003
+    careers: https://www.rovio.com/careers/
+    notable:
+      - Angry Birds 2
+      - Angry Birds Dream Blast
+      - The Angry Birds Movie
+    social:
+      instagram: https://www.instagram.com/rovio/
+      linkedin: https://www.linkedin.com/company/37960/
+      x: https://twitter.com/rovio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.339Z'
+  - name: Supercell
+    url: https://supercell.com/en/
+    description: Mobile game developer of Clash of Clans, Clash Royale and Brawl Stars.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2010
+    careers: https://supercell.com/en/careers/
+    notable:
+      - Clash of Clans
+      - Clash Royale
+      - Brawl Stars
+      - Hay Day
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.378Z'
+  - name: IXOR VFX
+    url: https://www.ixorvfx.com/
+    description: CGI and VFX studio for commercials and series, with a production base in Athens.
+    hq:
+      city: Athens
+      country: Greece
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - Tulsa King
+      - Clash of Clans
+      - Ed Sheeran = album campaign
+      - Shell Helix
+    social:
+      vimeo: https://vimeo.com/ixor
+      linkedin: https://www.linkedin.com/company/ixor-visual-fx/
+      instagram: https://www.instagram.com/ixorvfx/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.415Z'
+  - name: Bezier Animation Studio
+    url: https://bezier.gr/
+    description: Athens studio making 3D animation, motion design, CGI and brand films.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - cg
+    markets:
+      - advertising
+      - brand
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.453Z'
+  - name: Freezil
+    url: https://freezil.com/
+    description: Doha studio producing 2D, 3D and motion graphics explainer films in Arabic and English.
+    hq:
+      city: Doha
+      country: Qatar
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2017
+    notable:
+      - Hamad International Airport Skytrax campaign
+      - Doha Metro travel card explainer
+      - Msheireb smart city film
+    social:
+      instagram: https://www.instagram.com/freezilstudio
+      linkedin: https://linkedin.com/company/freezil
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.490Z'
+  - name: 34BigThings
+    url: https://www.34bigthings.com/
+    description: 'Turin game developer of the Redout racing series and Carmageddon: Rogue Shift.'
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 2013
+    careers: https://34bigthings.com/careers/
+    notable:
+      - Redout 2
+      - 'Carmageddon: Rogue Shift'
+      - Hyperdrive Massacre
+    social:
+      x: https://twitter.com/34bigthings
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.526Z'
+  - name: Stormind Games
+    url: https://www.stormindgames.com/
+    description: 'Sicilian game developer of the Remothered horror series and A Quiet Place: The Road Ahead.'
+    hq:
+      city: Acireale
+      country: Italy
+    disciplines:
+      - games
+    markets:
+      - games
+    careers: https://stormindgames.com/careers/
+    notable:
+      - Remothered series
+      - 'A Quiet Place: The Road Ahead'
+      - 'Mafia: The Old Country (co-dev)'
+    social:
+      linkedin: https://www.linkedin.com/company/stormind-games/
+      x: https://twitter.com/stormindgames
+      instagram: https://www.instagram.com/stormindgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.563Z'
+  - name: The Game Kitchen
+    url: https://thegamekitchen.com/
+    description: 'Seville game developer of Blasphemous, Blasphemous II and Ninja Gaiden: Ragebound.'
+    hq:
+      city: Seville
+      country: Spain
+    disciplines:
+      - games
+    markets:
+      - games
+    careers: https://thegamekitchen.com/jobs/
+    notable:
+      - Blasphemous
+      - Blasphemous II
+      - 'Ninja Gaiden: Ragebound'
+      - The Stone of Madness
+    social:
+      instagram: https://www.instagram.com/thegamekitchen.studio/
+      x: https://x.com/TheGameKitchen
+      linkedin: https://es.linkedin.com/company/the-game-kitchen
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.600Z'
+  - name: Submarine
+    url: https://submarine.nl/
+    description: Amsterdam production company making animated features and series alongside documentaries and interactive projects.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    careers: https://submarine.nl/careers/
+    notable:
+      - Undone (Amazon Prime Video)
+    social:
+      instagram: https://www.instagram.com/world_of_submarine/
+      linkedin: https://www.linkedin.com/company/submarine/
+      x: https://twitter.com/Submarinebv
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.637Z'
+  - name: il Luster
+    url: https://www.illuster.nl/
+    description: Utrecht animation studio producing features, series and shorts with a focus on Dutch design.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Nayola
+      - Durk!
+      - The Tumblies
+      - Oh Willy
+    social:
+      instagram: https://www.instagram.com/il_luster/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.676Z'
+  - name: Larian Studios
+    url: https://larian.com/
+    description: Game developer of Baldur's Gate 3 and the Divinity series, founded in Ghent.
+    hq:
+      city: Ghent
+      country: Belgium
+    offices:
+      - city: Quebec City
+        country: Canada
+      - city: Dublin
+        country: Ireland
+      - city: Kuala Lumpur
+        country: Malaysia
+      - city: Guildford
+        country: United Kingdom
+      - city: Barcelona
+        country: Spain
+    disciplines:
+      - games
+    markets:
+      - games
+    founded: 1996
+    careers: https://larian.com/careers
+    notable:
+      - Baldur's Gate 3
+      - 'Divinity: Original Sin II'
+      - 'Divinity: Original Sin'
+    social:
+      x: https://twitter.com/larianstudios
+      youtube: https://www.youtube.com/user/LarianStudios
+      instagram: https://www.instagram.com/larianstudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.717Z'
+  - name: Tumblehead
+    url: https://www.tumblehead.com/
+    description: Danish animation studio making 3D animation for film, TV, games and commercials, with a Houdini pipeline.
+    hq:
+      country: Denmark
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - film
+      - episodic
+    notable:
+      - LEGO Brick Slam (Blink Ink)
+      - 'Adult Swim: Street Race'
+      - 'Nike Air: Kobe Bryant'
+      - The Swineherd (DR)
+    social:
+      instagram: https://www.instagram.com/tumblehead/
+      linkedin: https://www.linkedin.com/company/tumblehead/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:40:47.753Z'

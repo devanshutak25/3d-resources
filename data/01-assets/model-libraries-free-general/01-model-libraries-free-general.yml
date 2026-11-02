@@ -635,3 +635,48 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: Icosa Gallery
+    url: https://icosa.gallery/
+    description: Open-source 3D model hosting site built as a Google Poly replacement, holding Open Brush and Open Blocks creations with a public API.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - xr
+        - generalist
+      platform:
+        - web
+      tech:
+        - xr
+    readme_tags:
+      - Poly Successor
+      - Open Brush
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.321Z'
+  - name: CGAxis
+    url: https://cgaxis.com/
+    description: Library of 12,000+ royalty-free 3D models, PBR materials and HDRIs with free models, a Blender add-on and the CGAxis Hub import app.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - archviz
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
+        - blender-addon
+    readme_tags:
+      - Models
+      - HDRI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.386Z'

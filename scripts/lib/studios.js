@@ -76,7 +76,7 @@ const COUNTRY_REGION = {
   'Israel': 'middle-east-africa', 'Jordan': 'middle-east-africa', 'Kenya': 'middle-east-africa',
   'Lebanon': 'middle-east-africa', 'Morocco': 'middle-east-africa', 'Nigeria': 'middle-east-africa',
   'Qatar': 'middle-east-africa', 'Saudi Arabia': 'middle-east-africa',
-  'South Africa': 'middle-east-africa', 'Tunisia': 'middle-east-africa',
+  'South Africa': 'middle-east-africa', 'Tanzania': 'middle-east-africa', 'Tunisia': 'middle-east-africa',
   'United Arab Emirates': 'middle-east-africa'
 };
 

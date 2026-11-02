@@ -18,3 +18,68 @@ entries:
       - SFX Bundle
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Fab Limited-Time Free
+    url: https://www.fab.com/limited-time-free
+    description: Fab page listing the current batch of paid assets offered free to claim until a stated deadline, then rotated.
+    license: Mixed
+    entry_type: asset-source
+    pricing: Free while listed
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - unreal
+        - unity
+    readme_tags:
+      - Freebies
+      - Fab
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.390Z'
+  - name: Unity Publisher of the Week
+    url: https://assetstore.unity.com/publisher-sale
+    description: Weekly Unity Asset Store sale with 50% off one publisher's catalog and a featured asset free via coupon code.
+    license: Mixed
+    entry_type: asset-source
+    pricing: One free asset weekly
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+    readme_tags:
+      - Freebies
+      - Unity
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.392Z'
+  - name: Daz 3D Free 3D Models
+    url: https://www.daz3d.com/free-3d-models
+    description: Daz 3D store category of free 3D models and content, with new free items added weekly.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - illustration
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Freebies
+      - Daz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.394Z'

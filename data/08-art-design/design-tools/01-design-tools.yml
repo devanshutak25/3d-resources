@@ -402,3 +402,46 @@ entries:
       - 3D
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Haikei
+    url: https://haikei.app/
+    description: Web app with 15 generators for randomized SVG blobs, waves, low-poly grids and gradients, exported for use in design tools.
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - procedural
+    readme_tags:
+      - SVG
+      - Generative
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.452Z'
+  - name: fffuel
+    url: https://www.fffuel.co/
+    description: Collection of free browser SVG generators for gradients, patterns, shapes, textures and backgrounds, plus color tools.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - procedural
+    readme_tags:
+      - SVG
+      - Generators
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.454Z'

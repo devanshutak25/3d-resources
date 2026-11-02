@@ -422,3 +422,27 @@ entries:
       - Adobe
     best_for: Photo to material
     pricing_last_verified: '2026-10-05'
+  - name: MeshCoat
+    url: https://stuyk.github.io/meshcoat/
+    description: Offline desktop 3D texture painter that paints base color, roughness, metalness and normal at once and exports packed ORM sets for UE5, Unity and Godot.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - pbr
+        - opensource-alt
+    readme_tags:
+      - Texture Painting
+      - PBR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.575Z'

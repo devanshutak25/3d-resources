@@ -89,3 +89,25 @@ entries:
       - Free
       - Blender
     best_for: UV island alignment
+  - name: WorldUV
+    url: https://jade-ite.itch.io/worlduv
+    description: Blender addon that adds Hammer-editor-style triplanar world UV unwrapping with per-face parameters you can adjust and copy, for level blockouts.
+    license: Free
+    entry_type: plugin
+    pricing: Name your own price
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    readme_tags:
+      - Triplanar UV
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.630Z'

@@ -234,3 +234,68 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: Real-ESRGAN
+    url: https://github.com/xinntao/Real-ESRGAN
+    description: Image and video restoration and upscaling models, with portable NCNN-Vulkan executables for Windows, Linux and macOS and dedicated anime models.
+    license: Open Source
+    entry_type: software
+    pricing: Free (BSD-3-Clause)
+    tags:
+      workflow:
+        - compositing
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
+        - mac
+      tech:
+        - gpu
+    readme_tags:
+      - Upscaling
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.334Z'
+  - name: Krita AI Diffusion
+    url: https://github.com/Acly/krita-ai-diffusion
+    description: 'Plugin for Krita that adds AI-assisted painting: inpaint and outpaint with optional text prompts, running open models locally via ComfyUI or on an optional cloud service.'
+    license: Open Source
+    entry_type: plugin
+    pricing: Free on local hardware; optional paid cloud generation
+    tags:
+      workflow:
+        - concept
+        - texturing
+      output:
+        - illustration
+        - games
+      tech:
+        - ai-generative
+        - stylus-support
+    readme_tags:
+      - Krita
+      - Inpainting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.340Z'
+  - name: SmartRoto (Foundry)
+    url: https://www.foundry.com/products/nuke-family/smartroto
+    description: AI add-on for Nuke's Roto node that propagates spline shapes drawn on a few frames across a sequence, with shapes you can refine and lock.
+    license: Paid
+    entry_type: plugin
+    pricing: $599/year; 30-day free trial
+    best_for: Spline roto in Nuke 16.1+ on an NVIDIA GPU or Apple silicon
+    tags:
+      workflow:
+        - roto
+      output:
+        - film-vfx
+      tech:
+        - subscription
+        - gpu
+    readme_tags:
+      - Nuke
+      - Roto
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.342Z'

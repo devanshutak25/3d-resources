@@ -643,3 +643,130 @@ entries:
       - Freemium
       - Gaussian Splats
     best_for: AI world generation
+  - name: Modly
+    url: https://github.com/lightningpixel/modly
+    description: Desktop app that turns photos into 3D meshes with open-source image-to-3D models running locally on your own GPU.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - linux
+        - mac
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Image-to-3D
+      - Local
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.230Z'
+  - name: AssetFurnace
+    url: https://assetfurnace.com/
+    description: Local pipeline that turns a text prompt or image into a rigged, animated humanoid GLB, logging the license of every model used in each file.
+    license: Open Source
+    entry_type: software
+    pricing: Free to run locally; optional cloud runs at $0.20 each
+    best_for: Prototype game characters on an Apple Silicon Mac or NVIDIA PC
+    tags:
+      workflow:
+        - modeling
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - mac
+        - linux
+        - win
+      tech:
+        - ai-generative
+        - glb
+    readme_tags:
+      - Text-to-3D
+      - Auto-Rig
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.235Z'
+  - name: Open3DStudio
+    url: https://github.com/FishWoWater/Open3DStudio
+    description: 'Self-hosted desktop app for local 3D AI workflows: text- and image-to-3D, texture generation, auto-rigging, part completion, retopology and UV unwrapping.'
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - texturing
+        - rigging
+        - retopo
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - linux
+        - mac
+      tech:
+        - ai-generative
+    readme_tags:
+      - Self-Hosted
+      - Image-to-3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.241Z'
+  - name: Stable Fast 3D (SF3D)
+    url: https://github.com/Stability-AI/stable-fast-3d
+    description: Stability AI image-to-3D model based on TripoSR that outputs UV-unwrapped textured meshes with lighting removed from the texture.
+    license: Free
+    entry_type: tool
+    pricing: Free under Stability AI Community License (revenue cap for commercial use)
+    tags:
+      workflow:
+        - modeling
+        - uv
+      output:
+        - games
+        - generalist
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Image-to-3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.294Z'
+  - name: TRELLIS.2 for Apple Silicon
+    url: https://github.com/shivampkumar/trellis-mac
+    description: Port of Microsoft's TRELLIS.2 image-to-3D model from CUDA to PyTorch MPS, producing GLB meshes with baked PBR textures on Macs.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    best_for: Running TRELLIS.2 without an NVIDIA GPU
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - mac
+      tech:
+        - ai-generative
+        - pbr
+        - glb
+    readme_tags:
+      - Image-to-3D
+      - Mac
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.303Z'

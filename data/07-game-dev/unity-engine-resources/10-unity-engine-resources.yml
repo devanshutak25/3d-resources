@@ -374,3 +374,198 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+  - name: Unity MCP (Coplay)
+    url: https://github.com/CoplayDev/unity-mcp
+    description: MCP bridge that lets AI assistants manage assets, control scenes, edit scripts and run tasks in the Unity Editor.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.808Z'
+  - name: Hot Reload for Unity
+    url: https://hotreload.net/
+    description: Unity package that applies C# edits to a running game in milliseconds without a domain reload.
+    license: Paid
+    entry_type: plugin
+    pricing: $79.99 per seat one-time
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+        - perpetual
+    readme_tags:
+      - Hot Reload
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.916Z'
+  - name: Fast Script Reload
+    url: https://github.com/handzlikchris/FastScriptReload
+    description: Free hot reload for Unity that recompiles changed C# code during play mode without breaking the session.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+    readme_tags:
+      - Hot Reload
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.918Z'
+  - name: Odin Inspector
+    url: https://odininspector.com/
+    description: Unity plugin for building custom inspectors and editor windows with 100+ attributes or a visual designer.
+    license: Paid
+    entry_type: plugin
+    pricing: EUR 50 one-time (Personal) / EUR 235/yr (Enterprise)
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+        - student-free
+    readme_tags:
+      - Editor Tools
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.920Z'
+  - name: Feel
+    url: https://feel.moremountains.com/
+    description: Unity toolkit of 200+ stackable feedbacks for camera shake, particles, audio, post-processing and haptics.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - fx
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+    readme_tags:
+      - Game Feel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.922Z'
+  - name: Animancer
+    url: https://kybernetik.com.au/animancer/
+    description: Unity plugin that plays and controls animations from code without an Animator Controller state machine.
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+    readme_tags:
+      - Animation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.924Z'
+  - name: Amplify Shader Editor
+    url: https://amplify.pt/unity/amplify-shader-editor/
+    description: Node-based shader editor for Unity covering Built-in, URP and HDRP pipelines.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity-plugin
+        - unity
+        - node-based
+    readme_tags:
+      - Shaders
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.926Z'
+  - name: VContainer
+    url: https://github.com/hadashiA/VContainer
+    description: Fast, GC-free dependency injection library for Unity projects.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity
+    readme_tags:
+      - DI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.928Z'
+  - name: UniTask
+    url: https://github.com/Cysharp/UniTask
+    description: Allocation-free async/await integration for Unity.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unity
+    readme_tags:
+      - Async
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.929Z'

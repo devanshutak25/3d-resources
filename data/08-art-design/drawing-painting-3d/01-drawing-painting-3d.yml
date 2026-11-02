@@ -247,3 +247,45 @@ entries:
       tech:
         - gpu
         - real-time
+  - name: SetPose
+    url: https://setpose.com/
+    description: Browser 3D mannequin poser for artists with IK limbs, hand poses, props, image capture and 3D export.
+    license: Freemium
+    entry_type: tool
+    pricing: Free with ads / Pro tier
+    tags:
+      workflow:
+        - reference
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+    readme_tags:
+      - Pose Reference
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.498Z'
+  - name: JustSketchMe
+    url: https://justsketch.me/
+    description: 3D character posing app for artists that runs in the browser and on iOS, Mac, Windows and Android, with a Pro tier.
+    license: Freemium
+    entry_type: tool
+    pricing: Free / Pro
+    tags:
+      workflow:
+        - reference
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+        - ios
+        - mac
+        - win
+        - android
+    readme_tags:
+      - Pose Reference
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.653Z'

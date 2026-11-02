@@ -84,3 +84,122 @@ entries:
         - film-vfx
       platform:
         - web
+  - name: FootageCrate
+    url: https://footagecrate.com/
+    description: 'Library of 10,000 VFX stock elements on transparent backgrounds: explosions, fire, smoke, debris, muzzle flashes and lens flares.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - VFX Elements
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.398Z'
+  - name: FX Elements
+    url: https://fxelements.com/
+    description: 4K VFX stock footage of explosions, fire, smoke and other elements shot on black or green screen, sold by subscription with 130+ free clips.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - subscription
+    readme_tags:
+      - VFX Elements
+      - 4K
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.399Z'
+  - name: Videezy
+    url: https://www.videezy.com/
+    description: Community library of free HD and 4K stock video clips and After Effects templates, with a Pro tier.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Stock Video
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.400Z'
+  - name: Coverr
+    url: https://coverr.co/
+    description: Free HD and 4K stock video, music and image library cleared for commercial use without attribution, plus paid AI tools.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Stock Video
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.401Z'
+  - name: Storyblocks
+    url: https://www.storyblocks.com/
+    description: 'Subscription stock library of 10M+ assets with unlimited downloads: footage, motion-graphics templates, music, sound effects and images.'
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - editing
+        - audio-design
+      output:
+        - broadcast
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - subscription
+    readme_tags:
+      - Stock Video
+      - Subscription
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.403Z'
+  - name: NASA Image and Video Library
+    url: https://images.nasa.gov/
+    description: Searchable NASA archive of images and video, downloadable in multiple resolutions with metadata.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - reference
+        - compositing
+      output:
+        - scientific-viz
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Space
+      - Archive
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.404Z'

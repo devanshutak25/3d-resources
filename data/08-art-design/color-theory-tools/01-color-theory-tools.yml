@@ -271,3 +271,22 @@ entries:
       - Accessibility
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Fresh LUTs
+    url: https://freshluts.com/
+    description: Community library of free color-grading LUTs that users upload and share, plus a browser color grading assistant.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - LUTs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.467Z'

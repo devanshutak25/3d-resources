@@ -511,3 +511,245 @@ entries:
         - houdini
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: FXHoudiniMCP
+    url: https://github.com/healkeiser/fxhoudinimcp
+    description: MCP server for Houdini with 215 tools that build node networks, set up simulations, inspect USD stages and render.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.823Z'
+  - name: HoudiniMCP
+    url: https://github.com/capoomgit/houdini-mcp
+    description: Houdini Python plugin plus MCP bridge that lets Claude create and modify nodes and run code in a live Houdini session.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.826Z'
+  - name: GSOPs
+    url: https://github.com/cgnomads/GSOPs
+    description: Gaussian Splatting Operators for Houdini that import, edit, relight and render 3D Gaussian splats as SOP geometry.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - fx
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - gaussian-splatting
+    readme_tags:
+      - Gaussian Splats
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.934Z'
+  - name: MotionCOPs
+    url: https://github.com/Boning1011/motion-cops
+    description: Free toolkit of Copernicus HDAs for motion design in Houdini, with batch media paste, LUT grading and animation tools.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - node-based
+    readme_tags:
+      - Copernicus
+      - COPs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.936Z'
+  - name: Houdini VBD
+    url: https://github.com/MysteryPancake/Houdini-VBD
+    description: OpenCL port of Vertex Block Descent and Augmented VBD soft body solvers that runs natively in Houdini.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - physics
+        - gpu
+    readme_tags:
+      - Solver
+      - OpenCL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.938Z'
+  - name: NodebookMD
+    url: https://nodebook.md/
+    description: Free offline desktop app that indexes the docs of your installed Houdini version and shows them in a fast searchable viewer.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini
+    readme_tags:
+      - Docs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.940Z'
+  - name: hpaste
+    url: https://github.com/permahorse/hpaste
+    description: Houdini tool that copies node networks as plain-text snippets you can paste through any messenger.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+    readme_tags:
+      - Snippets
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.942Z'
+  - name: HPaint
+    url: https://github.com/aaronsmithtv/hpaint
+    description: Viewport drawing tool for Houdini that paints UV'd 3D stroke cards on any geometry, similar to Grease Pencil.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - concept
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+    readme_tags:
+      - Drawing
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.944Z'
+  - name: egMatLib
+    url: https://github.com/eglaubauf/egMatLib
+    description: Material library panel for Houdini that stores and loads Karma, Mantra, Redshift, Arnold and Octane shader networks.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+        - material-authoring
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - redshift
+    readme_tags:
+      - Materials
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.946Z'
+  - name: ZENV
+    url: https://github.com/CorvaeOboro/zenv
+    description: CC0 collection of Houdini HDAs for procedural environment modeling.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - houdini
+        - procedural
+        - cc0
+    readme_tags:
+      - HDA
+      - Environments
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.948Z'

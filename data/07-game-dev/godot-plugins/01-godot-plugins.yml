@@ -186,3 +186,350 @@ entries:
         - godot
     stale: true
     last_pushed: '2023-01-11'
+  - name: Godot MCP
+    url: https://github.com/Coding-Solo/godot-mcp
+    description: MCP server for Godot that launches the editor, runs projects and returns debug output to AI assistants.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.810Z'
+  - name: Terrain3D
+    url: https://github.com/TokisanGames/Terrain3D
+    description: C++ GDExtension terrain system for Godot 4 with sculpting and painting, scaling from 64 m to 65.5 km regions.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Terrain
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.886Z'
+  - name: ProtonScatter
+    url: https://github.com/HungryProton/scatter
+    description: Godot 4 add-on that places props in a scene procedurally and non-destructively.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+        - procedural
+    readme_tags:
+      - Scatter
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.887Z'
+  - name: Spatial Gardener
+    url: https://github.com/dreadpon/godot_spatial_gardener
+    description: Godot plugin for painting foliage and props onto any 3D surface without heightmap terrain.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Foliage
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.888Z'
+  - name: Sky3D
+    url: https://github.com/TokisanGames/Sky3D
+    description: Day/night cycle for Godot 4 with rotating sun, moon and stars, moon phases, and fog and clouds that follow the time of day.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - lighting
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+        - real-time
+    readme_tags:
+      - Sky
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.890Z'
+  - name: Cyclops Level Builder
+    url: https://github.com/blackears/cyclopsLevelBuilder
+    description: Godot plugin for blocking out levels in the viewport by dragging out blocks with collision and materials.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - previs
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Blockout
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.891Z'
+  - name: FuncGodot
+    url: https://github.com/func-godot/func_godot_plugin
+    description: Godot 4 plugin that builds scenes from Quake .map and Hammer .vmf level files.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Quake Maps
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.893Z'
+  - name: Orchestrator
+    url: https://github.com/CraterCrash/godot-orchestrator
+    description: Visual scripting add-on for Godot 4.2+ with a graph editor and hundreds of nodes for game logic.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+        - node-based
+    readme_tags:
+      - Visual Scripting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.894Z'
+  - name: Beehave
+    url: https://github.com/bitbrain/beehave
+    description: Behavior tree add-on for building NPC and enemy AI in Godot.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - AI
+      - Behavior Trees
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.896Z'
+  - name: Godot State Charts
+    url: https://github.com/derkork/godot-statecharts
+    description: Godot 4 extension for building hierarchical state charts to drive character and game logic.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - State Machines
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.898Z'
+  - name: Dialogue Manager
+    url: https://github.com/nathanhoad/godot_dialogue_manager
+    description: Nonlinear dialogue system for Godot with a script-like editor for branching conversations.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Dialogue
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.899Z'
+  - name: Aseprite Wizard
+    url: https://github.com/viniciusgerevini/godot-aseprite-wizard
+    description: Godot editor plugin that imports Aseprite animations into AnimationPlayers, AnimatedSprites and SpriteFrames.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Pixel Art
+      - Aseprite
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.901Z'
+  - name: Debug Draw 3D
+    url: https://github.com/DmitriySalnikov/godot_debug_draw_3d
+    description: Godot add-on that draws 3D debug shapes and 2D overlays from code.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Debug
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.903Z'
+  - name: GdUnit4
+    url: https://github.com/godot-gdunit-labs/gdUnit4
+    description: Unit testing framework for Godot 4 that runs GDScript and C# tests from an embedded inspector.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Testing
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.905Z'
+  - name: HEGo
+    url: https://github.com/peterprickarz/hego
+    description: GDExtension that runs Houdini Digital Assets inside Godot 4 through Houdini Engine for procedural content.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+      tech:
+        - godot
+        - houdini
+        - procedural
+    readme_tags:
+      - Houdini Engine
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.907Z'
+  - name: AssetPlacer
+    url: https://cookiebadger.itch.io/assetplacer
+    description: Godot level-design plugin for browsing, grouping and placing 3D assets on grids, surfaces or terrain.
+    license: Paid
+    entry_type: plugin
+    pricing: $26.99
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - godot
+    readme_tags:
+      - Level Design
+      - Godot
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.635Z'

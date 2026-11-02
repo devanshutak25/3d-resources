@@ -10,11 +10,11 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **3,826 entries, 103 deprecated, ~3,723 unique live resources** across 12 sections / 150 subsections (2026-10-05). Public copy uses `catalog.publicCountLabel()` ("3,500+"), never a hardcoded number.
+- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **4,205 entries, 103 deprecated** across 12 sections / 150 subsections (2026-11-03). Public copy uses `catalog.publicCountLabel()` ("4,100+" on 2026-11-03), never a hardcoded number.
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
-- A studios directory at `/studios/` (1,232 animation/VFX/motion/CG/game/viz/XR studios in 68 HQ countries, 2026-10-31), separate dataset (§4b).
+- A studios directory at `/studios/` (1,420 animation/VFX/motion/CG/game/viz/XR studios in 79 HQ countries, 2026-11-03), separate dataset (§4b).
 
 It is NOT a tutorial blog, not a news site, not a personal portfolio. It is a fast index for professionals to look up tools, asset sources, channels, books, hardware, services, and learning resources.
 
@@ -140,7 +140,7 @@ Optional fields: `pricing`, `best_for`, `license`, `entry_type`, `tags{workflow,
 - `tags.output` (closed, 15 values): end media `games`/`film-vfx`/`archviz`/`product-viz`/`motion-graphics`/`xr`/`scientific-viz`/`medical`/`jewelry`/`fashion`/`automotive`/`event-experiential`/`generalist`/`broadcast`/`illustration`.
 - `tags.platform` (closed, 9 values): `win`, `mac`, `linux`, `web`, `ios`, `ipad`, `android`, `cloud`, `vr`.
 - `tags.skill` (closed, 3 values): `beginner`, `intermediate`, `advanced`.
-- `tags.tech` (open but curated): `pbr`, `cc0`, `node-based`, `procedural`, `usd`, `gpu`, `real-time`, `offline`, `ray-tracing`, `path-tracing`, `raster`, `photogrammetry`, `gaussian-splatting`, `nerf`, `ai-generative`, `physics`, `subscription`, `perpetual`, `houdini-addon`, `blender-addon`, `unreal-plugin`, `unity-plugin`, `cloud-render`, etc.
+- `tags.tech` (open but curated): `pbr`, `cc0`, `node-based`, `procedural`, `usd`, `gpu`, `real-time`, `offline`, `ray-tracing`, `path-tracing`, `raster`, `photogrammetry`, `gaussian-splatting`, `nerf`, `ai-generative`, `physics`, `subscription`, `perpetual`, `houdini-addon`, `blender-addon`, `unreal-plugin`, `unity-plugin`, `cloud-render`, `mcp`, `glb`, `webgpu` (last three added 2026-11-03), etc.
 
 ### dual_listed_in mirror system
 
@@ -338,17 +338,18 @@ left open, remove when done.
   Nuke (irrealix, stored $46 vs ~$49), Scantic, Zoo Tools Pro, Beeble tiers, Character DNA.
 - Ameede file provenance unverified (user accepted the flag, 2026-09-15).
 - Motion Design School Discord entry shares the school's site URL (user: leave as-is, 2026-06-16).
+- 2026-11-03 discovery batch (+367 entries, +188 studios) was verified by the finding agents only; the next
+  monthly link run is its first independent check. Fab, aescripts, Shadertoy, Printables, Pond5 block bots (unverified, not added).
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 
 **Studios directory (built 2026-10-31, see §4b + CHANGELOG):**
-- 1,232 studios. Goal is every studio worldwide. Still thin: mainland China (sites refuse non-CN fetches),
-  Vietnam/Sri Lanka/Bangladesh (0), Lebanon/Qatar/Morocco/Tunisia/Costa Rica (0), previs (14), mocap (28).
-- founded 817/1,232, size 705/1,232. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+- 1,420 studios (2026-11-03). Goal is every studio worldwide. Still thin: mainland China 19 (sites refuse non-CN
+  fetches), Sri Lanka 2, Morocco/UAE/Ghana/Jordan/Ecuador/Venezuela 0-2, previs 14 (Previs Society site down), mocap 34.
+- founded 922/1,420, size 738/1,420. The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".
-- Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Rising Sun Pictures
-  (rsp.com.au 404 on 2026-10-31), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
+- Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
   Beauty and the Bit, Frogwares.
 - ~200 studios carry agent provenance in `notes:` (size from team page, city from Guild list, 403 sites).
 - Page is ~36 KB gz (most of it the JSON-LD ItemList); studios.json ~257 KB gz. Past ~3,000 studios consider splitting the JSON.

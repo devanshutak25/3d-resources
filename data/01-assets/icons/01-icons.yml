@@ -476,3 +476,83 @@ entries:
         - web
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: 3dicons
+    url: https://3dicons.co/
+    description: CC0 library of 1,500+ hand-made 3D icon renders, free for commercial use without attribution, with a Figma file.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - 3D Icons
+      - CC0
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.439Z'
+  - name: Lordicon
+    url: https://lordicon.com/
+    description: Library of 48,100+ animated icons; 9,700 are free for commercial use and PRO unlocks the full set without attribution.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free tier; PRO $6/mo billed annually; Team PRO $39/mo
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Animated Icons
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.442Z'
+  - name: Simple Icons
+    url: https://simpleicons.org/
+    description: CC0 collection of SVG icons for popular brands.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - Brand Icons
+      - SVG
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.444Z'
+  - name: Pixelarticons
+    url: https://pixelarticons.com/
+    description: 5,646 pixel-art icons on a 24x24 grid in four styles; 1,036 base icons are free under MIT, the full set is a one-time purchase.
+    license: Freemium
+    entry_type: asset-source
+    pricing: 1,036 icons free (MIT); full set €99 one-time
+    tags:
+      workflow:
+        - editing
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Pixel Icons
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.446Z'

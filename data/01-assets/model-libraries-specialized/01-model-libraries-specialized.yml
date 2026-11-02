@@ -436,3 +436,264 @@ entries:
     notes: Blocks non-browser user agents (403); link checks need a browser UA. High-volume aggregator, file provenance unverified.
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Renderpeople
+    url: https://renderpeople.com/
+    description: Store of scanned 3D people in posed, animated and 4D variants for archviz and film, with a set of free models.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Per model (e.g. posed €29, animated €79); free models available
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - archviz
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Scanned People
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.333Z'
+  - name: AXYZ design
+    url: https://axyz-design.com/
+    description: Library of 3,000+ render-ready scanned 3D and 4D people, paired with the anima crowd animation software for archviz.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - archviz
+      platform:
+        - web
+      tech:
+        - photogrammetry
+    readme_tags:
+      - 4D People
+      - Crowds
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.336Z'
+  - name: 3D Scan Store
+    url: https://www.3dscanstore.com/
+    description: Ten24 store of HD head, body, hand and pose scans, retopologised models, MetaHuman identities and displacement maps.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+        - reference
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Head Scans
+      - MetaHuman
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.339Z'
+  - name: NIH 3D
+    url: https://3d.nih.gov/
+    description: NIH portal for downloading and sharing bioscientific and medical 3D models, exportable as GLB or STL for printing and visualization.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - reference
+      output:
+        - medical
+        - scientific-viz
+      platform:
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - Medical
+      - STL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.342Z'
+  - name: NVIDIA ORCA
+    url: https://developer.nvidia.com/orca
+    description: Open Research Content Archive of rendering test scenes such as Amazon Lumberyard Bistro, Emerald Square, UE4 Sun Temple and Beeple Zero-Day.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - ray-tracing
+    readme_tags:
+      - Test Scenes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.345Z'
+  - name: Digital Production Example Library
+    url: https://dpel.aswf.io/
+    description: ASWF-hosted set of free production assets for testing pipelines, including Netflix ALab USD scene, Intel 4004 Moore Lane and an OpenPBR playground.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - usd
+    readme_tags:
+      - USD
+      - Test Scenes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.348Z'
+  - name: Disney Animation Data Sets
+    url: https://disneyanimation.com/data-sets/
+    description: Production data sets released by Walt Disney Animation Studios for research, including the Moana Island Scene with everything needed to render it.
+    license: Mixed
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - path-tracing
+    readme_tags:
+      - Moana Island
+      - Test Scenes
+    notes: Each data set page carries its own terms; the hub page frames them for research use.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.351Z'
+  - name: glTF Sample Assets
+    url: https://github.com/KhronosGroup/glTF-Sample-Assets
+    description: Khronos repository of glTF models that each demonstrate a format feature, used to test viewers, engines and exporters.
+    license: Mixed
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+        - rendering
+      output:
+        - generalist
+        - games
+      platform:
+        - web
+      tech:
+        - glb
+        - pbr
+    readme_tags:
+      - glTF
+      - Test Models
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.353Z'
+  - name: OpenVDB Sample Models
+    url: https://www.openvdb.org/download/
+    description: Official .vdb volume versions of standard test models such as armadillo and buddha, plus Houdini and Maya example files.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - fx
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - houdini
+    readme_tags:
+      - VDB
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.356Z'
+  - name: EmberGen Free VDB Volumes
+    url: https://jangafx.com/software/embergen/download/free-vdb-animations/
+    description: CC0 VDB simulation sequences from JangaFX, such as explosions, campfire, chimney smoke and a tornado, each with its EmberGen preset.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - VDB
+      - CC0
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.358Z'
+  - name: Big Medium Small
+    url: https://www.bigmediumsmall.com/
+    description: Kitbash 3D asset packs for concept artists and game designers, with themed sets like Wild West, Mech Squad, Chiba City and Paranormal.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - concept
+        - modeling
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - blender
+        - unreal
+    readme_tags:
+      - Kitbash
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.376Z'
+  - name: Squir
+    url: https://squir.com/
+    description: Store of detailed 3D car models, including current production vehicles, sold per model.
+    license: Paid
+    entry_type: asset-source
+    pricing: Per model (e.g. €129)
+    tags:
+      workflow:
+        - modeling
+      output:
+        - automotive
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - Car Models
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.472Z'

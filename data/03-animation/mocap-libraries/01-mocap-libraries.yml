@@ -761,3 +761,51 @@ entries:
     notes: Indie and Pro licenses both commercial (Pro if org revenue >$100k). No AI training, no redistribution.
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Universal Animation Library 2
+    url: https://quaternius.itch.io/universal-animation-library-2
+    description: CC0 pack of 130+ game animations from Quaternius, with root-motion versions and fixes for Unity and Godot.
+    license: Free
+    entry_type: asset-source
+    pricing: Name your own price
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+        - unity
+        - unreal
+        - godot
+    readme_tags:
+      - CC0
+      - Game Anims
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.361Z'
+  - name: KayKit - Character Animations
+    url: https://kaylousberg.itch.io/kaykit-character-animations
+    description: CC0 humanoid animation sets for KayKit character rigs, grouped by category and supplied as FBX and glTF.
+    license: Free
+    entry_type: asset-source
+    pricing: Name your own price
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+        - unity
+        - godot
+        - unreal
+    readme_tags:
+      - CC0
+      - FBX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.363Z'

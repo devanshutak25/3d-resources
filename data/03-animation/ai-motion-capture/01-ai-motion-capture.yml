@@ -21,3 +21,82 @@ entries:
       - Pose-controlled
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Mixamo LLM Mocap
+    url: https://github.com/squall01337/mixamo-llm-mocap
+    description: Pipeline that turns locked-camera video, filmed or AI-generated, into FK animation on Mixamo characters in Blender using GVHMR pose estimation and retargeting.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+      tech:
+        - blender
+    readme_tags:
+      - Video Mocap
+      - Mixamo
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.234Z'
+  - name: SAM 3D Body (Meta)
+    url: https://github.com/facebookresearch/sam-3d-body
+    description: Promptable model for full-body 3D human mesh recovery from a single image, part of Meta's SAM 3D release.
+    license: Free
+    entry_type: tool
+    pricing: Free (SAM License, royalty-free)
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      tech:
+        - gpu
+    readme_tags:
+      - Human Mesh
+      - Pose
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.280Z'
+  - name: TRAM
+    url: https://github.com/yufu-wang/tram
+    description: Research code that recovers global trajectory and 3D body motion of people from in-the-wild video, solving the camera with a masked DROID-SLAM.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - mocap
+        - match-move
+      output:
+        - games
+        - film-vfx
+      tech:
+        - gpu
+    readme_tags:
+      - Video Mocap
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.281Z'
+  - name: WHAM
+    url: https://github.com/yohanshin/WHAM
+    description: PyTorch model that reconstructs world-grounded 3D human motion from monocular video, a common backbone for open video-to-mocap pipelines.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      tech:
+        - gpu
+    readme_tags:
+      - Video Mocap
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.283Z'

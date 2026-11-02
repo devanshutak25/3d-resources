@@ -1,0 +1,458 @@
+studios:
+  - name: MadisFilms
+    url: https://www.madisfilms.com/
+    description: ICVFX virtual production studio with an LED wall, LED ceiling and real-time tracking for ads, TV and music videos.
+    hq:
+      city: Providencia
+      country: Chile
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - episodic
+      - music-video
+    notable:
+      - Banco de Chile
+      - Teletón
+      - TVN
+      - Mercado Libre
+    social:
+      instagram: https://www.instagram.com/madisfilmschile/
+      linkedin: https://www.linkedin.com/company/madisfilms/
+      youtube: https://www.youtube.com/@MadisfilmsCL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.017Z'
+  - name: Copernicus Studios
+    url: https://copernicusstudios.com/
+    description: Animation studio producing original animated series and films for TV and digital platforms.
+    hq:
+      city: Halifax
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    careers: https://copernicusstudios.com/careers/
+    notable:
+      - Lana Longbeard (with Zephyr Animation)
+    social:
+      linkedin: https://www.linkedin.com/company/copernicus-studios
+      vimeo: https://vimeo.com/copernicusstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.056Z'
+  - name: VFX Legion
+    url: https://vfxlegion.com/
+    description: Remote-pipeline VFX company working on feature films and episodic series.
+    hq:
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Burbank
+        country: United States
+      - city: Kelowna
+        country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2013
+    careers: https://vfxlegion.com/join-us/
+    notable:
+      - The First Lady (Showtime)
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.095Z'
+  - name: Maere Studios
+    url: https://www.maerestudios.com/
+    description: VFX, animation and design studio working on features, shorts and music videos.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - music-video
+    founded: 2016
+    notable:
+      - The Green Knight
+      - An Almost Christmas Story (Disney+)
+      - Peter Pan & Wendy
+      - The Wanting Mare
+    social:
+      instagram: https://www.instagram.com/maerestudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.135Z'
+  - name: Sprite Animation Studios
+    url: https://www.spriteanimation.com/
+    description: CG animation studio co-producing animated series and features with OLM.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2002
+    notable:
+      - Hot Wheels Let's Race
+      - 'Gudetama: An Eggcellent Adventure'
+      - Tinpo
+      - 'Kong: King of the Apes'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.175Z'
+  - name: Arcana Studio
+    url: https://arcana.com/
+    description: Animation studio and comics publisher making animated features and series.
+    hq:
+      city: Burnaby
+      country: Canada
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    careers: https://arcana.com/careers/
+    notable:
+      - Panda vs. Aliens
+      - Heroes of the Golden Mask
+      - The Clockwork Girl
+      - Corrective Measures
+    social:
+      instagram: https://www.instagram.com/arcanastudio/
+      linkedin: https://www.linkedin.com/company/arcana-studios/
+      youtube: https://www.youtube.com/user/arcanamation
+      x: https://twitter.com/arcanastudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.216Z'
+  - name: Smog
+    url: https://www.smog.tv/
+    description: Motion graphics studio making web videos, music videos, channel IDs and title sequences.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - music-video
+      - brand
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.256Z'
+  - name: Caballo Loco Studio
+    url: https://www.caballolocostudio.com/
+    description: Animation studio making series pilots, ad spots and web content in varied styles.
+    hq:
+      city: Bogotá
+      country: Colombia
+    offices:
+      - city: Barcelona
+        country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2019
+    notable:
+      - Astropackers (pilot)
+      - Sello Rojo GO (TV spot)
+      - Centennialz Planet (web series intro)
+      - Cotton Bottom Town (in development)
+    social:
+      instagram: https://www.instagram.com/caballolocostudio/
+      linkedin: https://www.linkedin.com/company/caballo-loco-studio/
+      behance: https://www.behance.net/caballoloco
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.297Z'
+  - name: Dinamita Animación
+    url: https://www.dinamitaanimacion.com/
+    description: Traditional 2D animation studio producing animated series and service work.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    social:
+      instagram: https://www.instagram.com/dinamita_animacion/
+      vimeo: https://vimeo.com/dinamitaanimacion
+      youtube: https://www.youtube.com/@dinamita_animacion
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.339Z'
+  - name: iKartoons Animation
+    url: https://www.ikartoons.com/
+    description: Animation studio making feature films, short-form clips and original series with social impact themes.
+    hq:
+      city: Bogotá
+      country: Colombia
+    offices:
+      - city: Miami
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - brand
+    careers: https://www.ikartoons.com/jobs
+    notable:
+      - Catalina La Catrina
+      - Miauricio
+      - GalapaFenders
+      - Froui
+    social:
+      instagram: https://www.instagram.com/ikartoonsanimation/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.381Z'
+  - name: Piragna
+    url: https://piragna.com/
+    description: 2D animation studio doing preproduction, character design and production for animated series.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    notable:
+      - Tooko
+      - Chica Cartón
+      - Frailejón
+      - Cuentitos Mágicos
+    social:
+      instagram: https://www.instagram.com/piragna.animacion/
+      youtube: https://www.youtube.com/@PiragnaSAS
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.423Z'
+  - name: Fortes.Vision
+    url: https://fortes.vision/
+    description: Architectural visualization studio making interior and exterior renders, animations and virtual tours for real estate.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Riyadh
+        country: Saudi Arabia
+      - city: Tallinn
+        country: Estonia
+    disciplines:
+      - archviz
+    markets:
+      - brand
+    founded: 2017
+    notable:
+      - Gardens Residence
+      - Palm Beach Residence
+      - Caspian Dream Liner
+    social:
+      instagram: https://www.instagram.com/fortes.vision/
+      linkedin: https://www.linkedin.com/company/fortesvision/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.464Z'
+  - name: HUSH
+    url: https://www.heyhush.com/
+    description: Experience design studio making media facades, brand environments and spatial installations.
+    hq:
+      country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - Barclays Times Square media facade
+      - Discord event brand experience
+      - Commonwealth Fusion Systems art commission
+    social:
+      instagram: https://www.instagram.com/officialhushstudios/
+      linkedin: https://www.linkedin.com/company/hush-studios-inc-
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.504Z'
+  - name: Transparent House
+    url: https://www.transparenthouse.com/
+    description: CG studio making product and architectural visualization, ad imagery and real-time AR/VR environments.
+    hq:
+      city: San Francisco
+      country: United States
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - product-viz
+      - archviz
+      - cg
+      - xr
+    markets:
+      - advertising
+      - brand
+    careers: https://www.transparenthouse.com/jobs
+    notable:
+      - Logitech Pro Racing Wheel
+      - Logitech Powerplay 2
+      - JLab lifestyle campaign
+    social:
+      instagram: https://www.instagram.com/transparenthouse
+      linkedin: https://www.linkedin.com/company/transparent-house
+      x: https://x.com/thtweets
+      behance: https://www.behance.net/transparenthouse
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.545Z'
+  - name: Estudio Haini
+    url: https://www.haini.com.mx/
+    description: 2D animation studio making cartoons, explainer series, storyboards and brand mascots.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - brand
+    founded: 2003
+    notable:
+      - CuriosaMente
+      - El funeral de Don Jején
+      - El Relato de San Brenan
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.585Z'
+  - name: ZeroSpace
+    url: https://www.zerospace.co/
+    description: Production studio with a Vicon mocap stage, ICVFX LED stage, photogrammetry and volumetric capture.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - mocap
+      - virtual-production
+      - experiential
+    markets:
+      - film
+      - advertising
+      - music-video
+      - brand
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/zerospace
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.626Z'
+  - name: Gigante Azul
+    url: https://giganteazul.cl/
+    description: Animation production company making 2D, stop-motion and motion graphics content for kids and teens.
+    hq:
+      city: Valparaíso
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - motion-design
+    markets:
+      - episodic
+      - film
+    notable:
+      - Negocio de Brujas
+      - HAIN (stop-motion feature, in development)
+      - Bordar el Cuerpo
+      - El Universo en Nosotros
+    social:
+      instagram: https://www.instagram.com/gigazulproducciones/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.667Z'
+  - name: Mami Male
+    url: https://mamimale.com/
+    description: Small creative studio developing 2D and stop-motion animated series and films.
+    hq:
+      city: Talca
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - episodic
+    notable:
+      - Antarctica (stop-motion, in production)
+      - Saca Ronchas F.C.
+      - Perras
+    social:
+      instagram: https://www.instagram.com/mamimale.prod/
+      linkedin: https://cl.linkedin.com/company/mamimaleprods
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.707Z'
+  - name: Alter Ego
+    url: https://www.alteregopost.com/
+    description: Colour, VFX, finishing and motion design studio for commercials, TV and features.
+    hq:
+      country: Canada
+    offices:
+      - city: Toronto
+        country: Canada
+      - city: Vancouver
+        country: Canada
+      - city: Santa Monica
+        country: United States
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+      - film
+    notable:
+      - 'RBC: Apple Crochet'
+      - 'Nescafé: Cups'
+      - 'Elizabeth Arden: Eternal Aura'
+      - 'Sephora: Pretty Badass'
+    social:
+      instagram: https://www.instagram.com/alteregopost/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.747Z'
+  - name: PiP Animation Services
+    url: https://www.pipanimation.com/
+    description: 2D animation service studio producing kids series and co-producing animated films.
+    hq:
+      city: Ottawa
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 1998
+    notable:
+      - Cyberchase
+      - Caillou
+      - Lamya's Poem (co-producer)
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:58:19.788Z'

@@ -70,3 +70,167 @@ entries:
         - web
       workflow:
         - concept
+  - name: OpenModelDB
+    url: https://openmodeldb.info/
+    description: Community database of 670+ AI upscaling and restoration models, filterable by subject and by purpose such as denoise, deblur and JPEG cleanup.
+    license: Mixed
+    entry_type: reference
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Upscaling
+      - Models
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.245Z'
+  - name: BiRefNet
+    url: https://github.com/ZhengPeng7/BiRefNet
+    description: High-resolution segmentation model for background removal and fine-edge masks, with pretrained weights for general use and trimap-free matting up to 2048px.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - generalist
+      tech:
+        - gpu
+    readme_tags:
+      - Background Removal
+      - Matting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.255Z'
+  - name: Depth Anything 3
+    url: https://github.com/ByteDance-Seed/Depth-Anything-3
+    description: Model that predicts consistent depth, camera pose and Gaussian-splat geometry from any number of views, with or without known cameras. Giant checkpoints are non-commercial.
+    license: Open Source
+    entry_type: tool
+    pricing: Free; code Apache-2.0, Giant weights CC BY-NC 4.0
+    tags:
+      workflow:
+        - compositing
+        - match-move
+      output:
+        - film-vfx
+        - generalist
+      tech:
+        - gaussian-splatting
+        - gpu
+    readme_tags:
+      - Depth
+      - Pose
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.259Z'
+  - name: Marigold
+    url: https://github.com/prs-eth/Marigold
+    description: Diffusion-based image analysis models from ETH Zurich for monocular depth, surface normals and intrinsic decomposition (albedo, lighting), with Hugging Face demos.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (code Apache-2.0)
+    tags:
+      workflow:
+        - texturing
+        - compositing
+      output:
+        - generalist
+      tech:
+        - gpu
+    readme_tags:
+      - Depth
+      - Normals
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.260Z'
+  - name: MoGe
+    url: https://github.com/microsoft/MoGe
+    description: Microsoft model that recovers metric point maps, metric depth, normal maps and camera FOV from a single image. Versions 1 to 3.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - compositing
+        - match-move
+      output:
+        - generalist
+      tech:
+        - gpu
+    readme_tags:
+      - Depth
+      - Geometry
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.262Z'
+  - name: VGGT (Visual Geometry Grounded Transformer)
+    url: https://github.com/facebookresearch/vggt
+    description: Meta feed-forward model that infers camera parameters, depth maps, point maps and 3D point tracks from one to hundreds of views in seconds. CVPR 2025 best paper.
+    license: Free
+    entry_type: tool
+    pricing: Free; commercial use allowed with the VGGT-1B-Commercial checkpoint
+    tags:
+      workflow:
+        - match-move
+        - modeling
+      output:
+        - film-vfx
+        - generalist
+      tech:
+        - photogrammetry
+        - gpu
+    readme_tags:
+      - Reconstruction
+      - Cameras
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.263Z'
+  - name: MapAnything
+    url: https://github.com/facebookresearch/map-anything
+    description: Meta transformer for metric 3D reconstruction that takes images plus optional calibration, poses or depth and outputs scene geometry in one feed-forward pass.
+    license: Open Source
+    entry_type: tool
+    pricing: Free; Apache-2.0 checkpoint available
+    tags:
+      workflow:
+        - match-move
+        - modeling
+      output:
+        - generalist
+      tech:
+        - photogrammetry
+        - gpu
+    readme_tags:
+      - Reconstruction
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.264Z'
+  - name: FlashVSR
+    url: https://github.com/OpenImagingLab/FlashVSR
+    description: One-step diffusion model for streaming video super-resolution, built toward real-time upscaling, with ComfyUI support. CVPR 2026.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (Apache-2.0)
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - generalist
+      tech:
+        - gpu
+        - ai-generative
+    readme_tags:
+      - Upscaling
+      - Video
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.335Z'

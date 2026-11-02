@@ -533,3 +533,26 @@ entries:
       - Survey
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: COLMAP browser workspace
+    url: https://offlinetools.io/colmap-landing/
+    description: Unofficial WebGPU port of COLMAP that runs feature matching, sparse and dense mapping and a 3DGS step locally in the browser.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - match-move
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - photogrammetry
+        - webgpu
+        - gaussian-splatting
+    readme_tags:
+      - SfM
+      - COLMAP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.587Z'

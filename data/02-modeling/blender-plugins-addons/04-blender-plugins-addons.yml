@@ -1063,3 +1063,76 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     added_at: '2026-10-30T20:38:59.341Z'
+  - name: Blender Lab MCP Server
+    url: https://www.blender.org/lab/mcp-server/
+    description: Official Blender Lab MCP server and add-on that lets an LLM client inspect scenes and run Python in Blender 5.1+.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - mcp
+    readme_tags:
+      - MCP
+      - Official
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.800Z'
+  - name: Brushstroke Tools
+    url: https://extensions.blender.org/add-ons/brushstroke-tools/
+    description: Blender Studio extension that generates painterly 3D brushstrokes with Geometry Nodes, as surface fills or curves drawn on a mesh.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - look-dev
+        - texturing
+      output:
+        - illustration
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - procedural
+        - node-based
+    readme_tags:
+      - NPR
+      - Official
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.850Z'
+  - name: Maya Workflow Kit for Blender
+    url: https://github.com/5hyuns/maya-workflow-kit-for-blender
+    description: 'Extension that brings Maya habits to Blender: hotbox, marking menus, Channel Box, Attribute Editor, menu sets and shelves.'
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - blender
+        - maya
+    readme_tags:
+      - Maya Keymap
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.853Z'

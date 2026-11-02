@@ -60,3 +60,171 @@ entries:
         - web
       skill:
         - intermediate
+  - name: Open Display Transform
+    url: https://github.com/jedypod/open-display-transform
+    description: Picture formation tools, including OpenDRT, that render scene-linear wide-gamut images for SDR or HDR displays, shipped as Resolve DCTLs and Nuke nodes.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - color-grading
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - DCTL
+      - Color
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.355Z'
+  - name: Utility DCTLs (Thatcher Freeman)
+    url: https://github.com/thatcherfreeman/utility-dctls
+    description: Collection of DaVinci Resolve DCTLs and Fuses for film grain, halation, gamut compression, tone mapping, lens distortion and LUT analysis.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - DCTL
+      - Fuse
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.357Z'
+  - name: Shaderfuse
+    url: https://github.com/nmbr73/Shaderfuse
+    description: Shadertoy WebGL shaders converted to DCTL Fuses for use in DaVinci Resolve and Fusion.
+    license: Free NC
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    readme_tags:
+      - Fuse
+      - Shaders
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.358Z'
+  - name: FFmpeg Encoder Plugin for DaVinci Resolve
+    url: https://github.com/EdvinNilsson/ffmpeg_encoder_plugin
+    description: Encoder plugin that exports H.264, H.265 and AV1 from DaVinci Resolve Studio through FFmpeg, with VAAPI, Vulkan and NVENC GPU encoding on Linux.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - linux
+        - win
+        - mac
+    readme_tags:
+      - FFmpeg
+      - Resolve
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.360Z'
+  - name: Rembg-Fuse
+    url: https://github.com/Akascape/Rembg-Fuse
+    description: Fusion Fuse that runs the rembg U-2-Net model to remove backgrounds from footage inside DaVinci Resolve.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Fuse
+      - Background Removal
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.370Z'
+  - name: Mononodes
+    url: https://mononodes.com/
+    description: Paid DCTLs, OFX plugins and apps for DaVinci Resolve colorists, including film print emulation, texture and node utilities.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - DCTL
+      - OFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.425Z'
+  - name: PixelTools
+    url: https://pixeltoolspost.com/
+    description: OFX and DCTL plugins plus PowerGrades for DaVinci Resolve, made by working colorists.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - DCTL
+      - PowerGrades
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.426Z'
+  - name: Resolve OpenCaptions
+    url: https://github.com/david-ca6/Resolve-OpenCaptions
+    description: Tools that use the Resolve API to build Text+ caption tracks from SRT files and Text+ templates, and export Text+ tracks back to SRT.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Captions
+      - Text+
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.458Z'

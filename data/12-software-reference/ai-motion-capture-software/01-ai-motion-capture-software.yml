@@ -407,3 +407,44 @@ entries:
       - Browser
     best_for: Quick character animation
     pricing_last_verified: '2026-10-05'
+  - name: SkinTokens (TokenRig)
+    url: https://github.com/VAST-AI-Research/SkinTokens
+    description: Auto-rigging model from VAST that takes a single 3D mesh and generates a skeleton plus per-vertex skinning weights in one autoregressive pass. Successor to UniRig.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - rigging
+        - skinning
+      output:
+        - games
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Auto-Rig
+      - Skinning
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.284Z'
+  - name: Make-It-Animatable
+    url: https://github.com/jasongzy/Make-It-Animatable
+    description: Framework that predicts joints, skinning weights and pose for a 3D character to make it animation-ready, with a demo app and Blender integration. CVPR 2025.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - rigging
+        - skinning
+      output:
+        - games
+      tech:
+        - ai-generative
+        - blender
+    readme_tags:
+      - Auto-Rig
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.286Z'

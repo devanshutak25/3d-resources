@@ -401,3 +401,74 @@ entries:
         - advanced
       platform:
         - web
+  - name: TSL Graph
+    url: https://www.tsl-graph.xyz/
+    description: Node editor for Three.js Shading Language with live 3D preview, code nodes, subgraphs and one-click export to TSL JavaScript.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - material-authoring
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - node-based
+        - webgpu
+        - real-time
+    readme_tags:
+      - Three.js
+      - TSL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.503Z'
+  - name: MetalGraph
+    url: https://metal.graphics/app
+    description: Node-based Metal shader editor for macOS and iPad that writes MSL code with SwiftUI hooks as you connect nodes.
+    license: Freemium
+    entry_type: software
+    pricing: Free download / paid full license
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - mac
+        - ipad
+      tech:
+        - node-based
+        - real-time
+    readme_tags:
+      - Metal
+      - Shaders
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.504Z'
+  - name: Babylon.js Node Material Editor
+    url: https://nme.babylonjs.com/
+    description: Browser node graph editor for building shader-based materials for Babylon.js with a live preview.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - material-authoring
+        - look-dev
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - node-based
+        - real-time
+    readme_tags:
+      - Babylon.js
+      - Node Editor
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.645Z'

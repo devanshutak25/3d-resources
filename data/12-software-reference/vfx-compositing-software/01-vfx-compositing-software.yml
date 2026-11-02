@@ -766,3 +766,224 @@ entries:
       - Open Source
       - Nuke
     best_for: VDB volumes in Nuke
+  - name: CorridorKey Runtime
+    url: https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime
+    description: Native runtime, CLI and OFX plugin that runs the CorridorKey AI green-screen keyer inside DaVinci Resolve and Nuke.
+    license: Free NC
+    entry_type: plugin
+    pricing: Free (CC BY-NC-SA 4.0)
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    readme_tags:
+      - Keying
+      - OFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.353Z'
+  - name: ntsc-rs
+    url: https://ntsc.rs/
+    description: VHS and analog TV artifact emulator that runs in the browser, as a standalone app, or as a plugin for DaVinci Resolve, After Effects and Premiere.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+    readme_tags:
+      - VHS
+      - OFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.363Z'
+  - name: DeepC
+    url: https://github.com/charlesangus/DeepC
+    description: Suite of open-source deep compositing plugins for Nuke aimed at small and mid-size studios.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+        - mac
+    readme_tags:
+      - Nuke
+      - Deep
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.372Z'
+  - name: LiveActionAOV
+    url: https://github.com/lettidude/LiveActionAOV
+    description: Local GPU pipeline that turns an EXR plate into mattes, Cryptomatte, depth, normals, motion vectors and a camera track, wired into a Nuke comp.
+    license: Freemium
+    entry_type: tool
+    pricing: Free for individuals and teams under 10; commercial license for larger studios
+    tags:
+      workflow:
+        - compositing
+        - roto
+        - match-move
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+        - mac
+      tech:
+        - gpu
+        - ai-generative
+        - gaussian-splatting
+    readme_tags:
+      - Nuke
+      - AOVs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.374Z'
+  - name: Nuke Survival Toolkit
+    url: https://github.com/CreativeLyons/NukeSurvivalToolkit_publicRelease
+    description: Portable Nuke toolbar of hand-picked community gizmos gathered from across the web, installed as one menu.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Nuke
+      - Gizmos
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.377Z'
+  - name: Stamps
+    url: https://adrianpueyo.com/stamps/
+    description: Node connection system for Nuke that places main assets once and uses hidden-input nodes that reconnect themselves across the graph.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Nuke
+      - Workflow
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.379Z'
+  - name: KnobScripter
+    url: https://github.com/adrianpueyo/KnobScripter
+    description: Python script editor for Nuke that edits .py files and Python knobs, adding syntax helpers to the default script editor features.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Nuke
+      - Python
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.381Z'
+  - name: DasGrain
+    url: https://www.nukepedia.com/tools/gizmos/other/dasgrain/
+    description: Nuke gizmo that automates re-graining by adapting the original plate grain to the finished comp.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Nuke
+      - Grain
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.384Z'
+  - name: Twixtor
+    url: https://revisionfx.com/products/twixtor/
+    description: Retiming plugin for slow motion and speed changes in image sequences, available for Nuke, Resolve, After Effects, Premiere and other hosts.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Retime
+      - Slow Motion
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.428Z'
+  - name: purzOS OFX
+    url: https://github.com/purzbeats/purzos-ofx
+    description: Set of 64 native OpenFX plugins for Resolve, Natron and other OFX hosts covering retro, pixel art, glitch, datamosh and CRT/VHS looks.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - OFX
+      - Glitch
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.459Z'

@@ -136,3 +136,6 @@ tech:
   - vex
   - render-farm
   - paper             # academic paper; pairs with entry_type: paper
+  - mcp               # Model Context Protocol server or bridge (added 2026-11-03)
+  - glb               # glTF/GLB-centric tool (added 2026-11-03)
+  - webgpu            # runs on WebGPU in the browser (added 2026-11-03)

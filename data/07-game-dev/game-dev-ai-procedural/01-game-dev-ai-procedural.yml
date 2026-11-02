@@ -103,3 +103,74 @@ entries:
       tech:
         - procedural
         - opensource-alt
+  - name: Talus
+    url: https://talus.tersa.tech/
+    description: Small diffusion model that generates 4 km game terrain heightmaps in the browser and exports 16-bit PNG, Unity RAW or OBJ.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - procedural
+        - ai-generative
+        - webgpu
+    readme_tags:
+      - Terrain
+      - Heightmap
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.500Z'
+  - name: Planet Workshop
+    url: https://carlpilot.itch.io/planet-workshop
+    description: Procedural planet and moon generator with layered noise that exports heightmaps, textures and meshes up to 8192x4096.
+    license: Free
+    entry_type: software
+    pricing: Name your own price
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - procedural
+    readme_tags:
+      - Planets
+      - Procedural
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.633Z'
+  - name: EZ-Tree
+    url: https://www.eztree.dev/
+    description: Procedural tree generator by Dan Greenheck with dozens of parameters, as a browser app and a Three.js library with LODs, wind and GLB export.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - archviz
+      platform:
+        - web
+      tech:
+        - procedural
+        - real-time
+        - glb
+    readme_tags:
+      - Trees
+      - Procedural
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.651Z'

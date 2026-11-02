@@ -642,3 +642,136 @@ entries:
       tech:
         - opensource-alt
         - unreal-plugin
+  - name: Unreal MCP (Epic)
+    url: https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor
+    description: Experimental UE 5.8 plugin that runs an MCP server inside the Unreal Editor so agents can call editor toolsets over local HTTP.
+    license: Free
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
+        - unreal
+        - mcp
+    readme_tags:
+      - MCP
+      - Official
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.812Z'
+  - name: EngineWire (Unreal MCP)
+    url: https://github.com/ChiR24/Unreal_mcp
+    description: MCP server plus native C++ editor plugin that lets Claude, Cursor or VS Code build levels, Blueprints, materials and UI in Unreal.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
+        - unreal
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.816Z'
+  - name: unreal-mcp (chongdashu)
+    url: https://github.com/chongdashu/unreal-mcp
+    description: Experimental MCP plugin and Python server that lets Cursor, Windsurf or Claude Desktop control Unreal Engine actors and Blueprints.
+    license: Free
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
+        - unreal
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.820Z'
+  - name: PCGEx
+    url: https://github.com/PCGEx/PCGExtendedToolkit
+    description: Node toolkit for Unreal's PCG framework adding graph building, pathfinding, spatial queries and asset staging.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
+        - unreal
+        - procedural
+        - node-based
+    readme_tags:
+      - PCG
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.909Z'
+  - name: UnrealSharp
+    url: https://github.com/UnrealSharp/UnrealSharp
+    description: Plugin for writing Unreal Engine 5 gameplay in C# on .NET 10, with generated API bindings and hot reload.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
+        - unreal
+    readme_tags:
+      - C#
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.911Z'
+  - name: glTFRuntime
+    url: https://github.com/rdeioris/glTFRuntime
+    description: Unreal plugin that loads glTF and GLB models, skeletons and animations at runtime.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+        - xr
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - unreal-plugin
+        - unreal
+    readme_tags:
+      - glTF
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.914Z'

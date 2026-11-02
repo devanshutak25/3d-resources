@@ -89,3 +89,67 @@ entries:
       - 3ds Max
     best_for: Fire and smoke simulation
     pricing_last_verified: '2026-10-05'
+  - name: 3dsmax-mcp
+    url: https://github.com/cl0nazepamm/3dsmax-mcp
+    description: MCP server with 161 tools that lets AI agents read scenes, model, edit materials and capture viewports in 3ds Max 2023-2027.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - win
+      tech:
+        - mcp
+    readme_tags:
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.829Z'
+  - name: GrowFX
+    url: https://exlevel.com/
+    description: 3ds Max plugin for procedural modeling and animation of trees, grass and ivy, with growth and wind and Unreal export.
+    license: Paid
+    entry_type: plugin
+    pricing: $325 individual license
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - archviz
+        - games
+      platform:
+        - win
+      tech:
+        - procedural
+        - perpetual
+    readme_tags:
+      - Vegetation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.955Z'
+  - name: FloorGenerator
+    url: https://cg-source.com/FloorGenerator
+    description: 3ds Max plugin that builds floors from individual boards in many patterns for archviz.
+    license: Freemium
+    entry_type: plugin
+    pricing: Free (standard pattern) / EUR 20 full
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - win
+      tech:
+        - procedural
+        - perpetual
+    readme_tags:
+      - Archviz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:35:14.956Z'

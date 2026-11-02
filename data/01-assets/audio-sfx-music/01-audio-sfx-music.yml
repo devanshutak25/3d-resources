@@ -278,3 +278,277 @@ entries:
       - Commercial Use
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: FilmCow Royalty Free Sound Effects Library
+    url: https://filmcow.itch.io/filmcow-sfx
+    description: 4,000+ recorded and designed sound effects as 24-bit 48kHz WAV, royalty-free for commercial use with no credit required.
+    license: Free
+    entry_type: asset-source
+    pricing: Name your own price
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - SFX
+      - WAV
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.371Z'
+  - name: Shapeforms Audio Free Sound Effects
+    url: https://shapeforms.itch.io/shapeforms-audio-free-sfx
+    description: 180 royalty-free sound effects sampled from Shapeforms Audio's paid libraries, in 24-bit 48kHz WAV, no attribution required.
+    license: Free
+    entry_type: asset-source
+    pricing: Name your own price
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.373Z'
+  - name: BOOM Library
+    url: https://www.boomlibrary.com/
+    description: Professional sound effects libraries for games, trailers and film, sold as buyouts or by subscription, plus sound design plug-ins.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.405Z'
+  - name: A Sound Effect
+    url: https://www.asoundeffect.com/
+    description: Marketplace of 7,000+ sound effects libraries from 600+ independent sound designers for games and film.
+    license: Paid
+    entry_type: marketplace
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - SFX
+      - Indie Libraries
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.407Z'
+  - name: Epidemic Sound
+    url: https://www.epidemicsound.com/
+    description: Subscription catalog of 55,000+ owned music tracks and 250,000+ sound effects for video, with rights included.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - broadcast
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - subscription
+    readme_tags:
+      - Music
+      - SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.409Z'
+  - name: Pro Sound Effects
+    url: https://www.prosoundeffects.com/
+    description: Licensor of 1.2M+ rights-cleared professional sound effects, with the SoundQ desktop app and shared cloud libraries for editors.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.411Z'
+  - name: Soundsnap
+    url: https://www.soundsnap.com/
+    description: Subscription library of royalty-free sound effects with unlimited downloads for games, film and video.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - subscription
+    readme_tags:
+      - SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.412Z'
+  - name: Ovani Sound
+    url: https://ovanisound.com/
+    description: Royalty-free music packs, sound effects, voice-over packs and audio plugins for indie game developers, sold one-time with no subscription.
+    license: Paid
+    entry_type: asset-source
+    pricing: One-time purchase
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - perpetual
+    readme_tags:
+      - Game Music
+      - SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.414Z'
+  - name: 99Sounds
+    url: https://99sounds.org/
+    description: Independent sound design label releasing free sound effects libraries and VST plugins, such as cinematic texture packs.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Free SFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.416Z'
+  - name: incompetech
+    url: https://incompetech.com/music/royalty-free/
+    description: Kevin MacLeod's royalty-free music catalog, free under Creative Commons with credit or under a paid license without attribution.
+    license: Free
+    entry_type: asset-source
+    pricing: Free with credit (CC); paid Standard License
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - games
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Music
+      - CC BY
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.417Z'
+  - name: Soundimage.org
+    url: https://soundimage.org/
+    description: Eric Matyas's library of free original music, sound effects and texture images for games and film, free with attribution.
+    license: Free
+    entry_type: asset-source
+    pricing: Free with attribution
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Game Music
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.419Z'
+  - name: ChipTone
+    url: https://sfbgames.itch.io/chiptone
+    description: Free retro game sound effect generator by SFBGames for browser, Windows and macOS; output sounds are CC0.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+        - win
+        - mac
+      tech:
+        - cc0
+    readme_tags:
+      - SFX Generator
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.422Z'
+  - name: jsfxr
+    url: https://sfxr.me/
+    description: Browser port of the sfxr 8-bit sound effect generator that exports WAV and also works as a JavaScript library for games.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - SFX Generator
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.424Z'
+  - name: BigSoundBank
+    url: https://bigsoundbank.com/
+    description: 3,500+ royalty-free sound effects and ambiences recorded by Joseph Sardin since 2005, under a CC0-like license.
+    license: Free
+    entry_type: asset-source
+    pricing: Free (donations welcome)
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+    readme_tags:
+      - SFX
+      - CC0-like
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.465Z'

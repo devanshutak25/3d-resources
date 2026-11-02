@@ -914,3 +914,27 @@ entries:
       - iPad
     best_for: 3D sketching on iPad
     pricing_last_verified: '2026-10-05'
+  - name: picoCAD 2
+    url: https://johanpeitz.itch.io/picocad2
+    description: Low-poly modeler built around a small, focused toolset for making retro-style textured models in a few clicks.
+    license: Paid
+    entry_type: software
+    pricing: $14.95
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - illustration
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - Low Poly
+      - Retro
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.617Z'

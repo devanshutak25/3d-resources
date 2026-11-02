@@ -156,3 +156,48 @@ entries:
       - 1000+ Materials
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: PolyScan
+    url: https://polyscann.com/
+    description: Small CC0 library of tileable 4K and 8K PBR textures, decals and 3D models for archviz and games, with a Blender add-on.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - archviz
+        - games
+      platform:
+        - web
+      tech:
+        - pbr
+        - cc0
+    readme_tags:
+      - CC0
+      - PBR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.327Z'
+  - name: FreeStylized
+    url: https://freestylized.com/
+    description: Free library of stylized PBR textures with Substance Designer source files, plus alphas, skyboxes and stylized 3D models.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - pbr
+    readme_tags:
+      - Stylized
+      - Substance
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.329Z'

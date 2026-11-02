@@ -1,1 +1,46 @@
-entries: []
+entries:
+  - name: StableProjectorz
+    url: https://stableprojectorz.com/
+    description: Windows app that projects Stable Diffusion art onto 3D models while keeping their UVs, with multi-view projection, AO baking and a 3D mode for prompt-to-mesh.
+    license: Open Source
+    entry_type: software
+    pricing: Free (AGPL-3.0)
+    best_for: AI texturing of existing UV-mapped meshes
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+      tech:
+        - ai-generative
+    readme_tags:
+      - Texturing
+      - Projection
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.244Z'
+  - name: Material Anything
+    url: https://github.com/3DTopia/MaterialAnything
+    description: Diffusion model that generates albedo, roughness, metallic and bump maps for 3D meshes, including texture-less, albedo-only, generated and scanned objects. CVPR 2025.
+    license: Open Source
+    entry_type: tool
+    pricing: Free (MIT)
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+        - generalist
+      tech:
+        - pbr
+        - ai-generative
+    readme_tags:
+      - PBR
+      - Texturing
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.277Z'

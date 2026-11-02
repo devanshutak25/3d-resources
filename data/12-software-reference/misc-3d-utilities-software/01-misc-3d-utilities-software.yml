@@ -637,3 +637,209 @@ entries:
       - VJ
     best_for: Audio-reactive visuals
     pricing_last_verified: '2026-10-05'
+  - name: EssentiaTD
+    url: https://github.com/DarienBrito/EssentiaTD
+    description: 'TouchDesigner CHOP plugins built on Essentia for real-time audio analysis: spectrum, mel bands, MFCCs, pitch and key detection.'
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+        - audio-design
+      output:
+        - event-experiential
+      platform:
+        - win
+        - mac
+      tech:
+        - real-time
+    readme_tags:
+      - TouchDesigner
+      - Audio Reactive
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.462Z'
+  - name: Hydra
+    url: https://hydra.ojack.xyz/
+    description: Browser live-coding environment for networked real-time visuals.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - real-time
+    readme_tags:
+      - Live Coding
+      - VJ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.473Z'
+  - name: nannou
+    url: https://nannou.cc/
+    description: Open-source creative coding framework for Rust.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - real-time
+    readme_tags:
+      - Rust
+      - Creative Coding
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.476Z'
+  - name: Vuo
+    url: https://vuo.org/
+    description: Real-time visual programming app for interactive installations, live performance visuals and digital media.
+    license: Freemium
+    entry_type: software
+    pricing: Community Edition free; Vuo Pro $299.99
+    tags:
+      workflow:
+        - creative-coding
+        - projection-mapping
+      output:
+        - event-experiential
+      platform:
+        - mac
+      tech:
+        - node-based
+        - real-time
+    readme_tags:
+      - Node-Based
+      - VJ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.478Z'
+  - name: Fabric
+    url: https://fabric.graphics/
+    description: Node-based visual programming environment and renderer for creative coding on Apple platforms, built as a Quartz Composer successor.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - motion-graphics
+        - event-experiential
+      platform:
+        - mac
+      tech:
+        - node-based
+        - real-time
+    readme_tags:
+      - Node-Based
+      - Quartz Alt
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.480Z'
+  - name: textmode.js
+    url: https://code.textmode.art/
+    description: JavaScript creative coding library for rendering real-time ASCII art on the web.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+      tech:
+        - real-time
+    readme_tags:
+      - ASCII
+      - Creative Coding
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.482Z'
+  - name: VDMX6
+    url: https://vidvox.net/
+    description: macOS app for live visuals and VJ performance, with a Plus edition that adds Vuo and TouchDesigner support.
+    license: Paid
+    entry_type: software
+    pricing: $199.99; VDMX6 Plus $349
+    tags:
+      workflow:
+        - creative-coding
+        - projection-mapping
+      output:
+        - event-experiential
+      platform:
+        - mac
+      tech:
+        - real-time
+        - perpetual
+    readme_tags:
+      - VJ
+      - Live Visuals
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.484Z'
+  - name: Processing
+    url: https://processing.org/
+    description: Open-source software sketchbook and Java-based language for coding in the visual arts, with built-in examples to run and modify.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Java
+      - Creative Coding
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.487Z'
+  - name: OPENRNDR
+    url: https://openrndr.org/
+    description: Kotlin/JVM library for creative coding and real-time interactive graphics.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - real-time
+    readme_tags:
+      - Kotlin
+      - Creative Coding
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.489Z'

@@ -366,3 +366,117 @@ entries:
       - Fonts
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Font Squirrel
+    url: https://www.fontsquirrel.com/
+    description: Directory of free fonts licensed for commercial desktop use, with a webfont generator and font identifier.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Free Fonts
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.427Z'
+  - name: Collletttivo
+    url: https://www.collletttivo.it/
+    description: Open-source type foundry and collective publishing 16 free typefaces such as Ronzino, Absans and Apfel Grotezk.
+    license: Open Source
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+    readme_tags:
+      - Open Source Type
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.429Z'
+  - name: Open Foundry
+    url: https://open-foundry.com/
+    description: Curated showcase of free open-source typefaces that also profiles the designers behind them.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+    readme_tags:
+      - Open Source Type
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.430Z'
+  - name: Fonts In Use
+    url: https://fontsinuse.com/
+    description: Independent archive of typography in real design work, searchable by typeface, format and topic.
+    license: null
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Type Reference
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.432Z'
+  - name: Lost Type Co-op
+    url: https://www.losttype.com/
+    description: Pay-what-you-want type foundry running since 2011, with all font sale proceeds going to each typeface's designer.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Pay what you want
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - web
+    readme_tags:
+      - Pay What You Want
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.434Z'
+  - name: Departure Mono
+    url: https://departuremono.com/
+    description: Monospaced pixel font by Helena Zhang, released under the SIL Open Font License.
+    license: Open Source
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Pixel Font
+      - OFL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.436Z'

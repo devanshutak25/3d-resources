@@ -162,3 +162,29 @@ entries:
       - Remixable
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: ArtCraft
+    url: https://getartcraft.com/
+    description: Desktop AI image and video app where you stage scenes in 3D, pose characters, turn images into meshes and set the camera before generating the shot.
+    license: Open Source
+    entry_type: software
+    pricing: Free, no subscription required
+    tags:
+      workflow:
+        - previs
+        - concept
+        - storyboard
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - web
+      tech:
+        - ai-generative
+    readme_tags:
+      - Previs
+      - 3D Staging
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.306Z'

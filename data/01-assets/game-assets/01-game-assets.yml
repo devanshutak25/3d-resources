@@ -699,3 +699,135 @@ entries:
       - Free
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: 16x16 DungeonTileset II
+    url: https://0x72.itch.io/dungeontileset-ii
+    description: CC0 16x16 pixel-art dungeon tileset for roguelikes and top-down games.
+    license: Free
+    entry_type: asset-source
+    pricing: Name your own price
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - Pixel Art
+      - CC0
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.366Z'
+  - name: Urizen 1Bit Tileset
+    url: https://vurmux.itch.io/urizen-onebit-tileset
+    description: CC0 set of 5,500+ one-bit 12x12 tiles for roguelikes and retro games.
+    license: Free
+    entry_type: asset-source
+    pricing: Name your own price
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+    readme_tags:
+      - 1-Bit
+      - CC0
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.369Z'
+  - name: polyperfect
+    url: https://www.polyperfect.com/
+    description: Indie studio selling low-poly Unity asset packs such as Low Poly Ultimate Pack, animated animals and animated people.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+    readme_tags:
+      - Low Poly
+      - Unity
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.448Z'
+  - name: GameDeveloperStudio
+    url: https://www.gamedeveloperstudio.com/
+    description: '50,000+ hand-drawn 2D game assets in one consistent style: animated sprites, top-down tilesets, props and GUI packs, free and paid under one license.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - 2D Sprites
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.451Z'
+  - name: Super Game Asset
+    url: https://www.supergameasset.com/
+    description: 'Store of 2D game art: sprites, RPG icons, isometric buildings, portraits and maps, with several free icon sets.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - 2D Game Art
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.454Z'
+  - name: Pimen
+    url: https://pimen.itch.io/
+    description: 'itch.io creator of low-cost pixel-art VFX animation packs: spells, slashes, smoke, hit sparks and status effects, some free.'
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Pixel VFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.456Z'
+  - name: Super Pixel Effects Gigapack
+    url: https://untiedgames.itch.io/super-pixel-effects-gigapack
+    description: Hand-pixeled 2D effect animations with parsable metadata; free sample, and the full set in all sizes and color themes from $4.99.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Free sample; full pack $4.99+
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Pixel VFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.459Z'

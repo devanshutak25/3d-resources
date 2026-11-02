@@ -642,3 +642,115 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-05'
+  - name: collider-forge
+    url: https://github.com/hh-hang/collider-forge
+    description: Local web tool that builds collision meshes from glTF models, 3D Tiles and Gaussian splat or point cloud data and exports them as collider GLB.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+        - xr
+      platform:
+        - win
+        - web
+      tech:
+        - gaussian-splatting
+        - glb
+    readme_tags:
+      - Colliders
+      - GLB
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.533Z'
+  - name: BlenderQ
+    url: https://github.com/KyleTryon/BlenderQ
+    description: Terminal UI that queues local .blend files for batch rendering and tracks each job's progress.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender
+    readme_tags:
+      - Render Queue
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.537Z'
+  - name: rawtohdri
+    url: https://github.com/IBL-tools/rawtohdri
+    description: Terminal tool that stacks bracketed camera RAW files into a linear OpenEXR HDRI, with multi-threaded demosaicing and a queue browser.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - lighting
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - HDRI
+      - EXR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.546Z'
+  - name: hillsha.de
+    url: https://hillsha.de/
+    description: Browser tool that builds hillshade and relief maps from open LiDAR and elevation data, rasterizes point clouds to DTM or DSM, and saves GeoTIFF or PNG.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - reference
+        - modeling
+      output:
+        - archviz
+        - scientific-viz
+        - games
+      platform:
+        - web
+    readme_tags:
+      - LiDAR
+      - Terrain
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.610Z'
+  - name: PSXIFY
+    url: https://lil-qk.itch.io/psxify
+    description: Desktop tool that converts high-poly models with PBR texture sets into PS1-style assets with a few hundred triangles and one small palette-limited atlas.
+    license: Paid
+    entry_type: software
+    pricing: $12
+    tags:
+      workflow:
+        - retopo
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - PS1 Style
+      - Low Poly
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.613Z'

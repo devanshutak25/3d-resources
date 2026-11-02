@@ -172,3 +172,46 @@ entries:
         - win
         - mac
         - linux
+  - name: Envato
+    url: https://elements.envato.com/
+    description: Subscription with unlimited downloads of stock video, music, sound effects, 3D, graphics, fonts, LUTs and video templates.
+    license: Paid
+    entry_type: asset-source
+    pricing: From $16.50/mo (Core), $39/mo (Plus), $168/mo (Ultimate)
+    tags:
+      workflow:
+        - editing
+        - audio-design
+        - compositing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+      tech:
+        - subscription
+    readme_tags:
+      - Stock
+      - Subscription
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.389Z'
+  - name: Renderosity
+    url: https://www.renderosity.com/
+    description: Long-running marketplace and community for 3D models and Poser content, with a Free Stuff section, galleries and forums.
+    license: Mixed
+    entry_type: marketplace
+    tags:
+      workflow:
+        - modeling
+      output:
+        - illustration
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - Poser
+      - Freebies
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:50:36.474Z'

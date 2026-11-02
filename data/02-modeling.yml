@@ -5,7 +5,7 @@ subsections:
   - slug: blender-plugins-addons
     title: "Blender: Plugins & Addons"
     description: Notable addons extending Blender.
-    chunks: 4
+    chunks: 5
   - slug: blender-tutorials
     title: "Blender: Tutorials"
     description: Blender learning resources, beginner to advanced.

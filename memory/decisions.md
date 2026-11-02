@@ -72,3 +72,12 @@ Architectural / structural decisions w/ rationale + date.
 - Name dedupe for new studios only within the same HQ country ("Mir" Norway != "Studio Mir" Korea).
 - Studio sites with injected casino/spam or "coming soon" pages are not listed.
 - Group-owned studios with their own brand + site are listed separately (d3t, Climax under Keywords; Mikros under Rodeo FX).
+
+## 2026-11-03: Discovery batch (vibe-coded tools, assets, studios)
+- Tech vocab +`mcp` (MCP servers/bridges, 16+ uses), +`glb`, +`webgpu`. Tech is open-curated, not a closed enum, so added without asking.
+- MCP servers file under the host app's plugin subsection when one exists (Blender, Houdini, C4D, Max, Godot, Unity, Unreal); otherwise §09 ai-assisted-cg-tools.
+- CorridorKey (v1 + 2.0) license = Free, not Open Source: custom licence on CC BY-NC-SA, commercial footage OK, reselling not. Paid host plugin (corridorkey.com) is its own entry.
+- Import dedupe rule: name + canonical URL always; same host only blocks when the new URL is a site root (distinct products on one vendor domain are kept, e.g. sparkjs.dev/radix next to Spark).
+- Disney Animation Data Sets -> Mixed (hub page states no licence; per-set terms).
+- Tanzania added to COUNTRY_REGION (middle-east-africa) for Ubongo.
+- Game developers are in scope for /studios/ (`games` discipline), incl. mobile (Supercell, Rovio, Dream Games).

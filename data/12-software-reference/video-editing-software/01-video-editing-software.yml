@@ -668,3 +668,367 @@ entries:
       - Open Source
       - FFmpeg
     best_for: Lossless video trimming
+  - name: AutoSubs
+    url: https://tom-moroney.com/auto-subs/
+    description: On-device AI subtitle generator that works standalone or connects to DaVinci Resolve, Premiere Pro and After Effects, using local Whisper and Parakeet models.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Subtitles
+      - Resolve
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.351Z'
+  - name: Gyroflow
+    url: https://gyroflow.xyz/
+    description: Video stabilization app that uses camera gyroscope data and lens profiles, with plugins for Premiere, After Effects, DaVinci Resolve and Final Cut Pro.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+    readme_tags:
+      - Stabilization
+      - Gyro
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.361Z'
+  - name: Auto-Editor
+    url: https://auto-editor.com/
+    description: Command-line tool that cuts silent or still sections from video and audio and can export the edit as a Premiere Pro, Resolve or Final Cut timeline.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Silence Cut
+      - CLI
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.366Z'
+  - name: StoryToolkitAI
+    url: https://github.com/octimot/StoryToolkitAI
+    description: Local AI transcription, translation and footage search tool that also marks and navigates DaVinci Resolve Studio timelines from the transcript.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Transcription
+      - Resolve
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.368Z'
+  - name: OpenCut
+    url: https://opencut.app/
+    description: Open-source video editor for web, desktop and mobile, built as a CapCut alternative.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Browser
+      - CapCut Alt
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.386Z'
+  - name: FreeCut
+    url: https://www.freecut.net/
+    description: Browser multi-track video editor that keeps media local and runs preview, transcription and export through WebGPU and WebCodecs.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - web
+      tech:
+        - webgpu
+    readme_tags:
+      - Browser
+      - WebGPU
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.389Z'
+  - name: Palmier Pro
+    url: https://www.palmier.io/
+    description: Open-source macOS video editor with a built-in MCP server so Claude or Codex can edit the timeline, plus NLE XML export.
+    license: Freemium
+    entry_type: software
+    pricing: Free editor; Pro $49/mo, Max $99/mo for generation credits
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - mac
+      tech:
+        - mcp
+        - ai-generative
+    readme_tags:
+      - AI Editing
+      - MCP
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.391Z'
+  - name: FilmCraft
+    url: https://getartcraft.com/apps/filmcraft
+    description: Open-source nonlinear editor written from scratch in Rust, with source and program monitors, a full timeline and every trim mode.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - NLE
+      - Rust
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.393Z'
+  - name: Diffusion Studio
+    url: https://diffusion.studio/
+    description: Desktop video editor built for AI agents, where Claude Code, Codex or Cursor analyze footage, cut clips and transcribe, with edits kept as code.
+    license: Freemium
+    entry_type: software
+    pricing: Free editor; Pro $20/mo for AI credits
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - mac
+        - win
+      tech:
+        - ai-generative
+    readme_tags:
+      - AI Editing
+      - Agents
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.399Z'
+  - name: MasterSelects
+    url: https://www.masterselects.com/
+    description: Browser media editor with a WebGPU multitrack timeline for video, audio, motion and 3D, designed as an agent-friendly base for creative tools.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - webgpu
+    readme_tags:
+      - Browser
+      - WebGPU
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.402Z'
+  - name: VidStudio
+    url: https://vidstudio.app/video-editor
+    description: Browser video editor with a multi-track timeline that processes files locally, exports MP4 and needs no login or upload.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Browser
+      - Local
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.404Z'
+  - name: Dehancer
+    url: https://www.dehancer.com/
+    description: Film emulation plugin with 60+ film profiles, grain and halation for DaVinci Resolve, Final Cut, Premiere, After Effects and Baselight.
+    license: Paid
+    entry_type: plugin
+    pricing: From $49/mo
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - Film Emulation
+      - OFX
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.417Z'
+  - name: Colourlab Ai
+    url: https://colourlab.ai/
+    description: AI color grading app that balances and shot-matches timelines, then pushes grades back to Resolve, Premiere, Final Cut or Avid.
+    license: Paid
+    entry_type: software
+    pricing: From $49/mo, 14-day trial
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - mac
+      tech:
+        - subscription
+    readme_tags:
+      - Grading
+      - Shot Match
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.420Z'
+  - name: Lattice
+    url: https://videovillage.com/lattice/
+    description: macOS LUT editor that previews, resizes, combines, reverses and converts LUTs between formats.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - mac
+    readme_tags:
+      - LUT
+      - Color
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.422Z'
+  - name: Subtitle Edit
+    url: https://github.com/SubtitleEdit/subtitleedit
+    description: Open-source cross-platform subtitle editor with waveform view, speech-to-text and auto translation, supporting SRT, WebVTT and ASS.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Subtitles
+      - SRT
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.465Z'
+  - name: Aegisub
+    url: https://aegisub.org/
+    description: Open-source subtitle editor for timing subtitles to audio and styling them, with a real-time video preview.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Subtitles
+      - Typesetting
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.468Z'
+  - name: Flowblade
+    url: https://jliljebl.github.io/flowblade/
+    description: GPL multitrack non-linear video editor for Linux.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - broadcast
+      platform:
+        - linux
+    readme_tags:
+      - NLE
+      - Linux
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.471Z'

@@ -635,3 +635,148 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-05'
+  - name: Bekuto 3D
+    url: https://bekuto3d.ayaka.io/
+    description: Browser tool that extrudes SVG files into 3D models and exports STL, OBJ or glTF.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - SVG to 3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.520Z'
+  - name: gltfjsx
+    url: https://gltf.pmnd.rs/
+    description: Web tool and CLI that turns glTF files into reusable React Three Fiber JSX components.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - glTF
+      - R3F
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.551Z'
+  - name: spark.js (Ludicon)
+    url: https://ludicon.com/sparkjs
+    description: JavaScript library that transcodes WebP, AVIF or JXL textures to GPU-native compressed formats at runtime on WebGPU.
+    license: Freemium
+    entry_type: tool
+    pricing: Free under $100K lifetime revenue / Indie $1,000 / Pro $10,000 one-time
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - webgpu
+        - real-time
+        - gpu
+    readme_tags:
+      - Texture Compression
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.568Z'
+  - name: Printproof
+    url: https://samisalah221.github.io/3mf-to-glb/
+    description: Browser converter that keeps per-face slicer paint colors when turning multi-color 3MF or sliced G-code into GLB, USDZ or OBJ, with AR preview.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - product-viz
+        - xr
+      platform:
+        - web
+      tech:
+        - glb
+        - usd
+    readme_tags:
+      - 3MF
+      - GLB
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.603Z'
+  - name: OpenSKP
+    url: https://github.com/iamahsanmehmood/openskp
+    description: Reverse-engineered toolkit that reads, writes and converts SketchUp .skp files in Python, TypeScript, .NET, Dart and C++, with a drag-and-drop web viewer.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - SketchUp
+      - Converter
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.605Z'
+  - name: Ultimate Voxel Optimizer
+    url: https://nateonus.itch.io/ultimate-voxel-optimizer
+    description: Desktop exporter that optimizes MagicaVoxel and Qubicle models and writes OBJ or FBX with vertex colors, materials or packed textures.
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Voxel
+      - Export
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.641Z'
+  - name: 3D to SVG
+    url: https://greglinscheid.com/tools/3d-to-svg/
+    description: Browser tool that poses a GLB, OBJ or STL model and exports it as a flat or cel-shaded SVG icon, with nothing uploaded.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - SVG
+      - Icons
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T18:36:11.659Z'
