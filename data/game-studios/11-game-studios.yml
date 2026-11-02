@@ -1,0 +1,1108 @@
+studios:
+  - name: Unknown Worlds Entertainment
+    url: https://www.unknownworlds.com/en/
+    description: Developer of the underwater survival series Subnautica, owned by Krafton.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Krafton
+    notable:
+      - Subnautica
+      - 'Subnautica: Below Zero'
+      - Natural Selection 2
+      - Moonbreaker
+    founded: 2001
+    careers: https://www.unknownworlds.com/careers
+    social:
+      x: https://x.com/unknownworlds
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.272Z'
+  - name: Studio Wildcard
+    url: https://www.studiowildcard.com/
+    description: Developer of the dinosaur survival series ARK.
+    hq:
+      city: Kirkland
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'ARK: Survival Evolved'
+      - 'ARK: Survival Ascended'
+    founded: 2014
+    careers: https://studiowildcard.bamboohr.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.283Z'
+  - name: Hidden Path Entertainment
+    url: https://www.hiddenpath.com/
+    description: 'Bellevue studio that co-developed Counter-Strike: Global Offensive and made Defense Grid.'
+    hq:
+      city: Bellevue
+      country: United States
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - 'Counter-Strike: Global Offensive'
+      - Age of Empires II HD
+      - 'Defense Grid: The Awakening'
+      - Brass Tactics
+    founded: 2006
+    careers: https://www.hiddenpath.com/join-us/
+    social:
+      instagram: https://www.instagram.com/hiddenpathent/
+      x: https://x.com/HiddenPathEnt
+      linkedin: https://www.linkedin.com/company/hidden-path-entertainment/
+      youtube: https://www.youtube.com/user/hiddenpathentertain
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.294Z'
+  - name: Harebrained Schemes
+    url: https://www.harebrained-schemes.com/
+    description: Tactics studio behind BattleTech and the Shadowrun Returns trilogy.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - BattleTech
+      - Shadowrun Returns
+      - 'Shadowrun: Dragonfall'
+      - The Lamplighters League
+    founded: 2011
+    social:
+      youtube: https://youtube.com/@webeharebrained
+      instagram: https://www.instagram.com/webeharebrained/
+      x: https://x.com/WeBeHarebrained
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.305Z'
+  - name: Cloud Imperium Games
+    url: https://cloudimperiumgames.com/
+    description: Developer of the crowdfunded space sim Star Citizen.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+      - city: Manchester
+        country: United Kingdom
+      - city: Frankfurt
+        country: Germany
+      - city: Montreal
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - pc
+    notable:
+      - Star Citizen
+    founded: 2012
+    size: large
+    careers: https://cloudimperiumgames.com/join-us
+    social:
+      x: https://x.com/CloudImperium
+      linkedin: https://www.linkedin.com/company/cloud-imperium-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.316Z'
+  - name: Frost Giant Studios
+    url: https://frostgiant.com/
+    description: Studio founded by former Blizzard developers, maker of the real-time strategy game Stormgate.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Stormgate
+    founded: 2020
+    social:
+      x: https://x.com/frost_giant
+      instagram: https://www.instagram.com/frostgiantstudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.328Z'
+  - name: Dreamhaven
+    url: https://www.dreamhaven.com/
+    description: Company led by Mike Morhaime that runs the studios Moonshot Games and Secret Door.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sunderfolk
+    founded: 2020
+    careers: https://www.dreamhaven.com/careers
+    social:
+      x: https://x.com/dreamhaven
+      linkedin: https://www.linkedin.com/company/dreamhaven/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.340Z'
+  - name: Moonshot Games
+    url: https://www.dreamhaven.com/moonshot/
+    description: Dreamhaven studio behind the crew-based space shooter Wildgate.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Dreamhaven
+    notable:
+      - Wildgate
+    founded: 2020
+    careers: https://www.dreamhaven.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.351Z'
+  - name: Secret Door
+    url: https://www.dreamhaven.com/secretdoor/
+    description: Dreamhaven studio behind the couch co-op tactics RPG Sunderfolk.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Dreamhaven
+    notable:
+      - Sunderfolk
+    founded: 2020
+    careers: https://www.dreamhaven.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.362Z'
+  - name: Second Dinner
+    url: https://seconddinner.com/
+    description: Studio founded by former Hearthstone developers, maker of Marvel Snap.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Marvel Snap
+    founded: 2018
+    careers: https://seconddinner.com/careers/
+    social:
+      instagram: https://www.instagram.com/seconddinnergames/
+      x: https://x.com/seconddinner
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.374Z'
+  - name: Bonfire Studios
+    url: https://www.bonfirestudios.com/
+    description: Studio founded by former Blizzard developers, making the PvP game Arkheron.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Arkheron
+    founded: 2016
+    careers: https://www.bonfirestudios.com/work-with-us/
+    social:
+      linkedin: https://www.linkedin.com/company/bonfire-studios-inc/
+      instagram: https://www.instagram.com/bonfire.studios/
+      x: https://x.com/bonfirestudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.386Z'
+  - name: Theorycraft Games
+    url: https://www.theorycraftgames.com/
+    description: Studio of former Riot and Blizzard developers, maker of the action game Supervive.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Supervive
+    founded: 2020
+    careers: https://www.theorycraftgames.com/careers
+    social:
+      youtube: https://www.youtube.com/@theorycraftgames
+      x: https://x.com/theorycraft_inc
+      linkedin: https://www.linkedin.com/company/theorycraft-games/
+      instagram: https://www.instagram.com/theorycraftgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.397Z'
+  - name: Striking Distance Studios
+    url: https://sds.com/en/
+    description: Krafton studio behind the sci-fi horror game The Callisto Protocol.
+    hq:
+      city: San Ramon
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Krafton
+    notable:
+      - The Callisto Protocol
+    founded: 2019
+    careers: https://sds.com/en/careers
+    social:
+      instagram: https://www.instagram.com/strikingdistance/
+      linkedin: https://www.linkedin.com/company/strikingdistancestudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.410Z'
+  - name: Squanch Games
+    url: https://squanchgames.com/
+    description: Comedy game studio behind High on Life and Trover Saves the Universe.
+    hq:
+      city: Burbank
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - vr
+    notable:
+      - High on Life
+      - Trover Saves the Universe
+      - Accounting+
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.422Z'
+  - name: AdHoc Studio
+    url: https://adhocstudio.com/
+    description: Narrative studio of former Telltale developers, maker of the superhero workplace game Dispatch.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Dispatch
+    founded: 2018
+    size: small
+    social:
+      x: https://x.com/AdHocStudio
+      instagram: https://www.instagram.com/theadhocstudio/
+      youtube: https://www.youtube.com/@AdHoc-Studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.434Z'
+  - name: thatgamecompany
+    url: https://thatgamecompany.com/
+    description: 'Developer of Journey, Flower and the social adventure Sky: Children of the Light.'
+    hq:
+      city: Santa Monica
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Journey
+      - 'Sky: Children of the Light'
+      - Flower
+      - flOw
+    founded: 2006
+    careers: https://thatgamecompany.com/careers/
+    social:
+      x: https://x.com/thatgamecompany
+      instagram: https://www.instagram.com/thatgamecompany/
+      youtube: https://www.youtube.com/user/thatgamecompany
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.446Z'
+  - name: Giant Sparrow
+    url: https://www.giantsparrow.com/
+    description: Narrative studio behind What Remains of Edith Finch and The Unfinished Swan.
+    hq:
+      city: Santa Monica
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - What Remains of Edith Finch
+      - The Unfinished Swan
+    founded: 2009
+    careers: https://www.giantsparrow.com/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.458Z'
+  - name: Giant Squid
+    url: https://giantsquidstudios.com/
+    description: Studio founded by Matt Nava, maker of Abzû and The Pathless.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Abzû
+      - The Pathless
+      - Sword of the Sea
+    founded: 2013
+    careers: https://giantsquidstudios.com/Jobs
+    social:
+      x: https://x.com/giantsquidology
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.470Z'
+  - name: Heart Machine
+    url: https://www.heartmachine.com/
+    description: Indie studio behind Hyper Light Drifter and Solar Ash.
+    hq:
+      city: Culver City
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hyper Light Drifter
+      - Solar Ash
+      - Hyper Light Breaker
+    founded: 2013
+    careers: https://www.heartmachine.com/careers
+    social:
+      x: https://x.com/HeartMachineHQ
+      instagram: https://www.instagram.com/heartmachinehq/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.481Z'
+  - name: Mobius Digital
+    url: https://www.mobiusdigitalgames.com/
+    description: Indie studio behind the space exploration mystery Outer Wilds.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Outer Wilds
+      - 'Outer Wilds: Echoes of the Eye'
+    founded: 2013
+    careers: https://www.mobiusdigitalgames.com/jobs.html
+    social:
+      linkedin: https://www.linkedin.com/company/mobius-digital/
+      instagram: https://www.instagram.com/mobiusdigitalgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.494Z'
+  - name: Yacht Club Games
+    url: https://www.yachtclubgames.com/
+    description: Retro-style studio behind the Shovel Knight series.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Shovel Knight
+      - Shovel Knight Dig
+      - Shovel Knight Pocket Dungeon
+    founded: 2011
+    careers: https://www.yachtclubgames.com/careers/
+    social:
+      x: https://x.com/YachtClubGames
+      instagram: https://www.instagram.com/yachtclubgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.506Z'
+  - name: Nicalis
+    url: https://www.nicalis.com/
+    description: 'Developer and publisher of The Binding of Isaac: Rebirth and Cave Story+.'
+    hq:
+      city: Santa Ana
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'The Binding of Isaac: Rebirth'
+      - Cave Story+
+      - 1001 Spikes
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.518Z'
+  - name: Blendo Games
+    url: https://blendogames.com/
+    description: Indie studio of Brendon Chung, maker of Thirty Flights of Loving and Skin Deep.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Thirty Flights of Loving
+      - Quadrilateral Cowboy
+      - Skin Deep
+      - Gravity Bone
+    founded: 2010
+    social:
+      x: https://x.com/blendogames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.532Z'
+  - name: Tender Claws
+    url: https://tenderclaws.com/
+    description: VR studio behind Virtual Virtual Reality and The Under Presents.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+      - mobile
+    notable:
+      - Virtual Virtual Reality
+      - The Under Presents
+      - Tempest
+    founded: 2014
+    careers: https://tenderclaws.com/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.544Z'
+  - name: Night School Studio
+    url: https://nightschoolstudio.com/
+    description: Netflix-owned narrative studio behind Oxenfree and Afterparty.
+    hq:
+      city: Glendale
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Netflix
+    notable:
+      - Oxenfree
+      - 'Oxenfree II: Lost Signals'
+      - Afterparty
+    founded: 2014
+    careers: https://nightschoolstudio.com/work-with-us/
+    social:
+      x: https://x.com/nightschoolers
+      youtube: https://www.youtube.com/c/NightSchoolStudio/
+      instagram: https://www.instagram.com/nightschoolstudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.556Z'
+  - name: The Behemoth
+    url: https://www.thebehemoth.com/
+    description: Indie studio behind Castle Crashers and Alien Hominid.
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Castle Crashers
+      - Alien Hominid
+      - BattleBlock Theater
+      - Alien Hominid Invasion
+    founded: 2003
+    size: boutique
+    careers: https://www.thebehemoth.com/careers/
+    social:
+      x: https://x.com/thebehemoth
+      instagram: https://www.instagram.com/thebehemothgames/
+      youtube: https://www.youtube.com/user/thebehem0th
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.568Z'
+  - name: Tomorrow Corporation
+    url: http://tomorrowcorporation.com/
+    description: Indie studio behind Little Inferno, Human Resource Machine and World of Goo 2.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Little Inferno
+      - Human Resource Machine
+      - 7 Billion Humans
+      - World of Goo 2
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.579Z'
+  - name: Wolfire Games
+    url: https://www.wolfire.com/
+    description: Indie studio behind Overgrowth, Lugaru and Receiver.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Overgrowth
+      - Lugaru
+      - Receiver
+      - Receiver 2
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.592Z'
+  - name: Monomi Park
+    url: https://monomipark.com/
+    description: Indie studio behind the Slime Rancher series.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Slime Rancher
+      - Slime Rancher 2
+    founded: 2014
+    careers: https://monomipark.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/monomi-park/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.603Z'
+  - name: Super Evil Megacorp
+    url: https://superevilmegacorp.com/
+    description: 'Mobile studio behind Vainglory and TMNT: Splintered Fate.'
+    hq:
+      city: San Mateo
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Vainglory
+      - Catalyst Black
+      - 'Teenage Mutant Ninja Turtles: Splintered Fate'
+    founded: 2012
+    careers: https://superevilmegacorp.com/careers/
+    social:
+      x: https://x.com/superevilmegaco
+      youtube: https://www.youtube.com/@Super-Evil-Megacorp
+      linkedin: https://www.linkedin.com/company/super-evil-megacorp/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.616Z'
+  - name: Pocket Gems
+    url: https://www.pocketgems.com/
+    description: Mobile game company behind Episode and War Dragons.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Episode
+      - War Dragons
+      - Tap Pet Hotel
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/pocket-gems/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.629Z'
+  - name: Scopely
+    url: https://www.scopely.com/
+    description: Mobile game company behind Monopoly Go! and Marvel Strike Force, owned by Savvy Games Group.
+    hq:
+      city: Culver City
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Savvy Games Group
+    notable:
+      - Monopoly Go!
+      - Star Trek Fleet Command
+      - Marvel Strike Force
+      - Yahtzee With Buddies
+    founded: 2011
+    careers: https://www.scopely.com/en/join-us
+    social:
+      linkedin: https://www.linkedin.com/company/scopely/
+      x: https://x.com/scopely
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.641Z'
+  - name: Jam City
+    url: https://jamcity.com/
+    description: 'Mobile game company behind Cookie Jam and Harry Potter: Hogwarts Mystery.'
+    hq:
+      city: Culver City
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Cookie Jam
+      - Panda Pop
+      - 'Harry Potter: Hogwarts Mystery'
+      - Disney Emoji Blitz
+    founded: 2010
+    careers: https://jamcity.com/careers/
+    social:
+      x: https://x.com/JamCityHQ
+      instagram: https://www.instagram.com/jamcityhq/
+      linkedin: https://www.linkedin.com/company/jam-city/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.654Z'
+  - name: Other Ocean
+    url: https://otherocean.com/
+    description: Co-development and porting studio for licensed and remastered games.
+    hq:
+      city: Emeryville
+      country: United States
+    offices:
+      - city: St. John's
+        country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - 'CSI: Deadly Intent'
+      - CSI
+      - 'CSI: Unsolved!'
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.666Z'
+  - name: Velan Studios
+    url: https://www.velanstudios.com/
+    description: 'Studio behind Mario Kart Live: Home Circuit and Knockout City.'
+    hq:
+      city: Troy
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Mario Kart Live: Home Circuit'
+      - Knockout City
+      - Hot Wheels Rift Rally
+    founded: 2016
+    careers: https://www.velanstudios.com/careers
+    social:
+      youtube: https://youtube.com/@velangames
+      instagram: https://www.instagram.com/velanstudios/
+      x: https://x.com/velanstudios
+      linkedin: https://www.linkedin.com/company/velan-studios-inc./
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.679Z'
+  - name: 1st Playable Productions
+    url: https://www.1stplayable.com/
+    description: Work-for-hire studio making licensed kids games and educational titles.
+    hq:
+      city: Troy
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    notable:
+      - 'Ben 10: Protector of Earth'
+      - 'Ben 10: Omniverse'
+      - 'Puzzle Quest: Challenge of the Warlords'
+    founded: 2005
+    social:
+      x: https://x.com/1stPlayable
+      linkedin: https://www.linkedin.com/company/1st-playable-productions/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.692Z'
+  - name: Mega Cat Studios
+    url: https://megacatstudios.com/
+    description: Pittsburgh studio making retro-style games and co-development work.
+    hq:
+      city: Pittsburgh
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Five Nights at Freddy''s: Into the Pit'
+      - Backyard Baseball '97
+    founded: 2015
+    careers: https://megacatstudios.com/pages/jobs
+    social:
+      instagram: https://www.instagram.com/megacatstudios/
+      x: https://x.com/megacatstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.704Z'
+  - name: VRChat Inc.
+    url: https://hello.vrchat.com/
+    description: Developer of VRChat, a social VR platform built on user-made worlds and avatars.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - vr
+      - ugc
+    platforms:
+      - vr
+      - pc
+      - mobile
+    notable:
+      - VRChat
+    founded: 2014
+    careers: https://hello.vrchat.com/careers
+    social:
+      x: https://x.com/VRChat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.716Z'
+  - name: Ember Lab
+    url: https://emberlab.com/
+    description: 'Animation and game studio behind Kena: Bridge of Spirits.'
+    hq:
+      city: Orange
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Kena: Bridge of Spirits'
+    founded: 2009
+    careers: https://emberlab.com/careers/
+    social:
+      x: https://x.com/emberlab
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.728Z'
+  - name: IllFonic
+    url: https://www.illfonic.com/
+    description: Studio known for asymmetric multiplayer games based on horror and film licenses.
+    hq:
+      city: Lakewood
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Friday the 13th: The Game'
+      - 'Predator: Hunting Grounds'
+      - 'Ghostbusters: Spirits Unleashed'
+      - 'Killer Klowns from Outer Space: The Game'
+    founded: 2007
+    careers: https://www.illfonic.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.741Z'
+  - name: Serenity Forge
+    url: https://www.serenityforge.com/
+    description: Indie developer and publisher of narrative games.
+    hq:
+      city: Boulder
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Where the Water Tastes Like Wine
+      - Neversong
+      - The King's Bird
+    founded: 2014
+    careers: https://www.serenityforge.com/careers
+    social:
+      youtube: https://www.youtube.com/c/serenityforge
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.755Z'
+  - name: Stardock
+    url: https://www.stardock.com/
+    description: Strategy game developer and publisher behind Galactic Civilizations.
+    hq:
+      city: Plymouth
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Galactic Civilizations IV
+      - Ashes of the Singularity
+      - 'Star Control: Origins'
+      - Galactic Civilizations II
+    founded: 1991
+    careers: https://www.stardock.com/about/careers
+    social:
+      x: https://x.com/stardock
+      youtube: https://www.youtube.com/user/stardockgames
+      instagram: https://www.instagram.com/official.stardock/
+      linkedin: https://www.linkedin.com/company/stardock/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.767Z'
+  - name: Finji
+    url: https://finji.co/
+    description: Indie developer of Overland and publisher of Night in the Woods and Tunic.
+    hq:
+      city: Grand Rapids
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Overland
+      - Usual June
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.781Z'
+  - name: Young Horses
+    url: https://younghorsesgames.com/
+    description: Indie studio behind Octodad and Bugsnax.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Octodad: Dadliest Catch'
+      - Bugsnax
+    founded: 2010
+    social:
+      x: https://x.com/younghorses
+      instagram: https://www.instagram.com/younghorsesgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.795Z'
+  - name: Jackbox Games
+    url: https://www.jackboxgames.com/
+    description: Party game studio behind The Jackbox Party Pack and You Don't Know Jack.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Jackbox Party Pack
+      - Quiplash
+      - You Don't Know Jack
+      - Drawful
+    founded: 1989
+    social:
+      instagram: https://www.instagram.com/playjackboxgames/
+      x: https://x.com/jackboxgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.808Z'
+  - name: Raw Thrills
+    url: https://rawthrills.com/
+    description: Arcade game maker behind Cruis'n Blast and licensed cabinet games.
+    hq:
+      city: Skokie
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Cruis'n Blast
+      - The Fast and the Furious
+      - Jurassic Park Arcade
+      - 'Halo: Fireteam Raven'
+    founded: 2001
+    social:
+      x: https://x.com/rawthrills
+      linkedin: https://www.linkedin.com/company/raw-thrills/
+      instagram: https://www.instagram.com/rawthrills/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.821Z'
+  - name: High Voltage Software
+    url: https://www.high-voltage.com/
+    description: Keywords-owned co-development studio near Chicago.
+    hq:
+      city: Hoffman Estates
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Keywords Studios
+    notable:
+      - The Conduit
+      - 'Hunter: The Reckoning'
+      - 'Ben 10: Protector of Earth'
+    founded: 1993
+    size: mid
+    careers: https://www.high-voltage.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/high-voltage-software/
+      youtube: https://www.youtube.com/user/HighVoltageSoftware
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.834Z'
+  - name: Butterscotch Shenanigans
+    url: https://www.bscotch.net/
+    description: Indie studio behind Crashlands and Levelhead.
+    hq:
+      city: St. Louis
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Crashlands
+      - Crashlands 2
+      - Levelhead
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.847Z'
+  - name: Mohawk Games
+    url: https://mohawkgames.com/
+    description: Strategy studio led by Soren Johnson, maker of Old World.
+    hq:
+      city: Baltimore
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Old World
+      - Offworld Trading Company
+    founded: 2013
+    careers: https://mohawkgames.com/jobs/
+    social:
+      x: https://x.com/mohawkgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.860Z'
+  - name: Big Huge Games
+    url: https://www.bighugegames.com/
+    description: Strategy studio behind Rise of Nations and the mobile game DomiNations.
+    hq:
+      city: Timonium
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - DomiNations
+      - Rise of Nations
+    founded: 2000
+    careers: https://bighugegames.com/careers/
+    social:
+      x: https://x.com/bighugegames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.875Z'

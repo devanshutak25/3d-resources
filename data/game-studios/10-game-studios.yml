@@ -1,0 +1,1211 @@
+studios:
+  - name: Microsoft Casual Games
+    url: https://www.microsoftcasualgames.com/
+    description: Xbox team behind Microsoft Solitaire Collection and other casual puzzle games.
+    hq:
+      city: Redmond
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - web
+    parent: Xbox Game Studios
+    notable:
+      - Microsoft Solitaire Collection
+      - Microsoft Minesweeper
+      - Microsoft Mahjong
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.711Z'
+  - name: Bethesda Game Studios
+    url: https://bethesdagamestudios.com/
+    description: Developer of The Elder Scrolls RPGs, Fallout 3 and 4, and Starfield.
+    hq:
+      city: Rockville
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+      - city: Dallas
+        country: United States
+      - city: Montreal
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: ZeniMax Media
+    notable:
+      - 'The Elder Scrolls V: Skyrim'
+      - Fallout 4
+      - Starfield
+      - Fallout 3
+    founded: 2001
+    size: large
+    social:
+      x: https://x.com/BethesdaStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.721Z'
+  - name: id Software
+    url: https://www.idsoftware.com/en/
+    description: Creator of Doom and Quake and the id Tech engine, owned by Xbox via ZeniMax.
+    hq:
+      city: Richardson
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: ZeniMax Media
+    notable:
+      - 'Doom: The Dark Ages'
+      - Doom Eternal
+      - Quake
+      - Doom
+    founded: 1991
+    size: small
+    social:
+      x: https://x.com/idsoftware
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.732Z'
+  - name: ZeniMax Online Studios
+    url: https://www.zenimaxonline.com/
+    description: Developer of the MMORPG The Elder Scrolls Online.
+    hq:
+      city: Hunt Valley
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: ZeniMax Media
+    notable:
+      - The Elder Scrolls Online
+    founded: 2007
+    size: large
+    careers: https://www.zenimaxonline.com/en-us/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.744Z'
+  - name: Blizzard Entertainment
+    url: https://www.blizzard.com/en-us/
+    description: Developer of World of Warcraft, Diablo, Overwatch and StarCraft, owned by Microsoft.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Activision Blizzard
+    notable:
+      - World of Warcraft
+      - Diablo IV
+      - Overwatch 2
+      - StarCraft II
+    founded: 1991
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.754Z'
+  - name: Blizzard Albany
+    url: https://careers.blizzard.com/global/en/albany
+    description: Blizzard studio, formerly Vicarious Visions, working on the Diablo series.
+    hq:
+      city: Albany
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Blizzard Entertainment
+    notable:
+      - Diablo IV
+      - 'Diablo II: Resurrected'
+      - Tony Hawk's Pro Skater 1 + 2
+      - Crash Bandicoot N. Sane Trilogy
+    founded: 1994
+    size: mid
+    careers: https://careers.blizzard.com/global/en/search-results?rk=l-albany&sortBy=Most%20relevant
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.764Z'
+  - name: Infinity Ward
+    url: https://www.infinityward.com/
+    description: 'Activision studio that leads the Call of Duty: Modern Warfare games.'
+    hq:
+      city: Woodland Hills
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Activision
+    notable:
+      - 'Call of Duty 4: Modern Warfare'
+      - 'Call of Duty: Modern Warfare II'
+      - 'Call of Duty: Modern Warfare (2019)'
+      - Call of Duty 2
+    founded: 2002
+    size: mid
+    careers: https://www.infinityward.com/careers
+    social:
+      x: https://x.com/InfinityWard
+      youtube: https://www.youtube.com/user/infinityward
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.776Z'
+  - name: Treyarch
+    url: https://www.treyarch.com/
+    description: 'Activision studio behind the Call of Duty: Black Ops series.'
+    hq:
+      city: Santa Monica
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Activision
+    notable:
+      - 'Call of Duty: Black Ops 6'
+      - 'Call of Duty: Black Ops 7'
+      - 'Call of Duty: Black Ops II'
+      - 'Call of Duty: World at War'
+    founded: 1996
+    size: large
+    careers: https://www.treyarch.com/careers
+    social:
+      x: https://x.com/treyarch
+      instagram: https://www.instagram.com/treyarch/
+      linkedin: https://www.linkedin.com/company/treyarch/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.787Z'
+  - name: Sledgehammer Games
+    url: https://www.sledgehammergames.com/
+    description: Activision studio that develops Call of Duty titles such as WWII and Modern Warfare III.
+    hq:
+      city: Foster City
+      country: United States
+    offices:
+      - city: Toronto
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Activision
+    notable:
+      - 'Call of Duty: Modern Warfare III'
+      - 'Call of Duty: Vanguard'
+      - 'Call of Duty: WWII'
+      - 'Call of Duty: Advanced Warfare'
+    founded: 2009
+    social:
+      youtube: https://www.youtube.com/@SledgehammerGames
+      instagram: https://www.instagram.com/sledgehammergames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.797Z'
+  - name: Raven Software
+    url: https://www.ravensoftware.com/
+    description: 'Activision studio that co-leads Call of Duty: Warzone, creator of Heretic and Hexen.'
+    hq:
+      city: Middleton
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Activision
+    notable:
+      - 'Call of Duty: Warzone'
+      - Heretic
+      - Hexen
+      - Singularity
+    founded: 1990
+    size: large
+    social:
+      x: https://x.com/ravensoftware
+      instagram: https://www.instagram.com/ravensoftware/
+      youtube: https://www.youtube.com/user/RavenSoftware
+      linkedin: https://www.linkedin.com/company/raven-software/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.807Z'
+  - name: High Moon Studios
+    url: https://www.highmoonstudios.com/
+    description: 'Activision studio that co-develops Call of Duty, maker of Transformers: War for Cybertron.'
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - co-dev
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Activision
+    notable:
+      - 'Transformers: War for Cybertron'
+      - Deadpool
+      - 'Call of Duty: Black Ops 6 (co-dev)'
+    founded: 2001
+    social:
+      instagram: https://www.instagram.com/highmoonstudios/
+      linkedin: https://www.linkedin.com/company/high-moon-studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.817Z'
+  - name: Toys for Bob
+    url: https://www.toysforbob.com/
+    description: Independent studio behind Skylanders, Spyro Reignited Trilogy and Crash Bandicoot 4.
+    hq:
+      city: Novato
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Spyro Reignited Trilogy
+      - 'Crash Bandicoot 4: It''s About Time'
+      - 'Skylanders: Spyro''s Adventure'
+      - Star Control II
+    founded: 1989
+    size: mid
+    social:
+      linkedin: https://www.linkedin.com/company/toys-for-bob/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.827Z'
+  - name: Rockstar San Diego
+    url: https://www.rockstargames.com/careers/offices/rockstar-san-diego
+    description: Rockstar studio, founded as Angel Studios, behind Red Dead Redemption and Midnight Club.
+    hq:
+      city: Carlsbad
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    notable:
+      - Red Dead Redemption
+      - 'Midnight Club: Los Angeles'
+      - Red Dead Redemption 2 (co-dev)
+    founded: 1984
+    careers: https://www.rockstargames.com/careers/offices/rockstar-san-diego
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.838Z'
+  - name: Rockstar New England
+    url: https://www.rockstargames.com/careers/offices/rockstar-new-england
+    description: Rockstar studio in Massachusetts that co-develops titles such as Red Dead Redemption 2.
+    hq:
+      city: Andover
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    notable:
+      - 'Bully: Scholarship Edition'
+      - Red Dead Redemption 2 (co-dev)
+      - Grand Theft Auto V (co-dev)
+    founded: 1999
+    careers: https://www.rockstargames.com/careers/offices/rockstar-new-england
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.848Z'
+  - name: Rockstar Toronto
+    url: https://www.rockstargames.com/careers/offices/rockstar-toronto
+    description: Rockstar studio in Ontario that co-develops and ports Rockstar titles.
+    hq:
+      city: Oakville
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    notable:
+      - Max Payne 3 (co-dev)
+      - Grand Theft Auto V (co-dev)
+      - Red Dead Redemption 2 (co-dev)
+    founded: 1981
+    careers: https://www.rockstargames.com/careers/offices/rockstar-toronto
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.858Z'
+  - name: Visual Concepts
+    url: https://vcentertainment.com/
+    description: 2K studio behind the NBA 2K and WWE 2K sports series.
+    hq:
+      city: Novato
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Take-Two Interactive
+    notable:
+      - NBA 2K26
+      - WWE 2K25
+      - NBA 2K11
+      - NFL 2K5
+    founded: 1988
+    careers: https://vcentertainment.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/visual-concepts/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.869Z'
+  - name: Firaxis Games
+    url: https://firaxis.com/
+    description: Strategy studio behind the Sid Meier's Civilization and XCOM series, owned by 2K.
+    hq:
+      city: Hunt Valley
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Take-Two Interactive
+    notable:
+      - Sid Meier's Civilization VII
+      - Sid Meier's Civilization VI
+      - XCOM 2
+      - Marvel's Midnight Suns
+    founded: 1996
+    careers: https://firaxis.com/careers
+    social:
+      youtube: https://www.youtube.com/@FiraxisGames
+      x: https://x.com/FiraxisGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.879Z'
+  - name: Hangar 13
+    url: https://2k.com/studios/hangar-13/
+    description: 2K studio that develops the Mafia series.
+    hq:
+      city: Novato
+      country: United States
+    offices:
+      - city: Brighton
+        country: United Kingdom
+      - city: Prague
+        country: Czech Republic
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    notable:
+      - 'Mafia: The Old Country'
+      - Mafia III
+      - 'Mafia: Definitive Edition'
+    founded: 2014
+    careers: https://2k.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.890Z'
+  - name: Cloud Chamber
+    url: https://2k.com/studios/cloud-chamber/
+    description: 2K studio developing the next BioShock game.
+    hq:
+      city: Novato
+      country: United States
+    offices:
+      - city: Montreal
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    founded: 2019
+    careers: https://2k.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.901Z'
+  - name: Cat Daddy Games
+    url: https://catdaddygames.com/
+    description: 2K studio that makes NBA 2K and WWE mobile games.
+    hq:
+      city: Kirkland
+      country: United States
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - console
+    parent: Take-Two Interactive
+    notable:
+      - NBA 2K Mobile
+      - WWE SuperCard
+      - Carnival Games
+    founded: 1996
+    social:
+      x: https://x.com/catdaddygames
+      linkedin: https://www.linkedin.com/company/cat-daddy-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.912Z'
+  - name: Ghost Story Games
+    url: https://www.ghoststorygames.com/
+    description: 2K studio led by Ken Levine, developing the narrative shooter Judas.
+    hq:
+      city: Westwood
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    founded: 2017
+    careers: https://job-boards.greenhouse.io/gsgcareers
+    social:
+      x: https://x.com/GhostStoryGames
+      instagram: https://www.instagram.com/ghoststorygames/
+      youtube: https://www.youtube.com/@GhostStoryGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.923Z'
+  - name: Gearbox Software
+    url: https://2k.com/studios/gearbox/
+    description: Developer of the Borderlands looter-shooter series, owned by Take-Two.
+    hq:
+      city: Frisco
+      country: United States
+    offices:
+      - city: Quebec City
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    notable:
+      - Borderlands 4
+      - Borderlands 3
+      - Borderlands 2
+      - 'Brothers in Arms: Road to Hill 30'
+    founded: 1999
+    careers: https://2k.com/careers/
+    social:
+      instagram: https://www.instagram.com/gearbox/
+      x: https://x.com/GearboxOfficial
+      youtube: https://www.youtube.com/@gearboxofficial
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.934Z'
+  - name: Zynga
+    url: https://www.zynga.com/
+    description: Mobile game company behind FarmVille and Words With Friends, owned by Take-Two.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Take-Two Interactive
+    notable:
+      - FarmVille
+      - Words With Friends
+      - Zynga Poker
+      - CSR Racing 2
+    founded: 2007
+    size: large
+    careers: https://www.zynga.com/jobs/careers/
+    social:
+      x: https://x.com/zynga
+      instagram: https://www.instagram.com/zynga/
+      youtube: https://www.youtube.com/user/ZyngaNetwork
+      linkedin: https://www.linkedin.com/company/zynga/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.945Z'
+  - name: Respawn Entertainment
+    url: https://www.respawn.com/
+    description: EA studio behind Apex Legends, Titanfall and the Star Wars Jedi games.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Electronic Arts
+    notable:
+      - Apex Legends
+      - Titanfall 2
+      - 'Star Wars Jedi: Survivor'
+      - 'Star Wars Jedi: Fallen Order'
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.956Z'
+  - name: Maxis
+    url: https://www.ea.com/ea-studios/maxis
+    description: Creator of The Sims and SimCity, now an EA studio.
+    hq:
+      city: Redwood City
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Electronic Arts
+    notable:
+      - The Sims 4
+      - The Sims
+      - SimCity
+      - Spore
+    founded: 1987
+    careers: https://www.ea.com/ea-studios/maxis/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.967Z'
+  - name: PopCap Games
+    url: https://www.ea.com/ea-studios/popcap
+    description: EA studio behind Plants vs. Zombies, Bejeweled and Peggle.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Electronic Arts
+    notable:
+      - Plants vs. Zombies
+      - Bejeweled
+      - Peggle
+      - Zuma
+    founded: 2000
+    careers: https://www.ea.com/studios/popcap/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.978Z'
+  - name: EA Orlando
+    url: https://www.ea.com/ea-studios/ea-orlando
+    description: EA Sports studio, formerly Tiburon, that develops Madden NFL and College Football.
+    hq:
+      city: Orlando
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Electronic Arts
+    notable:
+      - Madden NFL 26
+      - EA Sports College Football 26
+      - Tiger Woods PGA Tour
+      - NCAA Football 14
+    founded: 1994
+    careers: https://www.ea.com/ea-studios/ea-orlando/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.991Z'
+  - name: Ripple Effect Studios
+    url: https://www.ea.com/ea-studios/ripple-effect
+    description: EA studio, formerly DICE LA, that builds Battlefield content.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Electronic Arts
+    notable:
+      - Battlefield 2042 (Portal)
+      - Battlefield 6 (co-dev)
+    founded: 2013
+    careers: https://www.ea.com/ea-studios/ripple-effect/careers
+    social:
+      x: https://x.com/rippleeffect
+      linkedin: https://www.linkedin.com/company/ripple-effect-studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.003Z'
+  - name: Epic Games
+    url: https://www.epicgames.com/site/en-US/home
+    description: Developer of Fortnite and the Unreal Engine, maker of Gears of War and Unreal Tournament.
+    hq:
+      city: Cary
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Fortnite
+      - Gears of War
+      - Unreal Tournament
+      - Infinity Blade
+    founded: 1991
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.015Z'
+  - name: Psyonix
+    url: https://www.psyonix.com/
+    description: Epic Games studio that develops the car soccer game Rocket League.
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Epic Games
+    notable:
+      - Rocket League
+      - Supersonic Acrobatic Rocket-Powered Battle-Cars
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.026Z'
+  - name: Harmonix
+    url: https://www.harmonixmusic.com/
+    description: Music game studio behind Rock Band and Dance Central, now building Fortnite Festival for Epic.
+    hq:
+      city: Boston
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - vr
+    parent: Epic Games
+    notable:
+      - Rock Band
+      - Guitar Hero
+      - Dance Central
+      - Fortnite Festival
+    founded: 1995
+    size: mid
+    careers: https://www.harmonixmusic.com/about/jobs
+    social:
+      x: https://x.com/Harmonix
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.042Z'
+  - name: Valve
+    url: https://www.valvesoftware.com/en/
+    description: Developer of Half-Life, Counter-Strike, Dota 2 and Portal, and operator of Steam.
+    hq:
+      city: Bellevue
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - vr
+    notable:
+      - 'Half-Life: Alyx'
+      - Counter-Strike 2
+      - Dota 2
+      - Portal 2
+    founded: 1996
+    size: large
+    careers: https://www.valvesoftware.com/en/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.053Z'
+  - name: Riot Games
+    url: https://www.riotgames.com/en/
+    description: Developer of League of Legends, Valorant and Teamfight Tactics, owned by Tencent.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - mobile
+      - console
+    parent: Tencent
+    notable:
+      - League of Legends
+      - Valorant
+      - Teamfight Tactics
+      - Legends of Runeterra
+    founded: 2006
+    size: large
+    careers: https://www.riotgames.com/en/work-with-us
+    social:
+      x: https://x.com/riotgames
+      instagram: https://www.instagram.com/riotgames/
+      linkedin: https://www.linkedin.com/company/riot-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.064Z'
+  - name: Retro Studios
+    url: https://www.retrostudios.com/
+    description: Nintendo studio behind the Metroid Prime series and Donkey Kong Country Returns.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+    parent: Nintendo
+    notable:
+      - Metroid Prime
+      - 'Metroid Prime 4: Beyond'
+      - Donkey Kong Country Returns
+      - 'Donkey Kong Country: Tropical Freeze'
+    founded: 1998
+    social:
+      x: https://x.com/retrostudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.075Z'
+  - name: Amazon Games
+    url: https://www.amazongamestudios.com/en-us/
+    description: Amazon's game division, developer of the MMO New World.
+    hq:
+      city: Seattle
+      country: United States
+    offices:
+      - city: Irvine
+        country: United States
+      - city: Montreal
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Amazon
+    notable:
+      - New World
+    founded: 2012
+    careers: https://www.amazongamestudios.com/en-us/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.086Z'
+  - name: Crystal Dynamics
+    url: https://crystaldynamics.com/
+    description: Developer of the modern Tomb Raider games and Legacy of Kain.
+    hq:
+      city: Redwood City
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Embracer Group
+    notable:
+      - Tomb Raider (2013)
+      - Rise of the Tomb Raider
+      - 'Legacy of Kain: Soul Reaver'
+      - Gex
+    founded: 1992
+    careers: https://crystaldynamics.com/careers/
+    social:
+      instagram: https://www.instagram.com/crystaldynamics/
+      linkedin: https://www.linkedin.com/company/crystal-dynamics/
+      x: https://x.com/CrystalDynamics
+      youtube: https://www.youtube.com/@crystaldynamics
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.097Z'
+  - name: Avalanche Software
+    url: https://www.avalanchesoftware.com/en/
+    description: Warner Bros. Games studio behind Hogwarts Legacy.
+    hq:
+      city: Salt Lake City
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Warner Bros. Games
+    notable:
+      - Hogwarts Legacy
+      - Disney Infinity
+      - 'Cars 2: The Video Game'
+    founded: 1995
+    careers: https://www.avalanchesoftware.com/en/careers/
+    social:
+      instagram: https://www.instagram.com/avalanchewb/
+      linkedin: https://www.linkedin.com/company/avalanche-software/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.109Z'
+  - name: NetherRealm Studios
+    url: https://www.netherrealm.com/
+    description: Warner Bros. Games studio behind Mortal Kombat and Injustice fighting games.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Warner Bros. Games
+    notable:
+      - Mortal Kombat 1
+      - Mortal Kombat 11
+      - Injustice 2
+      - Mortal Kombat X
+    founded: 2010
+    careers: https://www.netherrealm.com/careers/
+    social:
+      x: https://x.com/NetherRealm
+      instagram: https://www.instagram.com/netherrealmstudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.121Z'
+  - name: Certain Affinity
+    url: https://www.certainaffinity.com/
+    description: Co-development studio that has worked on Halo, Call of Duty and Diablo IV.
+    hq:
+      city: Austin
+      country: United States
+    offices:
+      - city: Toronto
+        country: Canada
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Halo Infinite (co-dev)
+      - Halo 2 Anniversary (multiplayer)
+      - Call of Duty (co-dev)
+      - Age of Empires Online
+    founded: 2006
+    careers: https://www.certainaffinity.com/careers/
+    social:
+      x: https://x.com/CertainAffinity
+      instagram: https://www.instagram.com/certainaffinity/
+      linkedin: https://www.linkedin.com/company/certain-affinity/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.132Z'
+  - name: Aspyr
+    url: https://www.aspyr.com/
+    description: Porting and remaster studio behind Tomb Raider I-III Remastered and many Star Wars ports.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Tomb Raider I-III Remastered
+      - 'Star Wars: Battlefront Classic Collection'
+      - 'Star Wars: Knights of the Old Republic (ports)'
+    founded: 1996
+    careers: https://www.aspyr.com/careers
+    social:
+      x: https://x.com/AspyrMedia
+      linkedin: https://www.linkedin.com/company/aspyr-media/
+      youtube: https://www.youtube.com/c/aspyrmedia
+      instagram: https://www.instagram.com/aspyrmedia/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.143Z'
+  - name: Gunfire Games
+    url: http://gunfiregames.com/
+    description: THQ Nordic studio behind the Remnant shooters and Darksiders III.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - vr
+    parent: THQ Nordic
+    notable:
+      - Remnant II
+      - 'Remnant: From the Ashes'
+      - Darksiders III
+      - Chronos
+    founded: 2014
+    careers: http://gunfiregames.com/careers
+    social:
+      youtube: https://www.youtube.com/c/GunfireGames_official
+      x: https://x.com/gunfire_games
+      instagram: https://www.instagram.com/gunfire_games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.155Z'
+  - name: Rainbow Studios
+    url: https://www.rainbowstudios.com/
+    description: Off-road racing studio behind the MX vs. ATV series, owned by THQ Nordic.
+    hq:
+      city: Phoenix
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: THQ Nordic
+    notable:
+      - MX vs. ATV Legends
+      - MX vs. ATV Unleashed
+      - ATV Offroad Fury
+    founded: 1996
+    careers: https://www.rainbowstudios.com/careers
+    social:
+      x: https://x.com/rainbowstudios
+      instagram: https://www.instagram.com/rainbowstudiosgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.167Z'
+  - name: Robot Entertainment
+    url: https://robotentertainment.com/
+    description: Developer of the Orcs Must Die! action tower-defense series.
+    hq:
+      city: Plano
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Orcs Must Die! 3
+      - Orcs Must Die! Deathtrap
+      - Orcs Must Die!
+      - Hero Academy
+    founded: 2009
+    size: small
+    careers: https://robotentertainment.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.178Z'
+  - name: Turtle Rock Studios
+    url: https://www.turtlerockstudios.com/
+    description: Co-op shooter studio behind Left 4 Dead and Back 4 Blood.
+    hq:
+      city: Lake Forest
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - vr
+    parent: Tencent
+    notable:
+      - Back 4 Blood
+      - Left 4 Dead
+      - Evolve
+    founded: 2002
+    careers: https://www.turtlerockstudios.com/careers
+    social:
+      x: https://x.com/turtlerock
+      instagram: https://www.instagram.com/turtlerockstudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.189Z'
+  - name: Daybreak Game Company
+    url: https://www.daybreakgames.com/home/
+    description: Online games company behind EverQuest, DC Universe Online and PlanetSide 2.
+    hq:
+      city: San Diego
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Enad Global 7
+    notable:
+      - EverQuest
+      - EverQuest II
+      - DC Universe Online
+      - PlanetSide 2
+    founded: 1999
+    careers: https://www.daybreakgames.com/careers
+    social:
+      x: https://x.com/DaybreakGames
+      youtube: https://www.youtube.com/c/daybreakgames
+      instagram: https://www.instagram.com/daybreakgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.201Z'
+  - name: Cryptic Studios
+    url: https://www.crypticstudios.com/en/
+    description: MMO developer of Star Trek Online and Neverwinter.
+    hq:
+      city: Los Gatos
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Star Trek Online
+      - Neverwinter
+      - City of Heroes
+      - Champions Online
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.213Z'
+  - name: ArenaNet
+    url: https://www.arena.net/en/
+    description: MMORPG developer of Guild Wars and Guild Wars 2, owned by NCSoft.
+    hq:
+      city: Bellevue
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+    parent: NCSoft
+    notable:
+      - Guild Wars 2
+      - Guild Wars
+    founded: 2000
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.225Z'
+  - name: Hi-Rez Studios
+    url: https://www.hirezstudios.com/
+    description: Free-to-play studio behind Smite and Paladins.
+    hq:
+      city: Alpharetta
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Smite 2
+      - Smite
+      - Paladins
+      - Realm Royale
+    founded: 2005
+    size: large
+    social:
+      x: https://x.com/hirezstudios
+      linkedin: https://www.linkedin.com/company/hi-rez-studios/
+      youtube: https://www.youtube.com/user/hirezstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.237Z'
+  - name: Tripwire Interactive
+    url: https://tripwireinteractive.com/
+    description: Developer of the Killing Floor and Red Orchestra shooters.
+    hq:
+      city: Roswell
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Killing Floor 3
+      - Killing Floor 2
+      - 'Red Orchestra 2: Heroes of Stalingrad'
+      - Maneater
+    founded: 2005
+    size: small
+    careers: https://tripwireinteractive.com/careers
+    social:
+      youtube: https://www.youtube.com/user/tripwireinteractive
+      x: https://x.com/TripwireInt
+      instagram: https://www.instagram.com/tripwireinteractive/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.249Z'
+  - name: Cyan
+    url: https://cyan.com/
+    description: Adventure game studio behind Myst and Riven.
+    hq:
+      city: Mead
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Myst
+      - Riven
+      - Obduction
+      - Firmament
+    founded: 1987
+    size: small
+    careers: https://cyan.com/company/careers/
+    social:
+      x: https://x.com/cyanworlds
+      youtube: https://www.youtube.com/@Cyan-Official
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.260Z'

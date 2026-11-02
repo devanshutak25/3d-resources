@@ -113,75 +113,6 @@ studios:
     added_at: '2026-10-31T05:09:10.961Z'
     url_status: redirect
     url_last_verified: '2026-11-01'
-  - name: Steer Studios
-    url: https://www.steerstudios.com/
-    description: Riyadh game development studio, part of Savvy Games Group, building original games with an international and regional team.
-    hq:
-      city: Riyadh
-      country: Saudi Arabia
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    added_at: '2026-10-31T05:09:10.961Z'
-    careers: https://www.steerstudios.com/careers
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/steer-studios
-      youtube: https://www.youtube.com/@SteerStudios
-  - name: UMX Studio
-    url: https://umxstudio.co/
-    description: Riyadh mobile game developer making driving and dune-bashing games with Saudi themes, such as King of Steering.
-    hq:
-      city: Riyadh
-      country: Saudi Arabia
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2014
-    notable:
-      - King of Steering
-      - Drift X
-    added_at: '2026-10-31T05:09:10.961Z'
-    careers: https://umxstudio.co/career-new/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/umxstudio/
-      linkedin: https://www.linkedin.com/company/umxstudio
-      youtube: https://www.youtube.com/@UMXStudio
-      x: https://x.com/UMXStudio
-  - name: Plarium
-    url: https://company.plarium.com/
-    description: 'Herzliya game developer and publisher making mobile and PC titles such as RAID: Shadow Legends and Mech Arena.'
-    hq:
-      city: Herzliya
-      country: Israel
-    offices:
-      - city: Lviv
-        country: Ukraine
-      - city: Kharkiv
-        country: Ukraine
-    disciplines:
-      - games
-    markets:
-      - games
-    size: large
-    founded: 2009
-    notable:
-      - 'RAID: Shadow Legends'
-      - Mech Arena
-      - 'Vikings: War of Clans'
-    added_at: '2026-10-31T05:09:10.961Z'
-    careers: https://plarium.com/en/career/
-    url_status: redirect
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/plarium/
   - name: Exodo Animation Studios
     url: https://www.exodoanimation.com/
     description: Jalisco 3D character animation and concept art studio making game trailers, commercials and original IP for clients such as Lego and Hi-Rez.
@@ -554,98 +485,6 @@ studios:
     social:
       instagram: https://www.instagram.com/poston_digital_arts/
       linkedin: https://www.linkedin.com/company/poston-works/
-  - name: Usiku Games
-    url: https://www.usiku.games/
-    description: Nairobi game studio making mobile and PC games with African themes, plus impact and brand games for partners such as CGIAR.
-    hq:
-      city: Nairobi
-      country: Kenya
-    disciplines:
-      - games
-    markets:
-      - games
-      - brand
-    size: small
-    founded: 2018
-    notable:
-      - 'Wahenga: The Lost Ancestors'
-      - 'Electric Blue: Gecko Dash'
-      - Shamba Showdown
-    added_at: '2026-10-31T05:09:10.962Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/usiku-games/
-      youtube: https://youtube.com/channel/UCAk58yrD-JS080xU44HYuAQ
-      x: https://twitter.com/usikiugames
-  - name: Kiro'o Games
-    url: https://kirooworld.com/
-    description: Yaoundé video game studio building African fantasy games and comics around its Aurion universe for PC and mobile.
-    hq:
-      city: Yaoundé
-      country: Cameroon
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2013
-    notable:
-      - 'Aurion: Legacy of the Kori-Odan'
-      - 'Aurion: Kajuta Gems Fighters'
-    added_at: '2026-10-31T05:09:10.962Z'
-    careers: https://kirooworld.com/recrutement
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      x: https://twitter.com/KIROOGames
-  - name: Maliyo Games
-    url: https://www.maliyo.com/
-    description: 'Lagos game studio making casual mobile games rooted in African culture, including Disney Iwájú: Rising Chef.'
-    hq:
-      city: Lagos
-      country: Nigeria
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2012
-    notable:
-      - 'Disney Iwájú: Rising Chef'
-      - Whot King
-      - Lagos Fashion
-    added_at: '2026-10-31T05:09:10.962Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/maliyogames/
-      linkedin: https://www.linkedin.com/company/maliyo-games/
-      youtube: https://www.youtube.com/@maliyogames
-      x: https://x.com/maliyogames
-  - name: Kucheza Gaming
-    url: https://kuchezagaming.com/
-    description: Lagos game studio developing games from African mythology and offering 2D and 3D game art outsourcing and co-development.
-    hq:
-      city: Lagos
-      country: Nigeria
-    disciplines:
-      - games
-      - outsourcing
-    markets:
-      - games
-    size: small
-    founded: 2019
-    notable:
-      - The Wild Kingdoms
-      - Danfo Dash
-    added_at: '2026-10-31T05:09:10.962Z'
-    url_status: redirect
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://instagram.com/kuchezagaming
-      linkedin: https://linkedin.com/company/kuchezagaming
-      x: https://twitter.com/kuchezagaming
   - name: Magic Carpet Studios
     url: https://magiccarpet.studio/
     description: Lagos animation studio producing series, features, commercials and educational animation, including work on Cartoon Network's Garbage Boy and Trash Can.
@@ -868,7 +707,6 @@ studios:
     disciplines:
       - 3d-animation
       - 2d-animation
-      - games
     markets:
       - episodic
       - film
@@ -1014,24 +852,6 @@ studios:
       vimeo: https://vimeo.com/merkenstudios
       x: http://twitter.com/merkenstudios
     notes: Site footer reads 2021.
-  - name: Leti Arts
-    url: https://www.letiarts.com/
-    description: Accra game studio making mobile games and digital comics based on African history and folklore, and running developer contests.
-    hq:
-      city: Accra
-      country: Ghana
-    disciplines:
-      - games
-    markets:
-      - games
-    size: boutique
-    founded: 2009
-    added_at: '2026-10-31T05:09:10.962Z'
-    url_status: redirect
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/leti-arts/
-    notes: letiarts.com redirects to letigames.com, which renders client-side only; LinkedIn shows posts from the last few days.
   - name: Mono Animation
     url: https://www.monoanimation.com.br/
     description: São Paulo animation producer creating 2D and CG worlds and stories for entertainment series, films and advertising.

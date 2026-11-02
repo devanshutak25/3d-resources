@@ -195,51 +195,61 @@ function loadAwesomeSources() {
   return loadOptional('awesome-sources.yml', 'sources', []);
 }
 
-// Studios directory: data/studios/NN-studios.yml, each { studios: [...] }, <= CHUNK_CAP.
+// Studio directories: data/<kind>/NN-<kind>.yml, each { studios: [...] }, <= CHUNK_CAP.
+// kind 'studios' = /studios/ (production studios), 'game-studios' = /game-studios/ (game developers).
 // Separate from the section/chunk tree (not catalog entries).
+const STUDIO_KINDS = ['studios', 'game-studios'];
 const STUDIOS_DIR = path.join(DATA_DIR, 'studios');
 
-function listStudioFiles() {
-  if (!fs.existsSync(STUDIOS_DIR)) return [];
-  return fs.readdirSync(STUDIOS_DIR).filter(f => /^\d+-studios\.yml$/.test(f)).sort();
+function studioDir(kind) {
+  if (!STUDIO_KINDS.includes(kind)) throw new Error(`Unknown studio kind: ${kind}`);
+  return path.join(DATA_DIR, kind);
+}
+
+function listStudioFiles(kind = 'studios') {
+  const dir = studioDir(kind);
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter(f => f.endsWith(`-${kind}.yml`) && /^\d+-/.test(f)).sort();
 }
 
 // [{ file, studios }] in file order.
-function loadStudioChunks() {
-  return listStudioFiles().map(file => ({
+function loadStudioChunks(kind = 'studios') {
+  return listStudioFiles(kind).map(file => ({
     file,
-    studios: (loadYaml(path.join(STUDIOS_DIR, file)) || {}).studios || []
+    studios: (loadYaml(path.join(studioDir(kind), file)) || {}).studios || []
   }));
 }
 
-function loadStudios() {
-  return loadStudioChunks().flatMap(c => c.studios);
+function loadStudios(kind = 'studios') {
+  return loadStudioChunks(kind).flatMap(c => c.studios);
 }
 
-function saveStudioChunk(file, studios) {
-  fs.mkdirSync(STUDIOS_DIR, { recursive: true });
-  const p = path.join(STUDIOS_DIR, file);
+function saveStudioChunk(file, studios, kind = 'studios') {
+  const dir = studioDir(kind);
+  fs.mkdirSync(dir, { recursive: true });
+  const p = path.join(dir, file);
   fs.writeFileSync(p + '.tmp', dumpYaml({ studios }));
   fs.renameSync(p + '.tmp', p);
 }
 
-function appendStudio(studio) {
+function appendStudio(studio, kind = 'studios') {
   studio = { ...studio, added_at: studio.added_at || new Date().toISOString() };
-  const chunks = loadStudioChunks();
+  const chunks = loadStudioChunks(kind);
   const last = chunks[chunks.length - 1];
   if (last && last.studios.length < CHUNK_CAP) {
     last.studios.push(studio);
-    saveStudioChunk(last.file, last.studios);
+    saveStudioChunk(last.file, last.studios, kind);
     return last.file;
   }
-  const file = `${String(chunks.length + 1).padStart(2, '0')}-studios.yml`;
-  saveStudioChunk(file, [studio]);
+  const file = `${String(chunks.length + 1).padStart(2, '0')}-${kind}.yml`;
+  saveStudioChunk(file, [studio], kind);
   return file;
 }
 
 module.exports = {
   CHUNK_CAP,
   STUDIOS_DIR,
+  STUDIO_KINDS,
   loadStudioChunks,
   loadStudios,
   saveStudioChunk,

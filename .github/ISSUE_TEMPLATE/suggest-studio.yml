@@ -1,12 +1,12 @@
 name: Suggest a studio
-description: Add an animation, VFX, motion design, CG, game, arch viz or other studio to the /studios/ directory.
+description: Add an animation, VFX, motion design, CG, arch viz or other studio to /studios/, or a game developer to /game-studios/.
 title: "[Studio] <Studio name>"
 labels: ["studio", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Studios live in `data/studios/` (schema: `schema/studio.schema.json`). A pull request is fastest (see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)). Otherwise fill this out. Active studios only.
+        Studios live in `data/studios/` (schema: `schema/studio.schema.json`), game developers in `data/game-studios/` (schema: `schema/game-studio.schema.json`). A pull request is fastest (see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)). Otherwise fill this out. Active studios only.
   - type: input
     id: name
     attributes:
@@ -29,9 +29,42 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: directory
+    attributes:
+      label: Directory
+      options:
+        - Studios (/studios/)
+        - Game studios (/game-studios/)
+    validations:
+      required: true
+  - type: dropdown
+    id: segments
+    attributes:
+      label: Segment (game studios only)
+      multiple: true
+      options:
+        - AAA
+        - AA
+        - Indie
+        - Mobile
+        - Co-dev / porting
+        - VR / XR
+        - UGC (Roblox, UEFN)
+  - type: dropdown
+    id: platforms
+    attributes:
+      label: Platforms (game studios only)
+      multiple: true
+      options:
+        - PC
+        - Console
+        - Mobile
+        - VR
+        - Web
+  - type: dropdown
     id: disciplines
     attributes:
-      label: Disciplines
+      label: Disciplines (studios directory only)
       multiple: true
       options:
         - 2D animation
@@ -46,18 +79,15 @@ body:
         - CG / 3D
         - Product viz
         - Arch viz
-        - Games
         - Game cinematics
         - Outsourcing
         - Mocap
         - XR / interactive
         - Experiential
-    validations:
-      required: true
   - type: dropdown
     id: markets
     attributes:
-      label: Works for (optional)
+      label: Works for (studios directory, optional)
       multiple: true
       options:
         - Film
@@ -88,11 +118,11 @@ body:
   - type: textarea
     id: extra
     attributes:
-      label: Notable work, other offices, socials (optional)
+      label: Notable work or games, parent company, other offices, socials (optional)
   - type: checkboxes
     id: checks
     attributes:
       label: Checks
       options:
-        - label: I searched /studios/ and this studio isn't listed.
+        - label: I searched /studios/ and /game-studios/ and this studio isn't listed.
           required: true

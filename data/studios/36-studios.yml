@@ -1,0 +1,774 @@
+studios:
+  - name: Spinifex Group
+    url: https://spinifexgroup.com/
+    description: Creative studio and production company making projection, AR and immersive experiences for brands and events.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: New York
+        country: United States
+      - city: Los Angeles
+        country: United States
+      - city: Hong Kong
+        country: Hong Kong
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/spinifex-group
+      x: https://twitter.com/spinifexgroup
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Glowbox
+    url: https://www.glowbox.io/
+    description: Spatial interaction lab building interactive installations, data sculptures and XR experiences.
+    hq:
+      city: Portland
+      country: United States
+    disciplines:
+      - experiential
+      - xr
+    social:
+      instagram: https://instagram.com/glowbox/
+      vimeo: https://vimeo.com/glowbox/
+      linkedin: https://www.linkedin.com/company/glowbox/
+      x: https://twitter.com/glowbox/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: BARTKRESA studio
+    url: https://www.bartkresa.com/
+    description: Projection mapping studio creating architectural and immersive projection shows worldwide.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    notable:
+      - Space Shuttle Endeavour
+      - Game of Thrones premiere
+      - Pope Francis, Philadelphia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Ultravioletto
+    url: https://ultravioletto.it/
+    description: Art and technology studio making immersive installations, projection mapping and AR/VR experiences.
+    hq:
+      country: Italy
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    notable:
+      - Bulgari Magnifica Roma
+      - ENI Winter Village
+      - National Gallery of the Marche
+    social:
+      instagram: https://www.instagram.com/ultraviolet.to/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: 3DLabz
+    url: https://www.3dlabz.com/
+    description: Indian animation studio making 2D and 3D explainer, medical MoA, product and architectural animation.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - archviz
+    markets:
+      - advertising
+      - brand
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/3dlabz/
+      linkedin: https://www.linkedin.com/company/3d-labz-animation-india
+      x: https://twitter.com/3dlabz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: VOKA
+    url: https://voka.io/
+    description: Medical visualization company making 3D anatomy models, medical animation and AR/VR apps for pharma and healthcare.
+    hq:
+      city: Boston
+      country: United States
+    offices:
+      - city: Zurich
+        country: Switzerland
+    disciplines:
+      - 3d-animation
+      - cg
+      - xr
+    markets:
+      - brand
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/voka.io/
+      linkedin: https://www.linkedin.com/company/voka-io/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: NOVAK
+    url: https://www.novak.uk/
+    description: Immersive media design studio making projection and video content for museums, stage shows, attractions and events.
+    hq:
+      city: Newcastle upon Tyne
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/novak_uk/
+      x: https://x.com/novak_uk
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Cosmo AV
+    url: https://www.cosmoav.com/
+    description: French video mapping studio creating monumental projection shows for culture, entertainment and corporate events.
+    hq:
+      city: Ivry-sur-Seine
+      country: France
+    disciplines:
+      - experiential
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/cosmoav/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Athem
+    url: https://www.athem.fr/
+    description: Paris urban scenography studio making facade projections, animated window displays and light installations for brands and monuments.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/atelier_athem/
+      linkedin: https://www.linkedin.com/company/athem
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: KARMACHINA
+    url: https://www.karmachina.it/
+    description: Milan multimedia design studio making immersive exhibitions, museum installations and video mapping.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - experiential
+      - motion-design
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/karmachina/
+      vimeo: https://vimeo.com/karmachina
+      linkedin: https://www.linkedin.com/company/karmachina/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Studio Azzurro
+    url: https://www.studioazzurro.com/
+    description: Milan art research group making interactive video environments and museum installations since the early 1980s.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/studioazzurro/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Dotdotdot
+    url: https://www.dotdotdot.it/
+    description: Milan design studio creating interactive environments, exhibitions and installations.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - experiential
+    founded: 2004
+    social:
+      instagram: https://www.instagram.com/dotdotdot_it/
+      vimeo: https://vimeo.com/dotdotdot
+      linkedin: https://www.linkedin.com/company/dotdotdot/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Rare Volume
+    url: https://rarevolume.com/
+    description: Design and technology studio making generative media walls, digital signage and interactive installations for brands and spaces.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - Reuters
+      - Warner Bros.
+    social:
+      instagram: https://www.instagram.com/rarevolume/
+      vimeo: https://vimeo.com/rarevolume
+      linkedin: https://www.linkedin.com/company/rare-volume/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Felix & Paul Studios
+    url: https://www.felixandpaul.com/
+    description: Montreal VR studio producing cinematic immersive experiences and location-based shows such as The Infinite.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - xr
+      - live-action
+      - cg
+    markets:
+      - episodic
+      - brand
+    notable:
+      - The Infinite
+    social:
+      instagram: https://www.instagram.com/felixandpaul/
+      linkedin: https://www.linkedin.com/company/felixandpaulstudios
+      x: https://x.com/felixandpaul
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: ATOMIC3
+    url: https://atomic3.ca/
+    description: Montreal studio creating interactive public art installations and architectural lighting.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+    social:
+      x: https://twitter.com/ATOMIC3CA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Novelab
+    url: https://novelab.io/
+    description: Paris immersive studio developing VR, AR, Apple Vision Pro apps and interactive installations since 2009.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Lyon
+        country: France
+    disciplines:
+      - xr
+      - experiential
+    founded: 2009
+    social:
+      instagram: https://instagram.com/novelab_studio
+      linkedin: https://linkedin.com/company/novelab
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Anagram
+    url: https://weareanagram.co.uk/
+    description: Creative studio making immersive VR documentaries and interactive narrative experiences.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Bristol
+        country: United Kingdom
+    disciplines:
+      - xr
+      - 3d-animation
+    social:
+      instagram: http://instagram.com/weareanagram
+      x: https://twitter.com/weareanagram
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: TheGreenEyl
+    url: https://thegreeneyl.com/
+    description: Berlin design studio making media installations, exhibitions and spatial experiences.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/thegreeneyl/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Tinker Imagineers
+    url: https://tinker.nl/en
+    description: Utrecht experience design studio creating museum exhibitions, attractions and visitor experiences.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/tinkerimagineers/
+      vimeo: https://vimeo.com/tinkerimagineers
+      linkedin: https://www.linkedin.com/company/tinkerimagineers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Double Take Projections
+    url: https://doubletakeprojections.com/
+    description: UK projection mapping company designing immersive visual shows for events, brands and buildings.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - motion-design
+    social:
+      instagram: https://www.instagram.com/doubletakeprojections/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: SciePro
+    url: https://www.sciepro.com/
+    description: 3D human anatomy studio licensing medically reviewed anatomy models and producing medical animation and visuals.
+    hq:
+      city: Potsdam
+      country: Germany
+    disciplines:
+      - cg
+      - 3d-animation
+    size: small
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/sciepro.official/
+      linkedin: https://linkedin.com/company/sciepro-gmbh
+      x: https://x.com/SciePro
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Fusion Animation
+    url: https://www.fusionanimation.co.uk/
+    description: London medical and pharmaceutical animation studio making 3D MoA films and scientific visuals.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/fusion_medical_animation
+      linkedin: https://linkedin.com/company/fusion-medical-animation
+      vimeo: https://vimeo.com/fusionmedicalanimation
+      artstation: https://www.artstation.com/fusionanimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Visualise
+    url: https://visualise.com/
+    description: London immersive content studio producing VR, AR and 360 video experiences for brands and agencies.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+      - live-action
+    markets:
+      - brand
+      - advertising
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/visualise_xr
+      linkedin: https://www.linkedin.com/company/visualise-com
+      x: https://twitter.com/_VISUALISE_
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Agile Lens
+    url: https://agilelens.com/
+    description: New York immersive design studio building Unreal Engine XR experiences, virtual theatre and architectural visualization.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - xr
+      - experiential
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/agilelens/
+      linkedin: https://www.linkedin.com/company/agilelens
+      x: https://x.com/AgileLens
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Unified Field
+    url: https://www.unifiedfield.com/
+    description: Experience design firm creating interactive media and exhibit content for museums and products.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/unifiedfieldinc/
+      linkedin: https://www.linkedin.com/company/unified-field/
+      vimeo: https://vimeo.com/ufi
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Onionlab
+    url: https://www.onionlab.com/
+    description: Barcelona audiovisual studio making projection mapping, immersive installations and VR for brands and festivals.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - experiential
+      - motion-design
+      - xr
+    notable:
+      - Expo 2020 Dubai
+      - Signal Festival Prague
+      - Mobile World Capital
+    social:
+      instagram: https://www.instagram.com/onionlab_/
+      x: https://twitter.com/onionlab_
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Playmodes Studio
+    url: https://www.playmodes.com/
+    description: Barcelona audiovisual research studio building immersive light, sound and projection installations.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - experiential
+    founded: 2006
+    social:
+      instagram: https://www.instagram.com/playmodesstudio
+      vimeo: https://vimeo.com/playmodes
+      x: https://twitter.com/PlaymodesStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: 3FX
+    url: https://www.3fx.com/
+    description: Philadelphia-area medical animation and digital studio making 3D MoA, device and patient education content for pharma.
+    hq:
+      city: Philadelphia
+      country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/3fxanimation/
+      linkedin: https://www.linkedin.com/company/3fx-inc-
+      x: https://twitter.com/3fxinc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Light Sail VR
+    url: https://www.lightsailvr.com/
+    description: Immersive studio producing VR180 and 360 live-action films, immersive livestreams and XR content.
+    hq:
+      city: Woodland Hills
+      country: United States
+    disciplines:
+      - xr
+      - live-action
+    markets:
+      - brand
+      - episodic
+    social:
+      instagram: https://instagram.com/lightsailvr
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: MadMicrobe Studios
+    url: https://www.madmicrobe.com/
+    description: Medical animation studio making 3D MoA films and life science visuals for pharma, biotech and device firms.
+    hq:
+      city: Philadelphia
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/madmicrobe/
+      linkedin: https://www.linkedin.com/company/madmicrobe-studios/
+      vimeo: https://vimeo.com/madmicrobe
+      x: https://x.com/MadMicrobe
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Iregular
+    url: https://www.iregular.io/en
+    description: Montreal digital art studio creating interactive light and projection installations for public spaces and festivals.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/iregular.io/
+      vimeo: https://vimeo.com/iregular
+      behance: https://www.behance.net/iregular
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: CAST PHARMA
+    url: https://www.cast-pharma.com/
+    description: Scientific storytelling agency making MoA animations, medical training content and interactive pharma communication.
+    hq:
+      city: Dresden
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/cast-pharma/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: 3DforScience
+    url: https://3dforscience.com/
+    description: Madrid scientific communication studio making 3D medical animation, illustration, VR and AR for pharma and biotech.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/3dforscience/
+      linkedin: https://www.linkedin.com/company/3dforscience-global-scientific-communications/
+      x: https://x.com/3dforscience_
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: The Scan Truck
+    url: https://www.thescantruck.com/
+    description: Mobile 3D scanning studio doing on-set photogrammetry, LiDAR and digital doubles for film, TV and games.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - film
+      - episodic
+      - games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Deep3DStudio
+    url: https://www.deep3dstudio.com/
+    description: Kyiv photogrammetry studio scanning humans and props and building realistic 3D characters and assets for games and VFX.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - cg
+      - outsourcing
+      - mocap
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/deep3dstudio/
+      linkedin: https://www.linkedin.com/company/deep3dstudio/
+      artstation: https://www.artstation.com/deep3dstudio
+      x: https://twitter.com/deep3dstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Hatch Studios
+    url: https://hatchstudios.com/
+    description: Toronto animation studio making 3D and 2D explainer animation, motion graphics and medical animation for brands.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2006
+    social:
+      instagram: https://www.instagram.com/hatchstudiosltd/
+      linkedin: https://www.linkedin.com/company/hatch-studios-ltd/
+      x: https://twitter.com/HatchStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Thought Café
+    url: https://www.thoughtcafe.ca/
+    description: Toronto animation and illustration studio making science explainers, broadcast series and VR/AR content.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - xr
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Crash Course
+      - History by the Numbers
+      - Broad Institute of MIT and Harvard
+    social:
+      instagram: http://instagram.com/thoughtcafe
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Animost
+    url: https://animost.com/
+    description: Hanoi motion capture and cinematics studio running an OptiTrack stage for body and facial capture and cinematic co-development.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    disciplines:
+      - mocap
+      - cinematics
+      - outsourcing
+    markets:
+      - games
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Espadaysantacruz
+    url: https://www.espadaysantacruz.com/
+    description: Madrid creative studio making interactive installations, kinetic objects and new media art for brands and events.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - experiential
+    founded: 2011
+    social:
+      vimeo: https://vimeo.com/espadaysantacruz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: P.I.C.S.
+    url: https://www.pics.tokyo/
+    description: Tokyo visual production company making music videos, commercials, live show visuals and spatial illumination.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+      - vfx
+      - experiential
+    markets:
+      - music-video
+      - advertising
+    founded: 2000
+    notable:
+      - Shibuya River Street Illumination
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Limbic Media
+    url: https://limbicmedia.ca/
+    description: Victoria studio of artist-engineers building interactive art and light installations for public spaces.
+    hq:
+      city: Victoria
+      country: Canada
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/limbicmedia/
+      vimeo: https://vimeo.com/limbicmedia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Green Street Pictures
+    url: https://www.greenstreetpictures.com/
+    description: Pasadena animation studio making adult animated series, including Common Side Effects for Adult Swim.
+    hq:
+      city: Pasadena
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Common Side Effects
+    social:
+      instagram: https://www.instagram.com/greenstreetpictures/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: ART+COM Studios
+    url: https://artcom.de/
+    description: Berlin studio designing media sculptures, kinetic installations and interactive spaces for museums, brands and architecture.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Cologne
+        country: Germany
+    disciplines:
+      - experiential
+    founded: 1988
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Law Animator
+    url: https://lawanimator.com/
+    description: Legal animation studio making accident reconstructions, medical visuals and trial graphics for attorneys.
+    hq:
+      country: United States
+    disciplines:
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/lawanimator/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'

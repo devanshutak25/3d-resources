@@ -33,7 +33,7 @@ node scripts/export-data.js _site/data.json
 # Reads data.json; thin tags (<3 entries) are noindex.
 node scripts/build-tag-pages.js _site/data.json _site/tags
 
-# Step 4c: emit the studios directory at /studios/ (data/studios/, own schema).
+# Step 4c: emit the studio directories at /studios/ + /game-studios/ (data/studios/, data/game-studios/, own schemas).
 node scripts/build-studios-page.js
 
 # Step 5: vendor MiniSearch UMD + build serialized search index

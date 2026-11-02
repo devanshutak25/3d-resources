@@ -14,6 +14,7 @@ Project-level goals and intent for 3d_resources.
 - 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v3 at 1,420 (2026-11-03). Next: size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (14) + mocap (34).
 
 ## Done
+- 2026-11-03: /game-studios/ directory (1,898) + studio segment round (/studios/ 1,598: archviz, product viz/FOOH, specialist CG, motion niches). Uncommitted at time of writing.
 - 2026-11-03: Discovery batch: catalog 3,838 -> 4,205 (indie/vibe-coded tools, MCP servers, AI-for-CG, motion/VFX, assets), studios 1,232 -> 1,420 (uncommitted at time of writing).
 - 2026-10-31: /studios/ v2: 1,232 studios (+478 incl. 101 from the Animator's Guild India sheet), lazy JSON render, group by region/country/size/age, colored disciplines, markets + 2D/3D split, age on cards (uncommitted at time of writing).
 - 2026-10-31: /studios/ v1: 754 studios, separate dataset + schema + filterable page (uncommitted at time of writing).

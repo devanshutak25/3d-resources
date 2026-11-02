@@ -31,7 +31,7 @@
       "items": {
         "enum": [
           "2d-animation", "3d-animation", "stop-motion", "vfx", "motion-design", "cg", "archviz",
-          "product-viz", "games", "cinematics", "virtual-production", "previs", "xr", "experiential",
+          "product-viz", "cinematics", "virtual-production", "previs", "xr", "experiential",
           "title-design", "live-action", "outsourcing", "mocap"
         ]
       }

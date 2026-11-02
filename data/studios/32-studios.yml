@@ -1,0 +1,819 @@
+studios:
+  - name: Tangram 3DS
+    url: https://www.tangram3ds.com/
+    description: Design studio making 3D visualization, video and VR for commercial real estate, architecture and engineering clients.
+    hq:
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    founded: 2003
+    notable:
+      - Freedom Ship
+      - Olympic Tower
+    social:
+      instagram: https://www.instagram.com/tangram3ds/
+      linkedin: https://www.linkedin.com/company/tangram3ds/
+      vimeo: https://vimeo.com/tangram3ds
+      x: https://x.com/Tangram3DS
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.244Z'
+  - name: Biorev Studios
+    url: https://biorevstudios.com/
+    description: 3D rendering, animation, virtual tours and virtual staging for home builders and developers.
+    hq:
+      city: Frisco
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/biorev_studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.283Z'
+  - name: Designblendz
+    url: https://www.designblendz.com/
+    description: Architecture and visualization firm making renderings, animated videos and interactive tours for real estate development.
+    hq:
+      city: Philadelphia
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/designblendz/
+      linkedin: https://www.linkedin.com/company/designblendz/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.320Z'
+  - name: hypertecture
+    url: https://hypertecture.com/
+    description: Design and CGI firm making architectural visualization and computer simulations of the built environment.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.360Z'
+  - name: RENDEREXPO
+    url: https://www.renderexpo.com/
+    description: Architectural CGI and visualization studio also making data center visuals, digital construction and GIS mapping.
+    hq:
+      city: Reston
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/render_expo/
+      linkedin: https://www.linkedin.com/company/renderexpo/
+      x: https://x.com/RENDEREXPO
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.400Z'
+  - name: Rendimension
+    url: https://rendimension.com/
+    description: Architectural visualization firm making renders, walkthrough animation and virtual tours for developers and hospitality groups.
+    hq:
+      city: Miami
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/rendimension/
+      linkedin: https://www.linkedin.com/company/rendimension/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.439Z'
+  - name: stu3Dio renderings
+    url: https://www.stu3dio.com/
+    description: Architectural rendering and animation studio for architects and developers.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/stu3diorenderings/
+      linkedin: https://www.linkedin.com/company/stu3dio-renderings/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.476Z'
+  - name: Vrender
+    url: https://vrender.com/
+    description: Architectural rendering and animation company making interior and exterior visuals for architects and real estate.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/vrenderny/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.518Z'
+  - name: Bottomline Studio
+    url: https://bottomlinestudio.com/
+    description: Architectural, interior and product rendering studio working for US clients.
+    hq:
+      city: New Delhi
+      country: India
+    disciplines:
+      - archviz
+      - product-viz
+      - outsourcing
+    offices:
+      - city: Brooklyn
+        country: United States
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/studiobottomline/
+      x: https://x.com/Bottomline3D
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.560Z'
+  - name: 3DStorm Studio
+    url: https://www.3dstormstudio.com/
+    description: Architectural rendering and animation studio with production in the Philippines.
+    hq:
+      city: Cebu City
+      country: Philippines
+    disciplines:
+      - archviz
+      - 3d-animation
+    offices:
+      - city: Washington
+        country: United States
+    social:
+      instagram: https://www.instagram.com/3dstormstudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.599Z'
+  - name: Adessa Visuals
+    url: https://adessavisuals.com/
+    description: Architectural visualization studio making renders, animation and immersive visuals.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/adessavisuals/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.638Z'
+  - name: LNG Studios
+    url: https://lngstudios.com/
+    description: 3D visualization and interactive studio making architectural renderings, animation, engineering visualization and product CGI.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - archviz
+      - 3d-animation
+      - product-viz
+    offices:
+      - city: Toronto
+        country: Canada
+    social:
+      instagram: https://www.instagram.com/lngstudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.680Z'
+  - name: RealSpace 3D
+    url: https://www.realspace3d.com/
+    description: 3D rendering and animation company for architects, developers and real estate marketing.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/realspace3d/
+      x: https://x.com/realspace3d
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.722Z'
+  - name: Saeter Studio
+    url: https://www.saeterstudio.com/
+    description: Architectural visualization studio making renderings for residential and commercial projects.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - archviz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.761Z'
+  - name: ArchVizTech 3D
+    url: https://archviztech3d.com/
+    description: Architectural visualization studio making interior and exterior renders and virtual tours.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/archviz.tech/
+      behance: https://www.behance.net/archviztech3d
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.801Z'
+  - name: 3MD Studio
+    url: https://www.3mdstudio.net/
+    description: 3D visualization and design studio making renders and animation for the real estate industry.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/3mdstudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.843Z'
+  - name: dubai3dmax
+    url: https://www.dubai3dmax.com/
+    description: Architectural visualization studio making interior and exterior renders and animation for real estate.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/dubai3dmax/
+      x: https://x.com/dubai_3dmax
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.883Z'
+  - name: Limina Studios
+    url: https://liminastudios.com/
+    description: Immersive studio making 3D virtual tours, digital twins and CGI walkthroughs for real estate, retail and hospitality.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - xr
+      - archviz
+    social:
+      instagram: https://www.instagram.com/liminastudios/
+      linkedin: https://www.linkedin.com/company/limina-studios/
+      x: https://x.com/LiminaStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.923Z'
+  - name: Rare Design Hive
+    url: https://raredesignhive.com/
+    description: 3D rendering studio making exterior, interior and CGI animation for UAE developers.
+    hq:
+      city: Sharjah
+      country: United Arab Emirates
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      behance: https://www.behance.net/raredesignhive
+      linkedin: https://www.linkedin.com/company/rare-design-hive/
+      x: https://x.com/raredesignhive
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:23.963Z'
+  - name: Vizualverse
+    url: https://www.vizualverse.com/
+    description: 3D visualization studio making exterior and interior CGI and 360 virtual tours.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/vizual.verse/
+      linkedin: https://www.linkedin.com/company/vizualverse/
+      behance: https://www.behance.net/vizualverse
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.005Z'
+  - name: VisEngine
+    url: https://visengine.com/
+    description: Architectural visualization studio making renders and animation for Gulf real estate developers.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - archviz
+      - 3d-animation
+    offices:
+      - city: Riyadh
+        country: Saudi Arabia
+      - city: Melbourne
+        country: Australia
+    social:
+      instagram: https://www.instagram.com/visengine_d_s/
+      linkedin: https://www.linkedin.com/company/visengine-limited/
+      behance: https://www.behance.net/visengine
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.045Z'
+  - name: 3D Revolution
+    url: https://3drevolution.com.au/
+    description: 3D rendering studio making renders, streetscapes and animation for builders and property developers.
+    hq:
+      city: Gold Coast
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Sydney
+        country: Australia
+      - city: Brisbane
+        country: Australia
+    social:
+      instagram: https://www.instagram.com/3drevolutionaustralia/
+      linkedin: https://www.linkedin.com/company/3drevolutionaustralia/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.084Z'
+  - name: 3D Space Design
+    url: https://3dspacedesign.com.au/
+    description: 3D rendering and floor plan studio for real estate, builders and architects.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/3d_space_design_australia/
+      x: https://x.com/3D_Space_Design
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.121Z'
+  - name: BASE3D
+    url: https://base3d.com.au/
+    description: Architectural visualisation studio making stills and motion for residential, workplace and hospitality projects.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    offices:
+      - city: Melbourne
+        country: Australia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.163Z'
+  - name: CAD Studio
+    url: https://www.cadstudio.co.nz/
+    description: Property visualisation studio making renders, animation, drone photomontage and interactive sales tools.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/cad_studio/
+      vimeo: https://vimeo.com/cadstudioltd
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.203Z'
+  - name: Cleanpix Graphics
+    url: https://www.cleanpix.com.au/
+    description: Architectural 3D rendering studio making exterior and interior visuals, floor plans and animation.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/cleanpixgraphics/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.241Z'
+  - name: GT Images
+    url: https://www.gtimages.com.au/
+    description: Architectural visualisation studio making interior renders, CGI marketing images and 3D animation.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 1995
+    social:
+      instagram: https://www.instagram.com/gtimagesau/
+      x: https://x.com/gtimages
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.281Z'
+  - name: Luda Studios
+    url: https://www.ludastudios.com.au/
+    description: Architectural visualisation studio making renders, fly-throughs, floor plans and 360 VR tours.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Perth
+        country: Australia
+      - city: Brisbane
+        country: Australia
+      - city: Singapore
+        country: Singapore
+    social:
+      instagram: https://www.instagram.com/ludastudios/
+      linkedin: https://www.linkedin.com/company/luda-studios/
+      x: https://x.com/LudaStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.321Z'
+  - name: Morph Studios
+    url: https://morphstudios.co.nz/
+    description: Architectural visualization studio making renders and animation of unbuilt projects.
+    hq:
+      country: New Zealand
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/morphstudio.co.nz/
+      behance: https://www.behance.net/morphstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.362Z'
+  - name: PREMIER3D
+    url: https://premier3d.com.au/
+    description: Architectural visualisation studio making 3D renders, VR and physical architectural scale models.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Melbourne
+        country: Australia
+      - city: Miami
+        country: United States
+    social:
+      instagram: https://www.instagram.com/premier3dvisualisation/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.402Z'
+  - name: SurrealViz
+    url: https://surrealviz.com/
+    description: Architectural visualization studio making renders and virtual tours for real estate and design.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+    social:
+      instagram: https://www.instagram.com/surrealviz3d/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.442Z'
+  - name: Truescape
+    url: https://truescape.com/
+    description: Visualization firm making planning, engineering and infrastructure visuals and video for development projects.
+    hq:
+      country: New Zealand
+    disciplines:
+      - archviz
+      - 3d-animation
+    offices:
+      - city: New York
+        country: United States
+      - city: Calgary
+        country: Canada
+      - city: Brisbane
+        country: Australia
+    founded: 1995
+    social:
+      linkedin: https://www.linkedin.com/company/truescape/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.484Z'
+  - name: Zaxis Creative
+    url: https://www.zaxis.com.au/
+    description: Architectural visualisation studio making photoreal marketing renders and animation.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 2003
+    social:
+      instagram: https://www.instagram.com/zaxis_creative/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.522Z'
+  - name: Studio 5253
+    url: https://www.studio5253.com/
+    description: Architectural visualization studio making renders, animation and immersive design content.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    offices:
+      - city: Bolingbrook
+        country: United States
+      - city: Toronto
+        country: Canada
+      - city: Dubai
+        country: United Arab Emirates
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/studio_5253_global/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.562Z'
+  - name: HiVAR Studio
+    url: https://www.hivarstudio.com/
+    description: Architectural visualisation studio making renders, animation and virtual tours.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/hivarstudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.602Z'
+  - name: Kunkun Visual
+    url: https://www.kunkunvisual.com/
+    description: Architectural visualization studio making CGI stills, property films and Unreal Engine digital twins.
+    hq:
+      city: Bandung
+      country: Indonesia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    offices:
+      - city: Kuala Lumpur
+        country: Malaysia
+    founded: 2017
+    notable:
+      - CGarchitect 3D Awards 2025 winner
+    social:
+      instagram: https://www.instagram.com/kunkunvisual/
+      behance: https://www.behance.net/kunkunvisual
+      linkedin: https://www.linkedin.com/company/kunkun3d/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.642Z'
+  - name: Indocgi Visual Studio
+    url: https://indocgi.com/
+    description: Architectural and interior visualization studio making renders, animation and VR.
+    hq:
+      country: Indonesia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.682Z'
+  - name: MR Rendering
+    url: https://mrrendering.com/
+    description: White-label architectural rendering studio making stills and animation for architects and developers abroad.
+    hq:
+      city: Da Nang
+      country: Vietnam
+    disciplines:
+      - archviz
+      - 3d-animation
+      - outsourcing
+    social:
+      instagram: https://www.instagram.com/mrrenderingstudio/
+      linkedin: https://www.linkedin.com/company/mr-rendering/
+      vimeo: https://vimeo.com/mrrendering
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.721Z'
+  - name: N2Q Studio
+    url: https://n2qstudio.com/
+    description: Boutique architectural visualization studio making stills, film and 3D tours for residential developers.
+    hq:
+      country: Vietnam
+    disciplines:
+      - archviz
+      - 3d-animation
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/n2qstudio/
+      linkedin: https://www.linkedin.com/company/n2qstudio/
+      behance: https://www.behance.net/N2QStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.759Z'
+  - name: Novo Reperio
+    url: https://www.novoreperio.com/
+    description: Studio making 360 virtual tours, Matterport digital twins and architectural 3D visualisation.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - xr
+      - archviz
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/novo_reperio/
+      linkedin: https://www.linkedin.com/company/novo-reperio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.799Z'
+  - name: Sporadic Studio
+    url: https://sporadicstudio.com/
+    description: Architectural visualization practice making renders, walkthrough animation and 3D models for developers and architects.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/sporadicstudio/
+      linkedin: https://www.linkedin.com/company/sporadicstudio/
+      x: https://x.com/sporadicstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.840Z'
+  - name: 3D Power
+    url: https://3dpower.in/
+    description: Architectural rendering and walkthrough studio for real estate and other sectors.
+    hq:
+      city: Aurangabad
+      country: India
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/3dpower/
+      x: https://x.com/3DPower
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.879Z'
+  - name: Viz 3D Studio
+    url: https://viz3dstudio.com/
+    description: 3D visualization company making interior and exterior renders, walkthroughs and animation.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/viz3dstudio/
+      behance: https://www.behance.net/viz3dstudio
+      linkedin: https://www.linkedin.com/company/viz-3d-studio/
+      x: https://x.com/Viz3dStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.919Z'
+  - name: Yantram Studio
+    url: https://yantramstudio.com/
+    description: Architectural rendering and animation studio making exteriors, interiors, masterplans and walkthroughs for clients abroad.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - archviz
+      - 3d-animation
+      - outsourcing
+    social:
+      instagram: https://www.instagram.com/yantramstudio/
+      linkedin: https://www.linkedin.com/company/yantram-animation-studio/
+      x: https://x.com/StudioYantram
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:24.959Z'
+  - name: Crossmind
+    url: https://www.crossmind.cl/
+    description: Architectural rendering and animation studio for real estate, engineering and civil works projects.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - archviz
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/crossmind.cl/
+      linkedin: https://www.linkedin.com/company/crossmind-render-y-animaciones-3d/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:25.000Z'
+  - name: Fabre Studios
+    url: https://www.fabrestudios.com/
+    description: Architectural visualization studio making renders and Unreal Engine real-time content for real estate.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    social:
+      instagram: https://www.instagram.com/fabrestudios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:25.040Z'
+  - name: Flying Studio
+    url: https://flyingstudio.com.br/
+    description: Real estate visualization studio making 3D perspectives, films, sales apps and 360 tours.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/flyingstudio.oficial/
+      linkedin: https://www.linkedin.com/company/flyingstudio3d/
+      behance: https://www.behance.net/flyingstudio3d
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:25.081Z'
+  - name: GRON 3D
+    url: https://www.gron3d.com.br/
+    description: Rendering studio making 3D images, animation and 360 tours for builders, developers and architects.
+    hq:
+      city: Uberlândia
+      country: Brazil
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    social:
+      instagram: https://www.instagram.com/gron3d/
+      linkedin: https://www.linkedin.com/company/gron3d/
+      behance: https://www.behance.net/gron3dstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:25.120Z'
+  - name: Hey Visual
+    url: https://www.heyvisual.com/
+    description: Architectural visualization studio making luxury real estate imagery and cinematic films.
+    hq:
+      city: León
+      country: Mexico
+    disciplines:
+      - archviz
+      - 3d-animation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:25.164Z'
+  - name: Lúmica 3D Studio
+    url: https://lumica3d.com/
+    description: Architectural visualization studio making 3D views, videos, virtual tours, VR and AR for real estate marketing.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    social:
+      instagram: https://www.instagram.com/lumica.studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:30:25.204Z'

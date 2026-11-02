@@ -81,3 +81,11 @@ Architectural / structural decisions w/ rationale + date.
 - Disney Animation Data Sets -> Mixed (hub page states no licence; per-set terms).
 - Tanzania added to COUNTRY_REGION (middle-east-africa) for Ubongo.
 - Game developers are in scope for /studios/ (`games` discipline), incl. mobile (Supercell, Rovio, Dream Games).
+
+## 2026-11-03: Game studios directory
+- Separate /game-studios/ page + data/game-studios/ + schema/game-studio.schema.json (user). Fields: segments (aaa, aa, indie, mobile, co-dev, vr, ugc; required, 1-3), platforms (pc, console, mobile, vr, web), parent, notable = shipped games (user picked all four).
+- Split (user): game-first -> /game-studios/; art/animation/cinematics-for-games service studios stay in /studios/ (Virtuos, Room 8, Steamroller, Tiltnek). `games` discipline removed from the studio enum. A URL lives in one directory only.
+- No cap on game studios (user). Inclusion bar: 1+ released commercial game or 10+ staff; exclude gambling/casino/pachinko/social-casino, crypto, adult-only VN brands, pure publishers.
+- Russia-HQ studios not added (Russia not in COUNTRY_REGION; ask user). Studios with own-site HQ in Cyprus kept there (Owlcat, Mundfish).
+- Parent = owner's common name; merge spelling variants of the same entity, keep real hierarchy labels (Activision vs Xbox Game Studios).
+- Countries added: Ethiopia, Dominican Republic (lookup table, not taxonomy).

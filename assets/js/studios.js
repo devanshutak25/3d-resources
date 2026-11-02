@@ -1,4 +1,4 @@
-// Studios directory (/studios/). The page ships the first cards server-rendered; this fetches
+// Studio directories (/studios/ and /game-studios/; on the game page d = segments, m = platforms). The page ships the first cards server-rendered; this fetches
 // studios.json (every card pre-rendered + filter fields), then filters, groups and renders cards
 // in batches as the visitor scrolls. URL state lives in the query string, like the catalog:
 //   /studios/?q=…&d=vfx,3d-animation&m=film&loc=c:France&size=large&careers=1&g=r
@@ -98,14 +98,15 @@
     return terms.every(t => s.t.includes(t));
   }
 
-  // Grouping is by HQ, so each studio appears once.
+  // Grouping is by HQ (or parent company on /game-studios/), so each studio appears once.
   function groupKey(s) {
-    return { r: s.hr, c: s.hc, s: s.s, a: s.a }[state.g] || '';
+    return { r: s.hr, c: s.hc, s: s.s, a: s.a, p: s.p }[state.g] || '';
   }
 
   function groupLabel(k) {
     if (state.g === 'r') return data.regions[k] || 'Other';
     if (state.g === 'c') return k;
+    if (state.g === 'p') return k || 'Independent / no parent listed';
     if (state.g === 's') return k ? data.sizes[k] : 'Size unknown';
     return k === 'pre-1980' ? 'Founded before 1980' : k ? `Founded in the ${k}` : 'Founding year unknown';
   }
@@ -115,6 +116,7 @@
     if (state.g === 'r') return String(Object.keys(data.regions).indexOf(k) + 10);
     if (state.g === 's') return k ? String(Object.keys(data.sizes).indexOf(k) + 10) : '~';
     if (state.g === 'a') return k === 'pre-1980' ? '0' : k || '~';
+    if (state.g === 'p') return k ? k.toLowerCase() : '~';
     return k;
   }
 

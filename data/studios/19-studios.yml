@@ -1,47 +1,4 @@
 studios:
-  - name: Milestone
-    url: https://milestone.it/
-    description: Milan game developer specialising in racing games, with MotoGP, Ride and Hot Wheels titles.
-    hq:
-      city: Milan
-      country: Italy
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1994
-    notable:
-      - MotoGP 26
-      - Ride 6
-      - Screamer
-    added_at: '2026-10-31T05:09:10.959Z'
-    careers: https://milestone.it/careers/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/milestone_team/
-      linkedin: https://www.linkedin.com/company/milestone-s-r-l-/
-      youtube: https://www.youtube.com/channel/UCy9_4oCluE1Cih3QjQWLjdg
-      x: https://x.com/milestoneitaly
-  - name: Nixxes
-    url: https://www.nixxes.com/
-    description: Utrecht PlayStation Studios team porting and co-developing PlayStation games for PC.
-    hq:
-      city: Utrecht
-      country: Netherlands
-    disciplines:
-      - games
-      - outsourcing
-    markets:
-      - games
-    founded: 1999
-    added_at: '2026-10-31T05:09:10.959Z'
-    careers: https://www.nixxes.com/jobs/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/nixxessoftware
-      x: https://x.com/NixxesSoftware
   - name: Trimaran
     url: https://www.trimaran.com/
     description: VFX vendor in Paris and Valenciennes building CG historical and sci-fi environments for features, series and documentaries.
@@ -140,37 +97,6 @@ studios:
       instagram: https://www.instagram.com/surfside3dstudios/
       linkedin: https://www.linkedin.com/company/surfside3d
       artstation: https://www.artstation.com/surfside3d
-  - name: Amber
-    url: https://amberstudio.com/
-    description: Game development services company from Bucharest offering full development, co-development, art production, live ops and QA for publishers.
-    hq:
-      city: Bucharest
-      country: Romania
-    offices:
-      - city: Botoșani
-        country: Romania
-      - city: San Francisco
-        country: United States
-      - city: Montreal
-        country: Canada
-      - city: Manila
-        country: Philippines
-    disciplines:
-      - outsourcing
-      - games
-    markets:
-      - games
-    size: large
-    founded: 2013
-    notable:
-      - 2XKO
-    added_at: '2026-10-31T05:09:10.959Z'
-    careers: https://jobs.jobvite.com/amberstudiocareers/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/amberstudioglobal
-      linkedin: https://www.linkedin.com/company/amber/
   - name: RetroStyle Games
     url: https://retrostylegames.com/
     description: Kyiv game art outsourcing studio producing 2D and 3D assets, characters, animation and trailers for game developers.
@@ -192,93 +118,6 @@ studios:
       instagram: https://www.instagram.com/retrostyle_games/
       linkedin: https://www.linkedin.com/company/retrostyle-games/
       artstation: https://www.artstation.com/retrostylegames
-  - name: Mad Head Games
-    url: https://www.madheadgames.com/
-    description: 'Novi Sad game developer making action and horror games, including Scars Above and Hellraiser: Revival.'
-    hq:
-      city: Novi Sad
-      country: Serbia
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2011
-    notable:
-      - Scars Above
-      - 'Clive Barker''s Hellraiser: Revival'
-    added_at: '2026-10-31T05:09:10.959Z'
-    careers: https://careers.madheadgames.com/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/madheadgames/
-      linkedin: https://www.linkedin.com/company/mad-head-games
-      youtube: https://www.youtube.com/user/MadHeadGames
-    notes: Wikipedia redirects Mad Head Games to Saber Interactive.
-  - name: Stepico
-    url: https://stepico.com/
-    description: Lviv game development company offering custom and mobile game production, porting, prototyping and QA for partners.
-    hq:
-      city: Lviv
-      country: Ukraine
-    disciplines:
-      - outsourcing
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2014
-    added_at: '2026-10-31T05:09:10.959Z'
-    careers: https://stepico.com/careers/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/stepicogames/
-      linkedin: https://www.linkedin.com/company/stepico
-      artstation: https://www.artstation.com/stepicogames
-  - name: Nordeus
-    url: https://nordeus.com/
-    description: Belgrade mobile games company making sports titles such as Top Eleven and Golf Rival for players worldwide.
-    hq:
-      city: Belgrade
-      country: Serbia
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Top Eleven
-      - Golf Rival
-    added_at: '2026-10-31T05:09:10.959Z'
-    careers: https://nordeus.com/careers/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/lifeatnordeus/
-      linkedin: https://www.linkedin.com/company/954057/
-      youtube: https://www.youtube.com/user/lifeinnordeus
-      x: https://twitter.com/Nordeus
-  - name: Cyborn
-    url: https://www.cyborn.be/
-    description: Antwerp studio developing VR and mixed reality games, with game and XR services and an in-house motion capture and animation studio.
-    hq:
-      city: Antwerp
-      country: Belgium
-    disciplines:
-      - games
-      - xr
-      - mocap
-      - 3d-animation
-    markets:
-      - games
-    added_at: '2026-10-31T05:09:10.959Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/cyborn/
-      youtube: https://www.youtube.com/c/cyborn/
-      x: https://twitter.com/cyborn3d/
   - name: Kecskemétfilm
     url: https://kecskemetfilm.hu/fooldal
     description: Hungarian animation studio in Kecskemét producing animated short films, TV series and features, including co-productions.
@@ -524,32 +363,6 @@ studios:
       instagram: https://www.instagram.com/visualfarm/
       linkedin: https://www.linkedin.com/company/visualfarm/
       youtube: https://www.youtube.com/@visualfarm
-  - name: Wildlife Studios
-    url: https://www.wildlifestudios.com/
-    description: São Paulo mobile game developer behind free-to-play titles such as Sniper 3D, Tennis Clash and Zooba.
-    hq:
-      city: São Paulo
-      country: Brazil
-    disciplines:
-      - games
-    markets:
-      - games
-    size: large
-    founded: 2011
-    notable:
-      - Sniper 3D
-      - Tennis Clash
-      - Zooba
-    added_at: '2026-10-31T05:09:10.960Z'
-    careers: https://careers.wildlifestudios.com/
-    url_status: redirect
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/WildlifeStudios
-      linkedin: https://www.linkedin.com/company/wildlife-studios
-      youtube: https://www.youtube.com/channel/UCgYHGkTMJ6iInwyNWOCmbkA
-      x: https://twitter.com/wildlifestudios
-    notes: Site footer uses a US mailing address; LinkedIn HQ is São Paulo. Offices in US, Brazil and Finland.
   - name: Sísmica Studio
     url: https://sismica.studio/
     description: Mexico City production company with in-house VFX and CGI, handling on-set supervision and shots for brands, film and streaming.
@@ -673,98 +486,6 @@ studios:
       vimeo: https://vimeo.com/zumbastico
       x: https://twitter.com/ZumbasticoST
     notes: Site address is Providencia, RM (Santiago metro).
-  - name: ACE Team
-    url: https://www.aceteam.cl/
-    description: Santiago game developer making stylized action and strategy titles such as Zeno Clash, Rock of Ages and The Eternal Cylinder.
-    hq:
-      city: Santiago
-      country: Chile
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    notable:
-      - Zeno Clash
-      - Rock of Ages
-      - The Eternal Cylinder
-    added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/ace_team_software/
-      youtube: https://www.youtube.com/user/ACETeamSoftware
-      x: https://twitter.com/theaceteam
-  - name: Ironhide Game Studio
-    url: https://www.ironhidegames.com/
-    description: Uruguayan indie game studio making hand-drawn strategy games such as the Kingdom Rush tower defense series.
-    hq:
-      city: Montevideo
-      country: Uruguay
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2010
-    notable:
-      - Kingdom Rush
-      - Iron Marines
-      - Junkworld
-    added_at: '2026-10-31T05:09:10.960Z'
-    careers: https://www.ironhidegames.com/Careers
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      youtube: https://www.youtube.com/user/ironhidegames
-      x: https://twitter.com/ironhidegames
-  - name: Mad Hook
-    url: https://www.madhook.io/
-    description: 'Amman independent game studio making console and mobile action and drifting games such as Amer: Cop Pursuit and Highway Drifter.'
-    hq:
-      city: Amman
-      country: Jordan
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2018
-    notable:
-      - 'Amer: Cop Pursuit'
-      - 'Highway Drifter: Hajwala Simulator'
-      - Amer Fighting
-    added_at: '2026-10-31T05:09:10.960Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/madhookgames/
-      youtube: https://www.youtube.com/channel/UCtEIh1ONbZYn52eFkeIwEew
-      x: https://twitter.com/madhookgames
-  - name: Maysalward
-    url: https://www.maysalward.com/
-    description: Amman mobile game developer adapting card and board games like Trix, Tarneeb and Dominoes for Arab players, plus brand games.
-    hq:
-      city: Amman
-      country: Jordan
-    disciplines:
-      - games
-    markets:
-      - games
-      - brand
-    size: small
-    founded: 2003
-    notable:
-      - Dominoes Pro
-      - King of Hearts
-    added_at: '2026-10-31T05:09:10.960Z'
-    careers: https://maysalward.com/work-with-us
-    url_status: redirect
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/maysalward
-      youtube: https://www.youtube.com/@Maysalwardgames
-      x: http://www.x.com/maysalward
   - name: Rendermatic
     url: https://www.rendermatic3d.com/
     description: Cape Town CGI studio producing 3D product visuals, product films and content kits for brands and advertising agencies.
@@ -808,51 +529,6 @@ studios:
       linkedin: https://www.linkedin.com/company/sunrise-productions/
       youtube: https://www.youtube.com/@SunriseAnimationStudios
     notes: Formerly Sunrise Productions; Wikipedia says founded in Zimbabwe before moving to Cape Town.
-  - name: Sea Monster Entertainment
-    url: https://www.seamonster.digital/
-    description: Cape Town studio building marketing and learning games, including web games and Roblox experiences, for brands and nonprofits.
-    hq:
-      city: Cape Town
-      country: South Africa
-    disciplines:
-      - games
-    markets:
-      - games
-      - brand
-    size: small
-    founded: 2011
-    added_at: '2026-10-31T05:09:10.961Z'
-    careers: https://www.seamonster.digital/careers
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/seamonster_entertainment/
-      linkedin: https://www.linkedin.com/company/sea-monster/
-    notes: seamonster.co.za redirects to seamonster.digital.
-  - name: Free Lives
-    url: https://www.freelives.net/
-    description: Cape Town indie game developer making action and simulation games such as Broforce, Gorn, Terra Nil and Anger Foot.
-    hq:
-      city: Cape Town
-      country: South Africa
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2012
-    notable:
-      - Broforce
-      - Terra Nil
-      - Gorn
-    added_at: '2026-10-31T05:09:10.961Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/freelives_official/
-      youtube: https://www.youtube.com/c/freelivesgames
-      x: https://twitter.com/freelives
-    notes: LinkedIn says founded 2011; Wikipedia says April 2012.
   - name: Chocolate Tribe
     url: https://www.chocolatetribe.co.za/
     description: Johannesburg visual effects and animation studio producing work for film, television, commercials and VR/AR projects.
@@ -983,7 +659,6 @@ studios:
       - xr
       - 3d-animation
       - vfx
-      - games
     markets:
       - film
       - games
@@ -1119,7 +794,6 @@ studios:
         country: Japan
     disciplines:
       - 2d-animation
-      - games
     markets:
       - film
       - episodic

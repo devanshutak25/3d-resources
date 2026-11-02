@@ -1,0 +1,915 @@
+studios:
+  - name: Soleil
+    url: https://soleilgamestudios.com/en/
+    description: 'Tokyo developer of Valkyrie Elysium and Naruto to Boruto: Shinobi Striker.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Valkyrie Elysium
+      - 'Naruto to Boruto: Shinobi Striker'
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Imagineer
+    url: https://www.imagineer.co.jp/
+    description: Tokyo developer and publisher of the Fitness Boxing series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Fitness Boxing
+      - 'Fitness Boxing 2: Rhythm & Exercise'
+    founded: 1986
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Success
+    url: https://www.success-corp.co.jp/
+    description: Tokyo developer and publisher behind the Cotton shooters and Zoo Keeper.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Cotton 100%
+      - Zoo Keeper
+      - Psyvariar
+    founded: 1978
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Access Games
+    url: http://www.accessgames.co.jp/
+    description: Osaka developer of Deadly Premonition.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Deadly Premonition
+      - 'Ace Combat X: Skies of Deception'
+    founded: 1996
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Toybox
+    url: https://toybox-games.jp/
+    description: Tokyo studio founded by Yasuhiro Wada, maker of Deadly Premonition 2.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Deadly Premonition 2: A Blessing in Disguise'
+      - Birthdays the Beginning
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Dragami Games
+    url: https://www.dragamigames.co.jp/
+    description: Tokyo studio led by Yoshimi Yasuda, behind Lollipop Chainsaw RePOP.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Lollipop Chainsaw RePOP
+    founded: 2022
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: IzanagiGames
+    url: https://izanagigames.co.jp/
+    description: Tokyo developer and publisher of narrative titles such as Death Come True.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Death Come True
+      - World's End Club
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Too Kyo Games
+    url: https://tookyogames.jp/
+    description: 'Tokyo studio formed by Danganronpa creators, behind Master Detective Archives: Rain Code.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Master Detective Archives: Rain Code'
+      - World's End Club
+      - Death Come True
+    founded: 2017
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: JP Games
+    url: https://www.jpgamesinc.com/
+    description: Tokyo studio founded by Hajime Tabata, director of Final Fantasy XV.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - The Pegasus Dream Tour
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Bokeh Game Studio
+    url: https://bokehgamestudio.co.jp/en/
+    description: Tokyo studio founded by Keiichiro Toyama, developer of Slitterhead.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Slitterhead
+    founded: 2020
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: YS Net
+    url: https://www.ysnet.games/
+    description: Tokyo studio led by Yu Suzuki, developer of Shenmue III.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Shenmue III
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: genDESIGN
+    url: http://www.gendesign.co.jp/
+    description: Tokyo studio led by Fumito Ueda, co-developer of The Last Guardian.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - The Last Guardian
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nude Maker
+    url: http://www.nudemaker.jp/
+    description: 'Tokyo studio behind Steel Battalion: Heavy Armor and Infinite Space.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Steel Battalion: Heavy Armor'
+      - Infinite Space
+      - NightCry
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Shift
+    url: https://www.shift.gr.jp/
+    description: Developer of the God Eater action series for Bandai Namco.
+    hq:
+      city: Fujisawa
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - God Eater
+      - God Eater 2
+    founded: 1996
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: iNiS
+    url: https://www.inis.co.jp/
+    description: Tokyo rhythm game developer behind Osu! Tatakae! Ouendan and Elite Beat Agents.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Osu! Tatakae! Ouendan
+      - Elite Beat Agents
+      - Lips
+    founded: 1997
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: indieszero
+    url: https://indieszero.co.jp/
+    description: Tokyo developer of rhythm and music games such as Theatrhythm Final Fantasy.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - mobile
+    notable:
+      - Theatrhythm Final Fantasy
+      - NES Remix
+      - Electroplankton
+    founded: 1997
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: TechnoBrain
+    url: https://www.technobrain.com/
+    description: Kyoto developer of the I am an Air Traffic Controller simulation series.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - I am an Air Traffic Controller 4
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: CyberStep
+    url: https://cshd.cyberstep.com/
+    description: Tokyo developer of online games such as GetAmped and Cosmic Break.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - GetAmped
+      - Cosmic Break
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Gravity Game Arise
+    url: https://gravityga.jp/
+    description: Tokyo console studio of Gravity, making titles such as KAMiBAKO.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Gravity
+    notable:
+      - 'KAMiBAKO: Mythology of Cube'
+      - Tokyo Psychodemic
+    founded: 2019
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Honey Parade Games
+    url: https://hpgames.jp/
+    description: Marvelous studio behind recent Senran Kagura titles.
+    hq:
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Marvelous
+    notable:
+      - 'Senran Kagura: Peach Ball'
+      - 'Shinobi Master Senran Kagura: New Link'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Experience
+    url: https://experience.co.jp/
+    description: 'Tokyo developer of horror adventures and dungeon crawlers such as Spirit Hunter: Death Mark.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Spirit Hunter: Death Mark'
+      - 'Spirit Hunter: NG'
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Office Create
+    url: https://ofcr.co.jp/
+    description: Developer of the Cooking Mama series.
+    hq:
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - mobile
+    notable:
+      - Cooking Mama
+      - 'Cooking Mama: Cook Off'
+    founded: 1990
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Zoo Corporation
+    url: https://www.zoo.co.jp/
+    description: Nagano-based developer of puzzle and board games such as the Pretty Girls series.
+    hq:
+      city: Ueda
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Pretty Girls Mahjong Solitaire
+      - Pretty Girls Panic!
+    founded: 1986
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: TOSE
+    url: https://www.tose.co.jp/
+    description: Kyoto co-development studio credited on hundreds of titles since 1979, including the Starfy series.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    notable:
+      - The Legendary Starfy
+      - Super Princess Peach
+    founded: 1979
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Dimps
+    url: https://www.dimps.co.jp/
+    description: Osaka co-development studio known for Street Fighter IV and Dragon Ball Xenoverse.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Street Fighter IV
+      - Dragon Ball Xenoverse 2
+      - Sonic Rush
+      - Street Fighter V
+    founded: 2000
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Eighting
+    url: https://www.8ing.co.jp/en/
+    description: Tokyo co-development studio behind Marvel vs. Capcom 3 and the Bloody Roar series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Marvel vs. Capcom 3: Fate of Two Worlds'
+      - Tatsunoko vs. Capcom
+      - Bloody Roar
+    founded: 1993
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Artdink
+    url: https://www.artdink.co.jp/
+    description: Tokyo developer of the A-Train railway sim series and co-developer of Triangle Strategy.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - A-Train 9
+      - Triangle Strategy
+      - 'Sword Art Online: Lost Song'
+    founded: 1986
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Acquire
+    url: https://www.acquire.co.jp/
+    description: Tokyo developer of Tenchu and Way of the Samurai, co-developer of Octopath Traveler.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Kadokawa Corporation
+    notable:
+      - Octopath Traveler
+      - 'Tenchu: Stealth Assassins'
+      - Way of the Samurai
+      - Akiba's Trip
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Jupiter
+    url: https://www.jupiter.co.jp/
+    description: Kyoto developer of the Picross puzzle series and co-developer of The World Ends with You.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Picross S
+      - Pokémon Picross
+      - The World Ends with You
+    founded: 1992
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Matrix Software
+    url: https://www.matrixsoft.co.jp/
+    description: Tokyo developer of Alundra and the 3D remakes of Final Fantasy III and IV.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Final Fantasy III (DS)
+      - Final Fantasy IV (DS)
+      - Alundra
+    founded: 1994
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Genki
+    url: https://www.genki.co.jp/
+    description: Tokyo developer of the Tokyo Xtreme Racer street-racing series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Tokyo Xtreme Racer
+      - 'Jade Cocoon: Story of the Tamamayu'
+      - Kaido Racer
+    founded: 1990
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Tamsoft
+    url: https://www.tamsoft.co.jp/
+    description: Tokyo developer of the Onechanbara series and Senran Kagura and Captain Tsubasa games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Senran Kagura: Estival Versus'
+      - 'Onechanbara Z2: Chaos'
+      - 'Captain Tsubasa: Rise of New Champions'
+      - Battle Arena Toshinden
+    founded: 1992
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Winning Entertainment Group
+    url: https://www.winning-ent.co.jp/
+    description: Tokyo studio, formerly Natsume Atari, reviving retro action games such as Wild Guns and Pocky & Rocky.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Shadow of the Ninja: Reborn'
+      - Wild Guns Reloaded
+      - Pocky & Rocky Reshrined
+    founded: 1987
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: City Connection
+    url: https://city-connection.co.jp/
+    description: Publisher and developer of retro re-releases, owner of the former Jaleco catalogue.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Saturn Tribute Boost
+    founded: 2005
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Zerodiv
+    url: https://www.zerodiv.jp/
+    description: City Connection studio porting arcade shooters to modern platforms.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: City Connection
+    notable:
+      - Strikers 1945
+      - Gunbird
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hamster
+    url: https://www.hamster.co.jp/
+    description: Tokyo publisher and developer of the Arcade Archives line of arcade re-releases.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Arcade Archives
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Gemdrops
+    url: http://www.gemdrops.co.jp/
+    description: Tokyo co-development studio working on titles such as Crystar.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Crystar
+      - 'Jujutsu Kaisen: Cursed Clash'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Byking
+    url: https://byking.jp/
+    description: 'Developer of licensed anime fighting games such as Jujutsu Kaisen: Cursed Clash.'
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Jujutsu Kaisen: Cursed Clash'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: syn Sophia
+    url: https://www.syn-sophia.co.jp/
+    description: Tokyo studio, formerly AKI, behind the Style Savvy series and AKI-era wrestling games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - 'Style Savvy: Trendsetters'
+      - WWF No Mercy
+      - 'Def Jam: Fight for NY'
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Alfa System
+    url: https://www.alfasystem.net/
+    description: Kumamoto developer of the Castle of Shikigami shooters and several Tales spin-offs.
+    hq:
+      city: Kumamoto
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+    notable:
+      - Tales of Innocence
+      - Castle of Shikigami
+      - 'Tales of the World: Radiant Mythology'
+    founded: 1988
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: BeXide
+    url: https://www.bexide.co.jp/
+    description: Tokyo co-development studio for console and PC games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Yohane the Parhelion: Numazu in the Mirage'
+      - 'Toro and Friends: Onsen Town'
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Studio Saizensen
+    url: http://www.saizensen.co.jp/
+    description: Developer of the fighting games Blade Strangers and Blade Arcus from Shining.
+    hq:
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Blade Strangers
+      - Blade Arcus from Shining
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Game Studio
+    url: https://www.gamestudio.co.jp/
+    description: Tokyo studio founded by Masanobu Endo, making arcade, console and mobile games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    notable:
+      - The Return of Ishtar
+      - Hopping Mappy
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Crafts & Meister
+    url: https://www.crafts-meister.co.jp/
+    description: Co-development studio known for the Gundam Breaker series.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Gundam Breaker 4
+      - Earth Seeker
+      - Super Dragon Ball Z
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Rocket Studio
+    url: https://www.rocketstd.co.jp/
+    description: Sapporo co-development studio making console and handheld games.
+    hq:
+      city: Sapporo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: xeen
+    url: https://www.xeen.co.jp/
+    description: Osaka co-development studio credited on Paranormasight and the Trials of Mana remake.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - 'Paranormasight: The Seven Mysteries of Honjo'
+      - Trials of Mana
+    founded: 2006
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Claytechworks
+    url: https://claytechworks.co.jp/
+    description: Tokyo studio that developed Bravely Default II for Square Enix.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Bravely Default II
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: D.A.G
+    url: https://www.dag-inc.co.jp/
+    description: Tokyo co-development studio working on console remasters and ports.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: HuneX
+    url: https://www.hunex.co.jp/
+    description: Studio porting and developing visual novels and otome games for consoles.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Arcana Famiglia
+      - Otometeki Koi Kakumei Love Revo!!
+    founded: 1992
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Ganbarion
+    url: https://www.ganbarion.co.jp/
+    description: Fukuoka co-development studio behind Pandora's Tower and several One Piece games.
+    hq:
+      city: Fukuoka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Jump Ultimate Stars
+      - Pandora's Tower
+      - 'One Piece: Unlimited World Red'
+    founded: 1999
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'

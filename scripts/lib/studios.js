@@ -17,7 +17,6 @@ const DISCIPLINES = {
   'cg': 'CG / 3D',
   'product-viz': 'Product viz',
   'archviz': 'Arch viz',
-  'games': 'Games',
   'cinematics': 'Game cinematics',
   'outsourcing': 'Outsourcing',
   'mocap': 'Mocap',
@@ -35,6 +34,20 @@ const MARKETS = {
   'brand': 'Brand'
 };
 
+// Game studios (/game-studios/): segment + platform labels. Keys match schema/game-studio.schema.json.
+// Segment pills reuse the .disc-pill colors via .d-<segment> rules in style.css.
+const SEGMENTS = {
+  'aaa': 'AAA',
+  'aa': 'AA',
+  'indie': 'Indie',
+  'mobile': 'Mobile',
+  'co-dev': 'Co-dev / porting',
+  'vr': 'VR / XR',
+  'ugc': 'UGC (Roblox, UEFN)'
+};
+
+const PLATFORMS = { 'pc': 'PC', 'console': 'Console', 'mobile': 'Mobile', 'vr': 'VR', 'web': 'Web' };
+
 // Headcount buckets match LinkedIn "Company size" ranges, largest first (group order).
 const SIZES = { large: '201+ people', mid: '51-200 people', small: '11-50 people', boutique: '1-10 people' };
 
@@ -49,7 +62,7 @@ const REGIONS = {
 // Add a country here when a studio needs it.
 const COUNTRY_REGION = {
   'Argentina': 'americas', 'Brazil': 'americas', 'Canada': 'americas', 'Chile': 'americas',
-  'Colombia': 'americas', 'Costa Rica': 'americas', 'Ecuador': 'americas', 'Mexico': 'americas',
+  'Colombia': 'americas', 'Costa Rica': 'americas', 'Dominican Republic': 'americas', 'Ecuador': 'americas', 'Mexico': 'americas',
   'Peru': 'americas', 'Puerto Rico': 'americas', 'United States': 'americas', 'Uruguay': 'americas',
   'Venezuela': 'americas',
 
@@ -72,7 +85,7 @@ const COUNTRY_REGION = {
   'Singapore': 'asia-pacific', 'South Korea': 'asia-pacific', 'Sri Lanka': 'asia-pacific',
   'Taiwan': 'asia-pacific', 'Thailand': 'asia-pacific', 'Vietnam': 'asia-pacific',
 
-  'Cameroon': 'middle-east-africa', 'Egypt': 'middle-east-africa', 'Ghana': 'middle-east-africa', 'Iran': 'middle-east-africa',
+  'Cameroon': 'middle-east-africa', 'Egypt': 'middle-east-africa', 'Ethiopia': 'middle-east-africa', 'Ghana': 'middle-east-africa', 'Iran': 'middle-east-africa',
   'Israel': 'middle-east-africa', 'Jordan': 'middle-east-africa', 'Kenya': 'middle-east-africa',
   'Lebanon': 'middle-east-africa', 'Morocco': 'middle-east-africa', 'Nigeria': 'middle-east-africa',
   'Qatar': 'middle-east-africa', 'Saudi Arabia': 'middle-east-africa',
@@ -106,4 +119,4 @@ function placeLabel(p) {
   return p.city ? `${p.city}, ${p.country}` : p.country;
 }
 
-module.exports = { DISCIPLINES, MARKETS, SIZES, decadeOf, REGIONS, COUNTRY_REGION, regionOf, studioSlugs, placeLabel };
+module.exports = { DISCIPLINES, MARKETS, SEGMENTS, PLATFORMS, SIZES, decadeOf, REGIONS, COUNTRY_REGION, regionOf, studioSlugs, placeLabel };

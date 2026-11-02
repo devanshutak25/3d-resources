@@ -1,0 +1,868 @@
+studios:
+  - name: G.rev
+    url: http://www.grev.co.jp/
+    description: Tokyo-area developer of arcade shooters such as Under Defeat and Border Down.
+    hq:
+      city: Machida
+      country: Japan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Under Defeat
+      - Border Down
+      - Senko no Ronde
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Cattle Call
+    url: http://www.cattle-call.co.jp/
+    description: 'Tokyo developer of RPGs including Arc the Lad: End of Darkness and Metal Max 3.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - 'Arc the Lad: End of Darkness'
+      - Metal Max 3
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Grounding
+    url: http://www.g-rounding.com/
+    description: Tokyo studio founded by Yukio Futatsugi, maker of Crimson Dragon.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Crimson Dragon
+      - World's End Club
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Monkeycraft
+    url: https://www.monkeycraft.co.jp/
+    description: Tokyo co-development studio behind the Klonoa Phantasy Reverie Series remaster.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Klonoa Phantasy Reverie Series
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hakama
+    url: http://www.hkm.co.jp/
+    description: Tokyo studio that developed Rune Factory 5 for Marvelous.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Rune Factory 5
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Live Wire
+    url: https://www.live-wire.co.jp/
+    description: Co-development studio credited on Ender Lilies and Harvestella.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Ender Lilies: Quietus of the Knights'
+      - Harvestella
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hyde
+    url: https://www.hyde.co.jp/
+    description: Tokyo co-development studio behind Digimon Survive.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Digimon Survive
+      - Tamagotchi Plaza
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Three Rings
+    url: https://www.three-rings.net/
+    description: Co-development studio behind the action RPG Trinity Trigger.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Trinity Trigger
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Brownies
+    url: https://brownie-games.co.jp/
+    description: Tokyo studio led by Shinichi Kameoka, known for Doraemon Story of Seasons.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Doraemon Story of Seasons
+      - 'Egglia: Legend of the Redcap'
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: historia
+    url: https://historia.co.jp/
+    description: Tokyo co-development studio behind The Caligula Effect 2.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - The Caligula Effect 2
+      - Faaast Penguin
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Alvion
+    url: https://www.alvion.co.jp/
+    description: Osaka co-development studio behind the boss-rush action game Malicious.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Malicious
+      - ChainDive
+    founded: 1996
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Cyclone Zero
+    url: https://www.cyclone-zero.jp/
+    description: Co-development studio on Arc System Works and French-Bread fighting games.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Under Night In-Birth II Sys:Celes
+      - 'BlazBlue: Chrono Phantasma Extend'
+    founded: 2007
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Groove Box Japan
+    url: https://www.gbj.co.jp/
+    description: Tokyo co-development studio for licensed console and mobile games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    notable:
+      - 'Spy x Anya: Operation Memories'
+    founded: 1988
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Apollosoft
+    url: https://www.apollosoft.co.jp/
+    description: Gifu studio offering game development and graphic asset outsourcing.
+    hq:
+      city: Gifu
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Goblin Slayer Another Adventurer: Nightmare Feast'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Aquria
+    url: http://www.aquria.co.jp/
+    description: 'Co-development studio behind Sword Art Online: Hollow Realization and The Caligula Effect.'
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Sword Art Online: Hollow Realization'
+      - The Caligula Effect
+    founded: 2002
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Arzest
+    url: https://www.arzest.jp/english/index.html
+    description: Yokohama co-development studio behind Sonic Superstars.
+    hq:
+      city: Yokohama
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Sonic Superstars
+      - Yoshi's New Island
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: ArtePiazza
+    url: https://www.artepiazza.com/
+    description: Tokyo developer of Dragon Quest remakes and the RPG Opoona.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - 'Dragon Quest IV: Chapters of the Chosen (DS)'
+      - Opoona
+    founded: 1989
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: h.a.n.d.
+    url: http://www.hand.co.jp/
+    description: Co-development studio credited on Fantasy Life and Kingdom Hearts handheld titles.
+    hq:
+      city: Sapporo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Kingdom Hearts 358/2 Days
+      - Fantasy Life
+    founded: 1993
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Land Ho!
+    url: http://www.landho.co.jp/
+    description: Tokyo co-development studio for licensed and family titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Just Dance Kids
+      - The Smurfs Dance Party
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Toylogic
+    url: https://www.toylogic.com/
+    description: 'Tokyo co-development studio credited on NieR Replicant ver.1.22 and Contra: Rogue Corps.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - NieR Replicant ver.1.22474487139...
+      - 'Contra: Rogue Corps'
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Silicon Studio
+    url: https://www.siliconstudio.co.jp/
+    description: Tokyo graphics middleware maker and co-developer of Bravely Default.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    notable:
+      - Bravely Default
+      - 3D Dot Game Heroes
+    founded: 1999
+    notes: Site sits behind a Cloudflare browser check (403 to scripts); alive as of 2026-11-03.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Monstars
+    url: https://monstars.co.jp/en/
+    description: Tokyo studio that co-developed Rez Infinite with Enhance.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - vr
+      - console
+      - pc
+    notable:
+      - Rez Infinite
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Racjin
+    url: http://www.racjin.co.jp/
+    description: Osaka co-development studio behind Bomberman Kart and licensed anime games.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Bomberman Kart
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: G2 Studios
+    url: https://g2-studios.net/
+    description: Tokyo co-development studio for mobile and console games such as Idolish7.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - console
+    notable:
+      - Idolish7
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: tri-Crescendo
+    url: https://www.tri-crescendo.co.jp/
+    description: Tokyo developer of Eternal Sonata and co-developer of the Baten Kaitos series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Eternal Sonata
+      - 'Baten Kaitos: Eternal Wings and the Lost Ocean'
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: DreamFactory
+    url: https://drf.co.jp/
+    description: Tokyo developer of the fighting games Tobal No. 1 and Ehrgeiz.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Tobal No. 1
+      - Ehrgeiz
+      - The Bouncer
+    founded: 1995
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Lightweight
+    url: https://lightweight.tokyo/
+    description: Tokyo developer of the Bushido Blade and Kengo sword-fighting games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Bushido Blade
+      - 'Kengo: Master of Bushido'
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Agenda
+    url: https://www.agenda.co.jp/
+    description: Sapporo software house that co-developed Clubhouse Games for Nintendo.
+    hq:
+      city: Sapporo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Clubhouse Games
+    founded: 1990
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Think & Feel
+    url: https://www.thinkandfeel.co.jp/
+    description: Chiba co-development studio for console and mobile games.
+    hq:
+      city: Chiba
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: ORCA
+    url: https://www.orca-inc.co.jp/wp/
+    description: Tokyo co-development studio working on Square Enix titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Vitei
+    url: https://vitei.com/
+    description: Kyoto co-development studio founded by former Nintendo programmer Giles Goddard.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Tank Troopers
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Neuron-Age
+    url: https://neuron-age.co.jp/
+    description: Osaka and Tokyo game development studio for console and mobile titles.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Rainy Frog
+    url: https://rainyfrog.com/en
+    description: Studio porting and publishing indie games on consoles.
+    hq:
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Lancarse
+    url: https://www.lancarse.co.jp/
+    description: 'Tokyo developer of Lost Dimension and co-developer of Shin Megami Tensei: Strange Journey.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - 'Shin Megami Tensei: Strange Journey'
+      - Lost Dimension
+      - Monark
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: COLOPL
+    url: https://colopl.co.jp/
+    description: Tokyo mobile developer of White Cat Project and co-developer of Dragon Quest Walk.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - White Cat Project
+      - 'Quiz RPG: The World of Mystic Wiz'
+      - Dragon Quest Walk
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Kairosoft
+    url: https://kairosoft.net/
+    description: Tokyo developer of pixel-art management sims such as Game Dev Story.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Game Dev Story
+      - Pocket Academy
+      - Dungeon Village
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: QualiArts
+    url: https://qualiarts.jp/
+    description: CyberAgent mobile studio behind Gakuen Idolmaster and Idoly Pride.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: CyberAgent
+    notable:
+      - Gakuen Idolmaster
+      - Idoly Pride
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Colorful Palette
+    url: https://colorfulpalette.co.jp/
+    description: 'CyberAgent mobile studio behind Hatsune Miku: Colorful Stage!'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: CyberAgent
+    notable:
+      - 'Hatsune Miku: Colorful Stage!'
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Applibot
+    url: https://www.applibot.co.jp/
+    description: CyberAgent mobile studio behind NieR Reincarnation and Final Fantasy VII Ever Crisis.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: CyberAgent
+    notable:
+      - NieR Reincarnation
+      - Final Fantasy VII Ever Crisis
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sumzap
+    url: https://sumzap.co.jp:443/
+    description: 'CyberAgent mobile studio behind Jujutsu Kaisen: Phantom Parade.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: CyberAgent
+    notable:
+      - 'Jujutsu Kaisen: Phantom Parade'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Lasengle
+    url: https://lasengle.co.jp/
+    description: Aniplex studio that develops and runs Fate/Grand Order.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Aniplex
+    notable:
+      - Fate/Grand Order
+    founded: 2021
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: NHN PlayArt
+    url: https://www.nhn-playart.com/
+    description: Tokyo mobile developer of Disney Tsum Tsum and The Idolmaster Poplinks.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: NHN
+    notable:
+      - Disney Tsum Tsum
+      - The Idolmaster Poplinks
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Drecom
+    url: https://drecom.co.jp/
+    description: Tokyo mobile developer and owner of the Wizardry IP.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Wizardry Variants Daphne
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Akatsuki Games
+    url: https://games.aktsk.jp/
+    description: 'Tokyo mobile developer of Dragon Ball Z: Dokkan Battle and Atelier Resleriana.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Akatsuki Inc.
+    notable:
+      - 'Dragon Ball Z: Dokkan Battle'
+      - Atelier Resleriana
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Pokelabo
+    url: https://pokelabo.co.jp/
+    description: Sega Sammy mobile studio behind SINoALICE.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Sega
+    notable:
+      - SINoALICE
+      - Madoka Magica Magia Exedra
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: f4samurai
+    url: https://f4samurai.jp/
+    description: Tokyo mobile developer of Disney Twisted-Wonderland.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Sega
+    notable:
+      - Disney Twisted-Wonderland
+      - Madoka Magica Magia Exedra
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: KLab
+    url: https://www.klab.com/jp/
+    description: 'Tokyo mobile developer of Bleach: Brave Souls and Captain Tsubasa: Dream Team.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Love Live! School Idol Festival
+      - 'Bleach: Brave Souls'
+      - 'Captain Tsubasa: Dream Team'
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: DeNA
+    url: https://dena.com/
+    description: Tokyo internet company co-developing mobile games such as Pokémon Masters EX.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pokémon Masters EX
+      - Pokémon Trading Card Game Pocket
+      - Mario Kart Tour
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: MIXI
+    url: https://mixi.co.jp/
+    description: Tokyo company behind the mobile hit Monster Strike.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Monster Strike
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: WFS
+    url: https://wfs.games/
+    description: GREE-owned mobile studio behind Another Eden.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: GREE
+    notable:
+      - 'Another Eden: The Cat Beyond Time and Space'
+      - Echoes of Mana
+    founded: 2014
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'

@@ -1,0 +1,1025 @@
+studios:
+  - name: Masonry Studios
+    url: https://masonry-studios.com/
+    description: 3D animation studio making product films and VFX for beauty, wellness, fashion and gaming brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2016
+    notable:
+      - L'Oreal Paris Glycolic Bright
+      - 'DBS Bank: A Wonderful World'
+    social:
+      instagram: https://www.instagram.com/masonrystudios
+      vimeo: https://vimeo.com/masonrystudios
+      behance: https://www.behance.net/masonrystudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Atomic
+    url: https://atomicdigital.design/
+    description: Studio making AR, CGI and immersive experiences for fashion and luxury brands such as Dior and PSG.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - cg
+      - experiential
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Dior packaging AR
+      - PSG House interactive mirror, Los Angeles
+      - Suuupply x Sebago
+    social:
+      instagram: https://www.instagram.com/atomicdigital.design/
+      linkedin: https://www.linkedin.com/company/2438498/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Manipal Digital
+    url: https://manipal.digital/
+    description: Creative production studio making product CGI, digital imaging, packaging prepress and motion assets at scale.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - product-viz
+      - cg
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/manipal_digital/
+      linkedin: https://www.linkedin.com/company/manipaldigital/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: HAUT CGI
+    url: https://www.hautcgi.com/
+    description: CGI production studio making FOOH ads, full-CGI commercials and 3D product animation for brands and agencies.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - cg
+      - 3d-animation
+      - vfx
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - BMW iX3 'Happy Season' FOOH (FOOH Awards 2026 Gold, Automotive)
+    social:
+      instagram: https://www.instagram.com/hautcgi
+      linkedin: https://www.linkedin.com/company/hautcgi
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: adam+gary
+    url: https://adamandgary.com/
+    description: Creative duo making commercials, motion, VFX, CGI and FOOH spots for brands and agencies.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - motion-design
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    notable:
+      - Primark FOOH (FOOH Awards 2026 Gold, Fashion)
+      - Ryder Cup golf balls FOOH (FOOH Awards 2026 Gold, Sports)
+    social:
+      instagram: https://www.instagram.com/adamandgary/
+      linkedin: https://www.linkedin.com/company/adamandgary
+      vimeo: https://vimeo.com/adamandgary
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: rendersnek
+    url: https://rendersnek.com/
+    description: FOOH animation studio making fake out-of-home and mixed reality ads for brands worldwide.
+    hq:
+      country: Austria
+    disciplines:
+      - cg
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Discover Airlines giant water slide FOOH (FOOH Awards 2026 Gold, Travel)
+    social:
+      instagram: https://www.instagram.com/rendersnek
+      linkedin: https://www.linkedin.com/company/rendersnek
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Orbe3D
+    url: https://orbe3d.com/
+    description: 3D visualization studio turning photos, sketches or CAD into product renders, 360 spins and AR assets for furniture and e-commerce.
+    hq:
+      city: Atlanta
+      country: United States
+    offices:
+      - city: Dhaka
+        country: Bangladesh
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - brand
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/orbe3dagency/
+      linkedin: https://www.linkedin.com/company/orbe3dagency-3d-product-visualization
+      behance: https://www.behance.net/orbe3dagency
+      artstation: https://www.artstation.com/orbe3d
+      x: https://twitter.com/orbe3dagency
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: KOSMO
+    url: https://www.kosmocgi.com/
+    description: Studio making anamorphic 3D billboard campaigns, FOOH films and street stunts.
+    hq:
+      country: France
+    disciplines:
+      - cg
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Zalando Lounge Paris FOOH
+      - Miele 3DOOH, Paris
+      - Porsche chrome sphere FOOH
+      - Super Mario Galaxy Yoshi eggs FOOH
+    social:
+      instagram: https://www.instagram.com/kosmocgi/
+      linkedin: https://www.linkedin.com/company/101133355
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: 3DK Visual
+    url: https://3dkvisual.com/
+    description: CGI and generative video studio making FOOH, anamorphic DOOH and 3D product videos for brands.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/3dkvisual/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Bark&Bite
+    url: https://barkandbite.com/
+    description: Creative studio making design, art direction, CGI content and FOOH clips for brands.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/barkandbite/
+      linkedin: https://www.linkedin.com/company/bark-and-bite
+      vimeo: https://vimeo.com/barkandbite
+      behance: https://www.behance.net/barkandbite
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Bluemotion
+    url: https://www.bluemotion3d.com/
+    description: 3D animation and CGI production company making product films, FOOH and creative technology work.
+    hq:
+      city: Ponte San Nicolò
+      country: Italy
+    disciplines:
+      - 3d-animation
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2004
+    social:
+      instagram: https://www.instagram.com/bluemotion.3d/
+      linkedin: https://www.linkedin.com/company/bluemotion/
+      vimeo: https://vimeo.com/bluemotion3d
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Motion Bloc
+    url: https://www.motionbloc.com/
+    description: Motion design studio making 3D product animation, brand videos and LED screen content.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/motion_bloc/
+      linkedin: https://www.linkedin.com/company/motion-bloc-inc/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: 3deeit
+    url: https://3deeit.com/
+    description: 3D animation studio making technical product animations and engineering graphics for marketing videos.
+    hq:
+      city: Squamish
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/3deeit/
+      linkedin: https://www.linkedin.com/company/3deeit-technical-graphics/
+      vimeo: https://vimeo.com/3deeit
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: UFO3D
+    url: https://ufo3d.com/
+    description: '3D modeling studio for product brands: models, renders, 360 spins, animation and AR built from CAD or photos.'
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - product-viz
+      - cg
+      - outsourcing
+    markets:
+      - brand
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: RenderThat
+    url: https://renderthat.com/
+    description: CGI studio and automation platform making photoreal product visuals for furniture, bedding and bathroom brands.
+    hq:
+      country: Germany
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - brand
+      - advertising
+    size: mid
+    founded: 2012
+    notable:
+      - Schlaraffia
+      - Hilding Anders
+      - Duravit
+      - Ergobag
+    social:
+      instagram: https://www.instagram.com/renderthat
+      linkedin: https://www.linkedin.com/company/renderthat
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Splashlight
+    url: https://splashlight.com/
+    description: Content production studio making e-commerce photo, video, CGI and animation for retailers and fashion houses.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - product-viz
+      - cg
+      - live-action
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/splashlightstudios
+      linkedin: https://www.linkedin.com/company/splashlight/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: le truc
+    url: https://www.letruc.studio/
+    description: 3D creative studio making CGI films, motion design and VFX for watch, jewelry and luxury brands.
+    hq:
+      city: Satigny
+      country: Switzerland
+    offices:
+      - city: Paris
+        country: France
+      - city: Dubai
+        country: United Arab Emirates
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2007
+    notable:
+      - Breguet
+      - Chopard
+      - Bell & Ross
+      - Devialet
+    social:
+      instagram: https://www.instagram.com/letrucstudio/
+      linkedin: https://www.linkedin.com/company/le-truc
+      vimeo: https://vimeo.com/LeTruc
+      behance: https://www.behance.net/LeTruc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: SUPERBIEN
+    url: https://www.superbien.studio/
+    description: Creative studio making immersive experiences, augmented environments and CGI content for brands.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - xr
+      - cg
+      - experiential
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/superbien.studio/
+      linkedin: https://www.linkedin.com/company/superbien/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Proxima Milano
+    url: https://proximamilano.com/
+    description: VFX and CGI studio making visual effects for film, episodic and advertising.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2003
+    social:
+      instagram: https://www.instagram.com/proximamilano/
+      linkedin: https://www.linkedin.com/company/proximamilano/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Tonic
+    url: https://tonic.co/
+    description: CGI production studio making automotive, food and product visuals and animation.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Mumbai
+        country: India
+    disciplines:
+      - cg
+      - product-viz
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Bell & Ross Heritage
+      - A. Lange & Sohne
+      - Leica M9
+      - Ducati
+    social:
+      instagram: https://www.instagram.com/tonicpost
+      linkedin: https://www.linkedin.com/company/tonic3d
+      behance: https://www.behance.net/cgibytonic
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: KOA Studio
+    url: https://koastudio.de/
+    description: Creative production studio making film, campaign, social content, motion design and CGI for brands.
+    hq:
+      city: Cologne
+      country: Germany
+    disciplines:
+      - live-action
+      - cg
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2017
+    notable:
+      - Miu Miu launch events
+    social:
+      instagram: https://www.instagram.com/koastudio.de/
+      linkedin: https://www.linkedin.com/company/koastudiocgn/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Modular
+    url: https://www.modularstudio.tv/
+    description: Motion studio making animation, 3D and FOOH content for brands and agencies.
+    hq:
+      city: Minneapolis
+      country: United States
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/modularstudio.tv/
+      linkedin: https://www.linkedin.com/company/modularstudiotv
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: 3D Advertisers
+    url: https://www.3dadvertisers.com/
+    description: Studio making 3D billboards, FOOH spots and CGI animation for brands.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - L'Oreal Paris Melasyl 3D billboard
+      - 100 Plus limited-edition can
+    social:
+      instagram: https://www.instagram.com/3dadvertisers/
+      linkedin: https://www.linkedin.com/company/3dadvertisers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: elomate
+    url: https://www.elomate.pl/
+    description: Animation studio making 2D and 3D animation, motion design, FOOH and screen content for companies.
+    hq:
+      city: Lublin
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/elomate.studio
+      linkedin: https://www.linkedin.com/company/elomate/
+      vimeo: https://vimeo.com/elomate
+      behance: https://www.behance.net/elomate
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Sailor Studio
+    url: https://sailor.studio/
+    description: Creative production studio making animation, design, live action and post for brands and agencies.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Elton John 'Ultimate Call' (AKQA)
+      - McDonald's FOOH (Galeria.ag)
+    social:
+      instagram: https://www.instagram.com/sailor.studio/
+      vimeo: https://vimeo.com/sailorstudio
+      behance: https://www.behance.net/sailorstudio_br
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Polux Studio
+    url: https://www.poluxstudio.com/
+    description: Tech studio making naked-eye 3D OOH content, AR, VR and hologram activations for brands.
+    hq:
+      city: Santo Domingo
+      country: Dominican Republic
+    disciplines:
+      - cg
+      - xr
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/poluxstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: VEF Studio
+    url: https://www.vefstudio.com/
+    description: Studio making AR, VR and 3D animation for brand campaigns.
+    hq:
+      city: Monterrey
+      country: Mexico
+    disciplines:
+      - xr
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/vef.studio/
+      linkedin: https://www.linkedin.com/company/vefstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: dyrdee Media
+    url: https://dyrdee.com/
+    description: Creative design and animation studio making motion design, 3D and FOOH content.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/dyrdee_media/
+      vimeo: https://vimeo.com/dyrdee
+      behance: https://www.behance.net/dyrdee
+      x: https://twitter.com/dyrdee
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: SQUINT Creative
+    url: https://www.squintcreative.com/
+    description: CGI studio making FOOH, 3D animation and motion design campaigns for brands.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    disciplines:
+      - cg
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Visit Belfast
+    social:
+      instagram: https://www.instagram.com/squintcreative/
+      linkedin: https://www.linkedin.com/company/squint-creative/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Animox
+    url: https://www.animox.studio/
+    description: 3D product animation studio making launch videos and ads for complex consumer products.
+    hq:
+      city: Miami
+      country: United States
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Pelican
+      - Baby Brezza
+      - ZAGG
+    social:
+      instagram: https://www.instagram.com/animox.studio
+      linkedin: https://www.linkedin.com/company/animox
+      behance: https://www.behance.net/animox
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Main Factory
+    url: https://mainfactory.xyz/
+    description: Studio making CGI, animation and illustration for advertising and experiential marketing.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/mainfactory_studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Pezzo di Studio
+    url: https://pezzodistudio.com/
+    description: CGI and 3D creative studio making full-CGI, mixed reality and FOOH advertising.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - cg
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/pezzodistudio
+      linkedin: https://www.linkedin.com/company/pezzodistudio
+      vimeo: https://vimeo.com/user108640121
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Onomoto
+    url: https://www.onomoto-studio.com/
+    description: Creative studio making art direction, CGI and animation for brands.
+    hq:
+      city: Düsseldorf
+      country: Germany
+    disciplines:
+      - cg
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/onomoto.studio
+      vimeo: https://vimeo.com/onomoto
+      behance: https://behance.net/onomoto
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: BOFO Studio
+    url: https://bofo-studio.com/
+    description: Creative studio making photoreal 3D product films from creative direction to modeling and animation.
+    hq:
+      city: Oranienburg
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - cg
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    social:
+      instagram: https://www.instagram.com/bofo.studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: GROUND STUDIOS
+    url: https://www.ground-studios.com/
+    description: Studio making 3D animation, VFX, CGI and VR for film, advertising and TV.
+    hq:
+      city: Düsseldorf
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cg
+      - xr
+    markets:
+      - advertising
+      - film
+      - episodic
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: snctstudio
+    url: https://www.snctstudio.com/
+    description: Studio making brand films, ads, music videos, 3D motion graphics, FOOH and VFX.
+    hq:
+      country: South Korea
+    disciplines:
+      - motion-design
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - music-video
+      - brand
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: CGI DXB
+    url: https://www.cgidxb.com/
+    description: 3D and VFX studio blending CGI with live footage for mixed reality social campaigns.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/cgi.dxb
+      linkedin: https://www.linkedin.com/company/cgidxb/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Beyond Studio
+    url: https://beyond.studio/
+    description: Digital studio making 3D, AR and immersive experiences for virtual fashion, luxury and retail.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - xr
+      - cg
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/beyondxstudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Dimensional X Studios
+    url: https://dimensionalxstudios.com/
+    description: Production studio making VFX, CGI, FOOH and generative AI films for brands.
+    hq:
+      country: Romania
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/dimensionalxstudios/
+      linkedin: https://www.linkedin.com/company/69341250/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Nimbus VFX
+    url: https://nimbusvfx.com.br/
+    description: Visual effects studio from Bahia making VFX and CGI for brands.
+    hq:
+      country: Brazil
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Epilog Studio
+    url: https://www.epilog-studio.com/
+    description: CGI studio making product visuals, furniture imagery, FOOH and 3D animation for brands.
+    hq:
+      country: Poland
+    disciplines:
+      - product-viz
+      - cg
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/epilog.cgi/
+      linkedin: https://www.linkedin.com/company/epilog-studio/
+      vimeo: https://vimeo.com/epilogstudio
+      behance: https://www.behance.net/epilog-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: MAD CGI
+    url: https://www.madcgi.com/
+    description: Studio making CGI product videos, 3D animation and AI video for fashion, beauty and luxury brands.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/mad.studio.cgi
+      linkedin: https://www.linkedin.com/company/madstudiocgi
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: loom studio
+    url: https://www.loom-studio.com/
+    description: Studio making CGI advertising, anamorphic 3D DOOH, mixed reality content and AR experiences.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - cg
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/loomstudioofficial/
+      linkedin: https://www.linkedin.com/company/loomstudio/
+      behance: https://www.behance.net/loom_studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: CGWorks
+    url: https://www.cgworks.gr/en
+    description: CGI and animation studio making product films and FOOH campaigns for brands.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - InterMed bottle FOOH (FOOH Awards 2026 Gold, Health & Beauty)
+      - FAGE yogurt
+    social:
+      instagram: https://www.instagram.com/cgworks/
+      linkedin: https://www.linkedin.com/company/cg-works/
+      behance: https://www.behance.net/Cgworks
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: BäxLab
+    url: https://baxbaxlab.com/
+    description: Social-first creative studio making FOOH and CGI clips for brands.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Veikkaus giant Christmas card FOOH
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Clytech
+    url: https://clytech.com/
+    description: Ad production studio making CGI, FOOH and AI commercials for brands.
+    hq:
+      city: Istanbul
+      country: Turkey
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/clytech
+      linkedin: https://linkedin.com/company/clytech
+      vimeo: https://vimeo.com/clytech
+      behance: https://www.behance.net/clytechtools
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Volstok
+    url: https://www.volstok.com/
+    description: Design and animation studio making motion design and 3D for brands.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/volstok/
+      linkedin: https://www.linkedin.com/company/volstok/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Thatsmoa
+    url: https://www.thatsmoa.com/
+    description: Creative studio making VFX, 3D animation, FOOH and generative AI content for brands.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/thatsmoa
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Locus Solus Studio
+    url: https://www.locussolus.studio/
+    description: Digital creative studio making 3D productions and social AR and CGI campaigns.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - cg
+      - xr
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/locussolus.ams/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Remake Production
+    url: https://www.remake.mov/
+    description: Visual production studio making FOOH, CGI, real-time and fulldome content.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - cg
+      - 3d-animation
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/remake.mov/
+      linkedin: https://www.linkedin.com/company/remakemov
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'

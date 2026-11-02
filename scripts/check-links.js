@@ -100,13 +100,15 @@ async function main() {
       metaFile: ie.sectionFile
     });
   }
-  // Studios directory (data/studios/) gets the same scan.
-  for (const c of catalog.loadStudioChunks()) {
-    const chunk = { _path: `studios/${c.file}`, studioFile: c.file, studios: c.studios };
-    for (const s of c.studios) {
-      if (onlyMissing && s.url_status) continue;
-      if (onlyStatus && !onlyStatus.has(s.url_status)) continue;
-      allEntries.push({ entry: s, sub: { slug: 'studios' }, chunk, metaFile: chunk._path });
+  // Studio directories (data/studios/, data/game-studios/) get the same scan.
+  for (const kind of catalog.STUDIO_KINDS || ['studios']) {
+    for (const c of catalog.loadStudioChunks(kind)) {
+      const chunk = { _path: `${kind}/${c.file}`, studioFile: c.file, studioKind: kind, studios: c.studios };
+      for (const s of c.studios) {
+        if (onlyMissing && s.url_status) continue;
+        if (onlyStatus && !onlyStatus.has(s.url_status)) continue;
+        allEntries.push({ entry: s, sub: { slug: kind }, chunk, metaFile: chunk._path });
+      }
     }
   }
 
@@ -145,7 +147,7 @@ async function main() {
     const touched = new Map(); // chunk._path → chunk
     for (const item of allEntries) touched.set(item.chunk._path, item.chunk);
     for (const chunk of touched.values()) {
-      if (chunk.studioFile) catalog.saveStudioChunk(chunk.studioFile, chunk.studios);
+      if (chunk.studioFile) catalog.saveStudioChunk(chunk.studioFile, chunk.studios, chunk.studioKind);
       else catalog.saveChunk(chunk);
     }
   }

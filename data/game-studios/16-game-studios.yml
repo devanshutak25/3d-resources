@@ -1,0 +1,896 @@
+studios:
+  - name: 91Act
+    url: https://www.91act.com/
+    description: Developer of the roguelite action game BlazBlue Entropy Effect.
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - BlazBlue Entropy Effect
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: S-Game
+    url: https://pbz.s-game.com/en-US/
+    description: Developer of the action RPG Phantom Blade Zero and the Phantom Blade mobile games.
+    hq:
+      country: China
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hotta Studio
+    url: http://www.hottagames.com/
+    description: Perfect World studio behind the open-world RPG Tower of Fantasy.
+    hq:
+      city: Suzhou
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Perfect World
+    notable:
+      - Tower of Fantasy
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sunborn
+    url: https://www.sunborngame.com/
+    description: Shanghai developer of the Girls' Frontline series of mobile games.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Girls' Frontline
+      - 'Girls'' Frontline: Neural Cloud'
+      - 'Girls'' Frontline 2: Exilium'
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nekoday
+    url: http://www.nekoday.com/
+    description: Chengdu indie studio making visual novels such as Christmas Tina.
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Christmas Tina: Ephemeral Views of Winter'
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Yostar
+    url: https://www.yostar.cn/
+    description: Shanghai publisher and developer of anime-styled mobile games such as Stella Sora.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Stella Sora
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Seasun
+    url: https://www.seasungames.cn/
+    description: 'Kingsoft game studio behind the JX Online series, Snowbreak: Containment Zone and Mecha Break.'
+    hq:
+      city: Zhuhai
+      country: China
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - mobile
+      - console
+    parent: Kingsoft
+    notable:
+      - JX3 Online
+      - 'Snowbreak: Containment Zone'
+      - Mecha Break
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nuverse
+    url: https://www.nvsgames.com/
+    description: ByteDance game unit, developer of the action MMORPG Crystal of Atlan.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    parent: ByteDance
+    notable:
+      - Crystal of Atlan
+    founded: 2019
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Leenzee
+    url: http://www.leenzee.com/
+    description: 'Chengdu studio behind the soulslike action RPG Wuchang: Fallen Feathers.'
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Wuchang: Fallen Feathers'
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Cotton Game
+    url: https://www.cottongame.com/
+    description: Shanghai indie studio making surreal puzzle adventures such as the Isoland series.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Isoland
+      - 'Mr. Pumpkin 2: Kowloon Walled City'
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Aurogon
+    url: https://www.aurogon.com/
+    description: Shanghai developer of the Gujian RPG series.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Gujian 3
+      - Swords of Legends Online
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Arrowiz
+    url: http://arrowiz.com/
+    description: Shanghai studio behind the VR rhythm game Beats Fever and the RPG Mato Anomalies.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - indie
+      - aa
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Mato Anomalies
+      - Beats Fever
+      - 'Hermitage: Strange Case Files'
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Duoyi
+    url: https://www.duoyi.com/
+    description: Guangzhou developer behind the roguelite shooter Gunfire Reborn and the Shenwu MMO series.
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Gunfire Reborn
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Pixpil
+    url: http://www.pixpil.com/
+    description: Shanghai indie studio behind the pixel-art adventure Eastward.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Eastward
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: 24 Entertainment
+    url: https://www.24-ent.com/
+    description: 'NetEase studio behind the battle royale Naraka: Bladepoint.'
+    hq:
+      city: Hangzhou
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: NetEase
+    notable:
+      - 'Naraka: Bladepoint'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Yongshi
+    url: http://www.ys4fun.com/
+    description: Xiamen developer behind Aether Gazer and co-developer of Azur Lane with Manjuu.
+    hq:
+      city: Xiamen
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Azur Lane
+      - Aether Gazer
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hoolai Games
+    url: http://www.hoolaigames.com/
+    description: 'Beijing mobile developer of licensed RPGs such as Saint Seiya: Legend of Justice.'
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Saint Seiya: Legend of Justice'
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Object Software
+    url: http://www.objectsw.com/
+    description: Beijing studio behind the Prince of Qin action RPG.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Prince of Qin
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Never Knows Best
+    url: https://www.nkbgame.moe/
+    description: Wuhan indie team making romance visual novels.
+    hq:
+      city: Wuhan
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mystery Lover Nonexistent Summer
+      - Reverse Memories
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Han-Squirrel Studio
+    url: https://www.hanjiasongshu.com/
+    description: Indie developer of the open-world strategy RPG Sands of Salzaar.
+    hq:
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Sands of Salzaar
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Elex
+    url: https://www.elex-tech.com/en/
+    description: 'Beijing mobile developer of Clash of Kings and The Walking Dead: Survivors.'
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Clash of Kings
+      - 'The Walking Dead: Survivors'
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: TiGames
+    url: https://www.tigames.com/
+    description: 'Shanghai studio behind the metroidvania F.I.S.T.: Forged In Shadow Torch.'
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - indie
+      - aa
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - 'F.I.S.T.: Forged In Shadow Torch'
+      - Ancient Amuletor
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Zlongame
+    url: https://www.zlongame.com/
+    description: Beijing mobile developer and publisher of Langrisser Mobile.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Langrisser Mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Manjuu
+    url: https://www.manjuu.com/en
+    description: Shanghai studio behind the naval shooter RPG Azur Lane.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Azur Lane
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Perfect World
+    url: https://www.pwrd.com/cn/index.html
+    description: Beijing developer and publisher of MMORPGs such as Perfect World and Jade Dynasty.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Perfect World
+      - Jade Dynasty
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: NetDragon
+    url: https://netdragon.com/
+    description: Fuzhou company developing MMORPGs such as Conquer Online, alongside education tech.
+    hq:
+      city: Fuzhou
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Conquer Online
+      - Eudemons Online
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Changyou
+    url: http://www.changyou.com/en/index.shtml
+    description: Beijing developer of the Tian Long Ba Bu online RPG series, owned by Sohu.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    parent: Sohu
+    notable:
+      - Tian Long Ba Bu
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hortor Games
+    url: https://www.hortorgames.com/
+    description: Beijing mobile developer of casual and idle games.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Century Games
+    url: https://www.centurygames.com/
+    description: Mobile developer of Whiteout Survival and Kingshot.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Whiteout Survival
+      - Kingshot
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Tap4fun
+    url: https://www.tap4fun.com/
+    description: Chengdu developer of mobile strategy games such as Kiss of War.
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Kiss of War
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Bluepoch
+    url: https://www.bluepoch.com/
+    description: 'Guangzhou studio behind the time-travel RPG Reverse: 1999.'
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - 'Reverse: 1999'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: NetEase Thunder Fire
+    url: https://leihuo.163.com/
+    description: NetEase business group that makes large-scale RPGs such as Justice Online.
+    hq:
+      city: Hangzhou
+      country: China
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - mobile
+    parent: NetEase
+    notable:
+      - Justice Online
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Giant Network
+    url: https://www.ztgame.com/
+    description: Shanghai developer of the ZT Online MMORPG series and casual mobile games.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - ZT Online
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: iDreamSky
+    url: https://www.idreamsky.com/
+    description: Shenzhen publisher and developer of the anime-style shooter Strinova.
+    hq:
+      city: Shenzhen
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Strinova
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Softstar Entertainment
+    url: http://www.softstar.com.tw/
+    description: Developer of the Chinese Paladin (Sword and Fairy) and Xuan-Yuan Sword RPG series.
+    hq:
+      city: New Taipei
+      country: Taiwan
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sword and Fairy 7
+      - Xuan-Yuan Sword VII
+    founded: 1988
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Joy Brick
+    url: https://homepage.joybrick.cc/
+    description: Taipei indie studio making casual party and action games.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Run Tank Run
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sunhead Games
+    url: https://sunheadgames.com/en/
+    description: Taipei indie studio behind the map-tile puzzle adventure Carto.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Carto
+      - A Ride into the Mountains
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: UserJoy Technology
+    url: https://www.uj.com.tw/
+    description: Taipei developer of the Fantasia Sango strategy RPG series.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Fantasia Sango
+      - Angels Online
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: X-Legend
+    url: https://www.x-legend.tw/en/index.php
+    description: Taipei developer of anime-style MMORPGs such as Aura Kingdom and Grand Fantasia.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Grand Fantasia
+      - Aura Kingdom
+      - Eden Eternal
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sigono
+    url: https://www.sigono.com/
+    description: Taipei indie studio behind the narrative OPUS series.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'OPUS: The Day We Found Earth'
+      - 'OPUS: Echo of Starsong'
+      - 'OPUS: Prism Peak'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Enlight Software
+    url: http://www.enlight.com/
+    description: Developer of business and strategy sims such as Capitalism Lab and Seven Kingdoms.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Capitalism Lab
+      - Seven Kingdoms
+      - Capitalism II
+    founded: 1993
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Mad Head
+    url: https://www.madhead.com/
+    description: Hong Kong mobile developer of the puzzle RPG Tower of Saviors.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Tower of Saviors
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nimble Neuron
+    url: https://www.nimbleneuron.com/
+    description: Developer of the survival games Eternal Return and Black Survival.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Eternal Return
+      - Black Survival
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Devespresso Games
+    url: https://www.devespressogames.com/
+    description: Seoul indie studio behind The Coma horror series.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'The Coma 2: Vicious Sisters'
+      - 'The Coma: Recut'
+      - 'Vambrace: Cold Soul'
+    notes: Site sits behind a Cloudflare browser check (403 to scripts); alive as of 2026-11-03.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: SEGA
+    url: https://www.sega.co.jp/
+    description: Publisher and developer behind Sonic the Hedgehog, Puyo Puyo and Phantasy Star Online 2.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Sega
+    notable:
+      - Sonic Frontiers
+      - Super Monkey Ball Banana Rumble
+      - Puyo Puyo Tetris
+      - 'Phantasy Star Online 2: New Genesis'
+    founded: 1960
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Capcom
+    url: https://www.capcom.co.jp/
+    description: Osaka publisher and developer of Resident Evil, Monster Hunter, Street Fighter and Devil May Cry.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Resident Evil 4
+      - 'Monster Hunter: World'
+      - Street Fighter 6
+      - Devil May Cry 5
+    founded: 1979
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Square Enix
+    url: https://www.square-enix.com/
+    description: Tokyo publisher and developer of the Final Fantasy, Dragon Quest and Kingdom Hearts series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Square Enix Holdings
+    notable:
+      - Final Fantasy VII Rebirth
+      - Final Fantasy XVI
+      - Dragon Quest XI S
+      - Final Fantasy XIV
+    founded: 1975
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Atlus
+    url: https://www.atlus.co.jp/
+    description: Sega-owned developer of the Persona and Shin Megami Tensei RPG series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sega
+    notable:
+      - Persona 5 Royal
+      - 'Metaphor: ReFantazio'
+      - Shin Megami Tensei V
+      - Persona 3 Reload
+    founded: 1986
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nintendo
+    url: https://www.nintendo.com/jp/index.html
+    description: Kyoto platform holder and developer of the Mario, Zelda and Animal Crossing series.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - mobile
+    notable:
+      - 'The Legend of Zelda: Tears of the Kingdom'
+      - Super Mario Bros. Wonder
+      - 'Animal Crossing: New Horizons'
+      - Mario Kart 8 Deluxe
+    founded: 1889
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: HAL Laboratory
+    url: https://www.hallab.co.jp/
+    description: Tokyo studio behind the Kirby series, working closely with Nintendo.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Kirby and the Forgotten Land
+      - Kirby Star Allies
+      - Super Smash Bros. Melee
+      - BoxBoy!
+    founded: 1980
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'

@@ -78,6 +78,19 @@ Studios have their own directory at [/studios/](https://3d.devanshutak.xyz/studi
 
 Active studios only. Country names come from the list in `scripts/lib/studios.js` (add one there if needed). Or use the [Suggest a studio](https://github.com/devanshutak25/3d-resources/issues/new?template=suggest-studio.yml) form.
 
+### Game studios
+
+Game developers go to [/game-studios/](https://3d.devanshutak.xyz/game-studios/) instead: append to the last file in `data/game-studios/` (`NN-game-studios.yml`, 50 per file). Schema: `schema/game-studio.schema.json`. Same fields as above, minus `disciplines` and `markets`, plus:
+
+```yaml
+  segments: [aaa]                    # 1-3 of: aaa, aa, indie, mobile, co-dev, vr, ugc
+  platforms: [console, pc]           # optional: pc, console, mobile, vr, web
+  parent: Sony Interactive Entertainment   # optional owner
+  notable: [Marvel's Spider-Man 2]   # optional, shipped games, max 4
+```
+
+Studios that mainly make art, animation or cinematics for games (Virtuos, Room 8) stay in `/studios/` with the `outsourcing` or `cinematics` discipline and the `games` market. A URL may be in only one directory.
+
 ## Quality bar
 
 - Genuinely useful to a 3D artist, animator, VFX professional or game dev.

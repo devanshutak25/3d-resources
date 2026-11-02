@@ -1,0 +1,870 @@
+studios:
+  - name: gumi
+    url: https://gu3.co.jp/
+    description: 'Tokyo mobile developer and publisher of Phantom of the Kill and War of the Visions: Final Fantasy Brave Exvius.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Phantom of the Kill
+      - 'War of the Visions: Final Fantasy Brave Exvius'
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Alim
+    url: https://www.a-lim.co.jp/
+    description: Tokyo developer of Brave Frontier and co-developer of the Voice of Cards series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Brave Frontier
+      - 'Voice of Cards: The Isle Dragon Roars'
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Aiming
+    url: https://aiming-inc.com/ja/
+    description: Tokyo mobile developer of licensed RPGs such as Dragon Quest Tact.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Dragon Quest Tact
+      - Is It Wrong to Try to Pick Up Girls in a Dungeon? Memoria Freese
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: PONOS
+    url: https://www.ponos.jp/
+    description: Kyoto mobile developer of The Battle Cats.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - The Battle Cats
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: WonderPlanet
+    url: https://wonderpla.net/
+    description: Nagoya mobile developer of Crash Fever and Jumputi Heroes.
+    hq:
+      city: Nagoya
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Crash Fever
+      - Jumputi Heroes
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Liber Entertainment
+    url: https://liberent.co.jp/
+    description: Tokyo mobile developer of idol and actor-raising games such as A3!
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - A3!
+      - I-Chu
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Coly
+    url: https://colyinc.com/
+    description: Tokyo mobile developer of story games such as Promise of Wizard.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Promise of Wizard
+      - Break My Case
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Donuts
+    url: https://www.donuts.ne.jp/
+    description: Tokyo mobile developer of the idol rhythm game Tokyo 7th Sisters.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Tokyo 7th Sisters
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: NTT Solmare
+    url: https://www.nttsolmare.com/
+    description: Osaka developer of the otome mobile game Obey Me!
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: NTT West
+    notable:
+      - Obey Me!
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Cybird
+    url: https://www.cybird.co.jp/
+    description: Tokyo mobile developer of the Ikemen series of romance games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ikemen Sengoku
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Voltage
+    url: https://www.voltage.co.jp/
+    description: Tokyo developer of story-based romance games for mobile and Switch.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Even if TEMPEST
+    founded: 1999
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Mobile Factory
+    url: https://www.mobilefactory.jp/
+    description: Tokyo developer of location-based mobile games such as Ekimemo!
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ekimemo!
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Translimit
+    url: https://translimit.co.jp/
+    description: Tokyo mobile developer of the competitive puzzle game Brain Wars.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Brain Wars
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: hap
+    url: https://app.hap.ne.jp/
+    description: Tokyo mobile developer of casual puzzle games such as Mom Hid My Game!
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Mom Hid My Game!
+      - Hide & Dance!
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Select Button
+    url: http://selectbutton.jp/
+    description: Tokyo mobile developer of Magikarp Jump and co-developer of Pokémon Sleep.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pokémon Sleep
+      - Magikarp Jump
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Wonderfy
+    url: https://wonderfy.inc/en/
+    description: Tokyo developer of educational apps such as Think!Think! and the puzzle app Pokémon Friends.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pokémon Friends
+      - Think!Think!
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: enish
+    url: https://www.enish.com/
+    description: Tokyo developer of licensed mobile games for anime and idol brands.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2009
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Asobimo
+    url: https://www.asobimo.com/
+    description: Mobile MMORPG developer of Toram Online and Avabel Online.
+    hq:
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Toram Online
+      - Avabel Online
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Kemco
+    url: https://www.kemco-games.com/
+    description: Hiroshima publisher and developer of mobile and console RPGs.
+    hq:
+      city: Hiroshima
+      country: Japan
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Alphadia
+      - Asdivine Hearts
+    founded: 1984
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Exe-Create
+    url: https://exe-create.co.jp/
+    description: Osaka developer of retro-style RPGs published by Kemco.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Asdivine Dios
+      - Revenant Dogma
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hit-Point
+    url: http://www.hit-point.co.jp/
+    description: Developer of the cat-collecting mobile game Neko Atsume.
+    hq:
+      country: Japan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Neko Atsume
+      - Chronus Arc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Happy Elements K.K.
+    url: https://www.happyelements.co.jp/
+    description: Japanese arm of Happy Elements, developer of the idol game Ensemble Stars!
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ensemble Stars!!
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: MyDearest
+    url: https://mydearestvr.com/en/
+    description: 'Tokyo VR studio behind Altdeus: Beyond Chronos.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+      - console
+    notable:
+      - 'Altdeus: Beyond Chronos'
+      - Brazen Blaze
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Thirdverse
+    url: https://thirdverse.io/
+    description: VR studio behind Swords of Gargantua and X8.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - X8
+      - Swords of Gargantua
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Amata
+    url: https://amata.co.jp/en/
+    description: Tokyo studio making VR and console games such as Last Labyrinth.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+      - console
+      - pc
+    notable:
+      - Last Labyrinth
+      - The Tale of Onogoro
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Pocketpair
+    url: https://www.pocketpair.jp/
+    description: Tokyo studio behind the creature-collecting survival game Palworld.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Palworld
+      - Craftopia
+      - Overdungeon
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: AREA 35
+    url: https://area35east.com/
+    description: Tokyo indie studio behind the Tiny Metal tactics games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tiny Metal
+      - 'Tiny Metal: Full Metal Rumble'
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Type-Moon
+    url: https://typemoon.com/
+    description: Visual novel studio behind Fate/stay night and Tsukihime.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fate/stay night
+      - 'Tsukihime: A Piece of Blue Glass Moon'
+      - Witch on the Holy Night
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Key
+    url: https://key.visualarts.gr.jp/
+    description: Osaka visual novel brand behind Kanon, Clannad and Summer Pockets.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Visual Arts
+    notable:
+      - Clannad
+      - Kanon
+      - Little Busters!
+      - Summer Pockets
+    founded: 1998
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nitroplus
+    url: https://www.nitroplus.co.jp/
+    description: Tokyo visual novel studio, co-creator of Touken Ranbu and Steins;Gate.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Song of Saya
+      - Touken Ranbu
+      - 'Full Metal Daemon: Muramasa'
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: 07th Expansion
+    url: http://07th-expansion.net/
+    description: Doujin visual novel circle behind the When They Cry series.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Higurashi When They Cry
+      - Umineko When They Cry
+      - Ciconia When They Cry
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: French-Bread
+    url: http://www13.plala.or.jp/french/
+    description: Fighting game studio behind the Melty Blood and Under Night In-Birth series.
+    hq:
+      country: Japan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Melty Blood: Type Lumina'
+      - Under Night In-Birth II Sys:Celes
+      - 'Dengeki Bunko: Fighting Climax'
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Twilight Frontier
+    url: https://tasofro.net/
+    description: Doujin studio behind the Touhou Project fighting games.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Touhou Hisoutensoku
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Millennium Kitchen
+    url: https://mkitchen.co.jp/
+    description: Studio behind the Boku no Natsuyasumi summer-vacation adventure series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Boku no Natsuyasumi
+      - 'Shin-chan: Me and the Professor on Summer Vacation'
+    founded: 1997
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: qureate
+    url: https://qureate.co.jp/
+    description: Tokyo indie publisher and developer of character-driven adventure games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Bunny Garden
+      - Prison Princess
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Odencat
+    url: https://odencat.com/
+    description: Tokyo indie studio behind the RPG Meg's Monster.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Meg's Monster
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Cavyhouse
+    url: https://www.cavyhouse.net/
+    description: Indie developer of the dungeon crawler The Sealed Ampoule.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Sealed Ampoule
+      - The Midnight Sanctuary
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Tatsujin
+    url: https://tatsujin.tokyo/
+    description: Studio holding the Toaplan IP, behind Snow Bros. Wonderland.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    parent: Embracer Group
+    notable:
+      - Snow Bros. Wonderland
+    founded: 2017
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Q-Games
+    url: https://q-games.com/ja/
+    description: Kyoto studio behind the PixelJunk series and The Tomorrow Children.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - indie
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - PixelJunk Monsters
+      - The Tomorrow Children
+      - Star Fox Command
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Ancient
+    url: https://www.ancient.co.jp/
+    description: Studio founded by Yuzo Koshiro, developer of Beyond Oasis.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Beyond Oasis
+      - Protect Me Knight
+    founded: 1990
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Triangle Service
+    url: https://www.triangleservice.co.jp/
+    description: Indie developer of vertical shooters such as Trizeal and XII Stag.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Trizeal
+      - XII Stag
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Onion Games
+    url: https://oniongames.jp/
+    description: Tokyo indie studio led by Yoshiro Kimura, maker of Black Bird and Dandy Dungeon.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Moon: Remix RPG Adventure'
+      - Black Bird
+      - 'Dandy Dungeon: Legend of Brave Yamada'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Skeleton Crew Studio
+    url: https://www.skeletoncrew.co.jp/
+    description: Kyoto studio developing indie titles such as Olija and Forestrike.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Olija
+      - Forestrike
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Oink Games
+    url: https://oinkgames.com/
+    description: Tokyo board game maker that also releases digital versions of its games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Let's Play! Oink Games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hakababunko
+    url: https://hakaba-bunko.net/
+    description: Indie developer of the mystery adventure Urban Myth Dissolution Center.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Urban Myth Dissolution Center
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Kotake Create
+    url: https://www.kotakecreate.com/
+    description: Solo-led indie studio behind the loop-horror game The Exit 8.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Exit 8
+      - Platform 8
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Xemono
+    url: https://xemono.life/
+    description: Tokyo indie studio behind Needy Streamer Overload.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Needy Streamer Overload
+    founded: 2019
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: npckc
+    url: https://npckc.site/
+    description: Small indie team making short visual novels such as A Year of Springs.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - A Year of Springs
+      - One Night, Hot Springs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Petit Depotto
+    url: http://globule.sblo.jp/
+    description: Small indie team behind the sci-fi social deduction RPG Gnosia.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Gnosia
+      - Unholy Heights
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Skipmore
+    url: http://www.skipmore.com/
+    description: Indie developer of the Fairune series and Transiruby.
+    hq:
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Fairune
+      - Transiruby
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'

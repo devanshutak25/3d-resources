@@ -1,0 +1,1102 @@
+studios:
+  - name: Wushu Studios
+    url: https://wushustudios.com/
+    description: Independent game studio in Liverpool co-developing AAA titles such as Forza Horizon 5 and Baldur's Gate 3 with global publishers.
+    hq:
+      city: Liverpool
+      country: United Kingdom
+    segments:
+      - co-dev
+    size: mid
+    founded: 2017
+    notable:
+      - Forza Horizon 5
+      - Baldur's Gate 3
+    social:
+      instagram: https://www.instagram.com/wushustudios/
+      linkedin: https://www.linkedin.com/company/wushustudios
+      x: https://twitter.com/wushustudios
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Climax Studios
+    url: https://www.climaxstudios.com/
+    description: AAA co-development studio in Portsmouth working on console and PC games for major publishers, part of Keywords Studios.
+    hq:
+      city: Portsmouth
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Keywords Studios
+    size: mid
+    founded: 1988
+    careers: https://www.climaxstudios.com/join-our-team/jobs/
+    notable:
+      - Assassin's Creed Chronicles
+      - 'Silent Hill: Shattered Memories'
+      - 'Silent Hill: Origins'
+    social:
+      instagram: https://www.instagram.com/climaxstudios/
+      linkedin: https://www.linkedin.com/company/climax/
+      youtube: https://www.youtube.com/@ClimaxStudios
+      x: https://twitter.com/climaxstudios
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Studio Gobo
+    url: https://www.studiogobo.com/
+    description: AAA co-development studio in Brighton building gameplay, features and DLC for console and PC action games.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    size: mid
+    founded: 2011
+    careers: https://www.studiogobo.com/join-us
+    notable:
+      - LEGO Horizon Adventures
+      - Hogwarts Legacy
+      - For Honor
+    social:
+      instagram: https://www.instagram.com/studiogobo
+      linkedin: https://www.linkedin.com/company/studio-gobo
+      x: https://twitter.com/studiogobo
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Third Kind Games
+    url: https://thirdkindgames.com/
+    description: Co-development and full development studio in Leamington Spa working on AAA franchises, part of Virtuos.
+    hq:
+      city: Leamington Spa
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Virtuos
+    size: mid
+    social:
+      instagram: https://www.instagram.com/thirdkindgames/
+      linkedin: https://www.linkedin.com/company/third-kind-games/
+      x: https://x.com/ThirdKindGames
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Electric Square
+    url: https://electricsquare.com/
+    description: Game studio in Brighton co-developing AAA action games with major developers for console and PC.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Keywords Studios
+    careers: https://electricsquare.com/come-join-us/
+    social:
+      instagram: https://www.instagram.com/ElectricSqGames/
+      x: https://twitter.com/ElectricSqGames
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Flix Interactive
+    url: https://www.flixinteractive.com/
+    description: Unreal Engine co-development studio in Bromsgrove providing art, gameplay engineering, animation and design for AAA games.
+    hq:
+      city: Bromsgrove
+      country: United Kingdom
+    segments:
+      - co-dev
+    size: mid
+    founded: 2012
+    careers: https://www.flixinteractive.com/#careers
+    notable:
+      - Borderlands 4
+      - Sea of Thieves
+      - Sniper Elite 5
+    social:
+      instagram: https://www.instagram.com/flixinteractive/
+      linkedin: https://www.linkedin.com/company/flix-interactive-limited/
+      x: https://twitter.com/flixinteractive
+    added_at: '2026-10-31T05:09:10.965Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Big Ant Studios
+    url: https://bigant.com/
+    description: Melbourne game developer building licensed sports games such as cricket, rugby league and AFL titles for console and PC.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    size: mid
+    founded: 2000
+    careers: https://bigant.com/careers/
+    notable:
+      - Cricket 24
+      - AFL 23
+      - Rugby League Live 4
+    social:
+      instagram: https://www.instagram.com/bigantstudios
+      linkedin: https://au.linkedin.com/company/big-ant-studios
+      youtube: https://www.youtube.com/@bigantstudios
+      x: https://twitter.com/BigAntStudios
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Owned by Nacon since 2021. Size from Wikipedia headcount (170).
+  - name: Halfbrick
+    url: https://www.halfbrick.com/
+    description: Brisbane game studio making mobile and console games, including Fruit Ninja, Jetpack Joyride and Dan the Man.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    founded: 2001
+    careers: https://www.halfbrick.com/careers
+    notable:
+      - Fruit Ninja
+      - Jetpack Joyride
+      - Dan the Man
+    social:
+      instagram: https://www.instagram.com/halfbrick
+      youtube: https://www.youtube.com/user/HalfbrickStudios
+      x: https://twitter.com/Halfbrick
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: League of Geeks
+    url: https://leagueofgeeks.com/
+    description: Independent game studio in Melbourne making strategy and digital board game titles such as Armello and Solium Infernum.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: small
+    founded: 2011
+    careers: https://leagueofgeeks.com/careers
+    notable:
+      - Armello
+      - Solium Infernum
+      - Jumplight Odyssey
+    social:
+      instagram: https://www.instagram.com/league.of.geeks
+      youtube: https://www.youtube.com/user/LeagueofGeeks
+      x: https://twitter.com/leagueofgeeks
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: PlaySide Studios
+    url: https://playsidestudios.com/
+    description: Melbourne game developer and publisher making original titles and running external development on licensed IP for mobile, PC and console.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Gold Coast
+        country: Australia
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    size: large
+    founded: 2011
+    careers: https://playsidestudios.com/careers
+    social:
+      instagram: https://www.instagram.com/playsidestudios
+      linkedin: https://au.linkedin.com/company/playside
+      youtube: https://www.youtube.com/channel/UCfC6BUDu720tFtLdQ686rBw
+      x: https://x.com/PlaySide
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Site states 270+ staff and founded in 2011; Wikipedia gives 2012 launch and 261 staff.
+  - name: SMG Studio
+    url: https://smgstudio.com/
+    description: Independent game studio in Sydney making original and licensed games for console, PC and mobile, including Moving Out and Death Squared.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Brisbane
+        country: Australia
+      - city: Los Angeles
+        country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2013
+    careers: https://smgstudio.com/jobs/eoi
+    notable:
+      - Moving Out
+      - Death Squared
+      - Lego Party
+    social:
+      youtube: https://www.youtube.com/user/weareSMGstudio
+      x: https://twitter.com/SMGstudio
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Site returns 403 to some fetchers; homepage verified live via direct request.
+  - name: Mighty Kingdom
+    url: https://www.mightykingdom.com/
+    description: Australian game developer making licensed and original games for mobile, PC and console with brands such as Hasbro, Paramount and LEGO.
+    hq:
+      country: Australia
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    careers: https://www.mightykingdom.com/careers
+    notable:
+      - 'Star Trek Lower Decks: The Badgey Directive'
+      - Power Rangers Mighty Force
+      - Gabby's Dollhouse
+    social:
+      instagram: https://www.instagram.com/mightykingdom
+      linkedin: https://www.linkedin.com/company/mighty-kingdom
+      x: https://twitter.com/mightykingdom
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Site acknowledges Kaurna land (Adelaide area) but names no city.
+  - name: Krome Studios
+    url: https://www.kromestudios.com/
+    description: Brisbane game developer behind the Ty the Tasmanian Tiger series, also making work-for-hire titles for publishers across consoles.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - pc
+    founded: 1999
+    notable:
+      - Ty the Tasmanian Tiger
+    social:
+      youtube: https://www.youtube.com/user/TheKromeStudios
+      x: https://twitter.com/kromestudios
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Grinding Gear Games
+    url: https://grindinggear.com/
+    description: Auckland game developer making the online action RPG Path of Exile and its sequel for PC and console.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    size: large
+    founded: 2006
+    careers: https://grindinggear.com/?page=careers
+    notable:
+      - Path of Exile
+      - Path of Exile 2
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Majority owned by Tencent since 2018.
+  - name: Ninja Kiwi
+    url: https://ninjakiwi.com/
+    description: Auckland game developer making the Bloons and Bloons Tower Defense series for mobile, PC and console players.
+    hq:
+      city: Auckland
+      country: New Zealand
+    offices:
+      - city: Dundee
+        country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+      - web
+    parent: MTG
+    size: mid
+    founded: 2006
+    notable:
+      - Bloons TD 6
+      - Bloons TD Battles 2
+      - Bloons Card Storm
+    social:
+      youtube: https://www.youtube.com/c/NinjaKiwiGames
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Owned by Modern Times Group since 2021.
+  - name: PikPok
+    url: https://pikpok.com/
+    description: Wellington game developer and publisher making mobile and console games, including the Into the Dead zombie series.
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    founded: 1997
+    careers: https://apply.workable.com/pikpok/
+    notable:
+      - Into the Dead
+    social:
+      instagram: https://instagram.com/pikpokofficial
+      linkedin: https://www.linkedin.com/company/pikpok
+      youtube: https://www.youtube.com/user/pikpokgames
+      x: https://twitter.com/pikpokgames
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: RocketWerkz
+    url: https://rocketwerkz.com/
+    description: Independent New Zealand game studio making survival and simulation games including Icarus, Stationeers and Kitten Space Agency.
+    hq:
+      city: Auckland
+      country: New Zealand
+    offices:
+      - city: Dunedin
+        country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2014
+    careers: https://careers.rocketwerkz.com/
+    notable:
+      - Icarus
+      - Stationeers
+      - Kitten Space Agency
+    social:
+      instagram: https://www.instagram.com/rocketwerkzstudios
+      youtube: https://www.youtube.com/rocketwerkz
+      x: https://twitter.com/rocketwerkz
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Boomzap Entertainment
+    url: https://boomzap.com/
+    description: Fully remote game studio registered in Singapore making story-driven hidden object and puzzle adventure games for PC and mobile.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/boomzapofficial
+      youtube: https://www.youtube.com/@boomzapgames
+      x: https://x.com/boomzap
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Virtual studio with no physical office, per its About page.
+  - name: Kurechii
+    url: https://kurechii.com/
+    description: Malaysian indie game studio making mobile RPG and strategy games, including Postknight, Postknight 2 and Tiny Guardians.
+    hq:
+      country: Malaysia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Postknight
+      - Postknight 2
+      - Tiny Guardians
+    social:
+      instagram: https://www.instagram.com/kurechiigames
+      linkedin: https://www.linkedin.com/company/kurechii
+      youtube: https://www.youtube.com/channel/UC0ry2B0LjqXnVai5_cTqMXw
+      x: https://twitter.com/kurechii
+    added_at: '2026-10-31T05:09:10.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Agate
+    url: https://agate.id/
+    description: Bandung game developer offering game development, 3D game art, porting and gamification services alongside its own titles.
+    hq:
+      city: Bandung
+      country: Indonesia
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2009
+    careers: https://agate.id/career/
+    notable:
+      - 'Valthirian Arc: Hero School Story'
+      - Code Atma
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Digital Happiness
+    url: https://www.digitalhappiness.net/
+    description: Bandung game developer behind the DreadOut survival horror series, making games for PC and console players.
+    hq:
+      city: Bandung
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    careers: https://www.digitalhappiness.net/career
+    notable:
+      - DreadOut
+    social:
+      x: https://twitter.com/DH_games
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: unreachable
+    url_last_verified: '2026-11-01'
+  - name: Arsanesia
+    url: https://arsanesia.com/
+    description: Independent game studio in Indonesia making casual and educational games, including the Arsa Kids line for young children.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+      - mobile
+    size: small
+    founded: 2011
+    careers: https://arsanesia.com/career/
+    social:
+      instagram: https://www.instagram.com/arsanesia_official
+      linkedin: https://www.linkedin.com/company/arsanesia
+      youtube: https://www.youtube.com/user/arsanesia
+      x: https://twitter.com/arsanesia
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Mindstorm Studios
+    url: https://mindstormstudios.com/
+    description: Pakistani mobile game studio making puzzle and casual games such as Hexa Sort, Point Out and Pro Golf for global players.
+    hq:
+      country: Pakistan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://mindstormstudios.simplicant.com/jobs/board
+    notable:
+      - Hexa Sort
+      - Pro Golf
+      - Cricket Revolution
+    social:
+      instagram: https://www.instagram.com/mindstormstudios
+      linkedin: https://www.linkedin.com/company/mindstorm-studios
+      youtube: https://www.youtube.com/@MindstormStudiosMS
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Massive Monster
+    url: https://massivemonster.com/
+    description: Independent game studio with teams in Australia and the UK making character-driven console and PC games, including Cult of the Lamb.
+    hq:
+      country: Australia
+    offices:
+      - country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    size: small
+    founded: 2016
+    careers: https://massivemonster.com/jobs
+    notable:
+      - Cult of the Lamb
+      - The Adventure Pals
+      - Never Give Up
+    social:
+      youtube: https://www.youtube.com/channel/UC-z28AAWkqUnGNo_TejEuPA
+      x: https://twitter.com/MassiveMonster
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Homepage says offices in Australia and the United Kingdom; About page lists 18 team members and a Melbourne-based founder. HQ city not stated.
+  - name: Hipster Whale
+    url: https://www.hipsterwhale.com/
+    description: Melbourne game studio making casual mobile and console games, including Crossy Road, Disney Crossy Road and PAC-MAN 256.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - console
+      - pc
+    founded: 2014
+    careers: https://www.hipsterwhale.com/careers
+    notable:
+      - Crossy Road
+      - Disney Crossy Road
+      - PAC-MAN 256
+    social:
+      linkedin: https://au.linkedin.com/company/hipsterwhale
+      youtube: https://www.youtube.com/c/HipsterWhaleOfficial
+      x: https://twitter.com/hipsterwhaledev
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Subsidiary of Atari since 2026 per Wikipedia.
+  - name: Witch Beam
+    url: https://witchbeam.com.au/
+    description: Indie game studio in Brisbane making console and PC games, including the puzzle game Unpacking and the shooter Assault Android Cactus.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Unpacking
+      - Assault Android Cactus
+    social:
+      x: https://x.com/witchbeamgames
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Dinosaur Polo Club
+    url: https://dinopoloclub.com/
+    description: Indie game studio in Wellington making minimalist strategy and puzzle games, including Mini Metro and Mini Motorways.
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2013
+    careers: https://dinopoloclub.com/careers/
+    notable:
+      - Mini Metro
+      - Mini Motorways
+    social:
+      instagram: https://www.instagram.com/dinopoloclub
+      youtube: https://www.youtube.com/channel/UC8PoS0kI5X0EReM-D0vm7ag
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Metia Interactive
+    url: https://www.metia.co.nz/
+    description: Auckland game design and development studio making console, mobile and education games that draw on Māori culture, including Guardian Maia.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - console
+      - mobile
+    founded: 2003
+    notable:
+      - Guardian Maia
+      - Cube
+      - SPARX
+    added_at: '2026-10-31T05:09:10.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: GameAnax
+    url: https://www.gameanax.com/
+    description: Game and XR development studio building VR, AR and mobile games plus 2D and 3D game art for clients.
+    hq:
+      city: Ahmedabad
+      country: India
+    offices:
+      - city: Beverly Hills
+        country: United States
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - mobile
+      - vr
+    careers: https://www.gameanax.com/career/
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: 300Mind
+    url: https://300mind.studio/
+    description: Game development studio in Ahmedabad building 2D and 3D games in Unity, Unreal and Roblox for mobile, PC, console and VR.
+    hq:
+      city: Ahmedabad
+      country: India
+    segments:
+      - co-dev
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    careers: https://300mind.studio/careers/
+    social:
+      instagram: https://www.instagram.com/300mind/
+      linkedin: https://www.linkedin.com/company/300mind/
+      youtube: https://www.youtube.com/@300mind
+      behance: https://www.behance.net/300MindStudio
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Zatun
+    url: https://zatun.com/
+    description: Indie game developer and art outsourcing studio making original IP, work-for-hire games and 3D art for console, PC, mobile and VR.
+    hq:
+      city: Ahmedabad
+      country: India
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/ZatunGameStudio/
+      linkedin: https://www.linkedin.com/company/zatun
+      vimeo: https://vimeo.com/zatun
+      youtube: https://www.youtube.com/c/zatungamestudio/
+      x: https://twitter.com/zatun
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Rockstar India
+    url: https://www.rockstargames.com/careers/offices/rockstar-india
+    description: Bengaluru game studio, formerly Dhruva Interactive, building art and open-world content for Rockstar Games titles.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - aaa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Rockstar Games
+    size: large
+    careers: https://www.rockstargames.com/careers/offices/rockstar-india
+    notable:
+      - Grand Theft Auto VI
+      - Red Dead Redemption 2
+      - Grand Theft Auto V
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Dhruva Interactive (input row 22) acquired by Rockstar in 2019 and renamed. Size from Wikipedia (1,600+), not LinkedIn. No own homepage; URL is the Rockstar office page.
+  - name: Moonfrog Labs
+    url: https://moonfroglabs.com/
+    description: Mobile game studio in Bengaluru making casual card and board games such as Teen Patti Gold and Ludo Club.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: large
+    founded: 2013
+    notable:
+      - Teen Patti Gold
+      - Ludo Club
+      - Parchis Club
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Domain moonfrog.com times out; moonfroglabs.com is live. Size from site history ("200+ employees", Nov 2020), not LinkedIn.
+  - name: PlaySimple Games
+    url: https://playsimple.in/
+    description: Mobile game studio making word and casual puzzle games such as Daily Themed Crossword and WordTrip for a global audience.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: MTG
+    founded: 2014
+    careers: https://careers.playsimple.in/jobs/Careers
+    notable:
+      - Daily Themed Crossword
+      - WordTrip
+      - Crossword Jam
+    social:
+      instagram: https://www.instagram.com/playsimple.games/
+      linkedin: https://www.linkedin.com/company/playsimple-games
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Part of MTG (Modern Times Group). City from job listings (Bangalore North).
+  - name: Mayhem Studios
+    url: https://mayhem-studios.com/
+    description: Game studio developing Underworld Gang Wars, an India-set battle royale shooter for mobile.
+    hq:
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://mayhem.keka.com/careers
+    notable:
+      - Underworld Gang Wars
+    social:
+      instagram: https://www.instagram.com/mayhem_studios/
+      youtube: https://www.youtube.com/@ugw_official
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'City not on site (AGI list: Bengaluru). Latest site news July 2024 (Lumikai funding, closed beta May 2024).'
+  - name: Studio Sirah
+    url: https://www.studiosirah.com/
+    description: Indie game studio making midcore strategy games drawn from Indian mythology, history and culture.
+    hq:
+      country: India
+    segments:
+      - indie
+    careers: https://www.studiosirah.com/join-us
+    notable:
+      - 'Kurukshetra: Ascension'
+    social:
+      instagram: https://www.instagram.com/studiosirah/
+      linkedin: https://www.linkedin.com/company/studio-sirah/
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'City not on site (AGI list: Bengaluru). Kurukshetra: Ascension is on Steam (app 1857540).'
+  - name: HashCube
+    url: https://www.hashcube.com/
+    description: Social and puzzle game studio in Bangalore making cross-platform titles for web and mobile players worldwide.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2008
+    careers: https://hashcube.freshteam.com/jobs
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Nextwave Multimedia
+    url: https://www.nextwavemultimedia.com/
+    description: Chennai mobile game studio behind the World Cricket Championship series of cricket sims.
+    hq:
+      city: Chennai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 1995
+    notable:
+      - World Cricket Championship
+    social:
+      linkedin: https://www.linkedin.com/company/nextwave-multimedia/
+      youtube: https://www.youtube.com/@NextwaveMultimediaWCC
+      x: https://x.com/Nextwaveapps
+    added_at: '2026-10-31T05:09:10.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Nazara Technologies subsidiary since 2021.
+  - name: Octro
+    url: https://www.octro.com/
+    description: Mobile game studio making social card and casino-style games such as Teen Patti, Indian Rummy and Octro Poker.
+    hq:
+      city: Noida
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2006
+    careers: https://www.octro.com/career.html
+    notable:
+      - Teen Patti Octro
+      - Indian Rummy
+      - Octro Poker
+    social:
+      instagram: https://www.instagram.com/octrogames/
+      linkedin: https://www.linkedin.com/company/octro-inc-
+      youtube: https://www.youtube.com/c/Octroofficial
+      x: https://twitter.com/octroinc
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Open roles listed in Noida (AGI list says Gurugram).
+  - name: Hitwicket
+    url: https://hitwicket.com/
+    description: Hyderabad mobile game studio making Hitwicket Superstars, a cricket strategy game played worldwide.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Hitwicket Superstars
+    social:
+      instagram: https://www.instagram.com/hitwicketsuperstars/
+      youtube: https://www.youtube.com/@HitwicketGame
+    added_at: '2026-10-31T05:09:10.969Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Operated by Metasports Media Pvt Ltd (Hyderabad). JS-only site; facts read from its bundle.
+  - name: Games2win
+    url: https://games2winmedia.com/
+    description: Casual mobile game developer and publisher in Mumbai making driving, fashion and story games such as Driving Academy.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: mid
+    founded: 2005
+    careers: https://games2winmedia.com/careers-in-mobile-gaming-work-for-us/
+    notable:
+      - Driving Academy
+      - International Fashion Stylist
+      - Decisions
+    social:
+      linkedin: https://in.linkedin.com/company/games2win-india-pvt-ltd
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Gametion Technologies
+    url: https://gametion.com/
+    description: Mobile game studio in Mumbai making casual multiplayer board and puzzle games, including Ludo King and Carrom King.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: mid
+    founded: 2008
+    careers: https://gametion.com/careers.html
+    notable:
+      - Ludo King
+      - Carrom King
+      - Sudoku King
+    social:
+      instagram: https://www.instagram.com/gametion.technologies/
+      linkedin: https://www.linkedin.com/company/gametion/
+      x: https://twitter.com/gametion
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Threye Interactive
+    url: https://www.threye.com/
+    description: Game studio making mobile games plus AR, VR and simulation training products for the aerospace and defence sector.
+    hq:
+      country: India
+    segments:
+      - mobile
+      - vr
+    platforms:
+      - mobile
+      - vr
+    careers: https://www.threye.com/careers.html
+    social:
+      youtube: https://www.youtube.com/ThreyeInc
+      x: https://x.com/ThreyeGames
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Input listed Delhi; site does not state a city, so city omitted.
+  - name: Ubisoft Pune
+    url: https://www.ubisoft.com/en-us/company/careers/locations/pune
+    description: Pune studio of the publisher Ubisoft, working on mobile and console game production and quality control for AAA titles.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - co-dev
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Ubisoft
+    size: large
+    careers: https://www.ubisoft.com/en-us/company/careers/locations/india
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Parent Ubisoft not in known-studios, so a standalone record. Size from Ubisoft India page (1,000+ employees), not LinkedIn.
+  - name: Nautilus Mobile
+    url: https://www.nautilusmobile.com/
+    description: Mobile game studio in Pune behind the Real Cricket franchise of 3D cricket games for Android and iOS.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: mid
+    founded: 2013
+    careers: https://www.nautilusmobile.com/career-1
+    notable:
+      - Real Cricket 24
+      - Real Cricket 22
+    social:
+      instagram: https://www.instagram.com/realcricket_official/
+      linkedin: https://in.linkedin.com/company/nautilusmobile
+      youtube: https://www.youtube.com/@RealCricket
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Dream Game Studios
+    url: https://www.dreamgamestudios.in/
+    description: Mobile game studio in Mumbai developing Dream Cricket, a 3D cricket game with real players and stadiums for Android and iOS.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Dream Cricket
+    social:
+      instagram: https://www.instagram.com/dreamcricketapp/
+      youtube: https://www.youtube.com/@dreamcricket_official
+      x: https://x.com/dreamcricketapp
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: dreamgamestudios.in redirects to the Dream Cricket game site, which gives a Worli, Mumbai address. Input listed Pune. Social links are the game's accounts.
+  - name: 99Games
+    url: https://99games.in/
+    description: Mobile game studio in Udupi that develops and publishes free-to-play games for iOS and Android, founded at the start of the App Store.
+    hq:
+      city: Udupi
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: mid
+    founded: 2008
+    careers: https://99games.in/careers.html
+    social:
+      instagram: https://www.instagram.com/99games/
+      linkedin: https://www.linkedin.com/company/99games
+      youtube: https://www.youtube.com/c/ninetyninegames
+      x: https://twitter.com/99games
+    added_at: '2026-10-31T05:09:10.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Croteam
+    url: https://www.croteam.com/
+    description: Game developer behind the Serious Sam series and The Talos Principle, owned by Devolver Digital.
+    hq:
+      city: Zagreb
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    parent: Devolver Digital
+    founded: 1992
+    notable:
+      - Serious Sam series
+      - The Talos Principle 2
+      - 'The Talos Principle: Reawakened'
+    social:
+      youtube: https://youtube.com/croteam
+      x: https://twitter.com/croteam
+    added_at: '2026-11-02T18:40:47.096Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Haemimont Games
+    url: https://www.haemimontgames.com/
+    description: Strategy game developer known for Tropico 3 to 5, Surviving Mars and Jagged Alliance 3.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    founded: 1997
+    careers: https://www.haemimontgames.com/careers/
+    notable:
+      - Tropico 3, 4, 5
+      - Surviving Mars
+      - Jagged Alliance 3
+      - 'Stranded: Alien Dawn'
+    added_at: '2026-11-02T18:40:47.181Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'

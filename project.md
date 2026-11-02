@@ -14,7 +14,8 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
-- A studios directory at `/studios/` (1,420 animation/VFX/motion/CG/game/viz/XR studios in 79 HQ countries, 2026-11-03), separate dataset (§4b).
+- A studios directory at `/studios/` (animation/VFX/motion/CG/viz/XR studios) and a game studios directory at
+  `/game-studios/` (game developers), separate datasets (§4b). Counts: see §11.
 
 It is NOT a tutorial blog, not a news site, not a personal portfolio. It is a fast index for professionals to look up tools, asset sources, channels, books, hardware, services, and learning resources.
 
@@ -52,6 +53,7 @@ Secondary:
 │   ├── aliases.yml            # Search aliases (catalog.loadAliases()).
 │   ├── awesome-sources.yml    # Awesome-lists credited in the README footer (catalog.loadAwesomeSources()).
 │   ├── studios/NN-studios.yml # Studios directory: { studios: [...] }, ≤50 each. NOT catalog entries (see §4b).
+│   ├── game-studios/NN-game-studios.yml # Game studios directory, same shape, game schema (§4b).
 │   ├── NN-<section>.yml       # Section metadata + subsection list (slug, title, description, chunks). No entries.
 │   └── NN-<section>/<sub>/NN-<sub>.yml   # Chunks: { entries: [...] }, ≤50 each (ADR-0001).
 │
@@ -75,7 +77,7 @@ Secondary:
 │   ├── run-tests.js           # Runs every scripts/lib/*.test.js (npm test).
 │   ├── render.js              # data/ -> README.md (full; --mode=lite unwired; --link-mode=pages for /sections/).
 │   ├── validate.js            # Schema + vocab + duplicate checks. CI gate.
-│   ├── build-studios-page.js  # data/studios/ -> _site/studios/index.html + studios.json (lib/studios.js: labels, country->region, card ids).
+│   ├── build-studios-page.js  # data/studios/ + data/game-studios/ -> _site/studios/ + _site/game-studios/ (index.html + studios.json each; lib/studios.js: labels, country->region, card ids).
 │   ├── build-html.js, build-og-images.js, build-section-pages.js, build-tag-pages.js,
 │   │   export-data.js, build-search-index.js, build-graph.js, build-llms-txt.js,
 │   │   build-feed.js, build-sitemap.js           # Site build steps (§6).
@@ -154,29 +156,41 @@ Link scans never change `deprecated`: that is an editorial decision. HTTP 5xx/40
 `pricing_last_verified` — `check-pricing-freshness.js`.
 `stale`, `archived`, `last_pushed` — `check-repo-staleness.js`.
 
-## 4b. Studios directory (`/studios/`)
+## 4b. Studio directories (`/studios/` + `/game-studios/`)
 
-Separate dataset, not catalog entries (decision 2026-10-31: studios aren't resources and span disciplines).
-- Files: `data/studios/NN-studios.yml` (`{ studios: [...] }`, ≤50 each). Read/write via
-  `catalog.loadStudios()` / `loadStudioChunks()` / `appendStudio()` / `saveStudioChunk()`.
+Separate datasets, not catalog entries (decision 2026-10-31: studios aren't resources and span disciplines).
+Two directories since 2026-11-03: `/studios/` = production studios (animation, VFX, motion, CG, viz, XR,
+outsourcing, cinematics), `/game-studios/` = game developers. A URL may live in only one (validate.js errors).
+- Files: `data/studios/NN-studios.yml` and `data/game-studios/NN-game-studios.yml` (`{ studios: [...] }`, ≤50 each).
+  Read/write via `catalog.loadStudios(kind)` / `loadStudioChunks(kind)` / `appendStudio(s, kind)` /
+  `saveStudioChunk(file, list, kind)`, kind = `'studios'` (default) or `'game-studios'` (`catalog.STUDIO_KINDS`).
+- **Game studios** (`schema/game-studio.schema.json`): same fields minus `disciplines`/`markets`, plus
+  `segments` (required, 1-3, closed: `aaa`, `aa`, `indie`, `mobile`, `co-dev`, `vr`, `ugc`), `platforms`
+  (closed: `pc`, `console`, `mobile`, `vr`, `web`), `parent` (owner, string). `notable` = shipped games.
+  Labels `SEGMENTS`/`PLATFORMS` in `scripts/lib/studios.js`; segment pills use `.d-<segment>` colors (keys must
+  not collide with disciplines, test checks). Card rows: Platforms, Part of, Games. Extra group-by: Parent company.
+  Inclusion: active developer with 1+ released commercial game or 10+ staff; no gambling/crypto/asset flips.
+- Split rule (user, 2026-11-03): game-first studios -> `/game-studios/`; studios whose main business is art,
+  animation or cinematics for games (Virtuos, Room 8, Steamroller, Tiltnek) stay in `/studios/` with
+  `outsourcing`/`cinematics` + market `games`. The `games` discipline was removed from the studio enum.
 - Required: `name`, `url`, `description` (≤200), `hq{city?,country}`, `disciplines[]`, `added_at`.
   `description` is not shown on cards (decision 2026-10-31); it feeds search and llms-full.txt.
   Optional: `offices[]`, `markets[]`, `size`, `founded`, `careers`,
   `reel`, `notable[]` (≤4), `social{instagram,linkedin,vimeo,youtube,x,behance,artstation}`,
   `url_status`, `url_last_verified`, `notes`.
-- `disciplines` (closed, 18): `2d-animation`, `3d-animation` (split from `animation` 2026-10-31), `stop-motion`,
-  `vfx`, `motion-design`, `cg`, `archviz`, `product-viz`, `games`, `cinematics`, `virtual-production`, `previs`,
+- `disciplines` (closed, 17): `2d-animation`, `3d-animation` (split from `animation` 2026-10-31), `stop-motion`,
+  `vfx`, `motion-design`, `cg`, `archviz`, `product-viz`, `cinematics`, `virtual-production`, `previs`,
   `xr`, `experiential`, `title-design`, `live-action`, `outsourcing`, `mocap`. Labels + chip order in
   `scripts/lib/studios.js` (grouped by hue family); colors are `.d-<key>` `--dc` rules in style.css.
 - `markets` (closed, 6, card label "Works for"): `film`, `episodic`, `advertising`, `music-video`, `games`, `brand`.
 - `size` (closed, LinkedIn "Company size" ranges): `boutique` 1-10, `small` 11-50, `mid` 51-200, `large` 201+.
   Source = LinkedIn range, never the associated-members count. Old ≤20/21-150/150+ values were dropped except `large`.
-- studios.test.js asserts schema == labels for disciplines, markets, sizes. Same no-invent rule as catalog enums.
+- studios.test.js asserts schema == labels for disciplines, markets, sizes, segments, platforms. Same no-invent rule as catalog enums.
 - `country` must be in `COUNTRY_REGION` (`scripts/lib/studios.js`), closed so the filter never splits
   "UK"/"United Kingdom". Adding a country there is fine (it is a lookup table, not a taxonomy).
 - validate.js: schema, unknown country, chunk cap, duplicate url (error), duplicate name (warning),
   em-dash/banned words in description (error).
-- check-links.js scans studios with catalog entries (monthly).
+- check-links.js scans both studio directories with catalog entries (monthly).
 - Active studios only. Locations must be verified on the studio's own site or LinkedIn/press. The School of
   Motion ebook scrambles many locations (it put Blur Studio in Istanbul), so its HQs were never trusted alone.
 
@@ -214,7 +228,7 @@ Full run ~12 s (was ~4 min before the 2026-10-05 render index). Order:
 5. `build-section-pages.js` -> `/sections/` hub + 12 section + 150 subsection pages (thin ones noindex). Renders in-process with link mode `pages`.
 6. `export-data.js` -> `_site/data.json` (one row per subsection+url).
 7. `build-tag-pages.js` -> `/tags/` hub + per-tag pages.
-7b. `build-studios-page.js` -> `/studios/` (first 48 cards server-rendered) + `/studios/studios.json` (every card as
+7b. `build-studios-page.js` -> `/studios/` and `/game-studios/` (first 48 cards server-rendered) + `<dir>/studios.json` (every card as
     pre-rendered HTML + filter fields). `assets/js/studios.js` fetches the JSON, filters, groups, and renders 48 more
     per scroll (IntersectionObserver). One card template (server side), escaping stays in html-safe.
 8. MiniSearch UMD copy + `build-search-index.js`.
@@ -271,7 +285,7 @@ must not read anything gitignored: CI renders from a clean checkout and render-r
 
 Single source: `assets/js/analytics.js`. Loaded `<script defer>` by `build-html.js` (index) and `scripts/lib/page-shell.js` (all generated section/subsection/tag/hub pages) — 287 pages total. Mixpanel init is deferred to `requestIdleCallback` so it never competes with first paint (pub_plan §1.4); do not move it inline or un-defer it.
 
-**Page context:** `<body data-page-type=… data-section=… data-subsection=… data-tag-group=… data-tag-value=…>`, emitted by `analyticsAttrs()` in `page-shell.js` from the `analyticsContext` param. `page_type` ∈ `catalog | section | subsection | tag | sections-hub | tags-hub | studios`. Studios page emits `search` and `filter_apply` with `group: studio_d | studio_m | studio_size | studio_loc | studio_careers | studio_group` (group-by changes). Any new `pageShell()` call site MUST pass `analyticsContext` or its events land as `page_type: unknown`.
+**Page context:** `<body data-page-type=… data-section=… data-subsection=… data-tag-group=… data-tag-value=…>`, emitted by `analyticsAttrs()` in `page-shell.js` from the `analyticsContext` param. `page_type` ∈ `catalog | section | subsection | tag | sections-hub | tags-hub | studios | game-studios`. Studio pages emit `search` and `filter_apply` with `group: studio_d | studio_m | studio_size | studio_loc | studio_careers | studio_group` (group-by changes). Any new `pageShell()` call site MUST pass `analyticsContext` or its events land as `page_type: unknown`.
 
 **Rule:** page context is merged per-event, never `mixpanel.register()` — super properties persist in a cookie and leak the previous page's section onto the next.
 
@@ -299,6 +313,7 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 - Mobile tables stack into labelled cards via `data-label` (`scripts/lib/table-labels.js`); root font stays 16px on phones. TOC clicks preserve active search + filters (do not clear).
 - Per-section OG images with `: ` two-line layout.
 - `/studios/`: text cards in an auto-fill grid: name, HQ, color-coded discipline pills, size + "Est. YYYY (N yrs)" (age at build year), Works for, Notable, Also in (3 cities + "+N", full list in `title`), footer with Site/Careers/Reel text links + social icon links (MDI; Behance "Bē" and X are text marks). No description line, no logos. Filters: search (magnifier icon), Discipline chips, then Works for + People (size) chips sharing one row, tinted active chips, Location select, Group by (None / Region / Country / Size / Age, by HQ, decades oldest first), careers checkbox. Lazy: 48 cards per batch. Filter form is `hidden` until studios.json loads; no-JS visitors get the first 48 + a link to the data on GitHub. `#s-<slug>` deep links render through to the card. Mobile chip rows scroll sideways with a right-edge fade; grid is auto-fill minmax(min(280px,100%)) so tablets get 2 columns.
+- `/game-studios/`: same page template and JS. Segment pills (AAA/AA/Indie/Mobile/Co-dev/VR/UGC), rows Platforms / Part of / Games; filters Segment chips, Platforms + People chips, Location, Group by adds Parent company. /studios/ and /game-studios/ link to each other (intro line + bottom nav); site header + README meta line link both.
 - Material Design Icons via CDN (subset).
 - Back-to-top button (visible after 600 px scroll).
 - "Edit on GitHub" pill in each section H2.
@@ -342,17 +357,25 @@ left open, remove when done.
   monthly link run is its first independent check. Fab, aescripts, Shadertoy, Printables, Pond5 block bots (unverified, not added).
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 
-**Studios directory (built 2026-10-31, see §4b + CHANGELOG):**
-- 1,420 studios (2026-11-03). Goal is every studio worldwide. Still thin: mainland China 19 (sites refuse non-CN
-  fetches), Sri Lanka 2, Morocco/UAE/Ghana/Jordan/Ecuador/Venezuela 0-2, previs 14 (Previs Society site down), mocap 34.
-- founded 922/1,420, size 738/1,420. The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+**Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
+- `/studios/` 1,598 (75 countries; archviz 252, product viz 151) and `/game-studios/` 1,898 (75 countries) on
+  2026-11-03. Goal is every studio worldwide. Still thin: previs 14 (Previs Society site down, PLF/NVIZ dead),
+  mocap 36, Live2D/VTuber rigging 0 (only freelancers found), Morocco/Ghana/Jordan/Ecuador/Venezuela 0-2.
+- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,093 of 1,898), so
+  mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
+  LOW-confidence segment fixes (no live source). Size only 232/1,898. 84 Russia-HQ Wikidata studios skipped
+  (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
+  Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
+- 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,
+  but HQ/description not from site text (`notes:` says so).
+- `/studios/` founded 877/1,598, size 657/1,598. The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".
 - Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
   Beauty and the Bit, Frogwares.
 - ~200 studios carry agent provenance in `notes:` (size from team page, city from Guild list, 403 sites).
-- Page is ~36 KB gz (most of it the JSON-LD ItemList); studios.json ~257 KB gz. Past ~3,000 studios consider splitting the JSON.
+- Pages ~43/49 KB gz (studios/game-studios, mostly JSON-LD ItemList); studios.json ~311/297 KB gz. Past ~3,000 per directory consider splitting the JSON.
 - Not verified on a real phone (headless Chrome floors the viewport at 504 px).
 
 **Site / UX:**

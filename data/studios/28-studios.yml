@@ -247,21 +247,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:48:15.499Z'
-  - name: Sea Pony Studios
-    url: https://www.seaponystudios.com/
-    description: Game development studio.
-    hq:
-      city: Colombo
-      country: Sri Lanka
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2022
-    size: small
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:15.538Z'
   - name: CRESCENT
     url: https://www.crescentinc.co.jp/
     description: Motion capture company running the Digi-Cast Haneda studio and selling mocap systems, with content development services.
@@ -300,45 +285,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:48:15.620Z'
-  - name: A44 Games
-    url: https://www.a44games.com/
-    description: Game developer making action RPGs, staffed by game developers and VFX artists.
-    hq:
-      city: Wellington
-      country: New Zealand
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2013
-    notable:
-      - Ashen
-      - 'Flintlock: The Siege of Dawn'
-    social:
-      instagram: https://www.instagram.com/a44games
-      x: https://twitter.com/a44games
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:15.662Z'
-  - name: Black Salt Games
-    url: https://www.blacksaltgames.com/
-    description: Indie game developer behind the fishing horror game Dredge.
-    hq:
-      city: Christchurch
-      country: New Zealand
-    disciplines:
-      - games
-    markets:
-      - games
-    size: boutique
-    notable:
-      - Dredge
-    social:
-      instagram: https://instagram.com/blacksaltgames
-      x: https://twitter.com/BlackSaltGames
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:15.702Z'
   - name: Rayven Studios
     url: https://www.rayvenstudios.com/
     description: Concept art and illustration outsourcing studio for video games, TCGs and tabletop games.
@@ -360,45 +306,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:48:15.741Z'
-  - name: NEXON Games
-    url: https://www.nexongames.co.kr/
-    description: Game development studio of the Nexon group making PC, console and mobile online games.
-    hq:
-      city: Seoul
-      country: South Korea
-    disciplines:
-      - games
-    markets:
-      - games
-    careers: https://careers.nexon.com/recruit?corpCodes=AG
-    notable:
-      - Blue Archive
-      - The First Descendant
-      - V4
-      - Sudden Attack
-    social:
-      instagram: https://www.instagram.com/nexongames_official/
-      youtube: https://www.youtube.com/@nexongames.official
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:15.782Z'
-  - name: Ranida Games
-    url: https://www.ranidagames.com/
-    description: Indie game developer making web, mobile, PC and console games plus gamified training tools.
-    hq:
-      city: San Pedro
-      country: Philippines
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2015
-    size: small
-    social:
-      instagram: https://instagram.com/ranidagames
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:15.825Z'
   - name: Powerhouse Animation
     url: https://www.powerhouseanimation.com/
     description: 2D animation studio making TV series, game cinematics and ad spots.

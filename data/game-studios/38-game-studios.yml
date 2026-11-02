@@ -1,0 +1,807 @@
+studios:
+  - name: Spiral House
+    url: https://spiralhouse.co.uk/
+    description: Developer of PC Building Simulator 2.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - PC Building Simulator 2
+    founded: 1998
+    careers: https://spiralhouse.co.uk/jobs/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: ColePowered Games
+    url: https://colepowered.com/
+    description: Developer of Shadows of Doubt.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Shadows of Doubt
+    founded: 2011
+    size: boutique
+    careers: https://colepowered.com/careers/
+    social:
+      x: https://x.com/colejefferies
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Digital Sun
+    url: https://digitalsungames.com/
+    description: 'Developer of Moonlighter and The Mageseeker: A League of Legends Story.'
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Moonlighter
+      - 'The Mageseeker: A League of Legends Story'
+      - Cataclismo
+    careers: https://digitalsungames.com/jobs/
+    social:
+      x: https://x.com/digitalsungames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ubisoft Bucharest
+    url: https://www.ubisoft.com/en-us/company/careers/locations/bucharest
+    description: 'Co-development and porting studio with credits on Assassin''s Creed IV: Black Flag and Assassin''s Creed III, owned by Ubisoft.'
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Ubisoft
+    notable:
+      - 'Assassin''s Creed IV: Black Flag'
+      - Assassin's Creed III
+      - Watch Dogs 2
+      - Tom Clancy's Ghost Recon Wildlands
+    founded: 1992
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Super Mega Team
+    url: http://supermegateam.com/
+    description: Developer of Rise & Shine and The Knight Witch.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Rise & Shine
+      - The Knight Witch
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/super-awesome-hyper-dimensional-mega-team
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Exient
+    url: https://exient.com/
+    description: Oxford studio developing mobile and console games, including Angry Birds Go!.
+    hq:
+      city: Oxford
+      country: United Kingdom
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - console
+    notable:
+      - Angry Birds Go!
+      - Lemmings
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rockstar Leeds
+    url: https://www.rockstargames.com/careers/offices/rockstar-leeds
+    description: Rockstar Games studio that co-developed the PSP Grand Theft Auto Stories games.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Rockstar Games
+    notable:
+      - 'Grand Theft Auto: Liberty City Stories'
+      - 'Grand Theft Auto: Vice City Stories'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rockstar London
+    url: https://www.rockstargames.com/careers/offices/rockstar-london
+    description: Rockstar Games development studio in London working on Rockstar titles.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Rockstar Games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rockstar Dundee
+    url: https://www.rockstargames.com/careers/offices/rockstar-dundee
+    description: Rockstar Games studio in Dundee, formerly Ruffian Games, maker of Crackdown 2.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Rockstar Games
+    notable:
+      - Crackdown 2
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ubisoft Bordeaux
+    url: https://www.ubisoft.com/en-us/company/careers/locations/bordeaux
+    description: Ubisoft studio that led development of Assassin's Creed Mirage.
+    hq:
+      city: Bordeaux
+      country: France
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Assassin's Creed Mirage
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kolibri Games
+    url: https://www.kolibrigames.com/
+    description: Berlin mobile studio behind Idle Miner Tycoon, owned by Ubisoft.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Ubisoft
+    notable:
+      - Idle Miner Tycoon
+      - Idle Factory Tycoon
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sega Hardlight
+    url: https://www.hardlightstudio.com/
+    description: 'Sega mobile studio behind Sonic Dash and Sonic Forces: Speed Battle.'
+    hq:
+      city: Leamington Spa
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Sega
+    notable:
+      - Sonic Dash
+      - 'Sonic Forces: Speed Battle'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: ustwo games
+    url: https://ustwogames.co.uk/
+    description: 'London studio behind the Monument Valley series and Alba: A Wildlife Adventure.'
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Monument Valley
+      - Monument Valley 2
+      - 'Alba: A Wildlife Adventure'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Outplay Entertainment
+    url: https://outplay.com/
+    description: Independent mobile studio in Dundee behind Mystery Match.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Mystery Match
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Liquid Swords
+    url: https://www.liquidswords.com/
+    description: Stockholm studio making a third-person action adventure game.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Paladin Studios
+    url: https://paladinstudios.com/
+    description: Dutch studio in The Hague making casual games.
+    hq:
+      city: The Hague
+      country: Netherlands
+    segments:
+      - indie
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Jyamma Games
+    url: https://jyammagames.com/
+    description: 'Italian developer of the soulslike action RPG Enotria: The Last Song.'
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Enotria: The Last Song'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Tequila Works
+    url: https://tequilaworks.com/
+    description: 'Madrid developer of RiME, Deadlight and Song of Nunu: A League of Legends Story.'
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - RiME
+      - Deadlight
+      - The Sexy Brutale
+      - 'Song of Nunu: A League of Legends Story'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Reikon Games
+    url: https://reikongames.com/
+    description: Warsaw developer of the cyberpunk action game Ruiner.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Ruiner
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Incuvo
+    url: https://incuvo.com/
+    description: Polish VR studio behind Green Hell VR.
+    hq:
+      city: Katowice
+      country: Poland
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Green Hell VR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ironward
+    url: https://www.ironward.com/
+    description: Warsaw developer of The Red Solstice co-op squad tactics games.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'The Red Solstice 2: Survivors'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Robot Gentleman
+    url: https://robotgentleman.com/
+    description: Poznań developer of the 60 Seconds! survival games.
+    hq:
+      city: Poznań
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 60 Seconds!
+      - 60 Parsecs!
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Pingle Studio
+    url: https://pinglestudio.com/
+    description: Game development partner offering co-development, porting and art services.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rollic
+    url: https://www.rollicgames.com/
+    description: Istanbul mobile studio behind Color Block Jam and Tangle Master 3D, owned by Zynga.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Zynga
+    notable:
+      - Color Block Jam
+      - Tangle Master 3D
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Agave Games
+    url: https://agavegames.com/
+    description: Istanbul mobile puzzle studio.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Bigger Games
+    url: https://www.biggergames.com/
+    description: Istanbul mobile studio making casual games.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Good Job Games
+    url: https://www.goodjobgames.com/
+    description: Istanbul mobile puzzle developer behind Zen Match and Wonder Blast.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Zen Match
+      - Wonder Blast
+      - Match Villains
+    founded: 2017
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Zuuks Games
+    url: https://www.zuuks.com/
+    description: 'Turkish mobile developer of Bus Simulator: Ultimate and Truck Simulator: Ultimate.'
+    hq:
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Bus Simulator: Ultimate'
+      - 'Truck Simulator: Ultimate'
+    founded: 2014
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Spyke Games
+    url: https://spykegames.com/
+    description: Istanbul mobile puzzle studio behind Tile Busters.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Tile Busters
+      - Blitz Busters
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: MY.GAMES
+    url: https://my.games/
+    description: Amsterdam-based game company whose studios make War Robots and Hustle Castle.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - War Robots
+      - Hustle Castle
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kefir
+    url: https://kefirgames.com/
+    description: 'Mobile developer of Last Day on Earth: Survival.'
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Last Day on Earth: Survival'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Mundfish
+    url: https://mundfish.com/en
+    description: Developer of the first-person shooter Atomic Heart.
+    hq:
+      country: Cyprus
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Atomic Heart
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Owlcat Games
+    url: https://owlcat.games/
+    description: 'Developer of the Pathfinder CRPGs and Warhammer 40,000: Rogue Trader.'
+    hq:
+      country: Cyprus
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Pathfinder: Kingmaker'
+      - 'Pathfinder: Wrath of the Righteous'
+      - 'Warhammer 40,000: Rogue Trader'
+    founded: 2016
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Luden.io
+    url: https://luden.io/
+    description: 'Developer of educational programming games such as while True: learn().'
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+    notable:
+      - 'while True: learn()'
+      - InMind VR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Untold Games
+    url: https://untoldgames.com/
+    description: Italian studio making story-driven PC, console, mobile and VR games.
+    hq:
+      city: Ancona
+      country: Italy
+    segments:
+      - indie
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Carbon Studio
+    url: https://carbonstudio.pl/
+    description: 'Polish VR studio behind The Wizards and Warhammer Age of Sigmar: Tempestfall.'
+    hq:
+      country: Poland
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - The Wizards
+      - Hunt Together
+      - 'Warhammer Age of Sigmar: Tempestfall'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Starward Industries
+    url: https://www.starwardindustries.com/
+    description: Kraków developer of the sci-fi narrative game The Invincible.
+    hq:
+      city: Kraków
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Invincible
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Dodreams
+    url: https://www.dodreams.com/
+    description: Helsinki studio making party battler games such as Drive Ahead!.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Drive Ahead!
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Snowprint Studios
+    url: https://snowprintstudios.com/
+    description: 'Mobile developer of Warhammer 40,000: Tacticus and Legends of Solgard.'
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Stillfront
+    notable:
+      - 'Warhammer 40,000: Tacticus'
+      - Legends of Solgard
+      - Rivengard
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sock Monkey Studios
+    url: https://www.sockmonkeystudios.com/
+    description: Middlesbrough studio providing porting and co-development for console and PC games.
+    hq:
+      city: Middlesbrough
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Unfrozen
+    url: https://unfrozen.studio/
+    description: 'Kyiv developer of Iratus: Lord of the Dead and Heroes of Might and Magic: Olden Era.'
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Iratus: Lord of the Dead'
+      - 'Heroes of Might and Magic: Olden Era'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: SuperPlay
+    url: https://www.superplay.co/
+    description: Tel Aviv mobile developer of Dice Dreams and Domino Go, owned by Playtika.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Playtika
+    notable:
+      - Dice Dreams
+      - Domino Go
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Boolat Games
+    url: https://boolatgames.com/
+    description: Ukrainian studio offering game development and art services to publishers.
+    hq:
+      country: Ukraine
+    segments:
+      - co-dev
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Panteon
+    url: https://panteon.games/
+    description: Ankara mobile game developer founded at ODTU Teknokent in 2012.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Trailmix
+    url: https://www.trailmixgames.com/
+    description: London mobile studio behind Love & Pies, owned by Supercell.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Supercell
+    notable:
+      - Love & Pies
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Netspeak Games
+    url: https://netspeakgames.com/
+    description: London studio making wholesome mobile games, including the kids play app Pipkin.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pipkin
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: BeamNG
+    url: https://beamng.com/
+    description: Developer of the soft-body physics vehicle simulator BeamNG.drive.
+    hq:
+      city: Bremen
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - BeamNG.drive
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Toukana Interactive
+    url: https://www.toukana.com/
+    description: Berlin indie studio behind the landscape puzzle game Dorfromantik.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dorfromantik
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ripstone
+    url: https://ripstone.com/
+    description: Developer and publisher of Chess Ultra and Pure Chess.
+    hq:
+      city: Liverpool
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2011
+    notable:
+      - Chess Ultra
+      - Pure Chess
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'

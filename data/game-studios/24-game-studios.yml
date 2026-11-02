@@ -1,0 +1,955 @@
+studios:
+  - name: Metacore Games
+    url: https://metacoregames.com/
+    description: Mobile game developer behind Merge Mansion.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Merge Mansion
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/metacoregames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Undercoders
+    url: https://www.undercoders.com/
+    description: Developer of Denshattack! and Superola Champion Edition.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Denshattack!
+      - Superola Champion Edition
+      - Treasures of the Aegean
+      - 'SuperEpic: The Entertainment War'
+    founded: 2005
+    social:
+      youtube: https://www.youtube.com/channel/UCwZ_pACXOoxvPoRC7BQHAwg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Yellow Dot
+    url: https://www.yellowdotgames.com/
+    description: Developer of Let's Cook Together and Them Bombs.
+    hq:
+      city: Gdańsk
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Let's Cook Together
+      - Them Bombs
+    social:
+      x: https://x.com/YellowDot_Games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Art Games Studio
+    url: https://art-games.com/
+    description: 'Developer of WW2: Bunker Simulator and Negative: The Way of Shinobi.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'WW2: Bunker Simulator'
+      - 'Negative: The Way of Shinobi'
+      - Chef's Tail
+      - Pooplers
+    social:
+      instagram: https://www.instagram.com/artgamesstudioofficial
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sunlight Games
+    url: https://www.sunlight-games.com/
+    description: Developer of Gold Rush! 2 and Two Hundred Ways.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Gold Rush! 2
+      - Two Hundred Ways
+      - Gangsters 1920
+      - Game Tycoon 2
+    social:
+      instagram: https://www.instagram.com/sunlightgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kaneda Games
+    url: https://www.kaneda-games.com/
+    description: Developer of Smoots Crazy Wave and Holmes Sherlock & Mycroft.
+    hq:
+      city: Gavà
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Smoots Crazy Wave
+      - Holmes Sherlock & Mycroft
+      - Smoots Summer Games
+      - Smoots Golf
+    social:
+      youtube: https://www.youtube.com/channel/UCUYEYF3byDF8B9SM0eM9l5w
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Pixelbite
+    url: https://www.pixelbite.se/
+    description: Mobile game developer behind Space Marshals and Raging Thunder 2.
+    hq:
+      city: Helsingborg
+      country: Sweden
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Space Marshals
+      - Raging Thunder 2
+      - Cypher 007
+      - Space Marshals 3
+    social:
+      youtube: https://www.youtube.com/channel/UCTUV8T7f7XVdB8icWj9DTSQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Voxler
+    url: https://voxler.thqnordic.com/
+    description: Developer of Let's Sing 2018 and Let's Sing 2017, owned by Embracer Group.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Embracer Group
+    notable:
+      - Let's Sing 2018
+      - Let's Sing 2017
+      - Let's Sing 2016
+      - Let's Sing 2015
+    founded: 2005
+    social:
+      youtube: https://www.youtube.com/channel/UClXUcgEK_YGJXEQm39yXcDQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Jutsu Games
+    url: https://jutsugames.com/
+    description: Developer of 911 Operator and Infection Free Zone.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 911 Operator
+      - Infection Free Zone
+      - Rustler
+      - 112 Operator
+    social:
+      x: https://x.com/jutsugames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: BreakFirst
+    url: https://www.breakfirst.games/
+    description: 'Developer of How 2 Escape: Lost Submarine and Instant Sports Paradise.'
+    hq:
+      city: Lyon
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'How 2 Escape: Lost Submarine'
+      - Instant Sports Paradise
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/breakfirst
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Paranoid Interactive
+    url: https://paranoidinteractive.net/
+    description: Developer of Frozenheim.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Frozenheim
+    careers: https://paranoidinteractive.net/career/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: The Outer Zone
+    url: https://theouterzone.dk/
+    description: Developer of Mind Scanners.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mind Scanners
+    social:
+      x: https://x.com/outerzonetweets
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Brave At Night
+    url: https://www.braveatnight.co.uk/
+    description: 'Developer of Yes, Your Grace and Yes, Your Grace: Snowfall.'
+    hq:
+      city: Broadstairs
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Yes, Your Grace
+      - 'Yes, Your Grace: Snowfall'
+    founded: 2015
+    careers: https://www.braveatnight.co.uk/jobs
+    social:
+      x: https://x.com/BraveAtNight
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Porcelain Fortress
+    url: http://www.porcelainfortress.com/
+    description: Developer of No Time to Relax.
+    hq:
+      city: Reykjavík
+      country: Iceland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - No Time to Relax
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/porcelainfortress
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: TriBit Studio
+    url: http://www.tribitstudio.com/
+    description: Developer of A Western Drama.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - A Western Drama
+    social:
+      x: https://x.com/TriBit_studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: SleepTeam
+    url: https://www.sleepteam.dev/
+    description: Developer of Bulánci and Bulánci 2.
+    hq:
+      city: Dolní Město
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Bulánci
+      - Bulánci 2
+    founded: 1996
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Monokel
+    url: https://www.monokel.de/
+    description: Developer of White Shadows.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - White Shadows
+    social:
+      instagram: https://www.instagram.com/monokel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Stormling Studios
+    url: https://stormlingstudios.com/
+    description: Developer of Transient.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Transient
+    social:
+      instagram: https://www.instagram.com/stormling_studios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Vivid Games
+    url: https://vividgames.com/
+    description: Developer of Space Pioneer and Real Boxing 2.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Space Pioneer
+      - Real Boxing 2
+      - Real Boxing
+    careers: https://vividgames.com/jobs
+    social:
+      x: https://x.com/Vivid_Games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Crazysoft
+    url: https://www.crazysoft.gr/index.php
+    description: 'Developer of Zeus Quest: The Rebirth of Earth and Crazy Athletics: Summer Sports and Games.'
+    hq:
+      city: Nicosia
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Zeus Quest: The Rebirth of Earth'
+      - 'Crazy Athletics: Summer Sports and Games'
+      - Educational Games for Kids
+      - Classic Snake Adventures
+    social:
+      youtube: https://www.youtube.com/channel/UC97qyEhtV0WfeK7izb3egYw
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Lockwood Publishing
+    url: https://lockwoodpublishing.com/
+    description: Mobile game developer behind Avakin Life.
+    hq:
+      city: Nottingham
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Avakin Life
+    founded: 2007
+    careers: https://www.lockwoodpublishing.com/careers
+    social:
+      instagram: https://www.instagram.com/lockwoodlkwd
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Asylum Square
+    url: https://asylumsquare.com/
+    description: Developer of Pirate's Gold and Hammer Kid.
+    hq:
+      city: Alpirsbach
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pirate's Gold
+      - Hammer Kid
+      - Farmquest
+    careers: https://asylumsquare.com/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Drageus Games
+    url: https://drageusgames.com/
+    description: Developer of Stay Safe and Mech Rage.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Stay Safe
+      - Mech Rage
+      - Mad Carnage
+      - Island Maze
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Fatbot Games
+    url: https://fatbot-games.com/
+    description: Developer of Vaporum and Gravelord.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Vaporum
+      - Gravelord
+      - 'Vaporum: Lockdown'
+    careers: https://fatbot-games.com/category/jobs/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Chibig
+    url: https://chibig.com/
+    description: Developer of Mika and the Witch's Mountain and Creatures of Ava.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mika and the Witch's Mountain
+      - Creatures of Ava
+      - 'Ankora: Lost Days'
+      - Stories of Mara
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/chibig.studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Super PowerUp Games
+    url: https://superpowerup.com/
+    description: Developer of Speedway Racing and Rally Rock 'N Racing.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Speedway Racing
+      - Rally Rock 'N Racing
+      - Basketball Pinball
+      - Touchdown Pinball
+    social:
+      youtube: https://www.youtube.com/channel/UCRvlQPF2CtaHkw-paL4Y90Q
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Adria Games
+    url: https://adriagames.com/
+    description: Developer of Epifrog.
+    hq:
+      city: Bydgoszcz
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Epifrog
+    social:
+      instagram: https://www.instagram.com/adriagamespl
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: DigiTales Interactive
+    url: https://digitales.games/
+    description: Developer of Between Horizons and Lacuna.
+    hq:
+      city: Saarbrücken
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Between Horizons
+      - Lacuna
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/digitalesinteractive
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Infinite State Games
+    url: https://infinitestategames.com/
+    description: Developer of Don't Die, Mr. Robot! DX and Horatio Goes Snowboarding.
+    hq:
+      city: Tonbridge
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Don't Die, Mr. Robot! DX
+      - Horatio Goes Snowboarding
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/infinitestategames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: ClockStone
+    url: https://clockstone.com/wp/
+    description: 'Developer of Bridge Constructor Portal and Avencast: Rise of the Mage.'
+    hq:
+      city: Innsbruck
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Bridge Constructor Portal
+      - 'Avencast: Rise of the Mage'
+      - LEGO Bricktales
+      - Bridge Constructor Stunts
+    founded: 2006
+    careers: https://clockstone.com/wp/jobs/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Higgs Games
+    url: https://www.higgs-games.com/de
+    description: Developer of Moorhuhn Jump and Run 'Traps and Treasures'.
+    hq:
+      city: Zorneding
+      country: Germany
+    segments:
+      - indie
+    notable:
+      - Moorhuhn Jump and Run 'Traps and Treasures'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: naptime.games
+    url: https://naptime.games/
+    description: 'Developer of Planet Quiz: Learn & Discover.'
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - console
+    notable:
+      - 'Planet Quiz: Learn & Discover'
+    social:
+      instagram: https://www.instagram.com/naptime.games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: White Keyframe
+    url: https://whitekeyframe.de/
+    description: Developer of Narrow Escape.
+    hq:
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Narrow Escape
+    founded: 2019
+    social:
+      youtube: https://www.youtube.com/channel/UCV0FIFyMqftjWZ2pBW2_dGg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Firi Games
+    url: https://firigames.com/
+    description: Developer of Phoenix 2 and Pocket Quest.
+    hq:
+      city: The Hague
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Phoenix 2
+      - Pocket Quest
+      - Phoenix HD
+      - Flare Elite
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/firi.games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: FM Studio
+    url: https://www.fm-studio.net/
+    description: Developer of Forgotten Hill Tales and Forgotten Hill First Steps.
+    hq:
+      city: Parma
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Forgotten Hill Tales
+      - Forgotten Hill First Steps
+      - Forgotten Hill Disillusion
+      - Forgotten Hill Mementoes
+    social:
+      instagram: https://www.instagram.com/fmstudio.gamedev
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Northplay
+    url: https://www.northplay.co/
+    description: Developer of Super Planet Life and Headland.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Super Planet Life
+      - Headland
+      - Conduct DELUXE!
+    social:
+      x: https://x.com/heynorthplay
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Drakkar Dev
+    url: http://www.drakkardev.com/
+    description: Developer of Mirage 7 and Blackwind.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mirage 7
+      - Blackwind
+      - War Tech Fighters
+      - Clash of Puppets
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Origamihero Games
+    url: https://www.origamihero.com/ori6/
+    description: Developer of Drowning Cross and Unstrong Legacy.
+    hq:
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Drowning Cross
+      - Unstrong Legacy
+      - Orcen Axe
+      - 'Unstrong: Space Calamity'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Repixel8
+    url: https://repixel8.com/
+    description: 'Developer of Neon Apex: Beyond the Limit and Formula Retro Racing - World Tour.'
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Neon Apex: Beyond the Limit'
+      - Formula Retro Racing - World Tour
+      - Gravity Chase
+      - Formula Retro Racing
+    social:
+      instagram: https://www.instagram.com/repixel8
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: 2Awesome Studio
+    url: https://www.2awesomestudio.com/
+    description: Developer of Aeon Drive and Dimension Drive.
+    hq:
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Aeon Drive
+      - Dimension Drive
+    founded: 2014
+    careers: https://www.2awesomestudio.com/careers/
+    social:
+      x: https://x.com/2AwesomeStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rocket Vulture
+    url: https://www.rocketvulture.com/
+    description: Developer of Cannibal Cuisine and Broken Bots.
+    hq:
+      city: Brussels
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cannibal Cuisine
+      - Broken Bots
+    social:
+      youtube: https://www.youtube.com/channel/UCLK1vzrvxBKEXnHBCH5q_nQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: poncle
+    url: https://poncle.games/
+    description: Developer of the roguelite survival game Vampire Survivors.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Vampire Survivors
+    founded: 2022
+    social:
+      x: https://x.com/poncle_games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Acram Digital
+    url: https://acram.eu/
+    description: 'Developer of Unmatched: Digital Edition and Concordia: Digital Edition.'
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Unmatched: Digital Edition'
+      - 'Concordia: Digital Edition'
+      - 'Charterstone: Digital Edition'
+      - 'Istanbul: Digital Edition'
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sprakelsoft
+    url: https://www.sprakelsoft.com/
+    description: Developer of Croc's World Construction Kit 2 and 16-Bit Soccer.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Croc's World Construction Kit 2
+      - 16-Bit Soccer
+      - Croc's World
+    social:
+      x: https://x.com/sprakelsoft
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Xform Games
+    url: http://www.xform.nl/
+    description: Developer of Rally Point 2 and Rally Point 3.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Rally Point 2
+      - Rally Point 3
+      - Rally Point
+      - 'Race Day Rampage: Streamer Edition'
+    founded: 2004
+    social:
+      x: https://x.com/XformGameDev
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Red Ego Games
+    url: https://redego.net/
+    description: Developer of Re:Turn 2 - Runaway and Re:Turn - One Way Trip.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Re:Turn 2 - Runaway
+      - Re:Turn - One Way Trip
+    founded: 2020
+    social:
+      youtube: https://www.youtube.com/channel/UCE9aARusY_CdNfSjOgZ6Nhg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Gamedia
+    url: https://www.gamedia.nl/
+    description: 'Developer of Treasure Temples and HIX: Puzzle Islands.'
+    hq:
+      city: Alkmaar
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Treasure Temples
+      - 'HIX: Puzzle Islands'
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/gamediagames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Hermes Interactive
+    url: https://www.rhombicogames.com/
+    description: Developer of Automachef and Power to the People.
+    hq:
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Automachef
+      - Power to the People
+      - Winds of Trade
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Valiant Game Studio
+    url: http://valiant.se/
+    description: 'Developer of Pendula Swing: The Complete Journey and Kaleidocraft.'
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Pendula Swing: The Complete Journey'
+      - Kaleidocraft
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/valiantgamestudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Iko
+    url: https://i-k-o.fr/
+    description: Developer of Inua – A Story in Ice and Time.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Inua – A Story in Ice and Time
+    founded: 2009
+    social:
+      x: https://x.com/ikoprod
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'

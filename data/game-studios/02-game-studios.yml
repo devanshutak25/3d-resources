@@ -1,0 +1,1196 @@
+studios:
+  - name: Pathea Games
+    url: https://www.patheagames.com/
+    description: Independent game studio in Chongqing making 3D life-sim and sandbox RPGs for PC and console.
+    hq:
+      city: Chongqing
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2010
+    notable:
+      - My Time at Portia
+      - My Time at Sandrock
+    social:
+      instagram: https://www.instagram.com/patheagames/
+      x: https://twitter.com/PatheaGames
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: NetEase Games
+    url: https://www.neteasegames.com/
+    description: Game division of NetEase in Hangzhou developing PC, mobile and console titles through internal studios in China and abroad.
+    hq:
+      city: Hangzhou
+      country: China
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Seongnam
+        country: South Korea
+      - city: Pasadena
+        country: United States
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: NetEase
+    size: large
+    careers: https://hr.163.com/job-list.html?lang=en
+    notable:
+      - Marvel Rivals
+      - Identity V
+      - Onmyoji
+    social:
+      youtube: https://www.youtube.com/channel/UC7fPAi77lcCWFUc94UHyfGg
+      x: https://twitter.com/NetEaseGames_EN
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Size from parent NetEase (25,423 employees, Mar 2026).
+  - name: Quantic Dream
+    url: https://www.quanticdream.com/en
+    description: Paris game developer and publisher making narrative-driven games, with a second studio in Montreal.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Montreal
+        country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: NetEase
+    founded: 1997
+    careers: https://www.quanticdream.com/en/careers
+    notable:
+      - 'Detroit: Become Human'
+      - Heavy Rain
+      - 'Beyond: Two Souls'
+    social:
+      instagram: https://www.instagram.com/quanticdreamgames
+      youtube: https://www.youtube.com/channel/UCf1dGULY0opzBbE3XEXWvWg
+      x: https://twitter.com/Quantic_Dream
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: DON'T NOD
+    url: https://dont-nod.com/en/
+    description: Paris game developer and publisher of story-driven games, with a second studio in Montreal.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Montreal
+        country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    founded: 2008
+    careers: https://dont-nod.com/en/careers/
+    notable:
+      - Life Is Strange
+      - Remember Me
+      - Aphelion
+    social:
+      instagram: https://www.instagram.com/dontnod_ent/
+      x: https://twitter.com/DONTNOD_Ent
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: MachineGames
+    url: https://www.machinegames.com/
+    description: Uppsala game developer owned by ZeniMax, making first-person action games including the modern Wolfenstein series.
+    hq:
+      city: Uppsala
+      country: Sweden
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Microsoft
+    founded: 2009
+    careers: https://www.machinegames.com/careers
+    notable:
+      - 'Wolfenstein: The New Order'
+      - 'Wolfenstein II: The New Colossus'
+      - Indiana Jones and the Great Circle
+    social:
+      linkedin: https://www.linkedin.com/company/machinegames
+      x: https://twitter.com/machinegames
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: MercurySteam
+    url: https://www.mercurysteam.com/
+    description: Game developer near Madrid making action games for console publishers, including recent Metroid titles.
+    hq:
+      city: San Sebastián de los Reyes
+      country: Spain
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Metroid Dread
+      - 'Castlevania: Lords of Shadow'
+      - 'Metroid: Samus Returns'
+    social:
+      instagram: https://www.instagram.com/mercurysteam_entertainment/
+      youtube: https://www.youtube.com/channel/UCT56v9xTV0UnQY63I840Saw
+      x: https://x.com/mercurysteam
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Warhorse Studios
+    url: https://warhorsestudios.cz/
+    description: Prague game developer making open-world historical RPGs, owned by Plaion since 2019.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Embracer Group
+    founded: 2011
+    notable:
+      - 'Kingdom Come: Deliverance'
+      - 'Kingdom Come: Deliverance II'
+    social:
+      instagram: https://www.instagram.com/warhorsestudios
+      youtube: https://youtube.com/warhorsestudios
+      x: https://x.com/WarhorseStudios
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Bohemia Interactive
+    url: https://www.bohemia.net/en
+    description: Independent Czech game developer and publisher in Prague making military simulation and survival games.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    founded: 1999
+    careers: https://careers.bohemia.net/en
+    notable:
+      - Arma Reforger
+      - DayZ
+      - 'Operation Flashpoint: Cold War Crisis'
+    social:
+      instagram: https://www.instagram.com/bohemiainteractive
+      linkedin: https://www.linkedin.com/company/bohemiainteractive
+      youtube: https://www.youtube.com/user/BohemiaInteract
+      x: https://x.com/bohemiainter
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: People Can Fly
+    url: https://peoplecanfly.com/
+    description: 'Warsaw game developer making action games for major publishers, from Painkiller to Gears of War: E-Day.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2002
+    careers: https://careers.smartrecruiters.com/PeopleCanFly
+    notable:
+      - 'Gears of War: E-Day'
+      - Outriders
+      - Bulletstorm
+    social:
+      instagram: https://www.instagram.com/peoplecanfly/
+      linkedin: https://www.linkedin.com/company/people-can-fly
+      youtube: https://www.youtube.com/channel/UCnePaU9Enysi9vnl2aNbG1Q
+      x: https://twitter.com/PCFPeopleCanFly
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Flying Wild Hog
+    url: https://flyingwildhog.com/
+    description: Warsaw game developer making fast action games, from Hard Reset and Shadow Warrior to Trek to Yomi.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - aa
+    founded: 2009
+    careers: https://flyingwildhog.com/careers/
+    notable:
+      - Shadow Warrior
+      - Trek to Yomi
+      - Hard Reset
+    social:
+      instagram: https://www.instagram.com/flying_wild_hog/
+      x: https://twitter.com/flying_wild_hog
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: 11 bit studios
+    url: https://11bitstudios.com/
+    description: Warsaw game developer and publisher making story-driven strategy and survival games.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2010
+    careers: https://11bitstudios.com/jobs/
+    notable:
+      - This War of Mine
+      - Frostpunk
+      - The Alters
+    social:
+      instagram: https://www.instagram.com/11bitstudios/
+      youtube: https://www.youtube.com/11bitstudios/
+      x: https://twitter.com/11bitstudios
+    added_at: '2026-10-31T05:09:10.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: IO Interactive
+    url: https://ioi.dk/
+    description: Copenhagen game developer and publisher of the Hitman series and 007 First Light, with studios in Malmö, Barcelona and Brighton.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    offices:
+      - city: Malmö
+        country: Sweden
+      - city: Barcelona
+        country: Spain
+      - city: Brighton
+        country: United Kingdom
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - vr
+    careers: https://ioi.dk/careers
+    notable:
+      - Hitman
+      - 007 First Light
+    social:
+      instagram: https://www.instagram.com/ioi_studios
+      linkedin: https://www.linkedin.com/company/iointeractive/
+      x: https://twitter.com/IOInteractive
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Arrowhead Game Studios
+    url: https://www.arrowheadgamestudios.com/
+    description: Stockholm game developer making co-op action games, including Helldivers 2.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    founded: 2008
+    careers: https://jobs.arrowheadgamestudios.com/
+    notable:
+      - Helldivers 2
+    social:
+      instagram: https://instagram.com/arrowheadgamestudios/
+      x: https://twitter.com/arrowheadgs
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Avalanche Studios Group
+    url: https://avalanchestudios.com/
+    description: Stockholm game developer and publisher building open-world games on its own Apex engine.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    founded: 2003
+    careers: https://avalanchestudios.com/careers
+    notable:
+      - Just Cause 3
+      - Mad Max
+      - 'theHunter: Call of the Wild'
+      - Generation Zero
+    social:
+      instagram: https://www.instagram.com/avalanchestudios/
+      youtube: https://www.youtube.com/channel/UCSP5bAmRzaAXPcxnJablgYw
+      x: https://twitter.com/avalanchesweden
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Embark Studios
+    url: https://www.embark-studios.com/
+    description: Stockholm game developer owned by Nexon, making online action games such as The Finals and ARC Raiders.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Nexon
+    founded: 2018
+    careers: https://careers.embark-studios.com/
+    notable:
+      - The Finals
+      - ARC Raiders
+    social:
+      linkedin: https://www.linkedin.com/company/12648322/
+      x: https://x.com/embarkstudios
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Frozenbyte
+    url: https://www.frozenbyte.com/
+    description: Helsinki game developer making games since 2001, with around 80 staff.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2001
+    careers: https://www.frozenbyte.com/careers
+    notable:
+      - Trine
+      - 'Trine 4: The Nightmare Prince'
+      - Shadowgrounds
+      - Nine Parchments
+    social:
+      instagram: https://instagram.com/frozenbytegames
+      youtube: https://www.youtube.com/user/frozenbytegames
+      x: https://twitter.com/Frozenbyte
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Funcom
+    url: https://www.funcom.com/
+    description: Oslo developer and publisher of online games, with studios in North Carolina, Lisbon and Bucharest.
+    hq:
+      city: Oslo
+      country: Norway
+    offices:
+      - city: Lisbon
+        country: Portugal
+      - city: Bucharest
+        country: Romania
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    careers: https://www.funcom.com/careers-in-funcom/
+    notable:
+      - Conan Exiles
+      - Age of Conan
+      - The Secret World
+    social:
+      linkedin: https://www.linkedin.com/company/funcom
+      youtube: https://www.youtube.com/user/Funcom
+      x: https://twitter.com/funcom
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Playdead
+    url: https://playdead.com/
+    description: Independent Copenhagen game developer and publisher of atmospheric puzzle-platformers Limbo and Inside.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2006
+    careers: https://playdead.com/jobs
+    notable:
+      - Limbo
+      - Inside
+    social:
+      instagram: https://www.instagram.com/playdeadgames/
+      linkedin: https://www.linkedin.com/company/2250376/
+      x: https://x.com/Playdead/
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Milestone
+    url: https://milestone.it/
+    description: Milan game developer specialising in racing games, with MotoGP, Ride and Hot Wheels titles.
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Embracer Group
+    founded: 1994
+    careers: https://milestone.it/careers/
+    notable:
+      - MotoGP 26
+      - Ride 6
+      - Screamer
+    social:
+      instagram: https://www.instagram.com/milestone_team/
+      linkedin: https://www.linkedin.com/company/milestone-s-r-l-/
+      youtube: https://www.youtube.com/channel/UCy9_4oCluE1Cih3QjQWLjdg
+      x: https://x.com/milestoneitaly
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Nixxes
+    url: https://www.nixxes.com/
+    description: Utrecht PlayStation Studios team porting and co-developing PlayStation games for PC.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    parent: Sony Interactive Entertainment
+    founded: 1999
+    careers: https://www.nixxes.com/jobs/
+    notable:
+      - Marvel's Spider-Man Remastered (PC)
+      - Horizon Forbidden West (PC)
+      - 'Ratchet & Clank: Rift Apart (PC)'
+      - Rise of the Tomb Raider (PC)
+    social:
+      linkedin: https://www.linkedin.com/company/nixxessoftware
+      x: https://x.com/NixxesSoftware
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Amber
+    url: https://amberstudio.com/
+    description: Game development services company from Bucharest offering full development, co-development, art production, live ops and QA for publishers.
+    hq:
+      city: Bucharest
+      country: Romania
+    offices:
+      - city: Botoșani
+        country: Romania
+      - city: San Francisco
+        country: United States
+      - city: Montreal
+        country: Canada
+      - city: Manila
+        country: Philippines
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: large
+    founded: 2013
+    careers: https://jobs.jobvite.com/amberstudiocareers/
+    notable:
+      - 2XKO
+    social:
+      instagram: https://www.instagram.com/amberstudioglobal
+      linkedin: https://www.linkedin.com/company/amber/
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Mad Head Games
+    url: https://www.madheadgames.com/
+    description: 'Novi Sad game developer making action and horror games, including Scars Above and Hellraiser: Revival.'
+    hq:
+      city: Novi Sad
+      country: Serbia
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    size: mid
+    founded: 2011
+    careers: https://careers.madheadgames.com/
+    notable:
+      - Scars Above
+      - 'Clive Barker''s Hellraiser: Revival'
+    social:
+      instagram: https://www.instagram.com/madheadgames/
+      linkedin: https://www.linkedin.com/company/mad-head-games
+      youtube: https://www.youtube.com/user/MadHeadGames
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Wikipedia redirects Mad Head Games to Saber Interactive.
+  - name: Stepico
+    url: https://stepico.com/
+    description: Lviv game development company offering custom and mobile game production, porting, prototyping and QA for partners.
+    hq:
+      city: Lviv
+      country: Ukraine
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+    size: mid
+    founded: 2014
+    careers: https://stepico.com/careers/
+    social:
+      instagram: https://www.instagram.com/stepicogames/
+      linkedin: https://www.linkedin.com/company/stepico
+      artstation: https://www.artstation.com/stepicogames
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Nordeus
+    url: https://nordeus.com/
+    description: Belgrade mobile games company making sports titles such as Top Eleven and Golf Rival for players worldwide.
+    hq:
+      city: Belgrade
+      country: Serbia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Take-Two Interactive
+    careers: https://nordeus.com/careers/
+    notable:
+      - Top Eleven
+      - Golf Rival
+    social:
+      instagram: https://www.instagram.com/lifeatnordeus/
+      linkedin: https://www.linkedin.com/company/954057/
+      youtube: https://www.youtube.com/user/lifeinnordeus
+      x: https://twitter.com/Nordeus
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Cyborn
+    url: https://www.cyborn.be/
+    description: Antwerp studio developing VR and mixed reality games, with game and XR services and an in-house motion capture and animation studio.
+    hq:
+      city: Antwerp
+      country: Belgium
+    segments:
+      - vr
+    platforms:
+      - vr
+    social:
+      linkedin: https://www.linkedin.com/company/cyborn/
+      youtube: https://www.youtube.com/c/cyborn/
+      x: https://twitter.com/cyborn3d/
+    added_at: '2026-10-31T05:09:10.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Wildlife Studios
+    url: https://www.wildlifestudios.com/
+    description: São Paulo mobile game developer behind free-to-play titles such as Sniper 3D, Tennis Clash and Zooba.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: large
+    founded: 2011
+    careers: https://careers.wildlifestudios.com/
+    notable:
+      - Sniper 3D
+      - Tennis Clash
+      - Zooba
+    social:
+      instagram: https://www.instagram.com/WildlifeStudios
+      linkedin: https://www.linkedin.com/company/wildlife-studios
+      youtube: https://www.youtube.com/channel/UCgYHGkTMJ6iInwyNWOCmbkA
+      x: https://twitter.com/wildlifestudios
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: Site footer uses a US mailing address; LinkedIn HQ is São Paulo. Offices in US, Brazil and Finland.
+  - name: ACE Team
+    url: https://www.aceteam.cl/
+    description: Santiago game developer making stylized action and strategy titles such as Zeno Clash, Rock of Ages and The Eternal Cylinder.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    size: small
+    notable:
+      - Zeno Clash
+      - Rock of Ages
+      - The Eternal Cylinder
+    social:
+      instagram: https://www.instagram.com/ace_team_software/
+      youtube: https://www.youtube.com/user/ACETeamSoftware
+      x: https://twitter.com/theaceteam
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Ironhide Game Studio
+    url: https://www.ironhidegames.com/
+    description: Uruguayan indie game studio making hand-drawn strategy games such as the Kingdom Rush tower defense series.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    size: mid
+    founded: 2010
+    careers: https://www.ironhidegames.com/Careers
+    notable:
+      - Kingdom Rush
+      - Iron Marines
+      - Junkworld
+    social:
+      youtube: https://www.youtube.com/user/ironhidegames
+      x: https://twitter.com/ironhidegames
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Mad Hook
+    url: https://www.madhook.io/
+    description: 'Amman independent game studio making console and mobile action and drifting games such as Amer: Cop Pursuit and Highway Drifter.'
+    hq:
+      city: Amman
+      country: Jordan
+    segments:
+      - indie
+    platforms:
+      - console
+      - mobile
+    size: small
+    founded: 2018
+    notable:
+      - 'Amer: Cop Pursuit'
+      - 'Highway Drifter: Hajwala Simulator'
+      - Amer Fighting
+    social:
+      instagram: https://www.instagram.com/madhookgames/
+      youtube: https://www.youtube.com/channel/UCtEIh1ONbZYn52eFkeIwEew
+      x: https://twitter.com/madhookgames
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Maysalward
+    url: https://www.maysalward.com/
+    description: Amman mobile game developer adapting card and board games like Trix, Tarneeb and Dominoes for Arab players, plus brand games.
+    hq:
+      city: Amman
+      country: Jordan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: small
+    founded: 2003
+    careers: https://maysalward.com/work-with-us
+    notable:
+      - Dominoes Pro
+      - King of Hearts
+    social:
+      instagram: https://www.instagram.com/maysalward
+      youtube: https://www.youtube.com/@Maysalwardgames
+      x: http://www.x.com/maysalward
+    added_at: '2026-10-31T05:09:10.960Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+  - name: Sea Monster Entertainment
+    url: https://www.seamonster.digital/
+    description: Cape Town studio building marketing and learning games, including web games and Roblox experiences, for brands and nonprofits.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - co-dev
+      - ugc
+    platforms:
+      - web
+    size: small
+    founded: 2011
+    careers: https://www.seamonster.digital/careers
+    social:
+      instagram: https://www.instagram.com/seamonster_entertainment/
+      linkedin: https://www.linkedin.com/company/sea-monster/
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: seamonster.co.za redirects to seamonster.digital.
+  - name: Free Lives
+    url: https://www.freelives.net/
+    description: Cape Town indie game developer making action and simulation games such as Broforce, Gorn, Terra Nil and Anger Foot.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - indie
+    size: small
+    founded: 2012
+    notable:
+      - Broforce
+      - Terra Nil
+      - Gorn
+    social:
+      instagram: https://www.instagram.com/freelives_official/
+      youtube: https://www.youtube.com/c/freelivesgames
+      x: https://twitter.com/freelives
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: LinkedIn says founded 2011; Wikipedia says April 2012.
+  - name: Steer Studios
+    url: https://www.steerstudios.com/
+    description: Riyadh game development studio, part of Savvy Games Group, building original games with an international and regional team.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - aa
+    parent: Savvy Games Group
+    size: mid
+    careers: https://www.steerstudios.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/steer-studios
+      youtube: https://www.youtube.com/@SteerStudios
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: UMX Studio
+    url: https://umxstudio.co/
+    description: Riyadh mobile game developer making driving and dune-bashing games with Saudi themes, such as King of Steering.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: mid
+    founded: 2014
+    careers: https://umxstudio.co/career-new/
+    notable:
+      - King of Steering
+      - Drift X
+    social:
+      instagram: https://www.instagram.com/umxstudio/
+      linkedin: https://www.linkedin.com/company/umxstudio
+      youtube: https://www.youtube.com/@UMXStudio
+      x: https://x.com/UMXStudio
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Plarium
+    url: https://company.plarium.com/
+    description: 'Herzliya game developer and publisher making mobile and PC titles such as RAID: Shadow Legends and Mech Arena.'
+    hq:
+      city: Herzliya
+      country: Israel
+    offices:
+      - city: Lviv
+        country: Ukraine
+      - city: Kharkiv
+        country: Ukraine
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    parent: MTG
+    size: large
+    founded: 2009
+    careers: https://plarium.com/en/career/
+    notable:
+      - 'RAID: Shadow Legends'
+      - Mech Arena
+      - 'Vikings: War of Clans'
+    social:
+      linkedin: https://www.linkedin.com/company/plarium/
+    added_at: '2026-10-31T05:09:10.961Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+  - name: Usiku Games
+    url: https://www.usiku.games/
+    description: Nairobi game studio making mobile and PC games with African themes, plus impact and brand games for partners such as CGIAR.
+    hq:
+      city: Nairobi
+      country: Kenya
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - pc
+      - mobile
+    size: small
+    founded: 2018
+    notable:
+      - 'Wahenga: The Lost Ancestors'
+      - 'Electric Blue: Gecko Dash'
+      - Shamba Showdown
+    social:
+      linkedin: https://www.linkedin.com/company/usiku-games/
+      youtube: https://youtube.com/channel/UCAk58yrD-JS080xU44HYuAQ
+      x: https://twitter.com/usikiugames
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Kiro'o Games
+    url: https://kirooworld.com/
+    description: Yaoundé video game studio building African fantasy games and comics around its Aurion universe for PC and mobile.
+    hq:
+      city: Yaoundé
+      country: Cameroon
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    size: small
+    founded: 2013
+    careers: https://kirooworld.com/recrutement
+    notable:
+      - 'Aurion: Legacy of the Kori-Odan'
+      - 'Aurion: Kajuta Gems Fighters'
+    social:
+      x: https://twitter.com/KIROOGames
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Maliyo Games
+    url: https://www.maliyo.com/
+    description: 'Lagos game studio making casual mobile games rooted in African culture, including Disney Iwájú: Rising Chef.'
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: small
+    founded: 2012
+    notable:
+      - 'Disney Iwájú: Rising Chef'
+      - Whot King
+      - Lagos Fashion
+    social:
+      instagram: https://www.instagram.com/maliyogames/
+      linkedin: https://www.linkedin.com/company/maliyo-games/
+      youtube: https://www.youtube.com/@maliyogames
+      x: https://x.com/maliyogames
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Kucheza Gaming
+    url: https://kuchezagaming.com/
+    description: Lagos game studio developing games from African mythology and offering 2D and 3D game art outsourcing and co-development.
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - co-dev
+      - indie
+    size: small
+    founded: 2019
+    notable:
+      - The Wild Kingdoms
+      - Danfo Dash
+    social:
+      instagram: https://instagram.com/kuchezagaming
+      linkedin: https://linkedin.com/company/kuchezagaming
+      x: https://twitter.com/kuchezagaming
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+  - name: Leti Arts
+    url: https://www.letiarts.com/
+    description: Accra game studio making mobile games and digital comics based on African history and folklore, and running developer contests.
+    hq:
+      city: Accra
+      country: Ghana
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: boutique
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/leti-arts/
+    added_at: '2026-10-31T05:09:10.962Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: letiarts.com redirects to letigames.com, which renders client-side only; LinkedIn shows posts from the last few days.
+  - name: Blind Squirrel Games
+    url: https://blindsquirrelentertainment.com/
+    description: Game development studio in Irvine doing co-development, full builds, ports and remasters for publishers on console, PC and mobile.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: mid
+    founded: 2010
+    careers: https://blindsquirrelentertainment.com/careers
+    social:
+      instagram: https://www.instagram.com/blindsquirrelgames/
+      linkedin: https://www.linkedin.com/company/blind-squirrel-games
+      x: https://twitter.com/blind_squirrel_
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Disbelief
+    url: https://disbelief.com/
+    description: Game development studio in Boston doing co-development, engineering, tech art, ports and remasters for console, PC and VR games.
+    hq:
+      city: Boston
+      country: United States
+    offices:
+      - city: Chicago
+        country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+    size: mid
+    founded: 2014
+    careers: https://disbelief.com/careers
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Iron Galaxy Studios
+    url: https://www.irongalaxystudios.com/
+    description: Independent game developer in Chicago making original titles and doing co-development and ports for major publishers.
+    hq:
+      city: Chicago
+      country: United States
+    offices:
+      - city: Orlando
+        country: United States
+      - city: Nashville
+        country: United States
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+      - console
+    size: large
+    founded: 2008
+    careers: https://www.irongalaxystudios.com/careers
+    notable:
+      - Killer Instinct (2013)
+      - Rumbleverse
+      - Divekick
+    social:
+      instagram: https://www.instagram.com/irongalaxystudios
+      linkedin: https://www.linkedin.com/company/iron-galaxy-studios
+      youtube: https://www.youtube.com/@IronGalaxy
+      x: https://twitter.com/irongalaxy
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Hardsuit Labs
+    url: https://www.hardsuitlabs.com/
+    description: Game studio in Seattle offering full development, co-development, engineering and console porting for publishers and developers.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+    size: mid
+    founded: 2015
+    careers: https://www.hardsuitlabs.com/careers
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Snowed In Studios
+    url: https://snowedin.ca/
+    description: Game development studio in Ottawa providing co-development, engineering and porting for console, PC and mobile titles.
+    hq:
+      city: Ottawa
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Keywords Studios
+    size: mid
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/snowedinstudios/
+      linkedin: https://www.linkedin.com/company/snowed-in-studios
+      x: https://twitter.com/snowedinstudios
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: Site says founded 2009; LinkedIn says incorporated February 2010.
+  - name: Behaviour Interactive
+    url: https://www.bhvr.com/
+    description: Independent game developer in Montreal making Dead by Daylight and other titles for PC, console and mobile.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: large
+    careers: https://www.bhvr.com/jobs/
+    notable:
+      - Dead by Daylight
+      - Fallout Shelter
+      - Meet Your Maker
+    social:
+      instagram: https://instagram.com/behaviour_interactive
+      linkedin: https://linkedin.com/company/behaviour-interactive/
+      youtube: https://www.youtube.com/channel/UCD0VJCKNdogzxUXtQPNdIiQ
+      x: https://twitter.com/behaviour
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Panic Button
+    url: https://panicbuttongames.com/
+    description: Game studio in Austin specializing in console ports and co-development for PlayStation, Xbox and Nintendo Switch.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+    size: mid
+    founded: 2007
+    careers: https://panicbuttongames.com/careers/
+    social:
+      instagram: https://www.instagram.com/panicbuttongames
+      linkedin: https://www.linkedin.com/company/panic-button
+      x: https://twitter.com/panicbuttongame
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Sumo Digital
+    url: https://www.sumo-digital.com/
+    description: Game developer in Sheffield doing full development, co-development, porting and art services for AAA publishers.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    offices:
+      - city: Pune
+        country: India
+    segments:
+      - co-dev
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    size: large
+    founded: 2003
+    careers: https://www.sumo-digital.com/careers/
+    notable:
+      - 'Sackboy: A Big Adventure'
+      - Team Sonic Racing
+      - 'Hood: Outlaws & Legends'
+    social:
+      linkedin: https://www.linkedin.com/company/sumo-digital
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: d3t
+    url: https://d3tltd.com/
+    description: Co-development studio in Runcorn handling engineering, porting and optimisation for console and PC games, part of Keywords Studios.
+    hq:
+      city: Runcorn
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Keywords Studios
+    size: mid
+    social:
+      instagram: https://www.instagram.com/d3tltd
+      linkedin: https://linkedin.com/company/d3t-ltd
+      youtube: https://youtube.com/@d3tltd78
+      x: https://x.com/d3tLtd
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Coconut Lizard
+    url: https://www.coconutlizard.co.uk/
+    description: Unreal Engine co-development studio in Newcastle giving AAA teams engineering and work-for-hire support, part of Keywords Studios.
+    hq:
+      city: Newcastle
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Keywords Studios
+    size: small
+    careers: https://www.coconutlizard.co.uk/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/coconut-lizard
+      x: https://twitter.com/CoconutLizard
+    added_at: '2026-10-31T05:09:10.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'

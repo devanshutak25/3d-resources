@@ -170,3 +170,19 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > yes please, push
 
 **Answered:** Committed the discovery batch on main and pushed to origin/main.
+
+**Prompt:** (2026-11-03)
+> Can you brainstorm which segment and type of 3d motion design game or arch viz studios we might have missed
+
+**Answered:** Gap analysis from data: games 216 (US 11, JP 10, AAA missing), archviz 68 (US 8), product viz 97 (FOOH, packshot, automotive thin), motion niches (data viz, FUI, sports/esports, AR filters), specialist CG (medical, scanning, experiential, Live2D, previs). Asked about next segments + game cap.
+
+**Prompt:** (2026-11-03)
+> separate agents for different segments
+> no limit, make a separate section for game studios
+
+**Answered:** User chose separate /game-studios/ page, fields segment/platforms/parent/notable games, move game-first keep service-first. Built infra (schema, catalog kind, page, validate, tests, sitemap, llms, form). Migrated 196; +1,703 game studios (1,898 total), +374 production studios (1,598). Validate/tests/build/links pass. Not committed. Flagged: 3 agents put the user email in Wikidata User-Agent.
+
+**Prompt:** (2026-11-03)
+> yes please
+
+**Answered:** Committed /game-studios/ + studio segment round on main and pushed. Russia question left open (not added).

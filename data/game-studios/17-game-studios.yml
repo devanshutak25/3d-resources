@@ -1,0 +1,996 @@
+studios:
+  - name: Game Freak
+    url: https://www.gamefreak.co.jp/
+    description: Tokyo developer of the core Pokémon RPG series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+    notable:
+      - Pokémon Scarlet and Violet
+      - 'Pokémon Legends: Arceus'
+      - Pokémon Sword and Shield
+      - Pokémon Red and Blue
+    founded: 1989
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Intelligent Systems
+    url: https://www.intsys.co.jp/
+    description: Kyoto developer of the Fire Emblem, Paper Mario and Advance Wars series for Nintendo.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Fire Emblem Engage
+      - 'Fire Emblem: Three Houses'
+      - 'Paper Mario: The Thousand-Year Door'
+      - Advance Wars
+    founded: 1986
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: NDcube
+    url: https://www.nintendo-cube.co.jp/
+    description: Nintendo subsidiary developing the Mario Party series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    parent: Nintendo
+    notable:
+      - Super Mario Party
+      - Mario Party Superstars
+      - 'Clubhouse Games: 51 Worldwide Classics'
+    founded: 2000
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Grezzo
+    url: https://www.grezzo.co.jp/jp/
+    description: 'Tokyo developer of Zelda remakes and The Legend of Zelda: Echoes of Wisdom.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - 'The Legend of Zelda: Echoes of Wisdom'
+      - 'The Legend of Zelda: Link''s Awakening'
+      - 'The Legend of Zelda: Ocarina of Time 3D'
+    founded: 2006
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Good-Feel
+    url: https://www.good-feel.co.jp/
+    description: Kobe developer of yarn- and craft-themed Nintendo games such as Kirby's Epic Yarn.
+    hq:
+      city: Kobe
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Yoshi's Woolly World
+      - Kirby's Epic Yarn
+      - 'Princess Peach: Showtime!'
+      - Yoshi's Crafted World
+    founded: 2005
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Camelot Software Planning
+    url: https://www.camelot.co.jp/wp/
+    description: Tokyo developer of the Mario Golf, Mario Tennis and Golden Sun series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Mario Tennis Aces
+      - 'Mario Golf: Super Rush'
+      - Golden Sun
+    founded: 1994
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Creatures
+    url: https://www.creatures.co.jp/
+    description: Tokyo developer of Pokémon card games and the Detective Pikachu series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - mobile
+    notable:
+      - Detective Pikachu Returns
+      - Pokémon Trading Card Game
+      - Pokémon Trading Card Game Pocket
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Genius Sonority
+    url: https://www.geniussonority.co.jp/
+    description: Tokyo developer of Pokémon Colosseum and The Denpa Men.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - mobile
+    notable:
+      - Pokémon Colosseum
+      - 'Pokémon XD: Gale of Darkness'
+      - The Denpa Men
+      - Dragon Quest Swords
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: 1-Up Studio
+    url: https://www.1-up-studio.jp/
+    description: Nintendo subsidiary, formerly Brownie Brown, providing co-development on Nintendo titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    parent: Nintendo
+    notable:
+      - Mother 3
+      - Magical Starsign
+    founded: 2000
+    size: mid
+    notes: Site did not load from outside the region during the 2026-11-03 check (geo-block, DNS or TLS); verified via a recent Wayback snapshot.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: The Pokémon Works
+    url: https://www.pokemonworks.co.jp/
+    description: Tokyo studio that develops the sleep-tracking app Pokémon Sleep.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pokémon Sleep
+    founded: 2024
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Team Asobi
+    url: https://www.teamasobi.com/
+    description: Sony first-party studio behind Astro Bot.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+    parent: Sony Interactive Entertainment
+    notable:
+      - Astro Bot
+      - Astro's Playroom
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Polyphony Digital
+    url: https://www.polyphony.co.jp/company/
+    description: Sony first-party studio behind the Gran Turismo series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+    parent: Sony Interactive Entertainment
+    notable:
+      - Gran Turismo 7
+      - Gran Turismo Sport
+      - Gran Turismo 4
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Ryu Ga Gotoku Studio
+    url: https://ryu-ga-gotoku.com/
+    description: Sega studio behind the Yakuza / Like a Dragon and Judgment series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sega
+    notable:
+      - Yakuza 0
+      - 'Like a Dragon: Infinite Wealth'
+      - 'Yakuza: Like a Dragon'
+      - Judgment
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sonic Team
+    url: https://sonicteam.com/
+    description: Sega studio behind the Sonic the Hedgehog and Puyo Puyo series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sega
+    notable:
+      - Sonic Frontiers
+      - Sonic Adventure
+      - Sonic Generations
+      - Puyo Puyo Tetris
+    founded: 2000
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Konami Digital Entertainment
+    url: https://www.konami.com/games/corporate/ja/
+    description: Konami's game company, behind Metal Gear, eFootball, Yu-Gi-Oh! and Silent Hill.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Konami Group
+    notable:
+      - 'Metal Gear Solid Delta: Snake Eater'
+      - eFootball
+      - Yu-Gi-Oh! Master Duel
+      - Momotaro Dentetsu
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Koei Tecmo Games
+    url: https://www.gamecity.ne.jp/
+    description: Yokohama developer of Dynasty Warriors, Nobunaga's Ambition and, through Gust, the Atelier series.
+    hq:
+      city: Yokohama
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Koei Tecmo
+    notable:
+      - 'Dynasty Warriors: Origins'
+      - 'Nobunaga''s Ambition: Awakening'
+      - Romance of the Three Kingdoms XIV
+      - 'Atelier Ryza: Ever Darkness & the Secret Hideout'
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Team Ninja
+    url: https://teamninja-studio.com/
+    description: Koei Tecmo studio behind the Ninja Gaiden, Nioh and Dead or Alive series.
+    hq:
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Koei Tecmo
+    notable:
+      - Nioh 2
+      - Rise of the Ronin
+      - Ninja Gaiden 2
+      - Dead or Alive 6
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Bandai Namco Studios
+    url: https://www.bandainamcostudios.com/
+    description: Bandai Namco's main development arm, behind Tekken, Ace Combat and Tales.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Bandai Namco Entertainment
+    notable:
+      - Tekken 8
+      - 'Ace Combat 7: Skies Unknown'
+      - Tales of Arise
+      - Super Smash Bros. Ultimate
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Bandai Namco Forge Digitals
+    url: https://fd.bandainamco.jp/
+    description: Bandai Namco studio behind the Super Robot Wars series and mobile titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Bandai Namco Entertainment
+    notable:
+      - Super Robot Wars 30
+      - Super Robot Wars T
+      - 'Digimon World: Next Order'
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Bandai Namco Aces
+    url: https://www.bnaces.co.jp/
+    description: Bandai Namco development studio founded in 2022.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Bandai Namco Entertainment
+    founded: 2022
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Bandai Namco Amusement Lab
+    url: https://lab.bandainamco-am.co.jp/
+    description: Bandai Namco studio behind the Taiko no Tatsujin rhythm series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    parent: Bandai Namco Amusement
+    notable:
+      - 'Taiko no Tatsujin: Rhythm Festival'
+      - 'Taiko no Tatsujin: The Drum Master!'
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Taito
+    url: https://www.taito.co.jp/
+    description: Tokyo arcade pioneer behind Space Invaders and Bubble Bobble, owned by Square Enix.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Square Enix Holdings
+    notable:
+      - Space Invaders
+      - Bubble Bobble
+      - Puzzle Bobble
+      - Darius
+    founded: 1953
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: SNK
+    url: https://www.snk-corp.co.jp/us/
+    description: Osaka developer of The King of Fighters, Fatal Fury and Samurai Shodown.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: MiSK Foundation
+    notable:
+      - The King of Fighters XV
+      - Samurai Shodown
+      - 'Fatal Fury: City of the Wolves'
+      - Metal Slug
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Spike Chunsoft
+    url: https://www.spike-chunsoft.co.jp:443/
+    description: Tokyo developer of the Danganronpa, Zero Escape and Mystery Dungeon series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Dwango
+    notable:
+      - 'Danganronpa: Trigger Happy Havoc'
+      - 'Zero Escape: Virtue''s Last Reward'
+      - 'Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island'
+      - 'Pokémon Mystery Dungeon: Rescue Team DX'
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Level-5
+    url: https://www.level5.co.jp/
+    description: Fukuoka developer of the Professor Layton, Yo-kai Watch, Inazuma Eleven and Ni no Kuni series.
+    hq:
+      city: Fukuoka
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - 'Ni no Kuni II: Revenant Kingdom'
+      - Yo-kai Watch
+      - Professor Layton and the Curious Village
+      - Inazuma Eleven
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nippon Ichi Software
+    url: https://www.nippon1.co.jp/index.html
+    description: Gifu-based developer of the Disgaea tactical RPG series.
+    hq:
+      city: Kakamigahara
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Disgaea 5
+      - 'Disgaea 7: Vows of the Virtueless'
+      - 'Yomawari: Night Alone'
+      - The Witch and the Hundred Knight
+    founded: 1993
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Nihon Falcom
+    url: https://www.falcom.co.jp/
+    description: Tokyo-area developer of the Ys and Trails RPG series.
+    hq:
+      city: Tachikawa
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'The Legend of Heroes: Trails in the Sky'
+      - 'The Legend of Heroes: Trails of Cold Steel'
+      - 'Ys VIII: Lacrimosa of Dana'
+      - 'The Legend of Heroes: Trails through Daybreak'
+    founded: 1981
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Marvelous
+    url: https://www.marv.jp/
+    description: Tokyo developer and publisher of the Story of Seasons, Rune Factory and Senran Kagura series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Story of Seasons: Friends of Mineral Town'
+      - Rune Factory 5
+      - Senran Kagura Burst
+      - Daemon X Machina
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: GungHo Online Entertainment
+    url: https://www.gungho.co.jp/
+    description: Tokyo developer and publisher of Puzzle & Dragons and Ninjala.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+    notable:
+      - Puzzle & Dragons
+      - Ninjala
+    founded: 1998
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Game Arts
+    url: https://www.gamearts.co.jp/ja/
+    description: Tokyo developer of the Grandia and Lunar RPG series, owned by GungHo.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: GungHo Online Entertainment
+    notable:
+      - Grandia
+      - Grandia II
+      - 'Lunar: Silver Star Story'
+    founded: 1985
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Tango Gameworks
+    url: https://tangogameworks.com/
+    description: Tokyo studio behind Hi-Fi Rush and The Evil Within, owned by Krafton since 2024.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Krafton
+    notable:
+      - Hi-Fi Rush
+      - The Evil Within
+      - 'Ghostwire: Tokyo'
+    founded: 2010
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Grasshopper Manufacture
+    url: https://www.grasshopper.co.jp/
+    description: Tokyo studio founded by Suda51, known for No More Heroes and Killer7.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: NetEase
+    notable:
+      - No More Heroes III
+      - Killer7
+      - Lollipop Chainsaw
+      - Shadows of the Damned
+    founded: 1998
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Inti Creates
+    url: https://www.inti.co.jp/
+    description: Developer of 2D action games such as Azure Striker Gunvolt and Blaster Master Zero.
+    hq:
+      city: Ichikawa
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Azure Striker Gunvolt
+      - Blaster Master Zero
+      - 'Bloodstained: Curse of the Moon'
+      - Mega Man Zero
+    founded: 1996
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sandlot
+    url: https://www.sandlot.jp/
+    description: Tokyo developer of the Earth Defense Force series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Earth Defense Force 5
+      - Earth Defense Force 6
+      - 'Earth Defense Force 4.1: The Shadow of New Despair'
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Idea Factory
+    url: https://www.ideaf.co.jp/
+    description: Tokyo developer and publisher of the Neptunia series and Otomate-label otome games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Hyperdimension Neptunia
+      - 'Hakuoki: Demon of the Fleeting Blossom'
+      - Record of Agarest War
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Compile Heart
+    url: https://www.compileheart.com/
+    description: Idea Factory studio behind the Neptunia, Mary Skelter and Death end re;Quest series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Idea Factory
+    notable:
+      - Hyperdimension Neptunia Re;Birth1
+      - 'Mary Skelter: Nightmares'
+      - Death end re;Quest
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Design Factory
+    url: http://www.designf.com/
+    description: Idea Factory subsidiary making otome games for the Otomate label.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Idea Factory
+    notable:
+      - 'Code: Realize Guardian of Rebirth'
+      - Hiiro no Kakera
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Media.Vision
+    url: https://ssl.media-vision.co.jp/
+    description: Tokyo developer of the Wild Arms series and Digimon Story games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Wild Arms
+      - 'Digimon Story: Cyber Sleuth'
+      - Valkyria Chronicles 4
+    founded: 1993
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Mages
+    url: https://mages.co.jp/
+    description: Tokyo developer of the Science Adventure visual novel series, including Steins;Gate.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Steins;Gate
+      - Steins;Gate 0
+      - Anonymous;Code
+      - Chaos;Head
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: tri-Ace
+    url: https://www.tri-ace.co.jp/
+    description: Tokyo developer of the Star Ocean and Valkyrie Profile RPG series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Star Ocean: The Second Story'
+      - Valkyrie Profile
+      - Resonance of Fate
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Sting
+    url: https://www.sting.co.jp/
+    description: Tokyo developer of the Dept. Heaven tactical RPG series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Yggdra Union
+      - 'Riviera: The Promised Land'
+      - Knights in the Nightmare
+    founded: 1989
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Arika
+    url: https://www.arika.co.jp/
+    description: 'Tokyo developer of the Tetris: The Grand Master series and Tetris 99.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Tetris 99
+      - 'Tetris: The Grand Master'
+      - Street Fighter EX
+      - Super Mario Bros. 35
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: CAVE
+    url: https://www.cave.co.jp/
+    description: Tokyo developer of the DoDonPachi and Mushihimesama shooters, now focused on mobile games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - DoDonPachi
+      - Mushihimesama
+      - Deathsmiles
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: MOSS
+    url: https://mossjp.co.jp/en
+    description: Tokyo developer of the Raiden shoot 'em up series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Raiden IV
+      - Raiden V
+      - Raiden III
+    founded: 1993
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Treasure
+    url: https://www.treasure-inc.co.jp/
+    description: Tokyo developer of action and shooter classics such as Gunstar Heroes and Ikaruga.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - Ikaruga
+      - Gunstar Heroes
+      - Radiant Silvergun
+      - 'Sin and Punishment: Star Successor'
+    founded: 1992
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Red Entertainment
+    url: https://red-entertainment.co.jp/
+    description: Tokyo developer behind the Sakura Wars, Gungrave and Bonk series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+    notable:
+      - Sakura Wars
+      - Gungrave
+      - Bonk's Adventure
+    founded: 1976
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Yuke's
+    url: https://www.yukes.co.jp/en/
+    description: 'Osaka developer of the WWE SmackDown and WWE 2K wrestling games and AEW: Fight Forever.'
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - WWE SmackDown! Here Comes the Pain
+      - WWE 2K19
+      - 'AEW: Fight Forever'
+    founded: 1993
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Aquaplus
+    url: https://aquaplus.jp/
+    description: Osaka developer of the Utawarerumono and White Album series.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Utawarerumono: Mask of Deception'
+      - White Album 2
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Mistwalker
+    url: https://www.mistwalkercorp.com/
+    description: Studio founded by Hironobu Sakaguchi, maker of Lost Odyssey and Fantasian.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - mobile
+    notable:
+      - Fantasian
+      - Blue Dragon
+      - Lost Odyssey
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Granzella
+    url: https://www.granzella.co.jp/
+    description: Ishikawa-based developer of the Disaster Report series and R-Type Final 2.
+    hq:
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Disaster Report 4: Summer Memories'
+      - R-Type Final 2
+      - City Shrouded in Shadow
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'

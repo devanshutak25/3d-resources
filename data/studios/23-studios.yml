@@ -126,24 +126,6 @@ studios:
     careers: https://www.vividthree.com/career
     url_status: ok
     url_last_verified: '2026-11-01'
-  - name: Boomzap Entertainment
-    url: https://boomzap.com/
-    description: Fully remote game studio registered in Singapore making story-driven hidden object and puzzle adventure games for PC and mobile.
-    hq:
-      country: Singapore
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2005
-    added_at: '2026-10-31T05:09:10.966Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/boomzapofficial
-      youtube: https://www.youtube.com/@boomzapgames
-      x: https://x.com/boomzap
-    notes: Virtual studio with no physical office, per its About page.
   - name: Passion Republic
     url: https://www.passionrepublic.com/
     description: Malaysian game art studio providing 3D art, animation and co-development for console and PC games, with in-house mocap and photogrammetry.
@@ -166,27 +148,6 @@ studios:
       youtube: https://www.youtube.com/@passionrepublictv1094
       artstation: https://www.artstation.com/passionrepublic
     notes: Studio page says the space holds over 300 teammates; site says it has worked with Blizzard and Sony Interactive since 2009.
-  - name: Kurechii
-    url: https://kurechii.com/
-    description: Malaysian indie game studio making mobile RPG and strategy games, including Postknight, Postknight 2 and Tiny Guardians.
-    hq:
-      country: Malaysia
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Postknight
-      - Postknight 2
-      - Tiny Guardians
-    added_at: '2026-10-31T05:09:10.966Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/kurechiigames
-      linkedin: https://www.linkedin.com/company/kurechii
-      youtube: https://www.youtube.com/channel/UC0ry2B0LjqXnVai5_cTqMXw
-      x: https://twitter.com/kurechii
   - name: Inspidea
     url: https://www.inspidea.com/
     description: Digital 2D animation studio in Petaling Jaya producing cartoon series and animation services for broadcasters and producers.
@@ -267,7 +228,6 @@ studios:
       country: Philippines
     disciplines:
       - outsourcing
-      - games
     markets:
       - games
     added_at: '2026-10-31T05:09:10.966Z'
@@ -408,7 +368,6 @@ studios:
       - vfx
       - 3d-animation
       - cinematics
-      - games
     markets:
       - film
       - episodic
@@ -428,64 +387,6 @@ studios:
       linkedin: https://www.linkedin.com/company/yggdrazil/
       youtube: https://www.youtube.com/user/YggDraZilGroup
     notes: About page states over 200 employees. Listed on Thailand's MAI exchange.
-  - name: Agate
-    url: https://agate.id/
-    description: Bandung game developer offering game development, 3D game art, porting and gamification services alongside its own titles.
-    hq:
-      city: Bandung
-      country: Indonesia
-    disciplines:
-      - games
-      - outsourcing
-    markets:
-      - games
-    founded: 2009
-    notable:
-      - 'Valthirian Arc: Hero School Story'
-      - Code Atma
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://agate.id/career/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-  - name: Digital Happiness
-    url: https://www.digitalhappiness.net/
-    description: Bandung game developer behind the DreadOut survival horror series, making games for PC and console players.
-    hq:
-      city: Bandung
-      country: Indonesia
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2013
-    notable:
-      - DreadOut
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://www.digitalhappiness.net/career
-    url_status: unreachable
-    url_last_verified: '2026-11-01'
-    social:
-      x: https://twitter.com/DH_games
-  - name: Arsanesia
-    url: https://arsanesia.com/
-    description: Independent game studio in Indonesia making casual and educational games, including the Arsa Kids line for young children.
-    hq:
-      country: Indonesia
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2011
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://arsanesia.com/career/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/arsanesia_official
-      linkedin: https://www.linkedin.com/company/arsanesia
-      youtube: https://www.youtube.com/user/arsanesia
-      x: https://twitter.com/arsanesia
   - name: 3rd World Studios
     url: https://3rdworldstudios.com/
     description: Islamabad 3D animation studio producing animated features in Unreal Engine, including Allahyar and the Legend of Markhor.
@@ -509,115 +410,6 @@ studios:
       instagram: https://www.instagram.com/3rdworldstudios.pk
       youtube: https://www.youtube.com/channel/UCTPGJnhX0b8xk3Uj8UFfOfw
       x: https://x.com/3rdworldpk
-  - name: Mindstorm Studios
-    url: https://mindstormstudios.com/
-    description: Pakistani mobile game studio making puzzle and casual games such as Hexa Sort, Point Out and Pro Golf for global players.
-    hq:
-      country: Pakistan
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Hexa Sort
-      - Pro Golf
-      - Cricket Revolution
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://mindstormstudios.simplicant.com/jobs/board
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/mindstormstudios
-      linkedin: https://www.linkedin.com/company/mindstorm-studios
-      youtube: https://www.youtube.com/@MindstormStudiosMS
-  - name: Massive Monster
-    url: https://massivemonster.com/
-    description: Independent game studio with teams in Australia and the UK making character-driven console and PC games, including Cult of the Lamb.
-    hq:
-      country: Australia
-    offices:
-      - country: United Kingdom
-    disciplines:
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2016
-    notable:
-      - Cult of the Lamb
-      - The Adventure Pals
-      - Never Give Up
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://massivemonster.com/jobs
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      youtube: https://www.youtube.com/channel/UC-z28AAWkqUnGNo_TejEuPA
-      x: https://twitter.com/MassiveMonster
-    notes: Homepage says offices in Australia and the United Kingdom; About page lists 18 team members and a Melbourne-based founder. HQ city not stated.
-  - name: Hipster Whale
-    url: https://www.hipsterwhale.com/
-    description: Melbourne game studio making casual mobile and console games, including Crossy Road, Disney Crossy Road and PAC-MAN 256.
-    hq:
-      city: Melbourne
-      country: Australia
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2014
-    notable:
-      - Crossy Road
-      - Disney Crossy Road
-      - PAC-MAN 256
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://www.hipsterwhale.com/careers
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://au.linkedin.com/company/hipsterwhale
-      youtube: https://www.youtube.com/c/HipsterWhaleOfficial
-      x: https://twitter.com/hipsterwhaledev
-    notes: Subsidiary of Atari since 2026 per Wikipedia.
-  - name: Witch Beam
-    url: https://witchbeam.com.au/
-    description: Indie game studio in Brisbane making console and PC games, including the puzzle game Unpacking and the shooter Assault Android Cactus.
-    hq:
-      city: Brisbane
-      country: Australia
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Unpacking
-      - Assault Android Cactus
-    added_at: '2026-10-31T05:09:10.967Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      x: https://x.com/witchbeamgames
-  - name: Dinosaur Polo Club
-    url: https://dinopoloclub.com/
-    description: Indie game studio in Wellington making minimalist strategy and puzzle games, including Mini Metro and Mini Motorways.
-    hq:
-      city: Wellington
-      country: New Zealand
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2013
-    notable:
-      - Mini Metro
-      - Mini Motorways
-    added_at: '2026-10-31T05:09:10.967Z'
-    careers: https://dinopoloclub.com/careers/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/dinopoloclub
-      youtube: https://www.youtube.com/channel/UC8PoS0kI5X0EReM-D0vm7ag
   - name: Myriad Studios
     url: https://myriadstudios.com.au/
     description: Australian 3D capture company providing LiDAR, photogrammetry and cyberscan digital doubles of sets, props and actors for VFX and games.
@@ -646,24 +438,6 @@ studios:
       linkedin: https://au.linkedin.com/company/myriad-studios
       youtube: https://www.youtube.com/@myriadstudiosAU
     notes: About page lists studios at Village Roadshow Studios (Gold Coast) and Disney Studios Australia (Sydney); no HQ named.
-  - name: Metia Interactive
-    url: https://www.metia.co.nz/
-    description: Auckland game design and development studio making console, mobile and education games that draw on Māori culture, including Guardian Maia.
-    hq:
-      city: Auckland
-      country: New Zealand
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2003
-    notable:
-      - Guardian Maia
-      - Cube
-      - SPARX
-    added_at: '2026-10-31T05:09:10.967Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
   - name: EclipseVFX
     url: https://eclipsevfx.com/
     description: VFX vendor handling compositing, cleanup, paint, LED volume set extensions and CG environments for film and TV.
@@ -797,66 +571,6 @@ studios:
       x: https://twitter.com/StudioTripoly/
       behance: https://www.behance.net/Tripolystudio1717
     notes: Site lists offices in Ahmedabad, Surat, Rajkot, Bhavnagar, Bengaluru, Delhi, Mumbai, Dubai without naming an HQ; Ahmedabad per AGI list. Also sells web/IT services.
-  - name: GameAnax
-    url: https://www.gameanax.com/
-    description: Game and XR development studio building VR, AR and mobile games plus 2D and 3D game art for clients.
-    hq:
-      city: Ahmedabad
-      country: India
-    offices:
-      - city: Beverly Hills
-        country: United States
-    disciplines:
-      - games
-      - xr
-      - outsourcing
-    markets:
-      - games
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://www.gameanax.com/career/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-  - name: 300Mind
-    url: https://300mind.studio/
-    description: Game development studio in Ahmedabad building 2D and 3D games in Unity, Unreal and Roblox for mobile, PC, console and VR.
-    hq:
-      city: Ahmedabad
-      country: India
-    disciplines:
-      - games
-      - outsourcing
-    markets:
-      - games
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://300mind.studio/careers/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/300mind/
-      linkedin: https://www.linkedin.com/company/300mind/
-      youtube: https://www.youtube.com/@300mind
-      behance: https://www.behance.net/300MindStudio
-  - name: Zatun
-    url: https://zatun.com/
-    description: Indie game developer and art outsourcing studio making original IP, work-for-hire games and 3D art for console, PC, mobile and VR.
-    hq:
-      city: Ahmedabad
-      country: India
-    disciplines:
-      - games
-      - outsourcing
-    markets:
-      - games
-    founded: 2007
-    added_at: '2026-10-31T05:09:10.968Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/ZatunGameStudio/
-      linkedin: https://www.linkedin.com/company/zatun
-      vimeo: https://vimeo.com/zatun
-      youtube: https://www.youtube.com/c/zatungamestudio/
-      x: https://twitter.com/zatun
   - name: Popsicle Creative
     url: https://www.popsicle-creative.com/
     description: Design-first CGI studio making 3D motion films, product renders, simulations and VFX for brands.
@@ -997,43 +711,3 @@ studios:
       instagram: https://www.instagram.com/graphicindia/
       x: https://twitter.com/graphicindia
     notes: Website last updated 2021; Wikipedia shows The Legend of Hanuman S6 aired April 2025. Address from contact page (Whitefield, Bangalore).
-  - name: Rockstar India
-    url: https://www.rockstargames.com/careers/offices/rockstar-india
-    description: Bengaluru game studio, formerly Dhruva Interactive, building art and open-world content for Rockstar Games titles.
-    hq:
-      city: Bengaluru
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: large
-    notable:
-      - Grand Theft Auto VI
-      - Red Dead Redemption 2
-      - Grand Theft Auto V
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://www.rockstargames.com/careers/offices/rockstar-india
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    notes: Dhruva Interactive (input row 22) acquired by Rockstar in 2019 and renamed. Size from Wikipedia (1,600+), not LinkedIn. No own homepage; URL is the Rockstar office page.
-  - name: Moonfrog Labs
-    url: https://moonfroglabs.com/
-    description: Mobile game studio in Bengaluru making casual card and board games such as Teen Patti Gold and Ludo Club.
-    hq:
-      city: Bengaluru
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: large
-    founded: 2013
-    notable:
-      - Teen Patti Gold
-      - Ludo Club
-      - Parchis Club
-    added_at: '2026-10-31T05:09:10.968Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    notes: Domain moonfrog.com times out; moonfroglabs.com is live. Size from site history ("200+ employees", Nov 2020), not LinkedIn.

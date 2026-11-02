@@ -26,6 +26,23 @@ t('every market has a label and vice versa', () => {
   assert.deepStrictEqual([...schema.properties.markets.items.enum].sort(), Object.keys(studios.MARKETS).sort());
 });
 
+const gameSchema = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'schema', 'game-studio.schema.json'), 'utf8'));
+
+t('game studios: every segment and platform has a label and vice versa', () => {
+  assert.deepStrictEqual([...gameSchema.properties.segments.items.enum].sort(), Object.keys(studios.SEGMENTS).sort());
+  assert.deepStrictEqual([...gameSchema.properties.platforms.items.enum].sort(), Object.keys(studios.PLATFORMS).sort());
+  assert.deepStrictEqual([...gameSchema.properties.size.enum].sort(), Object.keys(studios.SIZES).sort());
+});
+
+t('segment keys never collide with discipline keys (they share .d-* pill colors)', () => {
+  for (const k of Object.keys(studios.SEGMENTS)) assert(!studios.DISCIPLINES[k], k);
+});
+
+t('real game studio data gives unique card ids', () => {
+  const ids = studios.studioSlugs(catalog.loadStudios('game-studios'));
+  assert.strictEqual(new Set(ids).size, ids.length);
+});
+
 t('decadeOf buckets founding years', () => {
   assert.strictEqual(studios.decadeOf(undefined), '');
   assert.strictEqual(studios.decadeOf(1972), 'pre-1980');

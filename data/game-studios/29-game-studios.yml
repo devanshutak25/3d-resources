@@ -1,0 +1,888 @@
+studios:
+  - name: Grenaa Games
+    url: https://grenaagames.com/
+    description: Developer of Fabledom.
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fabledom
+    social:
+      x: https://x.com/GrenaaGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Gentle Troll Entertainment
+    url: https://gentletroll.com/de
+    description: Developer of Tavern Talk.
+    hq:
+      city: Würzburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tavern Talk
+    founded: 2014
+    careers: https://gentletroll.com/de/jobs
+    social:
+      linkedin: https://www.linkedin.com/company/gentle-troll-entertainment-gmbh
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Virtual Air Guitar Company
+    url: https://www.virtualairguitar.com/
+    description: Developer of Air Guitar Warrior.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - indie
+    notable:
+      - Air Guitar Warrior
+    social:
+      x: https://x.com/VirtualAirGtr
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sunteam
+    url: http://www.sunteam.co.uk/
+    description: Developer of Aeon.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Aeon
+    social:
+      youtube: https://www.youtube.com/channel/UCDOCsGhIYg0yjm5-ZbSGezw
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: RageSquid
+    url: https://ragesquid.com/
+    description: Developer of Descenders and Action Henk.
+    hq:
+      city: Tilburg
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Descenders
+      - Action Henk
+      - Descenders Next
+    founded: 2011
+    social:
+      linkedin: https://www.linkedin.com/company/ragesquid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Bitwave Games
+    url: https://www.bitwavegames.com/
+    description: Co-development and porting studio with credits on Truxton and Tiger-Heli, owned by Embracer Group.
+    hq:
+      country: Sweden
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    parent: Embracer Group
+    notable:
+      - Truxton
+      - Tiger-Heli
+      - Flying Shark
+      - Twin Cobra
+    founded: 2013
+    careers: https://www.bitwavegames.com/jobs
+    social:
+      instagram: https://www.instagram.com/bitwavegames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kitsune Games
+    url: https://kitsunegames.com/
+    description: Developer of Kitsune Tails.
+    hq:
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Kitsune Tails
+    founded: 2013
+    social:
+      youtube: https://www.youtube.com/channel/UCTdFEO_5f4wq2qgFkxrxkOw
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Eden Games
+    url: https://www.edengames.com/
+    description: 'Developer of Need for Speed: Porsche Unleashed and Alone in the Dark.'
+    hq:
+      city: Lyon
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Need for Speed: Porsche Unleashed'
+      - Alone in the Dark
+      - V-Rally 3
+      - 'Kya: Dark Lineage'
+    founded: 1998
+    careers: https://www.edengames.com/career/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: SoulGame Studio
+    url: https://soulgamestudio.com/
+    description: 'Developer of Minishoot'' Adventures and Swords & Souls: Neverseen.'
+    hq:
+      city: Toulouse
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - Minishoot' Adventures
+      - 'Swords & Souls: Neverseen'
+      - Swords and Souls
+      - Rogue Soul 2
+    founded: 2019
+    social:
+      youtube: https://www.youtube.com/channel/UCCvzPFXqK2My4y89rJ0x-mA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Little Chicken Game Company
+    url: https://www.littlechicken.nl/
+    description: Developer of KLM Aviation Empire and Traffic Jams.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - KLM Aviation Empire
+      - Traffic Jams
+      - 'SXPD: Extreme Pursuit Force'
+    founded: 2001
+    careers: https://www.littlechicken.nl/jobs/
+    social:
+      youtube: https://www.youtube.com/channel/UC5qF1tBxE3SkobQ73PQYqYg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Aruma Studios
+    url: https://arumastudios.com/
+    description: Developer of Shadows of the Afterland and Intruder In Antiquonia.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Shadows of the Afterland
+      - Intruder In Antiquonia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Mediamond
+    url: https://www.mediamond.fi/
+    description: Developer of the Deluxe Ski Jump series.
+    hq:
+      city: Espoo
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Deluxe Ski Jump 4
+    founded: 2000
+    social:
+      instagram: https://www.instagram.com/mediamond_fi
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Fen Research
+    url: https://www.fenresearch.com/
+    description: Developer of Brighter Shores.
+    hq:
+      city: Cambridge
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Brighter Shores
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ancient Forge
+    url: https://ancientforgestudio.com/
+    description: Developer of Hotel Galactic and The Tenants.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hotel Galactic
+      - The Tenants
+      - Glorious Companions
+    careers: https://ancientforgestudio.com/join-us-live-win-game-keys/
+    social:
+      youtube: https://www.youtube.com/channel/UCj1bxBKLdgQqhTHlMwDOqjg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: TreesPlease Games
+    url: https://www.treespleasegames.com/
+    description: Mobile game developer behind Longleaf Valley.
+    hq:
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Longleaf Valley
+    founded: 2019
+    careers: https://www.treespleasegames.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Reco Technology
+    url: https://recotech.es/
+    description: Developer of 1971 Project Helios and Kyurinaga's Revenge.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 1971 Project Helios
+      - Kyurinaga's Revenge
+    social:
+      x: https://x.com/RecoTechnology
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Byterunners
+    url: https://byterunners.com/
+    description: Developer of Drug Dealer Simulator 2.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Drug Dealer Simulator 2
+    social:
+      youtube: https://www.youtube.com/channel/UCs1g1pzlYHYG7tXSX3lEVdg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Morphcat Games
+    url: https://morphcat.de/
+    description: Developer of Micro Mages.
+    hq:
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Micro Mages
+    social:
+      youtube: https://www.youtube.com/channel/UCGNm2vGRTPwbO0Q6u-X7MuA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: 3R Games
+    url: https://3r.games/
+    description: 'Developer of Thief Simulator VR: Greenview Street.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    notable:
+      - 'Thief Simulator VR: Greenview Street'
+    founded: 2010
+    social:
+      linkedin: https://www.linkedin.com/company/3rgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Amistech Games
+    url: https://amistech.com/
+    description: Developer of the car-building life sim My Summer Car.
+    hq:
+      city: Turku
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - My Summer Car
+      - My Winter Car
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rablo Games
+    url: https://rablo.games/
+    description: Developer of Healer's Quest.
+    hq:
+      city: Pepinster
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Healer's Quest
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/rablogames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Other Tales Interactive
+    url: https://www.othertalesinteractive.com/
+    description: 'Developer of Miniatures and Tick Tock: A Tale for Two.'
+    hq:
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Miniatures
+      - 'Tick Tock: A Tale for Two'
+    social:
+      instagram: https://www.instagram.com/othertales
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sandfall Interactive
+    url: https://www.sandfall.co/
+    description: 'Developer of the turn-based RPG Clair Obscur: Expedition 33.'
+    hq:
+      city: Montpellier
+      country: France
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Clair Obscur: Expedition 33'
+    founded: 2020
+    social:
+      youtube: https://www.youtube.com/channel/UC4efSBpFrx_TTtgPjrsC5zQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Bureau 81
+    url: https://bureau81.com/
+    description: Developer of The Operator.
+    hq:
+      city: Bordeaux
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Operator
+    founded: 2024
+    social:
+      linkedin: https://www.linkedin.com/company/bureau-81
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ubisoft Mainz
+    url: https://www.ubisoft.com/en-us/company/careers/locations/germany/mainz
+    description: Developer of Anno 1701 History Edition, owned by Ubisoft.
+    hq:
+      country: Germany
+    segments:
+      - aa
+    platforms:
+      - pc
+    parent: Ubisoft
+    notable:
+      - Anno 1701 History Edition
+    careers: https://www.ubisoft.com/en-us/company/careers/locations/germany/mainz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Realcast
+    url: https://www.realcast.io/
+    description: Developer of Hide the corpse.
+    hq:
+      country: France
+    segments:
+      - indie
+    notable:
+      - Hide the corpse
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: rokaplay
+    url: https://www.rokaplay.com/
+    description: Developer of Beasties - Monster Trainer Puzzle RPG and The Forgotten Land.
+    hq:
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Beasties - Monster Trainer Puzzle RPG
+      - The Forgotten Land
+      - Zombie Solitaire 2 Chapter 3
+      - Last Resort Island
+    social:
+      instagram: https://www.instagram.com/rokaplayhq
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Bitfall Studios
+    url: https://bitfallstudios.de/
+    description: Developer of TerraScape.
+    hq:
+      city: Petersberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - TerraScape
+    founded: 2022
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Everbyte
+    url: https://everbytestudio.com/
+    description: Mobile game developer behind Nox.
+    hq:
+      city: Tettnang
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Nox
+    founded: 2016
+    social:
+      x: https://x.com/EverbyteStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Gelato Games
+    url: http://www.gelatogames.com/
+    description: Developer of Guns of Fury.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Guns of Fury
+    founded: 2017
+    social:
+      x: https://x.com/GelatoGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Warbyte Studios
+    url: https://www.warbytes.com/
+    description: 'Developer of Piecework: The Jigsaw Museum and Coin Smith.'
+    hq:
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Piecework: The Jigsaw Museum'
+      - Coin Smith
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: semiwork
+    url: https://semiwork.se/
+    description: Developer of the co-op horror game R.E.P.O.
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - R.E.P.O.
+    social:
+      instagram: https://www.instagram.com/semiworkstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Build a Rocket Boy
+    url: https://www.buildarocketboy.com/
+    description: Developer of MindsEye.
+    hq:
+      country: United Kingdom
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - MindsEye
+    size: mid
+    careers: https://www.buildarocketboy.com/join-us
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: 22Cans
+    url: https://22cans.co.uk/
+    description: Developer of Godus and Curiosity – What's Inside the Cube?.
+    hq:
+      city: Guildford
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Godus
+      - Curiosity – What's Inside the Cube?
+      - Godus Wars
+      - 'The Trail: Frontier Challenge'
+    founded: 2012
+    size: small
+    social:
+      instagram: https://www.instagram.com/22cans
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Out of the Blue Games
+    url: https://www.outbluegames.com/
+    description: Developer of Call of the Elder Gods.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Call of the Elder Gods
+    social:
+      linkedin: https://www.linkedin.com/company/outbluegames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Facepunch Studios
+    url: https://facepunch.com/
+    description: Developer of Garry's Mod and Rust.
+    hq:
+      city: Walsall
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Garry's Mod
+      - Rust
+      - S&box
+      - Dark Role Play
+    founded: 2004
+    careers: https://facepunch.com/careers
+    social:
+      x: https://x.com/FcpnchStds
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Miniclip
+    url: https://miniclip.com/
+    description: Mobile game developer behind Gravity Guy and 8 Ball Pool, owned by Tencent.
+    hq:
+      city: Neuchâtel
+      country: Switzerland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    parent: Tencent
+    notable:
+      - Gravity Guy
+      - 8 Ball Pool
+      - Canyon Shooter 2
+      - Robo Rampage
+    founded: 2001
+    careers: https://miniclip.com/careers/vacancies
+    social:
+      instagram: https://www.instagram.com/miniclip
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Frozen District
+    url: https://frozendistrict.com/
+    description: Developer of House Flipper 2.
+    hq:
+      city: Kraków
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - House Flipper 2
+    founded: 2014
+    social:
+      linkedin: https://www.linkedin.com/company/frozen-district
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Myrkur Games
+    url: https://myrkur.is/
+    description: Icelandic developer of the action-adventure Echoes of the End.
+    hq:
+      city: Reykjavík
+      country: Iceland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Echoes of the End
+    founded: 2016
+    careers: https://myrkur.is/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: ALMA Games
+    url: https://alma-games.com/
+    description: Ukrainian studio making idle RPGs, merge games and physics puzzles for mobile and PC.
+    hq:
+      country: Ukraine
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/alma.games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Trickster Arts
+    url: https://tricksterarts.com/
+    description: Developer of Hero of Many and Hackers.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Hero of Many
+      - Hackers
+      - Monolisk
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Perfectly Paranormal
+    url: https://perfectlyparanormal.com/
+    description: Developer of Manual Samuel and The Holy Gosh Darn.
+    hq:
+      city: Klepp
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Manual Samuel
+      - The Holy Gosh Darn
+      - Helheim Hassle
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Take IT Studio!
+    url: https://takeitstudio.com/
+    description: Polish studio that develops, ports and publishes games for PC, consoles and VR.
+    hq:
+      country: Poland
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+    social:
+      youtube: https://www.youtube.com/channel/UC5c9zIdYqmEw1HfEoC0WLLA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Pounce Light
+    url: https://pouncelight.games/
+    description: Oskar Stålberg's studio, developer of the town-building toy Townscaper.
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Townscaper
+    social:
+      linkedin: https://www.linkedin.com/company/pounce-light
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Appelmoes
+    url: https://appelmoes.games/
+    description: Developer of Mail Time.
+    hq:
+      city: Gorinchem
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Mail Time
+    careers: https://appelmoes.games/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Game Tailors
+    url: https://www.gametailors.com/
+    description: Developer of Klankkr8.
+    hq:
+      city: Delft
+      country: Netherlands
+    segments:
+      - indie
+    notable:
+      - Klankkr8
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Frog Vibes
+    url: https://frogvibes.com/
+    description: Developer of Here Comes Niko!.
+    hq:
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Here Comes Niko!
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Snap Finger Click
+    url: https://snapfingerclick.com/
+    description: Developer of Act it Out.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - console
+    notable:
+      - Act it Out
+    founded: 2015
+    careers: https://snapfingerclick.com/jobs.html
+    social:
+      instagram: https://www.instagram.com/snapfingerclick
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Snekflat
+    url: https://snekflat.com/
+    description: Developer of Tiny Terry's Turbo Trip.
+    hq:
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tiny Terry's Turbo Trip
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Twirlbound
+    url: https://twirlbound.com/
+    description: Developer of Pine and The Knightling.
+    hq:
+      city: Breda
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Pine
+      - The Knightling
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/twirlboundofficial
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'

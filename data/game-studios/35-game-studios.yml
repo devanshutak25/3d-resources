@@ -1,0 +1,978 @@
+studios:
+  - name: Spooky Doorway
+    url: https://www.spookydoorway.com/
+    description: 'Developer of The Darkside Detective and The Darkside Detective: A Fumble in the Dark.'
+    hq:
+      city: Galway
+      country: Ireland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Darkside Detective
+      - 'The Darkside Detective: A Fumble in the Dark'
+    social:
+      x: https://x.com/spookydoorway
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Pocket Sized Hands
+    url: https://pocketsizedhands.com/
+    description: Co-development and porting studio with credits on Pocket Mortys.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pocket Mortys
+    founded: 2017
+    social:
+      linkedin: https://www.linkedin.com/company/17965539
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Travian Games
+    url: https://www.traviangames.com/de
+    description: Developer of Travian and Arkheim - Realms at War.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Travian
+      - Arkheim - Realms at War
+      - Pyramid Raid
+      - Cheats 4 Hire
+    founded: 2005
+    careers: https://www.traviangames.com/de/career
+    social:
+      youtube: https://www.youtube.com/channel/UCyFBJZfqoET9OrbZ-6c6xWA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: SimFabric
+    url: https://simfabric.com/
+    description: 'Developer of Mushrooms: Forest Walker.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Mushrooms: Forest Walker'
+    social:
+      linkedin: https://www.linkedin.com/company/simfabric
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Aurion Studios
+    url: https://www.aurionstudios.com/
+    description: Developer of Magnet Madness.
+    hq:
+      city: Harrow
+      country: United Kingdom
+    segments:
+      - indie
+    notable:
+      - Magnet Madness
+    founded: 2016
+    social:
+      x: https://x.com/aurionstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Twice Circled
+    url: https://www.twicecircled.com/
+    description: Developer of Big Pharma and Megaquarium.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Big Pharma
+      - Megaquarium
+    social:
+      x: https://x.com/twicecircled
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Crystalline Green
+    url: http://www.crystallinegreen.com/
+    description: Developer of Flight of Light and Totem Topple.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Flight of Light
+      - Totem Topple
+    founded: 2011
+    social:
+      youtube: https://www.youtube.com/channel/UCxOjKEOOtjaRNCPj0K5Pw2g
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Upjers
+    url: https://company.upjers.com/
+    description: Developer of My Free Farm.
+    hq:
+      city: Bamberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - My Free Farm
+    founded: 2006
+    careers: https://company.upjers.com/karriere/jobs
+    social:
+      instagram: https://www.instagram.com/upjers_official
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Digital Legends
+    url: https://digital-legends.com/
+    description: Mobile game developer behind Afterpulse and Bruce Lee Dragon Warrior.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Afterpulse
+      - Bruce Lee Dragon Warrior
+      - One Sequel
+      - Kroll
+    founded: 2001
+    careers: https://careers.digital-legends.com/us/en
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Bithell Games
+    url: https://www.bithellgames.com/
+    description: 'Developer of Tron: Identity and John Wick Hex.'
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Tron: Identity'
+      - John Wick Hex
+      - Quarantine Circular
+      - 'Tron: Catalyst'
+    founded: 2013
+    social:
+      youtube: https://www.youtube.com/channel/UCkDkgK59ygwHHMDSiW0M3-g
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: ms.app
+    url: http://www.ms-app.de/
+    description: 'Mobile game developer behind evolving Objects C&D: Got to stop that Conquest.'
+    hq:
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'evolving Objects C&D: Got to stop that Conquest'
+    social:
+      youtube: https://www.youtube.com/channel/UC8ikvNmR5-Jl-CL4jGWcr4g
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Angry Demon Studio
+    url: https://angrydemonstudio.com/
+    description: 'Developer of Unforgiving: A Northern Hymn and Gori: Cuddly Carnage.'
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Unforgiving: A Northern Hymn'
+      - 'Gori: Cuddly Carnage'
+      - 'Apsulov: End of Gods'
+    size: boutique
+    social:
+      instagram: https://www.instagram.com/angrydemonstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Nitrome
+    url: https://www.nitrome.com/
+    description: 'Developer of Icebreaker: A Viking Voyage and Bomb Chicken.'
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Icebreaker: A Viking Voyage'
+      - Bomb Chicken
+      - Leap Day
+      - Super Leap Day
+    founded: 2004
+    size: small
+    social:
+      youtube: https://www.youtube.com/channel/UCjOjkQkbLhdJywbrVkeutNg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kodera Software
+    url: https://games.kodera.pl/
+    description: 'Developer of ΔV: Rings of Saturn.'
+    hq:
+      city: Będzin
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'ΔV: Rings of Saturn'
+    founded: 2016
+    social:
+      youtube: https://www.youtube.com/channel/UCa9yF9Urn7NP9nEJL4M_zDA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ankama
+    url: https://www.ankama.com/
+    description: Developer of Dofus and Islands of Wakfu.
+    hq:
+      city: Roubaix
+      country: France
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Dofus
+      - Islands of Wakfu
+      - Arena
+      - 'Wakfu : Les Gardiens'
+    founded: 2001
+    size: large
+    social:
+      youtube: https://www.youtube.com/channel/UCG-9htpBpnCfRFBDuaPx2kA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: D'Avekki Studios
+    url: https://davekki.com/
+    description: Developer of The Shapeshifting Detective and The Infectious Madness of Doctor Dekker.
+    hq:
+      city: Wisbech
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Shapeshifting Detective
+      - The Infectious Madness of Doctor Dekker
+      - Dark Nights with Poe & Munro
+      - Murderous Muses
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Illwinter Game Design
+    url: http://illwinter.com/
+    description: 'Developer of Dominions II: The Ascension Wars and Dominions 3: The Awakening.'
+    hq:
+      city: Lund
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Dominions II: The Ascension Wars'
+      - 'Dominions 3: The Awakening'
+      - 'Dominions: Priests, Prophets and Pretenders'
+      - Dominions 5 - Warriors of the Faith
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Nomada Studio
+    url: https://nomada.studio/
+    description: Developer of Neva.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Neva
+    careers: https://nomada.studio/careers/
+    social:
+      instagram: https://www.instagram.com/nomadastudiobcn
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Icetesy SPRL
+    url: http://www.icetesy.be/
+    description: Developer of Melody's Escape 2 and Melody's Escape.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Melody's Escape 2
+      - Melody's Escape
+    social:
+      youtube: https://www.youtube.com/channel/UC94fAQ9c1wDNNw17XJuOYRA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Oxymoron Games
+    url: https://oxymoron.games/
+    description: Developer of Project Hospital.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Project Hospital
+    founded: 2017
+    social:
+      youtube: https://www.youtube.com/channel/UC1ZJFeZg-TY14MtiDAFS3pQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Hazelight Studios
+    url: https://hazelight.se/
+    description: Developer of Split Fiction.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Split Fiction
+    founded: 2014
+    careers: https://hazelight.se/careers
+    social:
+      instagram: https://www.instagram.com/hazelightgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Bulwark Studios
+    url: http://bulwarkstudios.com/
+    description: 'Developer of Warhammer 40,000: Mechanicus and Warhammer 40,000: Mechanicus II.'
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Warhammer 40,000: Mechanicus'
+      - 'Warhammer 40,000: Mechanicus II'
+      - Ixion
+      - Crowntakers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: QubicGames
+    url: https://qubicgames.com/
+    description: Developer of 2 Fast 4 Gnomz and Robonauts.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 2 Fast 4 Gnomz
+      - Robonauts
+      - Gnomz
+      - Beautiful Ukraine
+    founded: 2004
+    social:
+      youtube: https://www.youtube.com/channel/UCN3vna89IcHIa7FxgtXFfrQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: GFX47
+    url: http://gfx47.com/
+    description: Developer of Gladiabots and No Plan B.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Gladiabots
+      - No Plan B
+    social:
+      youtube: https://www.youtube.com/channel/UCaNSNU6cU67qu-2PWk78YDA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Positech Games
+    url: http://www.positech.co.uk/
+    description: Developer of Democracy 4 and Democracy 3.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Democracy 4
+      - Democracy 3
+      - Gratuitous Space Battles
+      - 'Democracy 3: Africa'
+    founded: 1997
+    social:
+      youtube: https://www.youtube.com/channel/UCr4Qusc_wIYac1HHkFHWTNQ
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ten Square Games
+    url: https://tensquaregames.com/
+    description: Mobile developer of the Fishing Clash and Hunting Clash games.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Fishing Clash
+      - Hunting Clash
+    founded: 2011
+    careers: https://tensquaregames.com/career/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Creative Assembly
+    url: https://www.creative-assembly.com/
+    description: 'Developer of Rome: Total War and Medieval II: Total War, owned by Sega.'
+    hq:
+      city: Horsham
+      country: United Kingdom
+    segments:
+      - aaa
+    platforms:
+      - pc
+    parent: Sega
+    notable:
+      - 'Rome: Total War'
+      - 'Medieval II: Total War'
+      - 'Alien: Isolation'
+      - 'Total War: Shogun 2'
+    founded: 1987
+    size: large
+    social:
+      instagram: https://www.instagram.com/creative_assembly
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Ubisoft Kyiv
+    url: https://www.ubisoft.com/en-us/company/careers/locations/kyiv
+    description: Co-development and porting studio with credits on Far Cry 5 and Far Cry 4, owned by Ubisoft.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Ubisoft
+    notable:
+      - Far Cry 5
+      - Far Cry 4
+      - 'Assassin''s Creed IV: Black Flag'
+      - Tom Clancy's Rainbow Six Siege
+    founded: 2008
+    careers: https://www.ubisoft.com/en-us/company/careers/
+    social:
+      instagram: https://www.instagram.com/ubisoft.ukraine
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Accidental Queens
+    url: http://accidentalqueens.com/
+    description: Developer of A Normal Lost Phone and Alt-Frequencies.
+    hq:
+      city: Marcq-en-Barœul
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - A Normal Lost Phone
+      - Alt-Frequencies
+      - 'Another Lost Phone: Laura''s Story'
+    founded: 2017
+    social:
+      x: https://x.com/accidentalq
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Direlight
+    url: https://direlight.com/
+    description: Developer of Grimvalor.
+    hq:
+      country: Finland
+    segments:
+      - indie
+    notable:
+      - Grimvalor
+    social:
+      youtube: https://www.youtube.com/channel/UCj9YfiwgGmJW4OzBldeDfvg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Triumph Studios
+    url: https://www.paradoxinteractive.com/our-company/our-studios/triumph-studios
+    description: Developer of Overlord and Age of Wonders, owned by Paradox Interactive.
+    hq:
+      city: Delft
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    parent: Paradox Interactive
+    notable:
+      - Overlord
+      - Age of Wonders
+      - 'Age of Wonders: Planetfall'
+      - Age of Wonders III
+    founded: 1997
+    careers: https://www.paradoxinteractive.com/career
+    social:
+      x: https://x.com/TriumphStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Radical Fish Games
+    url: https://www.radicalfishgames.com/
+    description: Developer of CrossCode and Alabaster Dawn.
+    hq:
+      city: Saarbrücken
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - CrossCode
+      - Alabaster Dawn
+    social:
+      x: https://x.com/RadicalFishGame
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Triband
+    url: https://triband.net/
+    description: Developer of What the Golf? and What the Car?.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - What the Golf?
+      - What the Car?
+      - WHAT THE BAT?
+    social:
+      youtube: https://www.youtube.com/channel/UCusSFS721jxkwyeqWMh-j4A
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Radiation Blue
+    url: http://www.radiationblue.com/
+    description: Developer of Genesis Alpha One.
+    hq:
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Genesis Alpha One
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: The Game Atelier
+    url: https://www.game-atelier.com/
+    description: Developer of Flying Hamster and Otherskin.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Flying Hamster
+      - Otherskin
+    founded: 2010
+    careers: https://www.game-atelier.com/careers
+    social:
+      instagram: https://www.instagram.com/gameatelier
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Goblinz Studio
+    url: https://goblinzstudio.com/
+    description: 'Developer of Sigma Theory: Global Cold War and Out There: Oceans of Time.'
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Sigma Theory: Global Cold War'
+      - 'Out There: Oceans of Time'
+      - 'Legend of Keepers: Career of a Dungeon Manager'
+      - Smash It Wild
+    social:
+      youtube: https://www.youtube.com/channel/UCDM3ahQ6A7vt9-fsarlOp7g
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Hempuli
+    url: https://www.hempuli.com/
+    description: Developer of Baba Is You.
+    hq:
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Baba Is You
+    social:
+      youtube: https://www.youtube.com/channel/UCjTafJmFk9D4eP-PCLUFO5Q
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Mi'pu'mi Games
+    url: https://www.mipumi.com/
+    description: 'Developer of The Lion''s Song and Nancy Drew: Midnight in Salem.'
+    hq:
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Lion's Song
+      - 'Nancy Drew: Midnight in Salem'
+      - Howl
+      - The Flower Collectors
+    social:
+      x: https://x.com/Mipumi
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Running Pillow
+    url: https://running-pillow.webnode.cz/
+    description: Developer of Crawling Of The Dead and The Prison.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Crawling Of The Dead
+      - The Prison
+      - The Tiny Tale 2
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: DigixArt
+    url: https://sites.google.com/digixart.com/digixart
+    description: Developer of Road 96 and 11-11 Memories Retold.
+    hq:
+      city: Montpellier
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Road 96
+      - 11-11 Memories Retold
+      - Tides of Tomorrow
+      - 'Road 96: Mile 0'
+    founded: 2015
+    social:
+      x: https://x.com/Digixart
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Screen Burn
+    url: https://screenburn.com/
+    description: Developer of Observation.
+    hq:
+      city: Glasgow
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Observation
+    founded: 2015
+    careers: https://screenburn.com/jobs
+    social:
+      x: https://x.com/_nocode
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Sarepta Studio
+    url: https://sareptastudio.com/
+    description: 'Developer of My Child: Lebensborn and Thalassa: Edge of the Abyss.'
+    hq:
+      city: Hamar
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'My Child: Lebensborn'
+      - 'Thalassa: Edge of the Abyss'
+      - Shadow Puppeteer
+    founded: 2010
+    size: small
+    careers: https://sareptastudio.com/work-with-us/
+    social:
+      linkedin: https://www.linkedin.com/company/sarepta-studio-as
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Triangle Factory
+    url: https://www.triangle-factory.be/
+    description: Developer of Breachers and Hyper Dash.
+    hq:
+      city: Ghent
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Breachers
+      - Hyper Dash
+    founded: 2010
+    careers: https://www.triangle-factory.be/careers-archive
+    social:
+      youtube: https://www.youtube.com/channel/UCEZEerIa6LkFA8NcJyhpCag
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Rare
+    url: https://www.rare.co.uk/
+    description: Developer of Sea of Thieves and Banjo-Kazooie, owned by Xbox Game Studios.
+    hq:
+      city: Twycross
+      country: United Kingdom
+    segments:
+      - aaa
+    platforms:
+      - console
+    parent: Xbox Game Studios
+    notable:
+      - Sea of Thieves
+      - Banjo-Kazooie
+      - GoldenEye 007
+      - Donkey Kong Country
+    founded: 1985
+    careers: https://www.rare.co.uk/careers
+    social:
+      instagram: https://www.instagram.com/rareltd
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: LK Avalon
+    url: http://www.lkavalon.com/
+    description: 'Developer of Schizm: Mysterious Journey and Math Adventures.'
+    hq:
+      city: Świlcza
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Schizm: Mysterious Journey'
+      - Math Adventures
+    founded: 1989
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Playsport Games
+    url: https://www.playsportgames.com/
+    description: Developer of Motorsport Manager and Motorsport Manager Mobile 2.
+    hq:
+      city: Guildford
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Motorsport Manager
+      - Motorsport Manager Mobile 2
+    founded: 2015
+    careers: https://www.playsportgames.com/careers/
+    social:
+      youtube: https://www.youtube.com/channel/UClGI6zLtS0g47xGh5FE1Zqw
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kwalee
+    url: https://www.kwalee.com/
+    description: Developer of Text & Fly.
+    hq:
+      city: Leamington Spa
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Text & Fly
+    founded: 2011
+    careers: https://www.kwalee.com/careers
+    social:
+      instagram: https://www.instagram.com/kwalee
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Voodoo
+    url: https://voodoo.io/
+    description: Developer of Hole.io.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Hole.io
+    founded: 2013
+    careers: https://voodoo.io/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Troglobytes Games
+    url: https://www.troglobytesgames.com/
+    description: Developer of HyperParasite and RailGods of Hysterra.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - HyperParasite
+      - RailGods of Hysterra
+      - The Kindeman Remedy
+      - 'Blind Fate: Edo no Yami'
+    social:
+      instagram: https://www.instagram.com/troglobytes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'
+  - name: Kylotonn
+    url: https://kylotonn.com/
+    description: Developer of Syberia III and The Cursed Crusade.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Syberia III
+      - The Cursed Crusade
+      - 'FlatOut 4: Total Insanity'
+      - WRC 8 FIA World Rally Championship
+    founded: 2002
+    social:
+      youtube: https://www.youtube.com/channel/UCJD3hVZ9D1F_Z_1mWyyX74g
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:55:47.768Z'

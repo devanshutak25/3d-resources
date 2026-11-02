@@ -1,65 +1,4 @@
 studios:
-  - name: PlaySimple Games
-    url: https://playsimple.in/
-    description: Mobile game studio making word and casual puzzle games such as Daily Themed Crossword and WordTrip for a global audience.
-    hq:
-      city: Bengaluru
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2014
-    notable:
-      - Daily Themed Crossword
-      - WordTrip
-      - Crossword Jam
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://careers.playsimple.in/jobs/Careers
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/playsimple.games/
-      linkedin: https://www.linkedin.com/company/playsimple-games
-    notes: Part of MTG (Modern Times Group). City from job listings (Bangalore North).
-  - name: Mayhem Studios
-    url: https://mayhem-studios.com/
-    description: Game studio developing Underworld Gang Wars, an India-set battle royale shooter for mobile.
-    hq:
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Underworld Gang Wars
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://mayhem.keka.com/careers
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/mayhem_studios/
-      youtube: https://www.youtube.com/@ugw_official
-    notes: 'City not on site (AGI list: Bengaluru). Latest site news July 2024 (Lumikai funding, closed beta May 2024).'
-  - name: Studio Sirah
-    url: https://www.studiosirah.com/
-    description: Indie game studio making midcore strategy games drawn from Indian mythology, history and culture.
-    hq:
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - 'Kurukshetra: Ascension'
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://www.studiosirah.com/join-us
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/studiosirah/
-      linkedin: https://www.linkedin.com/company/studio-sirah/
-    notes: 'City not on site (AGI list: Bengaluru). Kurukshetra: Ascension is on Steam (app 1857540).'
   - name: Denzong Films
     url: https://denzongfilms.com/
     description: Bangalore video production house making brand films, ads and social content, with an in-house animation and post unit.
@@ -142,21 +81,6 @@ studios:
       linkedin: https://www.linkedin.com/company/autovrse
       x: https://x.com/autovrse
     notes: 'Site gives no address (AGI list: Bengaluru). Site says it has built VR training "since 2016". Partly a software product (VRseBuilder).'
-  - name: HashCube
-    url: https://www.hashcube.com/
-    description: Social and puzzle game studio in Bangalore making cross-platform titles for web and mobile players worldwide.
-    hq:
-      city: Bengaluru
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2008
-    added_at: '2026-10-31T05:09:10.968Z'
-    careers: https://hashcube.freshteam.com/jobs
-    url_status: ok
-    url_last_verified: '2026-11-01'
   - name: Cloudzee Animation
     url: https://www.cloudzeeanimation.com/
     description: Animation studio producing 3D and 2D animation for children's TV series, commercials and games, from design to compositing.
@@ -239,27 +163,6 @@ studios:
       linkedin: https://www.linkedin.com/company/basilic-fly-studio/
       youtube: https://www.youtube.com/channel/UCx18aROblThnvLTpEJyOe3g
     notes: basilicfly.com has an expired TLS cert and redirects to basilicflystudio.com. Paris office via subsidiary One of Us.
-  - name: Nextwave Multimedia
-    url: https://www.nextwavemultimedia.com/
-    description: Chennai mobile game studio behind the World Cricket Championship series of cricket sims.
-    hq:
-      city: Chennai
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1995
-    notable:
-      - World Cricket Championship
-    added_at: '2026-10-31T05:09:10.968Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/nextwave-multimedia/
-      youtube: https://www.youtube.com/@NextwaveMultimediaWCC
-      x: https://x.com/Nextwaveapps
-    notes: Nazara Technologies subsidiary since 2021.
   - name: EFFE Animation
     url: https://www.effeanimation.com/
     description: Chennai 3D animation studio making product, technical, medical and training animations plus AR/VR configurators for industry.
@@ -448,31 +351,6 @@ studios:
       instagram: https://www.instagram.com/framenotestudio
       vimeo: https://vimeo.com/framenotestudio
     notes: no website (framenote.studio is a parked lander). Behance lists New Delhi and Gurgaon; latest work is MG Majestor launch CGI.
-  - name: Octro
-    url: https://www.octro.com/
-    description: Mobile game studio making social card and casino-style games such as Teen Patti, Indian Rummy and Octro Poker.
-    hq:
-      city: Noida
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2006
-    notable:
-      - Teen Patti Octro
-      - Indian Rummy
-      - Octro Poker
-    added_at: '2026-10-31T05:09:10.969Z'
-    careers: https://www.octro.com/career.html
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/octrogames/
-      linkedin: https://www.linkedin.com/company/octro-inc-
-      youtube: https://www.youtube.com/c/Octroofficial
-      x: https://twitter.com/octroinc
-    notes: Open roles listed in Noida (AGI list says Gurugram).
   - name: Firefly Creative Studio
     url: https://www.firefly.in/
     description: Hyderabad studio providing film VFX from previs to post, plus ad films with character animation and live action.
@@ -575,25 +453,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-01'
     notes: Production house and studio facility (22 acres) rather than a pure VFX shop.
-  - name: Hitwicket
-    url: https://hitwicket.com/
-    description: Hyderabad mobile game studio making Hitwicket Superstars, a cricket strategy game played worldwide.
-    hq:
-      city: Hyderabad
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Hitwicket Superstars
-    added_at: '2026-10-31T05:09:10.969Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/hitwicketsuperstars/
-      youtube: https://www.youtube.com/@HitwicketGame
-    notes: Operated by Metasports Media Pvt Ltd (Hyderabad). JS-only site; facts read from its bundle.
   - name: Little Red Zombies
     url: https://www.littleredzombies.com/
     description: Character art outsourcing studio making 3D outfits, heads, creatures and groomed hair for AAA games.

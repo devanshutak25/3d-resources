@@ -1,0 +1,976 @@
+studios:
+  - name: IguanaBee
+    url: https://iguanabee.com/
+    description: Work-for-hire and original games studio behind Headsnatchers and licensed console titles.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Headsnatchers
+      - 'G.I. Joe: Operation Blackout'
+      - Little League World Series Baseball 2022
+    founded: 2011
+    social:
+      x: https://x.com/iguanabee
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.681Z'
+  - name: Teravision Games
+    url: https://teravisiongames.com/
+    description: 'Studio behind Killer Klowns from Outer Space: The Game and Headsnatchers.'
+    hq:
+      city: Bogotá
+      country: Colombia
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Killer Klowns from Outer Space: The Game'
+      - Captain ToonHead vs the Punks from Outer Space
+      - Headsnatchers
+    careers: https://teravisiongames.bamboohr.com/careers
+    social:
+      instagram: https://www.instagram.com/teravisiongames
+      x: https://x.com/TeravisionGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.687Z'
+  - name: R-Next
+    url: https://r-next.com.co/
+    description: Developer of games, VR experiences and interactive apps.
+    hq:
+      country: Colombia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Aniquilation
+    social:
+      x: https://x.com/RNextStudios
+      instagram: https://www.instagram.com/rnextstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.694Z'
+  - name: Dreams Uncorporated
+    url: https://uncorporated.co/
+    description: Indie studio that made the time-bending RPG Cris Tales.
+    hq:
+      country: Colombia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cris Tales
+    social:
+      instagram: https://www.instagram.com/dreamsuncorporated
+      linkedin: https://www.linkedin.com/company/dreams-uncorporated
+      x: https://x.com/d_uncorporated
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.702Z'
+  - name: Efecto Studios
+    url: https://www.efectostudios.com/
+    description: Game developer doing original titles and work-for-hire across platforms.
+    hq:
+      city: Bogotá
+      country: Colombia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://www.efectostudios.com/careers/
+    social:
+      x: https://x.com/efectostudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.709Z'
+  - name: C2 Game Studio
+    url: https://www.c2gamestudio.com/
+    description: 'Action game studio behind ASTOR: Blade of the Monolith.'
+    hq:
+      country: Colombia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'ASTOR: Blade of the Monolith'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.716Z'
+  - name: Sunna Entertainment
+    url: https://www.sunnaentertainment.com/
+    description: 'Indie studio making original games since 2014, including Planet Cube: Edge.'
+    hq:
+      city: San José
+      country: Costa Rica
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Planet Cube: Edge'
+    founded: 2014
+    social:
+      instagram: https://instagram.com/sunnastudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.723Z'
+  - name: Fair Play Labs
+    url: https://fairplaylabs.com/
+    description: Developer of Nickelodeon All-Star Brawl 2 and other licensed and original games.
+    hq:
+      country: Costa Rica
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Nickelodeon All-Star Brawl 2
+      - Nicktoons & The Dice of Destiny
+      - Color Guardians
+    careers: https://fairplaylabs.com/careers/
+    social:
+      x: https://x.com/FairPlayLabs
+      instagram: https://www.instagram.com/fairplaylabs
+      linkedin: https://www.linkedin.com/company/fair-play-labs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.730Z'
+  - name: Green Lava Studios
+    url: https://www.greenlavastudios.com/
+    description: Indie studio behind Fenix Rage and the My Name is Mayo series.
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fenix Rage
+      - My Name is Mayo
+      - Mr. Massagy
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.737Z'
+  - name: EnsenaSoft
+    url: https://ensenasoft.com/
+    description: Developer and publisher of casual, kids and mystery games.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Murder Mystery Adventure
+      - Mystery of Rivenhallows
+      - Isla Sinaloa
+    social:
+      x: https://x.com/EnsenaSoft
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.745Z'
+  - name: Halberd Studios
+    url: https://www.halberdstudios.com/
+    description: Indie studio behind the metroidvania 9 Years of Shadows.
+    hq:
+      city: Zapopan
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 9 Years of Shadows
+    founded: 2016
+    social:
+      x: https://x.com/halberdstudios
+      instagram: https://www.instagram.com/halberdstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.752Z'
+  - name: Ogre Pixel
+    url: https://ogrepixel.com/
+    description: Indie studio making fantasy adventures such as Lonesome Village.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Lonesome Village
+    social:
+      instagram: https://www.instagram.com/ogrepixel
+      x: https://x.com/ogrepixel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.759Z'
+  - name: 1 Simple Game
+    url: https://www.1simplegame.com/
+    description: Indie studio behind the platformer The Lullaby of Life.
+    hq:
+      city: Zapopan
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Lullaby of Life
+    founded: 2013
+    social:
+      x: https://x.com/1simplegame
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.766Z'
+  - name: Chihuas Games
+    url: https://www.chihuasgames.com/
+    description: Small game and app studio behind Strong Moon.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Strong Moon
+    social:
+      instagram: https://www.instagram.com/chihuasgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.773Z'
+  - name: HyperBeard
+    url: https://hyperbeard.com/
+    description: Mobile studio known for KleptoCats and other cute casual games.
+    hq:
+      city: Mexico City
+      country: Mexico
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - KleptoCats
+      - Axolochi
+      - Alchademy
+    careers: https://hyperbeard.com/jobs/
+    social:
+      x: https://x.com/hyperbeard
+      instagram: https://www.instagram.com/hyperbeardg_
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.782Z'
+  - name: Lienzo
+    url: https://www.lienzo.mx/
+    description: Studio drawing on Mexican culture, behind Mulaka and Aztech Forgotten Gods.
+    hq:
+      city: Chihuahua
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mulaka
+      - Aztech Forgotten Gods
+      - Hunter's Legacy
+    social:
+      x: https://x.com/LienzoMx
+      instagram: https://www.instagram.com/lienzomx
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.789Z'
+  - name: Bamtang Games
+    url: https://www.bamtang.com/
+    description: Work-for-hire developer of licensed console games like Nickelodeon Kart Racers.
+    hq:
+      city: Lima
+      country: Peru
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Nickelodeon Kart Racers
+      - 'Nickelodeon Kart Racers 2: Grand Prix'
+      - 'Mighty Morphin Power Rangers: Mega Battle'
+      - 'Looney Tunes: Wacky World of Sports'
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.797Z'
+  - name: LEAP Game Studios
+    url: https://leapgs.com/
+    description: Indie studio behind the roguelite Tunche.
+    hq:
+      city: Lima
+      country: Peru
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tunche
+      - Arrog
+      - LAN Party Adventures
+    social:
+      x: https://x.com/leapgamestudios
+      instagram: https://www.instagram.com/leapgamestudios
+      linkedin: https://www.linkedin.com/company/leap-game-studios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.805Z'
+  - name: Batovi Games Studio
+    url: https://batovi.com/web2/
+    description: Developer of retro football games like Pixel Cup Soccer.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Pixel Cup Soccer - Ultimate Edition
+      - Charrua Soccer
+    founded: 2005
+    social:
+      x: https://x.com/BatoviGames
+      instagram: https://www.instagram.com/batovigames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.812Z'
+  - name: Pomelo Games
+    url: https://www.pomelogames.com/
+    description: 'Studio behind Mars: Mars and the city builder Outlanders.'
+    hq:
+      city: Montevideo
+      country: Uruguay
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Outlanders
+      - 'Mars: Mars'
+    careers: https://www.pomelogames.com/careers/
+    social:
+      x: https://x.com/pomelogames
+      instagram: https://www.instagram.com/pomelogames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.819Z'
+  - name: Chaos Minds Games
+    url: https://www.chaosmindsgames.com/
+    description: Indie developer and publisher of horror, platformer and escape-room games.
+    hq:
+      city: Haifa
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Luciform
+      - 'Forgiveness: Escape Room'
+    founded: 2019
+    social:
+      x: https://x.com/ChaosMindsGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.827Z'
+  - name: Capricia Productions
+    url: https://www.capriciaproductions.com/
+    description: Studio making music-driven story games such as Of Bird and Cage.
+    hq:
+      city: Jerusalem
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Of Bird and Cage
+    founded: 2013
+    social:
+      x: https://x.com/capriciaproduct
+      instagram: https://www.instagram.com/capriciaproductions
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.835Z'
+  - name: Suncrash
+    url: https://suncrash.com/
+    description: 'Indie strategy studio behind Judgment and Dream Engines: Nomad Cities.'
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Judgment: Apocalypse Survival Simulation'
+      - 'Dream Engines: Nomad Cities'
+    founded: 2014
+    social:
+      x: https://x.com/suncrashstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.842Z'
+  - name: Happy Juice Games
+    url: https://www.happyjuice.games/
+    description: Indie studio behind the puzzle adventure Lost in Play.
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Lost in Play
+    social:
+      x: https://x.com/HappyJuiceGames
+      instagram: https://www.instagram.com/happyjuicegames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.850Z'
+  - name: Clover Bite
+    url: https://www.cloverbite.com/
+    description: Studio and indie publisher behind the action RPG Grime.
+    hq:
+      city: Haifa
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Grime
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.858Z'
+  - name: Nomadroid
+    url: https://nomadroid.co/
+    description: Saudi studio making premium single-player games, starting with KoroNeko.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - KoroNeko
+    founded: 2021
+    size: boutique
+    social:
+      linkedin: https://linkedin.com/company/nomadroid
+      instagram: https://www.instagram.com/nomadroid_studio
+      x: https://x.com/nomadroid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.866Z'
+  - name: Semaphore
+    url: https://www.semaphorelab.com/
+    description: Multiplatform studio making games, simulations, VR apps and animation.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Unearthed: Trail of Ibn Battuta'
+      - Badiya
+    careers: https://www.semaphorelab.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.874Z'
+  - name: Table Knight Games
+    url: https://tableknightgames.com/
+    description: Studio making culture-inspired party and trivia games plus the action game UnderMire.
+    hq:
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2016
+    careers: https://url.tableknightgames.com/jobs
+    social:
+      instagram: https://instagram.com/TableKnightGames
+      linkedin: https://www.linkedin.com/company/tableknightgames
+      x: https://x.com/TableKnightGame
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.882Z'
+  - name: Indie Glue
+    url: https://indieglue.com/
+    description: Indie developer behind High Cats.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - High Cats
+    social:
+      x: https://x.com/indiegluedev
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.889Z'
+  - name: DarkArts Studios
+    url: https://www.darkarts.co.za/
+    description: Indie studio making roguelikes, arcade shooters, tabletop RPGs and Unity tools.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Bunny Bash
+      - Vulture
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.897Z'
+  - name: QCF Design
+    url: https://www.qcfdesign.com/
+    description: Indie studio behind the puzzle roguelike Desktop Dungeons.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Desktop Dungeons
+      - Drawkanoid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.906Z'
+  - name: Clockwork Acorn
+    url: https://clockworkacorn.com/
+    description: Remote indie studio making games with chunky, tactile design.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://clockworkacorn.com/careers/
+    social:
+      instagram: https://www.instagram.com/clockwork_acorn
+      linkedin: https://www.linkedin.com/company/clockwork-acorn
+      x: https://x.com/ClockworkAcorn
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.914Z'
+  - name: Ubisoft Abu Dhabi
+    url: https://www.ubisoft.com/en-us/company/careers/locations/abu-dhabi
+    description: 'Ubisoft studio at Yas Creative Hub, known for the mobile game CSI: Hidden Crimes.'
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Ubisoft
+    notable:
+      - 'CSI: Hidden Crimes'
+    founded: 2011
+    careers: https://www.ubisoft.com/en-us/company/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.922Z'
+  - name: Instinct Games
+    url: https://www.instinctgames.com/
+    description: 'Egyptian co-development studio that worked on ARK: Survival Evolved and Atlas.'
+    hq:
+      city: Cairo
+      country: Egypt
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'ARK: Survival Evolved'
+      - Atlas
+    social:
+      x: https://x.com/instinctgames
+      linkedin: https://www.linkedin.com/company/instinct-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.930Z'
+  - name: Qene Games
+    url: https://qenetech.com/
+    description: Ethiopian studio making mobile games based on local culture.
+    hq:
+      city: Addis Ababa
+      country: Ethiopia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Kukulu
+      - Gebeta
+    founded: 2016
+    careers: https://qenetech.com/work-with-us/
+    social:
+      x: https://x.com/QeneGames
+      instagram: https://www.instagram.com/qenegames
+      linkedin: https://www.linkedin.com/company/qene-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.938Z'
+  - name: Lucid Labs
+    url: https://lucidlabs.in/
+    description: Indie studio making story-led puzzle games such as Possessions.
+    hq:
+      city: New Delhi
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Possessions
+    founded: 2015
+    careers: https://lucidlabs.in/careers
+    social:
+      instagram: https://instagram.com/wearelucidlabs
+      x: https://x.com/wearelucidlabs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.947Z'
+  - name: StudioKrew
+    url: https://studiokrew.com/
+    description: Outsourced game and app development company working for clients worldwide.
+    hq:
+      city: Delhi
+      country: India
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - vr
+    founded: 2013
+    size: mid
+    social:
+      linkedin: https://www.linkedin.com/company/studio-krew
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.955Z'
+  - name: GameShastra
+    url: https://www.gameshastra.com/
+    description: Game development and art production partner with offices in India and the US.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - 'Desi Adda: Games of India'
+    founded: 2006
+    careers: https://www.gameshastra.com/careers.html
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.963Z'
+  - name: Xigma Games
+    url: https://www.xigmagames.com/
+    description: Indie studio behind the survival strategy series The Bonfire.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - 'The Bonfire: Forsaken Lands'
+      - 'The Bonfire 2: Uncharted Shores'
+    social:
+      instagram: https://www.instagram.com/xigmagames
+      linkedin: https://www.linkedin.com/company/xigma-games
+      x: https://x.com/xigmagames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.972Z'
+  - name: Studio Oleomingus
+    url: https://oleomingus.com/
+    description: Small studio making literary games about colonial history, such as Somewhere.
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    social:
+      instagram: https://www.instagram.com/studio.oleomingus
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.980Z'
+  - name: iXie Gaming
+    url: https://www.ixiegaming.com/
+    description: Gaming division of Indium offering co-development, porting, art and QA.
+    hq:
+      country: India
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Indium
+    careers: https://www.ixiegaming.com/careers
+    social:
+      instagram: https://www.instagram.com/ixiegaming
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.988Z'
+  - name: Motion Miracles
+    url: https://motionmiracles.com/
+    description: Game, animation and creative tech studio with bases in Sri Lanka and Singapore.
+    hq:
+      city: Colombo
+      country: Sri Lanka
+    offices:
+      - city: Singapore
+        country: Singapore
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Wacky Winter
+    careers: https://motionmiracles.com/careers
+    social:
+      x: https://x.com/motion_miracles
+      instagram: https://www.instagram.com/motion.miracles
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.996Z'
+  - name: DotGEARS
+    url: https://dotgears.com/
+    description: Mobile arcade developer best known for Flappy Bird.
+    hq:
+      city: Da Nang
+      country: Vietnam
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Flappy Bird
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.005Z'
+  - name: Amanotes
+    url: https://www.amanotes.com/
+    description: Music game publisher and developer behind Magic Tiles 3 and Tiles Hop.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Magic Tiles 3
+      - Tiles Hop
+      - Dancing Road
+    founded: 2014
+    careers: https://www.careers.amanotes.com/
+    social:
+      linkedin: https://www.linkedin.com/company/amanotes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.014Z'
+  - name: VNG
+    url: https://vng.com.vn/
+    description: Vietnamese tech group whose VNGGames and ZingPlay arms develop and publish online games.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    founded: 2004
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.023Z'
+  - name: Yangyang Mobile
+    url: https://yangyangmobile.com/
+    description: Visual novel studio making romance and life-sim games such as Love Esquire.
+    hq:
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Love Esquire
+      - The Letter
+      - Saint Maker
+    social:
+      x: https://x.com/yangyangmobile
+      instagram: https://www.instagram.com/yangyangmobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.031Z'
+  - name: AppSir Games
+    url: https://www.appsirgames.com/
+    description: Indie horror developer of The Last Yandere and DERE EVIL .EXE.
+    hq:
+      city: Makati
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - DERE EVIL .EXE
+      - The Last Yandere
+      - Sorority Rites
+    social:
+      x: https://x.com/AppSirGames
+      instagram: https://www.instagram.com/AppSirGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.040Z'
+  - name: Squeaky Wheel Studio
+    url: https://www.squeakywheel.ph/
+    description: 'Indie studio behind Academia: School Simulator and Political Animals.'
+    hq:
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Academia: School Simulator'
+      - Political Animals
+    social:
+      linkedin: https://www.linkedin.com/company/squeaky-wheel-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.048Z'
+  - name: Masshive Media
+    url: https://www.masshive-media.com/
+    description: Indie studio behind the RPG Potion Permit.
+    hq:
+      city: Bandung
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Potion Permit
+      - 'Azure Saga: Pathfinder'
+    founded: 2014
+    social:
+      x: https://x.com/masshivemedia
+      instagram: https://www.instagram.com/masshivemedia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.057Z'
+  - name: GameChanger Studio
+    url: https://gamechangerstudio.net/
+    description: Indie studio known for the My Lovely Daughter series.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - My Lovely Daughter
+      - My Lovely Wife
+      - My Lovely Empress
+    founded: 2013
+    social:
+      x: https://x.com/gchangerstudio
+      instagram: https://www.instagram.com/gchangerstudio
+      linkedin: https://www.linkedin.com/company/gamechanger-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.066Z'

@@ -1,0 +1,1240 @@
+studios:
+  - name: Naughty Dog
+    url: https://www.naughtydog.com/
+    description: Sony first-party game developer in Santa Monica making cinematic third-person action games.
+    hq:
+      city: Santa Monica, CA
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    size: large
+    founded: 1984
+    careers: https://www.naughtydog.com/careers
+    notable:
+      - The Last of Us
+      - 'Uncharted 4: A Thief''s End'
+      - Crash Bandicoot
+    social:
+      instagram: https://www.instagram.com/naughtydog/
+      youtube: https://www.youtube.com/user/NaughtyDog
+      x: https://x.com/naughty_dog
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: CD PROJEKT RED
+    url: https://www.cdprojektred.com/en
+    description: Polish game developer making story-driven open-world RPGs.
+    hq:
+      city: Warsaw
+      country: Poland
+    offices:
+      - city: Kraków
+        country: Poland
+      - city: Wrocław
+        country: Poland
+      - city: Vancouver
+        country: Canada
+      - city: Boston, MA
+        country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: CD Projekt
+    size: large
+    founded: 2002
+    careers: https://www.cdprojektred.com/en/jobs
+    notable:
+      - 'The Witcher 3: Wild Hunt'
+      - Cyberpunk 2077
+    social:
+      instagram: https://www.instagram.com/cdprojektred/
+      linkedin: https://www.linkedin.com/company/cd-projekt-red/
+      youtube: https://www.youtube.com/@CDPROJEKTRED
+      x: https://x.com/cdprojektred
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Remedy Entertainment
+    url: https://www.remedygames.com/
+    description: Finnish game developer making narrative action games with its own Northlight engine.
+    hq:
+      city: Espoo
+      country: Finland
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    size: large
+    founded: 1995
+    careers: https://www.remedygames.com/careers
+    notable:
+      - Alan Wake 2
+      - Control
+      - Max Payne
+    social:
+      instagram: https://www.instagram.com/RemedyGames
+      linkedin: https://www.linkedin.com/company/32617
+      vimeo: https://vimeo.com/RemedyGames
+      x: https://twitter.com/RemedyGames
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Guerrilla Games
+    url: https://www.guerrilla-games.com/
+    description: Sony first-party studio in Amsterdam making open-world action games on its in-house Decima engine.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    size: large
+    founded: 2000
+    careers: https://www.guerrilla-games.com/join
+    notable:
+      - Horizon Zero Dawn
+      - Horizon Forbidden West
+      - Killzone
+    social:
+      instagram: https://www.instagram.com/guerrillagames/
+      linkedin: https://www.linkedin.com/company/guerrilla-games/
+      x: https://twitter.com/guerrilla
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: FromSoftware
+    url: https://www.fromsoftware.jp/
+    description: Tokyo game developer making dark fantasy action RPGs with dense world and creature design.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Kadokawa Corporation
+    size: large
+    founded: 1986
+    careers: https://careers.fromsoftware.jp/jp/
+    notable:
+      - Elden Ring
+      - Dark Souls
+      - 'Sekiro: Shadows Die Twice'
+    social:
+      instagram: https://www.instagram.com/fromsoftware_jp/
+      youtube: https://www.youtube.com/user/FromSoftwareInc/
+      x: https://twitter.com/fromsoftware_pr
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+  - name: Supergiant Games
+    url: https://www.supergiantgames.com/
+    description: Independent game studio in San Francisco making hand-painted action games.
+    hq:
+      city: San Francisco, CA
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    size: small
+    founded: 2009
+    careers: https://www.supergiantgames.com/join/
+    notable:
+      - Hades
+      - Bastion
+      - Transistor
+    social:
+      instagram: https://www.instagram.com/supergiantgames
+      youtube: https://www.youtube.com/user/supergiantgames
+      x: https://twitter.com/SupergiantGames
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Santa Monica Studio
+    url: https://sms.playstation.com/
+    description: Sony first-party game developer in Los Angeles behind the God of War series.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    size: large
+    founded: 1999
+    notable:
+      - God of War (2018)
+      - God of War Ragnarök
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Ninja Theory
+    url: https://ninjatheory.com/
+    description: Xbox game studio in Cambridge making story-driven action games.
+    hq:
+      city: Cambridge
+      country: United Kingdom
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Microsoft
+    size: mid
+    founded: 2000
+    careers: https://ninjatheory.com/careers/opportunities
+    notable:
+      - 'Hellblade: Senua''s Sacrifice'
+      - 'Senua''s Saga: Hellblade II'
+      - Heavenly Sword
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Sucker Punch Productions
+    url: https://www.suckerpunch.com/
+    description: Sony first-party game developer near Seattle making open-world action games.
+    hq:
+      city: Bellevue, WA
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    size: mid
+    founded: 1997
+    careers: https://jobs.suckerpunch.com/
+    notable:
+      - Ghost of Tsushima
+      - Ghost of Yōtei
+      - Infamous Second Son
+    social:
+      instagram: https://www.instagram.com/suckerpunchprod/
+      x: https://x.com/suckerpunchprod
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Housemarque
+    url: https://housemarque.com/
+    description: Sony first-party studio in Helsinki making arcade-style action games.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    size: mid
+    founded: 1995
+    careers: https://housemarque.com/careers
+    notable:
+      - Returnal
+      - Resogun
+    social:
+      instagram: https://www.instagram.com/housemarque
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Bloober Team
+    url: https://www.blooberteam.com/
+    description: Kraków game developer making psychological horror games.
+    hq:
+      city: Kraków
+      country: Poland
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    size: large
+    founded: 2008
+    careers: https://blooberteam.traffit.com/career/
+    notable:
+      - Silent Hill 2 (2024)
+      - Layers of Fear
+      - The Medium
+    social:
+      youtube: https://www.youtube.com/user/blooberteam
+      x: https://twitter.com/blooberteam
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Techland
+    url: https://techland.net/
+    description: Polish game developer and publisher making open-world first-person action games.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    size: large
+    founded: 1991
+    careers: https://techland.net/company/careers
+    notable:
+      - Dying Light
+      - Dying Light 2 Stay Human
+      - Call of Juarez
+    social:
+      instagram: https://www.instagram.com/techlandgames/
+      linkedin: https://www.linkedin.com/company/techland/
+      youtube: https://www.youtube.com/channel/UCELOp53ps7F22ixRjUPCwZQ
+      x: https://twitter.com/techlandgames
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: GSC Game World
+    url: https://www.gsc-game.com/
+    description: Ukrainian game developer behind the S.T.A.L.K.E.R. survival shooter series.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    size: large
+    founded: 1995
+    careers: https://www.gsc-game.com/careers
+    notable:
+      - 'S.T.A.L.K.E.R. 2: Heart of Chornobyl'
+      - 'S.T.A.L.K.E.R.: Shadow of Chernobyl'
+      - Cossacks
+    social:
+      linkedin: https://www.linkedin.com/company/gsc-gameworld
+      youtube: https://www.youtube.com/c/gscgameworldofficial/
+      x: https://twitter.com/GSC_GW
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: 4A Games
+    url: https://www.4a-games.com.mt/
+    description: Game developer founded in Kyiv and now based in Malta, making the Metro first-person shooter series.
+    hq:
+      city: Sliema
+      country: Malta
+    offices:
+      - city: Kyiv
+        country: Ukraine
+    segments:
+      - aaa
+    size: large
+    founded: 2006
+    careers: https://www.4a-games.com.mt/careers
+    notable:
+      - Metro Exodus
+      - Metro 2033
+    social:
+      instagram: https://www.instagram.com/4agames/
+      linkedin: https://www.linkedin.com/company/4a-games/
+      youtube: https://www.youtube.com/c/4AGames
+      x: https://twitter.com/4AGames
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Shift Up
+    url: https://shiftup.co.kr/
+    description: Seoul game developer making character-focused action and mobile games.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - console
+      - pc
+      - mobile
+    size: large
+    founded: 2013
+    notable:
+      - Stellar Blade
+      - 'Goddess of Victory: Nikke'
+      - Destiny Child
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Pearl Abyss
+    url: https://www.pearlabyss.com/
+    description: South Korean game developer making open-world MMO and action games on its own engine.
+    hq:
+      city: Gwacheon
+      country: South Korea
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: large
+    founded: 2010
+    careers: https://www.pearlabyss.com/Company/Careers/Intro
+    notable:
+      - Black Desert
+      - Crimson Desert
+    social:
+      linkedin: https://www.linkedin.com/company/pearl-abyss
+      youtube: https://www.youtube.com/channel/UCVtC-cy2yO6u0dOB7UeajDw
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Game Science
+    url: https://gamesci.cn/
+    description: Chinese game developer making action RPGs based on Chinese mythology.
+    hq:
+      city: Shenzhen
+      country: China
+    offices:
+      - city: Hangzhou
+        country: China
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - 'Black Myth: Wukong'
+      - 'Black Myth: Zhong Kui'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Kuro Games
+    url: https://www.kurogames.com/
+    description: Guangzhou game developer making anime-style action games for mobile and PC.
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Tencent
+    size: large
+    founded: 2014
+    notable:
+      - Wuthering Waves
+      - 'Punishing: Gray Raven'
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: PlatinumGames
+    url: https://www.platinumgames.com/
+    description: Osaka game developer specialising in character action games.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    size: large
+    founded: 2007
+    careers: https://www.platinumgames.com/recruit/mid-career/
+    notable:
+      - Bayonetta
+      - 'Nier: Automata'
+      - 'Metal Gear Rising: Revengeance'
+    social:
+      instagram: https://www.instagram.com/platinumgames_official/
+      youtube: https://www.youtube.com/channel/UCPuG5gaLOk-b_R7N_bp9HaA
+      x: https://x.com/platinumgames
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Kojima Productions
+    url: https://www.kojimaproductions.jp/
+    description: Independent Tokyo game studio led by Hideo Kojima, making cinematic action games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    founded: 2015
+    careers: https://www.kojimaproductions.jp/en/careers
+    notable:
+      - Death Stranding
+      - 'Death Stranding 2: On the Beach'
+    social:
+      linkedin: https://www.linkedin.com/company/kojimaproductions/
+      youtube: https://www.youtube.com/c/KOJIMAPRODUCTIONS
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Toge Productions
+    url: https://www.togeproductions.com/
+    description: Indonesian independent game developer and publisher making narrative pixel-art games.
+    hq:
+      city: Tangerang
+      country: Indonesia
+    segments:
+      - indie
+    founded: 2011
+    careers: https://www.togeproductions.com/career/
+    notable:
+      - Coffee Talk
+      - Infectonator
+    social:
+      youtube: https://www.youtube.com/user/togeproductions
+      x: https://twitter.com/togeproductions
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Nodding Heads Games
+    url: https://www.noddingheadsgames.com/
+    description: Pune game studio making action-adventure games drawn from Indian mythology and art.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Raji: An Ancient Epic'
+    social:
+      instagram: https://www.instagram.com/noddingheadsgames/
+      linkedin: https://www.linkedin.com/company/noddingheadsgames/
+      youtube: https://www.youtube.com/channel/UCo0t8PwZ4uUdlKYzG_NXb7g
+      x: https://twitter.com/games_heads
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Ogre Head Studio
+    url: https://www.ogreheadstudio.com/
+    description: Independent game developer in Hyderabad making PC and console games.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    careers: https://www.ogreheadstudio.com/career
+    notable:
+      - Asura
+    social:
+      instagram: https://www.instagram.com/ogreheadstudio/
+      linkedin: https://in.linkedin.com/company/ogreheadstudio
+      youtube: https://www.youtube.com/channel/UCeG6qxIU_CWOiAr7HyadJ6A
+      x: https://twitter.com/ogreheadstudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: SuperGaming
+    url: https://www.supergaming.com/
+    description: Game developer headquartered in Singapore with studios in Pune, making multiplayer shooters for mobile.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - city: Pune
+        country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.supergaming.com/careers.html
+    notable:
+      - Indus Battle Royale
+      - MaskGun
+    social:
+      instagram: https://www.instagram.com/supergaming_npc/
+      linkedin: https://in.linkedin.com/company/supg
+      youtube: https://www.youtube.com/@supergaming6686
+      x: https://twitter.com/supergamingnpc
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Mad Mimic
+    url: https://madmimic.com/
+    description: Independent game developer in São Paulo making stylised action and strategy games.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dandy Ace
+      - No Heroes Here
+    social:
+      instagram: https://www.instagram.com/madmimic/
+      youtube: https://www.youtube.com/@MadMimic
+      x: https://x.com/madmimic
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Sloclap
+    url: https://www.sloclap.com/
+    description: Independent Paris game studio making melee combat and sports games with stylised art.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    careers: https://careers.sloclap.com/
+    notable:
+      - Sifu
+      - Absolver
+      - Rematch
+    social:
+      linkedin: https://www.linkedin.com/company/sloclap/
+      youtube: https://www.youtube.com/@Sloclap
+      x: https://x.com/sloclap
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Kokku
+    url: https://kokkugames.com/
+    description: Brazilian game co-development studio providing art production and full game development.
+    hq:
+      city: Recife
+      country: Brazil
+    segments:
+      - co-dev
+    founded: 2011
+    careers: https://apply.workable.com/kokku-games/
+    notable:
+      - Horizon Zero Dawn
+    social:
+      instagram: https://www.instagram.com/kokkugames/
+      linkedin: https://www.linkedin.com/company/kokku/
+      x: https://twitter.com/KokkuGames
+      artstation: https://www.artstation.com/kokku
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Streamline Studios
+    url: https://www.streamline-studios.com/
+    description: Kuala Lumpur game co-development studio providing art, engineering and full-cycle production.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - co-dev
+    founded: 2001
+    careers: https://www.streamline-studios.com/en/careers
+    notable:
+      - 'MARVEL Tōkon: Fighting Souls'
+    social:
+      instagram: https://www.instagram.com/streamlinestudios/
+      linkedin: https://www.linkedin.com/company/streamlinestudios/
+      youtube: https://www.youtube.com/@streamline-studios
+      x: https://twitter.com/streamlinenews
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Juego Studios
+    url: https://www.juegostudio.com/
+    description: Bengaluru game development and art outsourcing studio working on mobile, PC, console and XR titles.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Jeddah
+        country: Saudi Arabia
+      - city: Plano, TX
+        country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    size: large
+    founded: 2013
+    careers: https://www.juegostudio.com/careers
+    social:
+      artstation: https://www.artstation.com/juegostudios
+      behance: https://www.behance.net/JuegoStudios
+      linkedin: https://www.linkedin.com/company/juego-studio
+      x: https://www.twitter.com/juegostudio
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: Innerspace VR
+    url: https://www.innerspacevr.com/
+    description: Paris studio developing VR games and narrative immersive experiences.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - vr
+    platforms:
+      - vr
+    size: small
+    founded: 2014
+    notable:
+      - A Fisherman's Tale
+      - Another Fisherman's Tale
+      - Maskmaker
+    social:
+      instagram: https://www.instagram.com/innerspacevr/
+      youtube: https://www.youtube.com/@INNERSPACEVRStudio
+      x: https://x.com/InnerspaceVR
+    added_at: '2026-10-30T21:40:17.280Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: ILCA
+    url: https://www.ilca.co.jp/
+    description: Game developer in Tokyo that co-develops console titles and produces real-time CG video, art and design for publishers.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Nagoya
+        country: Japan
+      - city: Kyoto
+        country: Japan
+      - city: Kobe
+        country: Japan
+      - city: Taipei
+        country: Taiwan
+      - city: Da Nang
+        country: Vietnam
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    size: large
+    founded: 2010
+    careers: https://www.ilca.co.jp/recruit/
+    notable:
+      - Pokémon Brilliant Diamond and Shining Pearl
+      - 'Ace Combat 7: Skies Unknown'
+      - One Piece Odyssey
+    social:
+      x: https://twitter.com/ILCA_jp
+    added_at: '2026-10-31T05:09:10.954Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Company page: 397 employees (Apr 2025).'
+  - name: miHoYo
+    url: https://www.mihoyo.com/
+    description: Game developer in Shanghai making anime-styled open-world and RPG titles, published globally under the HoYoverse brand.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    size: large
+    founded: 2012
+    notable:
+      - Genshin Impact
+      - 'Honkai: Star Rail'
+      - Zenless Zone Zero
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 5,000 employees (2022). Homepage is a JS shell but live.'
+  - name: Cygames
+    url: https://www.cygames.co.jp/
+    description: Game developer in Tokyo making mobile and console titles, with in-house CG, anime and art production teams.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: CyberAgent
+    size: large
+    founded: 2011
+    notable:
+      - Granblue Fantasy
+      - 'Granblue Fantasy: Relink'
+      - 'Umamusume: Pretty Derby'
+      - Shadowverse
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 3,644 employees (2023) and 2026 news, so active.'
+  - name: Arc System Works
+    url: https://www.arcsystemworks.jp/
+    description: Game developer in Yokohama making 2D and cel-shaded 3D fighting games for console and PC.
+    hq:
+      city: Yokohama
+      country: Japan
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    size: large
+    founded: 1988
+    notable:
+      - Guilty Gear
+      - Dragon Ball FighterZ
+      - BlazBlue
+    social:
+      youtube: https://www.youtube.com/user/arcsystemworks
+      x: https://x.com/ARCSY_PR
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 223 employees (Dec 2024).'
+  - name: Vanillaware
+    url: https://vanillaware.co.jp/
+    description: Small game developer in Osaka making action RPGs and adventure games with hand-painted 2D art and animation.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+    size: small
+    founded: 2002
+    notable:
+      - Odin Sphere
+      - '13 Sentinels: Aegis Rim'
+      - Unicorn Overlord
+    social:
+      x: https://x.com/vanillaware_boy
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 39 employees (2024).'
+  - name: CyberConnect2
+    url: https://www.cc2.co.jp/
+    description: Game developer in Fukuoka making anime-licensed action games and original titles, with studios in Tokyo and Osaka.
+    hq:
+      city: Fukuoka
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Osaka
+        country: Japan
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    size: large
+    founded: 1996
+    careers: https://www.cc2.co.jp/recruit/
+    notable:
+      - 'Naruto Shippuden: Ultimate Ninja Storm'
+      - 'Demon Slayer: The Hinokami Chronicles'
+      - Asura's Wrath
+    social:
+      instagram: https://www.instagram.com/cyberconnect2/
+      youtube: https://www.youtube.com/user/cc2channel/featured
+      x: https://twitter.com/PR_CC2
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 272 employees (Feb 2025).'
+  - name: Monolith Soft
+    url: https://www.monolithsoft.co.jp/
+    description: Nintendo-owned game developer in Tokyo making the Xenoblade RPGs, with a Kyoto studio supplying art for other Nintendo titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kyoto
+        country: Japan
+    segments:
+      - aaa
+      - co-dev
+    platforms:
+      - console
+    parent: Nintendo
+    size: large
+    founded: 1999
+    careers: https://www.monolithsoft.co.jp/recruit/
+    notable:
+      - Xenoblade Chronicles
+      - Xenosaga
+      - 'The Legend of Zelda: Tears of the Kingdom (support)'
+    social:
+      x: https://twitter.com/MONOLITHSOFT
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 344 employees (2025).'
+  - name: NCSOFT
+    url: https://www.nc.com/
+    description: Game developer and publisher in Seongnam making online RPGs for PC and mobile, from Lineage to Throne and Liberty.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - console
+    size: large
+    founded: 1997
+    notable:
+      - Lineage
+      - Blade & Soul
+      - Throne and Liberty
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: about 3,100 employees.'
+  - name: KRAFTON
+    url: https://www.krafton.com/
+    description: 'Game publisher in Seoul behind PUBG: Battlegrounds and inZOI, running a network of internal and acquired studios.'
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: large
+    founded: 2018
+    notable:
+      - 'PUBG: Battlegrounds'
+      - inZOI
+      - TERA
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Site returned 403 to the fetcher (bot block). Wikipedia: 3,400+ employees; core studio Bluehole dates to 2007.'
+  - name: Smilegate
+    url: https://www.smilegate.com/en
+    description: Game developer and publisher in Seongnam making online action RPGs and shooters for PC and mobile.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    size: large
+    founded: 2002
+    careers: https://careers.smilegate.com/
+    notable:
+      - Lost Ark
+      - Epic Seven
+      - Crossfire
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: about 3,300 employees (2023).'
+  - name: Red Candle Games
+    url: https://www.redcandlegames.com/
+    description: Indie game studio in Taipei making hand-drawn horror and action games rooted in Taiwanese and Asian folklore.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    size: small
+    founded: 2015
+    notable:
+      - Detention
+      - Devotion
+      - Nine Sols
+    social:
+      youtube: https://www.youtube.com/channel/UCzFIdV34VVQpCg_2ij6UdpQ
+      x: https://twitter.com/redcandlegames
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 12 employees.'
+  - name: Rayark
+    url: https://www.rayark.com/
+    description: Game developer in Taipei making rhythm and RPG titles for mobile and console with illustrated, anime-styled art.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    size: large
+    founded: 2011
+    notable:
+      - Cytus II
+      - Deemo
+      - Sdorica
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 258 employees (2022).'
+  - name: NeoBards Entertainment
+    url: https://www.neobards.com/
+    description: Game studio with teams in Taipei and Suzhou that co-develops, remasters and ports console titles for Japanese publishers.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    offices:
+      - city: Taipei
+        country: Taiwan
+      - city: Suzhou
+        country: China
+    segments:
+      - co-dev
+    platforms:
+      - console
+    founded: 2017
+    careers: https://neobards.com/careers/
+    notable:
+      - Silent Hill f
+      - Resident Evil Re:Verse
+      - Dead Rising Deluxe Remaster
+    social:
+      linkedin: https://www.linkedin.com/company/neobards
+      x: https://twitter.com/neobards
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: Wikipedia gives HQ Hong Kong; careers page lists only Taipei and Suzhou offices.
+  - name: TiMi Studio Group
+    url: https://www.timistudios.com/
+    description: Tencent game studio group in Shenzhen making mobile and multiplatform titles, with teams in Chengdu, Shanghai and abroad.
+    hq:
+      city: Shenzhen
+      country: China
+    offices:
+      - city: Chengdu
+        country: China
+      - city: Shanghai
+        country: China
+      - city: Singapore
+        country: Singapore
+      - city: Los Angeles
+        country: United States
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+    parent: Tencent
+    founded: 2008
+    careers: https://tencent.wd1.myworkdayjobs.com/timi_careers
+    notable:
+      - Honor of Kings
+      - 'Call of Duty: Mobile'
+      - Pokémon Unite
+    social:
+      linkedin: https://www.linkedin.com/company/timistudios/
+      x: https://twitter.com/timistudios
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: NEXON
+    url: https://www.nexon.com/
+    description: Online game developer and publisher founded in Seoul, now headquartered in Tokyo, with studios in Seoul, Pangyo and Jeju.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Seoul
+        country: South Korea
+      - city: Seongnam
+        country: South Korea
+      - city: Jeju
+        country: South Korea
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - console
+    size: large
+    founded: 1994
+    notable:
+      - MapleStory
+      - Dungeon & Fighter
+      - The First Descendant
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 7,067 employees (Dec 2021). Homepage is a JS shell but live.'
+  - name: Netmarble
+    url: https://company.netmarble.com/en
+    description: Mobile and PC game developer and publisher in Seoul making RPGs, many based on anime, webtoon and comic IP.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    size: large
+    founded: 2000
+    notable:
+      - 'Solo Leveling: Arise'
+      - Seven Knights
+      - 'Ni no Kuni: Cross Worlds'
+    social:
+      youtube: https://www.youtube.com/netmarblegames
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: NEOWIZ
+    url: https://www.neowiz.com/
+    description: Game developer and publisher in Seongnam making console, PC and mobile titles, including the soulslike Lies of P.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2007
+    careers: https://www.neowiz.com/kr/career
+    notable:
+      - Lies of P
+      - DJMax
+      - Brown Dust II
+    social:
+      instagram: https://www.instagram.com/neowiz_official
+      linkedin: https://www.linkedin.com/company/neowiz-games-corp/
+      youtube: https://www.youtube.com/@NEOWIZ
+      x: https://x.com/NEOWIZ_KR
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: redirect
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: gaming arm founded 2007; original company 1997.'
+  - name: LIGHTSPEED STUDIOS
+    url: https://www.lightspeed-studios.com/
+    description: Tencent game studio group in Shenzhen making mobile and AAA shooters and action games, with teams in Asia, North America and Europe.
+    hq:
+      city: Shenzhen
+      country: China
+    offices:
+      - city: Los Angeles
+        country: United States
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+      - pc
+    parent: Tencent
+    founded: 2011
+    careers: https://www.lightspeed-studios.com/join-us.html
+    notable:
+      - PUBG Mobile
+      - Apex Legends Mobile
+      - Undawn
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+  - name: MOONTON
+    url: https://en.moonton.com/
+    description: 'Mobile game developer and publisher in Shanghai behind the MOBA Mobile Legends: Bang Bang and other RPG titles.'
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: ByteDance
+    size: large
+    founded: 2014
+    careers: https://en.moonton.com/join/index.html
+    notable:
+      - 'Mobile Legends: Bang Bang'
+      - Watcher of Realms
+      - Silver and Blood
+    social:
+      linkedin: https://www.linkedin.com/company/moontongames/
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: 2,000+ employees (2025).'
+  - name: Devsisters
+    url: https://www.devsisters.com/
+    description: Game developer in Seoul making the Cookie Run series of mobile and console games with a strong character art focus.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    size: large
+    founded: 2007
+    careers: https://careers.devsisters.com/
+    notable:
+      - 'Cookie Run: Kingdom'
+      - 'Cookie Run: OvenBreak'
+    social:
+      linkedin: https://www.linkedin.com/company/devsisters
+      youtube: https://www.youtube.com/@devsisters
+      x: https://twitter.com/devsisters
+    added_at: '2026-10-31T05:09:10.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-01'
+    notes: 'Wikipedia: about 300 employees (2025).'

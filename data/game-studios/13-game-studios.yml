@@ -1,0 +1,1085 @@
+studios:
+  - name: Red Barrels
+    url: https://redbarrelsgames.com/
+    description: Horror studio behind the Outlast series.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Outlast
+      - Outlast 2
+      - The Outlast Trials
+    founded: 2011
+    careers: https://redbarrelsgames.com/careers/
+    social:
+      x: https://x.com/theredbarrels
+      instagram: https://www.instagram.com/the.redbarrels/
+      linkedin: https://www.linkedin.com/company/red-barrels/
+      youtube: https://www.youtube.com/user/redbarrelsgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.585Z'
+  - name: Haven Studios
+    url: https://havenstudios.com/en/
+    description: PlayStation studio led by Jade Raymond, developing the online game Fairgames.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    founded: 2021
+    careers: https://havenstudios.com/en/careers
+    social:
+      x: https://x.com/havenstudiosinc
+      linkedin: https://www.linkedin.com/company/haven-studios-inc/
+      instagram: https://www.instagram.com/havenstudiosinc/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.598Z'
+  - name: Gameloft Montréal
+    url: https://www.gameloft.com/gameloft-studios/montreal
+    description: Gameloft studio that develops Disney Dreamlight Valley.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - console
+      - pc
+    parent: Gameloft
+    notable:
+      - Disney Dreamlight Valley
+    founded: 1999
+    careers: https://www.gameloft.com/careers
+    social:
+      x: https://x.com/GameloftMTL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.613Z'
+  - name: Blackbird Interactive
+    url: https://www.blackbirdinteractive.com/
+    description: 'Studio behind Hardspace: Shipbreaker, Homeworld 3 and co-developer of Minecraft Legends.'
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Homeworld 3
+      - Minecraft Legends
+      - 'Hardspace: Shipbreaker'
+      - 'Homeworld: Deserts of Kharak'
+    founded: 2007
+    careers: https://www.blackbirdinteractive.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/blackbird-interactive-inc/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.626Z'
+  - name: Hinterland Studio
+    url: https://www.hinterland.com/
+    description: Indie studio behind the survival game The Long Dark.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Long Dark
+    founded: 2012
+    careers: https://www.hinterland.com/latest/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.640Z'
+  - name: Thunder Lotus Games
+    url: https://thunderlotusgames.com/
+    description: Hand-drawn game studio behind Spiritfarer and Jotun.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Spiritfarer
+      - Jotun
+      - Sundered
+      - 33 Immortals
+    founded: 2014
+    size: small
+    careers: https://thunderlotusgames.com/careers/
+    social:
+      instagram: https://www.instagram.com/thunderlotus/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.653Z'
+  - name: Kitfox Games
+    url: https://www.kitfoxgames.com/
+    description: Indie developer and publisher behind Boyfriend Dungeon and the Steam release of Dwarf Fortress.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Boyfriend Dungeon
+      - Moon Hunters
+      - Dwarf Fortress (Steam edition, publisher)
+    founded: 2013
+    social:
+      x: https://x.com/KitfoxGames
+      instagram: https://www.instagram.com/realkitfoxgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.668Z'
+  - name: Studio MDHR
+    url: https://studiomdhr.com/
+    description: Indie studio behind the hand-animated run-and-gun Cuphead.
+    hq:
+      city: Oakville
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cuphead
+      - 'Cuphead: The Delicious Last Course'
+    founded: 2013
+    careers: https://studiomdhr.com/careers/
+    social:
+      x: https://x.com/studiomdhr
+      youtube: https://www.youtube.com/@Studiomdhr
+      instagram: https://www.instagram.com/studiomdhr/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.682Z'
+  - name: Drinkbox Studios
+    url: https://www.drinkboxstudios.com/
+    description: Indie studio behind the Guacamelee! series.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Guacamelee!
+      - Guacamelee! 2
+      - Nobody Saves the World
+      - Severed
+    founded: 2008
+    social:
+      x: https://x.com/DrinkBoxStudios
+      linkedin: https://www.linkedin.com/company/drinkbox-studios-inc./
+      youtube: https://www.youtube.com/user/drinkboxstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.697Z'
+  - name: Capybara Games
+    url: https://www.capybaragames.com/
+    description: 'Indie studio behind Grindstone and Superbrothers: Sword & Sworcery EP.'
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Superbrothers: Sword & Sworcery EP'
+      - Below
+      - Grindstone
+      - 'Might & Magic: Clash of Heroes'
+    founded: 2003
+    careers: https://www.capybaragames.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.711Z'
+  - name: Tribute Games
+    url: https://tributegames.com/
+    description: 'Pixel-art studio behind TMNT: Shredder''s Revenge.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Teenage Mutant Ninja Turtles: Shredder''s Revenge'
+      - Mercenary Kings
+      - Panzer Paladin
+    founded: 2011
+    social:
+      x: https://x.com/TributeGames
+      instagram: https://www.instagram.com/tribute_games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.725Z'
+  - name: Sabotage Studio
+    url: https://sabotagestudio.com/
+    description: Indie studio behind The Messenger and Sea of Stars.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sea of Stars
+      - The Messenger
+    founded: 2016
+    social:
+      x: https://x.com/SabotageQc
+      instagram: https://www.instagram.com/sabotage.studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.740Z'
+  - name: Brace Yourself Games
+    url: https://braceyourselfgames.com/
+    description: Rhythm game studio behind Crypt of the NecroDancer.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Crypt of the NecroDancer
+      - Cadence of Hyrule
+      - Rift of the NecroDancer
+    founded: 2013
+    careers: https://braceyourselfgames.com/careers/
+    social:
+      youtube: https://www.youtube.com/user/BraceYourselfGames
+      instagram: https://www.instagram.com/braceyourselfgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.755Z'
+  - name: Red Hook Studios
+    url: http://www.redhookgames.com/
+    description: Indie studio behind Darkest Dungeon.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Darkest Dungeon
+      - Darkest Dungeon II
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.769Z'
+  - name: Ludeon Studios
+    url: https://ludeon.com/blog/
+    description: Indie studio behind the colony simulator RimWorld.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - RimWorld
+    founded: 2013
+    social:
+      x: https://x.com/LudeonStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.784Z'
+  - name: Endnight Games
+    url: https://endnightgames.com/
+    description: Indie studio behind the survival horror games The Forest and Sons of the Forest.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Forest
+      - Sons of the Forest
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.799Z'
+  - name: Cellar Door Games
+    url: https://www.cellardoorgames.com/
+    description: Indie studio behind the Rogue Legacy series.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Rogue Legacy
+      - Rogue Legacy 2
+    founded: 2009
+    social:
+      youtube: https://www.youtube.com/user/CellarDoorGames
+      x: https://x.com/CellarDoorGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.813Z'
+  - name: Berzerk Studio
+    url: https://berzerkstudio.com/
+    description: Indie studio behind Just Shapes & Beats and Infernax.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Just Shapes & Beats
+      - Infernax
+    founded: 2008
+    social:
+      x: https://x.com/berzerkstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.828Z'
+  - name: Panache Digital Games
+    url: https://panachedigitalgames.com/
+    description: 'Studio founded by Patrice Désilets, maker of Ancestors: The Humankind Odyssey.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Ancestors: The Humankind Odyssey'
+    founded: 2014
+    social:
+      linkedin: https://www.linkedin.com/company/panache-digital-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.843Z'
+  - name: KO_OP
+    url: https://ko-opmode.com/
+    description: Worker-owned indie studio behind Goodbye Volcano High.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Goodbye Volcano High
+      - GNOG
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.857Z'
+  - name: Double Stallion
+    url: https://dblstallion.com/
+    description: 'Indie studio behind Convergence: A League of Legends Story.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Convergence: A League of Legends Story'
+      - Speed Brawl
+      - OK K.O.! Let's Play Heroes
+    founded: 2013
+    social:
+      youtube: https://www.youtube.com/user/DoubleStallionGames
+      linkedin: https://www.linkedin.com/company/double-stallion-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.874Z'
+  - name: Spearhead Games
+    url: https://www.spearheadgames.ca/
+    description: 'Indie studio behind Stories: The Path of Destinies and Omensight.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Stories: The Path of Destinies'
+      - Omensight
+    founded: 2012
+    social:
+      x: https://x.com/SpearheadMtl
+      instagram: https://www.instagram.com/spearheadmtl/
+      youtube: https://www.youtube.com/c/SpearheadGames
+      linkedin: https://www.linkedin.com/company/spearhead-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.890Z'
+  - name: Scavengers Studio
+    url: https://www.scavengers.ca/
+    description: 'Indie studio behind Season: A Letter to the Future.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Season: A Letter to the Future'
+      - Darwin Project
+    founded: 2014
+    careers: https://www.scavengers.ca/careers
+    social:
+      linkedin: https://www.linkedin.com/company/scavengers-studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.906Z'
+  - name: Norsfell Games
+    url: https://norsfell.com/
+    description: Indie studio behind the co-op survival game Tribes of Midgard.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tribes of Midgard
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.921Z'
+  - name: Raccoon Logic
+    url: https://www.raccoonlogic.com/
+    description: Studio of the original Typhoon team, maker of Revenge of the Savage Planet.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Revenge of the Savage Planet
+    founded: 2021
+    careers: https://www.raccoonlogic.com/careers
+    social:
+      youtube: https://www.youtube.com/@RaccoonLogicStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.937Z'
+  - name: Cococucumber
+    url: https://cococucumber.co/
+    description: Indie studio behind Echo Generation and Ravenlok.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Echo Generation
+      - Ravenlok
+      - Riverbond
+    founded: 2014
+    social:
+      x: https://x.com/cococucumberco
+      instagram: https://www.instagram.com/cococucumber/
+      youtube: https://www.youtube.com/c/Cococucumber
+      linkedin: https://www.linkedin.com/company/cococucumber/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.952Z'
+  - name: Snowman
+    url: https://www.builtbysnowman.com/
+    description: Small studio behind Alto's Adventure and Alto's Odyssey.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Alto's Adventure
+      - Alto's Odyssey
+    founded: 2012
+    careers: https://builtbysnowman.com/jobs/
+    social:
+      x: https://x.com/builtbysnowman
+      instagram: https://www.instagram.com/builtbysnowman/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.968Z'
+  - name: Mighty Yell
+    url: https://www.mightyyell.com/
+    description: Indie studio behind the 1990s heist adventure The Big Con.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Big Con
+    founded: 2016
+    social:
+      youtube: https://www.youtube.com/@mightyyell
+      instagram: https://www.instagram.com/mightyyell/
+      x: https://x.com/mightyyell
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.983Z'
+  - name: Guard Crush Games
+    url: https://36137805.wixsite.com/guardcrushgames/
+    description: Beat 'em up studio behind Streets of Rage 4 and Absolum.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Streets of Rage 4
+      - Absolum
+      - Streets of Fury
+    founded: 2009
+    social:
+      x: https://x.com/Guard_Crush
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.001Z'
+  - name: Torn Banner Studios
+    url: https://tornbanner.com/
+    description: Studio behind the medieval combat series Chivalry.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Chivalry 2
+      - 'Chivalry: Medieval Warfare'
+      - 'Mirage: Arcane Warfare'
+    founded: 2010
+    careers: https://tornbanner.com/careers/
+    social:
+      x: https://x.com/TornBanner
+      youtube: https://www.youtube.com/user/TornBannerStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.017Z'
+  - name: Blue Isle Studios
+    url: https://www.blueislestudios.ca/
+    description: 'Indie studio behind Slender: The Arrival and Valley.'
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Slender: The Arrival'
+      - Valley
+    founded: 2010
+    careers: https://www.blueislestudios.ca/jobs
+    social:
+      instagram: https://www.instagram.com/blueislestudios/
+      x: https://x.com/BlueIsleStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.033Z'
+  - name: Piranha Games
+    url: https://piranhagames.com/
+    description: Studio behind the MechWarrior 5 games and MechWarrior Online.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'MechWarrior 5: Mercenaries'
+      - 'MechWarrior 5: Clans'
+      - MechWarrior Online
+    founded: 1999
+    careers: https://piranhagames.com/careers
+    social:
+      x: https://x.com/piranhagames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.049Z'
+  - name: Offworld Industries
+    url: https://www.offworldindustries.com/
+    description: Studio behind the tactical shooter Squad.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Squad
+      - 'Starship Troopers: Extermination'
+    founded: 2015
+    careers: https://www.offworldindustries.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/offworld-industries/
+      x: https://x.com/offworldind
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.064Z'
+  - name: Frima Studio
+    url: https://frimastudio.com/
+    description: Quebec City studio that develops original games and works for hire.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Chariot
+      - Young Thor
+      - Zombie Tycoon
+    founded: 2003
+    careers: https://frimastudio.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/frima-studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.080Z'
+  - name: HB Studios
+    url: https://www.hb-studios.com/
+    description: 2K-owned studio behind the PGA Tour 2K golf series.
+    hq:
+      city: Lunenburg
+      country: Canada
+    offices:
+      - city: Halifax
+        country: Canada
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Take-Two Interactive
+    notable:
+      - PGA Tour 2K21
+      - PGA Tour 2K23
+      - PGA Tour 2K25
+      - The Golf Club
+    founded: 2000
+    careers: https://www.hb-studios.com/work-with-us/
+    social:
+      x: https://x.com/hb_studios
+      linkedin: https://www.linkedin.com/company/hb-studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.096Z'
+  - name: Beamdog
+    url: https://www.beamdog.com/
+    description: Studio known for enhanced editions of classic Infinity Engine RPGs.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Baldur''s Gate: Enhanced Edition'
+      - 'Neverwinter Nights: Enhanced Edition'
+      - 'Planescape: Torment: Enhanced Edition'
+      - MythForce
+    founded: 2009
+    careers: https://www.beamdog.com/careers/
+    social:
+      youtube: https://www.youtube.com/user/BeamdogInc
+      x: https://x.com/BeamdogInc
+      linkedin: https://www.linkedin.com/company/beamdog/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.113Z'
+  - name: Codename Entertainment
+    url: https://www.codenameentertainment.com/
+    description: Studio behind Idle Champions of the Forgotten Realms.
+    hq:
+      city: Victoria
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Idle Champions of the Forgotten Realms
+      - Crusaders of the Lost Idols
+    founded: 2008
+    careers: https://www.codenameentertainment.com/?page=jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.130Z'
+  - name: Big Blue Bubble
+    url: https://www.bigbluebubble.com/
+    description: Mobile studio behind My Singing Monsters.
+    hq:
+      city: London
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - My Singing Monsters
+      - Epic Pet Story
+    founded: 2004
+    careers: https://www.bigbluebubble.com/home/careers/
+    social:
+      x: https://x.com/BigBlueBubble
+      instagram: https://www.instagram.com/bigbluebubble/
+      youtube: https://www.youtube.com/c/BigBlueBubble
+      linkedin: https://www.linkedin.com/company/big-blue-bubble/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.145Z'
+  - name: Uken Games
+    url: https://uken.com/
+    description: Mobile trivia studio behind Jeopardy! World Tour.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Playtika
+    notable:
+      - Jeopardy! World Tour
+      - Who Wants to Be a Millionaire? Trivia
+    founded: 2009
+    careers: https://uken.com/careers
+    social:
+      x: https://x.com/ukengames
+      linkedin: https://www.linkedin.com/company/ukengames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.162Z'
+  - name: Kixeye
+    url: https://www.kixeye.com/
+    description: Strategy studio behind War Commander and VEGA Conflict.
+    hq:
+      city: Victoria
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    parent: Stillfront
+    notable:
+      - War Commander
+      - VEGA Conflict
+      - Battle Pirates
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.179Z'
+  - name: East Side Games
+    url: https://eastsidegamesgroup.com/
+    description: Mobile studio known for licensed idle games.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Trailer Park Boys: Greasy Money'
+      - RuPaul's Drag Race Superstar
+      - Star Trek Lower Decks Mobile
+    founded: 2011
+    careers: https://eastsidegamesgroup.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.195Z'
+  - name: Hothead Games
+    url: https://www.hotheadgames.com/
+    description: Mobile studio behind the Kill Shot shooter series.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Kill Shot Bravo
+      - Big Win Sports
+      - DeathSpank
+    founded: 2006
+    careers: https://www.hotheadgames.com/careers
+    social:
+      x: https://x.com/hotheadgames
+      linkedin: https://www.linkedin.com/company/hothead-games/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.212Z'
+  - name: Hyper Hippo
+    url: https://hyperhippo.com/
+    description: Mobile studio behind AdVenture Capitalist.
+    hq:
+      city: Kelowna
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - AdVenture Capitalist
+      - AdVenture Communist
+    founded: 2012
+    careers: https://hyperhippo.com/careers/
+    social:
+      instagram: https://www.instagram.com/hyperhippogames/
+      linkedin: https://www.linkedin.com/company/hyper-hippo-entertainment/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.228Z'
+  - name: Noodlecake
+    url: https://noodlecake.com/
+    description: Mobile developer and publisher behind Super Stickman Golf.
+    hq:
+      city: Saskatoon
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Super Stickman Golf
+      - Super Stickman Golf 3
+    founded: 2011
+    careers: https://noodlecake.com/careers/
+    social:
+      x: https://x.com/noodlecakegames
+      instagram: https://www.instagram.com/noodlecake/
+      youtube: https://www.youtube.com/user/NoodlecakeGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.246Z'
+  - name: Frosty Pop
+    url: https://frostypop.com/
+    description: Mobile studio behind Kings of the Castle.
+    hq:
+      city: Victoria
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Kings of the Castle
+      - The Pinball Wizard
+    founded: 2016
+    social:
+      x: https://x.com/frostypopgames
+      instagram: https://www.instagram.com/frostypopgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.262Z'
+  - name: Pixile
+    url: https://pixilestudios.com/
+    description: Indie studio behind Super Animal Royale.
+    hq:
+      city: North Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Super Animal Royale
+    founded: 2011
+    social:
+      x: https://x.com/PixileStudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.277Z'
+  - name: Nine Dots Studio
+    url: https://www.ninedotsstudio.com/
+    description: Indie studio behind the survival RPG Outward.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Outward
+      - 'Outward: Definitive Edition'
+    founded: 2010
+    careers: https://www.ninedotsstudio.com/careers
+    social:
+      x: https://x.com/NineDotsStudio
+      youtube: https://youtube.com/@ninedotsstudio
+      instagram: https://www.instagram.com/ninedots_studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.293Z'
+  - name: Finish Line Games
+    url: https://finishlinegames.com/
+    description: Indie studio behind Maize and Skully.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Maize
+      - Skully
+    founded: 2014
+    careers: https://finishlinegames.com/careers
+    social:
+      youtube: https://www.youtube.com/@FinishLineGames
+      x: https://x.com/FinishLineGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.309Z'
+  - name: Alientrap
+    url: http://www.alientrap.com/
+    description: Indie studio behind Apotheon and Cryptark.
+    hq:
+      city: Saskatoon
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Apotheon
+      - Cryptark
+      - Nexuiz
+    founded: 2002
+    careers: http://www.alientrap.com/category/jobs/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.327Z'
+  - name: Metanet Software
+    url: http://www.metanetsoftware.com/
+    description: Two-person studio behind the platformer N++.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - N++
+      - 'N'
+    founded: 2001
+    social:
+      x: https://x.com/metanetsoftware
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:39.344Z'

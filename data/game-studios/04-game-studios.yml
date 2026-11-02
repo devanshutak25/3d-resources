@@ -1,0 +1,1125 @@
+studios:
+  - name: Fenris Creations
+    url: https://fenris.com/
+    description: Game developer of EVE Online and the EVE universe titles, formerly CCP Games.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - aa
+    founded: 1997
+    notable:
+      - EVE Online
+      - EVE Frontier
+      - EVE Vanguard
+      - EVE Echoes
+    social:
+      x: https://x.com/fenriscreations
+      youtube: https://www.youtube.com/@fenriscreations
+      linkedin: https://www.linkedin.com/company/fenriscreations
+    added_at: '2026-11-02T18:40:47.223Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Snapshot Games
+    url: https://www.snapshotgames.com/
+    description: Sofia game developer of the tactics game Phoenix Point, founded by Julian Gollop.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - indie
+    careers: https://jobs.gohire.io/snapshot-games-iwnh5ere/
+    notable:
+      - Phoenix Point
+    added_at: '2026-11-02T18:40:47.263Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Outfit7
+    url: https://www.outfit7.com/
+    description: Mobile game and animated content company behind Talking Tom & Friends, started in Ljubljana.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Ljubljana
+        country: Slovenia
+      - city: London
+        country: United Kingdom
+      - city: Shanghai
+        country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Zhejiang Century Huatong Group
+    founded: 2009
+    careers: https://www.outfit7.com/careers
+    notable:
+      - My Talking Tom
+      - Talking Tom Gold Run
+      - Talking Tom & Friends
+    added_at: '2026-11-02T18:40:47.301Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Rovio
+    url: https://www.rovio.com/
+    description: Game company behind Angry Birds, with game studios in Finland, Sweden, Canada and Spain.
+    hq:
+      city: Espoo
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Sega
+    founded: 2003
+    careers: https://www.rovio.com/careers/
+    notable:
+      - Angry Birds
+      - Angry Birds 2
+      - Angry Birds Dream Blast
+    social:
+      instagram: https://www.instagram.com/rovio/
+      linkedin: https://www.linkedin.com/company/37960/
+      x: https://twitter.com/rovio
+    added_at: '2026-11-02T18:40:47.339Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Supercell
+    url: https://supercell.com/en/
+    description: Mobile game developer of Clash of Clans, Clash Royale and Brawl Stars.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Tencent
+    founded: 2010
+    careers: https://supercell.com/en/careers/
+    notable:
+      - Clash of Clans
+      - Clash Royale
+      - Brawl Stars
+      - Hay Day
+    added_at: '2026-11-02T18:40:47.378Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: 34BigThings
+    url: https://www.34bigthings.com/
+    description: 'Turin game developer of the Redout racing series and Carmageddon: Rogue Shift.'
+    hq:
+      city: Turin
+      country: Italy
+    segments:
+      - indie
+    founded: 2013
+    careers: https://34bigthings.com/careers/
+    notable:
+      - Redout 2
+      - 'Carmageddon: Rogue Shift'
+      - Hyperdrive Massacre
+    social:
+      x: https://twitter.com/34bigthings
+    added_at: '2026-11-02T18:40:47.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Stormind Games
+    url: https://www.stormindgames.com/
+    description: 'Sicilian game developer of the Remothered horror series and A Quiet Place: The Road Ahead.'
+    hq:
+      city: Acireale
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    careers: https://stormindgames.com/careers/
+    notable:
+      - Remothered series
+      - 'A Quiet Place: The Road Ahead'
+      - 'Mafia: The Old Country (co-dev)'
+    social:
+      linkedin: https://www.linkedin.com/company/stormind-games/
+      x: https://twitter.com/stormindgames
+      instagram: https://www.instagram.com/stormindgames/
+    added_at: '2026-11-02T18:40:47.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: The Game Kitchen
+    url: https://thegamekitchen.com/
+    description: 'Seville game developer of Blasphemous, Blasphemous II and Ninja Gaiden: Ragebound.'
+    hq:
+      city: Seville
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://thegamekitchen.com/jobs/
+    notable:
+      - Blasphemous
+      - Blasphemous II
+      - 'Ninja Gaiden: Ragebound'
+      - The Stone of Madness
+    social:
+      instagram: https://www.instagram.com/thegamekitchen.studio/
+      x: https://x.com/TheGameKitchen
+      linkedin: https://es.linkedin.com/company/the-game-kitchen
+    added_at: '2026-11-02T18:40:47.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Larian Studios
+    url: https://larian.com/
+    description: Game developer of Baldur's Gate 3 and the Divinity series, founded in Ghent.
+    hq:
+      city: Ghent
+      country: Belgium
+    offices:
+      - city: Quebec City
+        country: Canada
+      - city: Dublin
+        country: Ireland
+      - city: Kuala Lumpur
+        country: Malaysia
+      - city: Guildford
+        country: United Kingdom
+      - city: Barcelona
+        country: Spain
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    founded: 1996
+    careers: https://larian.com/careers
+    notable:
+      - Baldur's Gate 3
+      - 'Divinity: Original Sin II'
+      - 'Divinity: Original Sin'
+    social:
+      x: https://twitter.com/larianstudios
+      youtube: https://www.youtube.com/user/LarianStudios
+      instagram: https://www.instagram.com/larianstudios/
+    added_at: '2026-11-02T18:40:47.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: SYBO
+    url: https://www.sybogames.com/
+    description: Copenhagen mobile game developer of Subway Surfers and Blades of Brim.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Miniclip
+    careers: https://www.sybogames.com/careers/
+    notable:
+      - Subway Surfers
+      - Subway Surfers City
+      - Blades of Brim
+    social:
+      linkedin: https://www.linkedin.com/company/sybo-games
+      instagram: https://www.instagram.com/sybo_games/
+      x: https://twitter.com/sybogames
+    added_at: '2026-11-02T18:40:47.790Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Tarsier Studios
+    url: https://www.tarsier.se/
+    description: Malmö game developer of Little Nightmares I and II and REANIMAL, part of THQ Nordic.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Embracer Group
+    careers: https://tarsier.se/jobs/
+    notable:
+      - Little Nightmares
+      - Little Nightmares II
+      - REANIMAL
+    social:
+      x: http://www.twitter.com/TarsierStudios
+      instagram: http://www.instagram.com/tarsierstudios
+      youtube: http://www.youtube.com/user/TarsierStudios
+      linkedin: https://www.linkedin.com/company/tarsier-studios
+    added_at: '2026-11-02T18:40:47.861Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Sharkmob
+    url: https://www.sharkmob.com/
+    description: Malmö game developer owned by Tencent, making the extraction shooter Exoborne.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    careers: https://career.sharkmob.com/
+    notable:
+      - Exoborne
+      - 'Vampire: The Masquerade: Bloodhunt'
+    social:
+      x: https://twitter.com/sharkmobgames
+      linkedin: https://www.linkedin.com/company/sharkmob/
+      instagram: https://www.instagram.com/sharkmobgames
+      youtube: https://www.youtube.com/c/Sharkmob
+    added_at: '2026-11-02T18:40:47.897Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Red Thread Games
+    url: https://www.redthreadgames.com/
+    description: Oslo game developer of Dreamfall Chapters, Draugen and Dustborn.
+    hq:
+      city: Oslo
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://www.redthreadgames.com/jobs
+    notable:
+      - Dreamfall Chapters
+      - Draugen
+      - Dustborn
+    social:
+      instagram: https://www.instagram.com/redthreadgames/
+      youtube: https://www.youtube.com/channel/UCLeNhEXt9Eq119trDba78Sg
+    added_at: '2026-11-02T18:40:47.969Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Amanita Design
+    url: https://amanita-design.net/
+    description: Brno game studio making hand-crafted adventure games such as Machinarium, Samorost and Creaks.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2003
+    notable:
+      - Machinarium
+      - Samorost 3
+      - Creaks
+      - Botanicula
+    social:
+      instagram: https://www.instagram.com/amanitadesign_
+      x: https://twitter.com/Amanita_Design
+      youtube: https://www.youtube.com/c/amanitadesign
+    added_at: '2026-11-02T18:40:48.004Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: MADFINGER Games
+    url: https://www.madfingergames.com/
+    description: Brno game developer of the tactical shooter Gray Zone Warfare and the Shadowgun series.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    careers: https://www.madfingergames.com/careers
+    notable:
+      - Gray Zone Warfare
+      - Shadowgun Legends
+      - Dead Trigger
+    social:
+      instagram: https://www.instagram.com/madfingergames/
+      x: https://www.twitter.com/madfingergames
+      linkedin: https://www.linkedin.com/company/madfinger-games-as/
+      youtube: https://www.youtube.com/@madfingergames
+    added_at: '2026-11-02T18:40:48.040Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Keen Software House
+    url: https://www.keenswh.com/
+    description: Prague game developer of Space Engineers and Space Engineers 2.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://www.keenswh.com/careers/
+    notable:
+      - Space Engineers
+      - Space Engineers 2
+      - Medieval Engineers
+    social:
+      x: https://twitter.com/KeenSWH
+      linkedin: https://www.linkedin.com/company/keen-software-house/
+    added_at: '2026-11-02T18:40:48.076Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Pixel Federation
+    url: https://pixelfederation.com/
+    description: Bratislava mobile game developer of the TrainStation series and Diggy's Adventure.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2007
+    careers: https://pixelfederation.com/en/career
+    notable:
+      - TrainStation 2
+      - Diggy's Adventure
+      - Seaport
+      - Port City
+    social:
+      youtube: https://www.youtube.com/user/pixelfederationcom
+      linkedin: https://www.linkedin.com/company/pixel-federation
+    added_at: '2026-11-02T18:40:48.112Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Zen Studios
+    url: https://www.zenstudios.com/
+    description: Budapest game developer known for Pinball FX and licensed digital pinball tables.
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    parent: Embracer Group
+    notable:
+      - Pinball FX
+      - Pinball M
+      - CastleStorm
+    added_at: '2026-11-02T18:40:48.147Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Dream Games
+    url: https://dreamgames.com/
+    description: Istanbul mobile game developer of Royal Match and Royal Kingdom.
+    hq:
+      city: Istanbul
+      country: Turkey
+    offices:
+      - city: London
+        country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2019
+    careers: https://dreamgames.com/careers
+    notable:
+      - Royal Match
+      - Royal Kingdom
+    social:
+      linkedin: https://www.linkedin.com/company/dreamgames
+      instagram: https://www.instagram.com/dreamgames
+      x: https://x.com/dreamgames
+    added_at: '2026-11-02T18:40:48.256Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Nordcurrent
+    url: https://www.nordcurrent.com/
+    description: 'Vilnius game developer and publisher of Cooking Fever and Eriksholm: The Stolen Dream.'
+    hq:
+      city: Vilnius
+      country: Lithuania
+    offices:
+      - city: Warsaw
+        country: Poland
+      - city: Odesa
+        country: Ukraine
+      - city: Dnipro
+        country: Ukraine
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2002
+    careers: https://nordcurrent.com/jobs/
+    notable:
+      - Cooking Fever
+      - Murder by Choice
+      - Pocket Styler
+    social:
+      linkedin: https://www.linkedin.com/company/nordcurrent/
+      instagram: https://www.instagram.com/nordcurrent/
+      youtube: https://www.youtube.com/user/Nordcurrent
+      x: https://twitter.com/nordcurrent
+    added_at: '2026-11-02T18:40:48.294Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Colossal Order
+    url: https://www.colossalorder.fi/
+    description: 'Tampere game developer of the Cities: Skylines city-builder series.'
+    hq:
+      city: Tampere
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2009
+    notable:
+      - 'Cities: Skylines'
+      - 'Cities: Skylines II'
+      - Cities in Motion
+    social:
+      instagram: https://www.instagram.com/colossalorder/
+      x: https://twitter.com/ColossalOrder
+      linkedin: https://www.linkedin.com/company/colossalorder/
+    added_at: '2026-11-02T18:40:48.330Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Massive Entertainment
+    url: https://www.massive.se/
+    description: Ubisoft game studio in Malmö and Stockholm behind The Division series and Star Wars Outlaws.
+    hq:
+      city: Malmö
+      country: Sweden
+    offices:
+      - city: Stockholm
+        country: Sweden
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Ubisoft
+    careers: https://www.massive.se/career/
+    notable:
+      - Tom Clancy's The Division 2
+      - 'Avatar: Frontiers of Pandora'
+      - Star Wars Outlaws
+    social:
+      instagram: https://www.instagram.com/ubisoftmassive/
+      x: https://x.com/UbiMassive
+      linkedin: http://linkedin.com/company/massiveentertainment
+    added_at: '2026-11-02T18:40:48.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Fatshark
+    url: https://www.fatshark.se/
+    description: 'Stockholm game developer of the Warhammer Vermintide series and Warhammer 40,000: Darktide.'
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    careers: http://jobs.fatsharkgames.com
+    notable:
+      - 'Warhammer 40,000: Darktide'
+      - 'Warhammer: Vermintide 2'
+    social:
+      instagram: https://www.instagram.com/fatsharkgames/
+      x: https://twitter.com/fatsharkgames
+      linkedin: http://linkedin.com/company/fatshark-ab
+    added_at: '2026-11-02T18:40:48.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Fingersoft
+    url: https://www.fingersoft.com/
+    description: Oulu mobile game developer of the Hill Climb Racing series.
+    hq:
+      city: Oulu
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://fingersoft.com/jobs/
+    notable:
+      - Hill Climb Racing
+      - Hill Climb Racing 2
+      - LEGO Hill Climb Adventures
+    social:
+      x: https://x.com/fingersoft
+      linkedin: https://www.linkedin.com/company/3127905
+      youtube: http://www.youtube.com/c/FingersoftLtd
+      instagram: https://www.instagram.com/fingersoft_official/
+    added_at: '2026-11-02T18:40:48.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: 1939 Games
+    url: https://www.1939games.com/
+    description: Reykjavík game developer of the WWII digital card game KARDS, founded by CCP veterans.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - indie
+    founded: 2015
+    careers: https://www.1939games.com/career/
+    notable:
+      - KARDS
+    social:
+      x: https://twitter.com/1939GAMES
+      linkedin: https://www.linkedin.com/company/1939-games/
+    added_at: '2026-11-02T18:40:48.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Nanobit
+    url: https://nanobit.com/
+    description: Zagreb mobile game developer of story games such as Hollywood Story and Too Hot to Handle, owned by Stillfront.
+    hq:
+      city: Zagreb
+      country: Croatia
+    offices:
+      - city: Budapest
+        country: Hungary
+      - city: Bucharest
+        country: Romania
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Stillfront
+    founded: 2008
+    notable:
+      - Hollywood Story
+      - 'My Story: Choose Your Own Path'
+      - 'Too Hot to Handle: Love is a Game'
+    added_at: '2026-11-02T18:40:48.851Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Solid Clouds
+    url: https://www.solidclouds.com/
+    description: 'Reykjavík game developer of the space strategy game Starborne: Frontiers.'
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - indie
+    careers: https://www.solidclouds.com/jobs
+    notable:
+      - 'Starborne: Frontiers'
+      - 'Starborne: Sovereign Space'
+    social:
+      linkedin: https://www.linkedin.com/company/solidclouds-llc/
+      youtube: https://www.youtube.com/@solidclouds_starborne
+    added_at: '2026-11-02T18:40:48.927Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Gamepires
+    url: https://gamepires.com/
+    description: Zagreb game developer of the open-world survival game SCUM and the Gas Guzzlers series.
+    hq:
+      city: Zagreb
+      country: Croatia
+    segments:
+      - indie
+    notable:
+      - SCUM
+      - Gas Guzzlers Extreme
+    social:
+      linkedin: https://www.linkedin.com/company/gamepires/
+      youtube: https://www.youtube.com/user/TheGamepires
+    added_at: '2026-11-02T18:40:48.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Moon Active
+    url: https://www.moonactive.com/
+    description: Tel Aviv mobile game developer of Coin Master, Travel Town and Family Island.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.moonactive.com/careers/
+    notable:
+      - Coin Master
+      - 'Travel Town: Merge Adventure'
+      - Family Island
+      - My Cafe
+    social:
+      linkedin: https://www.linkedin.com/company/moon-active/
+    added_at: '2026-11-02T18:40:49.038Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Small Giant Games
+    url: https://www.smallgiantgames.com/
+    description: Helsinki mobile game developer of the puzzle RPG Empires & Puzzles.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Zynga
+    founded: 2013
+    careers: https://job-boards.greenhouse.io/sggcareers
+    notable:
+      - Empires & Puzzles
+    added_at: '2026-11-02T18:40:49.076Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: The Farm 51
+    url: https://www.thefarm51.com/
+    description: Gliwice game developer of Chernobylite, Chernobylite 2 and Get Even.
+    hq:
+      city: Gliwice
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    careers: https://www.thefarm51.com/eng/praca/
+    notable:
+      - Chernobylite
+      - 'Chernobylite 2: Exclusion Zone'
+      - Get Even
+    social:
+      youtube: https://www.youtube.com/channel/UC97OKn_s0Ed-PTTmrDqPIbg
+      x: https://twitter.com/thefarm51
+      instagram: https://www.instagram.com/thefarm_51/
+      linkedin: https://pl.linkedin.com/company/the-farm-51-group-sa
+    added_at: '2026-11-02T18:40:49.191Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Anshar Studios
+    url: https://ansharstudios.com/
+    description: Katowice game developer offering co-development, porting and art for other studios, plus its own Gamedec.
+    hq:
+      city: Katowice
+      country: Poland
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    careers: https://ansharstudios.com/careers/
+    notable:
+      - Silent Hill 2 (co-dev with Bloober Team)
+      - Gamedec
+      - Layers of Fear (co-dev)
+      - Painkiller (for Saber Interactive)
+    social:
+      x: https://twitter.com/ansharstudios
+      instagram: https://www.instagram.com/ansharstudios/
+      youtube: https://www.youtube.com/ansharstudios
+    added_at: '2026-11-02T18:40:49.229Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Charles Games
+    url: https://charlesgames.net/
+    description: Prague indie game studio making narrative and historical games such as Attentat 1942 and Svoboda 1945.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Attentat 1942
+      - 'Svoboda 1945: Liberation'
+      - Velvet 89
+      - Beecarbonize
+    social:
+      linkedin: https://www.linkedin.com/company/charles-games/
+      x: https://twitter.com/CharlesGames_CZ
+      instagram: https://www.instagram.com/charlesgames_cz/
+    added_at: '2026-11-02T18:40:49.267Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: KillHouse Games
+    url: https://www.inthekillhouse.com/
+    description: Bucharest indie game developer of the tactical SWAT series Door Kickers.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Door Kickers
+      - 'Door Kickers 2: Task Force North'
+      - Action Squad
+    social:
+      x: https://twitter.com/inthekillhouse
+      youtube: https://www.youtube.com/user/KillHouseGames
+    added_at: '2026-11-02T18:40:49.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: NewGen Studio
+    url: https://www.newgen-studio.com/
+    description: Tunisian indie game developer making PC games for Steam, including West Hunt and Kitchen Wars.
+    hq:
+      city: Mégrine
+      country: Tunisia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - West Hunt
+      - Kitchen Wars
+      - North Hunt
+      - Gone Digging
+    social:
+      x: https://twitter.com/newgen_studio
+      youtube: https://www.youtube.com/channel/UCdheHTs7G6qduib4ysrkIzg
+      linkedin: https://www.linkedin.com/company/newgen-sa/about/
+    added_at: '2026-11-02T18:40:49.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Papergames
+    url: https://www.papegames.com/
+    description: Game developer making 3D dress-up and adventure games for PC, console and mobile.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2013
+    careers: https://career.papegames.com/PaperStar
+    notable:
+      - Infinity Nikki
+      - Love and Deepspace
+    added_at: '2026-11-02T18:48:14.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Lilith Games
+    url: https://www.lilith.com/
+    description: Game developer and publisher of mobile and PC strategy, RPG and shooter games.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    size: large
+    notable:
+      - AFK Arena
+      - Rise of Kingdoms
+      - Farlight 84
+    social:
+      linkedin: https://www.linkedin.com/company/lilith-games/
+    added_at: '2026-11-02T18:48:14.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: HYPERGRYPH
+    url: https://www.hypergryph.com/
+    description: Game developer making anime-styled strategy and action RPG games.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+      - pc
+      - console
+    size: large
+    founded: 2017
+    notable:
+      - Arknights
+      - 'Arknights: Endfield'
+    social:
+      linkedin: https://www.linkedin.com/company/hypergryph/
+    added_at: '2026-11-02T18:48:14.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Lionheart Studio
+    url: https://lionhearts.co.kr/
+    description: Game developer making MMORPG, collection RPG and shooter games for PC, console and mobile.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://lionhearts.co.kr/career
+    notable:
+      - 'Odin: Valhalla Rising'
+      - Valhalla Survival
+    social:
+      youtube: https://www.youtube.com/@LionheartStudio
+    added_at: '2026-11-02T18:48:14.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: WEMADE
+    url: https://www.wemade.com/
+    description: Game developer and publisher of MMORPGs and blockchain games.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Legend of Mir 2
+      - Night Crows
+    added_at: '2026-11-02T18:48:14.723Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Com2uS
+    url: https://www.com2us.com/
+    description: Mobile game developer and publisher.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    size: large
+    founded: 1998
+    notable:
+      - Summoners War
+      - Com2uS Pro Baseball
+    social:
+      linkedin: https://www.linkedin.com/company/com2us/
+    added_at: '2026-11-02T18:48:14.762Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Sea Pony Studios
+    url: https://www.seaponystudios.com/
+    description: Game development studio.
+    hq:
+      city: Colombo
+      country: Sri Lanka
+    segments:
+      - indie
+    size: small
+    founded: 2022
+    added_at: '2026-11-02T18:48:15.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: A44 Games
+    url: https://www.a44games.com/
+    description: Game developer making action RPGs, staffed by game developers and VFX artists.
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - Ashen
+      - 'Flintlock: The Siege of Dawn'
+    social:
+      instagram: https://www.instagram.com/a44games
+      x: https://twitter.com/a44games
+    added_at: '2026-11-02T18:48:15.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Black Salt Games
+    url: https://www.blacksaltgames.com/
+    description: Indie game developer behind the fishing horror game Dredge.
+    hq:
+      city: Christchurch
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: boutique
+    notable:
+      - Dredge
+    social:
+      instagram: https://instagram.com/blacksaltgames
+      x: https://twitter.com/BlackSaltGames
+    added_at: '2026-11-02T18:48:15.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: NEXON Games
+    url: https://www.nexongames.co.kr/
+    description: Game development studio of the Nexon group making PC, console and mobile online games.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - console
+    parent: Nexon
+    careers: https://careers.nexon.com/recruit?corpCodes=AG
+    notable:
+      - Blue Archive
+      - The First Descendant
+      - V4
+      - Sudden Attack
+    social:
+      instagram: https://www.instagram.com/nexongames_official/
+      youtube: https://www.youtube.com/@nexongames.official
+    added_at: '2026-11-02T18:48:15.782Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Ranida Games
+    url: https://www.ranidagames.com/
+    description: Indie game developer making web, mobile, PC and console games plus gamified training tools.
+    hq:
+      city: San Pedro
+      country: Philippines
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+      - web
+    size: small
+    founded: 2015
+    social:
+      instagram: https://instagram.com/ranidagames
+    added_at: '2026-11-02T18:48:15.825Z'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+  - name: Games Station
+    url: https://gstationstudio.com/
+    description: Mobile strategy studio behind the Grow Empire series.
+    hq:
+      city: Vicente López
+      country: Argentina
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Grow Empire: Rome'
+    founded: 2015
+    careers: https://gstationstudio.com/careers/
+    social:
+      instagram: https://www.instagram.com/gamesstationstudio
+      linkedin: https://www.linkedin.com/company/games-station-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.296Z'
+  - name: Whiteboard Games
+    url: https://whiteboard.games/en/
+    description: Indie team making the cyberpunk twin-stick shooter I See Red.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - I See Red
+    careers: https://whiteboard.games/en/jobs/
+    social:
+      instagram: https://www.instagram.com/whiteboardgames
+      linkedin: https://www.linkedin.com/company/whiteboardgames
+      x: https://x.com/whiteboardgms
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.309Z'
+  - name: Nimble Giant Entertainment
+    url: https://nimblegiant.com/
+    description: 'Strategy and online games developer, maker of Master of Orion: Conquer the Stars and Star Trek: Infinite.'
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Master of Orion: Conquer the Stars'
+      - 'Star Trek: Infinite'
+      - Champions of Regnum
+      - Quantum League
+    founded: 2002
+    careers: https://nimblegiant.com/join-us/
+    social:
+      instagram: https://www.instagram.com/nimblegiantentertainment
+      linkedin: https://www.linkedin.com/company/nimblegiant
+      x: https://x.com/NimbleGiantEnt
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.318Z'
+  - name: Etermax
+    url: https://www.etermax.com/
+    description: Mobile trivia and social games company behind Trivia Crack.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Trivia Crack
+      - Aworded
+    founded: 2009
+    careers: https://www.etermax.com/careers
+    social:
+      instagram: https://www.instagram.com/etermax
+      linkedin: https://www.linkedin.com/company/etermax
+      x: https://x.com/etermax
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.326Z'

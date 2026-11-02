@@ -1,0 +1,1095 @@
+studios:
+  - name: Red Storm Entertainment
+    url: https://www.ubisoft.com/en-us/company/careers/locations/cary
+    description: Ubisoft studio that created Rainbow Six and Ghost Recon.
+    hq:
+      city: Cary
+      country: United States
+    segments:
+      - aaa
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - vr
+    parent: Ubisoft
+    notable:
+      - Tom Clancy's Rainbow Six
+      - Tom Clancy's Ghost Recon
+      - 'Star Trek: Bridge Crew'
+      - Tom Clancy's The Division 2 (co-dev)
+    founded: 1996
+    careers: https://www.ubisoft.com/en-us/company/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.888Z'
+  - name: Ubisoft San Francisco
+    url: https://www.ubisoft.com/en-us/company/careers/locations/san-francisco
+    description: 'Ubisoft studio behind Rocksmith and South Park: The Fractured but Whole.'
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Rocksmith
+      - Rocksmith 2014
+      - 'South Park: The Fractured but Whole'
+    founded: 2009
+    careers: https://www.ubisoft.com/en-us/company/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.901Z'
+  - name: Imangi Studios
+    url: https://imangistudios.com/
+    description: Mobile studio behind the endless runner Temple Run.
+    hq:
+      city: Raleigh
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Temple Run
+      - Temple Run 2
+    founded: 2008
+    careers: https://imangistudios.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.913Z'
+  - name: NimbleBit
+    url: http://www.nimblebit.com/
+    description: Mobile studio behind Tiny Tower and Pocket Planes.
+    hq:
+      city: Poway
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Tiny Tower
+      - Pocket Planes
+      - Bit City
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.925Z'
+  - name: Spry Fox
+    url: https://spryfox.com/
+    description: Studio behind Triple Town and Cozy Grove.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Triple Town
+      - Alphabear
+      - Cozy Grove
+      - Road Not Taken
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/spryfoxgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.938Z'
+  - name: Aggro Crab
+    url: https://aggrocrab.com/
+    description: Indie studio behind Another Crab's Treasure and co-developer of Peak.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Another Crab's Treasure
+      - Going Under
+      - Peak
+    founded: 2019
+    careers: https://aggrocrab.com/Jobs
+    social:
+      youtube: https://www.youtube.com/@aggrocrabgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.951Z'
+  - name: System Era Softworks
+    url: https://www.systemera.net/
+    description: Indie studio behind the space sandbox game Astroneer.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Astroneer
+    founded: 2014
+    careers: https://www.systemera.net/jobs
+    social:
+      youtube: https://www.youtube.com/c/SystemEra
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.965Z'
+  - name: Ska Studios
+    url: https://ska-studios.com/
+    description: Two-person studio behind Salt and Sanctuary.
+    hq:
+      city: Mill Creek
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Salt and Sanctuary
+      - Salt and Sacrifice
+      - 'The Dishwasher: Dead Samurai'
+      - Charlie Murder
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.978Z'
+  - name: InnerSloth
+    url: https://www.innersloth.com/
+    description: Indie studio behind the social deduction game Among Us.
+    hq:
+      city: Redmond
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Among Us
+      - The Henry Stickmin Collection
+    founded: 2015
+    size: boutique
+    social:
+      x: https://x.com/InnerslothDevs
+      instagram: https://www.instagram.com/innerslothdevs/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:37.992Z'
+  - name: Spiderweb Software
+    url: https://www.spiderwebsoftware.com/
+    description: Indie RPG studio behind the Avernum and Geneforge series.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Avernum
+      - Geneforge
+      - Exile
+      - Queen's Wish
+    founded: 1994
+    social:
+      x: https://x.com/spiderwebsoft
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.006Z'
+  - name: Her Interactive
+    url: https://www.herinteractive.com/
+    description: Developer of the Nancy Drew adventure game series.
+    hq:
+      city: Bellevue
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Nancy Drew: Secrets Can Kill'
+      - 'Nancy Drew: Mystery of the Seven Keys'
+      - 'Nancy Drew: Midnight in Salem'
+    founded: 1995
+    social:
+      youtube: https://www.youtube.com/user/HerInteractiveGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.019Z'
+  - name: Crate Entertainment
+    url: https://www.crateentertainment.com/
+    description: Indie studio behind the action RPG Grim Dawn and Farthest Frontier.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Grim Dawn
+      - Farthest Frontier
+    founded: 2008
+    social:
+      youtube: https://www.youtube.com/c/crateentertainment
+      x: https://x.com/CrateEnt
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.033Z'
+  - name: Demiurge Studios
+    url: https://demiurgestudios.com/
+    description: Saber-owned studio that runs Marvel Puzzle Quest and does co-development.
+    hq:
+      city: Cambridge
+      country: United States
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Saber Interactive
+    notable:
+      - Marvel Puzzle Quest
+      - Mass Effect (PC)
+      - Shoot Many Robots
+    founded: 2002
+    careers: https://demiurgestudios.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.048Z'
+  - name: Wadjet Eye Games
+    url: https://wadjeteyegames.com/
+    description: Point-and-click adventure studio behind Blackwell and Unavowed.
+    hq:
+      city: New York City
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Blackwell Legacy
+      - Unavowed
+      - Gemini Rue (publisher)
+      - Primordia (publisher)
+    founded: 2006
+    social:
+      x: https://x.com/WadjetEyeGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.062Z'
+  - name: Grove Street Games
+    url: https://grovestreetgames.com/
+    description: Porting studio known for the mobile Grand Theft Auto releases.
+    hq:
+      city: Gainesville
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - 'Grand Theft Auto: The Trilogy – The Definitive Edition'
+      - 'Grand Theft Auto: San Andreas (mobile)'
+      - 'ARK: Survival Evolved (Switch)'
+    founded: 2007
+    careers: https://grovestreetgames.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.076Z'
+  - name: Shiver Entertainment
+    url: https://shiver.net/
+    description: Porting and co-development studio behind Switch versions of AAA games.
+    hq:
+      city: Miami
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - Hogwarts Legacy (Switch)
+      - Mortal Kombat 1 (Switch)
+      - Scribblenauts Showdown
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.091Z'
+  - name: Running With Scissors
+    url: https://runningwithscissors.com/
+    description: Indie studio behind the Postal series.
+    hq:
+      city: Tucson
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Postal 2
+      - Postal
+      - 'Postal 4: No Regerts'
+    founded: 1996
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.104Z'
+  - name: Petroglyph Games
+    url: https://petroglyphgames.com/
+    description: 'RTS studio of former Westwood developers, maker of Star Wars: Empire at War.'
+    hq:
+      city: Las Vegas
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Star Wars: Empire at War'
+      - Command & Conquer Remastered Collection
+      - Grey Goo
+      - 9-Bit Armies
+    founded: 2003
+    social:
+      x: https://x.com/petroglyphgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.119Z'
+  - name: Airship Syndicate
+    url: https://www.airshipsyndicate.com/
+    description: 'Austin studio led by Joe Madureira, maker of Battle Chasers: Nightwar.'
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Ruined King: A League of Legends Story'
+      - Darksiders Genesis
+      - 'Battle Chasers: Nightwar'
+      - Wayfinder
+    founded: 2014
+    social:
+      x: https://x.com/airshipsyn
+      instagram: https://www.instagram.com/airshipsyndicate/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.132Z'
+  - name: KingsIsle Entertainment
+    url: https://www.kingsisle.com/wp/
+    description: Online games studio behind Wizard101 and Pirate101.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Wizard101
+      - Pirate101
+    founded: 2005
+    social:
+      x: https://x.com/kingsisle
+      instagram: https://www.instagram.com/kingsisle/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.145Z'
+  - name: Archetype Entertainment
+    url: https://www.archetype-entertainment.com/en-US/
+    description: Wizards of the Coast studio developing the sci-fi RPG Exodus.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Wizards of the Coast
+    founded: 2019
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.159Z'
+  - name: Vector Unit
+    url: https://www.vectorunit.com/
+    description: Racing game studio behind Beach Buggy Racing and Riptide GP.
+    hq:
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Beach Buggy Racing
+      - Riptide GP
+      - Hydro Thunder Hurricane
+    founded: 2007
+    careers: https://www.vectorunit.com/jobs
+    social:
+      x: https://x.com/vectorunit
+      instagram: https://www.instagram.com/vectorunit/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.173Z'
+  - name: Oddworld Inhabitants
+    url: https://www.oddworld.com/
+    description: Creator of the Oddworld series.
+    hq:
+      city: Berkeley
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Oddworld: Abe''s Oddysee'
+      - 'Oddworld: Stranger''s Wrath'
+      - 'Oddworld: Soulstorm'
+      - 'Oddworld: New ''n'' Tasty!'
+    founded: 1994
+    social:
+      youtube: https://www.youtube.com/user/oddworldinhabitants
+      x: https://x.com/OddworldInc
+      linkedin: https://www.linkedin.com/company/oddworld-inhabitants/
+      instagram: https://www.instagram.com/oddworldinc/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.186Z'
+  - name: Choice Provisions
+    url: https://choiceprovisions.com/
+    description: Indie studio behind the Bit.Trip series.
+    hq:
+      city: Santa Cruz
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Bit.Trip Runner
+      - Runner3
+      - Bit.Trip Beat
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/choiceprovisions/
+      youtube: https://www.youtube.com/user/ChoiceProvisions
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.199Z'
+  - name: Babaroga
+    url: https://www.babaroga.com/
+    description: Chicago co-development studio for mobile and console games.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - console
+    notable:
+      - MySims
+      - Spore Origins
+      - MySims
+    founded: 2002
+    careers: https://www.babaroga.com/careers
+    social:
+      instagram: https://www.instagram.com/babarogagames/
+      x: https://x.com/babarogatweet
+      linkedin: https://www.linkedin.com/company/babaroga/
+      youtube: https://www.youtube.com/user/Babarogallc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.214Z'
+  - name: WhiteMoon Dreams
+    url: https://whitemoondreams.com/
+    description: Co-development studio that works on console, PC and VR titles.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - vr
+    notable:
+      - StarBlood Arena
+      - 'Warmachine: Tactics'
+    founded: 2007
+    careers: https://whitemoondreams.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/whitemoondreams/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.227Z'
+  - name: Mega Crit
+    url: https://www.megacrit.com/
+    description: Indie studio behind the deckbuilding roguelike Slay the Spire.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Slay the Spire
+    founded: 2016
+    social:
+      x: https://x.com/megacrit
+      youtube: https://www.youtube.com/@MegaCrit
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.243Z'
+  - name: ConcernedApe
+    url: https://www.stardewvalley.net/
+    description: Studio of Eric Barone, creator of Stardew Valley.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Stardew Valley
+    founded: 2016
+    size: boutique
+    social:
+      x: https://x.com/concernedape
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.256Z'
+  - name: PerBlue
+    url: https://perblue.com/
+    description: 'Mobile studio behind Disney Heroes: Battle Mode.'
+    hq:
+      city: Madison
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Disney Heroes: Battle Mode'
+      - DragonSoul
+    founded: 2008
+    careers: https://perblue.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/perblue/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.269Z'
+  - name: Filament Games
+    url: https://www.filamentgames.com/
+    description: Studio that makes educational and learning games for schools and partners.
+    hq:
+      city: Madison
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - vr
+    founded: 2005
+    careers: https://www.filamentgames.com/careers
+    social:
+      x: https://x.com/filamentgames
+      linkedin: https://www.linkedin.com/company/filament-games/
+      instagram: https://www.instagram.com/filamentgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.282Z'
+  - name: Choice of Games
+    url: https://www.choiceofgames.com/
+    description: Developer and publisher of text-based interactive novels.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Choice of Robots
+      - Choice of the Dragon
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/choiceofgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.296Z'
+  - name: BioWare
+    url: https://www.bioware.com/
+    description: EA studio behind the Mass Effect and Dragon Age RPG series.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Electronic Arts
+    notable:
+      - Mass Effect
+      - 'Dragon Age: The Veilguard'
+      - 'Star Wars: Knights of the Old Republic'
+      - 'Baldur''s Gate II: Shadows of Amn'
+    founded: 1995
+    careers: https://www.bioware.com/careers/
+    social:
+      x: https://x.com/BioWare
+      instagram: https://www.instagram.com/bioware/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.309Z'
+  - name: Motive Studio
+    url: https://www.ea.com/ea-studios/motive
+    description: 'EA studio behind the Dead Space remake and Star Wars: Squadrons.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Electronic Arts
+    notable:
+      - Dead Space (2023)
+      - 'Star Wars: Squadrons'
+      - Battlefield 6 (co-dev)
+    founded: 2015
+    careers: https://www.ea.com/ea-studios/motive/careers
+    social:
+      linkedin: https://www.linkedin.com/company/motivestudio/
+      x: https://x.com/MotiveStudio
+      instagram: https://www.instagram.com/ea.motivestudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.323Z'
+  - name: Full Circle
+    url: https://www.ea.com/ea-studios/full-circle
+    description: EA studio that develops the free-to-play skateboarding game Skate.
+    hq:
+      city: Burnaby
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Electronic Arts
+    notable:
+      - Skate
+    founded: 2021
+    careers: https://www.ea.com/ea-studios/full-circle/careers
+    social:
+      linkedin: https://www.linkedin.com/company/full-circle-ea-studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.338Z'
+  - name: Eidos-Montréal
+    url: https://www.eidosmontreal.com/
+    description: 'Studio behind Deus Ex: Human Revolution and Marvel''s Guardians of the Galaxy.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Embracer Group
+    notable:
+      - 'Deus Ex: Human Revolution'
+      - Marvel's Guardians of the Galaxy
+      - Shadow of the Tomb Raider
+      - 'Deus Ex: Mankind Divided'
+    founded: 2007
+    size: large
+    careers: https://www.eidosmontreal.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/eidosmontreal/
+      x: https://x.com/EidosMontreal
+      instagram: https://www.instagram.com/eidosmontreal/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.352Z'
+  - name: Ubisoft Montréal
+    url: https://montreal.ubisoft.com/
+    description: Ubisoft's largest studio, home of Assassin's Creed, Rainbow Six Siege and Far Cry.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Assassin's Creed II
+      - Tom Clancy's Rainbow Six Siege
+      - Far Cry 5
+      - 'Prince of Persia: The Sands of Time'
+    founded: 1997
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.366Z'
+  - name: Ubisoft Québec
+    url: https://quebec.ubisoft.com/
+    description: Ubisoft studio that led Assassin's Creed Odyssey and Assassin's Creed Shadows.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Assassin's Creed Odyssey
+      - Assassin's Creed Shadows
+      - Assassin's Creed Syndicate
+      - Immortals Fenyx Rising
+    founded: 2005
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.380Z'
+  - name: Ubisoft Toronto
+    url: https://toronto.ubisoft.com/
+    description: 'Ubisoft studio that led Far Cry 6 and Splinter Cell: Blacklist.'
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Far Cry 6
+      - 'Tom Clancy''s Splinter Cell: Blacklist'
+      - 'Watch Dogs: Legion (co-dev)'
+    founded: 2009
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.393Z'
+  - name: Ubisoft Sherbrooke
+    url: https://sherbrooke.ubisoft.com/
+    description: Ubisoft production studio that co-develops Assassin's Creed and Far Cry titles.
+    hq:
+      city: Sherbrooke
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Assassin's Creed Shadows (co-dev)
+      - Far Cry 6 (co-dev)
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/ubisoftsherbrooke/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.409Z'
+  - name: Ubisoft Saguenay
+    url: https://saguenay.ubisoft.com/en/
+    description: Ubisoft studio that co-develops online features for Rainbow Six Siege and other titles.
+    hq:
+      city: Saguenay
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Tom Clancy's Rainbow Six Siege (co-dev)
+      - Assassin's Creed Shadows (co-dev)
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.424Z'
+  - name: WB Games Montréal
+    url: https://wbgamesmontreal.com/
+    description: 'Warner Bros. Games studio behind Batman: Arkham Origins and Gotham Knights.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Warner Bros. Games
+    notable:
+      - 'Batman: Arkham Origins'
+      - Gotham Knights
+    founded: 2010
+    size: large
+    careers: https://wbgamesmontreal.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/wb-games-montreal-inc-/
+      x: https://x.com/WBGamesMTL
+      instagram: https://www.instagram.com/wbgamesmtl/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.438Z'
+  - name: Relic Entertainment
+    url: https://www.relic.com/
+    description: Independent RTS studio behind Company of Heroes, Dawn of War and Homeworld.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Company of Heroes 3
+      - Age of Empires IV
+      - 'Warhammer 40,000: Dawn of War'
+      - Homeworld
+    founded: 1997
+    social:
+      x: https://x.com/relicgames
+      instagram: https://www.instagram.com/relicentertainment/
+      youtube: https://www.youtube.com/user/RelicCM
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.453Z'
+  - name: The Coalition
+    url: https://www.thecoalitionstudio.com/
+    description: Xbox studio that develops the Gears of War series.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Xbox Game Studios
+    notable:
+      - Gears 5
+      - Gears of War 4
+      - 'Gears of War: Ultimate Edition'
+      - 'Gears of War: Reloaded'
+    founded: 2010
+    careers: https://www.thecoalitionstudio.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/the-coalition-studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.467Z'
+  - name: Compulsion Games
+    url: https://compulsiongames.com/
+    description: Xbox studio behind South of Midnight and We Happy Few.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Xbox Game Studios
+    notable:
+      - South of Midnight
+      - We Happy Few
+      - Contrast
+    founded: 2009
+    size: mid
+    careers: https://compulsiongames.bamboohr.com/jobs/
+    social:
+      x: https://x.com/CompulsionGames
+      instagram: https://www.instagram.com/compulsiongames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.481Z'
+  - name: Next Level Games
+    url: https://nextlevelgames.com/
+    description: Nintendo studio behind Luigi's Mansion 3 and the Mario Strikers games.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - console
+    parent: Nintendo
+    notable:
+      - Luigi's Mansion 3
+      - 'Luigi''s Mansion: Dark Moon'
+      - 'Mario Strikers: Battle League'
+      - Punch-Out!!
+    founded: 2002
+    careers: https://nextlevelgames.com/jobs-at-next-level-games-subsidiary-of-nintendo-co-ltd/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.498Z'
+  - name: Beenox
+    url: https://beenox.com/
+    description: Activision studio that co-develops Call of Duty and made Crash Team Racing Nitro-Fueled.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - aaa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Activision
+    notable:
+      - Crash Team Racing Nitro-Fueled
+      - 'Call of Duty: Black Ops 6 (co-dev)'
+      - The Amazing Spider-Man 2
+    founded: 2000
+    social:
+      instagram: https://www.instagram.com/beenoxteam/
+      linkedin: https://www.linkedin.com/company/beenox/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.512Z'
+  - name: Digital Extremes
+    url: https://www.digitalextremes.com/
+    description: Developer of the free-to-play action game Warframe.
+    hq:
+      city: London
+      country: Canada
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Tencent
+    notable:
+      - Warframe
+      - Dark Sector
+      - Unreal Tournament (co-dev)
+    founded: 1993
+    size: mid
+    careers: https://www.digitalextremes.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.526Z'
+  - name: Klei Entertainment
+    url: https://www.klei.com/
+    description: Indie studio behind Don't Starve and Oxygen Not Included.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    notable:
+      - Don't Starve
+      - Oxygen Not Included
+      - Mark of the Ninja
+      - Invisible, Inc.
+    founded: 2005
+    size: small
+    careers: https://www.klei.com/careers/
+    social:
+      instagram: https://www.instagram.com/kleientertainment/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.540Z'
+  - name: Kabam
+    url: https://kabam.com/
+    description: Mobile studio behind Marvel Contest of Champions.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Netmarble
+    notable:
+      - Marvel Contest of Champions
+      - 'Transformers: Forged to Fight'
+      - Disney Mirrorverse
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.556Z'
+  - name: Ludia
+    url: https://www.ludia.com/
+    description: Mobile studio known for licensed games such as Jurassic World Alive.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Jam City
+    notable:
+      - Jurassic World Alive
+      - 'Jurassic World: The Game'
+      - 'Dragons: Rise of Berk'
+    founded: 2007
+    careers: https://www.ludia.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/ludia/
+      instagram: https://www.instagram.com/ludiagames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:38.570Z'

@@ -92,28 +92,6 @@ studios:
       linkedin: https://www.linkedin.com/company/famous-studios
       x: https://twitter.com/Famous_Studios
     notes: Input URL famousstudios.in is dead; live site is famousstudios.com.
-  - name: Games2win
-    url: https://games2winmedia.com/
-    description: Casual mobile game developer and publisher in Mumbai making driving, fashion and story games such as Driving Academy.
-    hq:
-      city: Mumbai
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2005
-    notable:
-      - Driving Academy
-      - International Fashion Stylist
-      - Decisions
-    added_at: '2026-10-31T05:09:10.970Z'
-    careers: https://games2winmedia.com/careers-in-mobile-gaming-work-for-us/
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://in.linkedin.com/company/games2win-india-pvt-ltd
   - name: yFX
     url: https://www.yfxstudios.com/
     description: In-house VFX studio of Yash Raj Films in Mumbai, creating CGI, creatures and visual effects for Hindi feature films.
@@ -227,48 +205,6 @@ studios:
       instagram: https://www.instagram.com/coffeebeansstudio/
       youtube: https://www.youtube.com/channel/UCq8jMGfZooegpdaxnwEvxbQ
     notes: Input listed Mumbai, Hyderabad, Nagpur; site lists only Nagpur studio addresses.
-  - name: Gametion Technologies
-    url: https://gametion.com/
-    description: Mobile game studio in Mumbai making casual multiplayer board and puzzle games, including Ludo King and Carrom King.
-    hq:
-      city: Mumbai
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2008
-    notable:
-      - Ludo King
-      - Carrom King
-      - Sudoku King
-    added_at: '2026-10-31T05:09:10.970Z'
-    careers: https://gametion.com/careers.html
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/gametion.technologies/
-      linkedin: https://www.linkedin.com/company/gametion/
-      x: https://twitter.com/gametion
-  - name: Threye Interactive
-    url: https://www.threye.com/
-    description: Game studio making mobile games plus AR, VR and simulation training products for the aerospace and defence sector.
-    hq:
-      country: India
-    disciplines:
-      - games
-      - xr
-    markets:
-      - games
-    added_at: '2026-10-31T05:09:10.970Z'
-    careers: https://www.threye.com/careers.html
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      youtube: https://www.youtube.com/ThreyeInc
-      x: https://x.com/ThreyeGames
-    notes: Input listed Delhi; site does not state a city, so city omitted.
   - name: Axis Three Dee Studios
     url: https://axis3dstudio.com/
     description: Creative content studio in New Delhi making 3D projection mapping, immersive installations and large-format show visuals.
@@ -360,23 +296,6 @@ studios:
       vimeo: https://vimeo.com/oceanbluee
       youtube: https://www.youtube.com/channel/UCZxI-NHT8NHZmhVdVq8P1yQ
     notes: Listed as Ocean Bluee Animation Studios; now trades as OB Studios.
-  - name: Ubisoft Pune
-    url: https://www.ubisoft.com/en-us/company/careers/locations/pune
-    description: Pune studio of the publisher Ubisoft, working on mobile and console game production and quality control for AAA titles.
-    hq:
-      city: Pune
-      country: India
-    disciplines:
-      - games
-      - outsourcing
-    markets:
-      - games
-    size: large
-    added_at: '2026-10-31T05:09:10.970Z'
-    careers: https://www.ubisoft.com/en-us/company/careers/locations/india
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    notes: Parent Ubisoft not in known-studios, so a standalone record. Size from Ubisoft India page (1,000+ employees), not LinkedIn.
   - name: Digikore Studios
     url: https://www.digikore.com/
     description: VFX and CG studio in Pune delivering visual effects for Hollywood films and TV series, plus branded content and production services.
@@ -399,49 +318,6 @@ studios:
       instagram: https://www.instagram.com/digikore_studios/
       linkedin: https://in.linkedin.com/company/digikore-studios-limited
     notes: Site links a separate VFX site at digikorevfx.com.
-  - name: Nautilus Mobile
-    url: https://www.nautilusmobile.com/
-    description: Mobile game studio in Pune behind the Real Cricket franchise of 3D cricket games for Android and iOS.
-    hq:
-      city: Pune
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2013
-    notable:
-      - Real Cricket 24
-      - Real Cricket 22
-    added_at: '2026-10-31T05:09:10.970Z'
-    careers: https://www.nautilusmobile.com/career-1
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/realcricket_official/
-      linkedin: https://in.linkedin.com/company/nautilusmobile
-      youtube: https://www.youtube.com/@RealCricket
-  - name: Dream Game Studios
-    url: https://www.dreamgamestudios.in/
-    description: Mobile game studio in Mumbai developing Dream Cricket, a 3D cricket game with real players and stadiums for Android and iOS.
-    hq:
-      city: Mumbai
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - Dream Cricket
-    added_at: '2026-10-31T05:09:10.970Z'
-    url_status: redirect
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/dreamcricketapp/
-      youtube: https://www.youtube.com/@dreamcricket_official
-      x: https://x.com/dreamcricketapp
-    notes: dreamgamestudios.in redirects to the Dream Cricket game site, which gives a Worli, Mumbai address. Input listed Pune. Social links are the game's accounts.
   - name: philmCGI
     url: https://philmcgi.com/
     description: Animation and VFX studio in Pune and Thrissur making CG series, feature animation and visual effects for European and Indian producers.
@@ -542,27 +418,6 @@ studios:
       linkedin: https://www.linkedin.com/company/prayan-animation-studio-pvt-ltd/
       youtube: https://www.youtube.com/user/PrayanAnimation
       x: https://twitter.com/prayananimation
-  - name: 99Games
-    url: https://99games.in/
-    description: Mobile game studio in Udupi that develops and publishes free-to-play games for iOS and Android, founded at the start of the App Store.
-    hq:
-      city: Udupi
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: mid
-    founded: 2008
-    added_at: '2026-10-31T05:09:10.970Z'
-    careers: https://99games.in/careers.html
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/99games/
-      linkedin: https://www.linkedin.com/company/99games
-      youtube: https://www.youtube.com/c/ninetyninegames
-      x: https://twitter.com/99games
   - name: Studio LKY
     url: https://www.studiolky.com/
     description: Animation studio in Indore making animated music videos, short films and client projects, and running animation challenges for artists.
@@ -628,22 +483,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-01'
     notes: Wix site; projects in Rajkot and Gujarat phone numbers, but no city stated, so city omitted.
-  - name: Arteon Interactive
-    url: https://arteoninteractive.com/
-    description: Independent game studio in India building original games and IP, including the PC title Indian Dhaba Simulator in development.
-    hq:
-      country: India
-    disciplines:
-      - games
-    markets:
-      - games
-    size: boutique
-    founded: 2025
-    added_at: '2026-10-31T05:09:10.970Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      linkedin: https://www.linkedin.com/company/arteon-interactive
   - name: Dots In Space
     url: https://dotsinspace.in/
     description: Visualization studio making photoreal 3D renders of furniture, kitchens and surface materials for Indian furniture and modular brands.
@@ -678,27 +517,6 @@ studios:
       instagram: https://www.instagram.com/artgripper.studio/
       behance: https://www.behance.net/artgripperstudio
     notes: Input listed Goa; site lists a Goa client but no studio city, so city omitted.
-  - name: Croteam
-    url: https://www.croteam.com/
-    description: Game developer behind the Serious Sam series and The Talos Principle, owned by Devolver Digital.
-    hq:
-      city: Zagreb
-      country: Croatia
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1992
-    notable:
-      - Serious Sam series
-      - The Talos Principle 2
-      - 'The Talos Principle: Reawakened'
-    social:
-      youtube: https://youtube.com/croteam
-      x: https://twitter.com/croteam
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.096Z'
   - name: Zagreb Film
     url: https://www.zagrebfilm.hr/
     description: Public animation house of the Zagreb School of animation, producing animated shorts, series and documentaries.
@@ -721,137 +539,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:40:47.141Z'
-  - name: Haemimont Games
-    url: https://www.haemimontgames.com/
-    description: Strategy game developer known for Tropico 3 to 5, Surviving Mars and Jagged Alliance 3.
-    hq:
-      city: Sofia
-      country: Bulgaria
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1997
-    careers: https://www.haemimontgames.com/careers/
-    notable:
-      - Tropico 3, 4, 5
-      - Surviving Mars
-      - Jagged Alliance 3
-      - 'Stranded: Alien Dawn'
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.181Z'
-  - name: Fenris Creations
-    url: https://fenris.com/
-    description: Game developer of EVE Online and the EVE universe titles, formerly CCP Games.
-    hq:
-      city: Reykjavik
-      country: Iceland
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1997
-    notable:
-      - EVE Online
-      - EVE Frontier
-      - EVE Vanguard
-      - EVE Echoes
-    social:
-      x: https://x.com/fenriscreations
-      youtube: https://www.youtube.com/@fenriscreations
-      linkedin: https://www.linkedin.com/company/fenriscreations
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.223Z'
-  - name: Snapshot Games
-    url: https://www.snapshotgames.com/
-    description: Sofia game developer of the tactics game Phoenix Point, founded by Julian Gollop.
-    hq:
-      city: Sofia
-      country: Bulgaria
-    disciplines:
-      - games
-    markets:
-      - games
-    careers: https://jobs.gohire.io/snapshot-games-iwnh5ere/
-    notable:
-      - Phoenix Point
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.263Z'
-  - name: Outfit7
-    url: https://www.outfit7.com/
-    description: Mobile game and animated content company behind Talking Tom & Friends, started in Ljubljana.
-    hq:
-      city: Limassol
-      country: Cyprus
-    offices:
-      - city: Ljubljana
-        country: Slovenia
-      - city: London
-        country: United Kingdom
-      - city: Shanghai
-        country: China
-    disciplines:
-      - games
-      - 3d-animation
-    markets:
-      - games
-      - episodic
-    founded: 2009
-    careers: https://www.outfit7.com/careers
-    notable:
-      - My Talking Tom
-      - Talking Tom Gold Run
-      - Talking Tom & Friends
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.301Z'
-  - name: Rovio
-    url: https://www.rovio.com/
-    description: Game company behind Angry Birds, with game studios in Finland, Sweden, Canada and Spain.
-    hq:
-      city: Espoo
-      country: Finland
-    disciplines:
-      - games
-    markets:
-      - games
-      - film
-    founded: 2003
-    careers: https://www.rovio.com/careers/
-    notable:
-      - Angry Birds 2
-      - Angry Birds Dream Blast
-      - The Angry Birds Movie
-    social:
-      instagram: https://www.instagram.com/rovio/
-      linkedin: https://www.linkedin.com/company/37960/
-      x: https://twitter.com/rovio
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.339Z'
-  - name: Supercell
-    url: https://supercell.com/en/
-    description: Mobile game developer of Clash of Clans, Clash Royale and Brawl Stars.
-    hq:
-      city: Helsinki
-      country: Finland
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2010
-    careers: https://supercell.com/en/careers/
-    notable:
-      - Clash of Clans
-      - Clash Royale
-      - Brawl Stars
-      - Hay Day
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.378Z'
   - name: IXOR VFX
     url: https://www.ixorvfx.com/
     description: CGI and VFX studio for commercials and series, with a production base in Athens.
@@ -922,72 +609,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:40:47.490Z'
-  - name: 34BigThings
-    url: https://www.34bigthings.com/
-    description: 'Turin game developer of the Redout racing series and Carmageddon: Rogue Shift.'
-    hq:
-      city: Turin
-      country: Italy
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2013
-    careers: https://34bigthings.com/careers/
-    notable:
-      - Redout 2
-      - 'Carmageddon: Rogue Shift'
-      - Hyperdrive Massacre
-    social:
-      x: https://twitter.com/34bigthings
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.526Z'
-  - name: Stormind Games
-    url: https://www.stormindgames.com/
-    description: 'Sicilian game developer of the Remothered horror series and A Quiet Place: The Road Ahead.'
-    hq:
-      city: Acireale
-      country: Italy
-    disciplines:
-      - games
-    markets:
-      - games
-    careers: https://stormindgames.com/careers/
-    notable:
-      - Remothered series
-      - 'A Quiet Place: The Road Ahead'
-      - 'Mafia: The Old Country (co-dev)'
-    social:
-      linkedin: https://www.linkedin.com/company/stormind-games/
-      x: https://twitter.com/stormindgames
-      instagram: https://www.instagram.com/stormindgames/
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.563Z'
-  - name: The Game Kitchen
-    url: https://thegamekitchen.com/
-    description: 'Seville game developer of Blasphemous, Blasphemous II and Ninja Gaiden: Ragebound.'
-    hq:
-      city: Seville
-      country: Spain
-    disciplines:
-      - games
-    markets:
-      - games
-    careers: https://thegamekitchen.com/jobs/
-    notable:
-      - Blasphemous
-      - Blasphemous II
-      - 'Ninja Gaiden: Ragebound'
-      - The Stone of Madness
-    social:
-      instagram: https://www.instagram.com/thegamekitchen.studio/
-      x: https://x.com/TheGameKitchen
-      linkedin: https://es.linkedin.com/company/the-game-kitchen
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.600Z'
   - name: Submarine
     url: https://submarine.nl/
     description: Amsterdam production company making animated features and series alongside documentaries and interactive projects.
@@ -1031,40 +652,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:40:47.676Z'
-  - name: Larian Studios
-    url: https://larian.com/
-    description: Game developer of Baldur's Gate 3 and the Divinity series, founded in Ghent.
-    hq:
-      city: Ghent
-      country: Belgium
-    offices:
-      - city: Quebec City
-        country: Canada
-      - city: Dublin
-        country: Ireland
-      - city: Kuala Lumpur
-        country: Malaysia
-      - city: Guildford
-        country: United Kingdom
-      - city: Barcelona
-        country: Spain
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1996
-    careers: https://larian.com/careers
-    notable:
-      - Baldur's Gate 3
-      - 'Divinity: Original Sin II'
-      - 'Divinity: Original Sin'
-    social:
-      x: https://twitter.com/larianstudios
-      youtube: https://www.youtube.com/user/LarianStudios
-      instagram: https://www.instagram.com/larianstudios/
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:40:47.717Z'
   - name: Tumblehead
     url: https://www.tumblehead.com/
     description: Danish animation studio making 3D animation for film, TV, games and commercials, with a Houdini pipeline.

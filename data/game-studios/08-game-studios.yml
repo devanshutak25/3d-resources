@@ -1,0 +1,971 @@
+studios:
+  - name: Blowfish Studios
+    url: https://www.blowfishstudios.com/
+    description: Developer and publisher doing original games and porting, maker of Siegecraft Commander.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Siegecraft Commander
+      - Gunscape
+      - Storm Boy
+    founded: 2008
+    careers: https://www.blowfishstudios.com/careers
+    social:
+      instagram: https://www.instagram.com/blowfishstudios
+      linkedin: https://www.linkedin.com/company/blowfish-studios
+      x: https://x.com/blowfishstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.532Z'
+  - name: 3 Sprockets
+    url: https://3sprockets.com/
+    description: Indie developer of Cubemen and co-developer of Pac-Man 256.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Cubemen
+      - Pac-Man 256
+      - Digby Extreme
+    social:
+      x: https://x.com/3sprockets
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.542Z'
+  - name: Studio Drydock
+    url: https://studiodrydock.com/
+    description: Studio behind the farming and witchcraft sim Wylde Flowers.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Wylde Flowers
+    social:
+      instagram: https://instagram.com/studiodrydock
+      x: https://x.com/studiodrydock
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.550Z'
+  - name: Alderon Games
+    url: https://alderongames.com/
+    description: Independent studio behind the dinosaur survival MMO Path of Titans.
+    hq:
+      city: Ballarat
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Path of Titans
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.559Z'
+  - name: Critical Games
+    url: https://www.criticalgames.com.au/
+    description: Indie developer of Japanese-style RPGs, best known for 8-Bit Adventures.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 8-Bit Adventures 2
+      - Tales Across Time
+    social:
+      x: https://x.com/CriticalGamesAU
+      instagram: https://www.instagram.com/criticalgamesau
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.569Z'
+  - name: Beethoven & Dinosaur
+    url: https://www.bnd.studio/
+    description: Studio behind The Artful Escape and Mixtape.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Artful Escape
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.578Z'
+  - name: 100 Stones Interactive
+    url: https://100stonesinteractive.com/
+    description: Indie studio behind The Eyes of Ara and Memory's Reach.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Eyes of Ara
+    social:
+      instagram: https://www.instagram.com/100stonesinteractive
+      x: https://x.com/100Stonesgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.587Z'
+  - name: Prideful Sloth
+    url: https://pridefulsloth.com/
+    description: 'Studio behind Yonder: The Cloud Catcher Chronicles and Grow: Song of the Evertree.'
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Yonder: The Cloud Catcher Chronicles'
+      - 'Grow: Song of the Evertree'
+    founded: 2015
+    social:
+      x: https://x.com/pridefulsloth
+      linkedin: https://www.linkedin.com/company/prideful-sloth
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.596Z'
+  - name: Melonhead Games
+    url: https://melonheadgames.com.au/
+    description: Studio behind the parkour game Rooftop Renegade.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Rooftop Renegade
+    founded: 2017
+    social:
+      x: https://x.com/MelonheadAU
+      instagram: https://www.instagram.com/melonheadgames
+      linkedin: https://www.linkedin.com/company/melonheadgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.606Z'
+  - name: Cocodrilo Dog
+    url: https://www.cocodrilodog.com/web/
+    description: Rhythm and music game studio doing original and work-for-hire games.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - console
+      - vr
+    notable:
+      - 'JoJo Siwa: Worldwide Party'
+    social:
+      x: https://x.com/cocodrilodog
+      instagram: https://www.instagram.com/cocodrilodog
+      linkedin: https://www.linkedin.com/company/cocodrilo-dog-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.615Z'
+  - name: Maxolith Studios
+    url: https://maxolith.com.au/
+    description: Independent studio making Hollowcross and Fellmark plus streaming tools.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.625Z'
+  - name: Chaos Theory Games
+    url: https://www.chaostheorygames.com/
+    description: For-purpose studio making serious and environmental games, including Crab God.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Crab God
+    careers: https://www.chaostheorygames.com/jobs
+    social:
+      x: https://x.com/chaostheory_au
+      linkedin: https://www.linkedin.com/company/chaos-theory-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.635Z'
+  - name: Flow Studio
+    url: https://www.flowgamestudio.com/
+    description: Studio behind the action adventure Len's Island.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Len's Island
+    social:
+      x: https://x.com/FlowGameStudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.645Z'
+  - name: Con Artist Games
+    url: https://www.conartistgames.com/
+    description: Studio behind The Last Stand series.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - 'The Last Stand: Aftermath'
+    social:
+      x: https://x.com/ConArtistGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.654Z'
+  - name: Killerfish Games
+    url: http://killerfishgames.com/
+    description: Naval sim developer of Cold Waters and War on the Sea.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cold Waters
+      - War on the Sea
+      - Atlantic Fleet
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.664Z'
+  - name: Ghost Pattern
+    url: https://ghostpattern.net/
+    description: Experiential design studio that made the narrative game Wayward Strand.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Wayward Strand
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.674Z'
+  - name: Zero Latency
+    url: https://zerolatencyvr.com/
+    description: Free-roam VR company making multiplayer games for its 80+ venues worldwide.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - vr
+    platforms:
+      - vr
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.684Z'
+  - name: Altitude Games
+    url: https://altitude-games.com/
+    description: Mobile game studio behind Dream Defense and Zodiac Pop.
+    hq:
+      country: Australia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Run Run Super 5
+      - Dream Defense
+      - Zodiac Pop
+    size: small
+    careers: https://altitude-games.com/jobs/
+    social:
+      instagram: https://www.instagram.com/altitude_games
+      linkedin: https://www.linkedin.com/company/altitude-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.694Z'
+  - name: Wildboy Studios
+    url: https://www.wildboystudios.com/
+    description: 'Studio behind ATONE: Heart of the Elder Tree and Nitro Kid.'
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'ATONE: Heart of the Elder Tree'
+      - Nitro Kid
+    founded: 2017
+    social:
+      x: https://x.com/Wildboystudios
+      instagram: https://www.instagram.com/wildboystudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.703Z'
+  - name: Meltdown Interactive
+    url: https://meltdowninteractive.com/
+    description: Independent studio building competitive multiplayer racing games.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - SuperTrucks Offroad
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.713Z'
+  - name: Balancing Monkey Games
+    url: https://www.balancingmonkeygames.com/
+    description: Boutique studio behind the non-violent city builder Before We Leave.
+    hq:
+      city: Dunedin
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Before We Leave
+    founded: 2017
+    size: boutique
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.723Z'
+  - name: Mental Drink
+    url: http://mentaldrink.com/
+    description: Independent studio making characterful games with old-school roots.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - FightNJokes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.733Z'
+  - name: Flightless
+    url: https://www.flightless.co.nz/
+    description: Indie studio making puzzle and science games like Element and Bee Leader.
+    hq:
+      city: Mount Maunganui
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Element
+      - Doomsday Vault
+      - Monster Racing League
+    founded: 2005
+    social:
+      x: https://x.com/flightlessnz
+      instagram: https://www.instagram.com/flightlessnz
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.743Z'
+  - name: Morepork Games
+    url: https://moreporkgames.com/
+    description: Small indie studio behind Swing Racers and Garden Wars.
+    hq:
+      city: Carterton
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Swing Racers
+      - Garden Wars
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.753Z'
+  - name: Redfox Game Studio
+    url: https://redfoxgamestudio.com/
+    description: Studio making digital and tabletop games such as Mecha Nation.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Pixeljima 1942
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.764Z'
+  - name: CerebralFix
+    url: https://cerebralfix.com/
+    description: Games and interactive studio giving end-to-end development support to partners.
+    hq:
+      city: Christchurch
+      country: New Zealand
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://cerebralfix.com/careers/
+    social:
+      x: https://x.com/cerebralfix
+      instagram: https://www.instagram.com/cerebralfix
+      linkedin: https://www.linkedin.com/company/cerebralfix
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.774Z'
+  - name: Runaway
+    url: https://www.runawayplay.com/
+    description: 'Developer and publisher of nature-inspired games such as Flutter: Starlight.'
+    hq:
+      city: Dunedin
+      country: New Zealand
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - 'Flutter: Butterfly Sanctuary'
+      - 'Flutter: Starlight'
+    careers: https://www.runawayplay.com/careers
+    social:
+      x: https://x.com/runawayplay
+      instagram: https://www.instagram.com/runawayplay
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.785Z'
+  - name: Dry Cactus
+    url: https://www.drycactus.com/
+    description: Indie studio behind the Poly Bridge series.
+    hq:
+      city: Paekākāriki
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Poly Bridge
+      - Poly Bridge 2
+      - Poly Bridge 3
+    social:
+      instagram: https://www.instagram.com/drycactusgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.795Z'
+  - name: Gamefam
+    url: https://gamefam.com/
+    description: Roblox and Fortnite studio behind Sonic Speed Simulator and branded experiences.
+    hq:
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Sonic Speed Simulator
+      - 'TMNT: Battle Tycoon'
+    careers: https://gamefam.com/careers
+    social:
+      x: https://x.com/gamefamstudios
+      linkedin: https://www.linkedin.com/company/gamefam
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.805Z'
+  - name: The Gang
+    url: https://www.thegang.io/
+    description: Studio building branded Roblox and Fortnite games for companies like Spotify and IKEA.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    careers: https://www.thegang.io/careers
+    social:
+      linkedin: https://www.linkedin.com/company/the-gang-gaming
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.816Z'
+  - name: Uplift Games
+    url: https://www.uplift.games/
+    description: Remote-first studio behind the Roblox game Adopt Me!.
+    hq:
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Adopt Me!
+    careers: https://www.uplift.games/careers
+    social:
+      x: https://x.com/UpliftGames
+      linkedin: https://www.linkedin.com/company/upliftgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.826Z'
+  - name: BIG Games
+    url: https://www.biggames.io/
+    description: Roblox studio behind Pet Simulator 99 and PETS GO.
+    hq:
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Pet Simulator 99
+      - Pet Simulator X
+      - PETS GO
+      - BIG Paintball 2
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.836Z'
+  - name: Dubit
+    url: https://dubit.io/
+    description: Studio making Roblox games for brands, plus youth research.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 1999
+    social:
+      linkedin: https://www.linkedin.com/company/dubit
+      x: https://x.com/dubit
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.847Z'
+  - name: Noxcrew
+    url: https://noxcrew.com/
+    description: Minecraft creator studio behind MC Championship and Marketplace maps.
+    hq:
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - MC Championship
+    founded: 2011
+    social:
+      x: https://x.com/Noxcrew
+      instagram: https://www.instagram.com/thenoxcrew
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.858Z'
+  - name: Blockworks
+    url: https://www.blockworks.uk/
+    description: Minecraft build studio making maps, experiences and learning worlds.
+    hq:
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    social:
+      instagram: https://www.instagram.com/blockworks
+      x: https://x.com/BlockWorksYT
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.869Z'
+  - name: Spark Universe
+    url: https://sparkuniverse.com/
+    description: Minecraft Partner studio doing creative, development and animation work.
+    hq:
+      country: Netherlands
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://sparkuniverse.com/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.880Z'
+  - name: Gamemode One
+    url: https://www.gamemodeone.com/
+    description: Minecraft Marketplace studio behind Mob Maze and the Avatar Legends add-on.
+    hq:
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Mob Maze
+      - Avatar Legends Add-On
+    careers: https://www.gamemodeone.com/careers
+    social:
+      instagram: https://www.instagram.com/gamemodeone
+      linkedin: https://www.linkedin.com/company/gamemode-one
+      x: https://x.com/gmodeone
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.890Z'
+  - name: CubeCraft Games
+    url: https://www.cubecraft.net/
+    description: Official Minecraft server partner running SkyWars, EggWars and other minigames.
+    hq:
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - SkyWars
+      - EggWars
+    social:
+      x: https://x.com/CubeCraftGames
+      instagram: https://www.instagram.com/cubecraftgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.901Z'
+  - name: The Hive
+    url: https://playhive.com/
+    description: Minecraft Bedrock server partner running minigames like Treasure Wars.
+    hq:
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.912Z'
+  - name: Pixelbiester
+    url: https://pixelbiester.net/
+    description: Minecraft creator studio making Marketplace content and brand worlds.
+    hq:
+      country: Germany
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.923Z'
+  - name: Shapescape
+    url: https://shapescape.com/
+    description: Studio making Minecraft-based learning games and experiences for children.
+    hq:
+      country: Germany
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    social:
+      instagram: https://instagram.com/shapescape.co
+      linkedin: https://www.linkedin.com/company/shapescape
+      x: https://x.com/ShapescapeCo
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.934Z'
+  - name: Owlchemy Labs
+    url: https://owlchemylabs.com/
+    description: VR studio behind Job Simulator and Vacation Simulator, owned by Google.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    parent: Google
+    notable:
+      - Job Simulator
+      - Vacation Simulator
+      - Cosmonious High
+      - 'Rick and Morty: Virtual Rick-ality'
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/owlchemylabs
+      x: https://x.com/owlchemylabs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.946Z'
+  - name: Cloudhead Games
+    url: https://www.cloudheadgames.com/
+    description: Veteran VR studio behind Pistol Whip and The Gallery.
+    hq:
+      city: Qualicum Beach
+      country: Canada
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Pistol Whip
+      - 'The Gallery: Call of the Starseed'
+      - 'The Gallery: Heart of the Emberstone'
+    founded: 2012
+    social:
+      x: https://x.com/CloudheadGames
+      instagram: https://www.instagram.com/cloudheadgames
+      linkedin: https://www.linkedin.com/company/cloudheadgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.956Z'
+  - name: nDreams
+    url: https://ndreams.com/
+    description: 'VR developer and publisher behind Synapse and Ghostbusters: Rise of the Ghost Lord.'
+    hq:
+      city: Farnborough
+      country: United Kingdom
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Synapse
+      - 'Ghostbusters: Rise of the Ghost Lord'
+      - Fracked
+      - 'Phantom: Covert Ops'
+    founded: 2006
+    careers: https://ndreams.com/careers
+    social:
+      x: https://x.com/ndreams
+      instagram: https://www.instagram.com/ndreams_vr
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.967Z'
+  - name: Resolution Games
+    url: https://www.resolutiongames.com/
+    description: VR and AR studio behind Demeo and Angry Birds VR.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Demeo
+      - 'Angry Birds VR: Isle of Pigs'
+      - Bait!
+    founded: 2015
+    careers: https://jobs.resolutiongames.com
+    social:
+      instagram: https://www.instagram.com/resolutiongames
+      linkedin: https://www.linkedin.com/company/resolution-games
+      x: https://x.com/resolutiongame
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.978Z'
+  - name: Schell Games
+    url: https://schellgames.com/
+    description: Full-service game studio known for VR titles like I Expect You to Die.
+    hq:
+      city: Pittsburgh
+      country: United States
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+      - pc
+      - mobile
+    notable:
+      - I Expect You to Die
+      - 'Among Us 3D: VR'
+      - Until You Fall
+    founded: 2002
+    careers: https://schellgames.com/careers
+    social:
+      instagram: https://instagram.com/schellgames
+      linkedin: https://www.linkedin.com/company/schell-games
+      x: https://x.com/schellgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.989Z'
+  - name: Polyarc
+    url: https://www.polyarcgames.com/
+    description: Studio behind the VR adventure series Moss.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Moss
+      - 'Moss: Book II'
+    social:
+      x: https://x.com/PolyarcGames
+      instagram: https://www.instagram.com/polyarcgames
+      linkedin: https://www.linkedin.com/company/polyarc-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.999Z'
+  - name: Stress Level Zero
+    url: https://www.stresslevelzero.com/
+    description: VR studio behind Boneworks and Bonelab.
+    hq:
+      city: Miami
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Boneworks
+      - Bonelab
+      - Hover Junkers
+      - Duck Season
+    social:
+      instagram: https://instagram.com/stresslevel0
+      x: https://x.com/stresslevelzero
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.012Z'
+  - name: Fast Travel Games
+    url: https://www.fasttravelgames.com/
+    description: 'VR-only developer and publisher of Apex Construct and Wraith: The Oblivion - Afterlife.'
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Apex Construct
+      - 'Wraith: The Oblivion - Afterlife'
+      - 'Cities: VR'
+    founded: 2016
+    social:
+      instagram: https://instagram.com/fasttravelgames
+      x: https://x.com/fasttravelgames
+      linkedin: https://www.linkedin.com/company/fast-travel-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.023Z'
+  - name: Vertigo Games
+    url: https://www.vertigo-games.com/
+    description: VR developer and publisher of Arizona Sunshine and Metro Awakening.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    segments:
+      - vr
+    platforms:
+      - vr
+    parent: Plaion
+    notable:
+      - Arizona Sunshine
+      - Arizona Sunshine 2
+      - After the Fall
+      - Metro Awakening
+    founded: 2008
+    social:
+      instagram: https://instagram.com/vertigogames
+      x: https://x.com/vertigogames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.034Z'

@@ -230,7 +230,6 @@ studios:
       country: France
     disciplines:
       - xr
-      - games
     markets:
       - games
     size: small
@@ -252,7 +251,6 @@ studios:
       city: London
       country: United Kingdom
     disciplines:
-      - games
       - xr
     markets:
       - games
@@ -295,7 +293,6 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - games
       - xr
     markets:
       - brand
@@ -454,7 +451,6 @@ studios:
       country: United Kingdom
     disciplines:
       - xr
-      - games
     markets:
       - games
     size: small
@@ -467,30 +463,6 @@ studios:
       instagram: https://www.instagram.com/makerealvr/
       linkedin: https://www.linkedin.com/company/make-real-ltd/
       youtube: https://www.youtube.com/@MakeReal
-  - name: Innerspace VR
-    url: https://www.innerspacevr.com/
-    description: Paris studio developing VR games and narrative immersive experiences.
-    hq:
-      city: Paris
-      country: France
-    disciplines:
-      - xr
-      - games
-    markets:
-      - games
-    size: small
-    founded: 2014
-    notable:
-      - A Fisherman's Tale
-      - Another Fisherman's Tale
-      - Maskmaker
-    added_at: '2026-10-30T21:40:17.280Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    social:
-      instagram: https://www.instagram.com/innerspacevr/
-      youtube: https://www.youtube.com/@INNERSPACEVRStudio
-      x: https://x.com/InnerspaceVR
   - name: Neutral Digital
     url: https://neutral.digital/
     description: CGI and real-time studio producing aircraft cabin, interior and exterior visuals and interactive tools for airlines and aviation brands.

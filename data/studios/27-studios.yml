@@ -138,7 +138,6 @@ studios:
     disciplines:
       - outsourcing
       - 3d-animation
-      - games
     markets:
       - games
     founded: 2025
@@ -799,64 +798,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:48:14.445Z'
-  - name: Papergames
-    url: https://www.papegames.com/
-    description: Game developer making 3D dress-up and adventure games for PC, console and mobile.
-    hq:
-      city: Shanghai
-      country: China
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2013
-    careers: https://career.papegames.com/PaperStar
-    notable:
-      - Infinity Nikki
-      - Love and Deepspace
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:14.484Z'
-  - name: Lilith Games
-    url: https://www.lilith.com/
-    description: Game developer and publisher of mobile and PC strategy, RPG and shooter games.
-    hq:
-      city: Shanghai
-      country: China
-    disciplines:
-      - games
-    markets:
-      - games
-    size: large
-    notable:
-      - AFK Arena
-      - Rise of Kingdoms
-      - Farlight 84
-    social:
-      linkedin: https://www.linkedin.com/company/lilith-games/
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:14.525Z'
-  - name: HYPERGRYPH
-    url: https://www.hypergryph.com/
-    description: Game developer making anime-styled strategy and action RPG games.
-    hq:
-      city: Shanghai
-      country: China
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 2017
-    size: large
-    notable:
-      - Arknights
-      - 'Arknights: Endfield'
-    social:
-      linkedin: https://www.linkedin.com/company/hypergryph/
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:14.565Z'
   - name: Gulliver Studios
     url: https://www.gulliverstudios.com/
     description: VFX studio delivering visual effects for Korean and international film and streaming series.
@@ -894,61 +835,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:48:14.642Z'
-  - name: Lionheart Studio
-    url: https://lionhearts.co.kr/
-    description: Game developer making MMORPG, collection RPG and shooter games for PC, console and mobile.
-    hq:
-      city: Seongnam
-      country: South Korea
-    disciplines:
-      - games
-    markets:
-      - games
-    careers: https://lionhearts.co.kr/career
-    notable:
-      - 'Odin: Valhalla Rising'
-      - Valhalla Survival
-    social:
-      youtube: https://www.youtube.com/@LionheartStudio
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:14.683Z'
-  - name: WEMADE
-    url: https://www.wemade.com/
-    description: Game developer and publisher of MMORPGs and blockchain games.
-    hq:
-      city: Seongnam
-      country: South Korea
-    disciplines:
-      - games
-    markets:
-      - games
-    notable:
-      - The Legend of Mir 2
-      - Night Crows
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:14.723Z'
-  - name: Com2uS
-    url: https://www.com2us.com/
-    description: Mobile game developer and publisher.
-    hq:
-      city: Seoul
-      country: South Korea
-    disciplines:
-      - games
-    markets:
-      - games
-    founded: 1998
-    size: large
-    notable:
-      - Summoners War
-      - Com2uS Pro Baseball
-    social:
-      linkedin: https://www.linkedin.com/company/com2us/
-    url_status: ok
-    url_last_verified: '2026-11-02'
-    added_at: '2026-11-02T18:48:14.762Z'
   - name: DIGITAL IDEA
     url: http://www.digitalidea.co.kr/
     description: VFX studio working on Korean films and series since 1998, plus VR/AR, new media and commercials.

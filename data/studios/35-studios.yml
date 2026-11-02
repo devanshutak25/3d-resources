@@ -1,0 +1,912 @@
+studios:
+  - name: Pixel Adgency
+    url: https://www.pixeladgency.com/
+    description: Studio making FOOH, CGI, 3D animation, AR and anamorphic 3D-OOH campaigns for brands.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - cg
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/pixeladgency/
+      linkedin: https://www.linkedin.com/company/80655761/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Lioncolony
+    url: https://lioncolony.com/
+    description: 3D motion studio making product animation, CGI campaigns and social content for beauty, fashion and toy brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2020
+    notable:
+      - Gucci
+      - The Ordinary
+      - Pop Mart
+      - Maybelline
+    social:
+      instagram: https://www.instagram.com/lioncolony/
+      linkedin: https://www.linkedin.com/company/lioncolony
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Asterman
+    url: https://asterman.org/
+    description: 2D and 3D animation studio doing art outsourcing for games, commercials, events and AR/VR.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - outsourcing
+    markets:
+      - advertising
+      - games
+      - brand
+    social:
+      instagram: https://www.instagram.com/asterman.company
+      linkedin: https://www.linkedin.com/company/asterman
+      behance: https://www.behance.net/asterman_lt
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Busterwood
+    url: https://www.busterwood.com/
+    description: Studio making AR, FOOH and CGI content and interactive media licensing for brands.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - cg
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/busterwood_studio/
+      linkedin: https://www.linkedin.com/company/busterwood/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Axis-0
+    url: https://axis-0.com/
+    description: Creative studio making 3D anamorphic billboards, FOOH campaigns and experiential production.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - cg
+      - 3d-animation
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/axis0_studio/
+      linkedin: https://www.linkedin.com/company/axis0
+      behance: https://www.behance.net/axis-0
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Catapulta VFX
+    url: https://catapulta.com.es/
+    description: VFX, CGI and virtual production studio doing post for advertising, film and TV.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+      - cg
+      - virtual-production
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/catapulta.co/
+      linkedin: https://www.linkedin.com/company/catapultap/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: VFX Dudes
+    url: https://www.vfxdudes.com/
+    description: Creative studio making CGI, VFX, 3D animation, FOOH and brand films.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    offices:
+      - city: Auckland
+        country: New Zealand
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/vfxdudes.ae/
+      linkedin: https://www.linkedin.com/company/vfxdudes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Zimo Media
+    url: https://www.zimo-media.com/
+    description: Content production studio making 3D, CGI and FOOH content for brands.
+    hq:
+      city: Miami
+      country: United States
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/zimomedia/
+      linkedin: https://www.linkedin.com/company/zimomedia/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:33:17.995Z'
+  - name: Random42
+    url: https://random42.com/
+    description: Medical animation studio making mechanism-of-action films, VR and interactive content for pharma, biotech and device companies.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    size: mid
+    founded: 1992
+    social:
+      instagram: https://www.instagram.com/random42scientific/
+      linkedin: https://www.linkedin.com/company/random42-medical-animation/
+      x: https://x.com/random42science
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Ghost Medical
+    url: https://www.ghostmedical.com/
+    description: Medical animation and surgical VR studio, formerly Ghost Productions, serving device makers, pharma and medical associations.
+    hq:
+      city: Saint Paul
+      country: United States
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    founded: 1994
+    careers: https://www.ghostmedical.com/about-us/careers
+    social:
+      x: https://x.com/ghostmedical
+      vimeo: https://vimeo.com/ghostproductions
+      linkedin: https://www.linkedin.com/company/ghost-productions-inc/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Visual Science
+    url: https://visual-science.com/
+    description: Medical and scientific animation studio making MoA films, congress interactives and 3D molecular models for biotech and pharma.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+    size: mid
+    founded: 2007
+    notable:
+      - Pfizer
+      - Novartis
+      - Roche
+      - Takeda
+    social:
+      vimeo: https://vimeo.com/visualscience
+      instagram: https://www.instagram.com/visualscience/
+      linkedin: https://www.linkedin.com/company/visual-science-studio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Hybrid Medical Animation
+    url: https://www.hybridmedicalanimation.com/
+    description: 3D medical animation, illustration and interactive studio for medical device and healthcare companies.
+    hq:
+      city: Edina
+      country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+    founded: 1998
+    social:
+      instagram: https://www.instagram.com/hybridmedical
+      linkedin: https://www.linkedin.com/company/hybrid-medical-animation/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Scientific Animations
+    url: https://www.scientificanimations.com/
+    description: Medical animation studio producing 3D device and MoA videos plus interactive apps for pharma and medtech.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Tustin
+        country: United States
+      - city: Gurgaon
+        country: India
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+    social:
+      linkedin: http://www.linkedin.com/company/scientific-animations
+      youtube: https://www.youtube.com/user/ScientificAnimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Medmovie
+    url: https://medmovie.com/
+    description: Medical animation and illustration studio making device, pharma and patient education media, AR and VR.
+    hq:
+      city: Lexington
+      country: United States
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Digizyme
+    url: https://www.digizyme.com/
+    description: Molecular and cell biology visualization studio making animations, textbooks and museum exhibits; makers of Molecular Maya.
+    hq:
+      city: Brookline
+      country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    notable:
+      - E.O. Wilson's Life on Earth
+      - 'Museum of Science Boston: Hall of Human Life'
+      - Cell Signaling Technology
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: MediVisuals + High Impact
+    url: https://www.highimpact.com/
+    description: Courtroom and medical-legal animation studio making forensic reconstructions and trial graphics for law firms.
+    hq:
+      city: Centennial
+      country: United States
+    offices:
+      - city: Richmond
+        country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    social:
+      instagram: https://www.instagram.com/highimpactlaw/
+      linkedin: https://www.linkedin.com/company/high-impact-llc/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: 3D Forensic
+    url: https://3dforensic.com/
+    description: Forensic reconstruction firm making courtroom animation, photogrammetry and video analysis for civil and criminal cases.
+    hq:
+      city: Concord
+      country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/3dforensic/
+      linkedin: https://www.linkedin.com/company/3d-forensic/
+      x: https://x.com/3dforensic
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Top View Animation
+    url: https://topviewanimation.com/
+    description: Forensic animation studio making accident reconstruction, medical animation and legal graphics for attorneys.
+    hq:
+      city: Tustin
+      country: United States
+    disciplines:
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/top.view.animation/
+      linkedin: https://www.linkedin.com/company/top-view-animation/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Courtroom Animation
+    url: https://courtroomanimation.com/
+    description: Trial animation studio making forensic animations, medical illustrations and trial graphics for litigation.
+    hq:
+      city: Chattanooga
+      country: United States
+    disciplines:
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/courtroomanimation/
+      linkedin: https://www.linkedin.com/company/courtroom-animation/
+      x: https://twitter.com/courtanimation
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Ten24
+    url: https://ten24.info/
+    description: 3D scanning and photogrammetry studio capturing digital doubles and characters for games and film; runs 3D Scan Store.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    disciplines:
+      - cg
+      - outsourcing
+    markets:
+      - games
+      - film
+    notable:
+      - War Thunder digital capture
+      - Days of War digital costumes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Infinite Realities
+    url: https://www.ir-ltd.net/
+    description: Static and motion 4D scanning studio capturing photoreal humans for film, games and research.
+    hq:
+      city: Ipswich
+      country: United Kingdom
+    disciplines:
+      - cg
+      - mocap
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/infiniterealities4d/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Gentle Giant Studios
+    url: https://www.gentlegiantstudios.com/
+    description: 3D scanning, digital sculpting and fabrication studio serving film, TV and collectibles.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - cg
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/gentlegiantstudiosburbank/
+      linkedin: https://www.linkedin.com/company/gentle-giant-studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Eisko
+    url: https://eisko.com/
+    description: Digital human studio scanning and building photoreal digital doubles for film, games and brands.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - cg
+    markets:
+      - film
+      - games
+      - advertising
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/eisko3d/
+      x: https://twitter.com/eisko3d
+      linkedin: https://www.linkedin.com/company/eisko/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Lidar Lounge
+    url: https://www.lidarlounge.com/
+    description: '3D scanning service for film and TV: head and body scans, set and environment lidar, prop capture.'
+    hq:
+      city: Shepperton
+      country: United Kingdom
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/lidarlounge/
+      linkedin: https://www.linkedin.com/company/lidar-lounge/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Scatter
+    url: https://www.scatter.nyc/
+    description: Volumetric filmmaking studio making XR documentaries and immersive works; creators of Depthkit.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - xr
+      - cg
+    social:
+      instagram: https://www.instagram.com/scatterco/
+      x: https://twitter.com/scatterco
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: HYPERREAL
+    url: https://www.hyperreal.io/
+    description: Digital human studio building photoreal avatars of artists for avatar concerts, residencies and live events.
+    hq:
+      city: Sanford
+      country: United States
+    disciplines:
+      - cg
+      - experiential
+    markets:
+      - music-video
+      - brand
+    social:
+      instagram: https://www.instagram.com/hyperreal_digital
+      linkedin: https://www.linkedin.com/company/hyperreal-io
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Sixmorevodka
+    url: https://www.sixmorevodka.com/
+    description: Berlin concept art studio designing characters, creatures and worlds for games and film.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+      - film
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Cognition Studio
+    url: https://cognitionstudio.com/
+    description: Life sciences creative studio making mechanism animation, motion and design for biotech and health companies.
+    hq:
+      city: Seattle
+      country: United States
+    offices:
+      - city: Boston
+        country: United States
+      - city: Washington
+        country: United States
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+    founded: 2001
+    social:
+      instagram: https://www.instagram.com/cognitionstudio/
+      linkedin: https://www.linkedin.com/company/cognition-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Zygote
+    url: https://www.zygote.com/
+    description: 3D human anatomy model studio supplying medically accurate models and custom content for animation, VR and simulation.
+    hq:
+      city: American Fork
+      country: United States
+    disciplines:
+      - cg
+      - outsourcing
+    markets:
+      - film
+      - games
+    founded: 1994
+    social:
+      x: https://twitter.com/zygotemedia
+      linkedin: https://www.linkedin.com/company/zygote-media-group-inc-
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Tamschick Media + Space
+    url: https://www.tamschick.com/
+    description: Media scenography studio designing immersive media installations for museums, brands and architecture.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - experiential
+      - xr
+    founded: 2000
+    notable:
+      - Memorium Nuremberg Trials
+      - Museum of Evolution, Knuthenborg Safari Park
+    social:
+      instagram: https://www.instagram.com/tamschick_media_space/
+      linkedin: https://www.linkedin.com/company/tamschick-media-space/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: iart
+    url: https://iart.ch/
+    description: Studio for media architecture designing digitally augmented buildings, media facades and exhibition installations.
+    hq:
+      city: Basel
+      country: Switzerland
+    disciplines:
+      - experiential
+    notable:
+      - Novartis Pavilion
+      - Kunstmuseum Basel
+      - Bernisches Historisches Museum
+    social:
+      instagram: https://www.instagram.com/iart_basel/
+      x: https://twitter.com/iart_basel
+      linkedin: https://www.linkedin.com/company/iartbasel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: WHITEvoid
+    url: https://www.whitevoid.com/
+    description: Interactive art and design studio building kinetic light and media installations for museums, brands and concerts.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - experiential
+    founded: 2004
+    social:
+      instagram: https://www.instagram.com/whitevoid_berlin/
+      vimeo: https://vimeo.com/whitevoid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Cinimod Studio
+    url: https://www.cinimodstudio.com/
+    description: Innovation design studio making interactive light, kinetic and immersive installations for brands and public spaces.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - 'Mood Conductor: London Eye'
+      - 'Spirit of Ecstasy: Rolls-Royce'
+    social:
+      instagram: https://www.instagram.com/cinimodstudio/
+      vimeo: https://vimeo.com/cinimodstudio
+      x: https://twitter.com/cinimodstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: FRAY Studio
+    url: https://fraystudio.com/
+    description: Video and projection design studio for theatre, musicals, opera and live performance.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - motion-design
+    founded: 2015
+    notable:
+      - The Curious Incident of the Dog in the Night-Time
+    social:
+      instagram: https://www.instagram.com/fray_studio
+      linkedin: https://www.linkedin.com/company/fray-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Production Club
+    url: https://www.production.club/
+    description: Experiential design and production studio making immersive live shows and installations for music, tech, gaming and sports.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+      - music-video
+    founded: 2012
+    notable:
+      - Zedd True Colors Tour
+    social:
+      instagram: https://www.instagram.com/productionclub/
+      linkedin: https://www.linkedin.com/company/productionclub/
+      vimeo: https://vimeo.com/productionclubinc
+      x: https://twitter.com/productionclub/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Normal Studio
+    url: https://normal.studio/
+    description: Montreal creative studio making projection mapping, live show visuals and interactive installations.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+      - motion-design
+    size: small
+    notable:
+      - Cite Memoire
+    social:
+      instagram: https://www.instagram.com/normal_studio_/
+      linkedin: https://www.linkedin.com/company/normalstudiomtl/
+      vimeo: https://vimeo.com/normalstudio
+      behance: https://www.behance.net/studionormal
+      x: https://twitter.com/NormalStudioMTL
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: 1024 Architecture
+    url: https://www.1024architecture.net/
+    description: Art and architecture studio making light, projection and sound installations; creators of MadMapper.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/1024architecture/
+      vimeo: https://vimeo.com/the1024
+      linkedin: https://www.linkedin.com/company/1024-architecture/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Lightborne
+    url: https://lightborne.com/
+    description: Cincinnati content studio making concert visuals, broadcast design and immersive media.
+    hq:
+      city: Cincinnati
+      country: United States
+    disciplines:
+      - motion-design
+      - experiential
+    markets:
+      - music-video
+      - brand
+    social:
+      instagram: https://www.instagram.com/lightborneinc/
+      linkedin: https://www.linkedin.com/company/lightborne/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Mirage3D
+    url: https://mirage3d.nl/
+    description: VFX and animation film studio making giant screen, fulldome and immersive content, with a large greenscreen stage.
+    hq:
+      city: The Hague
+      country: Netherlands
+    disciplines:
+      - vfx
+      - 3d-animation
+      - experiential
+    social:
+      instagram: https://www.instagram.com/mirage3dstudios/
+      vimeo: https://vimeo.com/mirage3d
+      x: https://twitter.com/mirage3dstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: NSC Creative
+    url: https://nsccreative.com/
+    description: Immersive storytelling studio producing fulldome planetarium shows and themed attraction media.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - experiential
+    social:
+      instagram: https://www.instagram.com/nsccreative/
+      vimeo: https://vimeo.com/nsccreative
+      linkedin: https://www.linkedin.com/company/nsc-creative/
+      x: https://twitter.com/NSCcreative
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Falcon's Creative Group
+    url: https://falconscreativegroup.com/
+    description: Experience design company doing theme park master planning, attraction design and immersive media production.
+    hq:
+      city: Orlando
+      country: United States
+    disciplines:
+      - experiential
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/falconscg/
+      linkedin: https://www.linkedin.com/company/falconscreativegroup/
+      x: https://x.com/falconscg
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Super 78
+    url: https://www.super78.com/
+    description: Theme park media studio making flying theater films, interactive animation and 4D dark ride content.
+    hq:
+      city: Glendale
+      country: United States
+    disciplines:
+      - 3d-animation
+      - experiential
+    social:
+      instagram: http://instagram.com/super78studios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Holovis
+    url: https://www.holovis.com/
+    description: Immersive attraction company designing ride media, real-time content and AV systems for theme parks and visitor venues.
+    hq:
+      city: Hinckley
+      country: United Kingdom
+    offices:
+      - city: Orlando
+        country: United States
+      - city: Shanghai
+        country: China
+    disciplines:
+      - experiential
+      - xr
+    social:
+      instagram: https://www.instagram.com/holovis_int/
+      linkedin: https://www.linkedin.com/company/holovis
+      x: https://twitter.com/Holovis
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Mack Animation
+    url: https://mackanimation.com/
+    description: Animation studio making feature films plus flying theater and 4D ride films for theme parks.
+    hq:
+      city: Hannover
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - experiential
+    markets:
+      - film
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: BRC Imagination Arts
+    url: https://www.brcweb.com/
+    description: Experience design agency creating brand homes, museum exhibits and visitor attractions with media and film.
+    hq:
+      city: Burbank
+      country: United States
+    offices:
+      - city: Edinburgh
+        country: United Kingdom
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 1981
+    notable:
+      - Johnnie Walker Princes Street
+    social:
+      instagram: https://www.instagram.com/brcimaginationarts/
+      linkedin: https://www.linkedin.com/company/brc-imagination-arts
+      x: https://x.com/BRCArts
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Cortina Productions
+    url: https://cortinaproductions.com/
+    description: Museum media company producing films, CGI historical recreations, interactives and immersive exhibits.
+    hq:
+      city: McLean
+      country: United States
+    disciplines:
+      - experiential
+      - cg
+    social:
+      instagram: https://www.instagram.com/cortinaproductions/
+      linkedin: https://www.linkedin.com/company/cortina-productions
+      x: https://x.com/Cortina_Team
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Northern Light Productions
+    url: https://nlprod.com/
+    description: Museum media studio making exhibit films, interactives, AR/VR and projection mapping for cultural institutions.
+    hq:
+      city: Boston
+      country: United States
+    disciplines:
+      - experiential
+      - xr
+    social:
+      instagram: https://www.instagram.com/northernlightproductions/
+      linkedin: https://www.linkedin.com/company/northern-light-productions
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Art Processors
+    url: https://artprocessors.net/
+    description: Experience design studio making digital and immersive installations for museums and cultural attractions.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Hobart
+        country: Australia
+    disciplines:
+      - experiential
+      - xr
+    social:
+      instagram: https://www.instagram.com/artprocessors/
+      linkedin: https://www.linkedin.com/company/art-processors/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Mondo Media
+    url: https://mondomedia.com/
+    description: San Francisco animation studio and network making adult comedy web series such as Happy Tree Friends.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Happy Tree Friends
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'
+  - name: Cartuna
+    url: https://www.cartuna.com/
+    description: Brooklyn animation studio making adult comedy series, shorts and branded cartoons.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/cartuna/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:41:09.969Z'

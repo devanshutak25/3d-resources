@@ -456,3 +456,485 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:58:19.788Z'
+  - name: 59 Studio
+    url: https://59.studio/
+    description: Video and projection design studio for stage shows, ceremonies and immersive exhibitions. Formerly 59 Productions.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: New York, NY
+        country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - London 2012 Olympic Opening Ceremony video design
+      - 'Stranger Things: The First Shadow projection'
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.017Z'
+  - name: Treatment Studio
+    url: https://www.treatmentstudio.com/
+    description: London creative studio making screen content and show design for music tours, festivals and theatre.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - experiential
+    markets:
+      - music-video
+      - brand
+    notable:
+      - John Mayer residency at The O2
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.071Z'
+  - name: Silent Partners Studio
+    url: https://www.silentpartnersstudio.com/
+    description: Video content and stage visuals studio for concert tours, built in Notch and Unreal.
+    hq:
+      country: United States
+    disciplines:
+      - motion-design
+      - experiential
+    markets:
+      - music-video
+    notable:
+      - Harry Styles Love On Tour stadium visuals
+      - P!NK Summer Carnival tour
+      - Taylor Swift reputation Stadium Tour
+      - Muse Simulation Theory World Tour
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.123Z'
+  - name: Strangeloop Studios
+    url: https://www.strangeloop.tv/
+    description: Visual content studio making concert visuals, broadcast content, music videos and VR.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - motion-design
+      - experiential
+      - xr
+    markets:
+      - music-video
+      - brand
+    founded: 2010
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.165Z'
+  - name: Secret Level
+    url: https://www.secretlevel.co/
+    description: AI-native production studio founded by Jason Zada, mixing generative models with After Effects and Nuke.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - film
+    notable:
+      - Coca-Cola Holidays Are Coming AI campaign (2024)
+      - Terrarium (hybrid feature, in production)
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.210Z'
+  - name: Silverside AI
+    url: https://www.silverside.ai/
+    description: AI creative studio founded by PJ Pereira and Rob Wrubel, making generative ad films.
+    hq:
+      country: United States
+    disciplines:
+      - cg
+    markets:
+      - advertising
+    notable:
+      - Svedka Shake Your Bots Off, Super Bowl LX spot
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.250Z'
+  - name: Particle6
+    url: https://www.particle6.com/
+    description: London production studio making AI-generated content and synthetic performers.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - film
+    notable:
+      - Tilly Norwood (AI performer)
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.290Z'
+  - name: Toonstar
+    url: https://www.toonstar.com/
+    description: Animation studio making web-first animated series with AI-assisted production tools.
+    hq:
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.328Z'
+  - name: Kurzgesagt
+    url: https://kurzgesagt.org/
+    description: Munich animation studio making science explainer videos in a flat vector style for its In a Nutshell channel.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - brand
+    founded: 2013
+    notable:
+      - 'Kurzgesagt: In a Nutshell (YouTube)'
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.366Z'
+  - name: Ferdio
+    url: https://ferdio.com/
+    description: Copenhagen infographic and data visualization agency making animated data videos and interactive charts.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.405Z'
+  - name: The Visual Agency
+    url: https://thevisualagency.com/
+    description: Milan information design studio making data visualizations and animated infographic videos.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.444Z'
+  - name: Domestic Data Streamers
+    url: https://www.domesticstreamers.com/
+    description: Barcelona studio turning data into physical installations, exhibitions and participatory experiences.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.485Z'
+  - name: IdeaRocket
+    url: https://www.idearocketanimation.com/
+    description: New York animated explainer studio making product and brand videos for tech, health and finance clients.
+    hq:
+      city: New York, NY
+      country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.530Z'
+  - name: Grumo Media
+    url: https://www.grumomedia.com/
+    description: Toronto studio making animated explainer and brand videos.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.570Z'
+  - name: Wyzowl
+    url: https://www.wyzowl.com/
+    description: UK explainer video company making animated product, onboarding and SaaS videos.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.611Z'
+  - name: Breadnbeyond
+    url: https://breadnbeyond.com/
+    description: Explainer video studio making animated videos for SaaS and tech brands.
+    hq:
+      country: Indonesia
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.651Z'
+  - name: Video Brewery
+    url: https://www.videobrewery.com/
+    description: Dubai animation studio making explainer, motion graphics and 3D videos for brands.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.693Z'
+  - name: Aircards
+    url: https://www.aircards.co/
+    description: WebAR and social AR studio making branded AR experiences, lenses and games.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - xr
+    markets:
+      - advertising
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.736Z'
+  - name: Rock Paper Reality
+    url: https://rockpaperreality.com/
+    description: San Francisco AR and mixed reality studio making lenses, apps and XR experiences for brands.
+    hq:
+      city: San Francisco, CA
+      country: United States
+    disciplines:
+      - xr
+    markets:
+      - advertising
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.778Z'
+  - name: Trigger XR
+    url: https://www.triggerxr.com/
+    description: Los Angeles XR studio making AR lenses, mixed reality apps and immersive experiences for entertainment brands.
+    hq:
+      city: Los Angeles, CA
+      country: United States
+    disciplines:
+      - xr
+    markets:
+      - advertising
+      - film
+      - games
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.820Z'
+  - name: Zebrar
+    url: https://zebrar.com/
+    description: Dutch AR agency making Snapchat and TikTok lenses, WebAR and AR filters for brands.
+    hq:
+      country: Netherlands
+    disciplines:
+      - xr
+    markets:
+      - advertising
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.863Z'
+  - name: Compuhire
+    url: https://www.compuhire.com/
+    description: Screen graphics and on-set playback company creating computer and phone UI for film and TV.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - motion-design
+    markets:
+      - film
+      - episodic
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.906Z'
+  - name: Dvein
+    url: https://www.dvein.com/
+    description: Barcelona design and direction studio making title sequences, commercials and music videos.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - title-design
+      - motion-design
+      - cg
+    markets:
+      - film
+      - advertising
+      - music-video
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:01:59.953Z'
+  - name: Vetor Zero
+    url: https://vetorzero.com.br/
+    description: São Paulo animation, motion design and VFX studio working on commercials.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.000Z'
+  - name: Pill & Pillow
+    url: https://www.pillandpillow.com/
+    description: Hong Kong design and motion studio making branding, animation and digital content.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.044Z'
+  - name: Ultra Combos
+    url: https://www.ultracombos.com/
+    description: Taipei interactive studio making installations, projection and real-time visual experiences.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.088Z'
+  - name: Maxin10sity
+    url: https://www.maxin10sity.net/
+    description: Budapest visual studio making projection mapping shows on buildings and stages.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.130Z'
+  - name: Projection Artworks
+    url: https://www.projection-artworks.com/
+    description: London projection mapping and immersive content studio for brands and events.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.174Z'
+  - name: TYMOTE
+    url: https://tymote.jp/
+    description: Tokyo creative collective making motion graphics, music videos and graphic design.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.220Z'
+  - name: Fern
+    url: https://www.fern.team/
+    description: Animation and motion design studio with teams in Atlanta and Tokyo.
+    hq:
+      city: Atlanta, GA
+      country: United States
+    offices:
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:02:00.262Z'

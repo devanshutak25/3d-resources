@@ -1,0 +1,1036 @@
+studios:
+  - name: XR Games
+    url: https://www.xrgames.io/
+    description: XR studio founded by veterans from Rockstar, EA and Codemasters.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    segments:
+      - vr
+    platforms:
+      - vr
+    founded: 2017
+    social:
+      x: https://x.com/xrgamesvr
+      instagram: https://www.instagram.com/xrgamesvr
+      linkedin: https://www.linkedin.com/company/xrgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.045Z'
+  - name: Archiact
+    url: https://www.archiact.com/
+    description: Independent VR studio behind Freediver and the DOOM 3 VR port.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+    notable:
+      - 'Freediver: Triton Down'
+      - 'DOOM 3: VR Edition'
+    careers: https://www.archiact.com/careers
+    social:
+      x: https://x.com/ArchiactVR
+      instagram: https://www.instagram.com/archiact
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.055Z'
+  - name: Survios
+    url: https://survios.com/studio/
+    description: 'VR studio behind Raw Data, Sprint Vector and Alien: Rogue Incursion.'
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Raw Data
+      - Sprint Vector
+      - 'The Walking Dead: Onslaught'
+      - 'Alien: Rogue Incursion'
+    founded: 2013
+    careers: https://survios.com/studio/careers/
+    social:
+      instagram: https://instagram.com/survios
+      x: https://x.com/survios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.066Z'
+  - name: Soul Assembly
+    url: https://soulassembly.com/
+    description: VR and XR game developer working on licensed and original titles.
+    hq:
+      city: Leamington Spa
+      country: United Kingdom
+    segments:
+      - vr
+    platforms:
+      - vr
+    size: mid
+    careers: https://soulassembly.com/join-us/
+    social:
+      x: https://x.com/SoulAssemblyLTD
+      instagram: https://www.instagram.com/soulassemblyltd
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.077Z'
+  - name: Mighty Coconut
+    url: https://www.mightycoconut.com/
+    description: Studio behind the VR game Walkabout Mini Golf.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Walkabout Mini Golf
+    careers: https://www.mightycoconut.com/jobs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.088Z'
+  - name: Maze Theory
+    url: https://www.mazetheory.com/
+    description: 'Studio making licensed VR games such as Peaky Blinders: The King''s Ransom.'
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - 'Peaky Blinders: The King''s Ransom'
+      - 'Doctor Who: The Edge of Time'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.098Z'
+  - name: Funktronic Labs
+    url: https://www.funktroniclabs.com/
+    description: Creative tech studio behind the VR games The Light Brigade and Cosmic Trip.
+    hq:
+      city: Pasadena
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - The Light Brigade
+      - Cosmic Trip
+      - Fujii
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.109Z'
+  - name: Triangular Pixels
+    url: https://www.triangularpixels.com/
+    description: Cornish VR studio behind Unseen Diplomacy.
+    hq:
+      country: United Kingdom
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Unseen Diplomacy
+    careers: https://www.triangularpixels.com/jobs.html
+    social:
+      x: https://x.com/TriangularPixel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.119Z'
+  - name: Camouflaj
+    url: http://camouflaj.games/
+    description: 'Meta-owned VR studio behind Iron Man VR and Batman: Arkham Shadow.'
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    parent: Meta
+    notable:
+      - 'Batman: Arkham Shadow'
+      - Marvel's Iron Man VR
+      - République
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.130Z'
+  - name: Twisted Pixel Games
+    url: https://www.twistedpixelgames.com/
+    description: Meta-owned studio that moved to VR with Wilson's Heart and Path of the Warrior.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+      - console
+    parent: Meta
+    notable:
+      - Wilson's Heart
+      - Path of the Warrior
+      - Splosion Man
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.141Z'
+  - name: Beat Games
+    url: https://www.beatsaber.com/
+    description: Meta-owned studio behind the VR rhythm game Beat Saber.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - vr
+    platforms:
+      - vr
+    parent: Meta
+    notable:
+      - Beat Saber
+    careers: https://www.metacareers.com/jobs?offices%5B0%5D=Prague%2C%20Czech%20Republic
+    social:
+      x: https://x.com/BeatSaber
+      instagram: https://www.instagram.com/beatsaber
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.152Z'
+  - name: BigBox VR
+    url: https://www.bigboxvr.com/
+    description: 'Meta-owned studio behind the VR battle royale Population: One.'
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+    parent: Meta
+    notable:
+      - 'Population: One'
+    careers: https://www.bigboxvr.com/careers.html
+    social:
+      x: https://x.com/BigBoxVR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.164Z'
+  - name: Coatsink
+    url: https://coatsink.com/
+    description: 'Developer and porting studio owned by Thunderful, behind Islanders: New Shores and Esper.'
+    hq:
+      city: Sunderland
+      country: United Kingdom
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - console
+      - pc
+      - vr
+    parent: Thunderful
+    notable:
+      - 'Islanders: New Shores'
+      - 'Transformers: Battlegrounds'
+      - ESPER
+    founded: 2009
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.175Z'
+  - name: Red Kite Games
+    url: https://www.redkitegames.co.uk/
+    description: Multi-platform development and porting studio.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    careers: https://www.redkitegames.co.uk/jobs/
+    social:
+      x: https://x.com/redkitegames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.186Z'
+  - name: Sickhead Games
+    url: https://www.sickhead.com/
+    description: Porting studio bringing Unity, Unreal, Godot and custom-engine games to consoles.
+    hq:
+      city: Dallas
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    founded: 2002
+    size: boutique
+    careers: https://www.sickhead.com/#jobs
+    social:
+      x: https://x.com/Sickhead
+      instagram: https://www.instagram.com/sickheadgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.197Z'
+  - name: Armature Studio
+    url: https://www.armature.com/
+    description: Studio founded by Metroid Prime veterans doing original work, ports and Resident Evil 4 VR.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - console
+      - pc
+      - vr
+    notable:
+      - ReCore
+      - Resident Evil 4 VR
+      - 'Batman: Arkham Origins Blackgate'
+      - 'Borderlands: The Handsome Collection'
+    founded: 2008
+    social:
+      x: https://x.com/ArmatureStudio
+      instagram: https://www.instagram.com/armature_studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.208Z'
+  - name: Code Mystics
+    url: https://www.codemystics.com/
+    description: Emulation and porting studio behind retro collections like Atari Vault.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Atari Vault
+      - The King of Fighters 2002 Unlimited Match
+    founded: 2009
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.220Z'
+  - name: Digital Eclipse
+    url: https://www.digitaleclipse.com/
+    description: Studio known for interactive retro compilations like Atari 50 and The Cowabunga Collection.
+    hq:
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Atari
+    notable:
+      - 'Atari 50: The Anniversary Celebration'
+      - 'Teenage Mutant Ninja Turtles: The Cowabunga Collection'
+      - 'Mortal Kombat: Legacy Kollection'
+    founded: 1992
+    social:
+      x: https://x.com/DigitalEclipse
+      instagram: https://www.instagram.com/digitaleclipsestudios
+      linkedin: https://www.linkedin.com/company/digitaleclipsestudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.230Z'
+  - name: Nightdive Studios
+    url: https://nightdivestudios.com/
+    description: 'Remaster studio behind Quake, System Shock and The Thing: Remastered.'
+    hq:
+      city: Vancouver
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Atari
+    notable:
+      - System Shock
+      - Quake
+      - 'The Thing: Remastered'
+      - Heretic + Hexen
+    founded: 2013
+    size: small
+    careers: https://atari.com/pages/careers
+    social:
+      x: https://x.com/NightDiveStudio
+      instagram: https://www.instagram.com/nightdivestudios
+      linkedin: https://www.linkedin.com/company/night-dive-studios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.241Z'
+  - name: Grip Studios
+    url: https://grip-studios.com/
+    description: Developer offering co-development and QA, with 50+ games shipped.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Solus Project
+      - Mothergunship
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/lifeatgrip
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.253Z'
+  - name: Ratalaika Games
+    url: https://www.ratalaikagames.com/
+    description: Porting and publishing studio shipping many small indie games on consoles.
+    hq:
+      city: León
+      country: Spain
+    segments:
+      - co-dev
+    platforms:
+      - console
+    notable:
+      - 36 Fragments of Midnight
+      - Raptor Boyfriend
+      - 8-Bit Adventures 2
+    founded: 2013
+    social:
+      x: https://x.com/RatalaikaGames
+      instagram: https://www.instagram.com/ratalaikagames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.264Z'
+  - name: HexaDrive
+    url: https://hexadrive.jp/
+    description: Japanese developer doing HD remasters and co-development for major publishers.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Final Fantasy Type-0 HD
+      - Super Bomberman R
+      - The 3rd Birthday
+    founded: 2007
+    social:
+      x: https://x.com/HEXADRIVE_Inc
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.275Z'
+  - name: M2
+    url: https://www.mtwo.co.jp/
+    description: Japanese studio known for high-accuracy retro ports and emulation.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Sega Ages
+      - Castlevania Anniversary Collection
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.286Z'
+  - name: Starloop Studios
+    url: https://starloopstudios.com/
+    description: Game development outsourcing studio providing full development and art services.
+    hq:
+      city: Lleida
+      country: Spain
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Magic Media
+    founded: 2011
+    careers: https://magicmedia.studio/careers/
+    social:
+      x: https://x.com/starloopstudios
+      instagram: https://www.instagram.com/lifeatstarloop
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.297Z'
+  - name: Pipeworks Studios
+    url: https://www.pipeworks.com/
+    description: Virtuos-owned developer making original and licensed games since 1999.
+    hq:
+      city: Eugene
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Virtuos
+    notable:
+      - 'Godzilla: Unleashed'
+      - 'Godzilla: Destroy All Monsters Melee'
+      - 'Deadliest Warrior: The Game'
+    founded: 1999
+    careers: https://www.pipeworks.com/new-careers
+    social:
+      x: https://x.com/pipeworks
+      instagram: https://www.instagram.com/pipeworksstudio
+      linkedin: https://www.linkedin.com/company/pipeworks-studios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.308Z'
+  - name: Engine Software
+    url: https://www.enginesoftware.nl/
+    description: Dutch porting and co-development studio behind console versions of Terraria.
+    hq:
+      city: Doetinchem
+      country: Netherlands
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Terraria
+      - 'Life Is Strange: Double Exposure'
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.321Z'
+  - name: Double Eleven
+    url: https://double11.com/
+    description: Independent studio doing ports, live ops and co-development, including RimWorld Console Edition.
+    hq:
+      city: Middlesbrough
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - RimWorld Console Edition
+      - Prison Architect
+      - LittleBigPlanet PS Vita
+    founded: 2009
+    careers: https://double11.com/join-us/
+    social:
+      x: https://x.com/doubleelevenltd
+      linkedin: https://www.linkedin.com/company/double-eleven-limited
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.332Z'
+  - name: Mercenary Technology
+    url: https://www.mercenarytechnology.com/
+    description: Work-for-hire game technology and engineering studio.
+    hq:
+      city: San Mateo
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2010
+    careers: https://www.mercenarytechnology.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.344Z'
+  - name: Magic Media
+    url: https://magicmedia.studio/
+    description: Game development and co-development partner covering art, engineering, VFX and live ops.
+    hq:
+      city: Dublin
+      country: Ireland
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2016
+    careers: https://magicmedia.studio/careers/
+    social:
+      instagram: https://www.instagram.com/magicmedia_official
+      linkedin: https://www.linkedin.com/company/magic-media-entertainment
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.357Z'
+  - name: Cavylabs
+    url: https://cavylabs.com/
+    description: External development and co-development studio that also makes original games.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 2015
+    social:
+      instagram: https://instagram.com/cavylabs
+      x: https://x.com/cavylabs
+      linkedin: https://www.linkedin.com/company/cavylabs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.369Z'
+  - name: Coffeenauts
+    url: https://www.coffeenauts.com/
+    description: Brazil/US studio behind the online party roguelite Spacelines from the Far Out.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Spacelines from the Far Out
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.381Z'
+  - name: Double Dash Studios
+    url: https://www.doubledashstudios.com/
+    description: Indie developer of original IPs like Sky Racket and partner games such as Jorel's Brother.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sky Racket
+    founded: 2017
+    careers: https://www.doubledashstudios.com/careers
+    social:
+      x: https://x.com/DoubleDashSTU
+      instagram: https://www.instagram.com/doubledashstu
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.393Z'
+  - name: Fanatee
+    url: https://fanatee.com/
+    description: Mobile word and puzzle game studio behind CodyCross.
+    hq:
+      city: São Paulo
+      country: Brazil
+    offices:
+      - city: Miami
+        country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - CodyCross
+      - Stop Categories
+    founded: 2013
+    careers: https://fanatee.com/#careers
+    social:
+      instagram: https://www.instagram.com/fanatee_games
+      linkedin: https://www.linkedin.com/company/fanatee
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.405Z'
+  - name: Limiar Game Studios
+    url: https://limiarstudios.com/
+    description: Engineering, porting and game design services studio, also making Blackthorne Keep.
+    hq:
+      country: Brazil
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://limiarstudios.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/limiarstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.417Z'
+  - name: Minimol Games
+    url: https://minimolgames.com/
+    description: Studio making minimalist premium puzzle and chess games like Chessarama.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Chessarama
+      - Samurai Chess
+      - HexON
+      - Knight Swap
+    social:
+      instagram: https://www.instagram.com/minimolgames
+      x: https://x.com/minimolgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.430Z'
+  - name: Seize Studios
+    url: http://www.seizestudios.com/home.html
+    description: 'Indie studio behind What The Duck and Party Saboteurs: After Party.'
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Party Saboteurs: After Party'
+      - What The Duck
+    social:
+      x: https://x.com/seizestudios
+      instagram: https://www.instagram.com/seizestudiosgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.442Z'
+  - name: VRMonkey
+    url: https://vrmonkey.com.br/
+    description: VR, AR and mixed reality development studio for clients' games and experiences.
+    hq:
+      country: Brazil
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+      - mobile
+    social:
+      x: https://x.com/vr_monkey
+      instagram: https://www.instagram.com/vrmonkey_official
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.454Z'
+  - name: Wingeon Game Studios
+    url: https://wingeon.com/
+    description: Indie studio behind the pixel art MMORPG Drakantos.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Drakantos
+    careers: https://wingeon.com/static/css/careers.css?v=2
+    social:
+      x: https://x.com/WingeonGames
+      linkedin: https://www.linkedin.com/company/wingeon
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:51.466Z'
+  - name: Insomniac Games
+    url: https://insomniac.games/
+    description: PlayStation studio behind the Marvel's Spider-Man, Ratchet & Clank and Spyro games.
+    hq:
+      city: Burbank
+      country: United States
+    offices:
+      - city: Durham
+        country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    notable:
+      - Marvel's Spider-Man 2
+      - 'Ratchet & Clank: Rift Apart'
+      - Spyro the Dragon
+      - 'Resistance: Fall of Man'
+    founded: 1994
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.569Z'
+  - name: Bend Studio
+    url: https://www.bendstudio.com/
+    description: PlayStation first-party studio known for Days Gone and the Syphon Filter series.
+    hq:
+      city: Bend
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    notable:
+      - Days Gone
+      - Syphon Filter
+      - 'Uncharted: Golden Abyss'
+    founded: 1993
+    size: mid
+    careers: https://www.bendstudio.com/careers
+    social:
+      x: https://x.com/bendstudio
+      instagram: https://www.instagram.com/bendstudio/
+      linkedin: https://www.linkedin.com/company/bendstudio/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.585Z'
+  - name: San Diego Studio
+    url: https://sonysandiegostudio.games/
+    description: PlayStation studio that develops the MLB The Show baseball series.
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+    parent: Sony Interactive Entertainment
+    notable:
+      - MLB The Show 25
+      - Sports Champions
+      - The Mark of Kri
+    founded: 2001
+    careers: https://sonysandiegostudio.games/careers/
+    social:
+      x: https://x.com/sonysandiego
+      instagram: https://www.instagram.com/sonysandiego/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.598Z'
+  - name: Bungie
+    url: https://www.bungie.net/7/
+    description: Developer of the Destiny series and the original Halo games, owned by Sony.
+    hq:
+      city: Bellevue
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    notable:
+      - Destiny 2
+      - Destiny
+      - 'Halo: Combat Evolved'
+      - Halo 3
+    founded: 1991
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.611Z'
+  - name: Valkyrie Entertainment
+    url: https://valkyrie-entertainment.com/
+    description: Sony-owned co-development studio in Seattle that supports PlayStation first-party titles.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Sony Interactive Entertainment
+    notable:
+      - Guns Up!
+    founded: 2002
+    social:
+      x: https://x.com/valkyrieent
+      linkedin: https://www.linkedin.com/company/valkyrie-entertainment/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.622Z'
+  - name: Halo Studios
+    url: https://www.halowaypoint.com/halo-studios/
+    description: Xbox studio that runs the Halo franchise, formerly named 343 Industries.
+    hq:
+      city: Redmond
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Xbox Game Studios
+    notable:
+      - Halo Infinite
+      - 'Halo 5: Guardians'
+      - Halo 4
+      - 'Halo: The Master Chief Collection'
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.633Z'
+  - name: Turn 10 Studios
+    url: https://www.turn10studios.com/
+    description: Xbox studio behind the Forza Motorsport racing series and the ForzaTech engine.
+    hq:
+      city: Redmond
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Xbox Game Studios
+    notable:
+      - Forza Motorsport (2023)
+      - Forza Motorsport 7
+      - Forza Motorsport 4
+    founded: 2001
+    careers: https://www.turn10studios.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/turn-10-studios/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.643Z'
+  - name: Obsidian Entertainment
+    url: https://www.obsidian.net/
+    description: 'RPG developer of Fallout: New Vegas, Pillars of Eternity, Avowed and The Outer Worlds.'
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Xbox Game Studios
+    notable:
+      - 'Fallout: New Vegas'
+      - Pillars of Eternity
+      - The Outer Worlds 2
+      - Avowed
+    founded: 2003
+    size: mid
+    careers: https://www.obsidian.net/careers
+    social:
+      x: https://x.com/Obsidian
+      youtube: https://www.youtube.com/user/ObsidianEnt/
+      instagram: https://www.instagram.com/obsidian/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.655Z'
+  - name: inXile entertainment
+    url: https://www.inxile-entertainment.com/
+    description: RPG studio behind the Wasteland series, owned by Xbox.
+    hq:
+      city: Tustin
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Xbox Game Studios
+    notable:
+      - Wasteland 3
+      - Wasteland 2
+      - 'Torment: Tides of Numenera'
+      - The Bard's Tale IV
+    founded: 2002
+    careers: https://www.inxile-entertainment.com/careers
+    social:
+      x: https://x.com/inXile
+      instagram: https://www.instagram.com/inxile_ent/
+      youtube: https://www.youtube.com/c/inXileentertainmentgames/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.667Z'
+  - name: Double Fine
+    url: https://www.doublefine.com/
+    description: Developer of Psychonauts, Broken Age and Keeper, owned by Xbox.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Xbox Game Studios
+    notable:
+      - Psychonauts 2
+      - Keeper
+      - Broken Age
+      - Brütal Legend
+    founded: 2000
+    size: mid
+    careers: https://www.doublefine.com/jobs
+    social:
+      instagram: https://www.instagram.com/doublefine/
+      youtube: https://www.youtube.com/user/DoubleFineProd
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.678Z'
+  - name: Undead Labs
+    url: https://www.undeadlabs.com/
+    description: Xbox studio making the State of Decay zombie survival series.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - console
+      - pc
+    parent: Xbox Game Studios
+    notable:
+      - State of Decay 2
+      - State of Decay
+    founded: 2009
+    careers: https://www.undeadlabs.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.689Z'
+  - name: World's Edge
+    url: https://www.ageofempires.com/
+    description: Xbox studio that steers the Age of Empires franchise with partner developers.
+    hq:
+      city: Redmond
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Xbox Game Studios
+    notable:
+      - 'Age of Empires II: Definitive Edition'
+      - 'Age of Mythology: Retold'
+      - Age of Empires IV
+    founded: 2019
+    careers: https://www.ageofempires.com/careers/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:36.699Z'

@@ -1,0 +1,968 @@
+studios:
+  - name: Gamecom Team
+    url: https://gamecomteam.com/
+    description: Indie studio behind Babol the Walking Box and the Troublemaker series.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Babol the Walking Box
+      - A Day Without Me
+    founded: 2014
+    social:
+      x: https://x.com/gamecom_team
+      instagram: https://www.instagram.com/gamecomteam
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.074Z'
+  - name: Mojiken Studio
+    url: https://mojikenstudio.com/
+    description: Narrative indie studio behind A Space for the Unbound.
+    hq:
+      city: Surabaya
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - A Space for the Unbound
+      - When The Past Was Around
+      - A Raven Monologue
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.082Z'
+  - name: Touchten Games
+    url: https://www.touchten.com/
+    description: Mobile studio behind Ramen Chain and Piper's Pet Cafe.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ramen Chain
+      - Piper's Pet Cafe
+      - Royal Garden Tales
+    social:
+      instagram: https://www.instagram.com/touchtengames
+      linkedin: https://www.linkedin.com/company/touchtengames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.090Z'
+  - name: Stairway Games
+    url: https://www.stairwaygames.com/
+    description: Indie studio behind the farming sim Coral Island.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Coral Island
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.099Z'
+  - name: Persona Theory Games
+    url: https://personatheory.com/
+    description: Narrative games studio telling Southeast Asian stories, maker of Kabaret.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Kabaret
+    social:
+      x: https://x.com/personatheorymy
+      instagram: https://www.instagram.com/personatheory
+      linkedin: https://www.linkedin.com/company/persona-theory-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.108Z'
+  - name: Spacepup Entertainment
+    url: https://www.gospacepups.com/
+    description: Indie developer of Cyberrunner Zero and The 9th Gate.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Cyberrunner Zero
+      - The 9th Gate
+    social:
+      x: https://x.com/gospacepups
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.116Z'
+  - name: Forust Studio
+    url: https://foruststudio.com/
+    description: Indie studio that made the platformer The Company Man.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Company Man
+    founded: 2018
+    social:
+      instagram: https://instagram.com/foruststudio
+      x: https://x.com/foruststudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.124Z'
+  - name: Metronomik
+    url: https://www.metronomik.net/
+    description: Music action studio behind No Straight Roads.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - No Straight Roads
+    founded: 2017
+    social:
+      x: https://x.com/MetronomikIncEN
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.133Z'
+  - name: Kaigan Games
+    url: https://kaigangames.com/
+    description: Studio behind the found-phone horror series SIMULACRA that also offers outsourcing.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - SIMULACRA
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.142Z'
+  - name: Garena
+    url: https://www.garena.com/
+    description: Online games developer and publisher, maker of the battle royale Free Fire.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+      - pc
+    parent: Sea Limited
+    notable:
+      - Free Fire
+    founded: 2009
+    size: large
+    careers: https://careers.garena.com
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.150Z'
+  - name: IGG
+    url: https://www.igg.com/
+    description: Mobile and online games company behind Lords Mobile and Castle Clash.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Lords Mobile
+      - Castle Clash
+      - Galaxy Online
+    size: large
+    careers: https://jobs.igg.com
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.159Z'
+  - name: Battlebrew Productions
+    url: https://www.battle-brew.com/
+    description: Indie studio behind the cooking roguelite Cuisineer.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cuisineer
+    social:
+      instagram: https://www.instagram.com/battlebrewpro
+      x: https://x.com/battlebrewpro
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.169Z'
+  - name: Koei Tecmo Singapore
+    url: https://www.koeitecmo.com.sg/
+    description: Koei Tecmo development studio working on titles like Dead or Alive Xtreme Venus Vacation.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Koei Tecmo
+    notable:
+      - Dead or Alive Xtreme Venus Vacation
+    founded: 2004
+    careers: https://www.koeitecmo.com.sg/index.php/why-join-us/
+    social:
+      linkedin: https://www.linkedin.com/company/koeitecmosingapore
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.177Z'
+  - name: Ubisoft Singapore
+    url: https://www.ubisoft.com/en-us/company/careers/locations/singapore
+    description: Ubisoft studio that led Skull and Bones and contributed to Assassin's Creed.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Ubisoft
+    notable:
+      - Skull and Bones
+      - Assassin's Creed Origins
+      - Assassin's Creed III
+    founded: 2008
+    social:
+      instagram: https://instagram.com/ubisoftsingapore
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.186Z'
+  - name: Nabi Studios
+    url: https://www.nabistudios.com/
+    description: Developer of the physics fighting game Toribash.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Toribash
+    careers: https://www.nabistudios.com/careers.php
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.194Z'
+  - name: The Gentlebros
+    url: https://thegentlebros.com/
+    description: Indie studio behind the Cat Quest action RPG series.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Cat Quest
+      - Cat Quest II
+      - Cat Quest III
+    founded: 2015
+    careers: https://thegentlebros.com/careers/
+    social:
+      x: https://x.com/TheGentlebros
+      instagram: https://www.instagram.com/gentlebrosgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.203Z'
+  - name: Springloaded
+    url: https://www.springloadedsoftware.com/
+    description: Indie studio making management sims like Let's Build a Zoo.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Let's Build a Zoo
+      - Let's Build a Dungeon
+      - The Legend of Evil
+    careers: https://www.springloadedsoftware.com/Jobs.html
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.212Z'
+  - name: General Interactive Co.
+    url: http://www.generalinteractive.co/
+    description: Indie studio behind Chinatown Detective Agency.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Chinatown Detective Agency
+      - Terroir
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.220Z'
+  - name: Oh Baby Games
+    url: https://www.ohbabygames.com/
+    description: Indie studio behind Oh Baby Kart and Shogun Curse.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Oh Baby Kart
+      - Shogun Curse
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.229Z'
+  - name: General Arcade
+    url: https://generalarcade.com/
+    description: Porting and co-development studio with teams in Singapore and Malaysia.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - country: Malaysia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Shadow Warrior Classic Redux
+      - Pathologic Classic HD
+      - 'Duke Nukem 3D: Megaton Edition'
+    founded: 2008
+    social:
+      x: https://x.com/generalarcade
+      linkedin: https://www.linkedin.com/company/general-arcade
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.238Z'
+  - name: AtomicTorch Studio
+    url: https://atomictorch.com/
+    description: Independent developer of CryoFall and the FPS Cyberscape.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - CryoFall
+      - VoidExpanse
+      - Cyberscape
+    social:
+      x: https://x.com/AtomicTorch
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.247Z'
+  - name: Sanuk Games
+    url: http://www.sanukgames.com/
+    description: Thai developer of casual console games and Barnyard Blast.
+    hq:
+      city: Pak Kret
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Barnyard Blast: Swine of the Night'
+      - 'Spot The Differences: Party!'
+    founded: 2003
+    careers: http://www.sanukgames.com/careers
+    social:
+      x: https://x.com/sanukgames
+      instagram: https://www.instagram.com/sanukgames
+      linkedin: https://www.linkedin.com/company/sanukgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.256Z'
+  - name: Urnique Studio
+    url: https://www.urniquestudio.com/TH/home
+    description: Thai indie studio behind the time-manipulation puzzle game Timelie.
+    hq:
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Timelie
+    careers: https://www.urniquestudio.com/TH/jobs
+    social:
+      x: https://x.com/UrniqueStudio
+      instagram: https://www.instagram.com/urnique_studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.265Z'
+  - name: GameCrafterTeam
+    url: https://www.gamecrafterteam.com/
+    description: Phuket studio behind the mech action series Project Nimbus.
+    hq:
+      city: Phuket
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Project Nimbus
+      - Nimbus INFINITY
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.274Z'
+  - name: Corecell Technology
+    url: https://www.corecell.co.th/
+    description: Thai game and digital art company behind the AeternoBlade series.
+    hq:
+      city: Bangkok
+      country: Thailand
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - AeternoBlade
+      - AeternoBlade II
+    founded: 2002
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.283Z'
+  - name: Tantalus Media
+    url: https://www.tantalus.com.au/
+    description: Remaster and co-development studio behind the Age of Empires Definitive Editions.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Keywords Studios
+    notable:
+      - 'Age of Empires II: Definitive Edition'
+      - 'Age of Mythology: Retold'
+      - 'The Legend of Zelda: Twilight Princess HD'
+    founded: 1994
+    careers: https://www.tantalus.com.au/jobs.html
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.291Z'
+  - name: Greenheart Games
+    url: https://greenheart.games/
+    description: Indie studio behind Game Dev Tycoon.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Game Dev Tycoon
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.300Z'
+  - name: Secret Lab
+    url: https://secretlab.games/
+    description: Studio known for work on Night in the Woods and the Yarn Spinner dialogue tool.
+    hq:
+      city: Hobart
+      country: Australia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Night in the Woods
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.310Z'
+  - name: N3V Games
+    url: https://www.n3vgames.com/
+    description: Developer of the Trainz railroad simulator series.
+    hq:
+      city: Helensvale
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Trainz
+      - Airport Simulator 2019
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.319Z'
+  - name: Firemonkeys Studios
+    url: https://www.ea.com/ea-studios/firemonkeys
+    description: EA mobile studio behind Real Racing 3 and The Sims FreePlay.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - mobile
+      - aaa
+    platforms:
+      - mobile
+    parent: Electronic Arts
+    notable:
+      - Real Racing 3
+      - The Sims FreePlay
+      - 'Need for Speed: No Limits'
+      - The Sims Mobile
+    founded: 1999
+    careers: https://www.ea.com/careers/careers-overview/melbourne
+    social:
+      x: https://x.com/TheFiremonkeys
+      instagram: https://www.instagram.com/thefiremonkeys
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.328Z'
+  - name: Samurai Punk
+    url: https://samuraipunk.com/
+    description: Indie studio behind Screencheat and Justice Sucks.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Screencheat
+      - 'Justice Sucks: Tactical Vacuum Action'
+      - The American Dream
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.338Z'
+  - name: Sapphire Dragon Productions
+    url: http://sapphiredragonproductions.com/
+    description: Visual novel and adventure studio behind The Walsingham Files and Love in the Glen.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Walsingham Files - Chapter 1
+      - Love in the Glen
+      - Last Days of Spring
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.347Z'
+  - name: Mountains
+    url: http://mountains.studio/
+    description: Craft games studio that made the interactive story Florence.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Florence
+    social:
+      instagram: https://www.instagram.com/mountainsgames
+      x: https://x.com/mountainsgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.356Z'
+  - name: Wicked Workshop
+    url: https://www.wickedworkshop.com.au/
+    description: Keywords studio, formerly Wicked Witch, doing co-development and sports games like Rugby Challenge.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Keywords Studios
+    notable:
+      - Rugby Challenge 3
+      - 'Age of Empires II: Definitive Edition'
+    founded: 1999
+    careers: https://www.wickedworkshop.com.au/careers
+    social:
+      x: https://x.com/wickedwitchnews
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.366Z'
+  - name: Nnooo
+    url: http://www.nnooo.com/
+    description: Independent developer and publisher of console games such as Pop and EscapeVektor.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Pop
+      - EscapeVektor
+    founded: 2006
+    careers: http://www.nnooo.com/jobs.html
+    social:
+      x: https://x.com/_Nnooo
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.376Z'
+  - name: EarthWork Games
+    url: https://www.earthworkgames.com/
+    description: Studio behind Forts, a physics-based base-building RTS.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Forts
+    careers: https://www.earthworkgames.com/jobs/
+    social:
+      x: https://x.com/EarthWorkGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.386Z'
+  - name: House House
+    url: https://househouse.com/
+    description: Small studio behind Untitled Goose Game.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Untitled Goose Game
+      - Push Me Pull You
+    social:
+      x: https://x.com/house_house_
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.396Z'
+  - name: Panther Games
+    url: http://www.panthergames.com/
+    description: Wargame developer behind the Command Ops series.
+    hq:
+      city: Canberra
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Command Ops 2
+      - 'Command Ops: Battles from the Bulge'
+    founded: 1985
+    social:
+      x: https://x.com/PantherGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.406Z'
+  - name: Team Cherry
+    url: https://www.teamcherry.com.au/
+    description: 'Small studio behind Hollow Knight and Hollow Knight: Silksong.'
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hollow Knight
+      - 'Hollow Knight: Silksong'
+    social:
+      x: https://x.com/TeamCherryGames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.416Z'
+  - name: Black Lab Games
+    url: https://blacklab.games/
+    description: 'Strategy game developer of Battlestar Galactica Deadlock and Warhammer 40,000: Battlesector.'
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Battlestar Galactica Deadlock
+      - 'Warhammer 40,000: Battlesector'
+      - 'Star Hammer: The Vanguard Prophecy'
+    founded: 2008
+    careers: https://blacklab.games/jobs
+    social:
+      x: https://x.com/blacklabgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.426Z'
+  - name: Final Scene Dev
+    url: https://www.finalscenedev.com/
+    description: Indie developer behind Biomass.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Biomass
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.436Z'
+  - name: Not Doppler
+    url: http://www.notdoppler.com/
+    description: Mobile studio behind the Earn to Die series and Crash of Cars.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Earn to Die 2
+      - Crash of Cars
+    founded: 2005
+    social:
+      x: https://x.com/notdoppler
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.446Z'
+  - name: Powerhoof
+    url: https://www.powerhoof.com/
+    description: Indie studio behind Crawl and The Drifter.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Crawl
+      - The Drifter
+      - Regular Human Basketball
+    founded: 2013
+    social:
+      x: https://x.com/powerhoof
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.456Z'
+  - name: Dark Gaia Studios
+    url: https://darkgaia.com/
+    description: Indie RPG developer behind Heroes of Legionwood.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Heroes of Legionwood
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.465Z'
+  - name: Drop Bear Bytes
+    url: https://www.dropbearbytes.com/
+    description: Studio behind the Australian post-apocalyptic RPG Broken Roads.
+    hq:
+      city: Torquay
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Broken Roads
+    founded: 2019
+    social:
+      x: https://x.com/DropBearBytes
+      instagram: https://www.instagram.com/dropbearbytes
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.475Z'
+  - name: Cafe Empty
+    url: https://cafeempty.games/
+    description: Queer-owned indie studio behind the adventure Newfound Courage.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Newfound Courage
+    founded: 2018
+    social:
+      x: https://x.com/cafeemptygames
+      instagram: https://www.instagram.com/cafeemptygames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.484Z'
+  - name: Silly Galah Games
+    url: https://sillygalahgames.com/
+    description: Indie developer of the puzzle game Words and Sums.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Words and Sums
+    social:
+      x: https://x.com/sillygalahgames
+      instagram: https://www.instagram.com/sillygalahgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.493Z'
+  - name: The Voxel Agents
+    url: https://www.thevoxelagents.com/
+    description: Studio behind The Gardens Between and the Train Conductor series.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Gardens Between
+      - Train Conductor
+    founded: 2009
+    social:
+      instagram: https://instagram.com/thevoxelagents
+      x: https://x.com/thevoxelagents
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.503Z'
+  - name: Sky Machine Studios
+    url: https://www.skymachine-studios.com/
+    description: Indie studio behind the isometric stealth game Winter Ember.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Winter Ember
+    social:
+      x: https://x.com/SkyMachineGames
+      instagram: https://www.instagram.com/skymachinegamesstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.513Z'
+  - name: Hungry Sky
+    url: https://www.hungrysky.com/
+    description: Indie studio behind the puzzle game Nekograms.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Nekograms
+    founded: 2013
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:50.522Z'

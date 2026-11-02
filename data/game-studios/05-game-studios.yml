@@ -1,0 +1,982 @@
+studios:
+  - name: Killabunnies
+    url: https://killabunnies.com.ar/
+    description: HTML5 and mobile game developer doing original and work-for-hire projects since 2009.
+    hq:
+      city: Santa Fe
+      country: Argentina
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - web
+    founded: 2009
+    social:
+      x: https://x.com/Killa_bunnies
+      linkedin: https://www.linkedin.com/company/killabunnies
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.333Z'
+  - name: Big Green Pillow
+    url: https://biggreenpillow.com/
+    description: Indie studio making arcade and action games such as Slash Quest! and Porcunipine.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Slash Quest!
+      - Porcunipine
+    founded: 2012
+    social:
+      x: https://x.com/BigGreenPillow
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.340Z'
+  - name: Long Hat House
+    url: https://www.longhathouse.com/
+    description: Indie studio behind the gravity-flipping metroidvania Dandara.
+    hq:
+      city: Belo Horizonte
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Dandara
+      - Magenta Arcade
+    founded: 2014
+    social:
+      x: https://x.com/longhathouse
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.347Z'
+  - name: Bombservice
+    url: https://www.bombservice.com/
+    description: Solo-led indie studio making the Momodora action-platformer series.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Momodora: Reverie Under the Moonlight'
+      - 'Momodora: Moonlit Farewell'
+      - Minoria
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.354Z'
+  - name: Lunic Games
+    url: https://lunicgames.com/
+    description: Pixel art studio doing co-development and its own action platformer Evertried.
+    hq:
+      city: Santos
+      country: Brazil
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Evertried
+    careers: https://lunicgames.com/work-with-us
+    social:
+      linkedin: https://www.linkedin.com/company/lunic-games
+      x: https://x.com/lunicgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.361Z'
+  - name: Coffee Addict Studio
+    url: https://coffeeaddictstudio.com/
+    description: Indie team behind the narrative adventure Hazel Sky.
+    hq:
+      city: Araranguá
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hazel Sky
+      - Blade & Bones
+    founded: 2014
+    social:
+      x: https://x.com/coffeeaddict_gs
+      instagram: https://www.instagram.com/coffeeaddictgs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.368Z'
+  - name: DCF Studios
+    url: http://www.dcfstudios.com/
+    description: Indie developer of party and platform games like Bunny Battle Arena and Tony and Clyde.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tony and Clyde
+      - Bunny Battle Arena
+      - Cruz Brothers
+    social:
+      instagram: https://instagram.com/dcfstudios
+      x: https://x.com/dcfstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.374Z'
+  - name: Hoplon
+    url: https://www.hoplon.com/
+    description: Online games studio that made the vehicle combat game Heavy Metal Machines.
+    hq:
+      city: Florianópolis
+      country: Brazil
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Heavy Metal Machines
+      - Taikodom
+    founded: 2000
+    social:
+      linkedin: https://www.linkedin.com/company/hoplongames
+      x: https://x.com/hoplongames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.380Z'
+  - name: Aoca Game Lab
+    url: https://www.aocagamelab.games/
+    description: Indie team turning Brazilian settings into games, starting with the survival adventure Arida.
+    hq:
+      city: Salvador
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Arida: Backland''s Awakening'
+    founded: 2016
+    social:
+      x: https://x.com/aocagamelab
+      instagram: https://www.instagram.com/aocagamelab
+      linkedin: https://www.linkedin.com/company/aoca-game-lab
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.386Z'
+  - name: QUByte Interactive
+    url: http://www.qubyteinteractive.com/
+    description: Porting house and publisher bringing retro collections and indie games to consoles.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 99Vidas
+      - Breakers Collection
+      - Accolade Sports Collection
+      - Mars 2120
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.392Z'
+  - name: Aquiris
+    url: https://www.aquiris.com.br/
+    description: Racing and action game developer best known for the Horizon Chase series.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Horizon Chase Turbo
+      - Horizon Chase 2
+      - Ballistic Overkill
+    founded: 2007
+    careers: https://www.linkedin.com/company/aquiris-game-studio/jobs/
+    social:
+      x: https://x.com/AquirisGS
+      instagram: https://www.instagram.com/aquirisgs
+      linkedin: https://www.linkedin.com/company/aquiris-game-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.399Z'
+  - name: Mother Gaia
+    url: https://mothergaia.com.br/
+    description: Indie developer of the Legend of the Skyfish games and Slash Quest!.
+    hq:
+      city: Bauru
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Legend of the Skyfish
+      - Legend of the Skyfish 2
+      - Slash Quest!
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.406Z'
+  - name: Pippin Games
+    url: https://www.pippingames.com/
+    description: Indie studio making casual and mid-core games with anime themes.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Kawaii Deathu Desu
+      - Wife Quest
+    social:
+      x: https://x.com/PippinGames
+      instagram: https://www.instagram.com/pippingames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.412Z'
+  - name: Pulsatrix Studios
+    url: https://www.pulsatrixstudios.com/
+    description: 'Horror game studio behind Fobia: St. Dinfna Hotel and A.I.L.A.'
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fobia - St. Dinfna Hotel
+      - A.I.L.A.
+    founded: 2019
+    social:
+      x: https://x.com/PulsatrixStudio
+      instagram: https://www.instagram.com/pulsatrixstudios
+      linkedin: https://www.linkedin.com/company/pulsatrix-studios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.419Z'
+  - name: Kasulo Game Studio
+    url: https://kasulogamestudio.com/
+    description: Small studio making puzzle games and Unity 3D asset packs.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Box Align X
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.425Z'
+  - name: Rockhead Games
+    url: http://rockheadgames.com/
+    description: Indie studio behind the kart racer Starlit Kart Racing.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Starlit Kart Racing
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.432Z'
+  - name: Behold Studios
+    url: https://www.beholdstudios.com.br/
+    description: Indie studio known for Knights of Pen & Paper and Chroma Squad.
+    hq:
+      city: Brasília
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Knights of Pen & Paper
+      - Chroma Squad
+      - Out of Space
+      - Galaxy of Pen & Paper
+    founded: 2009
+    social:
+      instagram: https://instagram.com/beholdstudios
+      x: https://x.com/beholdstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.438Z'
+  - name: Orube Game Studio
+    url: http://orubegamestudio.com/
+    description: Indie team making cheerful retro platformers like Super Mombo Quest.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Super Mombo Quest
+      - Dwarf Journey
+      - Adventure Llama
+    social:
+      instagram: https://www.instagram.com/orubegamestudio
+      x: https://x.com/orubegamestudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.445Z'
+  - name: Tapps Games
+    url: https://tappsgames.com/pt-br/
+    description: Mobile casual games developer and publisher.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Cow Evolution
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/tappshq
+      linkedin: https://www.linkedin.com/company/tapps-games
+      x: https://x.com/tappsgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.451Z'
+  - name: Dumativa
+    url: https://www.dumativa.com.br/
+    description: Indie studio behind the horror RPG Enigma of Fear and Shieldmaiden.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Enigma of Fear
+      - Shieldmaiden
+    founded: 2012
+    size: small
+    social:
+      instagram: https://www.instagram.com/dumativa
+      x: https://x.com/dumativa
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.457Z'
+  - name: Colossus Game Studio
+    url: https://colossusgamestudio.com/
+    description: Indie studio shipping small arcade and puzzle games on PC, console and mobile.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Super Rebellion
+      - Dobo's Heroes
+      - LoBlocks
+    founded: 2015
+    social:
+      x: https://x.com/colossus_game
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.464Z'
+  - name: Ilex Games
+    url: https://ilexgames.com.br/main/
+    description: Indie studio making narrative games such as Soul Gambler.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Soul Gambler
+      - Inner Mazes - Souls Guides
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.470Z'
+  - name: NukGames
+    url: https://nukgames.com/
+    description: Small indie developer of arcade shooters and puzzle games.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Shapeshooter
+      - Razortron 2000
+      - Polygoneer
+    social:
+      x: https://x.com/NukGames
+      instagram: https://www.instagram.com/nuk.games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.477Z'
+  - name: Província Studio
+    url: https://provincia.network/
+    description: 'Brother-run studio behind the platformer Josh Journey: Darkness Totems.'
+    hq:
+      city: Goiânia
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Josh Journey: Darkness Totems'
+    founded: 2013
+    social:
+      x: https://x.com/provinciastudio
+      instagram: https://www.instagram.com/provinciastudio
+      linkedin: https://www.linkedin.com/company/provinciastudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.483Z'
+  - name: Asteristic Game Studio
+    url: https://asteristic.com/
+    description: Indie studio behind the co-op puzzle platformer Dandy & Randy DX.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dandy & Randy DX
+    social:
+      x: https://x.com/asteristicgs
+      instagram: https://www.instagram.com/asteristicgamestudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.489Z'
+  - name: Green Sauce Games
+    url: https://greensaucegames.com/
+    description: Casual studio making match-3 and solitaire games.
+    hq:
+      city: Londrina
+      country: Brazil
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Lost Labyrinth
+      - Storm Tale 2
+      - Hope's Farm
+    founded: 2008
+    social:
+      x: https://x.com/greensaucegames
+      instagram: https://www.instagram.com/greensaucegames
+      linkedin: https://www.linkedin.com/company/green-sauce-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.496Z'
+  - name: Petit Fabrik
+    url: https://www.petitfabrik.com/
+    description: 'Work-for-hire studio making licensed games such as Miraculous: Paris Under Siege.'
+    hq:
+      city: Manaus
+      country: Brazil
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Miraculous: Paris Under Siege'
+      - Nicktoons & The Dice of Destiny
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/petitfabrik
+      linkedin: https://www.linkedin.com/company/petitfabrik
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.502Z'
+  - name: Void Studios
+    url: https://voidstudios.com.br/home/en/
+    description: Indie studio behind the dark fantasy platformer Cassiodora.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cassiodora
+    founded: 2015
+    social:
+      x: https://x.com/voidstudiosgame
+      instagram: https://www.instagram.com/voidstudiosoficial
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.509Z'
+  - name: Minicactus Games
+    url: https://www.minicactusgames.com/
+    description: Small studio shipping casual puzzle and cat-themed games.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Lost Astronaut
+      - No Cat Fights Here
+      - Mining Cats
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.516Z'
+  - name: 40 Giants Entertainment
+    url: https://fortygiants.com/
+    description: Transmedia studio behind the tactics RPG Reverie Knights Tactics.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Reverie Knights Tactics
+    social:
+      instagram: https://www.instagram.com/40giants
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.523Z'
+  - name: Insert Coin Games
+    url: http://www.icgames.com.br/
+    description: Indie studio behind The Bounty Huntress and CardForge.
+    hq:
+      city: Maringá
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Bounty Huntress
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.530Z'
+  - name: Actoon Studio
+    url: https://actoonstudio.com/
+    description: Indie team making story adventures like Like No Other and Wind Peaks.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Like No Other: The Legend of the Twin Books'
+      - Wind Peaks
+    social:
+      x: https://x.com/actoonstudio
+      instagram: https://www.instagram.com/actoonstudio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.537Z'
+  - name: Banana Bytes
+    url: https://bananabytes.com.br/
+    description: Indie studio behind the shoot 'em up Sophstar.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sophstar
+    social:
+      instagram: https://www.instagram.com/bananabytesbr
+      x: https://x.com/bananabytesbr
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.544Z'
+  - name: 2ndBoss
+    url: https://www.2ndboss.com/
+    description: Retro-style action game developer of Savage Halloween and Biolab Wars.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Savage Halloween
+      - Biolab Wars
+      - Wild Dogs
+    social:
+      x: https://x.com/2ndBossGS
+      instagram: https://www.instagram.com/2ndbossgs
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.551Z'
+  - name: Pixodust Games
+    url: https://www.pixodust.com/
+    description: Mobile studio making merge and idle tycoon games.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Medieval Merge
+      - Merge 2 Survive
+      - Idle Museum Tycoon
+    founded: 2018
+    careers: https://www.pixodust.com/joinus/
+    social:
+      instagram: https://www.instagram.com/pixodustgames
+      linkedin: https://www.linkedin.com/company/pixodust
+      x: https://x.com/pixodust
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.559Z'
+  - name: Wondernaut Studio
+    url: https://wondernaut.studio/
+    description: 'Indie studio behind the puzzle platformer Aspire: Ina''s Tale.'
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Aspire: Ina''s Tale'
+    founded: 2020
+    social:
+      x: https://x.com/Wondernaut_
+      instagram: https://www.instagram.com/wondernaut.studio
+      linkedin: https://www.linkedin.com/company/wondernaut-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.566Z'
+  - name: Afil Games
+    url: https://afilgames.com/
+    description: Console porting and publishing studio for small indie games.
+    hq:
+      country: Brazil
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Slap the Rocks
+    social:
+      x: https://x.com/AfilGames
+      instagram: https://www.instagram.com/afilgames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.574Z'
+  - name: Virtual Arts Studio
+    url: https://virtualarts.com.br/
+    description: Indie studio making casual and puzzle games such as Magicolors.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Magicolors
+      - The Awakening of Mummies
+      - Diorama Builder
+    social:
+      x: https://x.com/VirtualArtsStd
+      instagram: https://www.instagram.com/virtualartsstudio
+      linkedin: https://www.linkedin.com/company/virtual-arts-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.581Z'
+  - name: The Bergson's Games Studios
+    url: https://bergsonsgames.com/
+    description: Small studio behind the adventure One Step After Fall.
+    hq:
+      city: Espera Feliz
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - One Step After Fall
+    social:
+      x: https://x.com/BergsonThe
+      instagram: https://www.instagram.com/thebergsonsgamesstudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.588Z'
+  - name: Arvore
+    url: https://arvore.io/
+    description: VR studio behind the Pixel Ripped series.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Pixel Ripped 1989
+      - Pixel Ripped 1995
+      - Pixel Ripped 1978
+    founded: 2017
+    careers: https://arvore.io/work-with-us
+    social:
+      instagram: https://instagram.com/arvoreimmersive
+      x: https://x.com/arvoreimmersive
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.595Z'
+  - name: JoyMasher
+    url: https://joymasher.com/
+    description: 'Retro action studio behind Blazing Chrome and Vengeful Guardian: Moonrider.'
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Blazing Chrome
+      - 'Vengeful Guardian: Moonrider'
+      - 'Odallus: The Dark Call'
+      - Oniken
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.603Z'
+  - name: Afterverse
+    url: https://afterverse.com/
+    description: Mobile studio behind the kids social game PK XD.
+    hq:
+      city: Brasília
+      country: Brazil
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - PK XD
+    social:
+      linkedin: https://www.linkedin.com/company/afterverse
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.610Z'
+  - name: Rogue Snail
+    url: https://roguesnail.com/
+    description: Indie studio behind the Relic Hunters shooter series.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Relic Hunters Zero
+      - Relic Hunters Legend
+    careers: https://roguesnail.com/Jobs
+    social:
+      x: https://x.com/rogue_snail
+      instagram: https://www.instagram.com/roguesnail
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.617Z'
+  - name: Gazeus Games
+    url: https://gazeus.com/
+    description: Mobile developer of classic card and board games.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.624Z'
+  - name: Regular Studio
+    url: https://regularstudio.com/
+    description: Indie studio behind Togges and the action game Motorslice.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Togges
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.632Z'
+  - name: Webcore Games
+    url: https://www.webcoregames.com/
+    description: Unity and Unreal service studio doing full development, co-development, porting and live ops.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2004
+    size: mid
+    careers: https://www.webcoregames.com/careers
+    social:
+      x: https://x.com/webcoregames
+      instagram: https://www.instagram.com/webcoregames
+      linkedin: https://www.linkedin.com/company/webcore-games
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.640Z'
+  - name: BitCake Studio
+    url: https://www.bitcake.studio/
+    description: Remote indie studio focused on online multiplayer games.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    social:
+      x: https://x.com/BitCakeStudio
+      instagram: https://www.instagram.com/bitcake.studio
+      linkedin: https://www.linkedin.com/company/bitcake-studio
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.647Z'
+  - name: AmnesiaGames
+    url: https://amnesiagames.cl/
+    description: Mobile casual games developer, maker of Ninja Joe and 31 Minutos games.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ninja Joe
+    founded: 2006
+    careers: https://amnesiagames.cl/contact/?contact=jobs
+    social:
+      x: https://x.com/amnesiagames
+      linkedin: https://www.linkedin.com/company/amnesiagames
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.656Z'
+  - name: Gamaga
+    url: https://www.gamaga.com/
+    description: 'Independent developer of PC, console and mobile games, including Cobra Kai: Card Fighter.'
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Cobra Kai: Card Fighter'
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.664Z'
+  - name: Octeto Studios
+    url: https://www.octetostudios.com/
+    description: 'Developer of the airship RPG Sky Oceans: Wings for Hire.'
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Sky Oceans: Wings for Hire'
+    founded: 2012
+    social:
+      instagram: https://instagram.com/octetostudios
+      x: https://x.com/octetostudios
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:25:49.673Z'

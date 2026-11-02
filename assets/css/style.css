@@ -1320,8 +1320,15 @@ h2 .edit-on-gh .mdi {
 .d-cg { --dc: hsl(270 75% 77%); }
 .d-product-viz { --dc: hsl(288 65% 74%); }
 .d-archviz { --dc: hsl(252 80% 79%); }
-.d-games { --dc: hsl(128 50% 62%); }
 .d-cinematics { --dc: hsl(152 55% 58%); }
+/* /game-studios/ segments (keys never collide with disciplines; studios.test.js checks). */
+.d-aaa { --dc: hsl(128 50% 62%); }
+.d-aa { --dc: hsl(152 55% 58%); }
+.d-indie { --dc: hsl(36 90% 64%); }
+.d-mobile { --dc: hsl(310 70% 74%); }
+.d-co-dev { --dc: hsl(68 60% 58%); }
+.d-vr { --dc: hsl(172 60% 55%); }
+.d-ugc { --dc: hsl(214 95% 70%); }
 .d-outsourcing { --dc: hsl(68 60% 58%); }
 .d-mocap { --dc: hsl(95 55% 60%); }
 .d-xr { --dc: hsl(172 60% 55%); }

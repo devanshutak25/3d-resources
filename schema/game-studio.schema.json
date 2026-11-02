@@ -1,0 +1,182 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://3d.devanshutak.xyz/schema/game-studio.schema.json",
+  "title": "Game studio",
+  "description": "One game developer in the /game-studios/ directory (data/game-studios/NN-game-studios.yml). Separate from catalog entries and from /studios/.",
+  "type": "object",
+  "required": [
+    "name",
+    "url",
+    "description",
+    "hq",
+    "segments",
+    "added_at"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "httpUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "place": {
+      "type": "object",
+      "required": [
+        "country"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "city": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 80
+        },
+        "country": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 60
+        }
+      }
+    }
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "url": {
+      "$ref": "#/$defs/httpUrl"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 200
+    },
+    "hq": {
+      "$ref": "#/$defs/place"
+    },
+    "offices": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/place"
+      },
+      "maxItems": 30
+    },
+    "segments": {
+      "description": "What kind of game studio. aaa: big-budget / first-party; aa: mid-size; co-dev: co-development, work-for-hire, porting; ugc: Roblox, Fortnite UEFN, Minecraft Marketplace.",
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "aaa",
+          "aa",
+          "indie",
+          "mobile",
+          "co-dev",
+          "vr",
+          "ugc"
+        ]
+      }
+    },
+    "platforms": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "pc",
+          "console",
+          "mobile",
+          "vr",
+          "web"
+        ]
+      }
+    },
+    "parent": {
+      "description": "Owning company, if any.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "size": {
+      "description": "Headcount, LinkedIn 'Company size' ranges: boutique 1-10, small 11-50, mid 51-200, large 201+.",
+      "enum": [
+        "boutique",
+        "small",
+        "mid",
+        "large"
+      ]
+    },
+    "founded": {
+      "type": "integer",
+      "minimum": 1850,
+      "maximum": 2100
+    },
+    "careers": {
+      "$ref": "#/$defs/httpUrl"
+    },
+    "reel": {
+      "$ref": "#/$defs/httpUrl"
+    },
+    "notable": {
+      "type": "array",
+      "maxItems": 4,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 80
+      },
+      "description": "Shipped games, max 4."
+    },
+    "social": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "instagram": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "linkedin": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "vimeo": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "youtube": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "x": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "behance": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "artstation": {
+          "$ref": "#/$defs/httpUrl"
+        }
+      }
+    },
+    "added_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "url_status": {
+      "enum": [
+        "ok",
+        "redirect",
+        "broken",
+        "unreachable"
+      ]
+    },
+    "url_last_verified": {
+      "type": "string",
+      "format": "date"
+    },
+    "notes": {
+      "type": "string",
+      "maxLength": 500
+    }
+  }
+}

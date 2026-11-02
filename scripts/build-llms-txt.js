@@ -219,27 +219,26 @@ function buildFull(sectionsFile, bySection, lastUpdated) {
   return lines.join('\n');
 }
 
-// Studios directory (data/studios/): thin file gets a pointer, full file lists every studio.
+// Studio directories (data/studios/, data/game-studios/): thin file gets pointers, full file lists every studio.
 function buildStudios(full) {
-  const { DISCIPLINES, placeLabel } = require('./lib/studios');
-  const studios = catalog.loadStudios()
-    .slice()
-    .sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
-  if (!studios.length) return [];
-  const lines = [
-    '## Studios directory',
-    '',
-    `> ${studios.length.toLocaleString()} animation, VFX, motion design, CG, game and arch viz studios with location, disciplines and careers pages.`,
-    '',
-    `Directory: ${SITE_URL}/studios/`,
-    ''
+  const { DISCIPLINES, SEGMENTS, placeLabel } = require('./lib/studios');
+  const dirs = [
+    ['studios', 'Studios directory', 'animation, VFX, motion design, CG and arch viz studios with location, disciplines and careers pages.', s => s.disciplines.map(d => DISCIPLINES[d] || d)],
+    ['game-studios', 'Game studios directory', 'game developers (AAA, indie, mobile, co-dev, VR) with location, platforms, parent company and notable games.', s => s.segments.map(d => SEGMENTS[d] || d)]
   ];
-  if (!full) return lines;
-  for (const s of studios) {
-    const disc = s.disciplines.map(d => DISCIPLINES[d] || d).join(', ');
-    lines.push(`- [${clean(s.name)}](${s.url}): ${clean(s.description)} (${placeLabel(s.hq)}; ${disc})`);
+  const lines = [];
+  for (const [kind, title, what, tags] of dirs) {
+    const studios = catalog.loadStudios(kind)
+      .slice()
+      .sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
+    if (!studios.length) continue;
+    lines.push(`## ${title}`, '', `> ${studios.length.toLocaleString()} ${what}`, '', `Directory: ${SITE_URL}/${kind}/`, '');
+    if (!full) continue;
+    for (const s of studios) {
+      lines.push(`- [${clean(s.name)}](${s.url}): ${clean(s.description)} (${placeLabel(s.hq)}; ${tags(s).join(', ')})`);
+    }
+    lines.push('');
   }
-  lines.push('');
   return lines;
 }
 

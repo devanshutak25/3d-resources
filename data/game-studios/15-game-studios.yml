@@ -1,0 +1,883 @@
+studios:
+  - name: Playdek
+    url: https://re-logic.com/
+    description: Studio that adapts tabletop card and board games to digital.
+    hq:
+      city: Carlsbad
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Ascension: Chronicle of the Godslayer'
+      - Summoner Wars
+      - Twilight Struggle
+    founded: 2009
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Metalhead Software
+    url: https://www.playdekgames.com/
+    description: EA studio in Victoria behind the Super Mega Baseball series.
+    hq:
+      city: Victoria
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Electronic Arts
+    notable:
+      - Super Mega Baseball 4
+      - Super Mega Baseball 3
+      - Super Mega Baseball
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Capital Games
+    url: https://www.ea.com/ea-studios/metalhead
+    description: 'EA mobile studio behind Star Wars: Galaxy of Heroes.'
+    hq:
+      city: Sacramento
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    parent: Electronic Arts
+    notable:
+      - 'Star Wars: Galaxy of Heroes'
+    founded: 2012
+    careers: https://www.ea.com/ea-studios/metalhead/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Extremely OK Games
+    url: https://www.ea.com/ea-studios/capital-games
+    description: Indie studio of the Celeste and TowerFall developers.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Celeste
+      - TowerFall
+    founded: 2018
+    careers: https://www.ea.com/studios/capital-games/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: New World Interactive
+    url: https://exok.com/
+    description: Tactical shooter studio behind the Insurgency series.
+    hq:
+      city: Denver
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Saber Interactive
+    notable:
+      - 'Insurgency: Sandstorm'
+      - Insurgency
+      - Day of Infamy
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Stoic
+    url: https://newworldinteractive.com/
+    description: Studio of former BioWare developers, maker of The Banner Saga trilogy.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Banner Saga
+      - The Banner Saga 2
+      - The Banner Saga 3
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Pixelberry Studios
+    url: https://stoicstudio.com/
+    description: 'Mobile studio behind the interactive story app Choices: Stories You Play.'
+    hq:
+      city: Mountain View
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Nexon
+    notable:
+      - 'Choices: Stories You Play'
+      - High School Story
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: MobilityWare
+    url: https://www.pixelberrystudios.com/
+    description: Mobile developer of card and puzzle games led by Solitaire.
+    hq:
+      city: Irvine
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Solitaire by MobilityWare
+      - Spider Solitaire
+      - FreeCell
+    founded: 2008
+    careers: https://www.pixelberrystudios.com/careers
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Magic Tavern
+    url: https://www.mobilityware.com/
+    description: Mobile studio behind the makeover puzzle game Project Makeover.
+    hq:
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Project Makeover
+    founded: 2013
+    careers: https://www.mobilityware.com/mobilityware-careers/benefits/
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:32:58.780Z'
+  - name: Kiwiwalks
+    url: https://www.kiwiwalks.com/
+    description: Indie studio behind the WitchSpring series of witch-raising RPGs.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - WitchSpring3 Re:Fine
+      - WitchSpring R
+      - WitchSpring4
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: REMIMORY
+    url: http://www.remimory.com/
+    description: Small studio making puzzle and rhythm games such as Color Symphony and 222 Hearts.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Color Symphony
+      - 222 Hearts
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Studio Bside
+    url: https://www.studiobside.com/
+    description: Developer of the mobile RPG Counter:Side.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Counter:Side
+    founded: 2017
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Mintrocket
+    url: https://www.mintrock.et/en/
+    description: Nexon sub-label behind Dave the Diver, focused on smaller-scope games.
+    hq:
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+    parent: Nexon
+    notable:
+      - Dave the Diver
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: CRT Games
+    url: https://crtgames.co.kr/
+    description: Studio reviving classic arcade games such as Snow Bros. and Psychic 5 for modern platforms.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Psychic 5: Eternal'
+      - Snow Bros. Nick and Tom Special
+      - Snow Bros. 2 Special
+    founded: 2020
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: PUBG Studios
+    url: https://www.krafton.com/en/studios/pubg/
+    description: 'Krafton studio that develops and runs PUBG: Battlegrounds.'
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Krafton
+    notable:
+      - 'PUBG: Battlegrounds'
+      - 'PUBG: New State'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Neople
+    url: https://www.neople.co.kr/
+    description: 'Nexon studio behind Dungeon Fighter Online and The First Berserker: Khazan.'
+    hq:
+      city: Jeju
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Nexon
+    notable:
+      - Dungeon Fighter Online
+      - 'The First Berserker: Khazan'
+      - DNF Duel
+    founded: 2001
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Ring Games
+    url: https://ringgames.com/
+    description: Mobile developer of the action RPG Abyssdia.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Abyssdia
+    founded: 2019
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: EPIDGames
+    url: https://epidgames.com/
+    description: Mobile developer of the chibi-styled RPG Trickcal.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Trickcal: Chibi Go'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: NEXON Korea
+    url: https://company.nexon.com/
+    description: Korean operating arm of Nexon that develops and runs MapleStory, Mabinogi and KartRider.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Nexon
+    notable:
+      - MapleStory
+      - 'KartRider: Drift'
+      - Mabinogi
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: ProjectMoon
+    url: https://projectmoon.studio/
+    description: Indie studio behind Lobotomy Corporation, Library of Ruina and Limbus Company.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Lobotomy Corporation
+      - Library of Ruina
+      - Limbus Company
+    founded: 2016
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Cassel Games
+    url: https://casselgames-eng.imweb.me/
+    description: Indie developer of the rat-themed strategy games Ratropolis and Ratopia.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Ratropolis
+      - Ratopia
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Magic Cube
+    url: http://magiccubegames.com/
+    description: Busan studio making mobile RPGs such as Merge & Blade.
+    hq:
+      city: Busan
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Merge & Blade
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Rootless Studio
+    url: https://rootlessstudio.com/
+    description: Indie developer of the Korean-folklore metroidvania 8Doors.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - '8Doors: Arum''s Afterlife Adventure'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Action Square
+    url: https://www.action2quare.com/
+    description: Developer of the mobile action RPG Blade and the co-op roguelite Anvil.
+    hq:
+      country: South Korea
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Blade for Kakao
+      - Anvil
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: GAMFS N
+    url: https://www.gamfs.co.kr/
+    description: Developer of the mobile RPG Brown Dust 2, published by Neowiz.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Brown Dust 2
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Iggymob
+    url: http://www.iggymob.com/
+    description: Developer of the Gungrave revival titles, including Gungrave G.O.R.E and Gungrave VR.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - console
+      - pc
+      - vr
+    notable:
+      - Gungrave G.O.R.E
+      - Gungrave VR
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: CFK
+    url: https://www.cfk.kr/
+    description: Developer and publisher reviving retro IP such as Princess Maker and Wonder Boy.
+    hq:
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Princess Maker: Faery Tales Come True'
+      - Wonder Boy Returns
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Npixel
+    url: https://npixel.co.kr/
+    description: Developer of the mobile MMORPG Gran Saga, now building the MMO Chrono Odyssey.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Gran Saga
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Dalcom Soft
+    url: https://dalcomsoft.com/html/dh/main
+    description: Mobile developer of the SuperStar series of K-pop rhythm games.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - SuperStar SMTOWN
+      - Superstar IZ*ONE
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: XLGames
+    url: https://www.xlgames.com/
+    description: Developer of the ArcheAge MMORPG series.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - ArcheAge
+      - ArcheAge War
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Arcstar
+    url: https://www.teamarcstar.com/
+    description: Indie team behind the rhythm game OverRapid.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - OverRapid
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Zepetto
+    url: https://www.zepetto.com/
+    description: Developer of the online FPS Point Blank.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Point Blank
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: MAIET Entertainment
+    url: https://www.maiet.co.kr/
+    description: 'Developer of the online shooter GunZ: The Duel and the MMORPG RaiderZ.'
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - 'GunZ: The Duel'
+      - RaiderZ
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Andamiro
+    url: https://www.andamiro.com/
+    description: Arcade maker behind the Pump It Up dance game series.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    notable:
+      - Pump It Up
+    founded: 1992
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Joymax
+    url: https://www.joymax.com/portal/
+    description: Wemade subsidiary that develops and runs the MMORPG Silkroad Online.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    parent: Wemade
+    notable:
+      - Silkroad Online
+    founded: 1997
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Dragonfly
+    url: http://www.dragonflygame.com/
+    description: Developer of the online FPS Special Force.
+    hq:
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Special Force
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Mobirix
+    url: https://www.mobirix.com/main/main.html
+    description: Mobile developer of casual puzzle and board games.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Studio Wheel
+    url: https://www.studiowheel.net/
+    description: Indie developer of the text-based roguelike RPG Life in Adventure.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Life in Adventure
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Gravity
+    url: https://www.gravity.co.kr/
+    description: Developer and publisher of the Ragnarok Online series, majority owned by GungHo.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    parent: GungHo Online Entertainment
+    notable:
+      - Ragnarok Online
+      - Ragnarok Origin
+      - 'Ragnarok M: Eternal Love'
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Webzen
+    url: https://company.webzen.com/en
+    description: Developer and publisher of the MU Online MMORPG series.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - MU Online
+      - MU Origin
+      - R2 Online
+    founded: 2000
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Joycity
+    url: https://www.joycity.com/
+    description: Developer of the Freestyle basketball games and mobile strategy titles such as Gunship Battle.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Freestyle
+      - 'Gunship Battle: Total Warfare'
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: KOG
+    url: https://www.kog.co.kr/
+    description: Daegu studio behind Elsword, Grand Chase and KurtzPel.
+    hq:
+      city: Daegu
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Elsword
+      - Grand Chase
+      - KurtzPel
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: 111 Percent
+    url: https://111percent.net/
+    description: Mobile developer of Random Dice and Lucky Defense.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Random Dice
+      - Lucky Defense
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Hound13
+    url: https://hound13.com/en
+    description: Developer of the action RPGs Hundred Soul and Dragon Sword.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Hundred Soul
+      - Dragon Sword
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Supercat
+    url: https://www.supercat.co.kr/
+    description: 'Online and mobile RPG developer, co-developer of Nexon''s The Kingdom of the Winds: Yeon.'
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: CookApps
+    url: https://cookapps.com/
+    description: Mobile developer of casual puzzle and idle RPG games.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Joker Studio
+    url: https://www.joker-studio.com/
+    description: NetEase studio behind the asymmetric horror game Identity V.
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    parent: NetEase
+    notable:
+      - Identity V
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: XD
+    url: https://www.xd.com/
+    description: 'Shanghai developer and publisher behind Torchlight: Infinite, and owner of the TapTap platform.'
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - 'Torchlight: Infinite'
+      - 'Etheria: Restart'
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Ubisoft Shanghai
+    url: https://www.ubisoft.com/en-us/company/careers/locations/shanghai
+    description: Ubisoft studio in Shanghai that co-develops the Far Cry series.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aaa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Ubisoft
+    notable:
+      - Far Cry 4
+      - Far Cry 5
+    founded: 1996
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
+  - name: Ubisoft Chengdu
+    url: https://www.ubisoft.com/en-us/company/careers/locations/chengdu
+    description: Ubisoft studio in Chengdu working on co-development and mobile titles.
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Ubisoft
+    notable:
+      - Tom Clancy's Rainbow Six Siege
+    founded: 2007
+    size: large
+    url_status: ok
+    url_last_verified: '2026-11-02'
+    added_at: '2026-11-02T20:35:19.369Z'
