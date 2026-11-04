@@ -284,3 +284,23 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.581Z'
+  - name: QuickMatch
+    url: https://quickmatch.si/
+    added_at: '2026-11-04T08:30:34.000Z'
+    description: Directory of AI tools for game creators (3D models, art, music, voice, code, engines) with side-by-side comparisons, free-plan and commercial-use info, and guides.
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai
+    readme_tags:
+      - Directory
+      - Comparisons
+    best_for: Choosing an AI tool for a game project
