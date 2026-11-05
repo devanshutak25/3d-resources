@@ -28,6 +28,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2016
     social:
       instagram: https://www.instagram.com/maverick.frame/
@@ -47,6 +48,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:17.669Z'
@@ -62,6 +64,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/soluisgroup/
       linkedin: https://www.linkedin.com/company/soluis-group/
@@ -77,9 +80,11 @@ studios:
       - archviz
       - 3d-animation
       - xr
+      - interactive
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/vmistudio/
       linkedin: https://www.linkedin.com/company/vmi-studio/
@@ -99,6 +104,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/renderlyuk
       linkedin: https://www.linkedin.com/company/renderlyuk
@@ -118,6 +124,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2015
     social:
       instagram: https://www.instagram.com/3d_lines_uk
@@ -136,6 +143,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/chillipepperdesignscgi
       linkedin: https://www.linkedin.com/company/chillipepperdesigns
@@ -174,6 +182,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2011
     social:
       instagram: https://www.instagram.com/archicgicom
@@ -192,6 +201,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/playtime.barcelona
     url_status: ok
@@ -210,6 +220,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.022Z'
@@ -223,9 +234,11 @@ studios:
       - archviz
       - 3d-animation
       - product-viz
+      - interactive
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       linkedin: https://www.linkedin.com/company/simulated-image
     url_status: ok
@@ -242,6 +255,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/treedeeoy
       linkedin: https://www.linkedin.com/company/treedee-oy
@@ -260,6 +274,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2011
     social:
       instagram: https://www.instagram.com/voimagraphics
@@ -279,6 +294,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/3dtalo
     url_status: ok
@@ -295,6 +311,7 @@ studios:
       - product-viz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/3dmediavisualisation
     url_status: ok
@@ -310,6 +327,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.249Z'
@@ -326,6 +344,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2020
     social:
       instagram: https://www.instagram.com/rhinerender
@@ -344,6 +363,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/render.studios
       linkedin: https://www.linkedin.com/company/renderstudiosofficial
@@ -360,6 +380,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.361Z'
@@ -373,6 +394,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.399Z'
@@ -386,6 +408,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     founded: 2007
     social:
       instagram: https://www.instagram.com/scopestudio.pl
@@ -420,6 +443,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     founded: 2022
     social:
       instagram: https://www.instagram.com/gdav.studio
@@ -437,6 +461,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.552Z'
@@ -453,6 +478,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/onstudio_3d
       linkedin: https://www.linkedin.com/company/onstudio
@@ -473,6 +499,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/artfusionarchitecture
     url_status: ok
@@ -489,6 +516,7 @@ studios:
       - product-viz
     markets:
       - brand
+      - real-estate
     founded: 2020
     social:
       instagram: https://www.instagram.com/original3dstudio
@@ -508,6 +536,7 @@ studios:
       - product-viz
     markets:
       - brand
+      - real-estate
     founded: 2014
     url_status: ok
     url_last_verified: '2026-11-02'
@@ -525,6 +554,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/visualfabrik
       linkedin: https://www.linkedin.com/company/visualfabrik
@@ -540,6 +570,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     founded: 2004
     social:
       instagram: https://www.instagram.com/arquitecturas3d
@@ -558,6 +589,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/vimapstudio
       linkedin: https://www.linkedin.com/company/vimapstudio
@@ -576,6 +608,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.875Z'
@@ -590,6 +623,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     founded: 2023
     social:
       instagram: https://www.instagram.com/imagine_ist
@@ -611,6 +645,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:18.956Z'
@@ -624,6 +659,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     founded: 2010
     social:
       instagram: https://www.instagram.com/ateliercrilo
@@ -661,6 +697,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/goldbox.no
       linkedin: https://www.linkedin.com/company/goldbox-as
@@ -678,6 +715,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       behance: https://www.behance.net/3dhouse
     url_status: ok
@@ -696,6 +734,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       linkedin: https://www.linkedin.com/company/novovision-ab
     url_status: ok
@@ -711,8 +750,10 @@ studios:
       - archviz
       - product-viz
       - xr
+      - interactive
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/visualisera.se
     url_status: ok
@@ -745,6 +786,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/my3d.ie.ireland
     url_status: ok
@@ -762,6 +804,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2000
     social:
       instagram: https://www.instagram.com/3ddesignbureau
@@ -781,6 +824,7 @@ studios:
       - xr
     markets:
       - brand
+      - real-estate
     founded: 2000
     social:
       instagram: https://www.instagram.com/digital.dimensions.dublin
@@ -798,6 +842,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/visual_lab_archviz
       linkedin: https://www.linkedin.com/company/visual-lab-ireland
@@ -813,6 +858,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/3dlabbv
       behance: https://www.behance.net/3D-lab
@@ -830,6 +876,7 @@ studios:
       - product-viz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/studiomilo_3d
       linkedin: https://www.linkedin.com/company/studiomilo
@@ -848,6 +895,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/bepresent_be
       linkedin: https://www.linkedin.com/company/bepresent3d

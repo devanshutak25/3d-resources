@@ -626,6 +626,7 @@ studios:
       country: United States
     segments:
       - co-dev
+      - kids-edu
     platforms:
       - pc
       - mobile

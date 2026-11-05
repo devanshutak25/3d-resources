@@ -704,6 +704,7 @@ studios:
       country: Hong Kong
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

@@ -32,7 +32,7 @@
         "enum": [
           "2d-animation", "3d-animation", "stop-motion", "vfx", "motion-design", "cg", "archviz",
           "product-viz", "cinematics", "virtual-production", "previs", "xr", "experiential",
-          "title-design", "live-action", "outsourcing", "mocap"
+          "title-design", "live-action", "outsourcing", "mocap", "scanning", "interactive", "ai-production"
         ]
       }
     },
@@ -41,7 +41,7 @@
       "type": "array",
       "minItems": 1,
       "uniqueItems": true,
-      "items": { "enum": ["film", "episodic", "advertising", "music-video", "games", "brand"] }
+      "items": { "enum": ["film", "episodic", "advertising", "music-video", "games", "brand", "real-estate", "medical-science"] }
     },
     "size": {
       "description": "Headcount, LinkedIn 'Company size' ranges: boutique 1-10, small 11-50, mid 51-200, large 201+.",

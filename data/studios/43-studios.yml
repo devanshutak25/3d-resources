@@ -104,3 +104,875 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-05'
     added_at: '2026-11-05T16:25:15.106Z'
+  - name: Asteria
+    url: https://www.asteriafilm.com/
+    description: Film and television studio producing live action, animation and documentary with AI-assisted production pipelines and in-house tools.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/asteriafilmco
+      linkedin: https://www.linkedin.com/company/asteriafilmco
+    added_at: '2026-11-05T18:39:02.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Utopai Studios
+    url: https://www.utopaistudios.com/en
+    description: AI film and TV studio that develops and produces original films and series with its own PAI production engine.
+    hq:
+      city: Mountain View
+      country: United States
+    offices:
+      - city: Seoul
+        country: South Korea
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/utopaistudios/
+      linkedin: https://www.linkedin.com/company/utopaistudios/
+      youtube: https://www.youtube.com/@UtopaiStudios
+    added_at: '2026-11-05T18:39:02.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Promise
+    url: https://www.promise.ai/
+    description: AI-native entertainment studio making original films and series with GenAI filmmakers, plus its MUSE production software.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+    careers: https://www.promise.ai/careers
+    notable:
+      - Ninja Punk
+    social:
+      instagram: https://www.instagram.com/promiseai
+      linkedin: https://www.linkedin.com/company/promiseai/
+    added_at: '2026-11-05T18:39:02.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Native Foreign
+    url: https://nativeforeign.co/
+    description: Studio making AI-assisted brand films, commercials and original animated IP for brands and Hollywood.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - ai-production
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+      - film
+    founded: 2018
+    notable:
+      - Toys"R"Us AI brand film
+      - Critterz
+      - Delta Centennial at Sphere, CES 2025
+    social:
+      instagram: https://www.instagram.com/nativeforeign.co/
+      linkedin: https://www.linkedin.com/company/native-foreign/
+    added_at: '2026-11-05T18:39:02.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Dor Brothers
+    url: https://thedorbrothers.com/
+    description: AI video production studio making films, commercials, music videos and viral shorts.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - music-video
+    social:
+      instagram: https://www.instagram.com/thedorbrothers/
+      linkedin: https://www.linkedin.com/company/the-dor-brothers/
+      youtube: https://www.youtube.com/@thedorbrothers
+    added_at: '2026-11-05T18:39:02.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Galleri5
+    url: https://www.galleri5.com/
+    description: AI studio producing generative film, TV and brand content in India, alongside social trend analytics tools.
+    hq:
+      country: India
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/galleri5/
+      linkedin: https://www.linkedin.com/company/galleri5/
+      youtube: https://www.youtube.com/@galleri5
+    added_at: '2026-11-05T18:39:02.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bonhomme
+    url: https://bonhommeparis.com/en
+    description: Paris design studio making immersive websites, WebGL experiences, 3D and motion for luxury and premium brands.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - interactive
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/bonhommeparis/
+      linkedin: https://www.linkedin.com/company/bonhomme-paris
+      behance: https://www.behance.net/bonhommestudio
+    added_at: '2026-11-05T18:39:02.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Exo Ape
+    url: https://www.exoape.com/
+    description: Digital design studio building motion-led, interactive websites for hospitality, real estate and lifestyle brands.
+    hq:
+      city: Roermond
+      country: Netherlands
+    disciplines:
+      - interactive
+    markets:
+      - brand
+      - real-estate
+    notable:
+      - Columbia Pictures
+      - Amaterasu
+    social:
+      instagram: https://www.instagram.com/exoape/
+      linkedin: https://linkedin.com/company/exo-ape
+      behance: https://www.behance.net/exoape
+    added_at: '2026-11-05T18:39:02.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Utsubo
+    url: https://www.utsubo.com/
+    description: Creative studio building real-time 3D web experiences, WebGPU sites and interactive installations for brands, museums and hotels.
+    hq:
+      city: Osaka
+      country: Japan
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+    founded: 2021
+    social:
+      instagram: https://www.instagram.com/utsuboco/
+      linkedin: https://www.linkedin.com/company/utsuboco/
+      youtube: https://www.youtube.com/@utsuboco
+    added_at: '2026-11-05T18:39:02.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hello Monday
+    url: https://www.hellomonday.com/
+    description: Creative studio making interactive digital experiences, products and brands for clients such as Google and Strava.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Copenhagen
+        country: Denmark
+      - city: Aarhus
+        country: Denmark
+      - city: Amsterdam
+        country: Netherlands
+    disciplines:
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Strava Year in Sport
+      - Google Gemini Developer Competition
+      - Bang & Olufsen See Yourself in Sound
+    social:
+      instagram: https://www.instagram.com/hellomondaycom
+    added_at: '2026-11-05T18:39:02.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Little Workshop
+    url: https://www.littleworkshop.fr/
+    description: Paris studio building real-time 3D websites, WebGL games, virtual spaces and AR/VR apps for brands.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - interactive
+      - xr
+    markets:
+      - brand
+      - advertising
+    founded: 2010
+    notable:
+      - Netlify 5 Million Devs
+      - Playdate WebGL product showcase
+      - Renault KADJAR VR
+    social:
+      linkedin: https://www.linkedin.com/company/littleworkshop.fr
+    added_at: '2026-11-05T18:39:02.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Garden Eight
+    url: https://garden-eight.com/
+    description: Tokyo digital design studio making WebGL-driven brand websites and interactive content.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/garden_eight/
+      linkedin: https://www.linkedin.com/company/gardeneight/
+    added_at: '2026-11-05T18:39:02.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Phantom
+    url: https://www.phantom.land/
+    description: Technology-led creative studio making WebGL sites, AR activations and interactive brand experiences.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Auckland
+        country: New Zealand
+    disciplines:
+      - interactive
+      - xr
+      - experiential
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Netflix Stranger Things Walking Tour
+      - Diageo Free Spirits Center
+    added_at: '2026-11-05T18:39:02.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FIELD.IO
+    url: https://field.io/
+    description: Creative and design studio making generative brand systems, real-time interfaces and motion work for brands.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - interactive
+      - motion-design
+      - cg
+    markets:
+      - brand
+      - advertising
+    notable:
+      - IBM Quantum Compass
+      - Kia Journey of Projection
+      - IBM x GRAMMY Museum Music Discovery Interface
+    social:
+      instagram: https://www.instagram.com/field_io/
+      linkedin: https://www.linkedin.com/company/field/
+    added_at: '2026-11-05T18:39:02.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Noomo
+    url: https://noomoagency.com/
+    description: Creative technology studio building WebGL, real-time 3D and interactive product stories for enterprise brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - interactive
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/noomoagency/
+      linkedin: https://www.linkedin.com/company/noomoagency
+    added_at: '2026-11-05T18:39:02.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: HKI.paris
+    url: https://hellohikimori.com/
+    description: Paris creative company producing immersive shows, projection work, brand content and digital experiences.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - experiential
+      - interactive
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/hki.paris/
+      linkedin: https://www.linkedin.com/company/hki-hellohikimori/
+      vimeo: https://vimeo.com/hkiparis
+    added_at: '2026-11-05T18:39:02.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Wonder Studios
+    url: https://wonderstudios.com/
+    description: Creative agency and AI film studio making original films, branded content and campaigns for brands and artists.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: New York
+        country: United States
+      - city: San Francisco
+        country: United States
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+      - film
+    founded: 2025
+    notable:
+      - Beyond the Loop
+    social:
+      instagram: https://www.instagram.com/wearewonderstudios/
+      linkedin: https://www.linkedin.com/company/wearewonderstudios
+      youtube: https://www.youtube.com/@WonderStudiosOfficial
+    added_at: '2026-11-05T18:39:02.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mateo AI Studio
+    url: https://www.mateoaistudio.com/
+    description: Generative AI studio producing feature films, dramas and animation, plus AI VFX services.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+    notable:
+      - Raphael
+    social:
+      instagram: https://www.instagram.com/mateoaistudio/
+      youtube: https://www.youtube.com/@mateoaistudio
+    added_at: '2026-11-05T18:39:02.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hinton Studios
+    url: https://www.hintonstudios.com/
+    description: AI filmmaking studio producing TV commercials, brand films, animation and vertical micro-dramas.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+      - episodic
+    notable:
+      - Tata 1mg
+    social:
+      instagram: https://www.instagram.com/hinton.studios/
+      linkedin: https://www.linkedin.com/company/hinton-studios/
+    added_at: '2026-11-05T18:39:02.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nolia Studios
+    url: https://noliastudios.com/
+    description: AI-native film, TV and commercial production company developing original animated IP.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2026
+    notable:
+      - The Little Cloud Thief
+    added_at: '2026-11-05T18:39:02.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vision Machina
+    url: https://www.visionmachina.com/
+    description: Generative AI studio making cinematic trailers, ad spots, music videos and short films.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - music-video
+    social:
+      instagram: https://www.instagram.com/visionmachina
+      youtube: https://youtube.com/@visionmachina
+    added_at: '2026-11-05T18:39:02.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Diigitals
+    url: https://www.thediigitals.com/
+    description: AI character and digital fashion studio behind digital supermodel Shudu, making 3D virtual talent for brand campaigns.
+    hq:
+      city: Weymouth
+      country: United Kingdom
+    disciplines:
+      - cg
+      - ai-production
+    markets:
+      - brand
+      - advertising
+    founded: 2017
+    notable:
+      - Shudu
+    social:
+      instagram: https://www.instagram.com/thediigitals
+    added_at: '2026-11-05T18:39:02.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Aww Inc.
+    url: https://aww.tokyo/
+    description: Virtual human studio that creates and manages CG virtual influencers such as imma for brand work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2019
+    notable:
+      - imma
+    social:
+      instagram: https://www.instagram.com/aww.tokyo/
+    added_at: '2026-11-05T18:39:02.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pulse9
+    url: https://pulse9.net/
+    description: Virtual human company creating AI idols and digital characters for entertainment and brands.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - cg
+      - ai-production
+    markets:
+      - brand
+      - music-video
+    added_at: '2026-11-05T18:39:02.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Clueless
+    url: https://www.theclueless.ai/
+    description: Agency creating hyperrealistic AI influencers and virtual personas for brand campaigns.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - ai-production
+      - cg
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-05T18:39:02.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Zappar
+    url: https://www.zappar.com/
+    description: Augmented reality company with an in-house creative studio making WebAR campaigns, alongside its Zapworks platform.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - advertising
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/zapparapp/
+      linkedin: https://www.linkedin.com/company/zappar/
+      youtube: https://www.youtube.com/user/zappartv
+    added_at: '2026-11-05T18:39:02.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gravity Jack
+    url: https://www.gravityjack.com/
+    description: In-house AR and VR development studio building WebAR, apps and training experiences for brands.
+    hq:
+      city: Spokane
+      country: United States
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - medical-science
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/gravityjack/
+      linkedin: https://www.linkedin.com/company/gravity-jack
+      youtube: https://www.youtube.com/gravityjack
+    added_at: '2026-11-05T18:39:02.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lucid Reality Labs
+    url: https://lucidrealitylabs.com/
+    description: XR development company building immersive training, simulations and digital twins for enterprise and healthcare.
+    hq:
+      city: Miami
+      country: United States
+    offices:
+      - city: Singapore
+        country: Singapore
+    disciplines:
+      - xr
+    markets:
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/lucid.reality.labs/
+      linkedin: https://www.linkedin.com/company/lucidrealitylabs/
+    added_at: '2026-11-05T18:39:02.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Random Studio
+    url: https://random.studio/
+    description: Experience design studio making interactive spatial installations and digital scenography for fashion and culture brands.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Moncler Immersive Archive Exhibition
+      - Jacquemus
+    social:
+      instagram: https://instagram.com/random_studio/
+      linkedin: https://www.linkedin.com/company/random-studio/
+    added_at: '2026-11-05T18:39:02.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kenzo Digital
+    url: https://kenzodigital.com/
+    description: Immersive storytelling studio building large-scale installations and ticketed immersive art experiences.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+      - music-video
+    notable:
+      - Air
+      - Samsung Social Galaxy
+      - Run the World (Girls)
+    social:
+      instagram: https://www.instagram.com/kenzodigital/
+    added_at: '2026-11-05T18:39:02.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: dotdotdash
+    url: https://dotdotdash.com/
+    description: Experience and innovation studio building interactive brand activations, retail installations and digital products.
+    hq:
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Portland
+        country: United States
+      - city: New York
+        country: United States
+      - city: Amsterdam
+        country: Netherlands
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/lovedotdotdash
+      linkedin: https://www.linkedin.com/company/lovedotdotdash/
+    added_at: '2026-11-05T18:39:02.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hovercraft Studio
+    url: https://www.hovercraftstudio.com/
+    description: Experience studio producing retail environments, interactive activations and event installations for brands like Nike.
+    hq:
+      city: Denver
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Portland
+        country: United States
+      - city: New York
+        country: United States
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Nike Basketball The Shaw
+      - Arc'teryx SoHo NYC Flagship
+    social:
+      instagram: https://www.instagram.com/hovercraftstudio/
+      linkedin: https://www.linkedin.com/company/hovercraft/
+    added_at: '2026-11-05T18:39:02.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Future Colossal
+    url: https://www.futurecolossal.com/
+    description: Creative technology studio building immersive attractions, interactive exhibits, retail and XR experiences.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/futurecolossal/
+      linkedin: https://www.linkedin.com/company/future-colossal/
+      youtube: https://www.youtube.com/@futurecolossal
+    added_at: '2026-11-05T18:39:02.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Two Goats
+    url: https://www.twogoats.us/
+    description: AR, VR and mixed reality studio making marketing experiences for retail, media and entertainment brands.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Porsche AR Exhibition Experience
+      - Sony Music location-based AR scavenger hunt
+    social:
+      instagram: https://www.instagram.com/twogoatsinc/
+    added_at: '2026-11-05T18:39:02.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Demodern
+    url: https://www.demodern.de/en
+    description: Experience technology studio in Hamburg building AR/VR apps, interactive installations, 3D web and games for brands.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - xr
+      - interactive
+      - experiential
+    markets:
+      - brand
+    founded: 2008
+    notable:
+      - IKEA Immerse VR app
+    social:
+      instagram: https://www.instagram.com/demodern
+      linkedin: https://www.linkedin.com/company/demodern-creative-technologies
+    added_at: '2026-11-05T18:39:02.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: NEEEU
+    url: https://neu.io/
+    description: Berlin design and development studio making AR games and AI-driven experiences for museums and cultural institutions.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Gropius Bau
+      - Museum für Kommunikation Berlin Robot Rallye
+    social:
+      instagram: https://www.instagram.com/neeeu_io/
+      linkedin: https://www.linkedin.com/company/neeeu-spaces-gmbh
+    added_at: '2026-11-05T18:39:02.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: PARTY
+    url: https://prty.jp/
+    description: Tokyo creative studio designing narrative-led spatial, XR and digital experiences for brands.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - experiential
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/prty_tokyo/
+    added_at: '2026-11-05T18:39:02.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MESON
+    url: https://www.meson.tokyo/
+    description: Tokyo XR studio building AR, VR and spatial computing experiences with companies across sectors.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - xr
+    markets:
+      - brand
+    founded: 2017
+    added_at: '2026-11-05T18:39:02.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MONOGRID
+    url: https://www.monogrid.com/en/
+    description: Creative innovation studio making 3D web experiences, AR/VR, projection mapping and installations for luxury and fashion brands.
+    hq:
+      city: Milan
+      country: Italy
+    offices:
+      - city: Florence
+        country: Italy
+      - city: Paris
+        country: France
+      - city: Amsterdam
+        country: Netherlands
+      - city: New York
+        country: United States
+    disciplines:
+      - interactive
+      - xr
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Valentino Garavani x Vans
+      - Gucci Apple Vision Pro gift-giving experience
+      - Loro Piana x Harrods projection mapping
+      - DG Island in Fortnite
+    added_at: '2026-11-05T18:39:02.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animaj
+    url: https://www.animaj.com/
+    description: Kids animation company that revives and builds children's franchises using its own AI-assisted production tools.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - 3d-animation
+      - ai-production
+    markets:
+      - episodic
+    founded: 2022
+    notable:
+      - Pocoyo
+      - Maya the Bee
+      - Ozzy Fox
+    social:
+      linkedin: https://www.linkedin.com/company/animaj/
+      youtube: https://www.youtube.com/@animaj_official
+    added_at: '2026-11-05T18:39:02.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: dob Studio
+    url: https://www.dob.world/en
+    description: AI creative studio making virtual humans, de-aging and face restoration work with deep learning for media and brands.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - ai-production
+      - cg
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-05T18:39:02.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Zubr
+    url: https://zubr.co/
+    description: Bristol AR and VR studio making immersive heritage, training and marketing experiences, including handheld VR binoculars.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - xr
+    markets:
+      - brand
+    notable:
+      - Kenilworth Revealed
+      - LA Auto Show VR Binoculars
+      - Fleetguard AR
+    social:
+      instagram: https://www.instagram.com/zubr.co/
+      linkedin: https://www.linkedin.com/company/zubr/
+    added_at: '2026-11-05T18:39:02.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MXTreality
+    url: https://www.mxtreality.com/
+    description: VR, AR and mixed reality studio building training, education, medical and entertainment applications.
+    hq:
+      city: Seattle
+      country: United States
+    disciplines:
+      - xr
+    markets:
+      - medical-science
+    social:
+      linkedin: https://www.linkedin.com/company/mxtreality
+      youtube: https://www.youtube.com/@mxtreality
+    added_at: '2026-11-05T18:39:02.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

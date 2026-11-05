@@ -75,6 +75,7 @@ studios:
       - product-viz
     markets:
       - brand
+      - medical-science
     notes: Site gives a Rajagiriya address; a LinkedIn page named liferender says Burbank, CA (unconfirmed same company).
     url_status: ok
     url_last_verified: '2026-11-02'
@@ -96,6 +97,7 @@ studios:
       - archviz
     markets:
       - games
+      - real-estate
     founded: 2015
     social:
       linkedin: https://www.linkedin.com/company/auleek/
@@ -121,6 +123,7 @@ studios:
       - film
       - episodic
       - advertising
+      - real-estate
     careers: https://www.cycorestudios.com/careers
     size: small
     founded: 2011
@@ -918,6 +921,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     size: small
     notable:
       - Wynyard Place

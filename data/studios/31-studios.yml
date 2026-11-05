@@ -10,6 +10,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     notable:
       - CGarchitect 3D Awards 2025 Studio of the Year
     social:
@@ -27,6 +28,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/creativity3d_cz
       linkedin: https://www.linkedin.com/company/creativity3dcz
@@ -60,6 +62,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2018
     social:
       instagram: https://www.instagram.com/studiorenders.nl
@@ -77,6 +80,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2017
     social:
       instagram: https://www.instagram.com/graphex_3dvisualization
@@ -94,6 +98,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/total_real
     url_status: ok
@@ -108,6 +113,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/hi_render
     url_status: ok
@@ -123,6 +129,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:19.820Z'
@@ -135,6 +142,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/indievisual.ch
     url_status: ok
@@ -150,6 +158,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:19.896Z'
@@ -166,6 +175,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/b3d.at
     url_status: ok
@@ -181,6 +191,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/littlesquarepixel
       behance: https://www.behance.net/littlesquarepixel
@@ -197,9 +208,11 @@ studios:
       - archviz
       - 3d-animation
       - product-viz
+      - interactive
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2013
     social:
       instagram: https://www.instagram.com/NordicRender
@@ -217,6 +230,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/sinuvisioon
     url_status: ok
@@ -234,6 +248,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2012
     social:
       instagram: https://www.instagram.com/3dvisdesign_archviz
@@ -254,6 +269,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/cgikite
       behance: https://www.behance.net/cgikite
@@ -272,6 +288,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2015
     social:
       instagram: https://www.instagram.com/arqsix.studio
@@ -291,6 +308,7 @@ studios:
       - xr
     markets:
       - brand
+      - real-estate
     founded: 2018
     social:
       instagram: https://www.instagram.com/nor3d
@@ -308,6 +326,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     founded: 2009
     social:
       instagram: https://www.instagram.com/loomilux
@@ -327,6 +346,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2011
     social:
       instagram: https://www.instagram.com/gmsvision
@@ -346,6 +366,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     founded: 2009
     social:
       instagram: https://www.instagram.com/d22.pt
@@ -364,6 +385,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/rooven.pl
     url_status: ok
@@ -378,9 +400,11 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
     markets:
       - brand
       - advertising
+      - real-estate
     notable:
       - Marriott
       - CBRE
@@ -413,6 +437,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     notable:
       - Kutchenhaus (nobilia)
       - Inwido
@@ -451,6 +476,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/studio_incept
       behance: https://www.behance.net/StudioIncept
@@ -468,6 +494,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/renderus_visual
     url_status: ok
@@ -486,6 +513,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/sfarchitects_visualization
       linkedin: https://www.linkedin.com/company/sfarchitectstudio
@@ -504,6 +532,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/k2budapest
       linkedin: https://www.linkedin.com/company/k2budapest
@@ -524,6 +553,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:20.708Z'
@@ -539,6 +569,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/_wearesmpl_
       linkedin: https://www.linkedin.com/company/smpl
@@ -558,6 +589,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2012
     social:
       instagram: https://www.instagram.com/render_vision_de
@@ -577,6 +609,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2018
     social:
       instagram: https://www.instagram.com/drowartteam
@@ -595,6 +628,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:20.906Z'
@@ -610,6 +644,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/bergagonzalez
       linkedin: https://www.linkedin.com/company/bergagonzalez
@@ -631,6 +666,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/a3zo.renders
       behance: https://www.behance.net/a3zo
@@ -649,6 +685,7 @@ studios:
       - product-viz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/polygoniq.xyz
       linkedin: https://www.linkedin.com/company/polygoniq
@@ -666,6 +703,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     founded: 2020
     social:
       instagram: https://www.instagram.com/zorevisuals
@@ -684,6 +722,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     founded: 2008
     social:
       instagram: https://www.instagram.com/picture_plane
@@ -701,6 +740,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     social:
       instagram: https://www.instagram.com/converter_studio
     url_status: ok
@@ -716,6 +756,7 @@ studios:
       - 3d-animation
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:21.280Z'
@@ -728,6 +769,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:20:21.326Z'
@@ -742,6 +784,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/into_studio
       linkedin: https://www.linkedin.com/company/into-studio
@@ -762,6 +805,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/inn_3d
       linkedin: https://www.linkedin.com/company/inna3d
@@ -779,6 +823,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/renderfabriek
       linkedin: https://www.linkedin.com/company/renderfabriek
@@ -811,6 +856,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     founded: 2015
     social:
       instagram: https://www.instagram.com/panoram.cgi/
@@ -827,6 +874,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     founded: 2000
     url_status: ok
     url_last_verified: '2026-11-02'
@@ -840,6 +889,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/trimrender/
       behance: https://www.behance.net/trim_render
@@ -855,6 +906,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     founded: 2011
     social:
       instagram: https://www.instagram.com/xrenderstudio/

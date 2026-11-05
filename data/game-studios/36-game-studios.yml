@@ -454,6 +454,7 @@ studios:
       country: United Kingdom
     segments:
       - aa
+      - simulation
     platforms:
       - pc
     notable:
@@ -824,6 +825,7 @@ studios:
       country: Finland
     segments:
       - mobile
+      - simulation
     platforms:
       - mobile
     parent: Electronic Arts

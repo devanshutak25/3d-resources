@@ -182,6 +182,7 @@ studios:
     segments:
       - indie
       - mobile
+      - kids-edu
     platforms:
       - pc
       - console
@@ -921,6 +922,7 @@ studios:
       country: Philippines
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

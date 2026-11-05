@@ -94,6 +94,7 @@ studios:
       country: Canada
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -422,6 +423,7 @@ studios:
       country: United States
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - mobile
@@ -649,6 +651,7 @@ studios:
       country: United States
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - vr

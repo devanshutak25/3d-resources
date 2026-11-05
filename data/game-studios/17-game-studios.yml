@@ -217,6 +217,7 @@ studios:
       country: Japan
     segments:
       - aaa
+      - simulation
     platforms:
       - console
     parent: Sony Interactive Entertainment

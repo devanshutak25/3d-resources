@@ -244,6 +244,7 @@ studios:
       country: United States
     segments:
       - aa
+      - simulation
     platforms:
       - pc
     notable:
@@ -748,6 +749,7 @@ studios:
       country: Canada
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     notable:
@@ -766,6 +768,7 @@ studios:
       country: Canada
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     parent: Spin Master

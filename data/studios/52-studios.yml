@@ -1,0 +1,58 @@
+studios:
+  - name: one and a half
+    url: https://theoneandahalf.com/
+    description: Larnaca animation studio making animated films and sequences for documentaries, cultural projects and public communication.
+    hq:
+      city: Larnaca
+      country: Cyprus
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - film
+      - brand
+    social:
+      instagram: https://www.instagram.com/oneandahalf_studio/
+      linkedin: https://www.linkedin.com/company/oneandahalf/
+    added_at: '2026-11-05T21:33:58.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Media Apparat
+    url: https://mediaapparat.com/
+    description: Vienna studio creating immersive exhibitions, live event shows and interactive installations, with in-house 2D/3D animation and VFX.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - experiential
+      - interactive
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+    careers: https://mediaapparat.com/karriere/
+    social:
+      instagram: https://www.instagram.com/media_apparat/
+      vimeo: https://vimeo.com/mediaapparat
+      behance: https://www.behance.net/Mediaapparat
+    added_at: '2026-11-05T21:33:58.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Junge Römer
+    url: https://www.jungeroemer.net/en/
+    description: Vienna production studio shooting 360-degree background and driving plates for virtual production and immersive video for XR headsets.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - virtual-production
+      - xr
+    markets:
+      - film
+      - episodic
+      - brand
+    careers: https://www.jungeroemer.net/en/jobs/
+    social:
+      instagram: https://www.instagram.com/jungeroemerwien/
+      linkedin: https://www.linkedin.com/company/junge-r-mer-gmbh/
+    added_at: '2026-11-05T21:33:58.638Z'

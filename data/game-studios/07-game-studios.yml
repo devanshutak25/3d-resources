@@ -66,6 +66,7 @@ studios:
       country: Indonesia
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -318,6 +319,7 @@ studios:
       country: Singapore
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -511,6 +513,7 @@ studios:
       country: Australia
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - mobile
@@ -545,6 +548,7 @@ studios:
       country: Australia
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - mobile
@@ -564,6 +568,7 @@ studios:
     segments:
       - mobile
       - aaa
+      - simulation
     platforms:
       - mobile
     parent: Electronic Arts

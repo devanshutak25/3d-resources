@@ -151,8 +151,10 @@ studios:
       - archviz
       - xr
       - product-viz
+      - interactive
     markets:
       - brand
+      - real-estate
     size: mid
     founded: 2012
     notable:
@@ -190,6 +192,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     founded: 2007
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.binyanstudios.com/what-we-do/
@@ -221,6 +226,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     notable:
       - 432 Park Avenue
       - One West End
@@ -240,6 +246,8 @@ studios:
     disciplines:
       - archviz
       - xr
+    markets:
+      - real-estate
     size: small
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
@@ -280,9 +288,11 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
     markets:
       - brand
       - advertising
+      - real-estate
     notable:
       - The Bradbury Building
       - Reno-Tahoe International Airport
@@ -307,6 +317,7 @@ studios:
       - live-action
     markets:
       - brand
+      - real-estate
     notable:
       - Yellowstone Club Digital Twin
       - Tampa International Airport Airside D
@@ -328,6 +339,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     notable:
       - 888 Brickell
       - 50 West 66th Street
@@ -348,6 +362,8 @@ studios:
     disciplines:
       - archviz
       - xr
+    markets:
+      - real-estate
     size: mid
     founded: 2009
     notable:
@@ -375,6 +391,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: small
     founded: 2011
     notable:
@@ -396,6 +415,8 @@ studios:
       country: United Kingdom
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: small
     founded: 1989
     added_at: '2026-10-30T21:40:17.280Z'
@@ -415,6 +436,8 @@ studios:
         country: United Arab Emirates
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: small
     founded: 2014
     notable:
@@ -437,6 +460,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     size: small
     founded: 2003
     notable:
@@ -458,6 +482,8 @@ studios:
       country: Australia
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: small
     founded: 2010
     added_at: '2026-10-30T21:40:17.280Z'
@@ -473,6 +499,8 @@ studios:
       country: Czech Republic
     disciplines:
       - archviz
+    markets:
+      - real-estate
     notable:
       - Vltava Philharmonic Prague
       - Tirana Twin-Towers
@@ -492,6 +520,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: mid
     founded: 2002
     added_at: '2026-10-30T21:40:17.280Z'
@@ -513,6 +544,7 @@ studios:
       - xr
     markets:
       - advertising
+      - real-estate
     size: small
     founded: 2007
     notable:
@@ -657,6 +689,7 @@ studios:
     disciplines:
       - xr
       - product-viz
+      - interactive
     markets:
       - advertising
     size: small
@@ -684,6 +717,7 @@ studios:
       - archviz
     markets:
       - advertising
+      - real-estate
     size: small
     founded: 2003
     notable:
@@ -717,6 +751,7 @@ studios:
       - product-viz
     markets:
       - advertising
+      - real-estate
     size: small
     founded: 2008
     notable:
@@ -745,6 +780,8 @@ studios:
     disciplines:
       - archviz
       - xr
+    markets:
+      - real-estate
     founded: 2003
     notable:
       - Waldorf Astoria Residences Miami
@@ -776,8 +813,10 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
     markets:
       - brand
+      - real-estate
     size: mid
     founded: 2006
     added_at: '2026-10-30T21:40:17.280Z'
@@ -854,6 +893,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     size: mid
     notable:
       - Zaha Hadid Architects
@@ -876,6 +916,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: small
     founded: 2010
     notable:
@@ -898,6 +941,8 @@ studios:
         country: Austria
     disciplines:
       - archviz
+    markets:
+      - real-estate
     notable:
       - Babyn Yar Holocaust Memorial Center
       - Arena Wien
@@ -917,6 +962,8 @@ studios:
       country: Austria
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
     url_last_verified: '2026-11-01'
@@ -930,6 +977,8 @@ studios:
       country: France
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-30T21:40:17.280Z'
     careers: https://www.artefactorylab.com/nous-rejoindre/
     url_status: redirect
@@ -946,6 +995,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: boutique
     founded: 1993
     notable:
@@ -965,6 +1017,8 @@ studios:
       country: Poland
     disciplines:
       - archviz
+    markets:
+      - real-estate
     founded: 2014
     notable:
       - Skyliner Warszawa
@@ -983,6 +1037,8 @@ studios:
       country: Ukraine
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: small
     founded: 2020
     notable:
@@ -1011,6 +1067,7 @@ studios:
       - product-viz
       - cg
       - xr
+      - interactive
     markets:
       - advertising
     size: small
@@ -1038,6 +1095,7 @@ studios:
       - live-action
     markets:
       - brand
+      - real-estate
     size: small
     founded: 2002
     notable:
@@ -1064,6 +1122,9 @@ studios:
       - archviz
       - xr
       - live-action
+      - interactive
+    markets:
+      - real-estate
     size: small
     founded: 2009
     notable:
@@ -1086,6 +1147,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     size: small
     founded: 2005
     notable:
@@ -1111,6 +1173,9 @@ studios:
       - archviz
       - product-viz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: mid
     founded: 2015
     notable:
@@ -1133,6 +1198,8 @@ studios:
       country: Turkey
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: boutique
     founded: 2011
     added_at: '2026-10-30T21:40:17.280Z'
@@ -1149,6 +1216,8 @@ studios:
       country: South Africa
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: small
     notable:
       - Waterfall Midrand
@@ -1168,6 +1237,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: boutique
     founded: 1995
     notable:

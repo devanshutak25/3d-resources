@@ -1,0 +1,987 @@
+studios:
+  - name: Videogamo
+    url: http://www.videogamo.com/
+    description: Buenos Aires game studio specializing in games for dedicated hardware, creator of NAVE Arcade.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2010
+    notable:
+      - NAVE Arcade
+    social:
+      instagram: https://www.instagram.com/videogamo.inc/
+      youtube: https://www.youtube.com/@videogamo
+    added_at: '2026-11-05T21:33:58.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Agonalea Games
+    url: https://agonaleagames.com/
+    description: Buenos Aires mobile game studio making casual titles such as Punko.io and Rhythm Realms.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Colonia del Sacramento
+        country: Uruguay
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Punko.io
+      - Rhythm Realms
+      - Mine Mole
+    social:
+      instagram: https://www.instagram.com/agonaleagames/
+      linkedin: https://www.linkedin.com/company/agonaleagames
+    added_at: '2026-11-05T21:33:58.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kokonut Gamxs
+    url: http://kokonut.games/
+    description: Mexican game studio with over 14 years of commercial and advergame work, including El Chavo Kart and Simi Aventuras.
+    hq:
+      country: Mexico
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    notable:
+      - El Chavo Kart
+      - Sky Hero
+      - Simi Aventuras
+    social:
+      youtube: https://youtube.com/kokonutgamxs
+      x: http://twitter.com/kokonutgamxs
+    added_at: '2026-11-05T21:33:58.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Big Monster
+    url: http://big-monster.net/
+    description: Mexico City studio making mobile and HTML5 games, advergames and VR brand experiences, now developing Mechawaii LEGENDS.
+    hq:
+      city: Mexico City
+      country: Mexico
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - web
+      - pc
+    social:
+      instagram: https://www.instagram.com/bigmonster.games/
+      linkedin: https://www.linkedin.com/company/big-monster/
+    added_at: '2026-11-05T21:33:58.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Eonia Studio
+    url: https://eonia-studio.com/
+    description: Family-run indie studio from Guadalajara making co-op games such as SO BELOW and Kayak with Friends.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - SO BELOW
+      - Kayak with Friends
+    social:
+      instagram: https://www.instagram.com/eoniastudio.games/
+    added_at: '2026-11-05T21:33:58.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mecha Studios
+    url: https://mechastudios.com/
+    description: Indie studio founded in 2016, maker of Neon City Riders for PC and consoles and the adventure game Murky.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Neon City Riders
+      - Murky
+    social:
+      instagram: https://www.instagram.com/mechastudios/
+      youtube: https://www.youtube.com/mechastudios
+    added_at: '2026-11-05T21:33:58.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dragon Vein Studios
+    url: https://dragonveinstudios.net/
+    description: Mexican game company behind the puppet-style RPG Another Crusade for PC and consoles, also offering outsourcing.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Another Crusade
+    social:
+      youtube: https://www.youtube.com/channel/UChS7551sUYRcfYpsM-pIMyg
+      x: https://twitter.com/StudiosVein
+    added_at: '2026-11-05T21:33:58.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bliuper Studios
+    url: https://bliuperstudios.com/
+    description: Indie studio in Cuautitlán Izcalli making the adventure game My Friend Mango for PC.
+    hq:
+      city: Cuautitlán Izcalli
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - My Friend Mango
+    social:
+      instagram: https://www.instagram.com/bliuperstudios/
+      linkedin: https://www.linkedin.com/company/bliuper-studios/
+    added_at: '2026-11-05T21:33:58.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CiberFly Studios
+    url: https://ciberflystudios.com/
+    description: Mexican studio behind the psychological horror series Noroi E, also running a game development course.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Noroi E: The Origin of Nightmares'
+    added_at: '2026-11-05T21:33:58.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Atomic Studio
+    url: http://www.atomicstudio.com.co/
+    description: Colombian game studio making edutainment, Roblox and entertainment games plus VR/AR training simulations.
+    hq:
+      country: Colombia
+    segments:
+      - kids-edu
+      - ugc
+      - simulation
+    platforms:
+      - pc
+      - mobile
+      - vr
+    social:
+      instagram: https://www.instagram.com/atomic.s/
+      x: https://twitter.com/studio_atomic
+    added_at: '2026-11-05T21:33:58.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Playmestudio
+    url: https://www.playmestudio.com/
+    description: Santiago indie studio making narrative horror games, creator of The Signifier and the upcoming The Simulation.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Signifier
+    social:
+      instagram: https://www.instagram.com/play_me_studio/
+      x: https://twitter.com/play_me_studio
+    added_at: '2026-11-05T21:33:58.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dreams of Heaven Games
+    url: https://dreamsofheaven-games.com/
+    description: Chilean studio founded in 2014 making VR and AR games and immersive experiences such as InMars VR and Stay With Me!
+    hq:
+      country: Chile
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    founded: 2014
+    notable:
+      - InMars VR
+      - Stay With Me!
+    social:
+      instagram: https://www.instagram.com/dreamsofheavengames
+      youtube: https://www.youtube.com/channel/UCIb9wBrVyShjGhA2KXXxylg
+    added_at: '2026-11-05T21:33:58.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Magical Beast Games
+    url: https://magicalbeastgames.com/
+    description: Uruguayan indie studio behind the co-op cleaning game Cleanup Crew on Steam.
+    hq:
+      country: Uruguay
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cleanup Crew
+    social:
+      youtube: https://www.youtube.com/@magicalbeastgames
+      x: https://twitter.com/magicalbeastgg
+    added_at: '2026-11-05T21:33:58.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fireborne Games
+    url: https://www.firebornegames.com/
+    description: Small Uruguayan VR studio behind Airborne Arena, a hoverbike racing shooter on Meta Quest.
+    hq:
+      country: Uruguay
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Airborne Arena
+    social:
+      youtube: https://www.youtube.com/@firebornegames7050
+    added_at: '2026-11-05T21:33:58.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CN Studio
+    url: https://cn-studio.com/
+    description: Mobile game developer making casual and hyper-casual titles such as Prison Wreck and Talking Cactus.
+    hq:
+      city: Casablanca
+      country: Morocco
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - Prison Wreck
+      - Talking Cactus
+      - Cactus Prank
+      - Dig and Dunk
+    social:
+      linkedin: https://www.linkedin.com/company/x-cnstudio-x/
+      instagram: https://www.instagram.com/cn_studio_com/
+      youtube: https://www.youtube.com/@cnstudiocom
+    added_at: '2026-11-05T21:33:58.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Funvent
+    url: https://funvent.cc/
+    description: Mobile game studio making tile-matching, puzzle and solitaire games such as Tiledom and Tile Park.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Tiledom
+      - Tile Park
+      - Connect Animal
+      - Solitaire Park
+    social:
+      linkedin: https://linkedin.com/company/funvent
+    added_at: '2026-11-05T21:33:58.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fahy Studios
+    url: https://www.fahy.gg/
+    description: Hybrid-casual mobile game developer working with Kwalee on titles such as Smash & Dash and Heist Party.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Smash & Dash
+      - Heist Party
+      - RAWR
+    social:
+      linkedin: https://www.linkedin.com/company/fahy-studios
+      x: https://twitter.com/fahystudios
+    added_at: '2026-11-05T21:33:58.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 2024 Studios
+    url: https://2024studios.com/
+    description: Indie studio making mobile, web and PC games, from original titles like Skrew to educational and commissioned games.
+    hq:
+      city: Cairo
+      country: Egypt
+    segments:
+      - indie
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - web
+      - pc
+    notable:
+      - Skrew
+      - Kingdom Challenge
+      - Abjadiyat
+      - Race Condition
+    social:
+      linkedin: https://www.linkedin.com/company/9284966/
+      instagram: https://www.instagram.com/2024studios/
+    added_at: '2026-11-05T21:33:58.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rojeh Games
+    url: https://rojehgames.com/
+    description: Indie studio making hand-drawn puzzle, tycoon and fashion games for mobile and Steam.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - web
+    notable:
+      - Chloe Puzzle Game
+      - Panda Food Business
+      - Coco's Fashion
+    social:
+      linkedin: https://www.linkedin.com/company/rojeh-video-games
+      instagram: https://instagram.com/rojehgames
+      x: https://x.com/rojehgames
+    added_at: '2026-11-05T21:33:58.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Bad Nomads
+    url: https://thebadnomads.com/
+    description: Game studio offering co-development and 3D art to AA and indie teams, and maker of the action RPG Last Loremaster.
+    hq:
+      country: Egypt
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Last Loremaster
+      - Last Epoch (co-dev)
+      - Nordhold (art support)
+    social:
+      linkedin: https://www.linkedin.com/company/the-bad-nomads
+    added_at: '2026-11-05T21:33:58.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Knight Owl Games
+    url: https://knightowlgamesstudio.com/
+    description: Indie studio making small strategy and city-building games for PC such as Mini Settlers.
+    hq:
+      country: Egypt
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Mini Settlers
+      - Wandness
+      - Village Tale
+      - Run Build Pew!
+    social:
+      x: https://twitter.com/_KnightOwlGames
+      youtube: https://www.youtube.com/channel/UCoNZ1ATfKveyAViRxAgyWIA
+    added_at: '2026-11-05T21:33:58.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Space Crescent
+    url: https://www.spacecrescent.com/
+    description: Indie game studio making original games plus gamified and interactive projects for brands and cultural clients.
+    hq:
+      city: Doha
+      country: Qatar
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    founded: 2015
+    notable:
+      - Mono Island Adventures
+    social:
+      linkedin: https://www.linkedin.com/company/space-crescent-llc/
+      instagram: https://www.instagram.com/spacecrescent/
+      x: https://x.com/spacecrescent
+      youtube: https://www.youtube.com/@SpaceCrescent
+    added_at: '2026-11-05T21:33:58.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ilyon Games
+    url: https://www.ilyon.net/
+    description: Free-to-play mobile game developer behind Bubble Shooter and Triple Match 3D.
+    hq:
+      country: Israel
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.ilyon.net/careers/
+    notable:
+      - Bubble Shooter
+      - Triple Match 3D
+      - Cubes Empire Champion
+    social:
+      linkedin: https://www.linkedin.com/company/ilyon-dynamics-ltd
+      instagram: https://www.instagram.com/ilyon_games/
+    added_at: '2026-11-05T21:33:58.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kreationware
+    url: https://kreationware.com/
+    description: Independent studio making mechanics-first strategy games, including the roguelike deckbuilder Desert Revenant.
+    hq:
+      country: Lebanon
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Desert Revenant
+      - Desert Revenant 2 (in development)
+    social:
+      x: https://x.com/Kreationware
+      instagram: https://www.instagram.com/kreationware/
+      youtube: https://www.youtube.com/@Kreationware
+    added_at: '2026-11-05T21:33:58.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Clover Studio
+    url: https://clover-studio.ma/
+    description: Game studio making the stylized flight platformer Sky Drift, plus 3D art and scanned assets through its Scansel library.
+    hq:
+      country: Morocco
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sky Drift
+    social:
+      linkedin: https://www.linkedin.com/company/clover-studio-ma/
+      instagram: https://www.instagram.com/clover.studio.ma/
+      x: https://x.com/clover_morocco
+    added_at: '2026-11-05T21:33:58.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ouaz Games
+    url: https://www.ouazgames.com/
+    description: Hyper-casual studio publishing its own browser and mobile games such as Jurassic Hunter and Drill Rush 3D.
+    hq:
+      country: Morocco
+    segments:
+      - mobile
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Jurassic Hunter
+      - Drill Rush 3D
+      - Ragdoll Knockout
+      - Moon Miners
+    social:
+      instagram: https://www.instagram.com/ouaz_games/
+      x: https://x.com/ouazgames
+    added_at: '2026-11-05T21:33:58.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kokoro Games
+    url: https://kokorogames.com/
+    description: Moroccan studio making educational and serious games, advergames and VR experiences for schools and companies.
+    hq:
+      country: Morocco
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - web
+      - vr
+    notable:
+      - Plants Heroes
+      - Equation Factory
+      - Lucas and the Evil Stone
+      - Sisimpur in Space
+    social:
+      linkedin: https://www.linkedin.com/company/80404498
+      instagram: https://www.instagram.com/kokorogamesd/
+    added_at: '2026-11-05T21:33:58.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Outcast Digital
+    url: https://outcastdigital.fun/
+    description: Indie studio that designs, develops and publishes original games, including the Steam horror title Lost In Darkness.
+    hq:
+      city: Rabat
+      country: Morocco
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Lost In Darkness
+      - Once Upon A Time In Morocco
+    social:
+      instagram: https://www.instagram.com/outcastgamestudio/
+      x: https://x.com/OutcastDigital1
+    added_at: '2026-11-05T21:33:58.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: TACSOU
+    url: https://tacsou.com/
+    description: One-person indie studio making 2D puzzle games released on Steam, Nintendo Switch and Android.
+    hq:
+      country: Morocco
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Colored Effects
+      - Kitiplant
+    social:
+      x: https://twitter.com/TacSou
+    added_at: '2026-11-05T21:33:58.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Edge of the World Studios
+    url: https://eotwstudios.com/
+    description: Indie studio of 11 making story-driven, art-led games, starting with the 2.5D narrative puzzle adventure Halima for PC.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Halima (in development)
+    social:
+      linkedin: https://www.linkedin.com/company/edge-of-the-world-studios/
+      instagram: https://www.instagram.com/eotw.studios
+      x: https://www.x.com/eotwstudios
+    added_at: '2026-11-05T21:33:58.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Evolite Studio
+    url: https://www.evolite-studio.com/
+    description: Indie studio making games with Arabic themes such as Noor, Lost Path and Fateel, and the Arabic Writer tool for Unity.
+    hq:
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Noor
+      - Lost Path
+      - Fateel
+    social:
+      linkedin: https://www.linkedin.com/company/evolite-studio/
+      instagram: https://instagram.com/evolitestudio
+      x: https://x.com/evolitestudio
+    added_at: '2026-11-05T21:33:58.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lunacy Studios
+    url: https://lunacystudios.com/
+    description: Remote indie studio behind The House of Hikmah, a narrative 3D adventure game on Steam.
+    hq:
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The House of Hikmah
+    social:
+      linkedin: https://www.linkedin.com/company/lunacystudios
+      instagram: https://www.instagram.com/lunacystudios/
+      x: https://x.com/lunacy_studios
+    added_at: '2026-11-05T21:33:58.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Majestic Mind Games
+    url: https://majesticmindgames.com/
+    description: Indie studio making the action roguelite Tri Survive for Steam.
+    hq:
+      city: Jeddah
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tri Survive
+    social:
+      linkedin: https://www.linkedin.com/company/majestic-mind-games/
+      instagram: https://www.instagram.com/majesticmindgames/
+      x: https://x.com/trisurvive
+    added_at: '2026-11-05T21:33:58.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Light Studio
+    url: https://www.light-studio.net/
+    description: Indie studio making story-led games for Steam such as Lefty, Wijdan and Revive.
+    hq:
+      city: Qatif
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Lefty
+      - Wijdan
+      - Revive
+    social:
+      linkedin: https://www.linkedin.com/company/light-studio-ar/
+      instagram: https://www.instagram.com/light.studio.ar/
+      x: https://x.com/LightStudioAr
+    added_at: '2026-11-05T21:33:58.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: After Work Games
+    url: https://afterworkgames.ae/
+    description: Game studio making party and puzzle games such as Balance Party and Genie in a Bottle.
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Balance Party Vol. 1
+      - 'Off-balance: Balance Party Vol. 2'
+      - Genie in a Bottle
+    social:
+      instagram: https://www.instagram.com/afterworkgames/
+      x: https://twitter.com/afterworkgames
+    added_at: '2026-11-05T21:33:58.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kashkool Games
+    url: https://kashkoolgames.com/
+    description: 'Game studio behind Sheba: A New Dawn.'
+    hq:
+      country: United Arab Emirates
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Sheba: A New Dawn'
+    social:
+      instagram: https://www.instagram.com/kashkoolgames
+      x: https://twitter.com/KashkoolGames
+    added_at: '2026-11-05T21:33:58.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Red Dunes Games
+    url: https://reddunesgames.com/
+    description: 'Indie developer and publisher of retro-inspired games, including Samurai Pizza Cats: Blast from the Past and Blades of Mirage.'
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Samurai Pizza Cats: Blast from the Past'
+      - Blades of Mirage
+      - Nightmare Circus
+      - Princess of the Water Lilies
+    social:
+      instagram: https://www.instagram.com/reddunesgames/
+      x: https://x.com/reddunesgames
+    added_at: '2026-11-05T21:33:58.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Zerofour
+    url: https://zerofour.ae/
+    description: Mobile developer of racing and drifting games such as Dubai Drift 2 and Turbo League.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2013
+    notable:
+      - Dubai Drift 2
+      - Turbo League
+      - Dubai Racing
+    social:
+      instagram: https://instagram.com/zerofouruae/
+      x: https://twitter.com/zerofouruae
+    added_at: '2026-11-05T21:33:58.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Jet Games
+    url: https://jetgamesdev.com/
+    description: Mobile developer of online car and action games Drive Zone Online and Grand Criminal Online.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Drive Zone Online
+      - Grand Criminal Online
+    added_at: '2026-11-05T21:33:58.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: BeeLabs
+    url: https://www.beelabs.me/
+    description: Studio making educational games, simulations and VR experiences for publishers, schools and brands, including the Karim and Jana series.
+    hq:
+      city: Amman
+      country: Jordan
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - mobile
+      - vr
+      - web
+    notable:
+      - Karim and Jana
+      - 'Pearson Maths: Space Hero'
+      - Zeeko's World
+      - 'Aramco: The Cube'
+    added_at: '2026-11-05T21:33:58.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Candivore
+    url: https://www.candivore.io/
+    description: Mobile developer of competitive match-3 games, best known for Match Masters.
+    hq:
+      country: Israel
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Match Masters
+    added_at: '2026-11-05T21:33:58.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cosmic Void
+    url: https://www.cosmicvoidonline.com/
+    description: Indie studio making pixel-art point-and-click and text parser adventure games.
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Devil's Hideout
+      - Neon Hearts City
+      - Midnight Saturn (in development)
+    social:
+      instagram: https://www.instagram.com/cosmicvoid_art
+      x: https://x.com/Cosmic_Void_
+    added_at: '2026-11-05T21:33:58.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Diet Zribi
+    url: https://dietzribi.com/
+    description: Indie studio behind the puzzle platformer Toodee and Topdee and Trouble Juice.
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Toodee and Topdee
+      - Trouble Juice
+      - UVSU (in development)
+    social:
+      x: https://twitter.com/dietzribi
+    added_at: '2026-11-05T21:33:58.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gentle Giant
+    url: https://gentlegiantgames.com/
+    description: Indie studio behind Spiritfall, an action roguelike inspired by platform fighters, on PC and consoles.
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Spiritfall
+      - MONOMOON (in development)
+    social:
+      instagram: https://www.instagram.com/gentlegiantgames/
+      x: https://twitter.com/gentlegiantgms
+    added_at: '2026-11-05T21:33:58.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nokobot
+    url: https://nokobot.com/
+    description: Game studio making its own mobile and Switch titles and providing 3D art and Unity development to other companies.
+    hq:
+      country: Israel
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    founded: 2016
+    notable:
+      - Frozen Honey ASMR
+      - Hex Defense!
+    added_at: '2026-11-05T21:33:58.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: We Create Stuff
+    url: https://wecreatestuff.com/
+    description: Indie studio behind the psychological horror game In Sound Mind and the Nightmare House mods.
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - In Sound Mind
+      - Nightmare House 2
+      - 'Portal: The Flash Version'
+      - 'Nightmare House: Reimagined'
+    added_at: '2026-11-05T21:33:58.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Diwaniya Labs
+    url: https://www.diwaniyalabs.com/
+    description: Developer of online multiplayer card games based on Gulf favorites such as Kout, Trix, Tarneeb and Baloot.
+    hq:
+      city: Kuwait City
+      country: Kuwait
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - iKout
+      - iTrix
+      - iTarneeb
+      - iBalot
+    social:
+      linkedin: https://www.linkedin.com/company/diwaniya-labs
+      instagram: https://www.instagram.com/diwaniyalabs/
+      x: https://twitter.com/diwaniyalabs
+    added_at: '2026-11-05T21:33:58.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Northend Games
+    url: https://northendgames.com/
+    description: Small indie studio making strategy and tower defense games for Steam.
+    hq:
+      country: Iraq
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Northend Tower Defense
+      - Deepstone Rift
+    social:
+      x: https://x.com/Northend_Games
+    added_at: '2026-11-05T21:33:58.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SAMDEVSTUDIO
+    url: https://sam-dev.com/
+    description: Indie studio making action, puzzle and horror games rooted in Algerian culture for PC and Android.
+    hq:
+      city: Algiers
+      country: Algeria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'CHAOS: The Three Curses'
+      - MINOU WORLD
+      - CITIZEN
+      - Rock Tale
+    social:
+      linkedin: https://www.linkedin.com/company/samdevstudio/
+      instagram: https://www.instagram.com/samdevstudio/
+      x: https://x.com/samdevstudio
+    added_at: '2026-11-05T21:33:58.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cryptyd
+    url: https://www.cryptydgames.com/
+    description: Independent mobile game studio making card and casual games such as Baloot Quest and Riskivia, plus art and localization services.
+    hq:
+      city: Alexandria
+      country: Egypt
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - Baloot Quest 2
+      - Riskivia
+      - Masameer Baloot
+      - Ginger Rangers
+    social:
+      linkedin: https://www.linkedin.com/company/cryptyd-inc/
+      x: https://twitter.com/cryptydgames
+    added_at: '2026-11-05T21:33:58.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

@@ -1,0 +1,932 @@
+studios:
+  - name: Seashell Studio
+    url: https://www.seashellstudio.mx/
+    description: Developer and publisher of multiplayer party games such as the racing game Running Fable.
+    hq:
+      city: Queretaro
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Running Fable
+      - Mostroscopy
+      - Lunch A Palooza
+    added_at: '2026-11-05T18:39:02.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Robi Studios
+    url: https://www.robistudios.com/
+    description: Indie studio behind the 3D platformer Blue Fire.
+    hq:
+      city: Cordoba
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Blue Fire
+    added_at: '2026-11-05T18:39:02.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: BURA
+    url: https://longgonedays.com/
+    description: Indie studio behind Long Gone Days, an RPG about the human cost of modern war.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Long Gone Days
+    added_at: '2026-11-05T18:39:02.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Whoyaho
+    url: https://www.whoyaho.com/
+    description: Casual mobile game developer making simulation and ASMR games such as Tanghulu Master.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Tanghulu Master
+      - Mochi Jump
+    added_at: '2026-11-05T18:39:02.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sandsoft
+    url: https://sandsoft.com/
+    description: Mobile game developer, publisher and investor working on RPG and tycoon titles with partner studios.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    notable:
+      - Pocket Necromancer
+      - Wizario
+      - 'DC Heroes & Villains: Match3'
+    added_at: '2026-11-05T18:39:02.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: TipsWorks
+    url: https://www.tipsworks.com/
+    description: Papergames studio developing the dark fantasy action RPG Pascal's Wager.
+    hq:
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Papergames
+    notable:
+      - Pascal's Wager
+    added_at: '2026-11-05T18:39:02.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rare Castle
+    url: https://www.rare-castle.com/
+    description: Independent developer of story-driven, cinematic games, a PlayStation partner since 2025.
+    hq:
+      city: Cairo
+      country: Egypt
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2018
+    added_at: '2026-11-05T18:39:02.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Polychroma Games
+    url: https://polychromagames.com/
+    description: Indie studio behind Until Then, a narrative adventure game set in the Philippines.
+    hq:
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Until Then
+    added_at: '2026-11-05T18:39:02.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Redsensation Games
+    url: https://redsensationgames.com/
+    description: 'Indie studio making atmospheric horror games such as the survival horror Narin: The Orange Room.'
+    hq:
+      city: Bangkok
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Narin: The Orange Room'
+    added_at: '2026-11-05T18:39:02.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Shameful Guys
+    url: https://shamefulguys.com/
+    description: 'Two-person studio behind the top-down 2D adventure Bangkok Story: A Stray Dog.'
+    hq:
+      city: Bangkok
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Bangkok Story: A Stray Dog'
+    added_at: '2026-11-05T18:39:02.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Spoilz
+    url: https://www.spoilzgames.com/
+    description: 'Saudi developer and publisher of original multiplayer mobile games such as Last Letter: Word War.'
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Last Letter: Word War'
+      - Jackaroo Go
+      - 'Bloom: Paint the City'
+    added_at: '2026-11-05T18:39:02.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hypemasters
+    url: https://www.hypemasters.com/
+    description: Mobile strategy game developer behind World War Armies, with its main development office in Abu Dhabi.
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - World War Armies
+      - World War Clash
+    added_at: '2026-11-05T18:39:02.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Chick Mania Entertainment
+    url: https://chickmania.com/
+    description: Mobile game studio making board, party and life sim games for Arabic-speaking players.
+    hq:
+      country: Jordan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Jackaro
+      - Carrom
+      - 'FameGame: My Influencer Life'
+    added_at: '2026-11-05T18:39:02.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rababa Games
+    url: https://rababagames.com/
+    description: Mobile developer of the Hajwala drifting and car culture game series.
+    hq:
+      country: Jordan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Hajwala
+      - Hajwala 2
+      - Drift Hajwala
+    added_at: '2026-11-05T18:39:02.583Z'
+  - name: Boss Bunny Games
+    url: https://bossbunny.games/
+    description: Casual mobile game developer making arcade titles such as Camel Dash.
+    hq:
+      city: Chennai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2020
+    notable:
+      - Camel Dash
+      - Wall Smash
+    added_at: '2026-11-05T18:39:02.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Starplay
+    url: https://web.starplay.games/
+    description: Mobile developer of superhero action fighting games such as the Spider Fighter series.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Spider Fighter 3
+      - Cars Royale
+      - 'Gangs Fighter: Vice Island'
+    added_at: '2026-11-05T18:39:02.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: First Fun
+    url: https://www.firstfun.com/
+    description: 'Mobile strategy game developer behind Last War: Survival.'
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Last War: Survival'
+    added_at: '2026-11-05T18:39:02.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hungry Studio
+    url: https://hungrystudio.com/
+    description: Mobile developer and publisher of classic puzzle games such as Block Blast!
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Block Blast!
+    added_at: '2026-11-05T18:39:02.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Games Enable
+    url: https://gamesenable.com/
+    description: Mobile game studio offering full-cycle development, Unreal work, porting and game art for clients.
+    hq:
+      city: Lahore
+      country: Pakistan
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    added_at: '2026-11-05T18:39:02.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Archosaur Games
+    url: https://zulong.com/
+    description: Developer of large-scale mobile and PC MMORPGs, known for Dragon Raja.
+    hq:
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Dragon Raja
+    added_at: '2026-11-05T18:39:02.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CMGE
+    url: https://cmge.com/
+    description: Game developer, publisher and IP operator behind the Chinese Paladin and Richman series.
+    hq:
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Chinese Paladin 7
+      - Richman 11
+      - Sword and Fairy World
+    added_at: '2026-11-05T18:39:02.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ONDI Games
+    url: https://ondigames.com/
+    description: Vietnamese mobile game developer making story-driven casual titles for local and global players.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T18:39:02.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Niku Games Studio
+    url: https://nikugames.com/
+    description: Small indie studio behind The Palace on the Hill, a cozy adventure set in 1990s rural India.
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Palace on the Hill
+    added_at: '2026-11-05T18:39:02.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Shanab Games
+    url: https://shanabgames.com/
+    description: Mobile developer of Arabic open-world racing and drifting games such as Grand and Desert King.
+    hq:
+      city: Amman
+      country: Jordan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Grand
+      - Desert King
+    added_at: '2026-11-05T18:39:02.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Skermunkel
+    url: https://skermunkel.com/
+    description: 'Indie studio making genre-blending games such as Operation: BoomSlang! for PC and consoles.'
+    hq:
+      city: Randburg
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Operation: BoomSlang!'
+      - '''n Verlore Verstand'
+      - Tyd wag vir Niemand
+    added_at: '2026-11-05T18:39:02.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Strayflux
+    url: https://strayflux.id/
+    description: Indie studio behind As I Began to Dream, a story game about a girl and her turtle trapped in a dream world.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - As I Began to Dream
+    added_at: '2026-11-05T18:39:02.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Minibuu
+    url: https://minibuu.com/
+    description: Developer of educational games for young children such as Princess Phone.
+    hq:
+      country: Mexico
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Princess Phone
+      - My Princess Computer
+    added_at: '2026-11-05T18:39:02.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vifth Floor
+    url: https://vifthfloor.moe/
+    description: Indie game circle making visual novels, dating sims and arcade games for PC.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'StellaGale: The Trials of Faith'
+      - Just Deserts
+      - VOID
+    added_at: '2026-11-05T18:39:02.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Homa
+    url: https://www.homagames.com/
+    description: Mobile game developer and publisher making hypercasual and hybrid-casual games for iOS and Android.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.homagames.com/careers
+    notable:
+      - All In Hole
+    social:
+      linkedin: https://www.linkedin.com/company/homa-games
+      instagram: https://www.instagram.com/homagames
+    added_at: '2026-11-05T18:39:02.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ketchapp
+    url: https://www.ketchappgames.com/
+    description: Ubisoft-owned mobile label making and publishing hypercasual games such as 2048 and ZigZag.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Ubisoft
+    founded: 2014
+    careers: https://jobs.smartrecruiters.com/?keyword=ketchapp
+    notable:
+      - '2048'
+      - ZigZag
+      - Stick Hero
+      - Jelly Jump
+    social:
+      instagram: https://www.instagram.com/ketchapp/
+      linkedin: https://fr.linkedin.com/company/ketchapp
+    added_at: '2026-11-05T18:39:02.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kooapps
+    url: https://www.kooapps.com/
+    description: Mobile game developer behind Snake.io and Pictoword, with studios in Seattle, the Philippines and Taiwan.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    careers: https://careerspage.io/kooapps-philippines
+    notable:
+      - Snake.io
+      - Pictoword
+      - Piano Tiles 2
+      - Pocket Family
+    social:
+      instagram: https://www.instagram.com/kooappsgames
+      x: https://twitter.com/kooapps
+    added_at: '2026-11-05T18:39:02.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Azur Games
+    url: https://azurgames.com/
+    description: Mobile game developer and publisher of hypercasual, casual and shooter games such as Stack Ball and Worms Zone.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+      - city: Budva
+        country: Montenegro
+      - city: Yerevan
+        country: Armenia
+      - city: Belgrade
+        country: Serbia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - Stack Ball
+      - Worms Zone
+      - World War Heroes
+      - Modern Strike Online
+    social:
+      linkedin: https://www.linkedin.com/company/azur-games-interactive/
+      x: https://twitter.com/AZUR_GAMES_com
+      instagram: https://www.instagram.com/azur_games/
+    added_at: '2026-11-05T18:39:02.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: YSO Corp
+    url: https://ysocorp.com/
+    description: Mobile game developer and publisher with an internal studio making hypercasual games for iOS and Android.
+    hq:
+      city: Enghien-les-Bains
+      country: France
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/yso-corp
+    added_at: '2026-11-05T18:39:02.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: BW Studios
+    url: https://www.bwstudios.co/
+    description: Game studio making Roblox experiences and mobile games for kids' entertainment brands such as Slugterra.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Medellín
+        country: Colombia
+    segments:
+      - ugc
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 2010
+    notable:
+      - 'Slugterra: Battle Arena'
+      - Medieval Building
+      - Racers Squad
+    social:
+      instagram: https://instagram.com/bwstudiosvideogames
+      linkedin: https://www.linkedin.com/company/blokwise
+    added_at: '2026-11-05T18:39:02.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Popcore
+    url: https://popcore.com/
+    description: Mobile game developer making casual puzzle games such as Parking Jam 3D and Tap Away 3D.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Parking Jam 3D
+      - Tap Away 3D
+      - Pull the Pin
+      - Clash of Blocks!
+    added_at: '2026-11-05T18:39:02.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FRVR
+    url: https://frvr.com/
+    description: Web and mobile game developer and publisher behind Krunker.io, with games that run instantly in the browser.
+    hq:
+      city: Valletta
+      country: Malta
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - web
+      - mobile
+    careers: https://frvr.com/careers/
+    notable:
+      - Krunker.io
+      - Hex FRVR
+      - Helix FRVR
+    social:
+      linkedin: https://www.linkedin.com/company/10265082
+      x: https://x.com/FRVRGames
+      youtube: https://youtube.com/@Frvrgames
+    added_at: '2026-11-05T18:39:02.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: GeoGuessr
+    url: https://www.geoguessr.com/
+    description: Browser geography game where players guess locations from Street View imagery, also on mobile and Steam.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+      - pc
+    notable:
+      - GeoGuessr
+    added_at: '2026-11-05T18:39:02.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Artix Entertainment
+    url: https://www.artix.com/
+    description: Developer of browser and mobile RPGs including AdventureQuest, DragonFable and AdventureQuest Worlds.
+    hq:
+      city: Lutz
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+      - pc
+    founded: 2002
+    careers: https://www.artix.com/about/careers/
+    notable:
+      - AdventureQuest Worlds
+      - AdventureQuest 3D
+      - DragonFable
+      - AdventureQuest
+    social:
+      x: https://twitter.com/ArtixKrieger
+      instagram: https://instagram.com/artix
+    added_at: '2026-11-05T18:39:02.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Famobi
+    url: https://famobi.com/
+    description: HTML5 game developer and distributor making browser games for web portals and partners, including Om Nom Run for ZeptoLab.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    careers: https://famobi.com/jobs/
+    notable:
+      - Om Nom Run
+      - Stack Smash
+    added_at: '2026-11-05T18:39:02.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Softgames
+    url: https://www.softgames.com/
+    description: Developer and publisher of instant games for the web, Facebook Instant Games and mobile, such as Solitaire Home Story.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - web
+      - mobile
+    careers: https://www.softgames.com/gaming-jobs-in-berlin/
+    notable:
+      - Solitaire Home Story
+      - HEXA Stack
+      - Bubble Shooter Pro
+      - Tile Hero
+    social:
+      x: https://x.com/softgames
+      linkedin: https://www.linkedin.com/company/softgames-mobile-entertainment-services
+    added_at: '2026-11-05T18:39:02.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Playa Games
+    url: https://www.playa-games.com/
+    description: Developer of the browser, mobile and Steam RPGs Shakes & Fidget and Mobile Dungeon.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - web
+      - mobile
+      - pc
+    notable:
+      - Shakes & Fidget
+      - Mobile Dungeon
+    social:
+      linkedin: https://www.linkedin.com/company/playagames/
+    added_at: '2026-11-05T18:39:02.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Razzleberries
+    url: https://razzleberries.com/
+    description: Minecraft Marketplace creator with over 1,000 maps, add-ons and skin packs, including Skyblock and Architect.
+    hq:
+      country: Sweden
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Skyblock
+      - Architect
+      - Supplementaries
+    added_at: '2026-11-05T18:39:02.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Twin Atlas
+    url: https://www.twinatlas.com/
+    description: Roblox game studio behind Creatures of Sonaria, Drive World and Dragon Adventures, also making branded experiences.
+    hq:
+      city: Las Vegas
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 2022
+    careers: https://www.twinatlas.com/careers
+    notable:
+      - Creatures of Sonaria
+      - Drive World
+      - Dragon Adventures
+      - Horse Life
+    social:
+      x: https://x.com/twin_atlas
+      youtube: https://youtube.com/@TwinAtlasRoblox
+      linkedin: https://www.linkedin.com/company/twin-atlas-llc
+    added_at: '2026-11-05T18:39:02.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Flipline Studios
+    url: https://www.flipline.com/
+    description: Developer of the Papa's restaurant series and Papa Louie platformers for web browsers, mobile and Steam.
+    hq:
+      city: Cleveland
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+      - pc
+    founded: 2004
+    notable:
+      - Papa's Pizzeria
+      - Papa's Freezeria Deluxe
+      - 'Papa Louie: When Pizzas Attack!'
+      - 'Jacksmith: Weapons and Warriors'
+    added_at: '2026-11-05T18:39:02.617Z'
+  - name: Playtouch
+    url: https://www.playtouch.net/
+    description: HTML5 and instant games studio making casual web and mobile games in-house for app stores, portals and partner platforms.
+    hq:
+      city: Roquefort-les-Pins
+      country: France
+    offices:
+      - city: Grand-Baie
+        country: Mauritius
+      - city: Port Louis
+        country: Mauritius
+    segments:
+      - mobile
+    platforms:
+      - web
+      - mobile
+    founded: 2010
+    added_at: '2026-11-05T18:39:02.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Funrado
+    url: https://www.funrado.com/
+    description: Mobile game studio making casual and puzzle games such as Elevator Jam and Block Tower Jam.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.funrado.com/careers/
+    notable:
+      - Elevator Jam
+      - Block Tower Jam
+      - Cakeline
+      - Deep Dive
+    social:
+      linkedin: https://www.linkedin.com/company/funrado/
+      instagram: https://www.instagram.com/funradogames/
+    added_at: '2026-11-05T18:39:02.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SayGames
+    url: https://say.games/
+    description: Hybrid-casual mobile game publisher with an in-house production arm, SayStudio, behind games such as My Perfect Hotel.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Paphos
+        country: Cyprus
+      - city: Warsaw
+        country: Poland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    careers: https://say.games/jobs/
+    notable:
+      - My Perfect Hotel
+      - Squad Alpha
+      - Dreamdale
+    added_at: '2026-11-05T18:39:02.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tripledot Studios
+    url: https://www.tripledotstudios.com/
+    description: Mobile game developer making casual puzzle and card games such as Woodoku and Solitaire.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://tripledotstudios.pinpointhq.com/
+    notable:
+      - Woodoku
+      - Solitaire
+    social:
+      x: https://x.com/tripledotgames
+      instagram: https://instagram.com/tripledotstudios
+      linkedin: https://linkedin.com/company/tripledot-studios
+    added_at: '2026-11-05T18:39:02.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: XYRALITY
+    url: https://www.xyrality.com/
+    description: Developer of strategy and management games for mobile, browser and Facebook, such as Logistics Empire and Celtic Tribes.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Logistics Empire
+      - Celtic Tribes
+      - Medieval Kingdoms
+      - Ionic Wars
+    social:
+      linkedin: https://linkedin.com/company/xyrality-gmbh
+    added_at: '2026-11-05T18:39:02.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Madbox
+    url: https://www.madbox.io/
+    description: Mobile game studio making hypercasual and casual games such as Stickman Hook and Pocket Champs.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Barcelona
+        country: Spain
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://careers.madbox.io/
+    notable:
+      - Stickman Hook
+      - Pocket Champs
+    social:
+      instagram: https://www.instagram.com/madbox.games/
+      x: https://twitter.com/Madboxgames
+      linkedin: https://www.linkedin.com/company/madbox/
+    added_at: '2026-11-05T18:39:02.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

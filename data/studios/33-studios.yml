@@ -8,6 +8,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     founded: 2019
     social:
       instagram: https://www.instagram.com/oaki.studio/
@@ -24,6 +26,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:30:25.285Z'
@@ -35,6 +39,8 @@ studios:
       country: Argentina
     disciplines:
       - archviz
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/render.3r/
     url_status: ok
@@ -50,6 +56,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     founded: 2016
     social:
       instagram: https://www.instagram.com/surrealismo.co/
@@ -68,6 +76,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     founded: 2010
     social:
       instagram: https://www.instagram.com/wonstudiosviz/
@@ -85,6 +95,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:30:25.448Z'
@@ -97,6 +109,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     notable:
       - Skanska
       - Handel Architects
@@ -118,6 +132,9 @@ studios:
       - archviz
       - 3d-animation
       - xr
+      - interactive
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/qoostudiovr/
     url_status: ok
@@ -131,6 +148,8 @@ studios:
       country: Canada
     disciplines:
       - archviz
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/thestation.eight/
       linkedin: https://www.linkedin.com/company/eight-station/
@@ -146,6 +165,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/archvyz/
       linkedin: https://www.linkedin.com/company/archvyz/
@@ -161,6 +182,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/tenovermedia/
       linkedin: https://www.linkedin.com/company/tenovermedia/
@@ -177,6 +200,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     offices:
       - city: New York
         country: United States
@@ -196,6 +221,9 @@ studios:
       - archviz
       - 3d-animation
       - xr
+      - interactive
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/focus360inc/
       vimeo: https://vimeo.com/focus360
@@ -211,6 +239,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/thirdaesthetic/
       linkedin: https://www.linkedin.com/company/thirdaesthetic/
@@ -227,6 +257,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     founded: 2014
     social:
       instagram: https://www.instagram.com/multiplyxstudio/
@@ -243,6 +275,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/2fvisual/
       behance: https://www.behance.net/2FVISUAL
@@ -258,6 +292,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/tzs.lab/
       linkedin: https://www.linkedin.com/company/tzs-lab/
@@ -272,6 +308,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     founded: 2012
     social:
       instagram: https://www.instagram.com/blackhaus_studio/
@@ -287,6 +325,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/dostudiobr/
       linkedin: https://www.linkedin.com/company/dostudiobr/
@@ -303,6 +343,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/oficina3d/
     url_status: ok
@@ -316,6 +358,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/pumacpictures/
       behance: https://www.behance.net/pumacpictures
@@ -330,6 +374,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/therem3d/
       linkedin: https://www.linkedin.com/company/therem/
@@ -346,6 +392,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     offices:
       - city: Shanghai
         country: China
@@ -365,6 +413,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     offices:
       - city: Dubai
         country: United Arab Emirates
@@ -381,6 +431,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/nagstudios/
       linkedin: https://www.linkedin.com/company/nag-studios/
@@ -399,6 +451,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/fkdstudio/
       vimeo: https://vimeo.com/fkdstudio
@@ -415,6 +469,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/fluidcgi/
       vimeo: https://vimeo.com/fluidcgi
@@ -433,6 +489,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     founded: 2003
     url_status: ok
     url_last_verified: '2026-11-02'
@@ -446,6 +504,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:30:33.893Z'
@@ -459,6 +519,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/tiltpixel/
       vimeo: https://vimeo.com/tiltpixel
@@ -475,6 +537,9 @@ studios:
       - archviz
       - 3d-animation
       - xr
+      - interactive
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/graff3d/
       linkedin: https://www.linkedin.com/company/graff3d/
@@ -490,6 +555,8 @@ studios:
     disciplines:
       - xr
       - archviz
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/comunica3d_oficial/
     url_status: ok
@@ -504,6 +571,8 @@ studios:
       - archviz
       - 3d-animation
       - xr
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/ekoomediainc/
       linkedin: https://www.linkedin.com/company/ekoomediainc/
@@ -519,6 +588,8 @@ studios:
     disciplines:
       - xr
       - archviz
+    markets:
+      - real-estate
     notable:
       - DAMAC Properties digital twin
     url_status: ok
@@ -533,6 +604,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     social:
       x: https://x.com/frontopcg
     url_status: ok
@@ -548,6 +621,8 @@ studios:
       - archviz
       - 3d-animation
       - outsourcing
+    markets:
+      - real-estate
     social:
       linkedin: https://www.linkedin.com/company/unicorn-digital-media/
     url_status: ok
@@ -563,6 +638,9 @@ studios:
       - archviz
       - 3d-animation
       - xr
+      - interactive
+    markets:
+      - real-estate
     offices:
       - city: Miami Beach
         country: United States
@@ -584,6 +662,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:30:34.294Z'
@@ -596,6 +676,8 @@ studios:
     disciplines:
       - archviz
       - 3d-animation
+    markets:
+      - real-estate
     founded: 2008
     url_status: ok
     url_last_verified: '2026-11-02'
@@ -608,6 +690,8 @@ studios:
       country: Indonesia
     disciplines:
       - archviz
+    markets:
+      - real-estate
     social:
       instagram: https://www.instagram.com/taksuvisual/
       linkedin: https://www.linkedin.com/company/taksuvisual/
@@ -626,6 +710,7 @@ studios:
     markets:
       - brand
       - advertising
+      - medical-science
     social:
       instagram: https://www.instagram.com/saddingtonbaynes/
       vimeo: https://vimeo.com/saddingtonbaynes
@@ -774,6 +859,7 @@ studios:
     markets:
       - brand
       - advertising
+      - real-estate
     social:
       instagram: https://www.instagram.com/thedigitalbunch/
       linkedin: https://www.linkedin.com/company/thedigitalbunch
@@ -835,6 +921,7 @@ studios:
     markets:
       - brand
       - advertising
+      - medical-science
     social:
       instagram: https://www.instagram.com/prolific_studio_inc/
       linkedin: https://www.linkedin.com/company/prolific-studio-inc

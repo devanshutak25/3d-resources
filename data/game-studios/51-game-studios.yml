@@ -1,0 +1,929 @@
+studios:
+  - name: Unimob
+    url: https://unimob.vn/
+    description: 'Mobile game studio making idle and simulation games such as Food Fever: Idle Restaurant.'
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - 'Food Fever: Idle Restaurant'
+    added_at: '2026-11-05T21:33:58.659Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Percas Studio
+    url: https://percas.vn/
+    description: Mobile game studio making hybrid puzzle games.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T21:33:58.660Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Widogame
+    url: https://widogame.com/
+    description: Mobile game developer and publisher of casual and hybrid puzzle games.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pixel by Number
+      - 'Snow Race 3D: Fun Racing'
+      - Draw 2 Save Car
+      - 'Save The Dog: Draw Puzzle'
+    added_at: '2026-11-05T21:33:58.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Skylink Studio
+    url: http://skylinkstudio.com/
+    description: Mobile game studio making tile-matching, mahjong and puzzle games.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Skylink Group
+    founded: 2021
+    notable:
+      - Tile Bloom
+      - Ocean Tiles
+      - Toy Master 3D
+      - Mahjong Odyssey
+    added_at: '2026-11-05T21:33:58.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Apus Game
+    url: https://apusgame.vn/
+    description: Mobile game developer with a team of 50+ shipping casual titles for global stores.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Wee Group
+    founded: 2021
+    added_at: '2026-11-05T21:33:58.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Athena Studio
+    url: https://athena.studio/
+    description: Mobile game developer and publisher of ad-supported puzzle games such as Woody Block Puzzle.
+    hq:
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Woody Block Puzzle
+      - Word Home
+      - Woody Cube 3D
+      - 'Pixel Art: Color Island'
+    added_at: '2026-11-05T21:33:58.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 7 Raven Studios
+    url: https://www.7ravenstudios.com/
+    description: Independent developer and publisher of console, PC and mobile games since 2006.
+    hq:
+      city: Phuket
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+      - mobile
+    founded: 2006
+    notable:
+      - Teppo and The Secret Ancient City
+      - 'Shootvaders: The Beginning'
+      - Last Beat Enhanced
+      - Treasures of The Roman Empire
+    added_at: '2026-11-05T21:33:58.665Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: AttritoM7 Productions
+    url: https://attritom7.com/
+    description: PC and console game developer behind the tactical shooter Zero Hour, set in a fictional Dhaka.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Zero Hour
+      - Blackwood
+    added_at: '2026-11-05T21:33:58.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hamba Games
+    url: https://hamba.games/
+    description: Mobile game studio making casual puzzle and hyper-casual games with over 550 million downloads.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Arrow Fever
+      - Pick Me Up 3D
+      - Line Color 3D
+      - Road Race 3D
+    added_at: '2026-11-05T21:33:58.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Game Storm Studios
+    url: https://www.thegamestormstudios.com/
+    description: Mobile game developer offering Unity and Unreal co-development, art and live ops for clients.
+    hq:
+      city: Multan
+      country: Pakistan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2013
+    added_at: '2026-11-05T21:33:58.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sunny Syrup Studio
+    url: https://www.sunnysyrupstudio.com/
+    description: Indie game studio making cozy and casual games such as Neko Station and Not Monday Cafe.
+    hq:
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Neko Station
+      - Not Monday Cafe
+      - Spirit Mancer
+    added_at: '2026-11-05T21:33:58.670Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kodots Games
+    url: https://www.kodotsgames.com/
+    description: 'Indie PC game studio behind Wanda: A Beautiful Apocalypse and the deckbuilding RPG MARGO: On the Brink.'
+    hq:
+      country: Myanmar
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Wanda: A Beautiful Apocalypse'
+      - 'MARGO: On the Brink'
+    added_at: '2026-11-05T21:33:58.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Neuroticfly Games
+    url: https://neuroticfly.com/
+    description: 'Indie studio making horror games, including the Filipino mystery horror game Sabado: Day One on Steam.'
+    hq:
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Sabado: Day One'
+      - Aswang Hunter
+      - 'Backrooms: Primal'
+    added_at: '2026-11-05T21:33:58.673Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: StarFun Games
+    url: https://starfungames.com/
+    description: Small studio making mobile games and the PC psychological horror game The Final Room.
+    hq:
+      city: Colombo
+      country: Sri Lanka
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - web
+    founded: 2020
+    notable:
+      - Drive Away
+      - The Final Room
+    added_at: '2026-11-05T21:33:58.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Yarsa Games
+    url: https://www.yarsagames.com/
+    description: Mobile game studio making Ludo, card and board games with over 120 million players.
+    hq:
+      city: Pokhara
+      country: Nepal
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    parent: Yarsa Labs
+    founded: 2017
+    notable:
+      - Ludo
+    added_at: '2026-11-05T21:33:58.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Playdew
+    url: https://www.playdew.com/
+    description: Indie studio making puzzle adventures such as Lost Twins 2 on Steam and Explottens on Apple Arcade.
+    hq:
+      country: Pakistan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2021
+    notable:
+      - Lost Twins 2
+      - Explottens
+      - Rumble Rollkins
+    added_at: '2026-11-05T21:33:58.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Wayfu Studio
+    url: https://wayfustudio.com/
+    description: Mobile game studio making casual arcade and racing games for Google Play.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Rolling Ball Sky Escape
+      - Car Rush 3D
+    added_at: '2026-11-05T21:33:58.678Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Brainwave GameVerse
+    url: https://brainwavegameverse.com/
+    description: Game studio making mobile and PC games for clients and itself, including the bike stunt game Lamim The Biker.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    founded: 2023
+    notable:
+      - Lamim The Biker
+    added_at: '2026-11-05T21:33:58.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Levelstair Studios
+    url: https://levelstair.com/
+    description: Game studio and developer community making web, PC and VR games plus 2D animation and client projects.
+    hq:
+      city: Colombo
+      country: Sri Lanka
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - web
+      - pc
+      - vr
+    founded: 2024
+    notable:
+      - Hit Me
+      - Hold It Steady
+      - Arbourvale
+    added_at: '2026-11-05T21:33:58.680Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pixel Reign
+    url: https://pixelreign.dev/
+    description: Indie studio in Athens making action games for PC and consoles, including the shooter Moros Protocol.
+    hq:
+      city: Athens
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Moros Protocol
+      - Robbie Swifthand and the Orb of Mysteries
+      - Darkverse Rogue
+    added_at: '2026-11-05T21:33:58.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Traptics
+    url: https://www.traptics.com/
+    description: Small Athens game studio making tactical and action games for PC and mobile, including Xenopurge and Moribund.
+    hq:
+      city: Athens
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2012
+    careers: https://www.traptics.com/jobs/
+    notable:
+      - Xenopurge
+      - Moribund
+      - Homeseek
+      - Hunters of the Dead
+    social:
+      x: https://twitter.com/trapticsgames
+      youtube: https://www.youtube.com/user/TrapticsGames
+    added_at: '2026-11-05T21:33:58.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cymban
+    url: https://www.cymban.com/
+    description: Indie studio in Athens behind SELINI, a 2.5D non-verbal puzzle adventure for PC.
+    hq:
+      city: Athens
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - SELINI
+    added_at: '2026-11-05T21:33:58.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dragonis Games
+    url: https://dragonisgames.com/
+    description: Independent Greek horror studio making Lovecraftian games for PC, PS5 and Xbox, including The Shore and Necrophosis.
+    hq:
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    founded: 2019
+    notable:
+      - The Shore
+      - The Shore VR
+      - Eresys
+      - Necrophosis
+    social:
+      instagram: https://www.instagram.com/dragonisgames/
+      artstation: https://www.artstation.com/aresdragonis
+    added_at: '2026-11-05T21:33:58.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hidden Tower Studios
+    url: https://hiddentowerstudios.com/
+    description: Greek indie studio founded in 2018 making strategy and action games for PC, including Siege the Day and Tatari.
+    hq:
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Siege the Day
+      - Tatari
+      - MMA Arena
+    social:
+      instagram: https://www.instagram.com/hiddentowerstudios/
+      youtube: https://www.youtube.com/channel/UCOQUoBOEsFXtpxtBp1IDfDQ
+    added_at: '2026-11-05T21:33:58.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: InterAction studios
+    url: https://www.interactionstudios.com/
+    description: Greek developer of the Chicken Invaders shoot 'em up series for PC, Mac, Linux and mobile.
+    hq:
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Chicken Invaders Universe
+      - Chicken Invaders 5
+      - Chicken Invaders 4
+    social:
+      x: https://twitter.com/ChickenInvaders
+    added_at: '2026-11-05T21:33:58.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Massive Galaxy Studios
+    url: http://massivegalaxy.com/
+    description: Small Lisbon indie studio making tactics, city-builder and strategy games for PC and PS5, including ARC SEED and LakeSide.
+    hq:
+      city: Lisbon
+      country: Portugal
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - ARC SEED
+      - LakeSide
+      - For The Warp
+      - Massive Galaxy
+    added_at: '2026-11-05T21:33:58.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fun Punch Games
+    url: https://funpunchgames.com/
+    description: Lisbon indie studio making arcade and party games plus branded interactive installations, including Strikers Edge.
+    hq:
+      city: Lisbon
+      country: Portugal
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - Strikers Edge
+    social:
+      instagram: https://instagram.com/funpunchgames
+      x: https://twitter.com/funpunchgames
+    added_at: '2026-11-05T21:33:58.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Joyglitch
+    url: https://joyglitch.com/
+    description: Porto studio making casual word and puzzle games for mobile and web, including titles published on Arkadium.
+    hq:
+      city: Porto
+      country: Portugal
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - web
+    founded: 2022
+    added_at: '2026-11-05T21:33:58.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Volt Games
+    url: https://voltgames.io/
+    description: Lisbon mobile studio making sports and puzzle games, including Football Clash.
+    hq:
+      city: Lisbon
+      country: Portugal
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2020
+    notable:
+      - Football Clash
+    social:
+      instagram: https://www.instagram.com/voltgames.io/
+      linkedin: https://www.linkedin.com/company/volt-games/
+    added_at: '2026-11-05T21:33:58.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Redcatpig
+    url: https://redcatpig.com/
+    description: Azores studio building original games and co-developing for AA and AAA teams, covering porting, multiplayer, QA and art.
+    hq:
+      city: Angra do Heroísmo
+      country: Portugal
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    careers: https://redcatpig.com/careers/
+    notable:
+      - KEO
+      - HoverShock
+      - Planet of Lana (porting)
+    social:
+      instagram: https://www.instagram.com/redcatpig/
+      linkedin: https://www.linkedin.com/company/redcatpigstudio/
+      youtube: https://www.youtube.com/@redcatpig
+    added_at: '2026-11-05T21:33:58.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Camel 101
+    url: https://camel101.com/
+    description: 'Portuguese studio making horror, tactical and casual games, including Syndrome and Dead Stop: No Vacancy.'
+    hq:
+      country: Portugal
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Syndrome
+      - 'Dead Stop: No Vacancy'
+      - Beneath Those Who Remain
+      - Gemini Wars
+    social:
+      youtube: https://www.youtube.com/user/MrCamel101
+      x: https://twitter.com/MrCamel101
+    added_at: '2026-11-05T21:33:58.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bacalhau Games
+    url: https://bacalhau.games/
+    description: 'Portuguese studio co-developing large online games, including engine and networking work on Funcom''s Dune: Awakening.'
+    hq:
+      country: Portugal
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'Dune: Awakening (co-development)'
+    added_at: '2026-11-05T21:33:58.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Infinity Games
+    url: https://infinitygames.io/
+    description: Portuguese studio making relaxing puzzle games for mobile and a mixed reality title for Meta Quest.
+    hq:
+      country: Portugal
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - vr
+    added_at: '2026-11-05T21:33:58.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ONTOP Studios
+    url: https://www.ontopstudios.com/
+    description: Portuguese augmented reality studio making location-based mobile AR games such as New Fantasy and Devil's Purge.
+    hq:
+      country: Portugal
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - New Fantasy
+      - Devil's Purge
+    social:
+      linkedin: https://pt.linkedin.com/company/ontopstudios
+    added_at: '2026-11-05T21:33:58.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Anvil Game Studios
+    url: https://www.anvilgamestudios.com/
+    description: 'Malta studio that develops and publishes Holdfast: Nations At War, a large-scale multiplayer Napoleonic and WW1 shooter for PC and consoles.'
+    hq:
+      country: Malta
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - 'Holdfast: Nations At War'
+      - 'Holdfast: Frontlines'
+    social:
+      instagram: https://www.instagram.com/anvilgamestudios/
+      youtube: https://www.youtube.com/anvilgamestudio
+    added_at: '2026-11-05T21:33:58.696Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Polycular
+    url: https://www.polycular.com/
+    description: Hallein studio making AR and VR learning games, including the mixed reality escape game Escape Fake.
+    hq:
+      city: Hallein
+      country: Austria
+    segments:
+      - kids-edu
+      - vr
+    platforms:
+      - mobile
+      - vr
+    careers: https://www.polycular.com/jobs/
+    notable:
+      - Escape Fake
+    social:
+      linkedin: https://www.linkedin.com/company/polycular
+    added_at: '2026-11-05T21:33:58.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fire Totem Games
+    url: https://www.firetotemgames.com/
+    description: Small Austrian indie studio behind A Webbing Journey, a spider sandbox game for PC and mobile.
+    hq:
+      city: Wernberg
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - A Webbing Journey
+    social:
+      instagram: https://www.instagram.com/firetotemgames/
+      linkedin: https://www.linkedin.com/company/fire-totem-games/
+      youtube: https://www.youtube.com/channel/UCPDpQitxvBQS3PHK_lGKLbA
+    added_at: '2026-11-05T21:33:58.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Owned by Gravity
+    url: https://www.ownedbygravity.com/
+    description: 'Vienna studio making turn-based strategy games, including SpellForce: Conquest of Eo and Fantasy General II.'
+    hq:
+      city: Vienna
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'SpellForce: Conquest of Eo'
+      - Fantasy General II
+    added_at: '2026-11-05T21:33:58.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sycoforge
+    url: https://sycoforge.com/
+    description: Zurich indie studio making games set in its own Arafinn fantasy world, including Return to Nangrim.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Return to Nangrim
+      - Arafinn Kontor
+    social:
+      instagram: https://www.instagram.com/sycoforge/
+      youtube: https://www.youtube.com/channel/UC9kdbE8r6fXzXmejo9y85xw
+    added_at: '2026-11-05T21:33:58.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Okomotive
+    url: https://www.okomotive.ch/
+    description: 'Zurich indie studio making atmospheric journey games, including FAR: Lone Sails, FAR: Changing Tides and Herdling.'
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - 'FAR: Lone Sails'
+      - 'FAR: Changing Tides'
+      - Herdling
+    added_at: '2026-11-05T21:33:58.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Blobfish Games
+    url: https://blobfishgames.com/
+    description: Zurich indie studio behind the roguelite arena shooter Brotato and other small action games.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    notable:
+      - Brotato
+      - Space Gladiators
+      - Lost Potato
+    social:
+      x: https://twitter.com/blobfgames
+      youtube: https://www.youtube.com/@blobfish_games
+    added_at: '2026-11-05T21:33:58.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Castle Village Games
+    url: https://www.castlevillagegames.com/
+    description: Swiss indie studio making 2D pixel-art action games for PC, consoles and mobile, including Baron of Blood.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Baron of Blood
+      - Warriors of Thalyrion
+    social:
+      instagram: https://www.instagram.com/castlevillage_games/
+      x: https://www.twitter.com/CastleViGames
+    added_at: '2026-11-05T21:33:58.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Koboldgames
+    url: https://koboldgames.ch/
+    description: Swiss studio designing serious games and gamified apps for universities, public bodies and brands.
+    hq:
+      city: Maur
+      country: Switzerland
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Plunder Planet
+      - Cybathlon BCI Racer
+      - Fresh Food Runner
+    social:
+      instagram: https://www.instagram.com/Koboldgames
+      linkedin: https://www.linkedin.com/company/koboldgames-gmbh
+    added_at: '2026-11-05T21:33:58.704Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fishing Cactus
+    url: https://www.fishingcactus.be/
+    description: Mons studio making original PC, console and VR games and providing porting and multiplayer co-development.
+    hq:
+      city: Mons
+      country: Belgium
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Outshine
+      - 'Corsairs: Battle of the Caribbean'
+      - 'Asfalia: Panic at the Mansion'
+      - Samurai Academy
+    added_at: '2026-11-05T21:33:58.705Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FrostyFroggs
+    url: https://www.frostyfroggs.com/
+    description: Waterloo game studio founded in 2015 that co-develops with partner studios and makes its own titles such as Slimy Knight.
+    hq:
+      city: Waterloo
+      country: Belgium
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - 'Outcast: Second Contact (co-development)'
+      - Slimy Knight
+    social:
+      instagram: https://www.instagram.com/frostyfroggs/
+      linkedin: https://www.linkedin.com/company/frostyfroggs/
+      youtube: https://www.youtube.com/user/FrostyFroggs
+      x: https://twitter.com/FroggsFroggs
+    added_at: '2026-11-05T21:33:58.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pandaroo Interactive
+    url: https://pandaroo.be/fr/
+    description: Liège studio making serious games, heritage games and mobile apps in Unity, plus outsourced programming and 2D art.
+    hq:
+      city: Liège
+      country: Belgium
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    social:
+      instagram: https://instagram.com/pandaroo.interactive/
+      x: https://twitter.com/PandarooI
+      youtube: https://youtube.com/channel/UCZiny-RWHHdZvZHdKwtqkMw
+    added_at: '2026-11-05T21:33:58.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Yunicorn Studio
+    url: https://www.yunicornstudio.com/
+    description: Liège indie studio making replayable action games for PC, including Popcorn Fever and Unbound Eternity.
+    hq:
+      city: Liège
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Popcorn Fever
+      - Unbound Eternity
+    social:
+      instagram: https://www.instagram.com/yunicornstudio
+      linkedin: https://www.linkedin.com/company/yunicornstudio/
+      x: https://twitter.com/YunicornStudio
+    added_at: '2026-11-05T21:33:58.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kinoko Studio
+    url: https://kinoko-studio.com/
+    description: Small Walloon indie studio behind the racing party game Trackastrophe! and Bigrok and Taila.
+    hq:
+      city: Leernes
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Trackastrophe!
+      - Bigrok and Taila
+    social:
+      instagram: https://www.instagram.com/kinoko.games/
+      x: https://x.com/StudioKinoko
+    added_at: '2026-11-05T21:33:58.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tourmaline Studio
+    url: https://tourmaline-studio.com/fr/
+    description: Geneva studio designing games and interactive experiences for play and learning since 2016.
+    hq:
+      city: Geneva
+      country: Switzerland
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - pc
+    founded: 2016
+    added_at: '2026-11-05T21:33:58.710Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MediaTale Games
+    url: https://mediatale.at/
+    description: Small Vienna indie studio behind the co-op heist game Midnight Heist for PC.
+    hq:
+      city: Vienna
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Midnight Heist
+    social:
+      instagram: https://www.instagram.com/mediataleat/
+      x: https://twitter.com/MediaTaleAT
+      youtube: https://www.youtube.com/channel/UCgZ5qJCyeGyxTgKC6OsA2Ng
+    added_at: '2026-11-05T21:33:58.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

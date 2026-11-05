@@ -276,6 +276,7 @@ studios:
     disciplines:
       - experiential
       - motion-design
+      - interactive
     markets:
       - brand
     notable:
@@ -318,6 +319,8 @@ studios:
       - cg
       - motion-design
       - archviz
+    markets:
+      - real-estate
     notable:
       - Ocean Futurisms
       - Daughter of the Inner Stars

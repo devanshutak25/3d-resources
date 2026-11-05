@@ -171,6 +171,7 @@ studios:
       - stop-motion
       - experiential
       - xr
+      - interactive
     markets:
       - episodic
       - brand
@@ -339,6 +340,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
     size: small
@@ -785,6 +787,7 @@ studios:
       - brand
       - music-video
       - episodic
+      - medical-science
     size: boutique
     notable:
       - Arte
@@ -1041,6 +1044,7 @@ studios:
     markets:
       - advertising
       - games
+      - real-estate
     size: boutique
     founded: 2021
     notable:

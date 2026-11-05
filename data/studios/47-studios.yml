@@ -1,0 +1,936 @@
+studios:
+  - name: Wilma Studios
+    url: https://www.wilmastudios.co.uk/
+    description: Automotive CGI and retouching studio making car imagery for brands including Land Rover, Bentley, Porsche and Hyundai.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Range Rover Evoque 2024
+      - Land Rover Defender
+      - Defender Rugby World Cup Trailblazers
+    social:
+      instagram: https://instagram.com/wilmastudios
+    added_at: '2026-11-05T18:39:02.644Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Absolute Post
+    url: https://www.absolutepost.com/
+    description: Independent post house in London's West End doing VFX, colour, sound and edit for commercials, film and TV.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://instagram.com/absolute_post/
+      linkedin: https://www.linkedin.com/company/absolute-post/
+    added_at: '2026-11-05T18:39:02.645Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cold Open
+    url: https://coldopen.com/
+    description: Los Angeles entertainment agency making trailers, key art and campaigns for film and TV studios and streamers.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - film
+      - episodic
+    founded: 1999
+    social:
+      instagram: https://www.instagram.com/coldopenvenice/
+      linkedin: https://www.linkedin.com/company/cold-open/
+    added_at: '2026-11-05T18:39:02.648Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: PETROL Advertising
+    url: https://www.petrolad.com/
+    description: Burbank creative agency making campaign creative, trailers and social content for game publishers and entertainment brands.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - games
+      - advertising
+    notable:
+      - 'Call of Duty: Modern Warfare 4 global launch'
+    social:
+      instagram: https://www.instagram.com/petrol_ad/
+    added_at: '2026-11-05T18:39:02.649Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 9 Story Media Group
+    url: https://9story.com/
+    description: Toronto kids content company that creates, produces and distributes animated and live-action series. Parent of Brown Bag Films.
+    hq:
+      city: Toronto
+      country: Canada
+    offices:
+      - city: Dublin
+        country: Ireland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    careers: https://9story.com/careers/
+    notable:
+      - Daniel Tiger's Neighbourhood
+      - Super Why's Comic Book Adventures
+      - Do Not Watch This Show
+    social:
+      instagram: https://instagram.com/9storymediagroup/
+      linkedin: https://www.linkedin.com/company/140126
+    added_at: '2026-11-05T18:39:02.650Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: WildBrain
+    url: https://www.wildbrain.com/
+    description: Kids and family entertainment company with in-house animation studios, owner of Teletubbies, Strawberry Shortcake and Yo Gabba Gabba!
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    careers: https://www.wildbrain.com/careers-and-culture
+    notable:
+      - Teletubbies
+      - Strawberry Shortcake
+      - Yo Gabba Gabba!
+      - Inspector Gadget
+    social:
+      instagram: https://www.instagram.com/wildbrainstudios/
+      linkedin: https://www.linkedin.com/company/28822480
+    added_at: '2026-11-05T18:39:02.651Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hocus Pocus Studio
+    url: https://www.hocuspocus.studio/
+    description: London animation studio making 2D, 3D and motion graphics for games, finance, tech and healthcare brands, plus original kids IP.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - games
+      - episodic
+    careers: https://www.hocuspocus.studio/jobs
+    social:
+      instagram: https://www.instagram.com/hocus_pocus_studio_london/
+      linkedin: https://www.linkedin.com/company/hocus-pocus-studio-london/
+      vimeo: https://vimeo.com/hocuspocusstudiolondon
+    added_at: '2026-11-05T18:39:02.653Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Millimages
+    url: https://millimages.com/
+    description: Paris producer of animated family series and features, from development to worldwide distribution.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    social:
+      instagram: https://www.instagram.com/millimages_paris/
+      linkedin: https://www.linkedin.com/company/millimages
+    added_at: '2026-11-05T18:39:02.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CGBOT
+    url: https://www.cgbot.com/
+    description: Game co-development and art outsourcing studio working in dedicated pods on UI, environments, characters and VFX.
+    hq:
+      city: Austin
+      country: United States
+    offices:
+      - city: Monterrey
+        country: Mexico
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    careers: https://www.cgbot.com/careers
+    social:
+      instagram: https://www.instagram.com/cgbotofficial/
+    added_at: '2026-11-05T18:39:02.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SuperGenius
+    url: https://supergeniusstudio.com/
+    description: Portland game art studio making concepts, characters, environments, animation and VFX for game developers.
+    hq:
+      city: Portland
+      country: United States
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/supergeniusstudio/
+      linkedin: https://www.linkedin.com/company/supergenius-studio
+    added_at: '2026-11-05T18:39:02.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Karandash
+    url: https://krndsh.com/
+    description: Kyiv animation service studio making series, features and commercials for producers and brands.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-05T18:39:02.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 44 Toons
+    url: https://www.44filmes.com/
+    description: Brazilian animation studio producing kids series, features and shorts.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2006
+    social:
+      instagram: https://www.instagram.com/44toons/
+    added_at: '2026-11-05T18:39:02.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Raised by Wolves
+    url: https://www.raisedbywolves.tv/
+    description: London post house doing Flame VFX, grading, titles and shoot supervision for commercials, drama and film.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - advertising
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/raisedbywolvestv
+    added_at: '2026-11-05T18:39:02.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Harbor
+    url: https://harborpicturecompany.com/
+    description: Production and post studio offering live-action production, dailies, colour, sound, VFX and editorial for film, TV and ads.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: London
+        country: United Kingdom
+      - city: Chicago
+        country: United States
+      - city: Atlanta
+        country: United States
+    disciplines:
+      - vfx
+      - live-action
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://harborpicturecompany.com/careers/
+    added_at: '2026-11-05T18:39:02.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Postmodern
+    url: https://postmodern.ua/
+    description: Kyiv post house doing visual effects, game cinematics, colour, sound and localization for film, series and games.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    offices:
+      - city: Beijing
+        country: China
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - games
+    careers: https://postmodern.ua/en/careers/
+    added_at: '2026-11-05T18:39:02.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Timbo Estudio
+    url: https://timboestudio.com/
+    description: Colombian audiovisual studio making animated content, visual effects, motion graphics and fulldome experiences.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2010
+    careers: https://timboestudio.com/jobs/
+    added_at: '2026-11-05T18:39:02.669Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MUTI
+    url: https://studiomuti.co.za/
+    description: Cape Town illustration and design studio making illustration, lettering, branding and motion work for brands and publishers.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2011
+    social:
+      instagram: http://instagram.com/studiomuti
+    added_at: '2026-11-05T18:39:02.670Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Front Pictures
+    url: https://frontpictures.com/
+    description: Kyiv studio making projection mapping, fulldome shows, AV installations and stage visuals, and maker of the Screenberry media server.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/front_pictures
+      linkedin: https://www.linkedin.com/company/front-pictures
+      vimeo: https://vimeo.com/frontpictures
+    added_at: '2026-11-05T18:39:02.671Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Two Ten Animation
+    url: https://en.2-10.cn/
+    description: Wuhan animation studio making game trailers, animated series, films and TV commercials.
+    hq:
+      city: Wuhan
+      country: China
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - games
+      - episodic
+      - film
+      - advertising
+    founded: 2007
+    social:
+      linkedin: https://www.linkedin.com/company/twoten-animation
+    added_at: '2026-11-05T18:39:02.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sycamore Studios
+    url: https://sycamorestudios.com/
+    description: Animation film studio with hubs in Los Angeles and Austin making family animated features.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/sycamoretreehouse/
+      linkedin: https://www.linkedin.com/company/sycamorestudio
+    added_at: '2026-11-05T18:39:02.674Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dandelooo
+    url: https://dandelooo.com/
+    description: Paris animation producer, distributor and studio making kids series and features.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    careers: https://dandelooo.com/jobs/
+    social:
+      instagram: https://www.instagram.com/dandelooo/
+      linkedin: https://www.linkedin.com/company/dandelooo
+    added_at: '2026-11-05T18:39:02.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: La Station Animation
+    url: https://www.lastationanimation.com/
+    description: Paris animation production company making series, films and TV idents, with a second studio in Avignon.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Avignon
+        country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/lastationanimation/
+    added_at: '2026-11-05T18:39:02.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Wildseed Studios
+    url: https://wildseedstudios.com/
+    description: Bristol live-action and animation production company making TV series and films for kids and families.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - film
+    careers: https://wildseedstudios.com/jobs
+    social:
+      instagram: https://www.instagram.com/wildseedstudios
+      linkedin: https://www.linkedin.com/company/wildseed-studios/
+    added_at: '2026-11-05T18:39:02.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Monello Productions
+    url: https://www.monello.fr/
+    description: Paris production company making animated series for children.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-05T18:39:02.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Crater Studio
+    url: https://craterstudio.com/
+    description: Serbian VFX studio making digital visual effects and CG for film, TV and advertising.
+    hq:
+      country: Serbia
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://craterstudio.com/jobs
+    social:
+      linkedin: https://www.linkedin.com/company/crater-studio
+      vimeo: https://vimeo.com/user5032479
+    added_at: '2026-11-05T18:39:02.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Átomo Animación
+    url: https://atomoanimacion.com/
+    description: Montevideo animation and post studio making VFX, 2D and stop-motion animation, motion graphics, edit and colour for ads and films.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    disciplines:
+      - vfx
+      - 2d-animation
+      - stop-motion
+      - motion-design
+    markets:
+      - advertising
+      - film
+    social:
+      vimeo: http://vimeo.com/atomoanimacion
+    added_at: '2026-11-05T18:39:02.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Boat Media
+    url: https://boat.media/
+    description: VFX studio building digital environments, simulations and characters for film, TV and advertising.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    offices:
+      - city: Buenos Aires
+        country: Argentina
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://boat.media/careers/
+    added_at: '2026-11-05T18:39:02.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Malhablado Films & IA
+    url: https://malhablado.uy/
+    description: Montevideo production company combining live-action filmmaking, 3D post, motion graphics and generative AI for ads and music videos.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    disciplines:
+      - live-action
+      - motion-design
+      - ai-production
+    markets:
+      - advertising
+      - music-video
+    social:
+      instagram: https://www.instagram.com/malhabladofilms
+    added_at: '2026-11-05T18:39:02.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vapai Studio
+    url: https://www.vapai.studio/
+    description: Montevideo creative studio making AI-assisted films and experiential projects for brands.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    disciplines:
+      - ai-production
+      - experiential
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/vapai.studio/
+      linkedin: https://www.linkedin.com/company/vapai-studio
+    added_at: '2026-11-05T18:39:02.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: DBLG
+    url: https://dblg.co.uk/
+    description: Independent London studio making motion design and brand identity work for brands and broadcasters.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Adobe
+      - BFI
+      - StudioCanal
+      - Outernet
+    social:
+      instagram: https://www.instagram.com/dblg_ldn/
+      linkedin: https://www.linkedin.com/company/double-g-studios
+    added_at: '2026-11-05T18:39:02.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: NOMINT
+    url: https://www.nomint.com/
+    description: London creative studio making 2D, 3D, stop-motion and mixed-media films for brands and broadcasters.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-05T18:39:02.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rumpus Animation
+    url: https://rumpusanimation.com/
+    description: Bristol 2D hand-drawn animation studio working for broadcasters, games publishers and creative agencies.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - games
+      - advertising
+    social:
+      instagram: https://www.instagram.com/RumpusAnimation/
+      linkedin: https://www.linkedin.com/company/rumpus-animation/
+    added_at: '2026-11-05T18:39:02.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kung Fu Frog Animation
+    url: https://www.kungfu-frog.com/
+    description: Chengdu studio making toon-shaded animated series and films in Unreal Engine.
+    hq:
+      city: Chengdu
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-05T18:39:02.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: YHKT Entertainment
+    url: https://www.1hkt.com/
+    description: Chinese CG animation studio behind the sci-fi series Ling Cage and the Three-Body animation.
+    hq:
+      city: Wuhan
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    notable:
+      - Ling Cage
+      - The Three-Body Problem animation
+    added_at: '2026-11-05T18:39:02.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MAGIC IMAGE Group
+    url: http://micostudio.com/
+    description: Seoul content group that creates and produces animated IP and runs OTT and education channels for kids.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-05T18:39:02.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: KizCastle
+    url: http://junytony.co.kr/kr/
+    description: Seoul kids content studio making the 3D animated song and education series JunyTony.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - JunyTony
+    social:
+      instagram: https://www.instagram.com/junytony_official_kr/
+    added_at: '2026-11-05T18:39:02.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: R. Animation
+    url: https://ranimation.tw/
+    description: Taiwanese 2D animation studio making brand films, commercials and ESG videos, rooted in Japanese anime production.
+    hq:
+      country: Taiwan
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-05T18:39:02.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mero Estudio
+    url: https://www.meroestudio.tv/
+    description: Colombian audiovisual studio specialized in traditional 2D animation for brands and music artists.
+    hq:
+      city: Medellín
+      country: Colombia
+    offices:
+      - city: Melbourne
+        country: Australia
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+      - brand
+    social:
+      instagram: https://www.instagram.com/meroestudio/
+      vimeo: https://vimeo.com/meroestudio
+    added_at: '2026-11-05T18:39:02.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dark Burn
+    url: https://www.darkburn.com/
+    description: Gameplay capture and trailer studio making launch trailers and marketing videos for game publishers. Part of Trailer Park Group.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - cinematics
+      - motion-design
+    markets:
+      - games
+    careers: https://www.darkburn.com/careers/
+    social:
+      instagram: https://www.instagram.com/darkburncreative/
+    added_at: '2026-11-05T18:39:02.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Beffio
+    url: https://www.beffio.com/
+    description: Polish game art co-development studio making worlds, characters, cinematics and technical art for game teams.
+    hq:
+      city: Poznań
+      country: Poland
+    disciplines:
+      - outsourcing
+      - cg
+      - cinematics
+    markets:
+      - games
+    founded: 2013
+    careers: https://www.beffio.com/careers
+    social:
+      instagram: https://www.instagram.com/beffio_studio
+      linkedin: https://www.linkedin.com/company/beffio
+    added_at: '2026-11-05T18:39:02.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Magic Light Pictures
+    url: https://www.magiclightpictures.com/
+    description: London producer of animated family films and specials, including The Gruffalo and Room on the Broom.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - The Gruffalo
+      - Room on the Broom
+      - Stick Man
+    social:
+      linkedin: https://www.linkedin.com/company/magic-light-pictures/
+    added_at: '2026-11-05T18:39:02.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Bozzetto & Co
+    url: https://bozzetto.com/
+    description: Milan animation studio making animated films, series and commercials.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - advertising
+    notable:
+      - Allegro Non Troppo
+    added_at: '2026-11-05T18:39:02.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: XBO Films
+    url: https://xbofilms.com/
+    description: Toulouse animation production company making animated series and films since 2003.
+    hq:
+      city: Toulouse
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2003
+    social:
+      instagram: https://www.instagram.com/xbofilms/
+    added_at: '2026-11-05T18:39:02.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Remembers
+    url: https://remembers.fr/
+    description: Paris production company specialized in 2D animation for features and series.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    added_at: '2026-11-05T18:39:02.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Enspire Studio
+    url: https://enspirestudio.com/
+    description: Jakarta 3D animation studio making cinematics, animated series and commercials.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - advertising
+      - episodic
+      - games
+    careers: https://enspirestudio.com/career/
+    social:
+      instagram: https://www.instagram.com/enspire_studio/
+      linkedin: https://www.linkedin.com/company/enspire-studio/
+    added_at: '2026-11-05T18:39:02.710Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Freaky Motion
+    url: https://www.freakymotion.com/
+    description: Hanoi creative design and direction studio making motion design and 3D animation for brands and agencies.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    offices:
+      - city: Ho Chi Minh City
+        country: Vietnam
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/freaky.motion
+      linkedin: https://www.linkedin.com/company/freaky-motion/
+    added_at: '2026-11-05T18:39:02.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: AID-DCC
+    url: https://www.aid-dcc.com/
+    description: Japanese digital creative studio making interactive sites, installations and campaign experiences for brands.
+    hq:
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+      - advertising
+    careers: https://www.aid-dcc.com/careers/
+    added_at: '2026-11-05T18:39:02.713Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Pinkfong Company
+    url: https://www.thepinkfongcompany.com/
+    description: Seoul kids entertainment company that makes Pinkfong and Baby Shark animated songs, series and films.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    careers: https://career.thepinkfong.com/
+    notable:
+      - Baby Shark
+      - Pinkfong
+    social:
+      instagram: https://www.instagram.com/thepinkfongcompany
+      linkedin: http://www.linkedin.com/company/thepinkfongcompany
+    added_at: '2026-11-05T18:39:02.714Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Artists Animation
+    url: https://artistsanimation.com/
+    description: Kelowna animation studio, formerly Yeti Farm Creative, making series and commercial animation for producers and brands.
+    hq:
+      city: Kelowna
+      country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    careers: https://artistsanimation.com/careers/
+    added_at: '2026-11-05T18:39:02.715Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ATIEMPO
+    url: https://www.atiempostudio.com/
+    description: Santiago kids content producer and animation studio making preschool series for TV.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Mi perro Chocolo
+      - Lila
+      - La tortuga Taruga
+    added_at: '2026-11-05T18:39:02.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

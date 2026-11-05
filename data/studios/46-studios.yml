@@ -1,0 +1,1016 @@
+studios:
+  - name: SCANable
+    url: https://scanable.com/
+    description: 3D and 4D scanning studio for feature film and episodic VFX. Mobile cyberscan studios, digital doubles and lidar set capture across the US.
+    hq:
+      country: United States
+    disciplines:
+      - scanning
+    markets:
+      - film
+      - episodic
+    notable:
+      - Superman
+      - Fallout Season 2
+      - Stranger Things 5
+      - Lanterns
+    added_at: '2026-11-05T18:39:02.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MocapBCN
+    url: https://www.mocapbcn.com/
+    description: Spanish 3D animation and motion capture studio. Vicon stage with real-time previs for up to three actors.
+    hq:
+      country: Spain
+    disciplines:
+      - mocap
+      - 3d-animation
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/mocapbcn/
+      youtube: https://www.youtube.com/channel/UCfvxxmMN-KX04ecvm1HMjtA
+    added_at: '2026-11-05T18:39:02.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dark Slope
+    url: https://www.darkslope.com/
+    description: Virtual production studio with an LED volume, soundstages and mocap. Also makes VR and MR games for Meta Quest and Steam.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - virtual-production
+      - xr
+      - mocap
+    markets:
+      - episodic
+      - film
+      - games
+    careers: https://www.darkslope.com/careers
+    notable:
+      - Heated Rivalry
+      - 'Hate the Player: The Ben Johnson Story'
+      - 'The Deep: Beyond the Reef'
+    social:
+      linkedin: https://ca.linkedin.com/company/dark-slope-studios
+      youtube: https://www.youtube.com/channel/UCPEz2ZNMEYBeyU4REJekcEQ
+    added_at: '2026-11-05T18:39:02.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: United Illusions
+    url: https://unitedillusions.com/
+    description: ARRI-accredited virtual production studio complex in Hungary with an LED volume stage and mobile LED walls for film, series and ads.
+    hq:
+      country: Hungary
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Two Minutes to Midnight
+      - Virtuosos 2025
+    added_at: '2026-11-05T18:39:02.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Visualskies
+    url: https://visualskies.com/
+    description: 3D scanning studio for film, TV and VFX. Lidar, photogrammetry, cyber scanning and volumetric capture of sets, props and actors.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - scanning
+    markets:
+      - film
+      - episodic
+    founded: 2015
+    notable:
+      - Project Hail Mary
+      - Napoleon
+      - House of the Dragon
+    social:
+      instagram: https://www.instagram.com/visualskies_studios/
+      linkedin: https://www.linkedin.com/company/visualskies-ltd/
+      youtube: https://www.youtube.com/@visualskies/videos
+      x: https://twitter.com/visualskies
+    added_at: '2026-11-05T18:39:02.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Vault
+    url: https://www.thevault.video/
+    description: Full-service video production company with an LED volume for in-camera VFX. Makes commercials, brand films and music videos.
+    hq:
+      city: Jacksonville
+      country: United States
+    disciplines:
+      - live-action
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+      - music-video
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/thevault.video/
+      linkedin: https://www.linkedin.com/company/thevaultvideo
+    added_at: '2026-11-05T18:39:02.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CUBE Studio
+    url: https://www.cube.studio/
+    description: Virtual production studio with LED stages in North West London and a mobile LED volume, for production houses, agencies and film and TV.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2023
+    social:
+      instagram: https://www.instagram.com/cubestudiosuk/
+      linkedin: https://www.linkedin.com/company/cubestudio-uk
+    added_at: '2026-11-05T18:39:02.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tend Studio
+    url: https://tend.studio/
+    description: Video production and motion design studio with an LED volume. Live action, 2D and 3D animation and virtual production for brands and agencies.
+    hq:
+      city: Longmont
+      country: United States
+    disciplines:
+      - live-action
+      - motion-design
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/tend.studio/
+      x: https://twitter.com/TendStudio
+    added_at: '2026-11-05T18:39:02.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Stray Vista Studios
+    url: https://www.strayvista.com/
+    description: Virtual production and motion capture studio in Texas. LED volume, green screen and production services for film and series.
+    hq:
+      city: Dripping Springs
+      country: United States
+    disciplines:
+      - virtual-production
+      - mocap
+    markets:
+      - film
+      - episodic
+    founded: 2022
+    notable:
+      - The Chosen
+      - Brothers
+    social:
+      instagram: https://www.instagram.com/strayvista/
+      linkedin: https://www.linkedin.com/company/stray-vista-studios/
+    added_at: '2026-11-05T18:39:02.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fuse Technical Group
+    url: https://fuse-tg.com/
+    description: LED, media server and lighting production partner. Builds and runs LED volumes for virtual production, plus touring and live events.
+    hq:
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: New York
+        country: United States
+      - city: Chicago
+        country: United States
+      - city: Mechelen
+        country: Belgium
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - music-video
+    notable:
+      - Amazon Studios virtual production stage
+      - Oscars cold open LED volume
+    added_at: '2026-11-05T18:39:02.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Direct Dimensions
+    url: https://dirdim.com/
+    description: 3D scanning company with a 160+ camera body scanning rig. Captures cast, sets, props and vehicles for film, TV and games, plus museum and industrial work.
+    hq:
+      city: Owings Mills
+      country: United States
+    disciplines:
+      - scanning
+    markets:
+      - film
+      - episodic
+      - games
+    founded: 1995
+    notable:
+      - 'Avengers: Infinity War'
+      - 'Avengers: Endgame'
+    social:
+      instagram: https://www.instagram.com/directdimensions/
+      linkedin: https://www.linkedin.com/company/direct-dimensions-inc/
+      youtube: https://www.youtube.com/@DirectDimensions
+    added_at: '2026-11-05T18:39:02.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 555 Studios
+    url: https://555studios.com.br/
+    description: Virtual production studio with 8K and 4K LED volumes, modular stages and set and costume stock for film, series and ads.
+    hq:
+      city: Cotia
+      country: Brazil
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/555studiosbr/
+      linkedin: https://www.linkedin.com/company/studios555
+    added_at: '2026-11-05T18:39:02.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Form Studios
+    url: https://formstudios.com/
+    description: Virtual production studios with LED volumes, cinema robotics and OptiTrack motion capture. Shoots ads, brand films and game content.
+    hq:
+      country: United States
+    offices:
+      - city: Atlanta
+        country: United States
+      - city: Buford
+        country: United States
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - virtual-production
+      - mocap
+    markets:
+      - advertising
+      - brand
+      - games
+    notable:
+      - Recall
+      - Cox Family Plan
+      - CAT brand film
+    social:
+      instagram: https://www.instagram.com/formstudios
+      youtube: https://www.youtube.com/@FormStudiosATL
+    added_at: '2026-11-05T18:39:02.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Narwhal Studios
+    url: https://www.narwhalstudios.com/
+    description: Virtual art department and visualization studio. Builds real-time sets for LED volume shoots and previs for film and series. Formerly Happy Mushroom.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Eugene
+        country: United States
+      - city: Austin
+        country: United States
+    disciplines:
+      - virtual-production
+      - previs
+    markets:
+      - film
+      - episodic
+    founded: 2016
+    careers: https://www.narwhalstudios.com/careers
+    notable:
+      - The Mandalorian Season 3
+      - Ahsoka
+      - 'Avatar: The Last Airbender'
+      - 'Ant-Man and the Wasp: Quantumania'
+    social:
+      instagram: https://www.instagram.com/bynarwhalstudios/
+      linkedin: https://www.linkedin.com/company/narwhal-studios/
+      youtube: https://www.youtube.com/@bynarwhalstudios
+    added_at: '2026-11-05T18:39:02.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Lab
+    url: https://studiolab.one/
+    description: Production studios with an XR virtual production stage, motion capture and cinema robotics. Also builds VP stages for others across the US.
+    hq:
+      city: Derry
+      country: United States
+    disciplines:
+      - virtual-production
+      - mocap
+      - live-action
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/studiolabnh/
+      linkedin: https://www.linkedin.com/company/studiolabnh/
+    added_at: '2026-11-05T18:39:02.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Versatile Media
+    url: https://www.versatile.media/
+    description: Media company running its own virtual production system, performance capture and previs stages. Makes commercials, film and series work.
+    hq:
+      city: Hangzhou
+      country: China
+    offices:
+      - city: Vancouver
+        country: Canada
+      - city: Beijing
+        country: China
+    disciplines:
+      - virtual-production
+      - live-action
+      - mocap
+      - previs
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 1993
+    notable:
+      - Nongfu Spring
+      - Alibaba
+      - Kuaishou
+    social:
+      instagram: https://www.instagram.com/filmversatile/
+      linkedin: https://www.linkedin.com/company/versatilemediacompany/
+      youtube: https://www.youtube.com/channel/UCeMnFTbrL_nFqHh3givHXgA
+      x: https://twitter.com/filmversatile
+    added_at: '2026-11-05T18:39:02.608Z'
+  - name: Antitalent
+    url: https://antitalent.hr/
+    description: Film, TV and commercial production company running Croatia's first LED virtual production volume.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - live-action
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - The Man Who Could Not Remain Silent
+    social:
+      vimeo: https://vimeo.com/822277611
+    added_at: '2026-11-05T18:39:02.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fireframe
+    url: https://www.fireframe.fi/
+    description: Film studio making immersive-first genre films with its own virtual production and LED volume pipeline.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - virtual-production
+      - live-action
+      - previs
+    markets:
+      - film
+    added_at: '2026-11-05T18:39:02.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Apple Arts Studios
+    url: https://www.appleartsstudios.com/
+    description: Motion capture studio with a 127-camera stage. Body, face and finger capture plus mocap cleanup and retargeting for films, games and VFX.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - mocap
+      - outsourcing
+    markets:
+      - film
+      - games
+      - advertising
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/appleartsstudios/
+      linkedin: https://www.linkedin.com/company/apple-arts-studios
+      youtube: https://www.youtube.com/channel/UCFkVkUWL7uy41RE1VWSQ07w
+      x: https://twitter.com/AppleArtsStudio/
+    added_at: '2026-11-05T18:39:02.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: NeoReel
+    url: https://neoreel.com/
+    description: 3D animation studio doing previs, postvis, techvis and pitchvis for feature films and series.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - previs
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2001
+    added_at: '2026-11-05T18:39:02.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Silver Studios VFX
+    url: http://silvervfx.com/
+    description: Previs, postvis and techvis studio for film, TV series and commercials.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - previs
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2021
+    notable:
+      - 'True Detective: Night Country'
+      - The Crown Season 6
+      - The Crown Season 5
+      - Avenue 5
+    social:
+      instagram: https://www.instagram.com/silverstudiosvfx/
+      linkedin: https://www.linkedin.com/company/silver-studios-vfx/
+    added_at: '2026-11-05T18:39:02.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SMASH Virtual
+    url: https://www.smashvirtual.com/
+    description: LED virtual production studio with a 118 ft wall, virtual art department and grip and electric rentals.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - episodic
+      - film
+    founded: 2023
+    social:
+      instagram: https://www.instagram.com/smashvirtualstudios/
+      linkedin: https://www.linkedin.com/company/smash-virtual
+      youtube: https://www.youtube.com/@smashvirtual
+    added_at: '2026-11-05T18:39:02.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Take 2 Studios
+    url: https://www.take2studios.at/
+    description: Virtual production studio with an LED volume and cyclorama for films, ads, music videos and corporate content.
+    hq:
+      city: Salzburg
+      country: Austria
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - advertising
+      - music-video
+    founded: 2022
+    social:
+      linkedin: https://www.linkedin.com/company/take2-studios
+    added_at: '2026-11-05T18:39:02.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kittiwake Digital
+    url: https://kittiwakedigital.com/
+    description: 3D scanning and photogrammetry company. Lidar and drone capture of sets and locations for film VFX, plus heritage and architecture work.
+    hq:
+      city: Bishop's Stortford
+      country: United Kingdom
+    disciplines:
+      - scanning
+    markets:
+      - film
+      - episodic
+    founded: 2024
+    social:
+      instagram: https://www.instagram.com/kittiwake_digital
+      linkedin: https://www.linkedin.com/company/kittiwake-digital-ltd/
+    added_at: '2026-11-05T18:39:02.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Ulster
+    url: https://www.studioulster.com/
+    description: Virtual production studio with LED volumes, a tall motion capture stage and 3D and 4D volumetric scanning for film, TV and games.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+      - mocap
+      - scanning
+    markets:
+      - film
+      - episodic
+      - games
+    notable:
+      - First Woman
+    social:
+      instagram: https://www.instagram.com/studio.ulster/
+      linkedin: https://www.linkedin.com/company/studio-ulster/
+    added_at: '2026-11-05T18:39:02.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Optic Sky Productions
+    url: https://opticskypro.com/
+    description: Advertising production company making commercials, virtual production, AR, VR, animation and immersive work for brands and agencies.
+    hq:
+      city: Rochester
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: New York
+        country: United States
+    disciplines:
+      - live-action
+      - virtual-production
+      - xr
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2013
+    careers: https://opticskypro.com/careers
+    notable:
+      - Wegmans
+    social:
+      instagram: https://www.instagram.com/opticskypro/
+      linkedin: https://www.linkedin.com/company/optic-sky-productions
+      x: https://twitter.com/opticskypro
+    added_at: '2026-11-05T18:39:02.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Immersion Room
+    url: https://immersionroom.com/
+    description: Virtual production studio with a 47 ft LED volume built on its own LED tech, plus crew and a 3D environment library.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/immersionroom/
+      linkedin: https://www.linkedin.com/company/immersionroom
+      youtube: https://youtube.com/@immersionroom
+    added_at: '2026-11-05T18:39:02.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: VUFINDER STUDIOS
+    url: https://vufinder.co/
+    description: Full-service virtual production studio with a large LED volume, for virtual and traditional film and ad shoots.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/vufinderstudios/
+      linkedin: https://www.linkedin.com/company/vufinderstudios/
+      vimeo: https://vimeo.com/vufinder
+    added_at: '2026-11-05T18:39:02.621Z'
+  - name: Motion Capture Orlando
+    url: https://motioncaptureorlando.com/
+    description: Motion capture stage with a 42-camera Vicon system, plus on-location and remote capture for games, animation, simulation and VFX. Part of Monkey Chow Animation Studios.
+    hq:
+      city: Orlando
+      country: United States
+    disciplines:
+      - mocap
+    markets:
+      - games
+      - film
+    founded: 2011
+    social:
+      linkedin: https://www.linkedin.com/company/orlando-motion-capture
+    added_at: '2026-11-05T18:39:02.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Scattermesh
+    url: https://www.scattermesh.com/
+    description: '3D studio making digital humans: scan cleanup and retopology, modeling, texturing, hair grooming, rigging and animation.'
+    hq:
+      city: Herndon
+      country: United States
+    disciplines:
+      - cg
+      - scanning
+      - outsourcing
+    markets:
+      - games
+      - film
+    founded: 2017
+    social:
+      linkedin: https://www.linkedin.com/company/scattermesh
+    added_at: '2026-11-05T18:39:02.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vismaya Mocap Studios
+    url: https://www.vismayamocapstudios.com/
+    description: Motion capture outsourcing studio. Mocap cleanup, tracking, retargeting and in-game and cinematic animation for game and film studios.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - mocap
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+      - film
+    founded: 2012
+    social:
+      youtube: https://www.youtube.com/@vismayamocapstudios
+    added_at: '2026-11-05T18:39:02.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Digimodo
+    url: https://digimodo.co.uk/
+    description: Motion capture studio with Vicon optical and markerless capture, previz and on-location setups for games, film and TV.
+    hq:
+      country: United Kingdom
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Cardiff
+        country: United Kingdom
+    disciplines:
+      - mocap
+      - previs
+    markets:
+      - games
+      - film
+      - episodic
+    founded: 2025
+    social:
+      linkedin: https://www.linkedin.com/company/digimodo/
+    added_at: '2026-11-05T18:39:02.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ANIMAR MoCap
+    url: https://www.animarmocap.com.ar/
+    description: Optical motion capture studio with multi-actor capture, real-time preview and remote sessions for film, TV, games and ads.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - mocap
+    markets:
+      - film
+      - episodic
+      - games
+      - advertising
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/animarmocap/
+      linkedin: https://ar.linkedin.com/company/animar-mocap
+    added_at: '2026-11-05T18:39:02.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nucleus Medical Media
+    url: https://www.nucleusmedicalmedia.com/
+    description: Medical animation and illustration studio with a large licensable library, making patient education and marketing media for hospitals, pharma and publishers.
+    hq:
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - medical-science
+    founded: 1997
+    social:
+      instagram: https://www.instagram.com/nucleusmedicalmedia/
+      linkedin: https://www.linkedin.com/company/nucleus-medical-media
+      youtube: https://www.youtube.com/@nucleusmedicalmedia
+    added_at: '2026-11-05T18:39:02.627Z'
+  - name: BioDigital
+    url: https://www.biodigital.com/
+    description: Interactive 3D human anatomy and disease platform with custom visualization services for medical schools, pharma and device makers.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - interactive
+      - 3d-animation
+      - xr
+    markets:
+      - medical-science
+    careers: https://www.biodigital.com/careers
+    social:
+      instagram: https://www.instagram.com/biodigital.human/
+      youtube: https://www.youtube.com/c/BioDigital
+    added_at: '2026-11-05T18:39:02.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Artery Studios
+    url: https://www.arterystudios.com/
+    description: Medical animation and illustration studio making litigation visuals, medical-legal animations and healthcare communication media.
+    hq:
+      city: Chicago
+      country: United States
+    offices:
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - medical-science
+    founded: 1992
+    careers: https://www.arterystudios.com/careers/
+    social:
+      instagram: https://www.instagram.com/arterystudiosinc
+      linkedin: https://www.linkedin.com/company/artery-studios-inc-
+    added_at: '2026-11-05T18:39:02.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ella Maru Studio
+    url: https://scientific-illustrations.com/
+    description: Scientific illustration and animation studio run by PhD scientists, making journal covers, figures and science videos for researchers and biotech.
+    hq:
+      city: Charleston
+      country: United States
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - medical-science
+    social:
+      instagram: https://instagram.com/ella_maru/
+      youtube: https://youtube.com/channel/UCH6cAo-mXCjQzOnhcJy7N-g
+    added_at: '2026-11-05T18:39:02.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Visual Health Solutions
+    url: https://www.visualhealthsolutions.com/
+    description: Medical animation studio, formerly Visible Productions, making animations, illustrations and interactive pieces for life science and healthcare clients.
+    hq:
+      city: Fort Collins
+      country: United States
+    disciplines:
+      - 3d-animation
+      - interactive
+    markets:
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/visualhealthsolutions/
+      linkedin: https://www.linkedin.com/company/visual-health-solutions/
+      youtube: https://www.youtube.com/@visualhealthsolutions
+    added_at: '2026-11-05T18:39:02.631Z'
+  - name: Microverse Studios
+    url: https://microversestudios.com/
+    description: Scientific and medical animation studio, founded as Cosmocyte, making mechanism and device animations for pharma, biotech and medtech.
+    hq:
+      country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - medical-science
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/microverse_studios/
+      linkedin: https://www.linkedin.com/company/microverse-studios/
+    added_at: '2026-11-05T18:39:02.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: NANOBOT Medical
+    url: https://nanobotmedical.com/
+    description: Medical animation studio making 3D and 2D animations, scientific illustrations and interactive content for life science and healthcare companies.
+    hq:
+      city: San Diego
+      country: United States
+    offices:
+      - city: Tallinn
+        country: Estonia
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - interactive
+    markets:
+      - medical-science
+    careers: https://nanobotmedical.com/jobs/
+    social:
+      instagram: https://www.instagram.com/sci.nanobotcomms/
+      linkedin: https://www.linkedin.com/company/nanobotmodels-medical-animation-studio/
+      youtube: https://www.youtube.com/user/Nanobotmodels
+    added_at: '2026-11-05T18:39:02.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ZeroLight
+    url: https://zerolight.com/
+    description: Real-time 3D product visualisation platform for car brands and retailers, powering online configurators and CG campaign content.
+    hq:
+      city: Newcastle upon Tyne
+      country: United Kingdom
+    disciplines:
+      - interactive
+      - product-viz
+      - cg
+    markets:
+      - advertising
+      - brand
+    careers: https://zerolight.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/zerolight
+      youtube: https://www.youtube.com/user/ZeroLightTV
+    added_at: '2026-11-05T18:39:02.634Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animech
+    url: https://animech.com/en/
+    description: Uppsala studio building browser-based 3D product configurators, visual CPQ and digital twins for manufacturers and retailers.
+    hq:
+      city: Uppsala
+      country: Sweden
+    disciplines:
+      - interactive
+      - product-viz
+    markets:
+      - brand
+    founded: 2000
+    careers: https://animech.careers.haileyhr.app/
+    added_at: '2026-11-05T18:39:02.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Salsita
+    url: https://salsita.ai/
+    description: Prague studio building 3D product configurators for furniture, kitchen and building-product manufacturers and retailers.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - interactive
+      - product-viz
+    markets:
+      - brand
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/salsitasoft
+      linkedin: https://linkedin.com/company/salsita-software
+      youtube: https://youtube.com/salsitasoft
+    added_at: '2026-11-05T18:39:02.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rapid
+    url: https://www.rapidimages.com/
+    description: Automotive CGI and digital twin studio making campaign imagery and product experiences from reusable 3D models, with a configurator platform.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    offices:
+      - city: Munich
+        country: Germany
+    disciplines:
+      - cg
+      - product-viz
+      - interactive
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-05T18:39:02.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Utopia 360 Studio
+    url: https://utopia360.studio/
+    description: Furniture CGI studio making photoreal product renders, lifestyle scenes, animations and 360 spins for furniture and decor brands.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/utopia360studio
+      linkedin: https://www.linkedin.com/company/utopia360studio
+    added_at: '2026-11-05T18:39:02.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Focus Graphics
+    url: https://focusgraphics.com/
+    description: Trial graphics studio making accident, product-defect and surgical animations plus medical illustrations for attorneys.
+    hq:
+      city: Las Vegas
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/focusgraphicsmedia/
+      linkedin: https://www.linkedin.com/company/focusgraphics/
+    added_at: '2026-11-05T18:39:02.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Biotic Artlab
+    url: https://biotic-artlab.com/
+    description: Medical illustration and animation studio making device and mechanism visuals for biotech, pharma and healthcare clients.
+    hq:
+      country: Netherlands
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - medical-science
+    careers: https://biotic-artlab.com/careers/
+    social:
+      instagram: https://www.instagram.com/biotic.artlab
+      linkedin: https://www.linkedin.com/company/biotic-artlab
+      youtube: https://www.youtube.com/@bioticartlab
+    added_at: '2026-11-05T18:39:02.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Luzzitelli Danieli
+    url: https://www.luzzitellidanieli.com/
+    description: Turin studio producing advertising photography, CGI and AI imagery for automotive, food, beauty and pharma brands.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - cg
+      - product-viz
+      - live-action
+    markets:
+      - advertising
+      - brand
+    founded: 1990
+    social:
+      instagram: https://www.instagram.com/luzzitellidanieli_productions/
+      vimeo: https://vimeo.com/luzzitelli
+    added_at: '2026-11-05T18:39:02.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: EGM Studio
+    url: https://egm.studio/
+    description: CGI and retouch studio for the automotive industry, making full-CGI car stills and animation for CUPRA and SEAT launches.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - cg
+      - product-viz
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - CUPRA Born 2026
+      - CUPRA Tavascan
+      - CUPRA Dark Rebel showcar
+      - SEAT SUV range
+    added_at: '2026-11-05T18:39:02.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bildergut
+    url: https://www.bildergut.com/
+    description: High-end post-production studio doing retouching, CGI compositing and look development for automotive and entertainment campaigns.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - cg
+    markets:
+      - advertising
+    founded: 2008
+    notable:
+      - BMW G60 CGI compositing
+      - Sauber/Audi F1 team launch
+    social:
+      instagram: https://www.instagram.com/bildergut
+    added_at: '2026-11-05T18:39:02.643Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

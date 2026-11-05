@@ -1,0 +1,862 @@
+studios:
+  - name: Polymorph Games
+    url: https://www.polymorph.games/
+    description: Quebec City studio behind Foundation, a grid-free medieval city-building game.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Foundation
+    social:
+      x: https://twitter.com/foundationgame
+      youtube: https://www.youtube.com/channel/UCkaCEsd3XRH92hLzm-goqkA
+    added_at: '2026-11-05T18:39:02.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Isolated Games
+    url: https://www.isolatedgames.com/
+    description: Spanish studio behind Travellers Rest, a tavern management sim.
+    hq:
+      country: Spain
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Travellers Rest
+    social:
+      x: https://twitter.com/TravRestGame
+      instagram: https://www.instagram.com/travellersrestgame/
+      youtube: https://www.youtube.com/channel/UCT41om_yDCTTq7-q7OPjgPA
+    added_at: '2026-11-05T18:39:02.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: IJsfontein
+    url: https://ijsfontein.nl/
+    description: Amsterdam studio making playful learning games and interactive museum experiences.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - web
+      - mobile
+      - pc
+    social:
+      instagram: https://www.instagram.com/ijsfontein/
+      linkedin: https://www.linkedin.com/company/ijsfontein
+    added_at: '2026-11-05T18:39:02.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Game Strategies
+    url: https://gamestrategies.io/
+    description: Spanish studio, formerly Gamelearn, making training video games and simulators for corporate learning.
+    hq:
+      city: Pozuelo de Alarcón
+      country: Spain
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    added_at: '2026-11-05T18:39:02.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Winning Streak Games
+    url: https://www.winningstreakgames.com/
+    description: Cologne studio making the football management game We Are Football.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - We Are Football
+    added_at: '2026-11-05T18:39:02.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Reiza Studios
+    url: https://www.reizastudios.com/
+    description: Brazilian studio behind the racing simulators Automobilista 2 and Automobilista.
+    hq:
+      country: Brazil
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Automobilista 2
+      - Automobilista
+    social:
+      x: https://twitter.com/ReizaStudios
+      youtube: https://www.youtube.com/user/ReizaStudios
+    added_at: '2026-11-05T18:39:02.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Teach Your Monster
+    url: https://www.teachyourmonster.org/
+    description: London studio making free phonics, reading and maths games for young children, backed by the Usborne Foundation.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Teach Your Monster to Read
+    social:
+      x: https://twitter.com/teachmonsters
+      instagram: https://www.instagram.com/teachyourmonster
+      linkedin: https://www.linkedin.com/company/teachyourmonster
+      youtube: https://youtube.com/teachyourmonster
+    added_at: '2026-11-05T18:39:02.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sumdog
+    url: https://www.sumdog.com/
+    description: Edinburgh studio making Sumdog, game-based maths and spelling practice for children aged 5 to 14.
+    hq:
+      city: Edinburgh
+      country: United Kingdom
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    founded: 2010
+    careers: https://sumdog.careers.hibob.com/
+    notable:
+      - Sumdog
+    social:
+      instagram: https://www.instagram.com/sumdogltd/
+      linkedin: https://www.linkedin.com/company/sumdog-ltd
+      youtube: https://www.youtube.com/@Sumdog-Learning
+    added_at: '2026-11-05T18:39:02.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CodeCombat
+    url: https://codecombat.com/
+    description: San Francisco company making CodeCombat, a game where students learn Python and JavaScript by solving puzzles.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - kids-edu
+    platforms:
+      - web
+    founded: 2013
+    notable:
+      - CodeCombat
+    added_at: '2026-11-05T18:39:02.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pocket Worlds
+    url: https://pocketworlds.com/
+    description: Austin company running Highrise, a social virtual world for mobile, and Hotel Hideaway.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://pocketworlds.com/careers
+    notable:
+      - Highrise
+      - Hotel Hideaway
+    social:
+      x: http://twitter.com/itspocketworlds
+      linkedin: https://www.linkedin.com/company/pocketworlds
+    added_at: '2026-11-05T18:39:02.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Infinite Flight
+    url: https://infiniteflight.com/
+    description: Milpitas company making Infinite Flight, a multiplayer flight simulator for iOS and Android.
+    hq:
+      city: Milpitas
+      country: United States
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+    careers: https://infiniteflight.com/careers
+    notable:
+      - Infinite Flight
+    social:
+      instagram: https://instagram.com/infiniteflight
+      linkedin: https://linkedin.com/company/infinite-flight-llc
+      youtube: https://youtube.com/infiniteflight
+    added_at: '2026-11-05T18:39:02.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Orbx
+    url: https://orbxdirect.com/
+    description: Melbourne developer of scenery and aircraft add-ons for Microsoft Flight Simulator, X-Plane and Aerofly FS.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - simulation
+    platforms:
+      - pc
+    social:
+      x: https://twitter.com/OrbxSystems
+      instagram: https://www.instagram.com/orbxsystems/
+    added_at: '2026-11-05T18:39:02.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Visionary Realms
+    url: https://www.visionaryrealms.com/
+    description: 'Carlsbad studio making Pantheon: Rise of the Fallen, a group-focused PvE MMORPG in early access.'
+    hq:
+      city: Carlsbad
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Pantheon: Rise of the Fallen'
+    added_at: '2026-11-05T18:39:02.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Berserk Games
+    url: https://www.tabletopsimulator.com/
+    description: US studio behind Tabletop Simulator, a physics sandbox for playing and creating board games online.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Tabletop Simulator
+    social:
+      x: https://twitter.com/tabletopsim
+      instagram: https://www.instagram.com/tabletop_simulator/
+      youtube: https://www.youtube.com/user/BerserkGames
+    added_at: '2026-11-05T18:39:02.503Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hikergames
+    url: https://www.hikergames.com/
+    description: Independent mobile studio making casual puzzle and action games.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Hotpot Frenzy
+      - 'Unscrew Master: Color Nut Bolt'
+      - Tangled Line 3D
+      - Meow vs Zombie
+    added_at: '2026-11-05T18:39:02.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Wonder People
+    url: https://www.wonderpeople.co.kr/
+    description: Online game developer behind the battle royale shooter Superpeople.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Superpeople
+    added_at: '2026-11-05T18:39:02.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ActozSoft
+    url: https://www.actoz.com/
+    description: Online game developer and publisher known for The Legend of Mir series and LaTale.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Legend of Mir 2
+      - The Legend of Mir 3
+      - LaTale
+    added_at: '2026-11-05T18:39:02.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: T3 Entertainment
+    url: https://www.t3.co.kr/
+    description: Online game developer best known for the rhythm dance game Audition.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Audition Online
+    added_at: '2026-11-05T18:39:02.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Supercent
+    url: https://supercent.io/
+    description: Mobile developer and publisher of casual and hybrid-casual games such as XP Hero.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - XP Hero
+    social:
+      instagram: https://www.instagram.com/supercent.official
+      linkedin: https://www.linkedin.com/company/supercent
+    added_at: '2026-11-05T18:39:02.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Neptune
+    url: https://neptunecompany.kr/
+    description: Mobile game developer and publisher with an ad-tech business.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T18:39:02.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: VIC Game Studios
+    url: https://www.vicgamestudios.com/
+    description: Mobile and PC game developer known for licensed anime action RPGs.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Black Clover Mobile
+      - Limit Zero Breakers
+    added_at: '2026-11-05T18:39:02.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kakao Games
+    url: https://www.kakaogamescorp.com/
+    description: Game developer and publisher for mobile, PC and console, part of the Kakao group.
+    hq:
+      country: South Korea
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Kakao
+    notable:
+      - 'Odin: Valhalla Rising'
+      - ArcheAge War
+      - Chrono Odyssey
+    added_at: '2026-11-05T18:39:02.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Feiyu Technology
+    url: https://www.feiyu.com/
+    description: Mobile and web game developer behind the tower defense series Carrot Fantasy.
+    hq:
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Carrot Fantasy
+      - Shenxian Dao
+    added_at: '2026-11-05T18:39:02.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Leiting Games
+    url: https://www.leiting.com/
+    description: Game developer and publisher, part of G-bits, running the Wendao MMO series and Lost Castle 2.
+    hq:
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    parent: G-bits
+    notable:
+      - Wendao
+      - Lost Castle 2
+    added_at: '2026-11-05T18:39:02.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FunPlus
+    url: https://funplus.com/
+    description: Mobile strategy game developer and publisher with studios across China and Europe.
+    hq:
+      country: Switzerland
+    offices:
+      - city: Beijing
+        country: China
+      - city: Shanghai
+        country: China
+      - city: Lisbon
+        country: Portugal
+      - city: Barcelona
+        country: Spain
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2010
+    notable:
+      - State of Survival
+      - King of Avalon
+      - Sea of Conquest
+      - 'DC: Dark Legion'
+    social:
+      instagram: https://www.instagram.com/funplusgames/
+      linkedin: https://www.linkedin.com/company/funplus/
+    added_at: '2026-11-05T18:39:02.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lingxi Games
+    url: https://www.lingxigames.com/
+    description: Alibaba group game developer and operator behind the strategy game Three Kingdoms Tactics.
+    hq:
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Alibaba Group
+    notable:
+      - Three Kingdoms Tactics
+    added_at: '2026-11-05T18:39:02.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ruby Games
+    url: https://www.rubygamestudio.com/
+    description: Mobile studio making casual and hybrid-casual games with over 500 million downloads.
+    hq:
+      city: Izmir
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T18:39:02.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gamegos
+    url: https://www.gamegos.com/
+    description: Mobile and social game developer behind the Cafeland restaurant simulation series.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2006
+    notable:
+      - Cafeland
+    added_at: '2026-11-05T18:39:02.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mavis Games
+    url: https://www.mavisgames.com/
+    description: 'Mobile studio making arcade and puzzle games such as Spinner Wars: Merge Arena.'
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Spinner Wars: Merge Arena'
+      - 'Slidey: Block Puzzle'
+    added_at: '2026-11-05T18:39:02.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Anantarupa Studios
+    url: https://anantarupa.com/
+    description: Game developer behind the Indonesian mythology MOBA Lokapala, also building AR and VR projects.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - vr
+    founded: 2011
+    notable:
+      - 'Lokapala: Saga of the Six Realms'
+    added_at: '2026-11-05T18:39:02.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nazara Technologies
+    url: https://www.nazara.com/
+    description: Mobile games, esports and gaming media group that develops and publishes games through its studios.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - pc
+    founded: 1999
+    added_at: '2026-11-05T18:39:02.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gameberry Labs
+    url: https://www.gameberrylabs.com/
+    description: Mobile studio making casual multiplayer board games such as Ludo STAR and Parchisi STAR.
+    hq:
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ludo STAR
+      - Parchisi STAR
+      - Ludo Titan
+      - BackGammon Friends
+    social:
+      instagram: https://www.instagram.com/artofgameberry/
+      linkedin: https://www.linkedin.com/company/gameberry-labs/
+    added_at: '2026-11-05T18:39:02.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nukebox Studios
+    url: https://nukeboxstudios.com/
+    description: Casual mobile studio making cooking and time-management games aimed at women players.
+    hq:
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Food Truck Chef
+      - 'SpongeBob: Krusty Cook-Off'
+    added_at: '2026-11-05T18:39:02.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bombay Play
+    url: https://www.bombayplay.com/
+    description: Mobile studio making social multiplayer card and puzzle games for global players.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - Card Party
+      - Dice Merge Puzzle
+    added_at: '2026-11-05T18:39:02.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rolocule Games
+    url: https://www.dreamcricket.game/
+    description: Mobile sports game developer behind the 3D cricket series Dream Cricket.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Dream Cricket 2025
+    added_at: '2026-11-05T18:39:02.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Entrevero Games
+    url: https://entrevero.com/
+    description: Worker-owned indie studio developing web and mobile games, plus work for clients.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    segments:
+      - indie
+      - mobile
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Jump Jousts Jam
+      - Cozy Room Design
+      - Stick Fighter
+    added_at: '2026-11-05T18:39:02.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Totem Games
+    url: https://www.totemgames.org/
+    description: Studio making impact-driven games on sustainability and education, such as Rebuild GO!
+    hq:
+      city: Montevideo
+      country: Uruguay
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - mobile
+    notable:
+      - Rebuild GO!
+    social:
+      instagram: https://www.instagram.com/totem.games/
+      linkedin: https://www.linkedin.com/company/totem-games-studio/
+    added_at: '2026-11-05T18:39:02.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: WiseShards
+    url: https://www.wiseshards.com
+    description: Independent studio making its own games and full-game development for mobile, web and desktop clients.
+    hq:
+      country: Uruguay
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - web
+      - pc
+    social:
+      instagram: https://www.instagram.com/WiseShards
+    added_at: '2026-11-05T18:39:02.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pincer Games
+    url: https://www.pincergames.com
+    description: Indie studio behind the card fighting game Fighters of Fate and Scam Quest.
+    hq:
+      country: Uruguay
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Fighters of Fate
+      - Scam Quest
+    added_at: '2026-11-05T18:39:02.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: BeWolf Studio
+    url: https://bewolfstudio.com/
+    description: Indie studio making atmospheric action games such as Defy The Abyss and Redd's Runaway.
+    hq:
+      city: Mexico City
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Defy The Abyss
+      - Redd's Runaway
+    added_at: '2026-11-05T18:39:02.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Saibot Studios
+    url: https://store.steampowered.com/developer/SaibotStudios
+    description: Independent studio behind the live-action retro survival horror game Tenebris Somnia.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2011
+    notable:
+      - Tenebris Somnia
+    added_at: '2026-11-05T18:39:02.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Niebla Games
+    url: https://nieblagames.com/
+    description: Studio making original casual games for PC and mobile, including the roguelite card game Causa, Voices of the Dusk.
+    hq:
+      city: Valparaiso
+      country: Chile
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2015
+    notable:
+      - Causa, Voices of the Dusk
+      - Hexlings
+    added_at: '2026-11-05T18:39:02.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Indie Level Studio
+    url: https://indielevelstudio.com/
+    description: Boutique studio doing full production, co-development and original IP in Unreal, Unity and Godot.
+    hq:
+      city: Medellin
+      country: Colombia
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    added_at: '2026-11-05T18:39:02.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ammobox Studios
+    url: https://ammoboxstudios.com/
+    description: Independent studio offering full-game development, co-development and backend services for PC and console titles.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2008
+    added_at: '2026-11-05T18:39:02.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: WeRPlay
+    url: https://www.werplay.com/
+    description: Game and app studio providing design, art, engineering and QA as a co-development partner since 2010.
+    hq:
+      city: Islamabad
+      country: Pakistan
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2010
+    added_at: '2026-11-05T18:39:02.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: IM30
+    url: https://www.im30.net/en/
+    description: 'Mobile strategy game developer behind the survival war game Last Shelter: Survival.'
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Last Shelter: Survival'
+    added_at: '2026-11-05T18:39:02.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dream Forge Creation
+    url: https://dreamforgecreation.com/
+    description: 'Game developer and publisher building original IP such as Eternal Legacy: Legends of Nusantara.'
+    hq:
+      country: Indonesia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - 'Eternal Legacy: Legends of Nusantara'
+    added_at: '2026-11-05T18:39:02.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: GU Studio
+    url: https://gu-studio.com/
+    description: Independent game developer, founded as a Gumi Asia branch, making mobile and PC games and offering dev services.
+    hq:
+      city: Bandung
+      country: Indonesia
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    founded: 2012
+    added_at: '2026-11-05T18:39:02.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bawala Studios
+    url: https://bawalastudios.com/
+    description: Animation and video game studio creating African-themed games and animated content.
+    hq:
+      city: Accra
+      country: Ghana
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    added_at: '2026-11-05T18:39:02.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fer Factor
+    url: https://ferfactor.com/
+    description: Independent studio making fast, replayable action games for browser, mobile and PC.
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+      - pc
+    notable:
+      - Tossdown
+      - Chore Master
+    added_at: '2026-11-05T18:39:02.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

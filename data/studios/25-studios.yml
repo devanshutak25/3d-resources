@@ -34,6 +34,7 @@ studios:
     markets:
       - advertising
       - brand
+      - real-estate
     founded: 2019
     added_at: '2026-10-31T05:09:10.970Z'
     careers: https://redmint.in/career/
@@ -239,6 +240,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
     notable:
@@ -446,6 +448,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     founded: 2023
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
@@ -479,6 +483,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
     url_last_verified: '2026-11-01'
@@ -493,6 +499,7 @@ studios:
       - archviz
     markets:
       - advertising
+      - real-estate
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
     url_last_verified: '2026-11-01'

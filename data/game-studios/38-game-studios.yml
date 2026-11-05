@@ -6,6 +6,7 @@ studios:
       country: United Kingdom
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -465,6 +466,7 @@ studios:
       country: Turkey
     segments:
       - mobile
+      - simulation
     platforms:
       - mobile
     notable:
@@ -568,6 +570,7 @@ studios:
       country: Cyprus
     segments:
       - indie
+      - kids-edu
     platforms:
       - pc
       - vr
@@ -748,6 +751,7 @@ studios:
       country: United Kingdom
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     notable:
@@ -763,6 +767,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

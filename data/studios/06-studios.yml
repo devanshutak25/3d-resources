@@ -350,6 +350,7 @@ studios:
       - live-action
       - xr
       - experiential
+      - interactive
     markets:
       - advertising
       - film
@@ -491,6 +492,7 @@ studios:
     disciplines:
       - xr
       - motion-design
+      - interactive
     markets:
       - games
       - brand
@@ -749,6 +751,7 @@ studios:
       - experiential
       - xr
       - motion-design
+      - interactive
     markets:
       - brand
     size: boutique
@@ -853,10 +856,9 @@ studios:
       x: https://twitter.com/hello_ouchhh
   - name: Panic Studio
     url: https://panicstudio.tv/
-    description: London design and animation studio making cel-animated commercials, explainers and social content for brands.
+    description: Design and animation studio making cel-animated commercials, explainers and social content for brands.
     hq:
-      city: London
-      country: United Kingdom
+      country: Latvia
     disciplines:
       - 2d-animation
       - motion-design

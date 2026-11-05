@@ -38,6 +38,8 @@ studios:
         country: Spain
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: redirect
     url_last_verified: '2026-11-01'

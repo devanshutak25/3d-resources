@@ -1,0 +1,982 @@
+studios:
+  - name: Fried
+    url: https://fried.tv/
+    description: Design-driven animation and VFX studio making commercials, film and TV effects, music videos and title sequences.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - motion-design
+      - vfx
+      - title-design
+    markets:
+      - advertising
+      - film
+      - music-video
+    notable:
+      - Robin Hood
+    social:
+      instagram: https://www.instagram.com/friedtv/
+      linkedin: https://rs.linkedin.com/company/fried.tv
+    added_at: '2026-11-05T21:33:58.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Spring Onion Studio
+    url: https://springonionstudio.com/
+    description: Animation, VFX and compositing studio making game trailers, cinematics and game art.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - cinematics
+      - 3d-animation
+      - vfx
+    markets:
+      - games
+      - advertising
+    notable:
+      - 'Disciples: Liberation reveal trailer'
+      - Top Drives trailer
+    social:
+      vimeo: https://vimeo.com/springonionstudio
+      behance: https://www.behance.net/SpringOnionStudio
+    added_at: '2026-11-05T21:33:58.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mosquito Video & Animation
+    url: https://mosquito.rs/
+    description: Video and animation studio making explainer videos, 2D and 3D animation and post-production for brands.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      vimeo: https://vimeo.com/mosquitoadv
+      instagram: https://instagram.com/mosquitovideoanimation/
+      linkedin: https://www.linkedin.com/company/mosquito-adventures-/
+    added_at: '2026-11-05T21:33:58.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ALIEN studio
+    url: https://alien.sk/
+    description: VFX and 3D animation studio for commercials and film, with an in-house motion capture stage and VR games.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - mocap
+      - xr
+    markets:
+      - advertising
+      - film
+    careers: https://alien.sk/careers/
+    social:
+      instagram: https://www.instagram.com/alien3dstudio/
+      linkedin: https://www.linkedin.com/company/alien-studio-s-r-o/
+      youtube: https://www.youtube.com/@theALIENstudioChannel
+    added_at: '2026-11-05T21:33:58.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: NOISE artillery
+    url: https://www.noiseartillery.sk/
+    description: Game art outsourcing, film VFX, animation, DCP mastering and dubbing studio.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    disciplines:
+      - outsourcing
+      - vfx
+      - 3d-animation
+    markets:
+      - games
+      - film
+    notable:
+      - American Truck Simulator
+      - Euro Truck Simulator 2
+      - Mafia III
+    social:
+      instagram: https://www.instagram.com/noiseartillery/
+      youtube: https://www.youtube.com/channel/UCozP_kSXNt7RYQ_iYvuzdgw
+    added_at: '2026-11-05T21:33:58.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 4Boars
+    url: https://www.4boars.com/
+    description: Trailer production studio making game and film trailers, teasers and social content with in-engine capture and original music.
+    hq:
+      city: Tomášov
+      country: Slovakia
+    disciplines:
+      - cinematics
+      - motion-design
+    markets:
+      - games
+      - film
+    notable:
+      - Assassin's Creed Shadows
+      - Starfield
+    social:
+      instagram: https://www.instagram.com/4boars.av/
+      linkedin: https://sk.linkedin.com/company/4boars
+    added_at: '2026-11-05T21:33:58.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: STUDIO 727
+    url: https://www.727.sk/
+    description: Post-production and digitization studio doing photogrammetry scanning, face scanning and 3D asset creation for film and games.
+    hq:
+      country: Slovakia
+    disciplines:
+      - scanning
+      - outsourcing
+    markets:
+      - film
+      - games
+    added_at: '2026-11-05T21:33:58.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Blue Faces
+    url: https://blue-faces.com/
+    description: VFX and animation studio with motion capture, working on commercials, feature films and games.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - mocap
+    markets:
+      - advertising
+      - film
+      - games
+    notable:
+      - NBA 2K
+      - 'Shadows: Awakening'
+      - Die by the Blade
+    social:
+      instagram: https://www.instagram.com/bluefaces_studio
+      vimeo: https://vimeo.com/user48716928
+      linkedin: https://www.linkedin.com/company/blue-faces/
+    added_at: '2026-11-05T21:33:58.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Farom Studio
+    url: https://farom.studio/
+    description: Game outsourcing and development company providing 2D and 3D art, programming and testing, from concepts to full games.
+    hq:
+      country: Ukraine
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    founded: 2011
+    social:
+      linkedin: https://www.linkedin.com/company/farom-studio
+      youtube: https://www.youtube.com/faromstudio
+    added_at: '2026-11-05T21:33:58.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Axis Studio
+    url: https://www.axisstudio.com.hk/
+    description: Post-production house making CGI animation, photoreal rendering and effects for TV series and commercials.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 3d-animation
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - episodic
+    founded: 2011
+    social:
+      vimeo: https://vimeo.com/157250384
+    added_at: '2026-11-05T21:33:58.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animasia Studio
+    url: https://animasia-studio.com/
+    description: 2D and 3D animation studio producing original kids IP and service work for global broadcasters.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2005
+    notable:
+      - Chuck Chicken
+      - Harry & Bunnie
+    social:
+      instagram: https://www.instagram.com/animasia_studio/
+    added_at: '2026-11-05T21:33:58.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lil Critter Workshop
+    url: https://lilcritterworkshop.tv/
+    description: Animation studio developing and producing 2D and CGI kids series for broadcast.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    offices:
+      - city: Cyberjaya
+        country: Malaysia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Hogie the Globehopper
+      - Buck and Buddy
+      - Billy Fei and the Cloud Trials
+    added_at: '2026-11-05T21:33:58.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Voidrift Studios
+    url: https://www.voidriftstudios.com/
+    description: 3D art outsourcing studio making assets for AAA games.
+    hq:
+      city: Penang
+      country: Malaysia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/voidrift.studios
+    added_at: '2026-11-05T21:33:58.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Funique VR Studio
+    url: https://www.funique.tv/
+    description: VR content company shooting and post-producing 8K stereo VR films, VR theatre shows and live streams.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - xr
+      - live-action
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/funiquevrstudio/
+    added_at: '2026-11-05T21:33:58.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animation Research Ltd
+    url: https://www.arl.co.nz/
+    description: CG and animation company making realtime 3D sports broadcast graphics and data-driven visualisation.
+    hq:
+      city: Dunedin
+      country: New Zealand
+    disciplines:
+      - cg
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+      - episodic
+    added_at: '2026-11-05T21:33:58.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Reno Studios
+    url: https://reno-studios.com/
+    description: VFX, animation and LED virtual production house for Taiwanese feature films and series.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - vfx
+      - 3d-animation
+      - virtual-production
+    markets:
+      - film
+      - episodic
+    notable:
+      - Agent From Above
+      - A Foggy Tale
+      - Dead Talents Society
+      - The Pig, the Snake and the Pigeon
+    social:
+      instagram: https://www.instagram.com/renostudios.tw
+      vimeo: https://vimeo.com/renostudio
+    added_at: '2026-11-05T21:33:58.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ten Ten Studios
+    url: https://www.tentenstudio.com/
+    description: Game art service studio making concept art, illustration and 3D art for video games.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/tentenstudioart/
+      linkedin: https://www.linkedin.com/company/ten-ten-studios-creative/
+      artstation: https://www.artstation.com/tentenstudio
+    added_at: '2026-11-05T21:33:58.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Floating Rock
+    url: https://floating-rock.com/
+    description: Animation and VFX studio providing CG assets, animation, FX and lighting for film, series, commercials and game cinematics.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cinematics
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    careers: https://floating-rock.com/careers/
+    social:
+      instagram: https://www.instagram.com/floatingrockstudio/
+      linkedin: https://nz.linkedin.com/company/floatingrockstudio
+    added_at: '2026-11-05T21:33:58.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bungalow Films
+    url: https://www.bungalowfilms.co.nz/
+    description: 2D animation production company making shorts and international co-productions.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-05T21:33:58.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vinewood Animation
+    url: https://www.vinewoodanimation.com/
+    description: Animation studio making commercials, broadcast graphics, VFX and original shorts for NZ and UK clients.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - Fire in Cardboard City
+      - Welcome to Cardboard City
+    added_at: '2026-11-05T21:33:58.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Motion Jelly
+    url: https://motionjelly.com/
+    description: 3D animation studio making product and brand animation for clients in the US, UK, Europe and Australia.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/motionjelly/
+      vimeo: https://vimeo.com/motionjelly
+    added_at: '2026-11-05T21:33:58.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Park Road Post Production
+    url: https://www.parkroad.co.nz/
+    description: Film and TV post facility offering picture finishing, sound, restoration and VFX.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - They Shall Not Grow Old
+      - Mortal Engines
+      - Wellington Paranormal
+      - Coming Home in the Dark
+    added_at: '2026-11-05T21:33:58.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 37Degrees Studio
+    url: https://37degrees-studio.com/
+    description: Boutique CG studio designing photoreal and stylised environments for animation, film, TV and immersive work.
+    hq:
+      country: New Zealand
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-05T21:33:58.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Office of Tomorrow
+    url: https://oot.studio/
+    description: Team of strategists, designers and animators making animated launch films for tech startups.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/super-happy-studio/
+    added_at: '2026-11-05T21:33:58.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Metal Brain Studio
+    url: https://www.metalbrainstudio.com/
+    description: Animation studio producing the Oko Lele animated series for YouTube.
+    hq:
+      country: Malaysia
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Oko Lele
+    added_at: '2026-11-05T21:33:58.490Z'
+  - name: SpotWorks
+    url: https://spotworks.com.sg/
+    description: Architectural visualisation studio making renders, walkthrough films and VR for developers and architects.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    markets:
+      - real-estate
+    notable:
+      - One North Eden
+      - Founder's Memorial
+      - La Samaritaine
+      - Island Shangri-La
+    added_at: '2026-11-05T21:33:58.491Z'
+  - name: Gamon Studio
+    url: https://www.gamonstudio.com/
+    description: Small art outsourcing studio making concept art, illustration and marketing art for games.
+    hq:
+      country: Malaysia
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/gamonstudio.art/
+      artstation: https://www.artstation.com/gamonstudio
+    added_at: '2026-11-05T21:33:58.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Raksa
+    url: https://www.studioraksa.com/
+    description: Storytelling studio creating original IP and partner projects in 2D and 3D animation and games.
+    hq:
+      city: Langkawi
+      country: Malaysia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/studioraksaofficial
+    added_at: '2026-11-05T21:33:58.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fuloso
+    url: https://www.fuloso.com/
+    description: Game art and 3D animation studio that works inside client pipelines as an embedded team.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - cg
+    markets:
+      - games
+    social:
+      linkedin: https://linkedin.com/company/fuloso
+      artstation: https://artstation.com/fuloso
+    added_at: '2026-11-05T21:33:58.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rascal
+    url: https://rascalkids.app/
+    description: Animation and interactive storytelling studio pairing animated kids stories with its own ad-free storytelling app.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - 2d-animation
+      - interactive
+    markets:
+      - episodic
+    added_at: '2026-11-05T21:33:58.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SHOUT
+    url: https://www.estudioshout.com/
+    description: San José 2D and 3D animation studio making game trailers, animated series work and social ads for clients in the US, Canada and Europe.
+    hq:
+      city: San José
+      country: Costa Rica
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - cinematics
+    markets:
+      - games
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/estudioshout/
+      linkedin: https://www.linkedin.com/company/estudioshout/
+      youtube: https://www.youtube.com/@estudioshout
+    added_at: '2026-11-05T21:33:58.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Inti FX
+    url: https://intifx.com/
+    description: Ecuadorian 3D animation and VFX studio with an Unreal Engine pipeline, credited on Zombies 3 and The Legend of Ochi.
+    hq:
+      country: Ecuador
+    disciplines:
+      - 3d-animation
+      - vfx
+      - xr
+    markets:
+      - film
+      - episodic
+      - music-video
+    notable:
+      - Zombies 3 (Disney+)
+      - The Legend of Ochi (A24)
+      - Fantastic Fungi (Netflix)
+    social:
+      instagram: https://instagram.com/intifx
+      vimeo: https://vimeo.com/intifx
+    added_at: '2026-11-05T21:33:58.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Occident Animation Studio
+    url: https://occidentanimation.com/
+    description: Panamanian 3D animation studio making TV spots, animated shorts, AR/VR experiences and 3D billboard animations since 2006.
+    hq:
+      country: Panama
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - brand
+    founded: 2006
+    notable:
+      - Mao Lucky (short film)
+      - Panama Canal Authority Neopanamax transit animation
+    social:
+      instagram: https://www.instagram.com/occidentanimation/
+      youtube: https://www.youtube.com/user/Occident3D
+    added_at: '2026-11-05T21:33:58.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Magnetico
+    url: https://www.magnetico.media/
+    description: Guatemala City creative production studio making video, 2D and 3D motion graphics and character animation for brands.
+    hq:
+      city: Guatemala City
+      country: Guatemala
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/magnetico.tv/
+      linkedin: https://www.linkedin.com/company/magnetico-tv
+      vimeo: https://vimeo.com/magnetico
+    added_at: '2026-11-05T21:33:58.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tunche Films
+    url: https://tunchefilms.onfabrik.com/
+    description: Peruvian production company making animated features such as Ainbo and Kayara, plus commercials and VFX.
+    hq:
+      country: Peru
+    offices:
+      - city: Bogotá
+        country: Colombia
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - advertising
+    founded: 2003
+    notable:
+      - 'Ainbo: Spirit of the Amazon'
+      - Kayara
+      - Mariposas negras (co-production)
+    social:
+      vimeo: https://vimeo.com/channels/tunche
+      youtube: https://www.youtube.com/@tunchefilms6648
+    added_at: '2026-11-05T21:33:58.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rayo Púrpura Estudio
+    url: https://rayopurpura.cl/
+    description: Santiago animation studio developing 2D animated kids series such as Tevitos and Flavor Quest, plus short films.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Tevitos
+      - Flavor Quest
+      - León del Cerro
+      - Chiquito
+    social:
+      instagram: https://www.instagram.com/rayo_purpura/
+      linkedin: https://www.linkedin.com/company/rayopurpura/
+    added_at: '2026-11-05T21:33:58.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Yakuza Pixel
+    url: https://yakuzapixel.com/
+    description: Ecuadorian multimedia studio making interactive pieces, motion graphics, animation and games for brands, education and entertainment.
+    hq:
+      country: Ecuador
+    disciplines:
+      - interactive
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+      - games
+    social:
+      instagram: http://instagram.com/yakuzapixel.studio/
+    added_at: '2026-11-05T21:33:58.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Malpraxis Studio
+    url: https://malpraxisstudio.com/
+    description: Bogotá creative studio and production company specializing in animation for brand communication, with over eight years of work.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+      - episodic
+    notable:
+      - Profundo (Gente Convergente 2025 anthology)
+    social:
+      instagram: https://www.instagram.com/malpraxisstudio/
+      linkedin: https://www.linkedin.com/company/malpraxisstudio
+      youtube: https://www.youtube.com/user/MALPRAXISSTUDIO
+    added_at: '2026-11-05T21:33:58.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vreality
+    url: https://vrtybo.com/
+    description: La Paz studio making games, VR and AR experiences and interactive installations for brands and institutions.
+    hq:
+      city: La Paz
+      country: Bolivia
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Kharisiri's Night
+      - Inhibid
+    social:
+      linkedin: https://www.linkedin.com/company/vreality-s.r.l./
+      youtube: https://www.youtube.com/@vrealitybolivia
+      instagram: https://www.instagram.com/vrealitybolivia/
+    added_at: '2026-11-05T21:33:58.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pudoctopus Entertainment
+    url: https://pudoctopus.com/
+    description: Chilean animation studio providing animation services and developing original IP with a real-time pipeline.
+    hq:
+      country: Chile
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Uky & Lola in the Land of Fire
+      - The Adventures of Papelucho
+      - Guardians of the South
+    added_at: '2026-11-05T21:33:58.507Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fósfora
+    url: https://fosfora.cl/
+    description: Santiago production company and creative studio with an animation studio, film lab and image post-production.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Merrimundi (2025, co-production)
+    social:
+      instagram: https://www.instagram.com/fosfo.ra/
+    added_at: '2026-11-05T21:33:58.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Chucho
+    url: https://chucho.tv/
+    description: Montevideo animation and illustration studio making animated series such as La Orquestita, plus commercials and books.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - La Orquestita
+      - Olivia y los Misterios
+      - Los Artistonautas
+    social:
+      instagram: http://www.instagram.com/chucho.tv
+      vimeo: https://vimeo.com/user43116223
+    added_at: '2026-11-05T21:33:58.509Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Red Devil Studios
+    url: https://reddevilstudios.com/
+    description: Panamanian studio doing gameplay design, AAA-grade 3D game art, Unity development and Kinect or kiosk brand activations.
+    hq:
+      country: Panama
+    disciplines:
+      - outsourcing
+      - interactive
+      - experiential
+    markets:
+      - games
+      - brand
+    added_at: '2026-11-05T21:33:58.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Digitales
+    url: https://digitalesmedia.com/
+    description: Animation and digital content studio that produced Saleem, Jordan's first 3D animated feature.
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Saleem
+      - Our Family Life
+      - Amal for Children
+    added_at: '2026-11-05T21:33:58.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sunnymoon Project
+    url: https://sunnymoonproject.com/
+    description: Women-led studio providing 2D/3D animation, character and environment design and UI art for games, plus its own mobile games.
+    hq:
+      city: Beirut
+      country: Lebanon
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+    notable:
+      - Moodime
+      - Sweetstacks
+    social:
+      linkedin: https://www.linkedin.com/company/sunnymoon-project/
+      instagram: https://www.instagram.com/sunnymoon.project
+      x: https://x.com/sunnymoon_pro
+      youtube: https://www.youtube.com/@Sunnymoon.Project
+    added_at: '2026-11-05T21:33:58.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Moosh Studio
+    url: https://moosh-studio.com/
+    description: Creative studio making story-driven VR, AR, PC game and museum installation projects.
+    hq:
+      country: Israel
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - brand
+      - games
+    notable:
+      - Eddie and I (VR)
+      - Silent Flow (VR)
+      - TAZOO (AR)
+      - TAMA (museum installation)
+    social:
+      linkedin: https://www.linkedin.com/company/mooshstudio/
+      instagram: https://www.instagram.com/_moosh_studio
+    added_at: '2026-11-05T21:33:58.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tom & Hani
+    url: https://www.tomandhani.com/
+    description: Boutique stop-motion studio making original animated films and series, plus puppets, sets and services for music videos and commercials.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - music-video
+      - advertising
+    social:
+      instagram: https://www.instagram.com/tomandhani/
+      vimeo: https://vimeo.com/user18472731
+    added_at: '2026-11-05T21:33:58.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Breeze Animation
+    url: https://breezeanimation.com/
+    description: Animation studio making 3D product, medical device and B2B explainer videos for tech and med-tech companies.
+    hq:
+      country: Israel
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - product-viz
+    markets:
+      - brand
+      - medical-science
+    notable:
+      - HP Indigo 6K
+      - SodaStream
+      - Eitan Medical
+      - Syqe Medical
+    social:
+      instagram: https://www.instagram.com/breeze_animation/
+      vimeo: https://vimeo.com/breezeanimation
+      linkedin: https://www.linkedin.com/company/breeze-animation/
+    added_at: '2026-11-05T21:33:58.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Specter
+    url: https://specter.sa/
+    description: Production house making commercials and films with in-house VFX, 3D and color for Saudi brands.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    disciplines:
+      - live-action
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Aramco
+      - Mobily Pay
+      - AlRajhi Bank
+      - Maestro Pizza
+    social:
+      instagram: https://www.instagram.com/SpecterProd/
+      linkedin: https://linkedin.com/company/specterprod
+      vimeo: https://vimeo.com/specterprod
+      x: https://x.com/SpecterProd
+    added_at: '2026-11-05T21:33:58.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: PG Studios
+    url: https://pg-studios.com/
+    description: Production studio making 2D, 3D and AI-assisted animation, VFX and dubbing for broadcasters, streamers and government clients.
+    hq:
+      country: Jordan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - ai-production
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://instagram.com/pgstudios_official/
+      linkedin: https://www.linkedin.com/company/progressive-generation-holding
+      youtube: https://www.youtube.com/@PROGRESSIVESTUDIOSG
+    added_at: '2026-11-05T21:33:58.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

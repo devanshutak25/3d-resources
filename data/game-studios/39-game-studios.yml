@@ -868,6 +868,7 @@ studios:
       country: Indonesia
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     notable:
@@ -904,6 +905,7 @@ studios:
     segments:
       - mobile
       - vr
+      - simulation
     platforms:
       - mobile
       - pc

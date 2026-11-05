@@ -1,0 +1,947 @@
+studios:
+  - name: Yapiko Animation
+    url: https://yapiko.fr/
+    description: Franco-Japanese 2D animation studio bridging French and Japanese teams on series and film projects.
+    hq:
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/yapiko_animation
+    added_at: '2026-11-05T18:39:02.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animated Company
+    url: https://www.animatedcompany.com/
+    description: London AI animation and VFX studio helping studios and brands bring AI into production, and maker of the Fossa keyframe tools.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - ai-production
+      - vfx
+    markets:
+      - brand
+      - episodic
+    social:
+      instagram: https://www.instagram.com/animatedco/
+      linkedin: https://www.linkedin.com/company/animatedcompany
+    added_at: '2026-11-05T18:39:02.720Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: DogHead Animation
+    url: https://www.dogheadanimation.com/
+    description: Florence 2D animation studio doing design, layout, animation and compositing for series, features and ads.
+    hq:
+      city: Florence
+      country: Italy
+    offices:
+      - city: Bari
+        country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Mr. Bean animated series
+      - Copperbeak
+    social:
+      instagram: https://www.instagram.com/dogheadanimation/
+      linkedin: https://www.linkedin.com/company/14022732
+    added_at: '2026-11-05T18:39:02.722Z'
+  - name: Shapeshifter
+    url: https://shapeshifter.digital/
+    description: Creative studio making animation, VFX, virtual production, game art and interactive work for ads, film, TV and games.
+    hq:
+      country: India
+    disciplines:
+      - 3d-animation
+      - vfx
+      - virtual-production
+      - interactive
+    markets:
+      - advertising
+      - film
+      - episodic
+      - games
+      - brand
+    notable:
+      - Jugnuma
+      - Google
+      - Samsung
+      - Fanta
+    social:
+      instagram: https://www.instagram.com/shapeshifter_digital/
+      linkedin: https://www.linkedin.com/company/105039524/
+      vimeo: https://vimeo.com/shapeshifterdigital
+      youtube: https://www.youtube.com/@shapeshifter_digital
+    added_at: '2026-11-05T20:55:47.903Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Noob Studio
+    url: https://www.noobstudio.live/
+    description: Art, design and animation studio making stylized 3D and motion work for brands, games and entertainment.
+    hq:
+      country: India
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - cg
+    markets:
+      - advertising
+      - brand
+      - games
+    notable:
+      - Riot Games
+      - Amazon Studios
+      - Zomato
+      - OnePlus
+    added_at: '2026-11-05T20:58:21.812Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+    notes: Site is a scroll film with no text copy; clients, mission and tagline read from site film frames. HQ country from maintainer.
+  - name: Lanlan Studios
+    url: https://www.lanlan.in/
+    description: 2D animation studio founded by animators Preetham Gunalan and Sailesh Gopalan.
+    hq:
+      country: India
+    disciplines:
+      - 2d-animation
+    social:
+      instagram: https://www.instagram.com/lanlan.in/
+    added_at: '2026-11-05T21:00:23.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+    notes: Site is a placeholder (homepage says full website coming soon; Projects page is an unfilled Wix template). Medium and HQ country from maintainer (2026-11-06); listed by maintainer exception to the no-coming-soon rule.
+  - name: Goppo Animation
+    url: https://linktr.ee/goppoanimation
+    description: Mumbai 2D animation studio making music videos, show intros and brand animation for artists, streamers and brands.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+      - title-design
+    markets:
+      - music-video
+      - advertising
+      - episodic
+    reel: https://www.youtube.com/watch?v=aVM0ykqhoms
+    notable:
+      - 'Bloodywood ft. BABYMETAL: Bekhauf'
+      - 'DIVINE, Karan Aujla: Hisaab'
+      - 'Looop Lapeta: Lola''s Chant (Netflix India)'
+      - 'Tata Motors #RedHotDark'
+    social:
+      instagram: https://www.instagram.com/goppoanimation/
+      linkedin: https://www.linkedin.com/company/goppoanimation
+      youtube: https://www.youtube.com/@GoppoAnimation
+    added_at: '2026-11-05T21:00:59.046Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+    notes: No own website; Linktree is the studio home. City from its Linktree bio.
+  - name: Studio Bo
+    url: https://www.studiobo.io/
+    description: Animation studio making explainer videos and branded 2D animation, with a small games line.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    careers: https://www.studiobo.io/careers
+    social:
+      instagram: https://www.instagram.com/studioboio
+      linkedin: https://www.linkedin.com/company/hellostudiobo/
+      youtube: https://www.youtube.com/@hellostudiobo
+    added_at: '2026-11-05T21:33:58.414Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sozo Labs
+    url: https://sozolabs.com/
+    description: Immersive experience studio building gamified attractions, AR/VR and interactive installations for brands and venues.
+    hq:
+      city: Cape Town
+      country: South Africa
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Nairobi
+        country: Kenya
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    careers: https://sozolabs.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/sozo-labs/
+      youtube: https://www.youtube.com/@sozolabs2630
+    added_at: '2026-11-05T21:33:58.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CR Motion+
+    url: https://crmotionplus.com/
+    description: Animation arm of Comic Republic, adapting its superhero comics into 2D anime-style and 3D animated shorts.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Trials of the Spear
+      - 'Guardian Prime: Lagos Fall'
+    added_at: '2026-11-05T21:33:58.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Noohkema Interactive
+    url: https://www.noohkema.com/
+    description: 3D, animation and real-time studio making visualizations for companies and institutions, plus its own games and animated IP.
+    hq:
+      city: Douala
+      country: Cameroon
+    offices:
+      - city: Tampere
+        country: Finland
+    disciplines:
+      - 3d-animation
+      - cg
+      - interactive
+    markets:
+      - brand
+      - real-estate
+      - games
+    notable:
+      - 'Meenlah: Quest of the Stolen Spirits'
+    social:
+      linkedin: https://www.linkedin.com/company/noohkema-interactive/
+      youtube: https://www.youtube.com/@Noohkema
+    added_at: '2026-11-05T21:33:58.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Zubaa
+    url: https://www.studiozubaa.com/
+    description: Animation studio developing original animated series for children, including Sasa's Island.
+    hq:
+      country: Kenya
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2023
+    notable:
+      - Sasa's Island
+    social:
+      instagram: https://www.instagram.com/zubaa_africa/
+      linkedin: https://www.linkedin.com/company/studio-zubaa/
+      youtube: https://www.youtube.com/@zubaaafrica
+    added_at: '2026-11-05T21:33:58.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Afrika Toon
+    url: https://afrikatoon.com/
+    description: Animation studio producing 2D and 3D African animated features and series, distributed on its own streaming platform.
+    hq:
+      city: Abidjan
+      country: Côte d'Ivoire
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2005
+    notable:
+      - Pokou, Princesse Ashanti
+      - Gbon
+      - Koka Kitoumbou
+    added_at: '2026-11-05T21:33:58.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MAAN Creative
+    url: https://maan.co.za/
+    description: Boutique design and animation studio making 2D and stop-motion commercials, explainers and title sequences.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - title-design
+    markets:
+      - advertising
+      - brand
+    social:
+      vimeo: http://vimeo.com/maancreative
+    added_at: '2026-11-05T21:33:58.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Smids Animation Studios
+    url: https://www.smidsstudios.com/
+    description: Animation studio making 2D and CG kids and family content, original series and commercial work, with its own training academy.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2010
+    careers: https://www.smidsstudios.com/career/
+    notable:
+      - Hadu
+      - Keko Africa
+      - The Makerbolts
+    social:
+      instagram: https://www.instagram.com/smidsanimation/
+      youtube: https://www.youtube.com/smidsanimation/
+      x: https://twitter.com/smidsanimation/
+    added_at: '2026-11-05T21:33:58.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Creatures Animation Studio
+    url: https://creatures.africa/
+    description: 3D animation studio making children's series and short films, including Kunda & Friends and A Kalabanda Ate My Homework.
+    hq:
+      city: Kampala
+      country: Uganda
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2018
+    notable:
+      - Kunda & Friends
+      - A Kalabanda Ate My Homework
+      - 'Kizazi Moto: Generation Fire (contributor)'
+    social:
+      instagram: https://www.instagram.com/creatures_animation/
+      vimeo: https://vimeo.com/user80853537
+      youtube: https://www.youtube.com/channel/UCKIYwJCXHPBD_c00dpqNkUQ
+      x: https://twitter.com/creaturesug
+    added_at: '2026-11-05T21:33:58.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tabproduction Studios
+    url: https://www.tabproductionstudios.com/
+    description: Animation and digital media studio producing 2D and 3D animation, anime-style shorts and live-action content for NGOs and brands.
+    hq:
+      country: Zambia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - live-action
+    markets:
+      - brand
+      - episodic
+    notable:
+      - Twaano
+      - Bad Water
+    social:
+      instagram: https://www.instagram.com/tabproductionsc/
+      linkedin: https://www.linkedin.com/company/tabproduction-studios/
+      youtube: https://www.youtube.com/@tabproductionstudios5
+      x: https://x.com/tabproductionsc
+    added_at: '2026-11-05T21:33:58.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Edna Animation
+    url: https://www.edna-animation.com/
+    description: 3D production and visualization studio making renders and animation for real estate and retail, with a 3D team in Madagascar.
+    hq:
+      city: Ebène
+      country: Mauritius
+    disciplines:
+      - archviz
+      - product-viz
+      - outsourcing
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/edna.animation.ltd/
+      linkedin: https://www.linkedin.com/company/edna-animation/
+    added_at: '2026-11-05T21:33:58.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Insightful3D
+    url: https://www.insightful3d.com/
+    description: XR and 3D studio building VR training, virtual tours, digital twins and 3D visualization for industry and real estate.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - xr
+      - interactive
+      - archviz
+    markets:
+      - brand
+      - real-estate
+    founded: 2020
+    careers: https://www.insightful3d.com/career/
+    added_at: '2026-11-05T21:33:58.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Xane Studios
+    url: https://www.xanegraphics.com/
+    description: 3D studio making animated commercials, product visualization, mascots and architectural renders for brands.
+    hq:
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - archviz
+    markets:
+      - advertising
+      - brand
+      - music-video
+    notable:
+      - Zenith Bank campaigns
+      - 'NCC: Cybersecurity for Children'
+      - Moji (animated pilot)
+    social:
+      instagram: https://instagram.com/xane_studios
+      linkedin: https://www.linkedin.com/company/13048492/
+    added_at: '2026-11-05T21:33:58.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio M&A
+    url: https://studiomanda.co.ke/
+    description: Production house developing animated and live-action film and TV projects from Africa, including the short Lore.
+    hq:
+      city: Nairobi
+      country: Kenya
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    founded: 2021
+    notable:
+      - Lore (Kalasha Award, Best Animation Production 2026)
+    social:
+      instagram: https://www.instagram.com/studioma_africa/
+      linkedin: https://www.linkedin.com/company/studioma-africa
+      vimeo: https://vimeo.com/studiomafilms
+      youtube: https://www.youtube.com/@StudioMA_africa
+    added_at: '2026-11-05T21:33:58.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Chomoka Studios
+    url: https://www.chomoka.co.ke/
+    description: Animation studio producing animated content and running a full production pipeline from its Nairobi offices.
+    hq:
+      city: Nairobi
+      country: Kenya
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-05T21:33:58.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Alula Animation
+    url: https://alula.africa/
+    description: Animation studio making commercials, VFX and films, including the Disney+ Kizazi Moto short Mukudzei.
+    hq:
+      city: Harare
+      country: Zimbabwe
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2017
+    notable:
+      - 'Mukudzei (Kizazi Moto: Generation Fire)'
+    added_at: '2026-11-05T21:33:58.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sahakyants Animation Studio
+    url: https://sahakyants.com/en/
+    description: Animation studio producing animated films and series, with its own animation school and museum.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/sahakyants_animation_studio
+      youtube: https://www.youtube.com/@sahakyants
+    added_at: '2026-11-05T21:33:58.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OnOff Studio
+    url: https://onoff.am/
+    description: Animation studio making artist-driven stories for film, series and immersive media.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/onoff_animation/
+    added_at: '2026-11-05T21:33:58.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Art Rebel 9
+    url: https://www.artrebel9.com/
+    description: Interactive production company making VR, projection and virtual heritage experiences for cities and brands.
+    hq:
+      country: Slovenia
+    disciplines:
+      - xr
+      - interactive
+      - experiential
+    markets:
+      - brand
+    founded: 1991
+    notable:
+      - Ljubljana Virtual Castle
+      - VR Pegasus
+    added_at: '2026-11-05T21:33:58.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Invida
+    url: https://invida.tv/en/
+    description: Animation and production studio making independent animated films and series plus 2D and 3D animated promos.
+    hq:
+      country: Slovenia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - How It Grows
+    added_at: '2026-11-05T21:33:58.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kerozin
+    url: https://www.kerozin.si/
+    description: Animation and motion studio making TV commercials and brand films for clients such as Spar, Lego and Hofer.
+    hq:
+      city: Ljubljana
+      country: Slovenia
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+    added_at: '2026-11-05T21:33:58.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Finta Film
+    url: https://fintafilm.si/
+    description: Studio producing original animated short films, including works by Špela Čadež.
+    hq:
+      city: Ljubljana
+      country: Slovenia
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    notable:
+      - Cosmonauts
+      - The Wily Ones
+    added_at: '2026-11-05T21:33:58.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Adriatic Animation
+    url: https://adriaticanimation.hr/
+    description: Animation studio developing and producing auteur animated short films and commissioned work.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    notable:
+      - The Family Portrait
+      - All Those Sensations in My Belly
+      - Holy Men
+    social:
+      vimeo: https://vimeo.com/adriaticanimation
+    added_at: '2026-11-05T21:33:58.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ALL ANIMAL
+    url: https://allanimal.io/
+    description: CGI animation studio making game trailers, cinematics and commercials.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - cg
+      - cinematics
+      - 3d-animation
+    markets:
+      - games
+      - advertising
+    notable:
+      - 'Heroes of Might and Magic III: Remake'
+    added_at: '2026-11-05T21:33:58.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fantasy Studios
+    url: https://fantasystudios.cz/
+    description: Virtual production studio with LED stages and motion capture for film, series and content shoots.
+    hq:
+      city: Prague
+      country: Czech Republic
+    offices:
+      - city: Kladno
+        country: Czech Republic
+    disciplines:
+      - virtual-production
+      - mocap
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-05T21:33:58.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Trickstudio
+    url: https://trickstudio.cz/
+    description: Animation and post-production studio.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-05T21:33:58.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kouzelná animace
+    url: https://kouzelna.com/
+    description: Animation, VFX and post-production studio rooted in the Zlín animation tradition, working on films, series and commercials.
+    hq:
+      city: Zlín
+      country: Czech Republic
+    disciplines:
+      - 3d-animation
+      - vfx
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-05T21:33:58.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: D1 Studios
+    url: https://www.d1studios.cz/
+    description: Virtual production studio with a curved 180° LED volume for film and commercial shoots.
+    hq:
+      country: Czech Republic
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-05T21:33:58.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mangoshake
+    url: https://mangoshake.cz/
+    description: Creative production and post-production studio doing CGI, VFX, animation and color grading for brands and agencies.
+    hq:
+      city: Brno
+      country: Czech Republic
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-05T21:33:58.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cameo FX
+    url: https://www.cameofx.com/
+    description: VFX studio doing CG, compositing, beauty retouching, 3D animation, AI video and LED screen content.
+    hq:
+      city: Dnipro
+      country: Ukraine
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Hong Kong
+        country: Hong Kong
+    disciplines:
+      - vfx
+      - 3d-animation
+      - ai-production
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-05T21:33:58.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Whimsy Games
+    url: https://whimsygames.co/
+    description: Full-cycle game development and art production studio working for publishers on mobile, PC and console titles.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/whimsy_games/
+      behance: https://www.behance.net/whimsygames
+      artstation: https://www.artstation.com/whimsy_games
+    added_at: '2026-11-05T21:33:58.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kaos Lab
+    url: https://www.kaoslab.hu/
+    description: 3D and VR app developer building virtual reality training and education experiences.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-05T21:33:58.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animatory
+    url: https://animatory.ge/
+    description: 2D animation studio of 30+ animators doing storyboarding, art direction and animation for short films, ads and TV series.
+    hq:
+      city: Tbilisi
+      country: Georgia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - film
+    social:
+      vimeo: https://vimeo.com/user103581108
+      linkedin: https://www.linkedin.com/company/animatory/
+      youtube: https://www.youtube.com/@studioanimatory7436
+    added_at: '2026-11-05T21:33:58.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Prime Render Studios
+    url: https://primerenderstudios.com/
+    description: Independent animation studio making original animated films and creative collaborations.
+    hq:
+      city: Split
+      country: Croatia
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - film
+      - advertising
+    notable:
+      - META
+    social:
+      vimeo: https://vimeo.com/primerender
+    added_at: '2026-11-05T21:33:58.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mobius Frame
+    url: https://www.mobiusframe.com/
+    description: Interactive brand activation studio building touch screens, AR and game-based installations for advertising campaigns.
+    hq:
+      country: Croatia
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/mobiusframe
+      linkedin: http://www.linkedin.com/company/90419753
+    added_at: '2026-11-05T21:33:58.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: VideoSova
+    url: https://videosova.com/
+    description: Boutique motion graphics studio making animated explainers, 3D product demos and promo videos.
+    hq:
+      city: Sarajevo
+      country: Bosnia and Herzegovina
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      vimeo: https://vimeo.com/videosova
+      instagram: https://www.instagram.com/videosova
+      youtube: https://www.youtube.com/c/VideoSova
+    added_at: '2026-11-05T21:33:58.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Chameleon 42
+    url: https://chameleon42.com/
+    description: Art co-development and full-cycle game outsourcing studio working on titles such as Space Marine 2, RAID and World of Warships.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2018
+    notable:
+      - 'Warhammer 40,000: Space Marine 2'
+      - 'RAID: Shadow Legends'
+      - World of Warships
+      - Hero Wars
+    added_at: '2026-11-05T21:33:58.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tailors
+    url: https://tailo.rs/
+    description: Boutique CG studio making product and character animation for brands such as Adidas, Mercedes and Porsche.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - cg
+      - product-viz
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Adidas ZX
+      - Angry Miao
+    added_at: '2026-11-05T21:33:58.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: QUBE 3D Studio
+    url: https://qube3dstudio.com/
+    description: Game art studio making 2D and 3D art and animation for online, mobile and console games.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - games
+    added_at: '2026-11-05T21:33:58.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lav Games
+    url: https://lav-games.com/
+    description: Co-development and art outsourcing studio for games, covering concept art, level design and optimization, with its own original IPs.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-11-05T21:33:58.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: DigitalKraft
+    url: https://www.digitalkraft.rs/
+    description: Post-production and animation studio working across film, television, commercials and immersive projects.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - xr
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2003
+    added_at: '2026-11-05T21:33:58.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dreamdust
+    url: https://dreamdustvfx.com/
+    description: Post-production studio providing VFX and animation for brands and creative agencies.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-05T21:33:58.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Open Studio
+    url: https://openstudio.rs/
+    description: VFX and animation studio focused on 3D character animation, beauty shots and commercials.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+    social:
+      vimeo: https://vimeo.com/studioopen
+    added_at: '2026-11-05T21:33:58.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

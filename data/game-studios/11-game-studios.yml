@@ -112,6 +112,7 @@ studios:
         country: Canada
     segments:
       - aaa
+      - simulation
     platforms:
       - pc
     notable:
@@ -788,6 +789,7 @@ studios:
       country: United States
     segments:
       - co-dev
+      - kids-edu
     platforms:
       - console
       - mobile

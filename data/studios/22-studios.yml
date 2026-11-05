@@ -192,6 +192,7 @@ studios:
       - xr
     markets:
       - brand
+      - real-estate
     size: small
     founded: 2011
     added_at: '2026-10-31T05:09:10.965Z'
@@ -214,6 +215,8 @@ studios:
         country: Italy
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: boutique
     founded: 2019
     added_at: '2026-10-31T05:09:10.965Z'
@@ -238,6 +241,8 @@ studios:
     disciplines:
       - archviz
       - cg
+    markets:
+      - real-estate
     size: small
     founded: 1999
     added_at: '2026-10-31T05:09:10.965Z'
@@ -258,6 +263,7 @@ studios:
       - xr
     markets:
       - brand
+      - real-estate
     founded: 2003
     added_at: '2026-10-31T05:09:10.965Z'
     url_status: ok
@@ -412,6 +418,9 @@ studios:
     disciplines:
       - archviz
       - xr
+      - interactive
+    markets:
+      - real-estate
     size: mid
     founded: 1992
     added_at: '2026-10-31T05:09:10.965Z'
@@ -434,6 +443,8 @@ studios:
     disciplines:
       - archviz
       - xr
+    markets:
+      - real-estate
     size: small
     founded: 2001
     added_at: '2026-10-31T05:09:10.965Z'

@@ -258,6 +258,7 @@ studios:
       country: Japan
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     notable:

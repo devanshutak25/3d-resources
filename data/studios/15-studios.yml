@@ -117,6 +117,7 @@ studios:
         country: Netherlands
     disciplines:
       - xr
+      - interactive
     markets:
       - brand
       - advertising
@@ -135,7 +136,7 @@ studios:
       - city: Amsterdam
         country: Netherlands
     disciplines:
-      - xr
+      - interactive
     markets:
       - advertising
       - brand
@@ -155,8 +156,8 @@ studios:
       - city: Paris
         country: France
     disciplines:
-      - xr
       - motion-design
+      - interactive
     markets:
       - brand
     size: small
@@ -179,7 +180,7 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - xr
+      - interactive
     markets:
       - brand
     size: small
@@ -203,6 +204,7 @@ studios:
     disciplines:
       - xr
       - virtual-production
+      - interactive
     markets:
       - film
       - games
@@ -274,7 +276,7 @@ studios:
       - city: Reykjavik
         country: Iceland
     disciplines:
-      - xr
+      - interactive
     markets:
       - brand
     size: small
@@ -293,7 +295,7 @@ studios:
       city: Paris
       country: France
     disciplines:
-      - xr
+      - interactive
     markets:
       - brand
       - advertising
@@ -342,6 +344,7 @@ studios:
       - xr
       - cg
       - experiential
+      - scanning
     size: small
     founded: 2010
     notable:
@@ -380,6 +383,7 @@ studios:
       country: United States
     disciplines:
       - xr
+      - interactive
     markets:
       - brand
       - advertising
@@ -472,6 +476,7 @@ studios:
     disciplines:
       - product-viz
       - xr
+      - interactive
     markets:
       - advertising
     size: small
@@ -495,6 +500,7 @@ studios:
     disciplines:
       - xr
       - experiential
+      - interactive
     markets:
       - brand
     added_at: '2026-10-30T21:40:17.280Z'
@@ -550,6 +556,7 @@ studios:
       country: United States
     disciplines:
       - experiential
+      - ai-production
     size: small
     founded: 2012
     notable:
@@ -792,6 +799,7 @@ studios:
       country: United States
     disciplines:
       - experiential
+      - interactive
     size: mid
     founded: 2001
     notable:
@@ -945,6 +953,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
       - advertising

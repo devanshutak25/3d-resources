@@ -300,6 +300,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -334,6 +335,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     notable:
       - 'Thief Simulator VR: Greenview Street'
     founded: 2010
@@ -350,6 +352,7 @@ studios:
       country: Finland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

@@ -524,6 +524,7 @@ studios:
     markets:
       - advertising
       - brand
+      - real-estate
     size: small
     founded: 2010
     added_at: '2026-10-31T05:09:10.962Z'

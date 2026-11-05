@@ -296,6 +296,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -575,6 +576,7 @@ studios:
       country: Sweden
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -695,6 +697,7 @@ studios:
       country: United Kingdom
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -794,6 +797,7 @@ studios:
       country: Belgium
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console

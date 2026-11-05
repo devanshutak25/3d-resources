@@ -1,0 +1,919 @@
+studios:
+  - name: Light Lab
+    url: https://www.lightlab.lv/
+    description: Motion capture and animation studio with in-house editing and colour grading for advertising, TV, film and games.
+    hq:
+      country: Latvia
+    disciplines:
+      - mocap
+      - 3d-animation
+    markets:
+      - advertising
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/lightlab_lv/
+      vimeo: https://vimeo.com/lightlab
+    added_at: '2026-11-05T21:33:58.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Troll VFX
+    url: https://www.trollvfx.com/
+    description: 'VFX studio delivering visual effects for film and series such as Gold Run and Codename: Annika.'
+    hq:
+      city: Helsinki
+      country: Finland
+    offices:
+      - city: Tampere
+        country: Finland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Gold Run
+      - 'Codename: Annika'
+      - The Witcher season 3
+    added_at: '2026-11-05T21:33:58.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nopia
+    url: https://nopia.fi/
+    description: Creative coding studio making real-time VFX content for brands, automotive and immersive experiences.
+    hq:
+      city: Pori
+      country: Finland
+    offices:
+      - city: Helsinki
+        country: Finland
+    disciplines:
+      - interactive
+      - vfx
+      - experiential
+    markets:
+      - brand
+    added_at: '2026-11-05T21:33:58.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Brink Helsinki
+    url: https://brinkhelsinki.com/
+    description: Animation and illustration studio making character animation, 3D product animation and game marketing films.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - games
+      - brand
+    founded: 2011
+    added_at: '2026-11-05T21:33:58.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Veli Studio
+    url: https://www.veli.studio/
+    description: Creative production studio making film, 3D animation and art projects for brands such as Nike and Gucci.
+    hq:
+      country: Finland
+    disciplines:
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Gucci Vault Art Space
+      - 'Nike: The Land of New Football'
+    added_at: '2026-11-05T21:33:58.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: VFX Helsinki
+    url: https://www.vfxhelsinki.fi/
+    description: VFX and CGI studio making visual effects, product demos and cinematic animation for commercials, film and TV.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - vfx
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2023
+    notable:
+      - Little Siberia
+    added_at: '2026-11-05T21:33:58.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pikkukala
+    url: https://pikkukala.com/
+    description: Animation studio producing original series and co-productions and offering animation services for TV, film and games.
+    hq:
+      city: Helsinki
+      country: Finland
+    offices:
+      - city: Barcelona
+        country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - games
+    added_at: '2026-11-05T21:33:58.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lizard Animation Studio
+    url: https://www.lizardanimation.com/
+    description: Animation and webtoon studio doing outsourced 2D animation for series, PVs and OTT titles from the US, Japan, Korea and China.
+    hq:
+      city: Phnom Penh
+      country: Cambodia
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2016
+    added_at: '2026-11-05T21:33:58.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OdloVFX
+    url: https://odlovfx.com/
+    description: VFX and 3D animation studio making commercials and brand content for Sri Lankan clients, with 800+ projects since 2005.
+    hq:
+      country: Sri Lanka
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2005
+    social:
+      linkedin: https://www.linkedin.com/company/odlo-vfx/
+      instagram: https://www.instagram.com/odlovfx/
+    added_at: '2026-11-05T21:33:58.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Null Station
+    url: https://nullstation.co/
+    description: 3D animation and game art studio making CGI films, product visuals and game art for brands and game studios.
+    hq:
+      country: Bangladesh
+    disciplines:
+      - 3d-animation
+      - cg
+      - outsourcing
+    markets:
+      - advertising
+      - games
+      - brand
+    founded: 2021
+    notable:
+      - XD Bros
+      - Doroni Aerospace commercial
+    added_at: '2026-11-05T21:33:58.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Azmi Studio
+    url: https://azmistudio.com/
+    description: XR studio building VR, MR and AR training, healthcare and kiosk experiences, plus casual games.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-05T21:33:58.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bugbite Studio
+    url: https://bugbitestudio.com/
+    description: AR, VR and game development studio that also provides VFX and interactive 3D work for businesses.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - xr
+      - vfx
+      - interactive
+    markets:
+      - brand
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/bugbite-studio/
+      instagram: https://www.instagram.com/bugbitestudio
+    added_at: '2026-11-05T21:33:58.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ThinkBox Communication
+    url: https://thinkboxcommunication.com/
+    description: Animation and video production house making TV commercials, character animation, documentaries and architectural visualization.
+    hq:
+      city: Lahore
+      country: Pakistan
+    offices:
+      - city: Islamabad
+        country: Pakistan
+      - city: Karachi
+        country: Pakistan
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - archviz
+      - ai-production
+    markets:
+      - advertising
+      - real-estate
+    added_at: '2026-11-05T21:33:58.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bit Egg
+    url: https://bitegginc.com/
+    description: Game art, animation and co-development outsourcing studio working for Square Enix, WayForward and Jam City, which also ships its own games.
+    hq:
+      city: Chiang Mai
+      country: Thailand
+    offices:
+      - city: Bangkok
+        country: Thailand
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+    notable:
+      - Lost and Found Co.
+      - Zecha Tactics
+    added_at: '2026-11-05T21:33:58.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rocketsheep Studio
+    url: https://rocketsheepstudio.com/
+    description: Boutique animation and illustration studio making original films such as Hayop Ka! plus commercials and advocacy films.
+    hq:
+      country: Philippines
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - film
+      - advertising
+    notable:
+      - Hayop Ka! (You Animal!)
+      - Zsazsa Zaturnnah vs. the Amazonistas of Planet X
+    added_at: '2026-11-05T21:33:58.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dipadira Studios
+    url: https://dipadira.com/
+    description: 2D and 3D animation production studio covering storyboards, character design, assets, rendering and compositing.
+    hq:
+      city: Yogyakarta
+      country: Indonesia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+    added_at: '2026-11-05T21:33:58.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Patopo Animation Studios
+    url: https://www.patopo.com/
+    description: 3D animation studio producing TV series and feature films for international studios, plus its own series Jagat Sagara.
+    hq:
+      city: Bandung
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    notable:
+      - Jagat Sagara
+    added_at: '2026-11-05T21:33:58.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Seiken Studio
+    url: https://seikenstudio.com/
+    description: Game art outsourcing studio providing 2D concept art, 3D modeling, animation and VFX for mobile and AAA games.
+    hq:
+      city: Nha Trang
+      country: Vietnam
+    offices:
+      - city: Ho Chi Minh City
+        country: Vietnam
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2026
+    added_at: '2026-11-05T21:33:58.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Two Fingers Studio
+    url: https://twofingers-studio.com/
+    description: Game art outsourcing studio making characters, hair, weapons and environments for international game projects.
+    hq:
+      country: Vietnam
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-11-05T21:33:58.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Unicorn Black
+    url: https://www.unicornblack.com/
+    description: Animation and virtual production studio behind the series Burka Avenger, making 3D animated shows and AI lip-sync dubbing.
+    hq:
+      city: Islamabad
+      country: Pakistan
+    disciplines:
+      - 3d-animation
+      - virtual-production
+    markets:
+      - episodic
+      - film
+    notable:
+      - Burka Avenger
+      - Teetoo & Tania
+      - The Adventures of Captain Ali
+      - Planet Champs
+    added_at: '2026-11-05T21:33:58.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: RiFF Studio
+    url: https://www.riff-studio.com/
+    description: Animation and media production studio making TV series, feature films, game content and commercials.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2009
+    notable:
+      - Echo Planet
+    added_at: '2026-11-05T21:33:58.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Black Dog Creative Agency
+    url: https://theblackdog.agency/
+    description: Nicosia studio producing CGI, VFX, animation, concept design and illustration for brands and advertising.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/theblackdog_ca/
+      vimeo: https://vimeo.com/theblackdogca/
+      linkedin: https://www.linkedin.com/company/bd-creative-agency/
+    added_at: '2026-11-05T21:33:58.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pixel Giants
+    url: https://www.pixelgiants.com/
+    description: Cypriot animation studio creating original animated series and shorts, plus 2D/3D motion graphics for advertising, including The Olive Bunch.
+    hq:
+      country: Cyprus
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - The Olive Bunch
+    social:
+      instagram: https://www.instagram.com/pixelgiants_/
+    added_at: '2026-11-05T21:33:58.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animations-Maschine
+    url: https://www.animations-maschine.com/
+    description: Paphos studio producing technical 3D animations and product videos for machine builders and industrial companies.
+    hq:
+      city: Paphos
+      country: Cyprus
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+    founded: 2008
+    social:
+      instagram: https://www.instagram.com/animationsmaschinecom
+      linkedin: https://www.linkedin.com/company/animationsmaschine
+      youtube: https://www.youtube.com/@animations-maschine-com
+    added_at: '2026-11-05T21:33:58.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Shot Shot Shot
+    url: https://shotshotshot.com/
+    description: Graz production company making commercials and campaign videos that mix animation and live action.
+    hq:
+      city: Graz
+      country: Austria
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/ohshotshotshot/
+      linkedin: https://www.linkedin.com/company/shot-shot-shot
+      youtube: https://www.youtube.com/user/ohShotShotShot
+    added_at: '2026-11-05T21:33:58.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SpookiCG
+    url: https://www.spookicg.com/
+    description: Namur outsourcing studio for real-time VFX, technical art and 3D assets for games and VR projects.
+    hq:
+      city: Namur
+      country: Belgium
+    disciplines:
+      - outsourcing
+      - vfx
+      - xr
+    markets:
+      - games
+    careers: https://www.spookicg.com/careers
+    notable:
+      - Arizona Sunshine 2 (level art)
+      - theBlu (tech art co-dev)
+    social:
+      linkedin: https://www.linkedin.com/company/spookicg/
+    added_at: '2026-11-05T21:33:58.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Benuts
+    url: https://www.benuts.be/
+    description: Brussels VFX studio working on feature films and series, operating jointly with French VFX house CGEV.
+    hq:
+      city: Brussels
+      country: Belgium
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/benutsvfx/
+    added_at: '2026-11-05T21:33:58.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Midnight VFX
+    url: https://midnightvfx.com/
+    description: Athens visual effects and animation studio delivering VFX for feature films and TV series, from pre-production to final post.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    careers: https://midnightvfx.com/careers/
+    notable:
+      - House of David
+      - The Bricklayer
+      - La Porta Rossa
+    social:
+      instagram: https://www.instagram.com/midnight_vfx/
+    added_at: '2026-11-05T21:33:58.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: JUMP
+    url: https://www.jumpmotion.gr/
+    description: Athens studio making 3D visualization, motion design and video production for advertising.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - motion-design
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-05T21:33:58.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ateo
+    url: https://www.ateo.ch/
+    description: Zurich digital studio building AR and VR experiences, apps and games for museums, education and brands.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Moneyverse The Game (Kaiserhaus Bern)
+    social:
+      linkedin: https://www.linkedin.com/company/ateozurich/
+      youtube: https://www.youtube.com/@ateo_vr
+    added_at: '2026-11-05T21:33:58.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Visualtonic
+    url: https://www.visualtonic.ch/
+    description: Zurich architectural visualization studio producing renderings for architects and developers.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/visualtonic.ch/
+      linkedin: https://www.linkedin.com/company/visualtonic/
+    added_at: '2026-11-05T21:33:58.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: morph
+    url: https://www.archmorph.ch/
+    description: Zurich studio making architectural visualizations and architecture photography for architects, planners and property developers.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/morph.visualisierungen
+      behance: https://www.behance.net/infoc607f09e
+      x: https://twitter.com/morph_visuals
+    added_at: '2026-11-05T21:33:58.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: STOMEO Visualisierungen
+    url: https://stomeo.ch/
+    description: Zurich 3D studio producing architecture and real estate renderings for projects across Switzerland since 1999.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 1999
+    social:
+      instagram: https://www.instagram.com/stomeo_visualisierungen/
+      linkedin: https://www.linkedin.com/company/stomeo-visualisierungen/
+      youtube: https://www.youtube.com/channel/UCLnFzko9PUM4KU5C05Sz-lQ
+    added_at: '2026-11-05T21:33:58.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OVA studio
+    url: https://www.ovastudio.ch/
+    description: Zurich visualization studio combining renderings and photography for building projects and design products.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/ova_studio_visualisierungen/
+    added_at: '2026-11-05T21:33:58.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animais AVPL
+    url: https://animais-avpl.com/
+    description: Porto animation studio founded in 1991, producing animated short films, series and motion graphics.
+    hq:
+      city: Porto
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - motion-design
+    markets:
+      - film
+      - advertising
+    founded: 1991
+    notable:
+      - Filha da Água
+      - Porque Hoje é Sábado
+    social:
+      instagram: https://www.instagram.com/animais_avpl/
+      vimeo: https://vimeo.com/animais
+    added_at: '2026-11-05T21:33:58.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: COLA Animation
+    url: https://colaanimation.com/
+    description: Animation production cooperative making handmade animated shorts, series and VR pieces, including Ice Merchants.
+    hq:
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - xr
+    markets:
+      - film
+      - episodic
+      - music-video
+    notable:
+      - Ice Merchants
+      - L'Ombre des Papillons
+      - Telsche
+    social:
+      instagram: https://www.instagram.com/cola_anima/
+      vimeo: https://vimeo.com/colaanima
+      youtube: https://www.youtube.com/@colaanimationcooperative
+    added_at: '2026-11-05T21:33:58.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Contrapost
+    url: https://www.contrapost.at/
+    description: Graz studio producing photorealistic architectural renderings, 3D models and 360-degree tours for developers and architects.
+    hq:
+      city: Graz
+      country: Austria
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/contrapost.at
+      linkedin: https://at.linkedin.com/company/contrapost
+    added_at: '2026-11-05T21:33:58.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animadre Studio
+    url: https://animadre.studio/
+    description: Vienna animation studio making short and feature films, TV series, animation sculptures and interactive installations.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - interactive
+    markets:
+      - film
+      - episodic
+    founded: 2024
+    social:
+      instagram: https://www.instagram.com/animadre.studio
+      linkedin: https://www.linkedin.com/company/animadre-studio
+    added_at: '2026-11-05T21:33:58.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Moshu
+    url: https://studiomoshu.at/
+    description: Vienna animation studio making explainer, science and commissioned animation for institutions and brands.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - medical-science
+    added_at: '2026-11-05T21:33:58.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Maresch & Sturm
+    url: https://mareschsturm.com/
+    description: Vienna studio for character-driven illustration and animation, with work for ORF, WWF and brands.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+      - episodic
+    notable:
+      - Frame für Frame (ORF)
+      - Wie geht das? (ORF)
+      - Save Wild Animals (WWF)
+    social:
+      instagram: https://www.instagram.com/mareschsturm/
+      vimeo: https://vimeo.com/mareschsturm
+      behance: https://www.behance.net/mareschsturm
+      linkedin: https://www.linkedin.com/company/mareschsturm
+    added_at: '2026-11-05T21:33:58.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kraken Art Studio
+    url: https://kraken-art.com/
+    description: Luxembourg B2B audiovisual studio making brand films, 3D motion design and vertical video formats.
+    hq:
+      country: Luxembourg
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - live-action
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-05T21:33:58.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Digital Voodooh
+    url: https://www.digital-voodooh.com/
+    description: Luxembourg production company making animated series and VR works, including the Venice Immersive selection Champ de Bataille.
+    hq:
+      country: Luxembourg
+    disciplines:
+      - xr
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Champ de Bataille
+      - Krostons
+      - Ulysses Moore
+    added_at: '2026-11-05T21:33:58.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kinematic Motion Pictures
+    url: https://kinematic.gr/
+    description: Athens post-production company offering 3D animation, digital visual effects and motion graphics for film and advertising.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/kinematic_motion_pictures/
+    added_at: '2026-11-05T21:33:58.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: A Squared Studio
+    url: https://asquared-studio.com/
+    description: Limassol studio making exterior and interior architectural renderings and CG animations for architects, designers and developers.
+    hq:
+      city: Limassol
+      country: Cyprus
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      behance: https://www.behance.net/asquaredstudi
+    added_at: '2026-11-05T21:33:58.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 3rd Dimension Design Studio
+    url: https://3rddimension.gr/
+    description: Athens studio making architectural and interior visualizations and cinematic architectural animations.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/3rd_dimension_studio
+      linkedin: https://www.linkedin.com/company/3rd-dimension-design-studio/
+      behance: https://www.behance.net/3rdn
+    added_at: '2026-11-05T21:33:58.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bronxes Studio
+    url: https://www.bronxesstudio.com/
+    description: Athens studio producing high-end architectural CGI for marketing, sales and design since 2015.
+    hq:
+      city: Athens
+      country: Greece
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/bronxesstudio
+      behance: https://www.behance.net/bronxesstudio
+    added_at: '2026-11-05T21:33:58.631Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Toontuloon
+    url: https://toontuloon.com/
+    description: Maltese 2D animation studio developing cartoons and animated content, with work for Heritage Malta and BirdLife.
+    hq:
+      country: Malta
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Storja Animalta
+    social:
+      youtube: https://www.youtube.com/@Toontuloon
+    added_at: '2026-11-05T21:33:58.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Monolith
+    url: https://monolithlimited.com/
+    description: Hamrun media company founded in 2002, creating VFX, CGI and motion graphics for feature films, commercials and games.
+    hq:
+      city: Hamrun
+      country: Malta
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+    markets:
+      - film
+      - advertising
+      - games
+    founded: 2002
+    added_at: '2026-11-05T21:33:58.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: explain it simple
+    url: https://www.explain-it-simple.com/
+    description: Linz studio producing 2D and 3D animated explainer videos for companies and recruiting campaigns.
+    hq:
+      city: Linz
+      country: Austria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    careers: https://www.explain-it-simple.com/jobs/
+    social:
+      instagram: https://www.instagram.com/explain_it_simple_erklaervideo/
+      youtube: https://www.youtube.com/c/explainitsimple
+    added_at: '2026-11-05T21:33:58.634Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: INSERT COIN
+    url: https://www.insert-coin.ch/
+    description: Zurich micro studio making games, playful installations and interactive experiences for museums, NGOs and brands.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Cargo Game (Greenpeace)
+      - Cosmic Hare
+      - Inside the Knee
+    social:
+      linkedin: https://www.linkedin.com/company/insert-coin-studio/
+      x: https://twitter.com/insert_coin_ch
+    added_at: '2026-11-05T21:33:58.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

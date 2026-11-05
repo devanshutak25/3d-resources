@@ -127,6 +127,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     size: small
     founded: 2013
     notable:
@@ -309,9 +310,9 @@ studios:
       city: Columbus, OH
       country: United States
     disciplines:
-      - xr
       - 2d-animation
       - motion-design
+      - interactive
     markets:
       - brand
     notable:

@@ -486,6 +486,7 @@ studios:
       country: Finland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console

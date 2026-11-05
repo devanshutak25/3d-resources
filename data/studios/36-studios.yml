@@ -90,6 +90,8 @@ studios:
     markets:
       - advertising
       - brand
+      - real-estate
+      - medical-science
     founded: 2005
     social:
       instagram: https://www.instagram.com/3dlabz/
@@ -113,6 +115,7 @@ studios:
       - xr
     markets:
       - brand
+      - medical-science
     founded: 2017
     social:
       instagram: https://www.instagram.com/voka.io/
@@ -224,6 +227,7 @@ studios:
     disciplines:
       - experiential
       - motion-design
+      - interactive
     markets:
       - brand
     notable:
@@ -361,6 +365,8 @@ studios:
     disciplines:
       - cg
       - 3d-animation
+    markets:
+      - medical-science
     size: small
     founded: 2005
     social:
@@ -381,6 +387,7 @@ studios:
       - cg
     markets:
       - brand
+      - medical-science
     founded: 2010
     social:
       instagram: https://www.instagram.com/fusion_medical_animation
@@ -489,6 +496,7 @@ studios:
       - cg
     markets:
       - brand
+      - medical-science
     social:
       instagram: https://www.instagram.com/3fxanimation/
       linkedin: https://www.linkedin.com/company/3fx-inc-
@@ -527,6 +535,7 @@ studios:
       - xr
     markets:
       - brand
+      - medical-science
     social:
       instagram: https://www.instagram.com/madmicrobe/
       linkedin: https://www.linkedin.com/company/madmicrobe-studios/
@@ -560,8 +569,10 @@ studios:
     disciplines:
       - 3d-animation
       - xr
+      - interactive
     markets:
       - brand
+      - medical-science
     social:
       linkedin: https://www.linkedin.com/company/cast-pharma/
     url_status: ok
@@ -578,6 +589,7 @@ studios:
       - xr
     markets:
       - brand
+      - medical-science
     social:
       instagram: https://www.instagram.com/3dforscience/
       linkedin: https://www.linkedin.com/company/3dforscience-global-scientific-communications/
@@ -594,6 +606,7 @@ studios:
     disciplines:
       - cg
       - vfx
+      - scanning
     markets:
       - film
       - episodic
@@ -611,6 +624,7 @@ studios:
       - cg
       - outsourcing
       - mocap
+      - scanning
     markets:
       - games
       - film
@@ -635,6 +649,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     founded: 2006
     social:
       instagram: https://www.instagram.com/hatchstudiosltd/
@@ -656,6 +671,7 @@ studios:
     markets:
       - episodic
       - brand
+      - medical-science
     notable:
       - Crash Course
       - History by the Numbers
@@ -767,6 +783,8 @@ studios:
       country: United States
     disciplines:
       - 3d-animation
+    markets:
+      - medical-science
     social:
       instagram: https://www.instagram.com/lawanimator/
     url_status: ok

@@ -93,6 +93,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -246,6 +247,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console

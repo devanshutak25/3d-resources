@@ -129,6 +129,7 @@ studios:
     disciplines:
       - mocap
       - vfx
+      - scanning
     markets:
       - film
       - episodic

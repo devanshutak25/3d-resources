@@ -176,6 +176,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://effeindia.com/career/
     url_status: redirect
@@ -193,6 +194,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     founded: 2013
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://dots3d.com/career
@@ -309,6 +312,9 @@ studios:
     disciplines:
       - 3d-animation
       - archviz
+    markets:
+      - real-estate
+      - medical-science
     founded: 2009
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
@@ -400,6 +406,7 @@ studios:
     disciplines:
       - mocap
       - vfx
+      - scanning
     markets:
       - film
       - games
@@ -485,6 +492,7 @@ studios:
       - mocap
       - outsourcing
       - cg
+      - scanning
     markets:
       - games
       - film
@@ -649,6 +657,8 @@ studios:
     disciplines:
       - archviz
       - xr
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.970Z'
     url_status: ok
     url_last_verified: '2026-11-01'

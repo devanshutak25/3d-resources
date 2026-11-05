@@ -139,6 +139,7 @@ studios:
       - brand
       - advertising
       - episodic
+      - real-estate
     size: small
     founded: 2011
     notable:
@@ -164,6 +165,7 @@ studios:
       - product-viz
     markets:
       - advertising
+      - real-estate
     size: boutique
     founded: 2014
     notable:
@@ -626,6 +628,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     notable:
       - Formula 1
       - TEKA
@@ -1178,6 +1181,7 @@ studios:
     disciplines:
       - motion-design
       - xr
+      - interactive
     markets:
       - brand
       - advertising

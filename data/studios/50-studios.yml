@@ -1,0 +1,970 @@
+studios:
+  - name: Holoproduction
+    url: https://holoproduction.com/
+    description: Media production house making 3D animation, VFX, CGI campaigns and commercials for clients across the Gulf.
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/holomediaproduction/
+      linkedin: https://www.linkedin.com/company/holoproduction/
+      behance: https://www.behance.net/Holo_Media/projects
+    added_at: '2026-11-05T21:33:58.521Z'
+  - name: ANKA Studio
+    url: https://www.ankanimation.com/
+    description: Animation studio making product, explainer, campaign and exhibition videos that mix animation and live action for tech and health brands.
+    hq:
+      city: Givatayim
+      country: Israel
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - SolarEdge
+      - Maytronics
+      - Clalit Health Services
+      - Amdocs
+    social:
+      instagram: https://www.instagram.com/anka_studio
+      linkedin: https://www.linkedin.com/company/10688377/
+    added_at: '2026-11-05T21:33:58.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bilderish
+    url: https://bilderish.com/
+    description: Animation and post-production studio making explainer, product and training videos for tech companies.
+    hq:
+      country: Israel
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - AppsFlyer
+      - Riskified
+      - Amdocs
+      - IKEA
+    social:
+      instagram: https://www.instagram.com/bilderish/
+      linkedin: https://www.linkedin.com/company/bilderish-studio/
+      vimeo: https://vimeo.com/bilderish
+    added_at: '2026-11-05T21:33:58.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: We Are Alive
+    url: https://www.wearealive.com/
+    description: Animation studio making explainers, motion graphics, 3D animation and learning content for government and corporate clients.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - brand
+    notable:
+      - ADNOC
+      - UAE Prime Minister's Office (WGS 2026)
+      - Dubai Chamber
+      - Alinma Bank
+    added_at: '2026-11-05T21:33:58.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Giraffics
+    url: https://www.giraffics.com/
+    description: 2D animation studio making shorts, explainers, music videos and film work, with two Annecy selections.
+    hq:
+      city: Cairo
+      country: Egypt
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - brand
+      - music-video
+    notable:
+      - Apartheid Lesson (TED-Ed)
+      - Stardust (Disney+)
+      - The Imaginary World of Language
+      - 'Rocco: Saudi Foundation Day'
+    added_at: '2026-11-05T21:33:58.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lucid Dreams
+    url: https://www.luciddreams.io/
+    description: Content studio making 3D anamorphic billboards, social VFX, AI video and AR experiences for brands.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - cg
+      - vfx
+      - ai-production
+      - xr
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Mercedes EQS SUV 3D billboard
+      - PUBG Mecha Invasion
+      - Dolce & Gabbana AR at AlUla
+      - OREO 3D billboard
+    social:
+      instagram: http://instagram.com/luciddreamsworld
+      youtube: https://youtube.com/@luciddreamsworld
+    added_at: '2026-11-05T21:33:58.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Blackbird
+    url: http://blackbird.ae/
+    description: Digital studio offering virtual production, 2D/3D animation, motion capture and XR for brands and agencies.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    offices:
+      - city: Riyadh
+        country: Saudi Arabia
+      - city: Beirut
+        country: Lebanon
+    disciplines:
+      - virtual-production
+      - 3d-animation
+      - 2d-animation
+      - mocap
+      - xr
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Talabat Ramadan 2025
+      - Kinder (Ferrero)
+      - Tide (Leo Burnett Lebanon)
+      - My Winston Metaverse (JTI)
+    added_at: '2026-11-05T21:33:58.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nua Motion
+    url: https://nuamotion.com/
+    description: Motion design studio making brand and product videos for tech companies such as Melio, HP and Fiverr.
+    hq:
+      country: Israel
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - Melio
+      - HP
+      - Fiverr Pro
+    social:
+      linkedin: https://www.linkedin.com/company/nua-motion/
+      vimeo: https://vimeo.com/nuamotion
+      behance: https://www.behance.net/nuamotion
+    added_at: '2026-11-05T21:33:58.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Captain Studio
+    url: https://captain-studio.com/
+    description: Animation studio making 2D, 3D and stop-motion ads, infographics and explainer videos.
+    hq:
+      country: United Arab Emirates
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/captainstudioanimation/
+      linkedin: https://www.linkedin.com/company/captain-studio-fze
+      vimeo: https://vimeo.com/user194867332
+      behance: https://www.behance.net/captain_studio
+    added_at: '2026-11-05T21:33:58.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Elite Design Studio
+    url: http://elitedstudio.com/
+    description: Studio producing architectural renderings, 3D interiors, animation, virtual tours and time-lapse for developers and brands.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    offices:
+      - city: Jeddah
+        country: Saudi Arabia
+      - city: Al Khobar
+        country: Saudi Arabia
+      - city: Tabuk
+        country: Saudi Arabia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - interactive
+    markets:
+      - real-estate
+      - brand
+    founded: 2018
+    notable:
+      - Saudi Aramco
+      - Marriott International
+      - British International School Riyadh
+    social:
+      instagram: https://www.instagram.com/elitedezignstudio/
+      linkedin: https://sa.linkedin.com/company/elite-reach
+    added_at: '2026-11-05T21:33:58.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: LZRD
+    url: https://www.lzrd.tv/
+    description: Post-production house offering editing, color, VFX, CGI and AI work for commercials, films and music videos.
+    hq:
+      city: Giza
+      country: Egypt
+    disciplines:
+      - vfx
+      - cg
+      - ai-production
+    markets:
+      - advertising
+      - film
+      - music-video
+    founded: 2013
+    notable:
+      - Lavazza 'Alexa'
+      - Anghami 'Sole Music'
+      - ITHRA 'Newton's Distraction'
+      - Floward 'Mobster'
+    social:
+      instagram: https://www.instagram.com/lzrd.tv/
+      vimeo: https://vimeo.com/lzrdtv
+    added_at: '2026-11-05T21:33:58.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hoorakhsh Studios
+    url: https://hoorakhshstudios.com/
+    description: Animation studio behind the features The Last Fiction and Juliet & the King, released in Iran in 2026.
+    hq:
+      city: Tehran
+      country: Iran
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - music-video
+    notable:
+      - The Last Fiction (2018)
+      - Juliet & the King (2026)
+      - Pegasus (King Raam music video)
+    social:
+      linkedin: https://www.linkedin.com/company/3730029
+      vimeo: https://vimeo.com/hoorakhshstudio
+      youtube: https://www.youtube.com/channel/UCuyzHO0olw83XNho5crJHFg
+    added_at: '2026-11-05T21:33:58.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rabbit and Carrot
+    url: https://www.rabbitandcarrot.com/
+    description: 2D animation and video production studio making explainers and event content for brands and government clients since 2008.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    offices:
+      - city: Ras Al Khaimah
+        country: United Arab Emirates
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    founded: 2008
+    notable:
+      - NEOM
+      - Saudi Aramco
+      - Huawei
+      - ICHO 2025 (Ministry of Education)
+    social:
+      instagram: https://www.instagram.com/rabbit.and.carrot/
+      linkedin: https://www.linkedin.com/company/rabbitandcarrot/
+    added_at: '2026-11-05T21:33:58.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Argentum Studio
+    url: https://argentum.studio/
+    description: Full-cycle animation studio making game trailers, cinematics, commercials and VFX in Unreal Engine 5, with in-house motion capture.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - cinematics
+      - 3d-animation
+      - vfx
+      - mocap
+    markets:
+      - games
+      - advertising
+    social:
+      instagram: https://www.instagram.com/the.argentum.studio/
+      linkedin: https://www.linkedin.com/company/argentumstudio/
+    added_at: '2026-11-05T21:33:58.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ringtail Studios
+    url: https://ringtail-studios.com/
+    description: Game art and co-development studio producing 3D characters, environments and animation for AAA and mobile games.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2006
+    added_at: '2026-11-05T21:33:58.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Artmer Studio
+    url: https://artmerstudio.com/
+    description: Game art outsourcing studio making 3D assets for AAA, AA, mobile and VR titles.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/artmerstudio/
+      linkedin: https://www.linkedin.com/company/artmer-studio/
+    added_at: '2026-11-05T21:33:58.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Frozen Lake Studios
+    url: https://frozenlake.studio/
+    description: Art production studio making 2D, 3D and VFX art and co-development for games, e-commerce and simulation.
+    hq:
+      city: Tallinn
+      country: Estonia
+    offices:
+      - city: Chisinau
+        country: Moldova
+    disciplines:
+      - outsourcing
+      - vfx
+    markets:
+      - games
+    added_at: '2026-11-05T21:33:58.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fox3D Entertainment
+    url: https://fox3d.com/
+    description: Art outsourcing studio producing CG and game art for video game developers.
+    hq:
+      country: Estonia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/fox3d_entertainment/
+      linkedin: https://www.linkedin.com/company/fox3d-entertainment
+    added_at: '2026-11-05T21:33:58.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lazy Sunday
+    url: https://www.lazysunday.ie/
+    description: Animation and live-action studio developing original film and series projects.
+    hq:
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/lazysundayireland
+      linkedin: https://linkedin.com/company/lazysunday
+    added_at: '2026-11-05T21:33:58.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: elk.Studios
+    url: https://www.elkstudios.tv/
+    description: Boutique animation studio producing series and content for broadcasters and platforms.
+    hq:
+      city: Dundalk
+      country: Ireland
+    offices:
+      - city: Newry
+        country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2017
+    social:
+      vimeo: https://vimeo.com/elkstudiostv
+      instagram: https://www.instagram.com/elk.studiostv/
+    added_at: '2026-11-05T21:33:58.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nieko
+    url: https://niekoplay.com/
+    description: Game art and development studio making 2D and 3D characters, environments, VR and AR projects.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - outsourcing
+      - xr
+    markets:
+      - games
+    founded: 2015
+    added_at: '2026-11-05T21:33:58.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gluk Media
+    url: https://glukmedia.com/
+    description: Immersive media studio making interactive installations, VR, AR and projection mapping for museums and brands.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - interactive
+      - xr
+      - experiential
+    markets:
+      - brand
+    social:
+      vimeo: https://vimeo.com/680484090
+    added_at: '2026-11-05T21:33:58.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: GunHil
+    url: https://www.gunhil.com/
+    description: Animation studio making film, TV and commercial animation.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/gunhilreykjavik/
+      linkedin: https://www.linkedin.com/company/gunhil-ltd-
+    added_at: '2026-11-05T21:33:58.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Trickshot
+    url: https://www.trickshot.is/
+    description: Post-production boutique doing colour grading, VFX and motion design for features, TV, commercials and music videos.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    notable:
+      - Lamb
+      - Katla
+      - Against the Ice
+      - Touch
+    social:
+      instagram: http://instagram.com/trickshot_rvk
+    added_at: '2026-11-05T21:33:58.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Huldufugl
+    url: https://huldufugl.is/
+    description: Creative studio producing immersive VR theatre, interactive installations and live experiences.
+    hq:
+      country: Iceland
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+    founded: 2015
+    notable:
+      - Kassinn / A Box In The Desert
+      - Parallel People
+    social:
+      instagram: https://www.instagram.com/huldufugl/
+    added_at: '2026-11-05T21:33:58.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pyjama Films
+    url: https://pyjama.fi/
+    description: Story-driven animation studio focused on high-end 2D animation for films, series and commissions.
+    hq:
+      city: Turku
+      country: Finland
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://instagram.com/pyjamafilms/
+      vimeo: https://vimeo.com/pyjamafilms
+      linkedin: https://www.linkedin.com/company/pyjamafilms
+    added_at: '2026-11-05T21:33:58.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Animagency
+    url: https://www.animagency.fi/
+    description: Remote-first animation IP studio producing animated TV series.
+    hq:
+      country: Finland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Crazy - Crazier - Junior High
+      - Pelurit
+      - Bruno & Pjarta
+    social:
+      instagram: https://www.instagram.com/animagency
+      linkedin: https://www.linkedin.com/company/animagency
+    added_at: '2026-11-05T21:33:58.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fiilin Good Films
+    url: https://www.fiilingoodfilms.com/
+    description: Production company creating animation, graphic novel and game IPs, including the animated series Divine Consultants and Joy Eternal.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Divine Consultants
+      - Joy Eternal
+    added_at: '2026-11-05T21:33:58.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: AittoFlow
+    url: https://www.aittoflow.com/
+    description: Production company making animated TV series and films, including Pikkuli and Starlight Reindeer.
+    hq:
+      city: Turku
+      country: Finland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Pikkuli and Starlight Reindeer
+    added_at: '2026-11-05T21:33:58.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ZOAN
+    url: https://zoan.com/
+    description: 3D and XR studio building virtual worlds, VR experiences and Unreal Engine content, known for Virtual Helsinki.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - xr
+      - cg
+      - interactive
+    markets:
+      - brand
+    founded: 2010
+    notable:
+      - Virtual Helsinki
+    social:
+      instagram: https://www.instagram.com/zoanvr/
+      vimeo: https://vimeo.com/zoan
+      linkedin: https://www.linkedin.com/company/zoan/
+    added_at: '2026-11-05T21:33:58.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Apparat Studio
+    url: https://www.apparat.studio/
+    description: 3D animation studio providing animation production services for features, series and music content.
+    hq:
+      city: Bergen
+      country: Norway
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Richard the Stork and the Mystery of the Great Jewel
+    added_at: '2026-11-05T21:33:58.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Den Siste Skilling
+    url: http://densisteskilling.no/
+    description: Production company developing and producing animated feature films and TV series for the international market.
+    hq:
+      city: Bergen
+      country: Norway
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Richard the Stork
+      - Richard the Stork and the Mystery of the Great Jewel
+    social:
+      instagram: https://www.instagram.com/densisteskilling
+      vimeo: https://vimeo.com/densisteskilling
+    added_at: '2026-11-05T21:33:58.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Expanse
+    url: https://www.expanse.no/
+    description: VFX house making visual effects and character animation for film, television and commercials.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Teddy's Christmas
+      - A Mousehunt for Christmas
+    social:
+      instagram: https://www.instagram.com/expanseoslo/
+      vimeo: http://vimeo.com/expanse
+      linkedin: http://www.linkedin.com/company/expanseoslo
+    added_at: '2026-11-05T21:33:58.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Imagma
+    url: https://www.imagma.no/
+    description: Animation and VFX studio working on feature films, episodics and commercials.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/imagmaanimation/
+    added_at: '2026-11-05T21:33:58.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Saurus Animation
+    url: https://www.saurus.no/
+    description: Studio producing high-end 3D and CG commercials.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/saurusanimation/
+      linkedin: https://www.linkedin.com/company/saurus-animation/
+    added_at: '2026-11-05T21:33:58.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Klipp og Lim
+    url: http://klippoglim.no/
+    description: Creative agency making animation, illustration and film for public sector, environment and education clients.
+    hq:
+      city: Trondheim
+      country: Norway
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/klippoglim/
+      linkedin: https://www.linkedin.com/company/klipp-og-lim
+    added_at: '2026-11-05T21:33:58.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Trollfilm
+    url: https://www.trollfilm.no/
+    description: Animation farm making multiplane, stop-motion and cut-out animated films.
+    hq:
+      city: Dovre
+      country: Norway
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+    added_at: '2026-11-05T21:33:58.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Filmic Animation
+    url: https://filmic.se/en/
+    description: Animation studio making 3D commercials, game trailers and brand films.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - vfx
+    markets:
+      - advertising
+      - games
+      - brand
+    founded: 2007
+    notable:
+      - The Lamplighters League
+      - 'Tetra Pak: Let Food Unite'
+    social:
+      instagram: https://www.instagram.com/filmic_animation/
+      linkedin: https://www.linkedin.com/company/filmic-animation
+    added_at: '2026-11-05T21:33:58.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Soja
+    url: https://soja.se/en/
+    description: Animation studio producing original, co-produced and commissioned work, including Singing with the Superfriends.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Top 3
+      - Singing with the Superfriends
+    social:
+      instagram: https://www.instagram.com/soja.animation/
+      linkedin: https://www.linkedin.com/company/soja-animation
+    added_at: '2026-11-05T21:33:58.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Snowcloud Films
+    url: https://www.snowcloud.se/
+    description: Production company making animated features and series.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      linkedin: https://www.linkedin.com/company/snowcloud-films-ab
+    added_at: '2026-11-05T21:33:58.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Skjaldborn
+    url: https://www.skjaldborn.com/
+    description: Full-pipeline animation studio making original stories and characters plus client work.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/skjaldborn/
+      linkedin: https://www.linkedin.com/company/skjaldborn/
+      vimeo: https://vimeo.com/1053377167
+    added_at: '2026-11-05T21:33:58.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ouros Animation
+    url: https://www.ouros.net/
+    description: Boutique animation studio making motion graphics, music videos, event visuals, short films and TV series.
+    hq:
+      city: Viborg
+      country: Denmark
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - music-video
+      - brand
+    social:
+      instagram: https://www.instagram.com/ourosanimation/
+      linkedin: https://www.linkedin.com/company/ouros-animation/
+    added_at: '2026-11-05T21:33:58.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gimmick Visual Effects
+    url: https://www.gimmick.dk/
+    description: VFX studio offering visual effects and live-action production services for film, TV and commercials.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/gimmick_visual_effects/
+      vimeo: https://vimeo.com/gimmickVFX
+    added_at: '2026-11-05T21:33:58.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tulipop Studios
+    url: https://www.tulipopstudios.com/
+    description: Animation studio making animated stories and series for children based on the Tulipop characters.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    social:
+      instagram: https://www.instagram.com/tulipopworld
+      linkedin: https://www.linkedin.com/company/tulipop
+    added_at: '2026-11-05T21:33:58.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dream Well Studio
+    url: https://www.dreamwell.lv/
+    description: Independent animation studio behind the Oscar-winning animated feature Flow.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    notable:
+      - Flow
+      - Away
+    added_at: '2026-11-05T21:33:58.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studija Kokles
+    url: https://studijakokles.com/
+    description: 2D animation studio making family films, including the animated feature The Northern Star.
+    hq:
+      country: Latvia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    founded: 2019
+    notable:
+      - The Northern Star
+      - The Nature of Tide
+    social:
+      instagram: https://www.instagram.com/animationstudio_studijakokles/
+    added_at: '2026-11-05T21:33:58.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rebel Frame
+    url: https://rebelframe.ee/
+    description: Boutique production house making documentary and animated films.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    founded: 2011
+    notable:
+      - Adult Bedtime Stories
+    added_at: '2026-11-05T21:33:58.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: AAA Creative
+    url: https://aaacreative.ee/
+    description: Animation studio making dark comedy films and commercial work for clients such as Titmouse, Hulu and Reebok.
+    hq:
+      country: Estonia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    notable:
+      - Sierra
+    added_at: '2026-11-05T21:33:58.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tech Animation Studio
+    url: https://www.techanimation.studio/
+    description: 3D studio making technical animations and product visualisations for industrial, tech and science brands.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+    added_at: '2026-11-05T21:33:58.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Triplenode
+    url: https://www.triplenode.com/
+    description: VFX and post-production studio delivering visual effects and on-set supervision for international films and series.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-05T21:33:58.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

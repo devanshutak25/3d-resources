@@ -353,6 +353,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     notes: Site labels its Wynwood space as HQ in Miami.
     url_status: ok
     url_last_verified: '2026-11-05'
@@ -500,6 +501,7 @@ studios:
       country: United States
     disciplines:
       - experiential
+      - interactive
     markets:
       - brand
     social:
@@ -581,6 +583,7 @@ studios:
       country: United States
     disciplines:
       - experiential
+      - interactive
     markets:
       - brand
     social:

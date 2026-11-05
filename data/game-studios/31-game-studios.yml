@@ -294,6 +294,7 @@ studios:
       country: Italy
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -454,6 +455,7 @@ studios:
       country: Switzerland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -972,6 +974,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

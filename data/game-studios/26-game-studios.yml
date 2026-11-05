@@ -94,6 +94,7 @@ studios:
       country: Austria
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -694,6 +695,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -791,6 +793,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console

@@ -429,6 +429,7 @@ studios:
     disciplines:
       - live-action
       - motion-design
+      - ai-production
     markets:
       - advertising
     notable:
@@ -589,6 +590,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
     size: boutique
@@ -701,6 +703,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
       - music-video
@@ -882,6 +885,7 @@ studios:
       - cg
       - xr
       - vfx
+      - interactive
     markets:
       - advertising
     size: mid

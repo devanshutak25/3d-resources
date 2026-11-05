@@ -52,6 +52,7 @@ studios:
       country: Australia
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -278,6 +279,7 @@ studios:
       country: Australia
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -383,6 +385,7 @@ studios:
       country: New Zealand
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -652,6 +655,7 @@ studios:
       country: United Kingdom
     segments:
       - ugc
+      - kids-edu
     platforms:
       - pc
       - console
@@ -755,6 +759,7 @@ studios:
       country: Germany
     segments:
       - ugc
+      - kids-edu
     platforms:
       - pc
       - console

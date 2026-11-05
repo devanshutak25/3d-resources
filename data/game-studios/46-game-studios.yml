@@ -1,0 +1,1005 @@
+studios:
+  - name: Arkadium
+    url: https://www.arkadium.com/
+    description: Developer of casual web games such as Mahjongg Dimensions and Daily Crossword, played on its own site and partner news sites.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    careers: https://corporate.arkadium.com/careers/
+    notable:
+      - Mahjongg Dimensions
+      - Family Feud
+      - Daily Crossword
+      - Word Wipe
+    social:
+      linkedin: https://www.linkedin.com/company/arkadium
+      instagram: https://www.instagram.com/arkadiumgames/
+    added_at: '2026-11-05T18:39:02.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Code This Lab
+    url: https://www.codethislab.com/
+    description: Developer of HTML5 and mobile casual games such as Master Chess and Scopa, licensed to web portals and app stores.
+    hq:
+      city: San Giorgio a Cremano
+      country: Italy
+    offices:
+      - city: Volla
+        country: Italy
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - web
+      - mobile
+    founded: 2009
+    notable:
+      - Master Chess
+      - Scopa
+      - Shoot the Bubbles
+      - Frogtastic Adventure
+    social:
+      instagram: https://instagram.com/code_this_lab_srl
+      x: https://x.com/CodeThisLab
+      linkedin: https://it.linkedin.com/company/codethislab
+    added_at: '2026-11-05T18:39:02.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Easybrain
+    url: https://easybrain.com/
+    description: Mobile puzzle game developer and publisher behind Sudoku.com, Blockudoku and Nonogram.com.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Warsaw
+        country: Poland
+      - city: Minsk
+        country: Belarus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Miniclip
+    founded: 2016
+    careers: https://easybrain.com/careers
+    notable:
+      - Sudoku.com
+      - Blockudoku
+      - Nonogram.com
+      - Killer Sudoku
+    social:
+      linkedin: https://linkedin.com/company/27103989/
+      instagram: https://instagram.com/easybrainteam/
+    added_at: '2026-11-05T18:39:02.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Candywriter
+    url: https://www.candywriter.com/
+    description: Mobile game developer behind the text-based life simulator BitLife and word puzzle games.
+    hq:
+      city: Miami
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2006
+    careers: https://www.candywriter.com/careers/
+    notable:
+      - BitLife - Life Simulator
+    social:
+      x: https://twitter.com/candywriter
+      instagram: https://instagram.com/candywriter
+      linkedin: https://linkedin.com/company/candywriter-llc/
+    added_at: '2026-11-05T18:39:02.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lessmore
+    url: https://lessmore.games/
+    description: Mobile game studio making hybrid-casual games such as Eatventure, Forge Master and We Are Warriors.
+    hq:
+      city: Eschelbronn
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://lessmore.games/lessmore/careers/
+    notable:
+      - Eatventure
+      - Forge Master
+      - We Are Warriors
+      - Arrows - Puzzle Escape
+    added_at: '2026-11-05T18:39:02.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Burny Games
+    url: https://www.burny.games/
+    description: Mobile puzzle game studio behind the Colorwood series and Playdoku.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2022
+    careers: https://careers.burny.games/
+    notable:
+      - Colorwood Sort
+      - Colorwood Words
+      - Playdoku
+      - Colorwood Blocks
+    added_at: '2026-11-05T18:39:02.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Oreville Studios
+    url: https://www.orevillestudios.com/
+    description: Minecraft Marketplace partner making licensed DLC, add-ons and maps such as Superman, The Incredibles and Villager News.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://careers.orevillestudios.com
+    notable:
+      - Villager News
+      - Superman Minecraft DLC
+      - The Incredibles Minecraft DLC
+      - Angry Birds Minecraft DLC
+    social:
+      x: https://x.com/orevillestudios
+      youtube: https://youtube.com/orevillestudios
+      instagram: https://instagram.com/orevillestudios
+      linkedin: https://linkedin.com/company/orevillestudios
+    added_at: '2026-11-05T18:39:02.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Look North World
+    url: https://looknorth.world/
+    description: Remote studio founded by AAA veterans making Fortnite UEFN islands and Roblox games, including the extraction shooter Drifters.
+    hq:
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Drifters
+      - Outlaw Corral
+    added_at: '2026-11-05T18:39:02.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Playsaurus
+    url: https://playsaurus.com/
+    description: Developer and publisher of idle and incremental games such as Clicker Heroes, playable in the browser and on Steam.
+    hq:
+      city: Mission Viejo
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - web
+      - pc
+      - mobile
+    founded: 2011
+    careers: https://playsaurus.com/jobs
+    notable:
+      - Clicker Heroes
+      - Mr. Mine
+      - GrindCraft
+      - Poker Quest
+    social:
+      youtube: https://www.youtube.com/@Playsaurus
+      x: https://x.com/Playsaurus
+      linkedin: https://www.linkedin.com/company/playsaurus-inc
+    added_at: '2026-11-05T18:39:02.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Loom Games
+    url: https://www.loomgames.com/
+    description: Mobile studio behind the hybrid-casual puzzle game Pixel Flow!
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Scopely
+    founded: 2025
+    notable:
+      - Pixel Flow!
+    social:
+      linkedin: https://linkedin.com/company/loomgames
+    added_at: '2026-11-05T18:39:02.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Circle Games
+    url: https://circle.gs/
+    description: Mobile studio making puzzle games such as Sort Express and Jelly Escape.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Sort Express
+      - Jelly Escape
+    social:
+      linkedin: https://linkedin.com/company/circle-games
+    added_at: '2026-11-05T18:39:02.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SuperGears Games
+    url: https://supergears.games/
+    description: Mobile racing game studio behind Racing Kingdom, a drag racing game for iOS and Android.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2022
+    notable:
+      - Racing Kingdom
+    added_at: '2026-11-05T18:39:02.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 3AM Experiences
+    url: https://www.3amexperiences.com/
+    description: Studio running browser .io games such as Diep.io and Mope.io and building Roblox experiences.
+    hq:
+      country: United States
+    segments:
+      - ugc
+      - indie
+    platforms:
+      - web
+      - pc
+      - mobile
+    founded: 2015
+    careers: https://www.3amexperiences.com/careers
+    notable:
+      - Diep.io
+      - Mope.io
+      - Senpa.io
+      - Stomped.io
+    social:
+      linkedin: https://linkedin.com/company/3am-experiences/
+    added_at: '2026-11-05T18:39:02.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Grand Games
+    url: https://grand.gs/
+    description: Mobile studio making hybrid-casual puzzle games such as Magic Sort and Car Match.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2024
+    notable:
+      - Magic Sort
+      - Car Match
+    social:
+      linkedin: https://linkedin.com/company/grandgames
+    added_at: '2026-11-05T18:39:02.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: h8games
+    url: https://h8games.com/
+    description: Mobile game studio behind the hypercasual game Helix Jump and the idle game Little Farm Story.
+    hq:
+      city: Paphos
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Helix Jump
+      - 'Little Farm Story: Idle Tycoon'
+      - Fire Rides
+      - The Little Fox
+    social:
+      linkedin: http://linkedin.com/company/h8games
+    added_at: '2026-11-05T18:39:02.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Brotherhood
+    url: https://thebrotherhoodgames.com/
+    description: Indie studio making isometric sci-fi adventure and horror games for PC and consoles.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Stasis
+      - 'Stasis: Bone Totem'
+      - Beautiful Desolation
+      - Cayne
+    social:
+      x: https://twitter.com/StasisGame
+      youtube: https://www.youtube.com/user/STASISGame
+    added_at: '2026-11-05T21:33:58.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pineapple On Pizza Studios
+    url: https://www.popstudiosza.com/
+    description: Small indie studio making mobile and PC games with South African themes, plus game art services.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2022
+    notable:
+      - POP Invaders
+      - Braai Guy
+      - Ama Taxi
+    social:
+      instagram: https://www.instagram.com/popstudiosza/
+      linkedin: http://www.linkedin.com/company/popstudiosza
+      x: https://twitter.com/POPStudiosZA
+    added_at: '2026-11-05T21:33:58.416Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Vetkoek Studios
+    url: https://vetkoekstudios.co.za/
+    description: Youth-owned studio making free mobile games and Roblox experiences with African themes.
+    hq:
+      country: South Africa
+    segments:
+      - mobile
+      - ugc
+    platforms:
+      - mobile
+      - pc
+    founded: 2023
+    notable:
+      - Taxi Ranked
+      - Aquabots
+    added_at: '2026-11-05T21:33:58.417Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SpaceSalad Studios
+    url: https://www.spacesaladstudios.com/
+    description: Indie game studio making PC and mobile games, plus event apps and interactive broadcast work.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - HotBunz
+      - Doba Dash
+    social:
+      instagram: https://www.instagram.com/spacesaladza/
+      x: https://twitter.com/SpaceSaladZA
+      youtube: https://www.youtube.com/channel/UCvnYdT92bTbZlxhwQuxkpOg
+    added_at: '2026-11-05T21:33:58.418Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Deluxe Entertainment Studios
+    url: https://www.deluxecreation.com/
+    description: Independent studio making mobile and PC games rooted in African culture, plus animation and brand work.
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2013
+    notable:
+      - Rasta Santa
+      - Captain EcoGen
+      - 'Stickman Fight: Magic Brawl'
+      - 'Dambe: Spear & Shield'
+    added_at: '2026-11-05T21:33:58.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gbrossoft
+    url: https://gbrossoft.com/
+    description: Indie studio making African-themed action and horror games for PC.
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Outliver: Tribulation'
+    added_at: '2026-11-05T21:33:58.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Raven Illusion Studio
+    url: https://www.ravenillusion.studio/
+    description: Game developer and publisher making mobile survival and RPG titles from studios in Lagos, Atlanta and Doha.
+    hq:
+      city: Lagos
+      country: Nigeria
+    offices:
+      - city: Atlanta
+        country: United States
+      - city: Doha
+        country: Qatar
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - 'Unbroken: Survival'
+      - 'Adventurers: Mobile'
+    social:
+      instagram: https://www.instagram.com/raven_illusion_studio/
+      linkedin: https://www.linkedin.com/company/raven-illusion-studio/
+      youtube: https://www.youtube.com/@ravenillusionstudio
+      x: https://x.com/Raven_illusion
+    added_at: '2026-11-05T21:33:58.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Jiwe Studios
+    url: https://jiwe.studio/
+    description: Game developer and publisher making narrative and educational mobile games drawn from African history and culture.
+    hq:
+      city: Nairobi
+      country: Kenya
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+    founded: 2020
+    notable:
+      - Usawa The Game
+      - Umoja Against Slavery
+      - Usoni
+    social:
+      linkedin: https://linkedin.com/company/jiwestudios
+      x: https://twitter.com/Jiwe_IO
+    added_at: '2026-11-05T21:33:58.422Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mekan Games
+    url: https://mekangames.com/
+    description: Mobile game studio making casual humor titles, best known for the hit The President.
+    hq:
+      city: Nairobi
+      country: Kenya
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - The President
+    social:
+      instagram: https://www.instagram.com/mekan.games/
+      linkedin: https://www.linkedin.com/company/mekan-games/
+      x: https://x.com/MekanGames
+    added_at: '2026-11-05T21:33:58.423Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Weza Interactive Entertainment
+    url: https://www.weza.africa/
+    description: Game studio making mobile platformer and rhythm games built on African mythology.
+    hq:
+      city: Nairobi
+      country: Kenya
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - Mzito
+      - Riziki
+    social:
+      youtube: https://www.youtube.com/channel/UC5jbDdzXRZB3a1FrZeH908g
+    added_at: '2026-11-05T21:33:58.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ARUDEM
+    url: https://arudem.com/
+    description: Game studio making social multiplayer games, with a live Fortnite island and a standalone game in development.
+    hq:
+      city: Kampala
+      country: Uganda
+    segments:
+      - ugc
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2019
+    notable:
+      - RuCity (Fortnite UEFN)
+    social:
+      instagram: https://www.instagram.com/arudemgaming
+      linkedin: https://www.linkedin.com/company/arudembusiness/
+      youtube: https://www.youtube.com/@arudemgaming
+      x: https://x.com/arudemgaming
+    added_at: '2026-11-05T21:33:58.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Enechawet Games
+    url: https://enechawetgames.com/
+    description: Mobile game studio making Ethiopian story and language-learning games for Android and iOS.
+    hq:
+      city: Addis Ababa
+      country: Ethiopia
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+    founded: 2019
+    notable:
+      - Mamo
+      - Meskel Bird
+      - Guzo Ge'ez
+    added_at: '2026-11-05T21:33:58.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kayfo Games
+    url: https://www.kayfo.games/
+    description: Game studio making casual web and mobile games with African settings, run through its own Kayfo Play portal.
+    hq:
+      city: Dakar
+      country: Senegal
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Cross Dakar City
+      - Dakar Secrets
+      - Afro Racers
+    added_at: '2026-11-05T21:33:58.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ubuntu Universe
+    url: https://ubuntu-universe.com/
+    description: Impact game studio making the children's learning game Soraha plus multiplayer room games for companies and events.
+    hq:
+      city: Nairobi
+      country: Kenya
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Soraha
+      - Jibu
+    added_at: '2026-11-05T21:33:58.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: LogicDev Studios
+    url: https://logicdevstudio.com/
+    description: Game studio making African-inspired action games, including the mobile shooter Blind Spot and the RPG Otite Reborn.
+    hq:
+      city: Port Harcourt
+      country: Nigeria
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2019
+    notable:
+      - Blind Spot
+      - Otite Reborn
+    social:
+      instagram: https://instagram.com/logic_dev/
+      linkedin: https://www.linkedin.com/company/logicdev-studio/
+      youtube: https://www.youtube.com/@LogicDev_Studio
+    added_at: '2026-11-05T21:33:58.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: RuneStorm
+    url: https://www.runestorm.com/
+    description: Independent PC game developer behind the Viscera Cleanup Detail series, now making its sequel.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Viscera Cleanup Detail
+      - Rooks Keep
+      - Ballistic Weapons (UT2004 mod)
+    added_at: '2026-11-05T21:33:58.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Team Lazerbeam
+    url: https://www.teamlazerbeam.com/
+    description: Small indie team making PC games, including the deckbuilder roguelike Shroom and Gloom published by Devolver Digital.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2014
+    notable:
+      - Shroom and Gloom
+      - 'Wrestling With Emotions: New Kid on the Block'
+    social:
+      instagram: http://instagram.com/teamlazerbeam/
+    added_at: '2026-11-05T21:33:58.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gazuntype Entertainment
+    url: https://gazuntype.com/
+    description: Independent studio of developer Tade Ajiboye, making story-driven exploration games for PC and Xbox.
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Go North
+    added_at: '2026-11-05T21:33:58.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lighthouse Games Studio
+    url: https://www.lighthousegamesstudio.com/
+    description: Two-person indie studio making the Death in the Water underwater survival games plus casual mobile titles.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2009
+    notable:
+      - Death in the Water
+      - Death in the Water 2
+      - Safari Cannon
+      - Capital Kings
+    social:
+      instagram: https://www.instagram.com/lighthousegamesstudio/
+      youtube: https://www.youtube.com/@lighthousegamesstudio
+      x: https://twitter.com/lighthousegames
+    added_at: '2026-11-05T21:33:58.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ingozi Games
+    url: https://www.ingozigames.com/
+    description: 'One-person indie studio making Poached: Hunt The Hunter, an open-world anti-poaching FPS set in South Africa.'
+    hq:
+      city: Johannesburg
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Poached: Hunt The Hunter'
+    social:
+      instagram: https://instagram.com/ingozigames
+      youtube: https://www.youtube.com/@IngoziGames
+      x: https://x.com/ingozigames
+    added_at: '2026-11-05T21:33:58.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Rockbite Games
+    url: https://rockbitegames.com/
+    description: Mobile and PC game developer behind Deep Town and the factory adventure Sandship.
+    hq:
+      city: Yerevan
+      country: Armenia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Deep Town
+      - Sandship
+    social:
+      linkedin: https://am.linkedin.com/company/rockbite-games
+      youtube: https://www.youtube.com/@RockbiteGames
+    added_at: '2026-11-05T21:33:58.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Noor Games
+    url: https://noorgames.com/
+    description: Mobile game developer offering full-cycle development, known for the Voodoo-published hit Lumbercraft.
+    hq:
+      city: Yerevan
+      country: Armenia
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - Lumbercraft
+    social:
+      linkedin: https://www.linkedin.com/company/10262766
+      youtube: https://www.youtube.com/NoorGames
+    added_at: '2026-11-05T21:33:58.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Triada Studio Games
+    url: https://www.triadastudiogames.com/
+    description: Game studio spun out of the Triada animation and VFX studio, maker of the shadow puzzle game Shadowmatic.
+    hq:
+      country: Armenia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    parent: Triada Studio
+    notable:
+      - Shadowmatic
+    social:
+      linkedin: https://am.linkedin.com/company/triada-studio-games
+    added_at: '2026-11-05T21:33:58.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: KIPI Interactive
+    url: https://kipiinteractive.com/
+    description: Small independent studio of AAA veterans behind the 2D action-adventure SunderBound, also doing client work.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - SunderBound
+    added_at: '2026-11-05T21:33:58.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Big Loop Studios
+    url: https://bigloopstudios.com/
+    description: 'Cross-platform puzzle game developer behind Doors: Paradox and Boxes: Lost Fragments, with 15+ games released.'
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - 'Doors: Paradox'
+      - 'Boxes: Lost Fragments'
+      - Tiny Robots Recharged
+      - 'Escape Machine City: Airborne'
+    added_at: '2026-11-05T21:33:58.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Black Sea Games
+    url: https://www.blackseagames.com/
+    description: 'Independent studio behind the medieval grand strategy game Knights of Honor II: Sovereign.'
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - aa
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - 'Knights of Honor II: Sovereign'
+    added_at: '2026-11-05T21:33:58.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dreamteck
+    url: https://dreamteck.io/
+    description: Game studio making its own games, such as the hoverboard roguelike OVERRIDER, plus Unity plugins and outsourcing.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - OVERRIDER
+    social:
+      instagram: https://www.instagram.com/dreamteckstudio
+    added_at: '2026-11-05T21:33:58.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Seven Bulls Games
+    url: https://sevenbullsgames.com/
+    description: Mobile developer behind the multiplayer FPS Counter Attack, with 15 million+ users.
+    hq:
+      country: Bulgaria
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Counter Attack
+    added_at: '2026-11-05T21:33:58.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Mechka
+    url: https://studiomechka.com/
+    description: 'Game studio making stylized story games rooted in Balkan folklore, such as Marko: Beyond Brave, plus co-development.'
+    hq:
+      city: Sofia
+      country: Bulgaria
+    offices:
+      - city: Varna
+        country: Bulgaria
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Marko: Beyond Brave'
+    social:
+      linkedin: https://www.linkedin.com/company/studio-mechka/
+    added_at: '2026-11-05T21:33:58.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ChibiPhoenix
+    url: https://www.chibiphoenix.com/
+    description: Webtoon platform and game maker producing story-driven mobile and PC games such as Manga RPG.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Manga RPG
+      - Amour Agent
+    added_at: '2026-11-05T21:33:58.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The Sixth Hammer
+    url: https://thesixthhammer.com/
+    description: Full-cycle game studio doing co-development and console porting alongside its own titles.
+    hq:
+      country: Bulgaria
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    added_at: '2026-11-05T21:33:58.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FoumartGames
+    url: https://www.foumartgames.com/
+    description: One-person game workshop making tactical RPG RogueVerse and retro puzzle games.
+    hq:
+      country: Bulgaria
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - RogueVerse
+      - The Unicorn and the Foul Pattern
+    added_at: '2026-11-05T21:33:58.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: XREAL Games
+    url: https://xrealgames.com/
+    description: Indie VR studio making Unreal Engine shooters such as Zero Caliber for Meta Quest, Steam and PlayStation.
+    hq:
+      country: Hungary
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    founded: 2016
+    notable:
+      - Zero Caliber VR
+      - Zero Caliber 2
+    social:
+      instagram: https://www.instagram.com/xrealgames/
+      linkedin: https://www.linkedin.com/company/xreal-games/
+      youtube: https://www.youtube.com/@XREALGamesVR
+    added_at: '2026-11-05T21:33:58.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lost Pilgrims Studio
+    url: https://vagrus.com/
+    description: 'Indie studio behind Vagrus: The Riven Realms, a dark fantasy RPG about leading a travelling company.'
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - 'Vagrus: The Riven Realms'
+    social:
+      instagram: https://www.instagram.com/lostpilgrims/
+    added_at: '2026-11-05T21:33:58.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Abelix Games
+    url: https://abelixgames.com/
+    description: Solo indie studio that has shipped several Steam and Xbox games, including Drift King and A Difficult Game About Letters.
+    hq:
+      country: Georgia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Drift King
+      - A Difficult Game About Letters
+      - SLICE
+      - Alter World
+    added_at: '2026-11-05T21:33:58.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

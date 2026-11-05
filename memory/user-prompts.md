@@ -199,3 +199,49 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > find more studios in japan from here, https://pixelpixel.jp/
 
 **Answered:** Round 4 discovery: 8 gap-slice agents + Pixel×Pixel festival speaker/sponsor lists (2025 + 2026). /studios/ 1,598 -> 1,911 (84 countries; Japan 81 -> 156), /game-studios/ 1,898 -> 2,102. Pixel×Pixel gave 16 (14 Japan). Probe dropped 4 dead/cert-expired; cut Ánima + 5 explainer shops. Validate/tests/build/links pass. Not committed.
+
+**Prompt:** (2026-11-05)
+> Can you brainstorm which segment and type of 3d motion design game or arch viz studios we might have missed
+
+**Answered:** Brainstorm only, no data edits. Tallied disciplines/markets/segments/countries + name-probed ~500 known studios across ~20 niches. Biggest gaps: AI-native, WebGL/interactive, social AR, digital fashion, scanning/volumetric, VP/previs/mocap, medical/forensic, archviz hubs (China/Serbia/Saudi), UGC + hypercasual publishers, MEA/SEA games. Enum gaps flagged (no real-estate/medical market, no interactive discipline, no kids-edu/sim segment); asked user before extending. Flagged The Mill + Mikros Animation (Technicolor 2025 collapse) for status check.
+
+**Prompt:** (2026-11-05)
+> fill all the gaps
+
+**Answered:** Asked first about the new enum values; user approved all 7 (interactive, ai-production, scanning; real-estate, medical-science; kids-edu, simulation). Wired schemas/labels/colors/form/docs, backfilled existing rows, ran 8 discovery agents, imported 290 studios + 210 game studios (live-probed). Totals 1,888 / 2,108. Validate, tests, build and links pass. Not committed.
+
+**Prompt:** (2026-11-06)
+> find studios for categories that have less than 20 entries
+
+**Answered:** No discipline/market/segment/platform is under 20 (lowest: previs 21); the facets under 20 are countries (59 in /studios/, 53 in /game-studios/). Spawned 8 regional agents (Nordic/Baltic/Ireland, West/South EU, CEE, MENA, Sub-Saharan Africa, South/SE Asia, East Asia/Oceania, LatAm) to fill both directories toward 20 per country. Import pending.
+
+**Prompt:** (2026-11-06)
+> continue please
+
+**Answered:** Previous session ended mid-run; 8 country agents had saved only 23 records (CEE 17, MENA 6). Resumed all 8 from their transcripts via SendMessage; import pending.
+
+**Prompt:** (2026-11-06)
+> add https://www.linkedin.com/company/105039524 shapeshifter.digital
+
+**Answered:** Added Shapeshifter to /studios/ (3d-animation, vfx, virtual-production, interactive; HQ India per user, no city; site gives none, LinkedIn blocked). Its game Flip-Flop Fury is unreleased, so not in /game-studios/.
+
+**Prompt:** (2026-11-06)
+> add https://www.noobstudio.live/
+
+**Answered:** Added Noob Studio to /studios/ (3d-animation, motion-design, cg; advertising/brand/games; HQ India per user, no city). Site is a JS scroll film with no text: tagline, mission and clients (Riot Games, Amazon Studios, Zomato, OnePlus, Hero, iQOO, Campa) read from ffmpeg frames. Social links on site are placeholders, so none stored.
+
+**Prompt:** (2026-11-06)
+> add https://www.lanlan.in/
+
+**Answered:** Site is a placeholder (coming soon + Wix template projects); asked; user chose "Add: 2D animation, India". Added Lanlan Studios to /studios/ with notes: flagging the placeholder site and maintainer-sourced facts.
+
+**Prompt:** (2026-11-06)
+> add https://linktr.ee/goppoanimation as well 2d animation studio
+
+**Answered:** Added Goppo Animation (Mumbai, from its Linktree bio) to /studios/: 2d-animation + title-design, music-video/advertising/episodic, Linktree as URL (no own site), showreel + 4 notable from its link list.
+- (2026-11-06, follow-up to "find studios for categories that have less than 20 entries") Country fill imported: +225 studios, +299 game studios; 19 country lists crossed 20; totals 2,117 / 2,407. Validate, tests, build, links pass. Not committed.
+
+**Prompt:** (2026-11-06)
+> push changes please
+
+**Answered:** origin/main had 13 new commits incl. round 4 (+313/+204, same new chunk files). Snapshot on branch wip/studio-gap-fill, ff main, 3-way merged docs, re-ran backfill on round 4 data, replayed 446 + 448 new rows (134 overlaps kept round 4 + carried new enum values). Totals 2,357 / 2,550. Committed + pushed.

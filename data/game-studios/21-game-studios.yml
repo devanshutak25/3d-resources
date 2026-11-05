@@ -743,6 +743,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

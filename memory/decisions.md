@@ -95,3 +95,13 @@ Architectural / structural decisions w/ rationale + date.
 - Unofficial fan/guide sites for an app: decline, list the official app instead (#39 solidcraftcad.com -> SolidCraft solidcraft.io). User call.
 - Read-only archived communities are deprecated, not kept (Blender.Community). Dead blog post with the same author's video live: repoint to the video.
 - Auto-mode classifier blocks fork pushes and PR merges from the session; stage on a local branch and hand the user push/merge commands.
+
+## 2026-11-05: Gap-fill enums
+- User approved 7 new closed values: studio disciplines `interactive`, `ai-production`, `scanning`; markets `real-estate`, `medical-science`; game segments `kids-edu`, `simulation`.
+- `xr` label "XR / interactive" -> "XR (AR / VR)" now that `interactive` exists. Web-only studios lost `xr` (Resn, Dogstudio, Immersive Garden, 14islands, Merci-Michel, We Ride at Dawn); others with real AR/VR keep both.
+- Backfill: all 252 archviz rows get `real-estate`; 36 medical/science/forensic; 62 interactive; 7 ai-production (gen-AI-first only, not "AI-assisted"); 19 scanning; 12 kids-edu; 67 simulation (sim specialists, not arcade racers or idle tycoons).
+- Backfill edits keep existing key order (a schema-order rewrite caused 770 lines of churn); new `markets` key goes after `disciplines`.
+- 2026-11-06: Maintainer can override the no-"coming soon" rule per studio (Lanlan Studios: placeholder site, listed on user call). Such rows carry a `notes:` line naming the exception and the user-sourced fields.
+- 2026-11-06: "Categories under 20" read as countries (no discipline/market/segment/platform was under 20). Target = 20 per country per directory where that many real, active studios exist.
+- 2026-11-06: Panic Studio HQ London -> Latvia (own legal page names SIA "Panic"); London refs on its site are clients (W+K London).
+- 2026-11-06: Parallel sessions append to the same studio chunk files. Merge rule: take origin data, re-run name/rule backfills, replay this session's rows (new = URL not in the shared base commit), dedupe by host + name/country, origin row wins on overlap but gains new enum values. Check `git fetch` before long data runs.

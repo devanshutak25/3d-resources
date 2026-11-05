@@ -47,3 +47,919 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-05'
     added_at: '2026-11-05T16:21:04.141Z'
+  - name: Lingokids
+    url: https://lingokids.com/
+    description: Madrid company making Lingokids, a learning app with games, songs and shows for young children.
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    careers: https://jobs.lingokids.com/
+    notable:
+      - Lingokids
+    social:
+      instagram: https://www.instagram.com/lingokids/
+      linkedin: https://www.linkedin.com/company/lingokids/
+      x: https://www.twitter.com/lingokids/
+      youtube: https://www.youtube.com/channel/UCTl91e4cxOjpphrLuNXVQ2A
+    added_at: '2026-11-05T18:39:02.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bubadu
+    url: https://www.bubadu.com/
+    description: Slovenian studio making casual mobile games for kids, including virtual pet and school games.
+    hq:
+      city: Cerknica
+      country: Slovenia
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.bubadu.com/jobs/
+    notable:
+      - My Virtual Pet Bubbu
+      - Bubbu School
+      - Pixie the Pony
+    social:
+      instagram: https://www.instagram.com/bubbu_game_official/
+      youtube: https://www.youtube.com/channel/UCNbbreT8es657nkCR7xVfcg
+    added_at: '2026-11-05T18:39:02.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Libii
+    url: https://www.libii.com/
+    description: Chengdu developer of casual mobile games for kids and families.
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T18:39:02.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: TutoTOONS
+    url: https://tutotoons.com/
+    description: Lithuanian developer and publisher of mobile games for kids aged 3 to 12.
+    hq:
+      country: Lithuania
+    offices:
+      - city: Kaunas
+        country: Lithuania
+      - city: Vilnius
+        country: Lithuania
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    careers: https://tutotoons.com/career
+    social:
+      instagram: https://www.instagram.com/tutoclubofficial/
+      linkedin: https://www.linkedin.com/company/tutotoons/
+    added_at: '2026-11-05T18:39:02.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fox & Sheep
+    url: https://foxandsheep.com/
+    description: German studio making creative apps for children aged 2 to 8, such as Nighty Night and Little Helpers.
+    hq:
+      city: Hohen Neuendorf
+      country: Germany
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    founded: 2012
+    notable:
+      - Nighty Night
+      - Little Helpers
+    social:
+      instagram: https://www.instagram.com/foxsheepberlin/
+      youtube: https://www.youtube.com/channel/UC2PqUk3jBjGYjywe_UV964w
+    added_at: '2026-11-05T18:39:02.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Age of Learning
+    url: https://www.ageoflearning.com/
+    description: Glendale edtech company making ABCmouse and other learning games for young children.
+    hq:
+      city: Glendale
+      country: United States
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    careers: https://www.ageoflearning.com/careers/
+    notable:
+      - ABCmouse
+    social:
+      instagram: https://www.instagram.com/ageoflearning
+      linkedin: https://www.linkedin.com/company/age-of-learning/
+      youtube: https://www.youtube.com/@Ageoflearning
+    added_at: '2026-11-05T18:39:02.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Prodigy Education
+    url: https://www.prodigygame.com/
+    description: Toronto company making Prodigy Math, a role-playing game where elementary students solve math problems.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    founded: 2011
+    careers: https://www.prodigygame.com/main-en/jobs
+    notable:
+      - Prodigy Math
+    social:
+      x: https://twitter.com/ProdigyGame
+      instagram: https://www.instagram.com/prodigygame/
+    added_at: '2026-11-05T18:39:02.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SplashLearn
+    url: https://www.splashlearn.com/
+    description: Game-based math and reading program for preschool to grade 5, made by StudyPad.
+    hq:
+      city: San Francisco
+      country: United States
+    offices:
+      - city: Gurgaon
+        country: India
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    notable:
+      - SplashLearn
+    added_at: '2026-11-05T18:39:02.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: E-Line Media
+    url: https://www.elinemedia.com/
+    description: Scottsdale developer and publisher of learning and impact games, such as Beyond Blue and Never Alone.
+    hq:
+      city: Scottsdale
+      country: United States
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2008
+    careers: https://www.elinemedia.com/careers
+    notable:
+      - Never Alone
+      - Beyond Blue
+    social:
+      instagram: https://instagram.com/elinemedia_
+      linkedin: https://www.linkedin.com/company/e-line-media/
+    added_at: '2026-11-05T18:39:02.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ahoiii Entertainment
+    url: https://www.ahoiii.com/
+    description: Cologne studio making ad-free kids apps such as the Fiete series and the KidsKlub platform.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    founded: 2014
+    careers: https://www.ahoiii.com/en/jobs
+    notable:
+      - Fiete apps
+      - KidsKlub
+      - Sandmännchen app
+    social:
+      instagram: https://www.instagram.com/fieteahoiii/
+    added_at: '2026-11-05T18:39:02.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: '&ranj'
+    url: https://ranj.com/
+    description: Rotterdam studio making game-based tools for hiring, training and behaviour change at companies.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    parent: '&samhoud'
+    social:
+      linkedin: https://www.linkedin.com/company/ranj/
+      youtube: https://www.youtube.com/@RanjSeriousGames
+    added_at: '2026-11-05T18:39:02.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tinybop
+    url: https://tinybop.com/
+    description: Brooklyn studio making open-play science and building apps for kids.
+    hq:
+      city: Brooklyn
+      country: United States
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    careers: https://tinybop.com/jobs
+    social:
+      x: http://twitter.com/tinybop
+      instagram: http://www.instagram.com/tinybop
+    added_at: '2026-11-05T18:39:02.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Night Zookeeper
+    url: https://www.nightzookeeper.com/
+    description: UK edtech studio making Night Zookeeper, a game-based reading and writing program for kids aged 6 to 12.
+    hq:
+      country: United Kingdom
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Night Zookeeper
+    social:
+      instagram: https://instagram.com/nightzookeeper
+      linkedin: https://linkedin.com/company/night-zookeeper
+      x: https://twitter.com/nightzookeeper
+    added_at: '2026-11-05T18:39:02.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: KidloLand
+    url: https://www.idzdigital.com/
+    description: Indian studio, formerly IDZ Digital, making nursery rhyme and early learning games for toddlers.
+    hq:
+      country: India
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.idzdigital.com/careers.php
+    notable:
+      - KidloLand
+    social:
+      x: https://twitter.com/IDZDigital
+      instagram: https://www.instagram.com/idzdigital/
+      youtube: https://www.youtube.com/channel/UCk648MRsOAP7uzD1HEqPC5g
+    added_at: '2026-11-05T18:39:02.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: IPACS
+    url: https://www.aerofly.com/
+    description: Tübingen developer of the Aerofly FS flight simulators for PC, mobile and Nintendo Switch.
+    hq:
+      city: Tübingen
+      country: Germany
+    segments:
+      - simulation
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Aerofly FS
+    added_at: '2026-11-05T18:39:02.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Aerosoft
+    url: https://www.aerosoft.com/
+    description: German publisher and developer of flight, train and bus simulation software and add-ons.
+    hq:
+      city: Büren
+      country: Germany
+    segments:
+      - simulation
+    platforms:
+      - pc
+    careers: https://www.aerosoft.com/en/careers
+    social:
+      instagram: https://www.instagram.com/aerosoft_gmbh
+      youtube: https://www.youtube.com/user/AerosoftOfficial
+      x: https://x.com/AerosoftGmbH
+    added_at: '2026-11-05T18:39:02.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: PMDG Simulations
+    url: https://pmdg.com/
+    description: Developer of detailed airliner add-ons for Microsoft Flight Simulator, including 737 and 777 models.
+    hq:
+      country: United States
+    segments:
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - PMDG 737 for MSFS
+      - PMDG 777-300ER for MSFS
+    social:
+      instagram: https://www.instagram.com/pmdgsimulations/
+      youtube: https://www.youtube.com/channel/UC4Z6uOroKwk2BCoBHzhuaeQ
+    added_at: '2026-11-05T18:39:02.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Just Flight
+    url: https://www.justflight.com/
+    description: UK publisher and developer of flight simulator add-ons, from airliners and military aircraft to scenery.
+    hq:
+      country: United Kingdom
+    segments:
+      - simulation
+    platforms:
+      - pc
+    social:
+      x: https://x.com/justflight
+      youtube: https://www.youtube.com/justflight
+    added_at: '2026-11-05T18:39:02.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: iniBuilds
+    url: https://inibuilds.com/
+    description: London studio making aircraft and airport add-ons for Microsoft Flight Simulator and X-Plane.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - simulation
+    platforms:
+      - pc
+      - console
+    careers: https://inibuilds.bamboohr.com/careers/
+    social:
+      x: https://twitter.com/iniBuilds
+      instagram: https://www.instagram.com/inibuildsofficial/
+      youtube: https://www.youtube.com/inibuilds
+    added_at: '2026-11-05T18:39:02.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: RORTOS
+    url: https://www.rortos.com/
+    description: Verona developer of mobile flight simulators, including Real Flight Simulator.
+    hq:
+      city: Verona
+      country: Italy
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+    founded: 2012
+    notable:
+      - Real Flight Simulator
+    social:
+      x: https://twitter.com/rortos
+      instagram: https://www.instagram.com/rfs_realflightsimulator_rortos/
+      youtube: https://www.youtube.com/user/RORTOS
+    added_at: '2026-11-05T18:39:02.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Competition Company
+    url: https://www.rennsport.gg/
+    description: Munich studio making RENNSPORT, a sim racing game for PC, PlayStation 5 and Xbox Series X|S.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - simulation
+    platforms:
+      - pc
+      - console
+    careers: https://competition-company-gmbh.jobs.personio.de/
+    notable:
+      - RENNSPORT
+    social:
+      instagram: https://www.instagram.com/rennsport_gg
+      youtube: https://www.youtube.com/c/Rennsport_gg
+      x: https://x.com/rennsport_gg
+    added_at: '2026-11-05T18:39:02.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OviLex Software
+    url: https://www.ovilex.com/
+    description: Cluj-Napoca developer of mobile driving, truck and bus simulation games.
+    hq:
+      city: Cluj-Napoca
+      country: Romania
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+      - console
+    social:
+      instagram: https://www.instagram.com/ovilex/
+      youtube: https://www.youtube.com/OviLexSoft
+    added_at: '2026-11-05T18:39:02.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: AxesInMotion
+    url: https://axesinmotion.com/
+    description: Seville studio behind Extreme Car Driving Simulator and other mobile driving games.
+    hq:
+      city: Seville
+      country: Spain
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Extreme Car Driving Simulator
+    social:
+      x: https://twitter.com/axesinmotion
+      instagram: https://www.instagram.com/axesinmotion.games/
+      linkedin: https://www.linkedin.com/company/axesinmotion/
+      youtube: https://www.youtube.com/@axesinmotion
+    added_at: '2026-11-05T18:39:02.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Big Cheese Studio
+    url: https://bigcheesestudio.com/
+    description: Łódź studio behind Cooking Simulator and other job simulation games.
+    hq:
+      city: Łódź
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cooking Simulator
+    social:
+      youtube: https://www.youtube.com/bigcheesestudio
+    added_at: '2026-11-05T18:39:02.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FuturLab
+    url: https://www.futurlab.co.uk/
+    description: Brighton studio behind PowerWash Simulator and the Velocity series.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    founded: 2003
+    careers: https://www.futurlab.co.uk/careers
+    notable:
+      - PowerWash Simulator
+      - Velocity 2X
+    social:
+      x: https://twitter.com/FuturLab
+      instagram: https://www.instagram.com/futurlab/
+      linkedin: https://www.linkedin.com/company/futurlab/
+      youtube: https://www.youtube.com/@FuturLab
+    added_at: '2026-11-05T18:39:02.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Camshaft Software
+    url: https://www.camshaftsoftware.com/
+    description: Wellington studio making Automation, a car design and car company tycoon game for PC.
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    careers: https://www.camshaftsoftware.com/jobs
+    notable:
+      - 'Automation: The Car Company Tycoon Game'
+    added_at: '2026-11-05T18:39:02.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hovgaard Games
+    url: https://www.hovgaard.com/
+    description: Copenhagen studio making business simulation games, including Big Ambitions and Startup Company.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Big Ambitions
+      - Startup Company
+    social:
+      x: https://twitter.com/hovgaardgames
+      youtube: https://www.youtube.com/hovgaardgames
+    added_at: '2026-11-05T18:39:02.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mechanistry
+    url: https://mechanistry.com/
+    description: Warsaw studio behind Timberborn, a city-building game starring beavers.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    careers: https://mechanistry.com/careers
+    notable:
+      - Timberborn
+    added_at: '2026-11-05T18:39:02.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ultimate Games
+    url: https://ultimate-games.com/
+    description: Warsaw developer and publisher of simulation and indie games for PC and consoles.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    social:
+      youtube: https://www.youtube.com/channel/UCSyt4zDh63Ipbw9EKld7aWw
+    added_at: '2026-11-05T18:39:02.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Foxy Voxel
+    url: https://foxyvoxel.io/
+    description: Serbian studio behind Going Medieval, a colony sim about building and running a medieval settlement.
+    hq:
+      country: Serbia
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    careers: https://foxyvoxel.io/careers/
+    notable:
+      - Going Medieval
+    social:
+      x: https://x.com/FoxyVoxel
+      youtube: https://www.youtube.com/channel/UCDn-M-B8T7VQfpMvdZVCXDg
+    added_at: '2026-11-05T18:39:02.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Funselektor
+    url: https://www.funselektor.com/
+    description: Canadian indie studio behind the driving games art of rally and Absolute Drift.
+    hq:
+      country: Canada
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    notable:
+      - art of rally
+      - Absolute Drift
+    social:
+      instagram: http://www.instagram.com/funselektor
+      x: http://www.twitter.com/funselektor
+      youtube: https://www.youtube.com/channel/UCrNHgOBz_cGcH4YY9AQsAdA
+    added_at: '2026-11-05T18:39:02.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Star Vault
+    url: https://www.starvault.se/
+    description: Malmö studio making Mortal Online 2, a sandbox MMORPG built on its own RaxorPlatform tech.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2005
+    careers: https://www.starvault.se/jobs/
+    notable:
+      - Mortal Online 2
+      - Mortal Online
+    added_at: '2026-11-05T18:39:02.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: gamigo
+    url: https://en.gamigo.com/
+    description: Hamburg publisher and developer of free-to-play MMOs and online games.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - aa
+    platforms:
+      - pc
+      - web
+      - mobile
+    added_at: '2026-11-05T18:39:02.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sandbox Interactive
+    url: https://sandbox-interactive.com/
+    description: Berlin studio behind Albion Online, a cross-platform sandbox MMORPG.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Albion Online
+    added_at: '2026-11-05T18:39:02.473Z'
+  - name: Crazy Maple Studio
+    url: https://www.crazymaplestudio.com/
+    description: San Francisco studio making interactive story apps, such as Chapters.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - 'Chapters: Interactive Stories'
+    social:
+      instagram: https://www.instagram.com/crazymaplestudios
+      linkedin: https://www.linkedin.com/company/crazy-maple-studio-inc/
+      x: https://x.com/CMapleStudio
+    added_at: '2026-11-05T18:39:02.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: lowiro
+    url: https://lowiro.com/
+    description: London studio behind Arcaea, a story-driven rhythm game for mobile and Nintendo Switch.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Tokyo
+        country: Japan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - console
+    founded: 2018
+    careers: https://lowiro.com/en-us/jobs/
+    notable:
+      - Arcaea
+    social:
+      x: https://twitter.com/lowiro_staff
+    added_at: '2026-11-05T18:39:02.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Handelabra Games
+    url: https://www.handelabra.com/
+    description: Cleveland studio adapting tabletop games for digital play, such as Spirit Island and Sentinels of the Multiverse.
+    hq:
+      city: Cleveland
+      country: United States
+    offices:
+      - city: Halifax
+        country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://www.handelabra.com/jobs
+    notable:
+      - Spirit Island
+      - Sentinels of the Multiverse
+    social:
+      instagram: https://www.instagram.com/handelabra/
+      youtube: https://www.youtube.com/handelabra
+    added_at: '2026-11-05T18:39:02.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Monster Couch
+    url: https://www.monstercouch.com/
+    description: Poznań studio making digital adaptations of board games, including Wingspan and Calico.
+    hq:
+      city: Poznań
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://www.monstercouch.com/careers/
+    notable:
+      - Wingspan
+      - Quilts and Cats of Calico
+    social:
+      x: https://twitter.com/monstercouch
+      instagram: https://www.instagram.com/monstercouchgames
+    added_at: '2026-11-05T18:39:02.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Serious Games Interactive
+    url: https://www.seriousgames.net/
+    description: Copenhagen developer of educational and serious games for schools, youth and professional training.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+      - pc
+    social:
+      linkedin: https://www.linkedin.com/company/serious-games-interactive
+    added_at: '2026-11-05T18:39:02.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: StoryToys
+    url: https://storytoys.com/
+    description: Dublin studio making licensed learning and play apps for kids, including LEGO DUPLO and Bluey games.
+    hq:
+      city: Dublin
+      country: Ireland
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    parent: everplay group
+    notable:
+      - LEGO DUPLO WORLD
+      - LEGO Bluey
+    added_at: '2026-11-05T18:39:02.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Triseum
+    url: https://triseum.com/
+    description: 'Texas studio making game-based learning for college courses, such as ARTé: Mecenas and Variant: Limits.'
+    hq:
+      city: Bryan
+      country: United States
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - pc
+      - web
+    careers: https://triseum.com/careers/
+    notable:
+      - 'ARTé: Mecenas'
+      - 'Variant: Limits'
+    social:
+      x: https://twitter.com/triseum
+      linkedin: https://www.linkedin.com/company/triseum/
+      youtube: https://www.youtube.com/channel/UCGtcbAhw3lUlKtwGJpH5T6A
+    added_at: '2026-11-05T18:39:02.482Z'
+  - name: BabyBus
+    url: https://www.babybus.com/
+    description: Fuzhou company making early learning apps, games and nursery rhyme videos for young children.
+    hq:
+      city: Fuzhou
+      country: China
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T18:39:02.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pepi Play
+    url: https://www.pepiplay.com/
+    description: Vilnius studio making pretend-play apps for young children, such as Pepi Wonder World and Pepi Hospital.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.pepiplay.com/career
+    notable:
+      - Pepi Wonder World
+      - Pepi Hospital
+      - Pepi House
+    social:
+      instagram: https://www.instagram.com/pepi_play/
+      youtube: https://www.youtube.com/channel/UCKxj8SmWFGuJVawy35AJhPQ
+    added_at: '2026-11-05T18:39:02.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: My Town Games
+    url: https://my-town.com/
+    description: Tel Aviv studio making open-ended town and doll house play games for kids.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - My Town
+      - My City
+    social:
+      youtube: https://www.youtube.com/channel/UCAy25gXkma1g7_kaxupFqWg
+    added_at: '2026-11-05T18:39:02.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Paper Boat Apps
+    url: https://kiddopia.com/
+    description: Mumbai company making Kiddopia, a subscription learning app with games for kids aged 2 to 7.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    parent: Nazara Technologies
+    notable:
+      - Kiddopia
+    social:
+      instagram: https://www.instagram.com/kiddopia/
+      youtube: https://www.youtube.com/channel/UC9eYMqyI2cqOcvGLwg5V6-Q
+      x: https://x.com/getkiddopia
+    added_at: '2026-11-05T18:39:02.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: MovieStarPlanet
+    url: https://moviestarplanet.com/
+    description: Danish studio running MovieStarPlanet, an online social dress-up and role-play game for tweens.
+    hq:
+      country: Denmark
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - MovieStarPlanet
+      - MovieStarPlanet 2
+    added_at: '2026-11-05T18:39:02.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Boddle Learning
+    url: https://www.boddlelearning.com/
+    description: US edtech studio making Boddle, a 3D math and reading game for students in grades K to 6.
+    hq:
+      country: United States
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Boddle
+    social:
+      x: https://twitter.com/boddlelearning
+      instagram: https://www.instagram.com/boddlelearning
+      linkedin: https://www.linkedin.com/company/boddle-learning
+      youtube: https://www.youtube.com/channel/UCkRZnRP-pHyxaLaT7_Hzfyg/
+    added_at: '2026-11-05T18:39:02.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

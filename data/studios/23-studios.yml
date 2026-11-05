@@ -422,6 +422,7 @@ studios:
         country: Australia
     disciplines:
       - vfx
+      - scanning
     markets:
       - film
       - episodic
@@ -489,6 +490,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
     url_last_verified: '2026-11-01'
@@ -505,6 +508,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     size: small
     founded: 2016
     added_at: '2026-10-31T05:09:10.968Z'
@@ -526,6 +531,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     founded: 2017
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
@@ -543,6 +550,8 @@ studios:
     disciplines:
       - archviz
       - product-viz
+    markets:
+      - real-estate
     founded: 2010
     added_at: '2026-10-31T05:09:10.968Z'
     url_status: ok
@@ -560,6 +569,8 @@ studios:
       country: India
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.968Z'
     careers: https://tripolystudio.com/career/
     url_status: ok

@@ -67,7 +67,7 @@ Studios have their own directory at [/studios/](https://3d.devanshutak.xyz/studi
   hq: { city: London, country: United Kingdom }
   offices: [{ city: Montreal, country: Canada }]   # optional
   disciplines: [vfx, 3d-animation, xr]             # closed list, see schema
-  markets: [film, episodic, advertising]           # optional: film, episodic, advertising, music-video, games, brand
+  markets: [film, episodic, advertising]           # optional: film, episodic, advertising, music-video, games, brand, real-estate, medical-science
   size: large                                      # optional, LinkedIn company size: boutique 1-10, small 11-50, mid 51-200, large 201+
   founded: 1986                                    # optional
   careers: https://www.framestore.com/careers      # optional
@@ -83,7 +83,7 @@ Active studios only. Country names come from the list in `scripts/lib/studios.js
 Game developers go to [/game-studios/](https://3d.devanshutak.xyz/game-studios/) instead: append to the last file in `data/game-studios/` (`NN-game-studios.yml`, 50 per file). Schema: `schema/game-studio.schema.json`. Same fields as above, minus `disciplines` and `markets`, plus:
 
 ```yaml
-  segments: [aaa]                    # 1-3 of: aaa, aa, indie, mobile, co-dev, vr, ugc
+  segments: [aaa]                    # 1-3 of: aaa, aa, indie, mobile, co-dev, vr, ugc, kids-edu, simulation
   platforms: [console, pc]           # optional: pc, console, mobile, vr, web
   parent: Sony Interactive Entertainment   # optional owner
   notable: [Marvel's Spider-Man 2]   # optional, shipped games, max 4

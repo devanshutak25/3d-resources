@@ -546,6 +546,7 @@ studios:
       country: United States
     segments:
       - aa
+      - simulation
     platforms:
       - pc
       - console

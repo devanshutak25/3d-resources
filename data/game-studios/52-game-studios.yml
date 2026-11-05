@@ -1,0 +1,24 @@
+studios:
+  - name: Ground Control Studios
+    url: https://gcontrolgames.com/
+    description: Portuguese game studio making puzzle and arcade games such as ZHED and Hyper Gods, plus B2B work with gaming tech.
+    hq:
+      country: Portugal
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - ZHED
+      - Hyper Gods
+      - Desert Race Adventures
+      - Eternity
+    social:
+      instagram: https://www.instagram.com/groundcontrolstudios/
+      linkedin: https://www.linkedin.com/company/ground-control-studios
+      youtube: https://www.youtube.com/@groundcontrolgames
+      x: https://twitter.com/GControlGames
+    added_at: '2026-11-05T21:33:58.712Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

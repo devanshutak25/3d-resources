@@ -50,6 +50,8 @@ body:
         - Co-dev / porting
         - VR / XR
         - UGC (Roblox, UEFN)
+        - Kids & education
+        - Simulation
   - type: dropdown
     id: platforms
     attributes:
@@ -77,12 +79,15 @@ body:
         - Virtual production
         - Live action
         - CG / 3D
+        - AI production
         - Product viz
         - Arch viz
         - Game cinematics
         - Outsourcing
         - Mocap
-        - XR / interactive
+        - Scanning / volumetric
+        - XR (AR / VR)
+        - Interactive / WebGL
         - Experiential
   - type: dropdown
     id: markets
@@ -96,6 +101,8 @@ body:
         - Music video
         - Games
         - Brand
+        - Real estate & architecture
+        - Medical & science
   - type: dropdown
     id: size
     attributes:

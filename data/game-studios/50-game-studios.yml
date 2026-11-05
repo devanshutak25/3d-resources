@@ -1,0 +1,897 @@
+studios:
+  - name: Regnum Studio
+    url: https://www.regnum-studio.com/
+    description: Indie game developer making the horror title Apollo X, plus sponsored games and localisation services.
+    hq:
+      country: Bahrain
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Apollo X
+      - Energy Hero (Bapco Refining)
+      - Intertwine
+    social:
+      linkedin: http://linkedin.com/company/regnumstudio
+      instagram: https://www.instagram.com/regnumstudio
+      x: https://twitter.com/regnumstudio
+    added_at: '2026-11-05T21:33:58.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Biohex Games
+    url: https://moduwar.com/
+    description: Indie studio making Moduwar, a real-time strategy game in Steam Early Access.
+    hq:
+      country: Israel
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Moduwar
+    social:
+      x: https://twitter.com/Moduwar
+    added_at: '2026-11-05T21:33:58.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Whaleapp
+    url: https://www.whaleapp.com/
+    description: Mobile game developer of casual titles such as Triple Factory, Hidden Hotel and Hotel Blast.
+    hq:
+      country: Israel
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.whaleapp.com/careers
+    notable:
+      - Triple Factory
+      - Hidden Hotel
+      - Hotel Blast
+      - 'BLITZ: RoH'
+    social:
+      instagram: https://www.instagram.com/whaleapp/
+      x: https://twitter.com/whaleappltd
+    added_at: '2026-11-05T21:33:58.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Jawaker
+    url: https://jawaker.com/
+    description: Developer of the Jawaker online platform for Arabic card and board games such as Trix, Baloot and Tarneeb.
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Jawaker
+    added_at: '2026-11-05T21:33:58.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Raheebeen Studios
+    url: https://raheebeen.com/
+    description: Game developer making titles that reflect Saudi and Arab culture, including AFRSHO.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - AFRSHO
+    added_at: '2026-11-05T21:33:58.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Classy Games
+    url: https://www.classygames.gg/
+    description: Indie studio that started in the UK and moved to the UAE, making party and puzzle games such as Silly Suspects and Orbital.
+    hq:
+      country: United Arab Emirates
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Silly Suspects
+      - Orbital
+      - Who Heckled?
+    social:
+      linkedin: https://www.linkedin.com/company/classy-games-gg
+      instagram: https://www.instagram.com/classygames.gg/
+      x: https://x.com/ClassyGames_gg
+    added_at: '2026-11-05T21:33:58.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lobah
+    url: https://lobah.com/
+    description: Game developer making culturally rooted games for a global audience, including the hero shooter Samla and Jackaroo Strike.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    offices:
+      - city: Singapore
+        country: Singapore
+      - city: Warsaw
+        country: Poland
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2024
+    notable:
+      - Samla (Early Access)
+      - Jackaroo Strike
+    social:
+      linkedin: https://www.linkedin.com/company/lobah
+      instagram: https://www.instagram.com/lobahgames/
+      x: https://x.com/LobahGames
+    added_at: '2026-11-05T21:33:58.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Game Hermits
+    url: https://gamehermits.com/
+    description: Game studio offering multiplayer, gameplay and VR training development to clients while building its own action RPG Metro Surge.
+    hq:
+      country: Egypt
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - vr
+    notable:
+      - Monument Monopoly
+      - Metro Surge (in development)
+    social:
+      linkedin: https://www.linkedin.com/company/game-hermits/
+      youtube: https://www.youtube.com/@gamehermits7211
+    added_at: '2026-11-05T21:33:58.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bedaoius
+    url: https://www.bedaoius.com/
+    description: Indie studio making mobile games drawn from Emirati culture, starting with Yowlah Superstars.
+    hq:
+      country: United Arab Emirates
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Yowlah Superstars
+    social:
+      instagram: https://www.instagram.com/bedaoius
+    added_at: '2026-11-05T21:33:58.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Playflame
+    url: https://www.playflame.com/
+    description: Independent mobile game studio making hybrid casual puzzle games, with 11 published titles.
+    hq:
+      country: Estonia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/playflame
+    added_at: '2026-11-05T21:33:58.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Interactive Fate
+    url: https://www.interactivefate.com/
+    description: Small independent studio making PC strategy and roguelike games such as Shortest Trip to Earth and Circle Empires.
+    hq:
+      city: Tartu
+      country: Estonia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Shortest Trip to Earth
+      - Circle Empires
+      - Circle Empires Rivals
+    added_at: '2026-11-05T21:33:58.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hammer & Ravens
+    url: https://www.hammerandravens.com/
+    description: Indie studio making strategy and management games, including Empires in Ruins and Ale Abbey.
+    hq:
+      city: Tallinn
+      country: Estonia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Empires in Ruins
+      - Razerwire:Nanowars
+      - Ale Abbey
+    social:
+      instagram: https://www.instagram.com/ham_rav/
+      linkedin: https://www.linkedin.com/company/11022077
+    added_at: '2026-11-05T21:33:58.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Joyixir
+    url: https://joyixir.com/
+    description: Small studio making word and colour puzzle games for iOS, with 25 titles on the App Store.
+    hq:
+      city: Tallinn
+      country: Estonia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2020
+    social:
+      linkedin: https://www.linkedin.com/company/joyixir-ou/
+    added_at: '2026-11-05T21:33:58.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hypester Games
+    url: https://www.hypester.com/
+    description: Casual game studio behind the jigsaw puzzle game Jigsaw World Cruise.
+    hq:
+      city: Tallinn
+      country: Estonia
+    offices:
+      - city: Tartu
+        country: Estonia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Jigsaw World Cruise
+    added_at: '2026-11-05T21:33:58.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tall Troll Games
+    url: https://talltroll.com/
+    description: 'Five-person indie studio making PC games such as Dark Chess and Untraveled Lands: Chantico.'
+    hq:
+      city: Tallinn
+      country: Estonia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dark Chess
+      - 'Untraveled Lands: Chantico'
+    social:
+      instagram: https://www.instagram.com/trolltallgames/
+      linkedin: https://www.linkedin.com/company/talltrollgames/
+    added_at: '2026-11-05T21:33:58.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Maru VR Productions
+    url: https://maruvr.ee/
+    description: VR studio making games and custom virtual reality experiences, including Bootstrap Island.
+    hq:
+      city: Tallinn
+      country: Estonia
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Bootstrap Island
+      - Kalevipoeg's Journey to Hell
+    social:
+      instagram: https://www.instagram.com/maruvrproductions/
+    added_at: '2026-11-05T21:33:58.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: TD2TL
+    url: https://td2tl.com/
+    description: Game studio with 150+ casual and kids titles made for brands like Bandai Namco, Hasbro and Mattel.
+    hq:
+      city: Tallinn
+      country: Estonia
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    social:
+      vimeo: https://vimeo.com/530914071
+    added_at: '2026-11-05T21:33:58.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FXFX Studio
+    url: https://fxfx.studio/
+    description: Roblox game studio building custom games and brand experiences for companies.
+    hq:
+      country: Estonia
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+    social:
+      instagram: https://www.instagram.com/fxfxstudio
+    added_at: '2026-11-05T21:33:58.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: No Brakes Games
+    url: https://nobrakesgames.com/
+    description: 'Game studio behind the physics-based puzzle platformer Human: Fall Flat.'
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Human: Fall Flat'
+      - Human Fall Flat 2
+    social:
+      instagram: https://www.instagram.com/nobrakesgames/
+      linkedin: https://www.linkedin.com/company/no-brakes-games/
+    added_at: '2026-11-05T21:33:58.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lazy Bear Games
+    url: http://lazybeargames.com/
+    description: Game studio making simulation and tycoon games for PC and consoles, including Punch Club and Graveyard Keeper.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Punch Club
+      - Graveyard Keeper
+      - 'Bandle Tale: A LoL Story'
+      - 'Punch Club 2: Fast Forward'
+    added_at: '2026-11-05T21:33:58.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tag of Joy
+    url: https://www.tagofjoy.lt/
+    description: Studio making games and interactive experiences.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - indie
+    platforms:
+      - pc
+    added_at: '2026-11-05T21:33:58.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Memel Games
+    url: https://worldwiderush.com/
+    description: Two-person indie studio making transport management games such as Worldwide Rush and Sweet Transit.
+    hq:
+      city: Klaipėda
+      country: Lithuania
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Worldwide Rush
+      - Sweet Transit
+    added_at: '2026-11-05T21:33:58.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OSM Games
+    url: https://www.osmgames.lt/
+    description: Independent studio that made the mobile word game Kartuvės and is building Shil, a puzzle platformer for PC and VR.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - vr
+    notable:
+      - Kartuvės
+    added_at: '2026-11-05T21:33:58.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CHARK Studio
+    url: https://chark.io/
+    description: XR and game development studio making VR and mixed reality games, gamification and interactive exhibitions.
+    hq:
+      country: Lithuania
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Exer Gale
+      - Unveiling
+    social:
+      instagram: https://www.instagram.com/charkstudio/
+      linkedin: https://linkedin.com/company/chark-studio
+    added_at: '2026-11-05T21:33:58.631Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Brightdawn Entertainment
+    url: https://www.brightdawn.eu/
+    description: 'Small indie studio behind A Walk in the Woods and Art of War: Card Game.'
+    hq:
+      country: Latvia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - A Walk in the Woods
+      - 'Art of War: Card Game'
+    social:
+      instagram: https://www.instagram.com/brightdawn.official/
+      linkedin: https://www.linkedin.com/company/86838274
+    added_at: '2026-11-05T21:33:58.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hypercell Games
+    url: https://hypercell.games/
+    description: Mobile game studio making hyper-casual and casual games such as Sand Balls.
+    hq:
+      city: Riga
+      country: Latvia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Sand Balls
+    social:
+      instagram: https://www.instagram.com/hypercell.team/
+      linkedin: https://www.linkedin.com/company/hypercell-games/
+    added_at: '2026-11-05T21:33:58.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Parity
+    url: https://parity.is/
+    description: Studio making story-driven adventure games drawn from Icelandic nature and folklore, starting with Island of Winds.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Island of Winds
+    added_at: '2026-11-05T21:33:58.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Aska Studios
+    url: https://askastudios.is/
+    description: Remote-first studio making Gang of Frogs, a third-person co-op looter shooter.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Gang of Frogs
+    social:
+      linkedin: https://www.linkedin.com/company/askastudios/
+    added_at: '2026-11-05T21:33:58.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bunkhouse Games
+    url: https://bunkhouse.games/
+    description: Studio founded by industry veterans making co-op multiplayer games, starting with Flock Off!.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2024
+    notable:
+      - Flock Off!
+    added_at: '2026-11-05T21:33:58.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ghosts
+    url: https://www.phantomsparkgame.com/
+    description: Indie studio behind the time-trial racing game Phantom Spark.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Phantom Spark
+    added_at: '2026-11-05T21:33:58.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tasty Rook
+    url: https://triple-agent.com/
+    description: Studio behind Triple Agent!, a single-phone party game for groups.
+    hq:
+      country: Iceland
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Triple Agent!
+      - Out of the Loop
+    added_at: '2026-11-05T21:33:58.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Anego Studios
+    url: https://www.vintagestory.at/
+    description: Independent studio developing Vintage Story, a wilderness survival sandbox game.
+    hq:
+      city: Līvāni
+      country: Latvia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Vintage Story
+    added_at: '2026-11-05T21:33:58.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Estoty
+    url: https://estoty.com/
+    description: Mobile game studio making casual and hybrid-casual games.
+    hq:
+      city: Riga
+      country: Latvia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/estoty_games/
+      linkedin: https://www.linkedin.com/company/estotygames/
+    added_at: '2026-11-05T21:33:58.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Game Insight
+    url: https://www.game-insight.com/
+    description: Mobile and PC game developer behind Airport City, The Tribez and Guns of Boom.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2009
+    notable:
+      - Airport City
+      - The Tribez
+      - The New Mystery Manor
+      - Guns of Boom
+    added_at: '2026-11-05T21:33:58.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gamecan
+    url: https://gamecan.eu/
+    description: 'Game studio that moved from co-development work to its own titles, now making the 3v3 shooter Contenders: Arena.'
+    hq:
+      city: Pärnu
+      country: Estonia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'Contenders: Arena'
+    social:
+      instagram: https://www.instagram.com/gamecanteam/
+      linkedin: https://www.linkedin.com/company/gamecan/
+    added_at: '2026-11-05T21:33:58.643Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dirtybit
+    url: https://www.dirtybit.com/
+    description: Mobile game studio behind the Fun Run multiplayer racing series, with 150M+ downloads.
+    hq:
+      city: Bergen
+      country: Norway
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2011
+    notable:
+      - Fun Run
+      - Fun Run 4
+    added_at: '2026-11-05T21:33:58.644Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Hyper Games
+    url: https://www.hypergames.no/
+    description: 'Game studio making Moomin games, including Snufkin: Melody of Moominvalley and Moomintroll: Winter''s Warmth.'
+    hq:
+      city: Oslo
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Snufkin: Melody of Moominvalley'
+      - 'Moomintroll: Winter''s Warmth'
+    added_at: '2026-11-05T21:33:58.645Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Megapop
+    url: https://www.megapopgames.com/
+    description: Studio making strategy, puzzle and family games such as Trolls vs Vikings, Life Below and Kuub.
+    hq:
+      city: Oslo
+      country: Norway
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Trolls vs Vikings
+      - Life Below
+      - Kuub
+      - Haxity
+    added_at: '2026-11-05T21:33:58.646Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dreamfeel
+    url: https://dreamfeel.ie/
+    description: Studio behind If Found..., now developing the 3D adventure Bog Bodies.
+    hq:
+      country: Ireland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - If Found...
+      - Bog Bodies
+    social:
+      instagram: http://instagram.com/dreamfeelx
+    added_at: '2026-11-05T21:33:58.647Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ENIGMA STUDIO
+    url: https://www.enigmastud.io/
+    description: Indie studio making science-fiction horror games, including Mothered and Echostasis, now developing TÖLT.
+    hq:
+      city: Galway
+      country: Ireland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - The Enigma Machine
+      - Mothered
+      - Echostasis
+      - TÖLT
+    added_at: '2026-11-05T21:33:58.648Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: VOID Interactive
+    url: https://voidinteractive.net/
+    description: Studio behind Ready or Not, a tactical first-person shooter on PC and consoles.
+    hq:
+      city: Cork
+      country: Ireland
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Ready or Not
+    added_at: '2026-11-05T21:33:58.649Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Psychic Software
+    url: https://psychicsoftware.com/
+    description: Game studio making PC strategy and car-combat games such as The Lich Wars and War On Wheels.
+    hq:
+      city: Galway
+      country: Ireland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Lich Wars
+      - War On Wheels
+    social:
+      instagram: https://www.instagram.com/psychicsoftware/
+      linkedin: https://www.linkedin.com/company/18087712
+    added_at: '2026-11-05T21:33:58.650Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ananki Game Studio
+    url: https://www.ananki.no/
+    description: Small independent studio behind The Fate of Baldr, a third-person tower defense game based on Norse mythology.
+    hq:
+      city: Oslo
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Fate of Baldr
+    added_at: '2026-11-05T21:33:58.651Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pixfork Games
+    url: https://www.pixfork.com/
+    description: Small studio making retro-styled games, including the mobile arcade game Neon Zone and the horror game On Tape << Rewind.
+    hq:
+      city: Nesoddtangen
+      country: Norway
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2022
+    notable:
+      - Neon Zone
+      - Ascending
+      - On Tape << Rewind
+    added_at: '2026-11-05T21:33:58.652Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SimDevs
+    url: https://simdevs.com/
+    description: Solo indie studio making physics puzzle and casual games such as Area 86 and Property Pro.
+    hq:
+      country: Latvia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Area 86
+      - Property Pro
+      - Pawsky
+      - ZapStick
+    added_at: '2026-11-05T21:33:58.653Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Chilling Moose
+    url: https://chillingmoose.com/
+    description: Small studio making logic puzzle and creative tool games, including Ruby's Realms and Axiom of Stars.
+    hq:
+      country: Estonia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - Ruby's Realms
+      - Axiom of Stars
+    added_at: '2026-11-05T21:33:58.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Placeholder Gameworks
+    url: https://placeholder.games/
+    description: Small indie studio making story-driven games, including Death and Taxes and the merchant sim CraftCraft.
+    hq:
+      country: Estonia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Death and Taxes
+      - CraftCraft
+      - Broken Alliance
+    added_at: '2026-11-05T21:33:58.655Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sun Studio
+    url: https://www.sun.studio/
+    description: Mobile and web game developer with 40+ casual titles and over 10 million monthly players.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2018
+    added_at: '2026-11-05T21:33:58.656Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Spirit Bomb
+    url: https://spiritbomb.co/
+    description: 'Mobile game developer and publisher of action and shooter games, including Sky Champ: Space Shooter.'
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - 'Sky Champ: Space Shooter'
+    added_at: '2026-11-05T21:33:58.657Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Horus Productions
+    url: https://horusent.com/
+    description: Mobile game studio making military FPS and car combat games with over 1 billion installs.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'World War: Fight For Freedom'
+      - 'War Zone: Fight For Homeland'
+      - 'Sky Defense: War Duty'
+      - 'Racing Fury: Car Battle PvP'
+    added_at: '2026-11-05T21:33:58.658Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

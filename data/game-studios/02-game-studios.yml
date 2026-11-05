@@ -7,6 +7,7 @@ studios:
       country: China
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -186,6 +187,7 @@ studios:
       country: Czech Republic
     segments:
       - aa
+      - simulation
     platforms:
       - pc
       - console
@@ -459,6 +461,7 @@ studios:
       country: Italy
     segments:
       - aa
+      - simulation
     platforms:
       - pc
       - console
@@ -750,6 +753,7 @@ studios:
     segments:
       - co-dev
       - ugc
+      - kids-edu
     platforms:
       - web
     size: small

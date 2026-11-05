@@ -404,6 +404,7 @@ studios:
         country: New Zealand
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     founded: 2014
@@ -509,6 +510,7 @@ studios:
     segments:
       - indie
       - mobile
+      - kids-edu
     size: small
     founded: 2011
     careers: https://arsanesia.com/career/
@@ -960,6 +962,7 @@ studios:
     segments:
       - mobile
       - vr
+      - simulation
     platforms:
       - mobile
       - vr

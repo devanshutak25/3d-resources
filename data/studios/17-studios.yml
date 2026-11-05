@@ -283,6 +283,7 @@ studios:
       - virtual-production
       - experiential
       - xr
+      - scanning
     markets:
       - film
       - episodic
@@ -313,6 +314,7 @@ studios:
       - experiential
       - xr
       - live-action
+      - interactive
     markets:
       - brand
       - advertising
@@ -798,6 +800,8 @@ studios:
       - archviz
       - cg
       - xr
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
     url_last_verified: '2026-11-01'
@@ -920,6 +924,8 @@ studios:
       country: Norway
     disciplines:
       - archviz
+    markets:
+      - real-estate
     founded: 2000
     added_at: '2026-10-31T05:09:10.957Z'
     url_status: ok
@@ -956,6 +962,7 @@ studios:
     disciplines:
       - xr
       - vfx
+      - scanning
     markets:
       - film
       - advertising

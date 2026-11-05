@@ -167,6 +167,7 @@ studios:
       - 2d-animation
       - 3d-animation
       - motion-design
+      - ai-production
     markets:
       - advertising
       - brand
@@ -238,6 +239,7 @@ studios:
       - cg
       - motion-design
       - experiential
+      - interactive
     markets:
       - brand
       - advertising
@@ -342,6 +344,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     size: small
     added_at: '2026-10-30T21:40:17.280Z'
     url_status: ok
@@ -409,6 +412,7 @@ studios:
       - experiential
       - cg
       - motion-design
+      - interactive
     markets:
       - brand
       - advertising
@@ -975,6 +979,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
     size: large

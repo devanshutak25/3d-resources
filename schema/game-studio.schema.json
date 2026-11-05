@@ -64,7 +64,7 @@
       "maxItems": 30
     },
     "segments": {
-      "description": "What kind of game studio. aaa: big-budget / first-party; aa: mid-size; co-dev: co-development, work-for-hire, porting; ugc: Roblox, Fortnite UEFN, Minecraft Marketplace.",
+      "description": "What kind of game studio. aaa: big-budget / first-party; aa: mid-size; co-dev: co-development, work-for-hire, porting; ugc: Roblox, Fortnite UEFN, Minecraft Marketplace; kids-edu: kids and educational games; simulation: driving, flight, farming, trucking and other sims.",
       "type": "array",
       "minItems": 1,
       "maxItems": 3,
@@ -77,7 +77,9 @@
           "mobile",
           "co-dev",
           "vr",
-          "ugc"
+          "ugc",
+          "kids-edu",
+          "simulation"
         ]
       }
     },

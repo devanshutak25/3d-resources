@@ -824,6 +824,7 @@ studios:
       country: Brazil
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     notable:

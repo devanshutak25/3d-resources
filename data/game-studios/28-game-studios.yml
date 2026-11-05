@@ -299,6 +299,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -639,6 +640,7 @@ studios:
       country: Spain
     segments:
       - mobile
+      - kids-edu
     platforms:
       - mobile
     notable:
@@ -748,6 +750,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -788,6 +791,7 @@ studios:
       country: Netherlands
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     parent: Motorsport Games
@@ -897,6 +901,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

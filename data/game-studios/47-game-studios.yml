@@ -1,0 +1,906 @@
+studios:
+  - name: ArtDock Games
+    url: https://games.artdock.studio/
+    description: Studio making original co-op and party games such as Pao Pao, SOS OPS! and Lootbound for PC and consoles.
+    hq:
+      city: Chișinău
+      country: Moldova
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Pao Pao
+      - SOS OPS!
+      - Lootbound
+      - Penguin Helper
+    social:
+      instagram: https://www.instagram.com/artdock_games
+      linkedin: https://www.linkedin.com/company/artdock/
+      youtube: https://www.youtube.com/@ArtDock_Studio
+    added_at: '2026-11-05T21:33:58.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Overseer Games
+    url: https://www.overseer-games.com/
+    description: Independent developer and publisher of city-building games such as Kaiserpunk, Patron and Aquatico.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Kaiserpunk
+      - Patron
+      - Aquatico
+    social:
+      instagram: https://www.instagram.com/overseer_publishing/
+      youtube: https://www.youtube.com/channel/UCjrjVWsS3D76bzQdcMt_aGA
+    added_at: '2026-11-05T21:33:58.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 2x2 Games
+    url: https://2x2.hr/
+    description: Independent studio behind the Unity of Command series of operational-level WWII strategy games.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Unity of Command
+      - Unity of Command II
+    added_at: '2026-11-05T21:33:58.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Protopixel
+    url: https://protopixel.hr/
+    description: Unreal and Unity studio that co-develops games with Free Range Games and makes the multiplayer skate game Wrekless.
+    hq:
+      city: Zagreb
+      country: Croatia
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - vr
+    founded: 2013
+    notable:
+      - Wrekless
+      - 'The Lord of the Rings: Return to Moria'
+      - Virtual Sports
+    added_at: '2026-11-05T21:33:58.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Exordium Games
+    url: https://exordiumgames.com/
+    description: Game studio that has made 100+ PC and mobile games plus advergames and other client projects.
+    hq:
+      city: Zagreb
+      country: Croatia
+    segments:
+      - indie
+      - mobile
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 2014
+    added_at: '2026-11-05T21:33:58.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Misfit Village
+    url: https://www.misfitvillage.com/
+    description: Indie studio behind the SCP horror game Go Home Annie, released on PC and PlayStation.
+    hq:
+      city: Novska
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Go Home Annie
+      - Tainted Fate
+      - SickBrick
+    social:
+      instagram: https://www.instagram.com/misfitvillage/
+      youtube: https://www.youtube.com/user/TheMisfitVillage
+    added_at: '2026-11-05T21:33:58.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: The-Mark Entertainment
+    url: https://the-mark.com/
+    description: Indie developer of the cozy cabin-building game Log Away and narrative horror titles.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Log Away
+    social:
+      instagram: https://www.instagram.com/themarkentertainment/
+      linkedin: https://www.linkedin.com/company/themarkentertainment/
+      youtube: https://www.youtube.com/@TheMarkEntertainment
+    added_at: '2026-11-05T21:33:58.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Acodeon Development
+    url: https://acodeon.com/
+    description: Independent studio making its own games, such as Chaos on Wheels, and offering game design and art services.
+    hq:
+      city: Osijek
+      country: Croatia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Chaos on Wheels
+    added_at: '2026-11-05T21:33:58.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Gungrounds
+    url: https://gungrounds.com/
+    description: 'Independent studio making arcade and action games such as Spitfire: Inferno and Rocking Pilot.'
+    hq:
+      city: Zagreb
+      country: Croatia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2016
+    notable:
+      - 'Spitfire: Inferno'
+      - Rocking Pilot
+    added_at: '2026-11-05T21:33:58.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Key Boar Studios
+    url: https://keyboarstudios.hr/
+    description: Indie studio making PC, mobile, AR and VR games, including The Planet of Good Deeds.
+    hq:
+      city: Novska
+      country: Croatia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - vr
+    notable:
+      - The Planet of Good Deeds
+    social:
+      linkedin: https://www.linkedin.com/company/keyboarstudios
+    added_at: '2026-11-05T21:33:58.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Turing Studio
+    url: https://turingstudio.eu/
+    description: Game studio making its own titles such as Crispy Circuits and Roots of Fury, plus advergames and co-development.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Crispy Circuits
+      - Roots of Fury
+      - 'Eden: Discovery'
+    social:
+      linkedin: https://www.linkedin.com/company/turingstudio/
+      youtube: https://www.youtube.com/@Turingstudio
+    added_at: '2026-11-05T21:33:58.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cateia Games
+    url: https://cateia.com/
+    description: Developer of casual adventure and puzzle games released on mobile, PC, Switch, Xbox and PlayStation.
+    hq:
+      country: Croatia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    added_at: '2026-11-05T21:33:58.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Panzer Division Games
+    url: https://www.panzerdivisiongames.com/
+    description: 'Studio making streamlined WWII strategy games such as On War: Stalingrad and Attack at Dawn: North Africa.'
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'On War: Stalingrad'
+      - 'Attack at Dawn: North Africa'
+    social:
+      instagram: https://www.instagram.com/panzer_division_games/
+    added_at: '2026-11-05T21:33:58.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Mipmap
+    url: https://www.mipmap.hr/
+    description: Studio making digital adaptations of tabletop board games such as Point Salad and Canvas.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Point Salad
+      - Canvas
+    added_at: '2026-11-05T21:33:58.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: GameGlis
+    url: https://gameglis.com/
+    description: 2D game studio that makes its own titles and helps other teams ship 2D games.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'Covert Koalas: Phasco Solutions'
+      - Air Hares
+      - Sages of Vandaleria
+    social:
+      instagram: https://www.instagram.com/gameglis/
+      linkedin: https://www.linkedin.com/company/gameglis
+    added_at: '2026-11-05T21:33:58.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fragile Software
+    url: https://www.fragile-software.com/
+    description: Small studio behind the combat racing game Barely Racing for PC and mobile.
+    hq:
+      city: Belgrade
+      country: Serbia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Barely Racing
+    added_at: '2026-11-05T21:33:58.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Entertainment Forge
+    url: https://www.entertainmentforgestudio.com/
+    description: Small indie studio making hand-drawn strategy and story games such as Gladiator Guild Manager.
+    hq:
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Gladiator Guild Manager
+    added_at: '2026-11-05T21:33:58.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: LucaciuStudio
+    url: https://lucaciustudio.com/
+    description: Indie studio making relaxing mosaic puzzle games, including the DayDream Mosaics series on Steam.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - DayDream Mosaics
+      - 'DayDream Mosaics 2: Juliette''s Tale'
+      - 'Daydream Mosaics 5: Crimson Veil'
+    social:
+      instagram: https://www.instagram.com/lucaciustudio/
+    added_at: '2026-11-05T21:33:58.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Neonhex
+    url: https://www.neonhex.com/
+    description: Mobile studio founded by game veterans, maker of the chess puzzle game Nexus Chess.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Nexus Chess
+    added_at: '2026-11-05T21:33:58.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: neverGames
+    url: https://final-factory.com/
+    description: Indie studio behind Final Factory, a co-op space factory game where every station can fly.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Final Factory
+    added_at: '2026-11-05T21:33:58.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sand Sailor Studio
+    url: https://www.sandsailorstudio.com/
+    description: Developer of ASKA, a Viking survival tribe-building game for PC.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - ASKA
+    added_at: '2026-11-05T21:33:58.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tractor Set GO!
+    url: https://tractorsetgo.com/
+    description: 'Full-cycle game developer making its own IP and client games, including SpaceLab Simulator and Sunfall: Children of Adiona.'
+    hq:
+      city: Cluj-Napoca
+      country: Romania
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - SpaceLab Simulator
+      - 'Sunfall: Children of Adiona'
+      - Time Raiders
+    social:
+      linkedin: https://www.linkedin.com/company/tractor-set-go
+      youtube: https://www.youtube.com/tractorsetgo
+    added_at: '2026-11-05T21:33:58.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ATRA Productions
+    url: https://atraproductions.com/
+    description: Senior-led game development and co-development studio founded by the former CEO of AMC.
+    hq:
+      country: Romania
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    social:
+      linkedin: https://www.linkedin.com/company/atra-productions
+    added_at: '2026-11-05T21:33:58.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Critique Gaming
+    url: https://critique-gaming.com/
+    description: Indie studio behind the narrative puzzle game Interrogation and the strategy game Domains of Dusk.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Interrogation: You Will Be Deceived'
+      - Good Morning AI
+      - Domains of Dusk
+    social:
+      instagram: https://www.instagram.com/critiquegaming
+    added_at: '2026-11-05T21:33:58.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Flat Hill Games
+    url: https://www.flathillgames.com/
+    description: Small indie studio making VR games such as Clash of Chefs VR and The Mixologist.
+    hq:
+      country: Romania
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    founded: 2018
+    notable:
+      - Clash of Chefs VR
+      - The Mixologist
+    added_at: '2026-11-05T21:33:58.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dream Primer
+    url: https://www.dreamprimer.com/
+    description: Game studio working on the action RPG Eternium and the upcoming action RPG Astera.
+    hq:
+      country: Romania
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Eternium
+      - Astera
+    social:
+      youtube: https://www.youtube.com/@dreamprimer
+    added_at: '2026-11-05T21:33:58.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Funtaptic
+    url: https://funtaptic.com/
+    description: Unity porting and co-development studio that has supported 100+ games on console, PC and mobile stores.
+    hq:
+      country: Romania
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    added_at: '2026-11-05T21:33:58.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Green Horse Games
+    url: https://greenhorsegames.com/
+    description: Mobile developer of multiplayer social sports games such as Football Rivals.
+    hq:
+      country: Romania
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Football Rivals
+    social:
+      instagram: https://www.instagram.com/green.horse.games/
+      linkedin: https://www.linkedin.com/company/green-horse-games/
+    added_at: '2026-11-05T21:33:58.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Webelinx Games
+    url: https://webelinxgames.com/
+    description: Mobile game developer with a team of 100+ making story-driven casual games.
+    hq:
+      city: Niš
+      country: Serbia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-05T21:33:58.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: RETROMAGINE
+    url: https://www.retromagine.com/
+    description: Small indie studio making original pixel-art games that mix retro genres with modern gameplay.
+    hq:
+      city: Novi Sad
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+    added_at: '2026-11-05T21:33:58.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: PowerPlay Studio
+    url: https://www.powerplay.studio/
+    description: Slovak mobile game developer of sports and idle titles such as Biathlon Mania, Athletics Mania and Post Apo Tycoon.
+    hq:
+      country: Slovakia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2007
+    careers: https://www.powerplay.studio/careers
+    notable:
+      - Biathlon Mania
+      - 'Athletics Mania: Track & Field'
+      - Post Apo Tycoon
+      - Tour de France Cycling Legends
+    social:
+      instagram: https://www.instagram.com/powerplay_studio_pps/
+      linkedin: https://www.linkedin.com/company/powerplay-studio/
+      youtube: https://www.youtube.com/user/Powerplaymanagercom
+    added_at: '2026-11-05T21:33:58.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Games Farm
+    url: https://www.games-farm.com/
+    description: 'Independent developer of premium action RPGs for PC and consoles, including Vikings: Wolves of Midgard and Jotunnslayer: Hordes of Hel.'
+    hq:
+      city: Košice
+      country: Slovakia
+    segments:
+      - aa
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://www.games-farm.com/jobs.html
+    notable:
+      - 'Jotunnslayer: Hordes of Hel'
+      - 'Vikings: Wolves of Midgard'
+      - 'Shadows: Heretic Kingdoms'
+    social:
+      linkedin: https://sk.linkedin.com/company/games-farm
+      youtube: https://www.youtube.com/channel/UCuaqp9hQxrOSvvmKxX3wTPw
+    added_at: '2026-11-05T21:33:58.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Laser Focus Games
+    url: https://www.laserfocus.games/
+    description: Independent studio making competitive multiplayer PvP sports and strategy games for mobile.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2023
+    notable:
+      - Buzzer Beater
+      - Touchdown
+      - Homerun
+      - 'Knights: Medieval PvP Game'
+    added_at: '2026-11-05T21:33:58.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Impact Games
+    url: https://www.impactgames.eu/
+    description: Non-profit studio making educational games and gamified school programmes on media literacy and social topics.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2019
+    notable:
+      - Chicken Intelligence Agency
+      - Who is Helena?
+      - Heritage Quest AR
+    social:
+      instagram: https://www.instagram.com/impactgames.eu/
+      linkedin: https://www.linkedin.com/company/impact-games-eu/
+    added_at: '2026-11-05T21:33:58.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Collision Games
+    url: https://collision.games/
+    description: Indie studio behind the open-world game Vivat Slovakia, now making the co-op extraction horror game Expendabots.
+    hq:
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+    founded: 2019
+    notable:
+      - Vivat Slovakia
+      - Expendabots
+    social:
+      linkedin: https://linkedin.com/company/collisiongames
+    added_at: '2026-11-05T21:33:58.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bitmap Galaxy
+    url: https://www.preserve-game.com/
+    description: Small Slovak studio behind Preserve, a nature-building puzzle game about placing plants and animals into ecosystems.
+    hq:
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Preserve
+    social:
+      instagram: https://www.instagram.com/preservegame/
+      youtube: https://www.youtube.com/@PreserveGame
+    added_at: '2026-11-05T21:33:58.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Incidental Minds
+    url: https://incidentalminds.com/
+    description: Indie studio making story-driven and strategy games on real-world topics, including Grayton the Detective.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Grayton the Detective
+      - House them all!
+      - Peace B(e)low
+      - Off Stage
+    social:
+      instagram: https://www.instagram.com/incidentalminds/
+    added_at: '2026-11-05T21:33:58.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Atomic Realm
+    url: https://www.atomicrealm.com/
+    description: Mobile and mixed reality game developer that also ports titles to Nintendo Switch and makes game art for other studios.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - mobile
+      - co-dev
+      - vr
+    platforms:
+      - mobile
+      - console
+      - vr
+    notable:
+      - Ship Battles
+      - Squabble
+      - Aaand Boom!
+    added_at: '2026-11-05T21:33:58.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: SquareNite
+    url: https://www.squarenite.com/
+    description: Indie studio behind Darfall, a hero-based RPG city builder for PC.
+    hq:
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Darfall
+    social:
+      instagram: https://www.instagram.com/squarenite/
+      youtube: https://www.youtube.com/@squarenite
+    added_at: '2026-11-05T21:33:58.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Doublequote Studio
+    url: https://www.doublequotestudio.com/
+    description: Two-brother indie studio making illustrated story games such as the cyberpunk heist RPG HeistGeist.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - HeistGeist
+      - Blood will be Spilled
+    added_at: '2026-11-05T21:33:58.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: ARTillery
+    url: https://www.artillery.sk/
+    description: Small indie studio behind Niborea and Catie in MeowmeowLand, now making the roguelike strategy game Rogue General.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Catie in MeowmeowLand
+      - Niborea
+      - Rogue General
+    added_at: '2026-11-05T21:33:58.490Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: GAMETHERAPY
+    url: https://gametherapy.eu/
+    description: Developer of science-based therapeutic VR games for healthcare, such as the claustrophobia app ClaustrOFF.
+    hq:
+      city: Nitra
+      country: Slovakia
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - ClaustrOFF
+      - NeuroBoostVR
+    social:
+      instagram: https://www.instagram.com/gametherapy.eu/
+      linkedin: https://www.linkedin.com/company/gametherapy-s-r-o/
+    added_at: '2026-11-05T21:33:58.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: AB Games
+    url: https://ab-games.com/
+    description: Free-to-play hidden object game developer behind Hidden City, played by over a million people daily.
+    hq:
+      country: Ukraine
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Hidden City
+    social:
+      linkedin: https://www.linkedin.com/company/11389759
+      artstation: https://www.artstation.com/ab_games
+    added_at: '2026-11-05T21:33:58.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: FIGHT4DREAM
+    url: https://www.fight4dream.com/
+    description: Indie VR and AR game studio making VR arcade titles, VR training and branded immersive experiences.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    founded: 2013
+    notable:
+      - Edge Of Arena
+      - MADrift
+      - Space Crisis VR
+      - Frankenstein VR
+    social:
+      instagram: https://www.instagram.com/fight4dream
+    added_at: '2026-11-05T21:33:58.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 3MINDWAVE
+    url: https://www.3mindwave.com/
+    description: Game developer making VR and arcade games, including titles built for Sega Amusements.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Alpha OPS VR Strike
+      - Apex Rebels
+      - ATV Slam
+      - StormRider 2
+    added_at: '2026-11-05T21:33:58.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Dusklight Games
+    url: https://en.dusklightgames.com/
+    description: Indie studio making rhythm and roguelike games for mobile, PC and Switch.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2019
+    notable:
+      - Lyrica
+      - Noah's Bottle
+      - Zoeti
+      - 'Rhythm Witch: Beat Death'
+    added_at: '2026-11-05T21:33:58.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Silver Lining Studio
+    url: https://silverliningstudio.co/
+    description: Indie studio behind the painted narrative puzzle game Behind the Frame.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Akatsuki Taiwan
+    notable:
+      - 'Behind the Frame: The Finest Scenery'
+    social:
+      instagram: https://instagram.com/silverlining_ww
+    added_at: '2026-11-05T21:33:58.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Starry Seaweed Game Studio
+    url: https://www.starryseaweed.com/
+    description: Micro indie studio making small narrative-driven games for PC.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Grayscale Memories
+      - Artificial Wings
+    added_at: '2026-11-05T21:33:58.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Grid Sage Games
+    url: https://www.gridsagegames.com/
+    description: One-person studio making the sci-fi roguelike Cogmind and the ASCII art tool REXPaint.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cogmind
+    added_at: '2026-11-05T21:33:58.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: WANIN International
+    url: https://www.wanin.tw/
+    description: Entertainment group that develops and publishes online and mobile games, with esports and film units.
+    hq:
+      city: Taichung
+      country: Taiwan
+    offices:
+      - city: Taipei
+        country: Taiwan
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/wanintw/
+    added_at: '2026-11-05T21:33:58.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

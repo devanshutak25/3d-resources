@@ -68,6 +68,7 @@ studios:
       country: France
     segments:
       - aa
+      - simulation
     platforms:
       - pc
       - console
@@ -399,6 +400,7 @@ studios:
       country: France
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -664,6 +666,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console

@@ -42,6 +42,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -450,6 +451,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -540,6 +542,7 @@ studios:
       country: Austria
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -852,6 +855,7 @@ studios:
       country: Germany
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:
@@ -874,6 +878,7 @@ studios:
       country: Poland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
     notable:

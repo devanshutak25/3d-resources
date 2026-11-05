@@ -255,6 +255,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     size: small
     founded: 2006
     notable:
@@ -975,6 +976,7 @@ studios:
       - motion-design
       - cg
       - xr
+      - interactive
     markets:
       - brand
       - advertising

@@ -1,0 +1,920 @@
+studios:
+  - name: auer Media & Entertainment
+    url: https://www.auer.com.tw/en
+    description: Mobile game developer that has shipped hundreds of Java games and over 40 smartphone titles.
+    hq:
+      country: Taiwan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2001
+    added_at: '2026-11-05T21:33:58.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio Klondike
+    url: https://www.klondike.studio/
+    description: Indie developer of story-rich visual novels and card games with furry and kemono characters.
+    hq:
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Nekojishi
+      - 'Nekojishi: Lin & Partners'
+      - Astatos
+      - 'Beek: Familiar Spirit'
+    social:
+      instagram: https://www.instagram.com/studioklondike/
+    added_at: '2026-11-05T21:33:58.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: 1+1 Game Studios
+    url: https://1plus1gamestudios.com/
+    description: Indie studio making co-op games for PC.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Duo Quest
+    social:
+      instagram: https://www.instagram.com/1plus1studios
+      linkedin: https://www.linkedin.com/company/1plus1studios/
+    added_at: '2026-11-05T21:33:58.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Nerdook Productions
+    url: https://nerdook-productions.com/
+    description: One-person studio making procedurally generated strategy and roguelike games for PC.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Monster Slayers
+      - The Magister
+      - Rogue AI Simulator
+      - Cyberpunk Inquisitor
+    social:
+      instagram: https://www.instagram.com/nerdook.games/
+    added_at: '2026-11-05T21:33:58.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Secret Base
+    url: https://secretbase.sg/
+    description: Indie developer of retro arcade action games for PC and console.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2010
+    notable:
+      - 'Double Dragon Gaiden: Rise of the Dragons'
+      - 'Streets of Red: Devil''s Dare Deluxe'
+      - Tobe's Vertical Adventure
+    added_at: '2026-11-05T21:33:58.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Reckoner Industries
+    url: https://reckoner.industries/
+    description: Independent game and software studio making puzzle and simulation games for PC.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Signal State
+      - Filemu
+    added_at: '2026-11-05T21:33:58.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Trueworld Studios
+    url: https://trueworldstudios.com/
+    description: Unreal Engine studio building its own PC shooter plus co-development, animation and XR work.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - UNYIELDER
+    social:
+      linkedin: https://www.linkedin.com/company/74358989/
+    added_at: '2026-11-05T21:33:58.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Digital Confectioners
+    url: https://www.digitalconfectioners.com/
+    description: Independent studio making online multiplayer games for PC and console.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2007
+    careers: https://www.digitalconfectioners.com/careers/
+    notable:
+      - Dread Hunger
+      - Depth
+      - Keelblade
+      - Packmates
+    added_at: '2026-11-05T21:33:58.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Beer Night Studio
+    url: https://www.beernightstudio.com/
+    description: Independent game studio making narrative PC games.
+    hq:
+      city: Ulaanbaatar
+      country: Mongolia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Carnival Hunt
+      - Fragile
+    social:
+      instagram: https://www.instagram.com/beernightstudio/
+      linkedin: https://www.linkedin.com/company/beer-night-studio/
+    added_at: '2026-11-05T21:33:58.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lionrock Studio
+    url: https://www.lionrockstudio.com/
+    description: Indie studio behind the mobile trivia and focus game Super Focus.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Super Focus
+    added_at: '2026-11-05T21:33:58.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Studio 19B
+    url: https://studio19b.com/
+    description: Roblox game studio making fashion-themed experiences such as Fashion Runway, plus kids courses in game creation.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+    founded: 2025
+    notable:
+      - Fashion Runway
+    social:
+      instagram: https://www.instagram.com/gratitude.studio19b/
+    added_at: '2026-11-05T21:33:58.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OPNeon Games
+    url: https://opneon.com/
+    description: Indie developer of the management game TCG Card Shop Simulator and mobile card and battle games.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - TCG Card Shop Simulator
+      - Idle Card Shop Tycoon
+      - Megabot Battle Arena
+    added_at: '2026-11-05T21:33:58.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bandai Namco Studios Malaysia
+    url: https://www.bandainamcostudios.my/
+    description: Bandai Namco Studios subsidiary producing game art and development for the group's console titles.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    segments:
+      - aaa
+      - co-dev
+    platforms:
+      - console
+      - pc
+    parent: Bandai Namco Studios
+    founded: 2016
+    social:
+      linkedin: https://www.linkedin.com/company/bandai-namco-studios-malaysia
+      artstation: https://www.artstation.com/bandainamcostudiosmy
+    added_at: '2026-11-05T21:33:58.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: CtrlD Studio
+    url: https://ctrldstudio.com/
+    description: Small game studio that shipped a mobile game and now builds its own title, Overhours.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Overhours
+    social:
+      instagram: https://www.instagram.com/ctrld.studio
+    added_at: '2026-11-05T21:33:58.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Psychoflow Studio
+    url: https://psychoflowstudio.com/
+    description: Two-person indie studio that co-developed the physics platformer Bionic Bay and makes Unity tools.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - Bionic Bay
+    added_at: '2026-11-05T21:33:58.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Lager Network Technologies
+    url: https://www.lager.com.tw/
+    description: Long-running developer and operator of online and mobile games, including Fairyland Online and King of Kings.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 1999
+    notable:
+      - Fairyland Online
+      - King of Kings 3
+      - Rock Zombie
+      - Fairyland World
+    added_at: '2026-11-05T21:33:58.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Twitchy Finger
+    url: https://www.twitchyfinger.com/
+    description: Mobile game developer and publisher with more than 16 million downloads across its casual and racing titles.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - APEX Racer
+      - Mini Legend
+      - Furball Rampage
+    social:
+      linkedin: https://www.linkedin.com/company/twitchy-finger-ltd/
+    added_at: '2026-11-05T21:33:58.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sukeban Games
+    url: https://sukeban.moe/
+    description: Venezuelan indie studio making visual novels and bartending sims, known for VA-11 Hall-A.
+    hq:
+      country: Venezuela
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - VA-11 Hall-A
+    social:
+      youtube: https://www.youtube.com/@sukeban498
+    added_at: '2026-11-05T21:33:58.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Selva Interactive
+    url: https://selvainteractive.com/
+    description: Two-person indie game studio from Guatemala making Illuminaria and Nanuleu for PC, Switch and mobile.
+    hq:
+      city: Guatemala City
+      country: Guatemala
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Illuminaria
+      - Nanuleu
+      - Highwind
+      - Tale of the Dragon Army
+    social:
+      linkedin: https://www.linkedin.com/company/selva-interactive
+      x: https://twitter.com/selvaint
+    added_at: '2026-11-05T21:33:58.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Platano Team
+    url: https://www.platanoteam.com/
+    description: Independent Puerto Rican studio making 2D pixel-art games for PC and Nintendo platforms.
+    hq:
+      country: Puerto Rico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    added_at: '2026-11-05T21:33:58.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Pichon Games
+    url: https://www.pichongames.com/
+    description: Small indie studio in Puerto Rico making story-rich 2D games, creator of The Bunny Graveyard series.
+    hq:
+      country: Puerto Rico
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - The Bunny Graveyard
+    social:
+      instagram: https://www.instagram.com/pichongames
+    added_at: '2026-11-05T21:33:58.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Boomware Studio
+    url: https://boomware.pe/
+    description: Peruvian studio making free-to-play tycoon, idle and casual mobile games, with over 30 million downloads.
+    hq:
+      country: Peru
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Cafe Panic: Cooking Game'
+      - 'Billionaire Chef: Idle Tycoon'
+      - Cinema Panic 3
+    social:
+      linkedin: https://www.linkedin.com/company/boomware-studio
+    added_at: '2026-11-05T21:33:58.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Plop! Studio
+    url: https://games.plopstudio.com/
+    description: Lima game studio making mobile racing games, advergames and interactive experiences, including the official Dakar Rally game.
+    hq:
+      city: Lima
+      country: Peru
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - web
+    notable:
+      - Dakar Rally
+      - Waifu Arena
+      - Dark Rally
+    social:
+      linkedin: https://www.linkedin.com/company/plop-studio
+      youtube: https://www.youtube.com/@PlopStudio
+    added_at: '2026-11-05T21:33:58.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Chicha Games
+    url: https://chichagames.com/
+    description: Lima game studio making games rooted in Peruvian street culture, creator of the free combi driving game Crazy Combi.
+    hq:
+      city: Lima
+      country: Peru
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - web
+      - mobile
+      - pc
+    notable:
+      - Crazy Combi
+    added_at: '2026-11-05T21:33:58.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Curse Box Studios
+    url: https://www.curseboxstudios.com/
+    description: Uruguayan indie studio making survival horror and visual novel games, plus contract games for third parties.
+    hq:
+      country: Uruguay
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Attack Helicopter Dating Simulator
+      - Eyes Over Us
+      - Bleeding Border
+    added_at: '2026-11-05T21:33:58.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Killasoft
+    url: https://killasoft.com/
+    description: Indie studio from Barranquilla making story-driven games such as the noir stealth game The Shadow Syndicate.
+    hq:
+      city: Barranquilla
+      country: Colombia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Shadow Syndicate
+      - INNER
+    added_at: '2026-11-05T21:33:58.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Slashware Interactive
+    url: https://slashware.games/
+    description: Medellín indie studio making single-player strategy and roguelike games such as NovaMundi.
+    hq:
+      city: Medellín
+      country: Colombia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - NovaMundi
+    social:
+      youtube: https://www.youtube.com/channel/UCeAQxahPlR5KYqwSwoI4Phg
+      x: https://twitter.com/slashwareint
+    added_at: '2026-11-05T21:33:58.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: KickStone Studio
+    url: https://kickstonestudio.com/
+    description: Santiago indie studio making action and roguelite games, creator of MineGeon and Realm of Idlers.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'MineGeon: Renegades'
+      - 'MineGeon: Space Mining Dungeon'
+      - Realm of Idlers
+      - Frogit
+    social:
+      instagram: https://www.instagram.com/kickstonestudio/
+      youtube: https://www.youtube.com/@kickstonestudio
+    added_at: '2026-11-05T21:33:58.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Kemono Games
+    url: http://kemonogames.com/
+    description: Santiago indie studio making arcade-inspired games, creator of the shoot 'em up ProtoCorgi.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - ProtoCorgi
+    social:
+      instagram: https://www.instagram.com/kemonogames/
+      x: https://twitter.com/kemonogames
+    added_at: '2026-11-05T21:33:58.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Spoonman Games
+    url: http://www.spoonmangames.cl/
+    description: Small Chilean indie studio making the extreme platformer Linked Mask and the physics-driven JRPG Eteriu.
+    hq:
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Linked Mask
+    added_at: '2026-11-05T21:33:58.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Cangrejo Ideas
+    url: https://www.cangrejoideas.com/
+    description: Chilean game developer with over 170 mobile and HTML5 games built for clients, now making original IPs.
+    hq:
+      country: Chile
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2013
+    notable:
+      - 'Aura: Echoes of Pain'
+    social:
+      instagram: https://www.instagram.com/cangrejoideas
+      linkedin: https://www.linkedin.com/company/cangrejo-ideas
+    added_at: '2026-11-05T21:33:58.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Tiny Bytes
+    url: https://www.tinybytes.com/
+    description: Remote-first mobile game developer and publisher with a Santiago address, maker of the multiplayer war game Massive Warfare.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Massive Warfare: Aftermath'
+    social:
+      linkedin: https://www.linkedin.com/company/tinybytes
+      instagram: https://www.instagram.com/massivewarfaregame/
+    added_at: '2026-11-05T21:33:58.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ánimas Games
+    url: http://animasgames.cl/
+    description: La Serena game developer making action RPGs and brawlers such as Arauco Saga and Brutal Dinosaur.
+    hq:
+      city: La Serena
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Arauco Saga
+      - Brutal Dinosaur
+    social:
+      instagram: https://www.instagram.com/animasgames/
+    added_at: '2026-11-05T21:33:58.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Raincup Games
+    url: https://www.raincupgames.com/
+    description: Chilean indie studio making non-violent adventure games such as Jumpy Paws and Cafe Dahlia.
+    hq:
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Jumpy Paws: World Adventures'
+    added_at: '2026-11-05T21:33:58.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Blyts
+    url: https://en.blyts.com/
+    description: Argentine indie game company making adventure and card games, including Kelvin and the Infamous Machine and the Nobodies series.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2008
+    notable:
+      - Kelvin and the Infamous Machine
+      - 'Nobodies: Murder Cleaner'
+      - 'Nobodies: Silent Blood'
+      - 'Nobodies: After Death'
+    added_at: '2026-11-05T21:33:58.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: OGS
+    url: https://theogs.dev/
+    description: Argentine game engineering studio doing co-development, porting, optimization and remasters for console, PC and mobile.
+    hq:
+      country: Argentina
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    social:
+      instagram: https://www.instagram.com/theoriginal.gangsters/
+      linkedin: https://www.linkedin.com/company/theogs/
+    added_at: '2026-11-05T21:33:58.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Timba Games
+    url: https://www.timba.co/
+    description: Medellín game studio offering work-for-hire development, art and staffing for game projects.
+    hq:
+      city: Medellín
+      country: Colombia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/timba/
+      youtube: https://www.youtube.com/@timbagames
+    added_at: '2026-11-05T21:33:58.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fryos Studios
+    url: https://fryosstudios.com/
+    description: Colombian studio making mobile games, VR training simulations and event experiences with Unity and Godot.
+    hq:
+      country: Colombia
+    segments:
+      - mobile
+      - co-dev
+      - vr
+    platforms:
+      - mobile
+      - pc
+      - vr
+    social:
+      instagram: https://www.instagram.com/fryosstudios/
+      linkedin: https://www.linkedin.com/company/fryos-studios/
+    added_at: '2026-11-05T21:33:58.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Fockagames
+    url: http://fockagames.com/
+    description: Mexico City game studio making PC and VR titles such as the horror game La Llorona Wants Your Soul.
+    hq:
+      city: Mexico City
+      country: Mexico
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+      - mobile
+    notable:
+      - La Llorona Wants Your Soul
+      - DMD Mars Mission
+    added_at: '2026-11-05T21:33:58.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Patoli Studio
+    url: https://patolistudio.com/
+    description: Independent Mexican studio with over seven years of mobile puzzle and adventure games, now moving to PC.
+    hq:
+      country: Mexico
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Cat Tower
+      - Pick a Pet
+      - Oli Pop
+    social:
+      instagram: https://www.instagram.com/patolistudio/
+    added_at: '2026-11-05T21:33:58.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Carbon Machina
+    url: https://www.carbonmachina.com/
+    description: Mexican art-house game developer making the isometric adventure American Trail and the roguelite Heaven Crawler.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - American Trail
+    added_at: '2026-11-05T21:33:58.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Scout Game Studios
+    url: https://scoutgamestudios.com/
+    description: San José indie studio making PC and PlayStation games, including Oscuro Blossom's Glow with Hongoneon.
+    hq:
+      city: San José
+      country: Costa Rica
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Oscuro Blossom's Glow
+      - Flute The Snake Charmer
+    social:
+      instagram: https://www.instagram.com/scoutgamestudios/
+    added_at: '2026-11-05T21:33:58.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: TuanisApps
+    url: https://www.tuanisapps.com/
+    description: Costa Rican game studio making PC, Switch and mobile games such as Toziuha Night and Panzer Planet.
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Toziuha Night: Order of the Alchemists'
+      - Panzer Planet
+      - Twig's Adventure 64
+    social:
+      instagram: https://www.instagram.com/tuanisapps
+    added_at: '2026-11-05T21:33:58.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Ludumify
+    url: https://www.ludumify.com/
+    description: Costa Rican indie studio making fast-paced PC games such as the 2D action game Musasabi.
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Musasabi
+    added_at: '2026-11-05T21:33:58.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Round Two Games
+    url: https://www.guardianoflore.com/
+    description: Quito indie team behind Guardian of Lore, a 2.5D action platformer based on Native American folktales.
+    hq:
+      city: Quito
+      country: Ecuador
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Guardian of Lore
+    social:
+      instagram: https://www.instagram.com/r2gstudio/
+    added_at: '2026-11-05T21:33:58.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bigfoot Gaming
+    url: https://bigfootgaming.net/
+    description: 'Argentine mobile game studio making casual and licensed games such as Doctor Who: Lost in Time and Temple Run: Idle Explorers.'
+    hq:
+      country: Argentina
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2014
+    notable:
+      - 'Doctor Who: Lost in Time'
+      - 'Temple Run: Idle Explorers'
+      - Whack Wars
+      - Pocket Politics 2
+    social:
+      instagram: https://www.instagram.com/bigfoot.gaming/
+      linkedin: https://www.linkedin.com/company/bigfoot-gaming/
+    added_at: '2026-11-05T21:33:58.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Bloodious Games
+    url: https://bloodious.games/
+    description: Argentine studio behind the first-person psychological horror game MADiSON and its VR version.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - MADiSON
+      - MADiSON VR
+    social:
+      instagram: https://www.instagram.com/madisonvideogame/
+      youtube: https://www.youtube.com/c/MADiSONVideogame
+    added_at: '2026-11-05T21:33:58.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Montraluz
+    url: https://www.montraluz.com/
+    description: Argentine indie studio behind Dreamcore, a liminal-space exploration horror game for PC, PlayStation 5 and Xbox.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2023
+    notable:
+      - Dreamcore
+    social:
+      instagram: https://www.instagram.com/montraluz
+      linkedin: https://www.linkedin.com/company/montraluz
+    added_at: '2026-11-05T21:33:58.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Sureksu
+    url: http://sureksu.com/en/
+    description: Córdoba studio making kids, educational, VR and advergames plus its own IP such as Blink and Die and Mazerat.
+    hq:
+      city: Córdoba
+      country: Argentina
+    segments:
+      - kids-edu
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - vr
+    notable:
+      - Blink and Die
+      - Mazerat
+      - Khoros
+    social:
+      instagram: https://www.instagram.com/sureksugames/
+      youtube: https://www.youtube.com/channel/UCH59b20nQjlzusIgFIAtn7g
+    added_at: '2026-11-05T21:33:58.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+  - name: Startreming Games
+    url: https://startreming.com/
+    description: Mendoza game studio making original games such as LocoSoccer and Wave Rider, plus work-for-hire and staff augmentation.
+    hq:
+      city: Mendoza
+      country: Argentina
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 2014
+    notable:
+      - LocoSoccer 2
+      - Wave Rider
+    social:
+      instagram: https://instagram.com/startreming/
+      linkedin: https://www.linkedin.com/company/startreming/
+    added_at: '2026-11-05T21:33:58.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-05'

@@ -529,6 +529,7 @@ studios:
       country: Switzerland
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console
@@ -722,6 +723,7 @@ studios:
       country: United Kingdom
     segments:
       - aa
+      - simulation
     platforms:
       - pc
     parent: Sega

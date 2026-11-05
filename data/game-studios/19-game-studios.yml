@@ -608,6 +608,7 @@ studios:
     segments:
       - mobile
       - indie
+      - simulation
     platforms:
       - mobile
       - console

@@ -15,12 +15,15 @@ const DISCIPLINES = {
   'virtual-production': 'Virtual production',
   'live-action': 'Live action',
   'cg': 'CG / 3D',
+  'ai-production': 'AI production',
   'product-viz': 'Product viz',
   'archviz': 'Arch viz',
   'cinematics': 'Game cinematics',
   'outsourcing': 'Outsourcing',
   'mocap': 'Mocap',
-  'xr': 'XR / interactive',
+  'scanning': 'Scanning / volumetric',
+  'xr': 'XR (AR / VR)',
+  'interactive': 'Interactive / WebGL',
   'experiential': 'Experiential'
 };
 
@@ -31,7 +34,9 @@ const MARKETS = {
   'advertising': 'Advertising',
   'music-video': 'Music video',
   'games': 'Games',
-  'brand': 'Brand'
+  'brand': 'Brand',
+  'real-estate': 'Real estate & architecture',
+  'medical-science': 'Medical & science'
 };
 
 // Game studios (/game-studios/): segment + platform labels. Keys match schema/game-studio.schema.json.
@@ -43,7 +48,9 @@ const SEGMENTS = {
   'mobile': 'Mobile',
   'co-dev': 'Co-dev / porting',
   'vr': 'VR / XR',
-  'ugc': 'UGC (Roblox, UEFN)'
+  'ugc': 'UGC (Roblox, UEFN)',
+  'kids-edu': 'Kids & education',
+  'simulation': 'Simulation'
 };
 
 const PLATFORMS = { 'pc': 'PC', 'console': 'Console', 'mobile': 'Mobile', 'vr': 'VR', 'web': 'Web' };
@@ -64,7 +71,7 @@ const COUNTRY_REGION = {
   'Argentina': 'americas', 'Brazil': 'americas', 'Canada': 'americas', 'Chile': 'americas',
   'Colombia': 'americas', 'Costa Rica': 'americas', 'Dominican Republic': 'americas', 'Ecuador': 'americas', 'Mexico': 'americas',
   'Peru': 'americas', 'Puerto Rico': 'americas', 'United States': 'americas', 'Uruguay': 'americas',
-  'Venezuela': 'americas',
+  'Bolivia': 'americas', 'Guatemala': 'americas', 'Panama': 'americas', 'Venezuela': 'americas',
 
   'Armenia': 'europe', 'Austria': 'europe', 'Belarus': 'europe', 'Belgium': 'europe',
   'Bosnia and Herzegovina': 'europe', 'Bulgaria': 'europe', 'Croatia': 'europe', 'Cyprus': 'europe',
@@ -83,14 +90,15 @@ const COUNTRY_REGION = {
   'Japan': 'asia-pacific', 'Malaysia': 'asia-pacific', 'Nepal': 'asia-pacific',
   'New Zealand': 'asia-pacific', 'Pakistan': 'asia-pacific', 'Philippines': 'asia-pacific',
   'Singapore': 'asia-pacific', 'South Korea': 'asia-pacific', 'Sri Lanka': 'asia-pacific',
-  'Taiwan': 'asia-pacific', 'Thailand': 'asia-pacific', 'Vietnam': 'asia-pacific',
+  'Cambodia': 'asia-pacific', 'Mongolia': 'asia-pacific', 'Myanmar': 'asia-pacific', 'Taiwan': 'asia-pacific', 'Thailand': 'asia-pacific', 'Vietnam': 'asia-pacific',
 
-  'Cameroon': 'middle-east-africa', 'Egypt': 'middle-east-africa', 'Ethiopia': 'middle-east-africa', 'Ghana': 'middle-east-africa', 'Iran': 'middle-east-africa',
-  'Israel': 'middle-east-africa', 'Jordan': 'middle-east-africa', 'Kenya': 'middle-east-africa',
-  'Lebanon': 'middle-east-africa', 'Morocco': 'middle-east-africa', 'Nigeria': 'middle-east-africa',
+  'Algeria': 'middle-east-africa', 'Bahrain': 'middle-east-africa', 'Cameroon': 'middle-east-africa', 'Egypt': 'middle-east-africa', 'Ethiopia': 'middle-east-africa', 'Ghana': 'middle-east-africa', 'Iran': 'middle-east-africa', 'Iraq': 'middle-east-africa',
+  'Israel': 'middle-east-africa', 'Jordan': 'middle-east-africa', 'Kenya': 'middle-east-africa', 'Kuwait': 'middle-east-africa',
+  'Lebanon': 'middle-east-africa', 'Mauritius': 'middle-east-africa', 'Morocco': 'middle-east-africa', 'Nigeria': 'middle-east-africa',
   'Qatar': 'middle-east-africa', 'Saudi Arabia': 'middle-east-africa',
   'South Africa': 'middle-east-africa', 'Tanzania': 'middle-east-africa', 'Tunisia': 'middle-east-africa',
-  'United Arab Emirates': 'middle-east-africa'
+  'United Arab Emirates': 'middle-east-africa', "Côte d'Ivoire": 'middle-east-africa', 'Senegal': 'middle-east-africa',
+  'Uganda': 'middle-east-africa', 'Zambia': 'middle-east-africa', 'Zimbabwe': 'middle-east-africa'
 };
 
 function regionOf(country) {

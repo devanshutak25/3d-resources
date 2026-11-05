@@ -275,6 +275,7 @@ studios:
       - xr
       - mocap
       - experiential
+      - interactive
     markets:
       - advertising
       - games
@@ -298,6 +299,7 @@ studios:
     markets:
       - advertising
       - brand
+      - medical-science
     social:
       instagram: https://www.instagram.com/trikenstudios/
       youtube: https://www.youtube.com/channel/UCmu69p1WKwk2UR1hcmZBPzQ
@@ -993,6 +995,7 @@ studios:
       - cg
       - 3d-animation
       - experiential
+      - interactive
     markets:
       - advertising
       - music-video

@@ -300,6 +300,7 @@ studios:
       country: Japan
     segments:
       - aa
+      - simulation
     platforms:
       - console
       - pc
@@ -484,6 +485,7 @@ studios:
     segments:
       - co-dev
       - aa
+      - simulation
     platforms:
       - console
       - pc

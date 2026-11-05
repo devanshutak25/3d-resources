@@ -165,7 +165,7 @@ outsourcing, cinematics), `/game-studios/` = game developers. A URL may live in 
   Read/write via `catalog.loadStudios(kind)` / `loadStudioChunks(kind)` / `appendStudio(s, kind)` /
   `saveStudioChunk(file, list, kind)`, kind = `'studios'` (default) or `'game-studios'` (`catalog.STUDIO_KINDS`).
 - **Game studios** (`schema/game-studio.schema.json`): same fields minus `disciplines`/`markets`, plus
-  `segments` (required, 1-3, closed: `aaa`, `aa`, `indie`, `mobile`, `co-dev`, `vr`, `ugc`), `platforms`
+  `segments` (required, 1-3, closed: `aaa`, `aa`, `indie`, `mobile`, `co-dev`, `vr`, `ugc`, `kids-edu`, `simulation`; last two added 2026-11-05), `platforms`
   (closed: `pc`, `console`, `mobile`, `vr`, `web`), `parent` (owner, string). `notable` = shipped games.
   Labels `SEGMENTS`/`PLATFORMS` in `scripts/lib/studios.js`; segment pills use `.d-<segment>` colors (keys must
   not collide with disciplines, test checks). Card rows: Platforms, Part of, Games. Extra group-by: Parent company.
@@ -178,11 +178,14 @@ outsourcing, cinematics), `/game-studios/` = game developers. A URL may live in 
   Optional: `offices[]`, `markets[]`, `size`, `founded`, `careers`,
   `reel`, `notable[]` (≤4), `social{instagram,linkedin,vimeo,youtube,x,behance,artstation}`,
   `url_status`, `url_last_verified`, `notes`.
-- `disciplines` (closed, 17): `2d-animation`, `3d-animation` (split from `animation` 2026-10-31), `stop-motion`,
+- `disciplines` (closed, 20): `2d-animation`, `3d-animation` (split from `animation` 2026-10-31), `stop-motion`,
   `vfx`, `motion-design`, `cg`, `archviz`, `product-viz`, `cinematics`, `virtual-production`, `previs`,
-  `xr`, `experiential`, `title-design`, `live-action`, `outsourcing`, `mocap`. Labels + chip order in
+  `xr`, `experiential`, `title-design`, `live-action`, `outsourcing`, `mocap`, + `interactive` (WebGL / 3D web /
+  configurators / interactive installs), `ai-production` (gen-AI-first film/ad studios), `scanning` (photogrammetry,
+  4D, volumetric) added 2026-11-05. `xr` label is now "XR (AR / VR)"; it used to read "XR / interactive". Labels + chip order in
   `scripts/lib/studios.js` (grouped by hue family); colors are `.d-<key>` `--dc` rules in style.css.
-- `markets` (closed, 6, card label "Works for"): `film`, `episodic`, `advertising`, `music-video`, `games`, `brand`.
+- `markets` (closed, 8, card label "Works for"): `film`, `episodic`, `advertising`, `music-video`, `games`, `brand`,
+  `real-estate` (every `archviz` studio carries it), `medical-science` (pharma, med-device, science, forensic/legal).
 - `size` (closed, LinkedIn "Company size" ranges): `boutique` 1-10, `small` 11-50, `mid` 51-200, `large` 201+.
   Source = LinkedIn range, never the associated-members count. Old ≤20/21-150/150+ values were dropped except `large`.
 - studios.test.js asserts schema == labels for disciplines, markets, sizes, segments, platforms. Same no-invent rule as catalog enums.
@@ -358,18 +361,25 @@ left open, remove when done.
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
-- `/studios/` 1,911 (84 countries; archviz 253, product viz 158) and `/game-studios/` 2,102 (75 countries) on
-  2026-11-05. Goal is every studio worldwide. Still thin: previs 16 (Previs Society site down, PLF/NVIZ dead),
-  mocap 43, Live2D/VTuber rigging 3 (no Live2D discipline, tagged `2d-animation`), 0 rows for Ecuador,
-  Venezuela, Belarus, Malta, Moldova, Montenegro, Tunisia. Japan production 156 (game 232).
-- Round 4 (2026-11-05, +313 / +204) rows were verified by agents + a main-session HTTP probe only. Weak spots
-  flagged in `notes:`: city-less rows (~30), `notable`/`founded` from Wikidata or agent knowledge, Live2D rows.
-  Leads not added: CEE Animation directory (ceeanimation.eu, 353 studios; Slovak/Croatian/Slovenian/Serbian/
-  Ukrainian studios unchecked), WayForward + 1047 Games (TLS refuse scripted fetches), VIXI (Tokyo, live-action
-  CM/MV, no CG evidence), flightgraf (JS-only site).
-- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,216 of 2,102), so
+- `/studios/` 2,357 (95 countries) and `/game-studios/` 2,550 (94 countries) on 2026-11-06, after round 4 (other
+  session, 2026-11-05) and this session's gap fill + country fill were merged. Disciplines: archviz 351, product viz 188,
+  interactive 134, VP 96, mocap 62, AI production 36, scanning 28, previs 22; markets: real-estate 352, medical-science 52;
+  games: simulation 97, kids-edu 62, UGC 41, VR 75, web 95. Japan production 162 (game 232).
+- Goal is every studio worldwide. Still thin: previs 22 (Previs Society site down, PLF/NVIZ/Nvizage dead), digital fashion 0
+  (The Fabricant, DRESSX are software now), Live2D/VTuber rigging 3 (no Live2D discipline, tagged `2d-animation`),
+  Saudi/Qatar archviz 0. Countries under 20: 65 in /studios/, 60 in /game-studios/ (many are 1-2 row countries added
+  2026-11-06; small markets like Malta, Iceland, Bosnia, Moldova may never reach 20). 0 rows: Montenegro, Kosovo, Albania.
+- Round 4 (+313 / +204), gap fill (2026-11-05) and country fill (2026-11-06) rows were verified by agents + a main-session
+  HTTP probe only. The two runs overlapped on 134 studios; round 4 rows were kept and gained the new enum values.
+  Weak spots: ~30 round-4 + ~240 gap/country-fill rows are country-only HQ; none of the new rows have `size` (LinkedIn
+  blocked); `notable`/`founded` partly from Wikidata or agent knowledge. Leads not added: CEE Animation directory
+  (ceeanimation.eu, 353 studios), WayForward + 1047 Games (TLS refuse scripted fetches), VIXI (Tokyo, live-action, no CG
+  evidence), flightgraf (JS-only site). Round 4 rows were not re-tagged for `interactive`/`scanning`/`ai-production`/
+  `medical-science`/`kids-edu`/`simulation` beyond the name lists (archviz rows did get `real-estate`).
+- Check status: The Mill and Mikros Animation (both hit by the Technicolor collapse, Feb 2025) still read `url_status: ok`.
+- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,471 of 2,550), so
   mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
-  LOW-confidence segment fixes (no live source). Size only 267/2,102. 84 Russia-HQ Wikidata studios skipped
+  LOW-confidence segment fixes (no live source). Size only 267/2,550. 84 Russia-HQ Wikidata studios skipped
   (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
   Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
 - 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,

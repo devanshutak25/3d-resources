@@ -261,6 +261,7 @@ studios:
       - archviz
     markets:
       - brand
+      - real-estate
     founded: 2017
     notable:
       - Gardens Residence
@@ -309,6 +310,7 @@ studios:
     markets:
       - advertising
       - brand
+      - real-estate
     careers: https://www.transparenthouse.com/jobs
     notable:
       - Logitech Pro Racing Wheel
@@ -352,6 +354,7 @@ studios:
       - mocap
       - virtual-production
       - experiential
+      - scanning
     markets:
       - film
       - advertising
@@ -541,6 +544,7 @@ studios:
     disciplines:
       - cg
       - vfx
+      - ai-production
     markets:
       - advertising
       - film
@@ -558,6 +562,7 @@ studios:
       country: United States
     disciplines:
       - cg
+      - ai-production
     markets:
       - advertising
     notable:
@@ -575,6 +580,7 @@ studios:
     disciplines:
       - cg
       - live-action
+      - ai-production
     markets:
       - advertising
       - film
@@ -592,6 +598,7 @@ studios:
     disciplines:
       - 2d-animation
       - 3d-animation
+      - ai-production
     markets:
       - episodic
     notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.
@@ -610,6 +617,7 @@ studios:
     markets:
       - episodic
       - brand
+      - medical-science
     founded: 2013
     notable:
       - 'Kurzgesagt: In a Nutshell (YouTube)'
@@ -868,6 +876,7 @@ studios:
     disciplines:
       - experiential
       - xr
+      - interactive
     markets:
       - brand
     notes: Site live-checked 2026-11-03; HQ and description from search results and model knowledge, not the site text.

@@ -318,6 +318,7 @@ studios:
       country: Canada
     segments:
       - indie
+      - simulation
     platforms:
       - pc
       - console

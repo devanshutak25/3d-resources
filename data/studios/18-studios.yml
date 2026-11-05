@@ -308,6 +308,8 @@ studios:
       country: Switzerland
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.958Z'
     url_status: ok
     url_last_verified: '2026-11-01'
@@ -503,6 +505,7 @@ studios:
       - cg
       - 3d-animation
       - outsourcing
+      - scanning
     markets:
       - games
       - film
@@ -563,6 +566,7 @@ studios:
       - cg
       - mocap
       - xr
+      - scanning
     markets:
       - film
       - games
@@ -750,6 +754,8 @@ studios:
       country: Austria
     disciplines:
       - archviz
+    markets:
+      - real-estate
     added_at: '2026-10-31T05:09:10.959Z'
     url_status: ok
     url_last_verified: '2026-11-01'
