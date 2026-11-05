@@ -250,3 +250,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > close the open issue
 
 **Answered:** Issue #47 (suggest twirl, AI PBR material generator): verified site, added to §09 texture-material-generation (Freemium, web), committed, pushed, closed #47 with comment.
+
+**Prompt:** (2026-11-06)
+> update readme and commit please
+
+**Answered:** render-readme CI already committed eb9e8e1 (README has twirl); fresh local render identical, no README commit needed. Logged prompt only.
