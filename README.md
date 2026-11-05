@@ -42,7 +42,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Audio: SFX & Music Libraries](#audio-sfx--music-libraries) <span class="toc-count">(29 items)</span><br><small class="toc-desc">Free and paid SFX and music libraries for games, reels, and film.</small>
 - [Fonts](#fonts) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Font libraries, pairing tools, and type references.</small>
 - [Icons](#icons) <span class="toc-count">(32 items)</span><br><small class="toc-desc">Icon libraries and animation sets.</small>
-- [Game Assets](#game-assets) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Also listed under Game Development.</small>
+- [Game Assets](#game-assets) <span class="toc-count">(51 items)</span><br><small class="toc-desc">Free and paid game-ready asset sources. Also listed under Game Development.</small>
 
 </details>
 
@@ -56,7 +56,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Houdini: VEX & Coding](#houdini-vex--coding) <span class="toc-count">(12 items)</span><br><small class="toc-desc">VEX, Python, OpenCL, and scripting in Houdini.</small>
 - [Houdini: FX & Simulations](#houdini-fx--simulations) <span class="toc-count">(2 items)</span><br><small class="toc-desc">Vellum, FLIP, Pyro, and other simulation workflows.</small>
 - [Houdini: Rigging & Animation (KineFX)](#houdini-rigging--animation-kinefx) <span class="toc-count">(2 items)</span><br><small class="toc-desc">KineFX rigging, animation, and crowds.</small>
-- [Houdini: Miscellaneous Tutorials](#houdini-miscellaneous-tutorials) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Additional Houdini tutorials across topics.</small>
+- [Houdini: Miscellaneous Tutorials](#houdini-miscellaneous-tutorials) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Additional Houdini tutorials across topics.</small>
 - [Houdini: Plugins & Tools](#houdini-plugins--tools) <span class="toc-count">(34 items)</span><br><small class="toc-desc">Toolkits, pipeline tools, and HDAs.</small>
 - [Houdini: Courses & Free Content](#houdini-courses--free-content) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Structured courses for Houdini.</small>
 - [Houdini: Communities](#houdini-communities) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Forums, Discords, and tip archives.</small>
@@ -108,7 +108,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [After Effects: Learning & Templates](#after-effects-learning--templates) <span class="toc-count">(5 items)</span><br><small class="toc-desc">AE expressions, templates, and workflow resources.</small>
 - [Fusion (DaVinci Resolve): Learning](#fusion-davinci-resolve-learning) <span class="toc-count">(10 items)</span><br><small class="toc-desc">Fusion references and EXR workflow.</small>
 - [Motion Graphics: Inspiration](#motion-graphics-inspiration) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Showcases, style frames, title sequences, ad references.</small>
-- [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(45 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
+- [Motion Graphics: Tools & Utilities](#motion-graphics-tools--utilities) <span class="toc-count">(44 items)</span><br><small class="toc-desc">MG-specific tools and utilities.</small>
 
 </details>
 
@@ -126,7 +126,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Game Dev Tools: Dialogue & Narrative](#game-dev-tools-dialogue--narrative) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Dialogue, narrative scripting, and IF tools.</small>
 - [Game Dev Tools: Audio Middleware](#game-dev-tools-audio-middleware) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Adaptive audio and spatial audio middleware.</small>
 - [Game Dev Tools: Networking & Multiplayer](#game-dev-tools-networking--multiplayer) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Multiplayer frameworks and game servers.</small>
-- [Game Dev Tools: Sprite & VFX](#game-dev-tools-sprite--vfx) <span class="toc-count">(43 items)</span><br><small class="toc-desc">Sprite animation, 2D VFX, texture packers.</small>
+- [Game Dev Tools: Sprite & VFX](#game-dev-tools-sprite--vfx) <span class="toc-count">(44 items)</span><br><small class="toc-desc">Sprite animation, 2D VFX, texture packers.</small>
 - [Game Dev Tools: AI & Procedural Generation](#game-dev-tools-ai--procedural-generation) <span class="toc-count">(9 items)</span><br><small class="toc-desc">WFC, noise, procedural pipelines, economy design.</small>
 - [Game Dev Tools: Physics Engines](#game-dev-tools-physics-engines) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Open-source physics engines.</small>
 - [Game Dev Tools: Version Control](#game-dev-tools-version-control) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Version control for binary-heavy game projects.</small>
@@ -160,9 +160,9 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 <details>
 <summary><a href="#ai--machine-learning-for-cg">AI & Machine Learning for CG</a> <span class="toc-featured">ComfyUI · Stable Diffusion · Runway</span></summary>
 
-- [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(8 items)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
+- [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(7 items)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
 - [Image Generation](#image-generation) <span class="toc-count">(23 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
-- [Video Generation](#video-generation) <span class="toc-count">(39 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
+- [Video Generation](#video-generation) <span class="toc-count">(40 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
 - [3D Generation](#3d-generation) <span class="toc-count">(41 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
 - [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(10 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
@@ -201,7 +201,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [YouTube Channels: Sculpting & Characters](#youtube-channels-sculpting--characters) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Character and sculpting focused creators.</small>
 - [Paid Tutorial Platforms](#paid-tutorial-platforms) <span class="toc-count">(88 items)</span><br><small class="toc-desc">Subscription and course-based learning platforms.</small>
 - [Patreon Creators](#patreon-creators) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Creators on Patreon offering tutorials, files, and tips.</small>
-- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(154 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
+- [3D Communities & Forums](#3d-communities--forums) <span class="toc-count">(153 items)</span><br><small class="toc-desc">Cross-DCC CG communities.</small>
 - [3D Inspiration & Showcase](#3d-inspiration--showcase) <span class="toc-count">(42 items)</span><br><small class="toc-desc">Showcases, portfolios, and visual reference hubs.</small>
 - [Salary & Career Data](#salary--career-data) <span class="toc-count">(3 items)</span><br><small class="toc-desc">Salary data and studio review spreadsheets.</small>
 - [Industry Trends 2025-2026](#industry-trends-2025-2026) <span class="toc-count">(7 items)</span><br><small class="toc-desc">Current technology and market trends in CG.</small>
@@ -214,9 +214,9 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [3D Software: Free](#3d-software-free) <span class="toc-count">(22 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
 - [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
 - [3D Software: Paid](#3d-software-paid) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
-- [CAD Software](#cad-software) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
+- [CAD Software](#cad-software) <span class="toc-count">(24 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
 - [2D & Animation Software](#2d--animation-software) <span class="toc-count">(49 items)</span><br><small class="toc-desc">Digital painting, illustration, 2D animation.</small>
-- [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(44 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
+- [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(43 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
 - [Render Engines](#render-engines) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Production render engines across CPU, GPU, biased, and unbiased path tracers.</small>
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(44 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
 - [Audio Software](#audio-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
@@ -235,7 +235,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Scientific & Medical Visualization Software](#scientific--medical-visualization-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools, plus DCC bridges and educators.</small>
 - [Software Reference: Legacy & Defunct](#software-reference-legacy--defunct) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.</small>
 - [AI Image & Texture Generation Software](#ai-image--texture-generation-software) <span class="toc-count">(30 items)</span><br><small class="toc-desc">AI image generation and AI texture/material generation tools.</small>
-- [AI Video Generation Software](#ai-video-generation-software) <span class="toc-count">(32 items)</span><br><small class="toc-desc">AI text-to-video and image-to-video generation tools.</small>
+- [AI Video Generation Software](#ai-video-generation-software) <span class="toc-count">(33 items)</span><br><small class="toc-desc">AI text-to-video and image-to-video generation tools.</small>
 - [AI 3D Generation Software](#ai-3d-generation-software) <span class="toc-count">(32 items)</span><br><small class="toc-desc">AI text-to-3D, image-to-3D, and 3D-asset generation tools.</small>
 - [AI Audio & Music Generation Software](#ai-audio--music-generation-software) <span class="toc-count">(12 items)</span><br><small class="toc-desc">AI music, voice, and SFX generation tools.</small>
 - [AI Motion Capture Software](#ai-motion-capture-software) <span class="toc-count">(20 items)</span><br><small class="toc-desc">Markerless and AI-driven motion capture and pose estimation tools.</small>
@@ -650,6 +650,7 @@ Free and paid game-ready asset sources. Also listed under Game Development.
 - [GameArt2D](https://www.gameart2d.com/freebies.html). Free 2D game art pack collection.
 - [GameDev Market](https://www.gamedevmarket.net/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Game dev asset marketplace.
 - [GameDeveloperStudio](https://www.gamedeveloperstudio.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. 50,000+ hand-drawn 2D game assets in one consistent style: animated sprites, top-down tilesets, props and GUI packs, free and paid under one license.
+- [Gridwright Studio](https://gridwright.store/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Subscription library of pixel-art game asset packs with Godot, Tiled and RPG Maker files, plus browser tools that have free editions.
 - [Humble Bundle Game Dev](https://www.humblebundle.com/software) <span class="lic-pill lic-paid">Paid</span>. Periodic game dev bundles.
 - [itch.io Assets](https://itch.io/game-assets) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Indie game asset marketplace.
 - [Kay Lousberg](https://kaylousberg.com/). CC0 low-poly game assets.
@@ -970,6 +971,7 @@ KineFX rigging, animation, and crowds.
 Additional Houdini tutorials across topics.
 
 - [AI For Artists](https://github.com/kiryha/Houdini/wiki/AI-For-Artists). AI techniques applied to Houdini.
+- [Art Directing Paint Splashes](https://www.youtube.com/watch?v=aSmNuuprvi8). Houdini video tutorial by What I Found on art-directing paint splash simulations.
 - [Building Growth Animation](https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth). Building growth animation technique.
 - [Cloner Object](https://www.sidefx.com/tutorials/part-1-cloner-object/). SideFX tutorial on rebuilding the Cinema 4D MoGraph Cloner object in Houdini.
 - [Extracting Transform Matrices](https://vimeo.com/284712920). How to extract transform matrices.
@@ -1149,6 +1151,7 @@ Texture authoring, procedural materials, and baking tools.
 | [Rhino](https://www.rhino3d.com/) | NURBS-focused 3D modeling for architecture and product design. | $995 perpetual | Paid | NURBS · Grasshopper | NURBS modeling, architecture |
 | [Shapr3D](https://www.shapr3d.com/) | Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows. | Pro $299/yr | Paid | Touch-first · Cross-Platform | Tablet-first concept and product CAD |
 | [Siemens NX](https://plm.sw.siemens.com/en-US/nx/) | High-end product engineering CAD/CAM/CAE; NX X is the cloud SaaS variant. | Quote-based (perpetual, subscription, or token) | Paid | PLM · Industry Standard | Enterprise PLM and engineering |
+| [SolidCraft](https://solidcraft.io/) | Open-source parametric 3D CAD app written in Rust, with dimensioned sketches and an editable feature history, on desktop, in the browser and through MCP. |  | Open source | Open Source · Rust | Parametric parts with MCP automation |
 | [SolidWorks](https://www.solidworks.com/) | Mechanical CAD for engineers. | $2,820/yr | Paid | Mechanical CAD · Simulation | Mechanical engineering |
 | [Solvespace](https://solvespace.com/index.pl) | Parametric 3D CAD modeling tool. |  | Open source | Parametric · Lightweight | Lightweight parametric CAD |
 | [Vectorworks](https://www.vectorworks.net/) | CAD and BIM software line for architecture, landscape and stage lighting design. | Subscription | Paid | Subscription · BIM | Architecture and stage design |
@@ -1887,7 +1890,6 @@ Nuke creators, comp theory books, VFX breakdown sites, and industry magazines.
 | [KeenTools](https://keentools.io/) | Face and geometry tracking plus FaceBuilder for Blender, Nuke, AE, Houdini. | $18/mo or $179/yr per plugin (Studio $499/yr floating) | Paid | Face Tracking · VFX | Face/geo tracking for VFX |
 | [LiquiGen](https://jangafx.com/software/liquigen/) | Real-time liquid simulation. |  | Paid | Real-time Sim · Liquids | Game fluid effects |
 | [MadMapper](https://madmapper.com/) | Projection mapping software. |  | Paid | Projection Mapping · Live | Projection mapping |
-| [Magic Animator](https://magicanimator.com/) | Web-based animation creator. |  | Free tier | Web · Quick Anim | Quick animated graphics |
 | [Mocha Pro](https://borisfx.com/products/mocha-pro/) | Boris FX planar tracker for VFX. Roto, object removal, screen replacement, lens distortion. | $48/mo or $325/yr; perpetual from $765 | Paid | Industry Standard · Planar Tracking | Planar tracking, roto, screen replacement |
 | [Natron (community fork)](https://natrongithub.github.io/) | Free open-source node compositor, Nuke-like. |  | Open source | Node-based · Nuke-like | Indie VFX compositing |
 | [Nuke](https://www.foundry.com/products/nuke-family) | Industry-standard node-based compositing software by The Foundry. Free non-commercial version available. |  | Free tier |  |  |
@@ -2020,7 +2022,6 @@ MG-specific tools and utilities.
 | [Linearity Move](https://www.linearity.io/move/) | Motion design app for iPad and macOS that animates vector designs with custom motion paths and exports Lottie. | Free to start; paid plans | Free tier | iPad · Lottie |  |
 | [Lumit](https://lumitlab.com/) | Open-source compositing and motion graphics app with layers, graph editor, 100+ GPU effects, OFX hosting and After Effects project import. | Free; Pro $6/mo for relay collaboration and sync | Open source | AE Alternative · Beta |  |
 | [MadMapper](https://madmapper.com/) | Projection mapping software.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> |  | Paid | Projection Mapping · Live | Projection mapping |
-| [Magic Animator](https://magicanimator.com/) | Web-based animation creator.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> |  | Free tier | Web · Quick Anim | Quick animated graphics |
 | [Mocha Pro](https://borisfx.com/products/mocha-pro/) | Boris FX planar tracker for VFX. Roto, object removal, screen replacement, lens distortion.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a>, <a href="#matchmoving--camera-tracking">Tools, Pipeline & Utilities → Matchmoving & Camera Tracking</a></small> | $48/mo or $325/yr; perpetual from $765 | Paid | Industry Standard · Planar Tracking | Planar tracking, roto, screen replacement |
 | [Red Giant Complete](https://www.maxon.net/en/red-giant) | Maxon-owned VFX/motion suite. Trapcode, Magic Bullet, VFX Suite, Universe.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> | $85/mo or $639/yr | Paid | Plugin Suite · Motion Graphics | Motion graphics and VFX in AE/Premiere/Resolve |
 | [Resolume](https://resolume.com/software) | Live visuals and VJ software.<br><small class="see-also">See also: <a href="#vfx--compositing-software">Software Reference → VFX & Compositing Software</a></small> |  | Paid | VJ · Live Visuals | VJ, live visuals |
@@ -3065,6 +3066,7 @@ Sprite animation, 2D VFX, texture packers.
 - [Cheetah Texture Packer](https://github.com/scriptum/Cheetah-Texture-Packer). High efficient and fast 2D bin packing tool.
 - [Ez Sprite Sheet](https://github.com/z64me/EzSpriteSheet). Creates sprite sheets from animated GIFs.
 - [Fusion Character Animator](http://loopengo.free.fr/). Small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+- [GameShipKit](https://gameshipkit.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Browser tools for indie game devs, including 2D sprite rigging, sprite normal maps, an autotile generator and a 2D shader effect maker with Godot 4 and Unity export.
 - [GlueIT](https://github.com/Kavex/GlueIT) <span class="lic-pill lic-unknown" title="No license recorded for this entry">License unspecified</span>. Free Simple Spritesheet Tool.
 - [Jaconir Sprite Sheet Generator](https://jaconir.online/tools/sprite-sheet-generator). Browser sprite packer and slicer that builds texture atlases with PNG plus JSON, XML or CSS data for Godot, Unity and Phaser.
 - [Kavex's Spritesheet Maker](https://github.com/Kavex/Spritesheet-Maker). Free spritesheet maker to replace GlueIT. Has much newer export formats.
@@ -3654,7 +3656,6 @@ ML fundamentals and courses for CG artists.
 - [DINOv2](https://dinov2.metademolab.com/). Meta self-supervised vision features. Strong general-purpose image embeddings. Useful as backbone for CG ML tasks.
 - [Generative AI Genius 2024](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md). Free generative AI course material by Aishwarya Naresh Reganti.
 - [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385). Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
-- [Introduction to Generative AI Community Course](https://www.youtube.com/@iNeuroniNtelligence). Free community course on generative AI fundamentals by iNeuron.
 - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/). Meta research pipeline for text-to-3D. Combines AssetGen geometry with TextureGen materials. Paper and results.
 - [PyTorch3D](https://pytorch3d.org/). Meta FAIR library for 3D deep learning. Differentiable rendering, mesh ops, point cloud utils on PyTorch.
 
@@ -3718,7 +3719,7 @@ AI video generation platforms and models.
 | [Morphic](https://morphic.com/) | AI film studio for story-driven video.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Paid | Film Studio | Story-driven film |
 | [Pika 2.0](https://pika.art/) | Extended video gen with improved consistency.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Free tier | Extended Gen · Stylized | Stylized video |
 | [PixVerse](https://pixverse.ai/) | Style-specific modes (anime, 3D, realistic), character consistency.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Free tier | Style Modes · Consistency | Style-specific video gen |
-| [RefVid](https://refvid.com/) | Turns 1 to 5 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> | <span title="Pricing checked 2026-10-31">Free first clip, pay-as-you-go credits or monthly plans</span> | Free tier | Reference Images · Continuity | Consistent characters and products |
+| [RefVid](https://refvid.com/) | Turns 1 to 10 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> | <span title="Pricing checked 2026-10-31">Free first clip, pay-as-you-go credits or monthly plans</span> | Free tier | Reference Images · Continuity | Consistent characters and products |
 | [Runway Gen-4.5](https://runway.com/) | Motion brushes and scene consistency on the GWM-1 world model.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Free tier | Motion Brushes · Consistency | Motion control |
 | [Seedance 2.0 (ByteDance)](https://seed.bytedance.com/) | High raw quality video gen with audio. Tops the Artificial Analysis ranking.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Paid | Top Quality · Native Audio | Top raw quality |
 | [SeedVR2 (ByteDance)](https://github.com/ByteDance-Seed/SeedVR) | Open model that upscales and restores video and images in one diffusion step.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Open source | Open Source · Upscaling | Video restoration and upscaling |
@@ -3727,6 +3728,7 @@ AI video generation platforms and models.
 | [Stable Virtual Camera](https://github.com/Stability-AI/stable-virtual-camera) | Stability AI model that renders new camera views and camera-path videos from input images.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Free, non-commercial | Non-Commercial · Stability AI | Novel view synthesis |
 | [Veo 3.1 (Google DeepMind)](https://deepmind.google/models/veo/) | Top leaderboard, native audio, 60s+ clips.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Paid | Top Leaderboard · Native Audio | Top-quality video gen |
 | [Video2X](https://github.com/k4yt3x/video2x) | Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Open source | Open Source · Upscaling | Video upscaling and interpolation |
+| [VidGen Studio](https://vidgen.studio/) | Web app that blocks out every scene of a story as a 3D storyboard you can change in plain words, then films each approved scene with Veo 3.1, Kling or Seedance.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> | <span title="Pricing checked 2026-11-05">Free 3D storyboard, prepaid credits for AI video (model price plus 20%)</span> | Free tier | 3D Storyboard · Previs | Directing a multi-scene AI film before rendering |
 | [Vidu](https://www.vidu.com/) | 16s clips, strong human motion (Shengshu).<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Free tier | 16s · Human Motion | Long human-motion clips |
 | [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) | Cinematic MoE diffusion, 8GB+ VRAM. Open source.<br><small class="see-also">See also: <a href="#ai-video-generation-software">Software Reference → AI Video Generation Software</a></small> |  | Open source | Open Source · MoE Diffusion | Cinematic open-source video gen |
 
@@ -4181,7 +4183,7 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 | [Morphic](https://morphic.com/) | AI film studio for story-driven video. |  | Paid | Film Studio | Story-driven film |
 | [Pika 2.0](https://pika.art/) | Extended video gen with improved consistency. |  | Free tier | Extended Gen · Stylized | Stylized video |
 | [PixVerse](https://pixverse.ai/) | Style-specific modes (anime, 3D, realistic), character consistency. |  | Free tier | Style Modes · Consistency | Style-specific video gen |
-| [RefVid](https://refvid.com/) | Turns 1 to 5 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models. | <span title="Pricing checked 2026-10-31">Free first clip, pay-as-you-go credits or monthly plans</span> | Free tier | Reference Images · Continuity | Consistent characters and products |
+| [RefVid](https://refvid.com/) | Turns 1 to 10 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models. | <span title="Pricing checked 2026-10-31">Free first clip, pay-as-you-go credits or monthly plans</span> | Free tier | Reference Images · Continuity | Consistent characters and products |
 | [Runway Gen-4.5](https://runway.com/) | Motion brushes and scene consistency on the GWM-1 world model. |  | Free tier | Motion Brushes · Consistency | Motion control |
 | [Seedance 2.0 (ByteDance)](https://seed.bytedance.com/) | High raw quality video gen with audio. Tops the Artificial Analysis ranking. |  | Paid | Top Quality · Native Audio | Top raw quality |
 | [SeedVR2 (ByteDance)](https://github.com/ByteDance-Seed/SeedVR) | Open model that upscales and restores video and images in one diffusion step. |  | Open source | Open Source · Upscaling | Video restoration and upscaling |
@@ -4189,6 +4191,7 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 | [Stable Virtual Camera](https://github.com/Stability-AI/stable-virtual-camera) | Stability AI model that renders new camera views and camera-path videos from input images. |  | Free, non-commercial | Non-Commercial · Stability AI | Novel view synthesis |
 | [Veo 3.1 (Google DeepMind)](https://deepmind.google/models/veo/) | Top leaderboard, native audio, 60s+ clips. |  | Paid | Top Leaderboard · Native Audio | Top-quality video gen |
 | [Video2X](https://github.com/k4yt3x/video2x) | Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE. |  | Open source | Open Source · Upscaling | Video upscaling and interpolation |
+| [VidGen Studio](https://vidgen.studio/) | Web app that blocks out every scene of a story as a 3D storyboard you can change in plain words, then films each approved scene with Veo 3.1, Kling or Seedance. | <span title="Pricing checked 2026-11-05">Free 3D storyboard, prepaid credits for AI video (model price plus 20%)</span> | Free tier | 3D Storyboard · Previs | Directing a multi-scene AI film before rendering |
 | [Vidu](https://www.vidu.com/) | 16s clips, strong human motion (Shengshu). |  | Free tier | 16s · Human Motion | Long human-motion clips |
 | [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) | Cinematic MoE diffusion, 8GB+ VRAM. Open source. |  | Open source | Open Source · MoE Diffusion | Cinematic open-source video gen |
 
@@ -5105,7 +5108,7 @@ Subscription and course-based learning platforms.
 - [Blender 3D Architect](https://www.blender3darchitect.com/). News, tutorials and training for architectural visualization in Blender.
 - [Blender 3D: Noob to Pro/Python Scripting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Introduction). Python scripting chapter from the Blender 3D: Noob to Pro wikibook.
 - [Blender Beginner 3D Modeling Tutorial](https://www.youtube.com/@tutor4u). Beginner 3D modeling tutorials in Blender.
-- [Blender Secrets](https://www.3dsecrets.com/secrets). Hundreds of one-minute video tutorials, each on a specific Blender topic.
+- [Blender Secrets](https://www.3dsecrets.com/) <span class="lic-pill lic-paid">Paid</span>. Blender tips book of 2,000+ pages with 900+ one-minute bonus videos, sold alongside paid hard-surface and character courses.
 - [BOOST Foliage Performance ~ Joshua M Kerr](https://www.youtube.com/@JoshuaMKerr). Foliage performance via world position offset in materials.
 - [Build iOS app with Rive Animations](https://www.youtube.com/@DesignCodeTeam). Three-hour course on building a SwiftUI app with Rive animations.
 - [CG Cookie](https://www.youtube.com/@cg_cookie). Free Blender tutorials from CG Cookie.
@@ -5209,7 +5212,6 @@ Cross-DCC CG communities.
 - [<span aria-hidden="true">☕</span>Blender.Today](https://blender.community/c/today/). Community-driven Blender news, chat, and live streams! Stream playlist.
 - [<span aria-hidden="true">🌐</span> UnrealEngine5 ~ reddit](https://www.reddit.com/r/UnrealEngine5/). UE5 technical posts, rarely showcase.
 - [<span aria-hidden="true">🌐</span> Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/). Virtual production subreddit. LED stages and real-time workflows for movies and live events.
-- [<span aria-hidden="true">👨</span>🏽‍<span aria-hidden="true">🚀</span>Blender.Community](https://blender.community/c/). Community site for Blender users to share news, artwork and ask questions.
 - [<span aria-hidden="true">💬</span>blender.chat](https://blender.chat/). Official Blender chat server for artists and developers.
 - [<span aria-hidden="true">🔌</span> Developer Portal](https://developer.blender.org/). Blender development hub. Links to the DevTalk forum and the developers blog.
 - [<span aria-hidden="true">🖱️</span>Right-Click Select](https://blender.community/c/rightclickselect/). Got an idea for a feature that you think Blender absolutely must have?
@@ -5553,6 +5555,7 @@ Computer-aided design tools.
 | [Rhino](https://www.rhino3d.com/) | NURBS-focused 3D modeling for architecture and product design. | $995 perpetual | Paid | NURBS · Grasshopper | NURBS modeling, architecture |
 | [Shapr3D](https://www.shapr3d.com/) | Touch-first parametric/direct CAD on iPad, Vision Pro, Mac, and Windows. | Pro $299/yr | Paid | Touch-first · Cross-Platform | Tablet-first concept and product CAD |
 | [Siemens NX](https://plm.sw.siemens.com/en-US/nx/) | High-end product engineering CAD/CAM/CAE; NX X is the cloud SaaS variant. | Quote-based (perpetual, subscription, or token) | Paid | PLM · Industry Standard | Enterprise PLM and engineering |
+| [SolidCraft](https://solidcraft.io/) | Open-source parametric 3D CAD app written in Rust, with dimensioned sketches and an editable feature history, on desktop, in the browser and through MCP. |  | Open source | Open Source · Rust | Parametric parts with MCP automation |
 | [SolidWorks](https://www.solidworks.com/) | Mechanical CAD for engineers. | $2,820/yr | Paid | Mechanical CAD · Simulation | Mechanical engineering |
 | [Solvespace](https://solvespace.com/index.pl) | Parametric 3D CAD modeling tool. |  | Open source | Parametric · Lightweight | Lightweight parametric CAD |
 | [Vectorworks](https://www.vectorworks.net/) | CAD and BIM software line for architecture, landscape and stage lighting design. | Subscription | Paid | Subscription · BIM | Architecture and stage design |
@@ -5641,7 +5644,6 @@ VFX, compositing, and real-time simulation tools.
 | [KeenTools](https://keentools.io/) | Face and geometry tracking plus FaceBuilder for Blender, Nuke, AE, Houdini.<br><small class="see-also">See also: <a href="#matchmoving--camera-tracking">Tools, Pipeline & Utilities → Matchmoving & Camera Tracking</a></small> | $18/mo or $179/yr per plugin (Studio $499/yr floating) | Paid | Face Tracking · VFX | Face/geo tracking for VFX |
 | [LiquiGen](https://jangafx.com/software/liquigen/) | Real-time liquid simulation. |  | Paid | Real-time Sim · Liquids | Game fluid effects |
 | [MadMapper](https://madmapper.com/) | Projection mapping software.<br><small class="see-also">See also: <a href="#motion-graphics-tools--utilities">Motion Graphics & Video → Motion Graphics: Tools & Utilities</a></small> |  | Paid | Projection Mapping · Live | Projection mapping |
-| [Magic Animator](https://magicanimator.com/) | Web-based animation creator.<br><small class="see-also">See also: <a href="#motion-graphics-tools--utilities">Motion Graphics & Video → Motion Graphics: Tools & Utilities</a></small> |  | Free tier | Web · Quick Anim | Quick animated graphics |
 | [Mocha Pro](https://borisfx.com/products/mocha-pro/) | Boris FX planar tracker for VFX. Roto, object removal, screen replacement, lens distortion.<br><small class="see-also">See also: <a href="#motion-graphics-tools--utilities">Motion Graphics & Video → Motion Graphics: Tools & Utilities</a>, <a href="#matchmoving--camera-tracking">Tools, Pipeline & Utilities → Matchmoving & Camera Tracking</a></small> | $48/mo or $325/yr; perpetual from $765 | Paid | Industry Standard · Planar Tracking | Planar tracking, roto, screen replacement |
 | [Natron (community fork)](https://natrongithub.github.io/) | Free open-source node compositor, Nuke-like.<br><small class="see-also">See also: <a href="#motion-graphics-inspiration">Motion Graphics & Video → Motion Graphics: Inspiration</a></small> |  | Open source | Node-based · Nuke-like | Indie VFX compositing |
 | [Nuke](https://www.foundry.com/products/nuke-family) | Industry-standard node-based compositing software by The Foundry. Free non-commercial version available. |  | Free tier |  |  |
@@ -6415,7 +6417,7 @@ AI text-to-video and image-to-video generation tools.
 | [Morphic](https://morphic.com/) | AI film studio for story-driven video.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Paid | Film Studio | Story-driven film |
 | [Pika 2.0](https://pika.art/) | Extended video gen with improved consistency.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Free tier | Extended Gen · Stylized | Stylized video |
 | [PixVerse](https://pixverse.ai/) | Style-specific modes (anime, 3D, realistic), character consistency.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Free tier | Style Modes · Consistency | Style-specific video gen |
-| [RefVid](https://refvid.com/) | Turns 1 to 5 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> | <span title="Pricing checked 2026-10-31">Free first clip, pay-as-you-go credits or monthly plans</span> | Free tier | Reference Images · Continuity | Consistent characters and products |
+| [RefVid](https://refvid.com/) | Turns 1 to 10 reference photos of a character or product into video clips that keep the subject consistent across shots, running Kling, Seedance, Wan and other models.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> | <span title="Pricing checked 2026-10-31">Free first clip, pay-as-you-go credits or monthly plans</span> | Free tier | Reference Images · Continuity | Consistent characters and products |
 | [Runway Gen-4.5](https://runway.com/) | Motion brushes and scene consistency on the GWM-1 world model.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Free tier | Motion Brushes · Consistency | Motion control |
 | [Seedance 2.0 (ByteDance)](https://seed.bytedance.com/) | High raw quality video gen with audio. Tops the Artificial Analysis ranking.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Paid | Top Quality · Native Audio | Top raw quality |
 | [SeedVR2 (ByteDance)](https://github.com/ByteDance-Seed/SeedVR) | Open model that upscales and restores video and images in one diffusion step.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Open source | Open Source · Upscaling | Video restoration and upscaling |
@@ -6423,6 +6425,7 @@ AI text-to-video and image-to-video generation tools.
 | [Stable Virtual Camera](https://github.com/Stability-AI/stable-virtual-camera) | Stability AI model that renders new camera views and camera-path videos from input images.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Free, non-commercial | Non-Commercial · Stability AI | Novel view synthesis |
 | [Veo 3.1 (Google DeepMind)](https://deepmind.google/models/veo/) | Top leaderboard, native audio, 60s+ clips.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Paid | Top Leaderboard · Native Audio | Top-quality video gen |
 | [Video2X](https://github.com/k4yt3x/video2x) | Video upscaler and frame interpolator using Real-ESRGAN, Real-CUGAN and RIFE.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Open source | Open Source · Upscaling | Video upscaling and interpolation |
+| [VidGen Studio](https://vidgen.studio/) | Web app that blocks out every scene of a story as a 3D storyboard you can change in plain words, then films each approved scene with Veo 3.1, Kling or Seedance.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> | <span title="Pricing checked 2026-11-05">Free 3D storyboard, prepaid credits for AI video (model price plus 20%)</span> | Free tier | 3D Storyboard · Previs | Directing a multi-scene AI film before rendering |
 | [Vidu](https://www.vidu.com/) | 16s clips, strong human motion (Shengshu).<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Free tier | 16s · Human Motion | Long human-motion clips |
 | [Wan 2.2 (Alibaba)](https://huggingface.co/ali-vilab/Wan) | Cinematic MoE diffusion, 8GB+ VRAM. Open source.<br><small class="see-also">See also: <a href="#video-generation">AI & Machine Learning for CG → Video Generation</a></small> |  | Open source | Open Source · MoE Diffusion | Cinematic open-source video gen |
 
