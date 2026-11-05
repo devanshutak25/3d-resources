@@ -494,3 +494,27 @@ entries:
       - Open Source
       - CAD
     best_for: Parametric mechanical parts
+  - name: SolidCraft
+    url: https://solidcraft.io/
+    description: Open-source parametric 3D CAD app written in Rust, with dimensioned sketches and an editable feature history, on desktop, in the browser and through MCP.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      tech:
+        - mcp
+    added_at: '2026-11-05T15:02:34Z'
+    url_last_verified: '2026-11-05'
+    url_status: ok
+    readme_tags:
+      - Open Source
+      - Rust
+    best_for: Parametric parts with MCP automation

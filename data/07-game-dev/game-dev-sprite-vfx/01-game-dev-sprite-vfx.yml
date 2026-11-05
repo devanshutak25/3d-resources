@@ -557,3 +557,29 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.656Z'
+  - name: GameShipKit
+    url: https://gameshipkit.com/
+    added_at: '2026-11-05T15:02:34Z'
+    description: Browser tools for indie game devs, including 2D sprite rigging, sprite normal maps, an autotile generator and a 2D shader effect maker with Godot 4 and Unity export.
+    license: Freemium
+    entry_type: tool
+    pricing: Most tools free, Pro from $5 for 7 days or $59/yr
+    tags:
+      workflow:
+        - rigging
+        - texturing
+        - fx
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - godot
+        - unity
+    readme_tags:
+      - Browser
+      - 2D Sprites
+    best_for: 2D sprite rigs, normal maps and tilesets
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    pricing_last_verified: '2026-11-05'
