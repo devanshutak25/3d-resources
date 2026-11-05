@@ -10,7 +10,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **4,209 entries, 105 deprecated** across 12 sections / 150 subsections (2026-11-05). Public copy uses `catalog.publicCountLabel()` ("4,100+" on 2026-11-05), never a hardcoded number.
+- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **4,210 entries, 105 deprecated** across 12 sections / 150 subsections (2026-11-06). Public copy uses `catalog.publicCountLabel()` ("4,100+" on 2026-11-06), never a hardcoded number.
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.

@@ -245,3 +245,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > push changes please
 
 **Answered:** origin/main had 13 new commits incl. round 4 (+313/+204, same new chunk files). Snapshot on branch wip/studio-gap-fill, ff main, 3-way merged docs, re-ran backfill on round 4 data, replayed 446 + 448 new rows (134 overlaps kept round 4 + carried new enum values). Totals 2,357 / 2,550. Committed + pushed.
+
+**Prompt:** (2026-11-06)
+> close the open issue
+
+**Answered:** Issue #47 (suggest twirl, AI PBR material generator): verified site, added to §09 texture-material-generation (Freemium, web), committed, pushed, closed #47 with comment.

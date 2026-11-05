@@ -44,3 +44,28 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.277Z'
+  - name: twirl
+    url: https://twirl.tools/
+    description: Web app that generates PBR materials from a text prompt, outputting albedo, normal, roughness, metallic and height maps, with a public library and a free Blender importer.
+    license: Freemium
+    entry_type: tool
+    pricing: Free 5 generations/day + unlimited public downloads; Standard $16/mo, Pro $25/mo, or one-time credit packs
+    best_for: PBR materials from a text prompt
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
+        - ai-generative
+    readme_tags:
+      - PBR
+      - Text to material
+    url_status: ok
+    url_last_verified: '2026-11-06'
+    added_at: '2026-11-05T21:43:45.762Z'
