@@ -89,3 +89,9 @@ Architectural / structural decisions w/ rationale + date.
 - Russia-HQ studios not added (Russia not in COUNTRY_REGION; ask user). Studios with own-site HQ in Cyprus kept there (Owlcat, Mundfish).
 - Parent = owner's common name; merge spelling variants of the same entity, keep real hierarchy labels (Activision vs Xbox Game Studios).
 - Countries added: Ethiopia, Dominican Republic (lookup table, not taxonomy).
+
+## 2026-11-05: PR #39-#46 + issue #40/#41/#43 triage
+- Decline affiliate-funded meta-directories of mostly non-3D tools (#44 QuickMatch: disclosed affiliate links, paid placements). User call.
+- Unofficial fan/guide sites for an app: decline, list the official app instead (#39 solidcraftcad.com -> SolidCraft solidcraft.io). User call.
+- Read-only archived communities are deprecated, not kept (Blender.Community). Dead blog post with the same author's video live: repoint to the video.
+- Auto-mode classifier blocks fork pushes and PR merges from the session; stage on a local branch and hand the user push/merge commands.

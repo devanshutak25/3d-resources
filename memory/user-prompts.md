@@ -186,3 +186,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > yes please
 
 **Answered:** Committed /game-studios/ + studio segment round on main and pushed. Russia question left open (not added).
+
+**Prompt:** (2026-11-05)
+> resolve github issues and pull requests
+
+**Answered:** Triaged 5 PRs + 3 issues (+ webGPU-boids#1). Local branch `resolve`: merged #46, #45 (fixed), #42 (fixed); added GameShipKit (#43) + official SolidCraft; link-check fixes (#40); #41 no-op. User: decline #44 + #39, merge boids#1. Fork push + merge blocked by auto-mode classifier; push/close commands handed to user. Validate ✓, tests 8/8, build ✓.
