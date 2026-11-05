@@ -608,10 +608,12 @@ entries:
     readme_tags:
       - Web
       - Quick Anim
-    url_last_verified: '2026-11-01'
+    url_last_verified: '2026-11-05'
     url_status: broken
     dual_listed_in:
       - motion-graphics-video/motion-graphics-tools
+    deprecated: true
+    notes: magicanimator.com returns 404, no successor URL verified (checked 2026-11-05).
   - name: SAC Script Auditor
     url: https://github.com/SacTools/SAC-_SCRIPT_AUDITOR
     added_at: '2026-06-03T06:28:47.000Z'

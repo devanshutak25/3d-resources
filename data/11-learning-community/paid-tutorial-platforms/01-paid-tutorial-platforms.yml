@@ -392,12 +392,15 @@ entries:
       platform:
         - web
   - name: Blender Secrets
-    url: https://www.3dsecrets.com/secrets
+    url: https://www.3dsecrets.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Hundreds of one-minute video tutorials, each on a specific Blender topic.
+    description: Blender tips book of 2,000+ pages with 900+ one-minute bonus videos, sold alongside paid hard-surface and character courses.
+    license: Paid
+    pricing: Book $47, courses $47 to $69, free 30-page sample
+    pricing_last_verified: '2026-11-05'
     entry_type: tutorial
-    url_last_verified: '2026-11-01'
-    url_status: broken
+    url_last_verified: '2026-11-05'
+    url_status: ok
     tags:
       output:
         - generalist

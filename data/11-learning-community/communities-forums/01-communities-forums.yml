@@ -201,13 +201,15 @@ entries:
     readme_tags:
       - Blender
       - Community
-    url_last_verified: '2026-11-01'
+    url_last_verified: '2026-11-05'
     url_status: broken
     tags:
       platform:
         - web
       tech:
         - blender
+    deprecated: true
+    notes: Site is a read-only archive since 2026-10-12, posting closed (checked 2026-11-05).
   - name: ☕Blender.Today
     url: https://blender.community/c/today/
     added_at: '2026-04-19T17:15:03.000Z'

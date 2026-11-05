@@ -92,16 +92,16 @@ entries:
       tech:
         - houdini
   - name: Art Directing Paint Splashes
-    url: https://whatifound.net/2020/06/13/houdini-paint-splashes/
+    url: https://www.youtube.com/watch?v=aSmNuuprvi8
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Art-directed paint splashes.
+    description: Houdini video tutorial by What I Found on art-directing paint splash simulations.
     entry_type: tutorial
     license: Free
     readme_tags:
       - Paint Splash
       - Art Direction
-    url_last_verified: '2026-11-01'
-    url_status: broken
+    url_last_verified: '2026-11-05'
+    url_status: ok
     tags:
       output:
         - film-vfx
@@ -113,7 +113,7 @@ entries:
         - web
       tech:
         - houdini
-    deprecated: true
+    notes: Original blog post is gone; repointed to the author's YouTube video of the same tutorial (2026-11-05).
   - name: Building Growth Animation
     url: https://mapzilla.co.uk/tutorials/animating-in-houdini-building-growth
     added_at: '2026-04-16T19:59:30.000Z'

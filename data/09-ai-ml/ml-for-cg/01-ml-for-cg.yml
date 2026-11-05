@@ -98,7 +98,7 @@ entries:
     description: Free community course on generative AI fundamentals by iNeuron.
     license: Free
     entry_type: channel
-    url_last_verified: '2026-11-01'
+    url_last_verified: '2026-11-05'
     url_status: broken
     tags:
       tech:
@@ -107,6 +107,8 @@ entries:
         - web
       skill:
         - beginner
+    deprecated: true
+    notes: YouTube channel deleted, no official re-upload found (checked 2026-11-05).
   - name: Generative AI Genius 2024
     url: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/generative_ai_genius/README.md
     added_at: '2026-04-19T17:29:43.000Z'
