@@ -164,7 +164,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Image Generation](#image-generation) <span class="toc-count">(23 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
 - [Video Generation](#video-generation) <span class="toc-count">(40 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
 - [3D Generation](#3d-generation) <span class="toc-count">(41 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
-- [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(10 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
+- [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(11 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
 - [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(61 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
 - [AI Audio & Music](#ai-audio--music) <span class="toc-count">(14 items)</span><br><small class="toc-desc">AI music generation, voice, TTS, and SFX.</small>
@@ -3808,6 +3808,7 @@ AI-generated PBR textures and materials.
 **Related:**
 - [Material Anything](https://github.com/3DTopia/MaterialAnything). Diffusion model that generates albedo, roughness, metallic and bump maps for 3D meshes, including texture-less, albedo-only, generated and scanned objects. CVPR 2025.
 - [StableGen](https://github.com/sakalond/StableGen). Blender add-on that textures scenes by projecting multi-view diffusion images through a ComfyUI backend.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>
+- [twirl](https://twirl.tools/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Web app that generates PBR materials from a text prompt, outputting albedo, normal, roughness, metallic and height maps, with a public library and a free Blender importer.
 
 ### ComfyUI Ecosystem
 
