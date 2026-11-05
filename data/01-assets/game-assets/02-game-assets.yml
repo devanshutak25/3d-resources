@@ -2,10 +2,10 @@ entries:
   - name: Gridwright Studio
     url: https://gridwright.store/
     added_at: '2026-11-04T00:53:22Z'
-    description: Subscription library of pixel-art game asset packs and browser tools, with free samples and free tool editions.
+    description: Subscription library of pixel-art game asset packs with Godot, Tiled and RPG Maker files, plus browser tools that have free editions.
     license: Freemium
     entry_type: asset-source
-    pricing: Free samples, Pro $20/mo or $119.88/yr
+    pricing: Free tool editions, 7-day trial, Pro $20/mo or $119.88/yr
     tags:
       output:
         - games
@@ -15,3 +15,6 @@ entries:
       - Pixel Art
       - Freemium
     best_for: 2D pixel-art games
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    pricing_last_verified: '2026-11-05'
