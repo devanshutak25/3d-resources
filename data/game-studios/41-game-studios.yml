@@ -1,0 +1,924 @@
+studios:
+  - name: Manalith Studios
+    url: https://manalithstudios.com/
+    description: Curitiba indie team behind the card-based dungeon crawler Dungeon Drafters and Wild Glory.
+    hq:
+      city: Curitiba
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dungeon Drafters
+      - Wild Glory
+    founded: 2018
+    size: boutique
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Ludic Studios
+    url: https://ludic-studios.com/
+    description: 'Small indie studio in Manaus, Brazil, developer of KATE: Collateral Damage and Akane.'
+    hq:
+      city: Manaus
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'KATE: Collateral Damage'
+      - Akane
+    size: boutique
+    notes: City from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Izyplay Game Studio
+    url: https://izyplay.com.br/
+    description: Brazilian mobile studio founded in 2010 with 30+ staff and games past 27 million downloads, focused on hybrid-casual titles.
+    hq:
+      city: Pelotas
+      country: Brazil
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2010
+    size: small
+    notes: City from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Plot Kids
+    url: https://plotkids.com/
+    description: Florianopolis studio making children's games, apps and animation since 2014, including Truth and Tales and Play Friends.
+    hq:
+      city: Florianopolis
+      country: Brazil
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Truth and Tales
+      - Praia da Sardinha
+      - 'Play Friends: Play Together'
+    founded: 2014
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Duaik Entretenimento
+    url: https://www.duaik.com/
+    description: Sao Paulo developer founded in 2009, maker of Aritana e a Pena da Harpia, the first Brazilian game on Xbox One.
+    hq:
+      city: Sao Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Aritana e a Pena da Harpia
+    founded: 2009
+    size: boutique
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Quartomundo
+    url: https://quartomundo.com/
+    description: 'Rio de Janeiro studio founded in 2014, developer of the soulsvania The Light of the Darkness: Origins.'
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'The Light of the Darkness: Origins'
+    founded: 2014
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Bromio
+    url: https://www.bromio.com.mx/
+    description: Puebla studio founded in 2013 that makes its own games and offers co-development and console porting, developer of Pato Box.
+    hq:
+      city: Puebla
+      country: Mexico
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Pato Box
+      - Remnants of the Rift
+    founded: 2013
+    size: boutique
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Neat Corporation
+    url: https://www.neatcorporation.com/
+    description: Small independent Stockholm studio behind the VR stealth game Budget Cuts and Garden of the Sea.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Budget Cuts
+      - Garden of the Sea
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Sheba Joy
+    url: https://www.shebajoy.com/
+    description: Riyadh mobile game company founded in 2021 with an office in Dubai Silicon Oasis, maker of Ludo Chat and Town Stars.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+    notable:
+      - Ludo Chat
+      - Town Stars
+      - Cube Fever
+      - Match 3D Magic
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Ash Games Studio
+    url: https://ashgamesstudio.com/
+    description: Riyadh-born remote-first studio founded in 2022 making action-adventure games rooted in Arabic culture, developer of Azooma Escape.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Azooma Escape
+      - 'Nomad: The Legend of Zarqa'
+    founded: 2022
+    notes: Site says 18 people, remote-first.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Starvania Studio
+    url: https://starvania.com/
+    description: Saudi indie studio making fantasy games inspired by Arabian mythology, developer of Bahamut and the Waqwaq Tree.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Bahamut and the Waqwaq Tree
+      - Doughn't Panic!
+    notes: Remote team; city from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: YallaPlay
+    url: https://www.yallaplay.com/
+    description: Abu Dhabi mobile studio founded in 2015 making multiplayer card games such as Spades Masters, Gin Rummy Masters and Tarneeb Masters.
+    hq:
+      city: Abu Dhabi
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    offices:
+      - city: Sao Paulo
+        country: Brazil
+    notable:
+      - Spades Masters
+      - Gin Rummy Masters
+      - Tarneeb Masters
+      - Zombie World
+    founded: 2015
+    size: small
+    notes: Founded year and size from LinkedIn. Trick-taking card games, no casino titles seen.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Breeze Games
+    url: https://breezegames.com/
+    description: Dubai mobile studio founded in 2024, developer of the casual hidden-object game Triple Match City.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Triple Match City
+    founded: 2024
+    notes: Founded year from PocketGamer.biz Top 30 MENA Game Makers 2026.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: FitNot Games
+    url: https://fitnotgames.com/
+    description: 'Egyptian indie studio making Arabic mobile games such as Chef Abu Ashraf: Falafel Legend and Madame Affaf.'
+    hq:
+      country: Egypt
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - 'Chef Abu Ashraf: Falafel Legend'
+      - Madame Affaf
+      - Grandma's House Adventure
+    notes: Country from PocketGamer.biz Top 30 MENA Game Makers 2025; city not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Naphora Games Group
+    url: https://naphora.com/
+    description: Riyadh mobile developer and self-publisher, maker of BattleSwipe Arena, Grapplo and Shotball.
+    hq:
+      city: Riyadh
+      country: Saudi Arabia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - BattleSwipe Arena
+      - Grapplo
+      - Shotball
+    notes: Homepage loads (script-rendered); city and titles from PocketGamer.biz.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Gleam Games
+    url: https://www.gleamgames.com/
+    description: Istanbul mobile studio founded in 2018, developer of the match puzzle game EverBlast.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - EverBlast
+    founded: 2018
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Nyamakop
+    url: https://nyamakop.co.za/
+    description: Johannesburg indie studio, developer of the deformable-world platformer Semblance and Relooted.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Semblance
+      - Relooted
+    founded: 2015
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Game Ever Studio
+    url: https://gameeverstudio.com/
+    description: Buenos Aires studio founded in 2010 making mobile, web and PC games, advergames and VR/AR projects alongside animation work.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - web
+      - pc
+    founded: 2010
+    size: small
+    notes: Founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Dedalord
+    url: https://dedalord.com/
+    description: Argentine studio founded in 2011 as a midcore mobile developer and self-publisher, now doing full-cycle development, with 100M+ downloads.
+    hq:
+      country: Argentina
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2011
+    notes: City not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Saber Interactive
+    url: https://saber.games/
+    description: 'Fort Lauderdale developer and publisher of World War Z, SnowRunner and Evil Dead: The Game.'
+    hq:
+      city: Fort Lauderdale
+      country: United States
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Beacon Interactive
+    notable:
+      - World War Z
+      - SnowRunner
+      - 'Evil Dead: The Game'
+      - Quake Champions
+    founded: 2001
+    notes: HQ, founding year and parent from Wikipedia; homepage verified live.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: FarSight Studios
+    url: http://farsightstudios.com/
+    description: Independent developer and publisher in Big Bear Lake, California, known for pinball and bowling games such as The Pinball Arcade.
+    hq:
+      city: Big Bear Lake
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Pinball Arcade
+      - 'Pinball Hall of Fame: The Williams Collection'
+      - PBA Pro Bowling
+    founded: 1988
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Forgotten Empires
+    url: https://www.forgottenempires.net/
+    description: Cincinnati PC developer that builds and remasters Age of Empires and Age of Mythology titles for Microsoft.
+    hq:
+      city: Cincinnati
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    parent: Keywords Studios
+    notable:
+      - 'Age of Empires II: Definitive Edition'
+      - 'Age of Mythology: Retold'
+      - 'Age of Empires III: Definitive Edition'
+    founded: 2013
+    notes: City from Wikipedia; site says HQ in the U.S. with a distributed team of 90+.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Empty Clip Studios
+    url: https://www.emptyclipstudios.com/
+    description: San Diego studio that builds and ports games on its RapidFire engine, including Symphony and NHL 94 Rewind.
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Symphony
+      - Groovin' Blocks
+      - NHL 94 Rewind
+    founded: 2007
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Simutronics
+    url: https://www.simutronics.com/
+    description: St. Louis online games company behind the long-running text RPGs GemStone IV and DragonRealms.
+    hq:
+      city: St. Louis
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    parent: Stillfront Group
+    notable:
+      - GemStone IV
+      - DragonRealms
+      - 'Lara Croft: Relic Run'
+    founded: 1987
+    notes: Parent per Wikipedia (Stillfront since 2016).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Gabriel Interactive
+    url: https://gabrielinteractive.com/
+    description: Games and simulation studio in Germantown, Tennessee, maker of the Robot Arena series and licensed tycoon games.
+    hq:
+      city: Germantown
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'Robot Arena 2: Design and Destroy'
+      - 'John Deere: American Farmer'
+      - Caterpillar Construction Tycoon
+    founded: 1999
+    notes: Founded in Indianapolis in 1999; now based in Germantown, Tennessee per its site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Axol Studio
+    url: https://axolstudio.com/
+    description: Independent St. Louis game studio making Bring It On! and Eggsolotl.
+    hq:
+      city: St. Louis
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - Bring It On!
+      - Eggsolotl
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Dejobaan Games
+    url: https://www.dejobaan.com/
+    description: Boston indie developer of the AaaaaAAaaaAAAAaAAAAA!!! series, Elegy for a Dead World and Million Monster Militia.
+    hq:
+      city: Boston
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - AaaaaAAaaaAAAAaAAAAA!!!
+      - Elegy for a Dead World
+      - Monster Loves You!
+      - Million Monster Militia
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: FYRE Games
+    url: https://www.fyregames.com/
+    description: Small independent studio in Fairmont, West Virginia, making horror and adventure games such as Into the Unknown.
+    hq:
+      city: Fairmont
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Into the Unknown
+      - Summerland
+      - We Never Left
+    notes: Founded and run by Conner Rush; very small team.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Motorsport Games
+    url: https://motorsportgames.com/
+    description: Racing game developer and publisher based in Miramar, Florida, making official NASCAR games.
+    hq:
+      city: Miramar
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'NASCAR 21: Ignition'
+      - NASCAR Rivals
+      - KartKraft
+    notes: City per Wikipedia; site also says Miami, Florida.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Noble Robot
+    url: https://noblerobot.com/
+    description: Minneapolis studio making Blippo+ and Widget Satchel and offering Nintendo porting services.
+    hq:
+      city: Minneapolis
+      country: United States
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Blippo+
+      - Widget Satchel
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Finite Reflection Studios
+    url: http://www.finitereflection.com/
+    description: Atlanta studio making original games like Containment and Mouseward and porting PC games to consoles.
+    hq:
+      city: Atlanta
+      country: United States
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Containment
+      - Mouseward
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Moving Pieces Interactive
+    url: https://www.movingpieces.io/
+    description: Small Brooklyn studio making approachable games such as Dodo Peak and Shoulders of Giants.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dodo Peak
+      - Shoulders of Giants
+    notes: Site says based in Brooklyn, NY.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Videocult
+    url: http://videocultmedia.com/
+    description: Independent Boston studio behind the survival platformer Rain World.
+    hq:
+      city: Boston
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Rain World
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Drifter Entertainment
+    url: https://drifter.games/
+    description: Seattle studio that made the VR games Gunheart and Lies Beneath and is building the shooter Superior.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Gunheart
+      - Lies Beneath
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Stray Kite Studios
+    url: https://www.straykitestudios.com/
+    description: Studio north of Dallas, Texas, founded by industry veterans, making Wartorn and doing development for other publishers.
+    hq:
+      city: Dallas
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Wartorn
+      - 'Tiny Tina''s Assault on Dragon Keep: A Wonderlands One-shot Adventure'
+    notes: Site says located just north of Dallas, Texas.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Half Mermaid Productions
+    url: https://halfmermaid.co/
+    description: Brooklyn studio led by Sam Barlow, maker of the narrative games Immortality and Telling Lies.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Immortality
+      - Telling Lies
+    notes: Site says based in Brooklyn, New York.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Rogue Rocket Games
+    url: https://roguerocketgames.com/
+    description: San Francisco indie studio formed by Planet Moon veterans, maker of the puzzle game Gunpowder.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Gunpowder
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Veritable Joy Studios
+    url: https://veritablejoystudios.com/
+    description: 'Chicago developer of the visual novel ValiDate: Struggling Singles in Your Area.'
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'ValiDate: Struggling Singles in Your Area'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Heart Shaped Games
+    url: http://heartshapedgames.com/
+    description: Ann Arbor, Michigan studio that made the strategy game We Are The Caretakers.
+    hq:
+      city: Ann Arbor
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - We Are The Caretakers
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Meringue Interactive
+    url: http://www.meringueinteractive.com/
+    description: Austin, Texas indie studio behind About an Elf and a luggage-packing puzzle game.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - About an Elf
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Atooi
+    url: https://www.atooi.com/
+    description: Austin studio founded by Jools Watsham making retro-inspired games such as Mutant Mudds and Xeodrifter.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Mutant Mudds Collection
+      - Xeodrifter
+      - Dementium II
+      - Chicken Wiggle
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: MidBoss
+    url: http://midboss.com/
+    description: 'San Francisco studio behind the cyberpunk adventure 2064: Read Only Memories.'
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - '2064: Read Only Memories'
+    notes: City matched on site and in Wikidata; Wikipedia covers history.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: The Deep End Games
+    url: https://www.thedeependgames.com/
+    description: Independent developer in Gloucester, Massachusetts, near Boston, maker of Perception and Romancelvania.
+    hq:
+      city: Gloucester
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Perception
+      - Romancelvania
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Katsu Entertainment
+    url: https://www.katsugames.com/
+    description: 'Cary, North Carolina studio of industry veterans making couch co-op games such as Dogfight: a Sausage Bomber Story.'
+    hq:
+      city: Cary
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Dogfight: a Sausage Bomber Story'
+      - Sausage Bomber
+      - Doomwheel
+    notes: Platforms not confirmed beyond PC.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Shiny Dolphin Games
+    url: https://www.shinydolphin.com/
+    description: Atlanta studio making retro-inspired 2D and 3D games like Panic Porcupine and offering porting and dev services.
+    hq:
+      city: Atlanta
+      country: United States
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Panic Porcupine
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Albino Moose Games
+    url: https://albinomoosegames.com/
+    description: 'Austin indie studio that made Spooky''s Jump Scare Mansion: HD Renovation.'
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Spooky''s Jump Scare Mansion: HD Renovation'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Lazy 8 Studios
+    url: https://www.lazy8studios.com/
+    description: San Francisco developer of the steampunk sliding-tile puzzle game Cogs.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Cogs
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Utopos Games
+    url: https://www.utoposgames.com/
+    description: Las Vegas developer and publisher founded by Westwood Studios veterans, making small games like Squall Riders.
+    hq:
+      city: Las Vegas
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Squall Riders
+    founded: 2019
+    notes: Site calls itself a publisher; it also releases its own games.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Creators Corp
+    url: https://www.creatorscorp.gg/
+    description: Los Angeles game development studio that builds, launches and runs games for partners across platforms.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2022
+    notes: No titles confirmed on site; included on studio scale and client work.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Telltale Games
+    url: https://www.telltale.com/
+    description: Malibu developer and publisher of narrative episodic games, owner of the Telltale catalog including The Wolf Among Us.
+    hq:
+      city: Malibu
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Wolf Among Us
+    founded: 2018
+    notes: Legal name LCG Entertainment, Inc.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'

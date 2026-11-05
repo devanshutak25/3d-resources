@@ -1,0 +1,917 @@
+studios:
+  - name: Coconut Island Games
+    url: https://www.coconut.is/
+    description: Shanghai independent game developer and publisher making mobile, PC and console titles such as Shio.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Shio
+    notes: Chinese-only site (椰岛游戏, Shanghai address in footer). Also lists 江南百景图 (Jiangnan Baijingtu). Founded 2009 per Wikidata, not confirmed on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Playcrab
+    url: https://www.playcrab.com/
+    description: 'Beijing mobile game developer and operator behind One Punch Man: The Strongest and the wuxia RPG Da Zhang Men 2.'
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'One Punch Man: The Strongest'
+      - Da Zhang Men 2
+    founded: 2009
+    notes: Founded year from site copyright line (2009-2026) and Wikidata.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Dragonest
+    url: https://global.dragonest.com/
+    description: Chengdu mobile game developer and publisher known for the strategy game Auto Chess.
+    hq:
+      city: Chengdu
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Auto Chess
+    notes: Site notes Tencent as an investor.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Veewo Games
+    url: https://www.veewo.com/
+    description: Xiamen indie studio founded in 2011, developer of the roguelike shooters Neon Abyss and Neon Abyss 2 and the Super Phantom Cat series.
+    hq:
+      city: Xiamen
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Neon Abyss
+      - Neon Abyss 2
+      - Super Phantom Cat
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Kingnet
+    url: https://www.kingnet.com/
+    description: 'Shanghai developer and publisher of mobile and web games, including the self-developed MMORPG Sword Art Online: Black Swordsman Ace.'
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - 'Sword Art Online: Black Swordsman Ace'
+    founded: 2008
+    notes: Chinese name 恺英网络. Founded 2008 is the Shanghai operating subsidiary per the About page. Offices in Hangzhou, Guangzhou and Hong Kong per contact page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Tencent Games
+    url: https://www.tencentgames.com/
+    description: Shenzhen-based games division of Tencent that develops and publishes titles through studio groups including TiMi and Lightspeed.
+    hq:
+      city: Shenzhen
+      country: China
+    segments:
+      - aaa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: Tencent
+    notable:
+      - Honor of Kings
+      - PUBG Mobile
+      - Delta Force
+    founded: 2003
+    notes: Parent division of TiMi Studio Group and LIGHTSPEED STUDIOS, which are already listed separately.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Moefantasy
+    url: https://www.moefantasy.com/
+    description: Shanghai mobile game developer of the naval character collection game Warship Girls R.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Warship Girls R
+    notes: Chinese name 上海幻萌网络科技有限公司 (from site footer).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: NEKCOM
+    url: https://nekcomgames.com/
+    description: Wuhan game developer founded in 2011, behind the horror series DYING and the action game Showa American Story.
+    hq:
+      city: Wuhan
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Showa American Story
+      - 'DYING: Reborn'
+      - 'DYING: 1983'
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Shikudo Games
+    url: https://site.shikudo.cn/
+    description: Shanghai mobile developer of walking-based and idle games such as Wokamon and Pocket Plants.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Wokamon
+      - Pocket Plants
+    notes: Company name 酷都网络科技（上海）有限公司 from site footer.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Yoozoo Games
+    url: https://www.yoozoo.com/
+    description: 'Shanghai developer and publisher of mobile and web games including Game of Thrones: Winter Is Coming and League of Angels.'
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - 'Game of Thrones: Winter Is Coming'
+      - League of Angels
+      - 'Saint Seiya: Awakening'
+    founded: 2009
+    notes: global.yoozoo.com did not respond; www.yoozoo.com (Chinese) loads.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: Shengqu Games
+    url: https://www.shengqugames.com/
+    description: Shanghai online game developer, publisher and operator, formerly Shanda Games, known for The World of Legend.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The World of Legend
+    founded: 1999
+    notes: Mostly publishing and operation; owns Korean developers Actoz Soft and Eyedentity Games per Wikipedia.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'
+  - name: NExT Studios
+    url: https://www.nextstudios.com/
+    description: Shanghai indie-focused studio within Tencent Games, developer of the co-op adventures Biped and Biped 2 and the detective game Unheard.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Tencent Games
+    notable:
+      - Biped
+      - Biped 2
+      - Unheard
+    notes: Homepage is a minimal JS page (loads, title NExT Studios). HQ and parent from Gematsu; press reports a 2024 shift toward overseas investment and publishing.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: PeroPeroGames
+    url: https://www.peropero.net/
+    description: Guangzhou indie developer of the rhythm game Muse Dash.
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Muse Dash
+    notes: peropero.net is a JS app. City from footer of sister site hasuhasu.com (广州呸喽呸喽科技有限公司); Wikipedia confirms PeroPeroGames developed Muse Dash.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Firedog Studio
+    url: https://www.firedogstudio.com/
+    description: Hong Kong game, animation and comics developer founded in 1999, known for Cupid Bistro!! and NeveRossa.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cupid Bistro!!
+      - NeveRossa
+      - Astral Survivor
+    founded: 1999
+    notes: Chinese name 火狗工房. Wikidata lists it under China; site says Hong Kong.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: IMC Games
+    url: https://www.imc.co.kr/
+    description: Seoul developer of PC MMORPGs including Granado Espada and Tree of Savior.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Tree of Savior
+      - Granado Espada
+    notes: Seoul from company history on site (2005 move to Samseong-dong, Gangnam); current street address not shown.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Eyedentity Games
+    url: https://www.eyedentitygames.com/
+    description: Seoul online game developer founded in 2007, creator of the action MMORPG Dragon Nest.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Dragon Nest
+      - World of Dragon Nest
+    founded: 2007
+    notes: Acquired by Shanda Games (now Shengqu Games) in 2010 per Wikipedia; site lists Actoz Soft as related company.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Masangsoft
+    url: https://www.masangsoft.com/
+    description: Busan developer and operator of PC MMORPGs such as DK Online, Priston Tale and Laghaim.
+    hq:
+      city: Busan
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - DK Online
+      - Priston Tale
+      - Laghaim
+    notes: Runs several legacy MMOs; which titles are in-house developments vs acquired IP not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: SKONEC Entertainment
+    url: https://www.skonec.com/
+    description: 'Seoul XR content company founded in 2002 that makes VR games such as Who''s at the Door? and Another Door: Escape Room.'
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Who's at the Door?
+      - 'Another Door: Escape Room'
+      - Mr. Traveler
+    founded: 2002
+    notes: Also does XR training and metaverse projects.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Super Creative
+    url: https://www.supercreative.kr/
+    description: Smilegate development studio in Seongnam, founded in 2015, behind the mobile RPG Epic Seven and Chaos Zero Nightmare.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+    parent: Smilegate
+    notable:
+      - Epic Seven
+      - Chaos Zero Nightmare
+    founded: 2015
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: 5minlab
+    url: https://5minlab.com/
+    description: Seoul game developer of Smash Legends, Overgeared Hero and the tactics game Private Military Manager.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Smash Legends
+      - Overgeared Hero
+      - Private Military Manager
+      - 'Undusted: Letters from the Past'
+    notes: Corporate parent not confirmed on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: SouthPAW Games
+    url: https://southpaw.games/
+    description: 'Seoul action game studio and developer of the roguelite platformer Skul: The Hero Slayer.'
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Skul: The Hero Slayer'
+    notes: Platforms per Wikipedia (Skul released on PC, consoles and mobile).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: HAEGIN
+    url: https://www.haegin.kr/
+    description: Seoul mobile game developer behind the social game Play Together and a licensed Korean pro baseball series.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Play Together
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Team Horay
+    url: https://www.teamhoray.com/
+    description: South Korean indie team founded in 2017, developer of the roguelites Dungreed and Sephiria.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dungreed
+      - Sephiria
+    founded: 2017
+    notes: City not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Gameduo
+    url: https://www.gameduo.net/
+    description: Seongnam mobile game developer and publisher that runs more than ten projects at a time for global app stores.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notes: Pangyo address on site. Site claims 10+ concurrent projects and 63B KRW revenue; game titles not in fetchable text.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Gamania
+    url: https://www.gamania.com/
+    description: Taipei game publisher and developer whose studios made the online games Bright Shadow and Lucent Heart.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Bright Shadow
+      - Lucent Heart
+    notes: Mostly publishing (Lineage, MapleStory in Taiwan); development via subsidiaries per Wikipedia.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Runewaker Entertainment
+    url: https://www.runewaker.com/
+    description: Taichung studio founded in 2004, developer of the MMORPGs Runes of Magic and Dragon's Prophet and mobile titles such as Calamity Break.
+    hq:
+      city: Taichung
+      country: Taiwan
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Runes of Magic
+      - Dragon's Prophet
+      - Calamity Break
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: CreSpirit
+    url: https://www.crespirit.com/
+    description: Taiwanese studio founded in 2014, developer of the action platformers Rabi-Ribi and Tevi and the shooter Last Command.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Rabi-Ribi
+      - Tevi
+      - Last Command
+      - A Light in the Dark
+    founded: 2014
+    notes: City not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Gamtropy
+    url: https://gamtropy.com/
+    description: Taiwanese indie team founded in 2017 making mobile games about culture and social issues, including Desertopia.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Desertopia
+    founded: 2017
+    notes: Chinese name 遊戲熵; four-person team. City not stated.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: STORIA
+    url: https://www.storiagame.com/
+    description: 'Taiwanese narrative game team behind the 2D adventure Alice''s World and the visual novel Lingua Fleur: Lily.'
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Alice's World
+      - Beyond the Curtains
+      - 'Lingua Fleur: Lily'
+    notes: Site brands itself STORIA & Narrator. City not stated. Co-developed A Light in the Dark with CreSpirit.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Dot9 Games
+    url: https://www.dot9games.com/
+    description: 'Mumbai mobile game developer behind the shooter FAU-G: Domination and the runner Ram Setu - The Run.'
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'FAU-G: Domination'
+      - Ram Setu - The Run
+      - Apna Games
+    notes: Mumbai from studio job listings on the site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Brewed Games
+    url: https://brewedgames.com/
+    description: 'Bengaluru PC indie studio and developer of the action game Winds of Arcana: Ruination.'
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Winds of Arcana: Ruination'
+    notes: Site says the six-person team works remotely across India with a registered address in Bengaluru.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Mad Mantra Games
+    url: https://www.madmantragames.com/
+    description: Indian independent studio building PC and console games rooted in Indian settings, including the horror game Kamla.
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Kamla
+    notes: City not stated on site. Store links on site cover Steam, PlayStation, Switch, Google Play and App Store.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Kopiforge
+    url: https://www.kopiforge.com/
+    description: Singapore indie studio founded in 2023, developer of the Southeast Asian co-op cooking adventure SEDAP!
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - SEDAP!
+    founded: 2023
+    notes: SEDAP! won Best New Game at BIG Festival 2025 per NTU news.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Zitga Studio
+    url: https://zitga.com.vn/
+    description: Hanoi mobile game developer and publisher founded in 2015, making tower defense and idle RPG games.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Empire Warriors: Tower Defense'
+      - 'Epic Stickman: RPG Idle War'
+    founded: 2015
+    notes: Notable titles taken from game page slugs.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: ABI Game Studio
+    url: https://abigames.com.vn/
+    description: 'Hanoi mobile game developer and publisher founded in 2015, making casual and hyper-casual games such as Galaxy Attack: Alien Shooter.'
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Galaxy Attack: Alien Shooter'
+      - 'Prank Master: Hide and shoot'
+      - 'Shop Fever: Supermarket Tycoon'
+    founded: 2015
+    notes: Company history traces its origin to Onesoft (founded 2010).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Sonat Game
+    url: https://sonat.vn/
+    description: 'Hanoi mobile game studio making puzzle and sorting games such as Grill Cooking: Sort Challenge and Wool Sorting.'
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Grill Cooking: Sort Challenge'
+      - 'Wool Sorting: Unravel Yarn 3D'
+      - Hole Master - Eat The World
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Bravestars Games
+    url: https://bravestars.com/
+    description: Vietnamese mobile game developer and publisher founded in 2013, making puzzle and casual games such as Snake Wiggle Master.
+    hq:
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Snake Wiggle Master!
+      - 'Coffee Match: Block Puzzle'
+    founded: 2013
+    notes: City not stated; +84 24 phone prefix suggests Hanoi (unconfirmed).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Falcon Game Studio
+    url: https://falcongames.com/
+    description: Vietnamese mobile game studio with more than 150 staff, developer of the shooters 1945 Air Force, Galaxiga and Falcon Squad.
+    hq:
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 1945 Air Force
+      - Galaxiga
+      - Falcon Squad
+    notes: City not stated. VideoGameGeek describes it as a OneSoft studio, formerly 8bit Studio.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: AstralSeal
+    url: https://astralseal.com/
+    description: Thai visual novel circle founded in 2023, developer of Re:Fragment ~Absolute Ambition~ and The Picture of Café au lait.
+    hq:
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Re:Fragment ~Absolute Ambition~
+      - The Picture of Café au lait
+    founded: 2023
+    notes: Self-described doujin circle with Steam releases. City not stated.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Squid Shock Studios
+    url: https://squidshockstudios.com/
+    description: 'Chiang Mai indie studio founded in 2020, developer of the 2.5D metroidvania Bō: Path of the Teal Lotus.'
+    hq:
+      city: Chiang Mai
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Bō: Path of the Teal Lotus'
+    founded: 2020
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Magnus Games Studio
+    url: https://magnusgamesstudio.com/
+    description: Kuala Lumpur indie studio founded in 2017, developer of the creature-raising life sim RPG Re:Legend.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Re:Legend
+    founded: 2017
+    notes: Site says 40 employees.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Weyrdworks
+    url: https://weyrdworks.com/
+    description: Petaling Jaya game studio with over ten years of releases on mobile, Steam and PlayStation, including the idle game Weyrdlets.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Weyrdlets
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Clay Game Studio
+    url: https://claygamestudio.com/
+    description: Malang indie studio, developer of the Indonesian folklore metroidvania Faerie Afterlight and the music games Mirth Melody and Mirth Island.
+    hq:
+      city: Malang
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Faerie Afterlight
+      - Mirth Melody
+      - Mirth Island
+    notes: Found via Asosiasi Game Indonesia member list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Gambir Game Studio
+    url: https://gambirstudio.com/
+    description: Yogyakarta-area studio founded in 2016 with 13 released games, including the cooking sims Warung Seblak Nusantara and Bubur Ayam Express.
+    hq:
+      city: Sleman
+      country: Indonesia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Warung Seblak Nusantara
+      - My Minimart Empire
+      - 'Jurit Malam: Kost 1000 Pintu'
+      - Bubur Ayam Express
+    founded: 2016
+    notes: Address in Sleman Regency, Yogyakarta. Found via AGI member list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Wisageni Studio
+    url: https://www.wisageni.com/
+    description: Yogyakarta game developer founded in 2015 making casual and hyper-casual games, plus outsourced development, with titles such as Nonstop Show.
+    hq:
+      city: Yogyakarta
+      country: Indonesia
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    notable:
+      - 'KISS: Kpop Idol Stories'
+      - Nonstop Show
+      - Ultimate Tower
+      - Crazy Cargo
+    founded: 2015
+    notes: Found via AGI member list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Algorocks
+    url: https://algo.rocks/
+    description: Malang indie studio making casual and strategy games such as Dadoo, Grammarian Ltd and Mini Tank Mayhem.
+    hq:
+      city: Malang
+      country: Indonesia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Dadoo
+      - Grammarian Ltd
+      - Mini Tank Mayhem
+    notes: Dadoo and Grammarian Ltd won Google Play Best Made in Indonesia (2024, 2022) per site. Found via AGI member list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Rolling Glory Jam
+    url: https://www.rollinggloryjam.com/
+    description: Bandung game developer behind Hello Goodboy and the heavy metal action roguelite Grim Trials.
+    hq:
+      city: Bandung
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Hello Goodboy
+      - Grim Trials
+      - What Comes After
+    notes: Old domain rollingglory.com shows a placeholder; current site is rollinggloryjam.com. Found via AGI member list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Educa Studio
+    url: https://www.educastudio.com/
+    description: Salatiga studio making educational mobile games for children, including the Marbel learning series.
+    hq:
+      city: Salatiga
+      country: Indonesia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Marbel
+      - Riri
+      - Kabi
+    notes: Edu-games focus; also digital books and kids' songs.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Ikan Asin Production
+    url: https://www.ikanasinproduction.com/
+    description: Indonesian developer of free, light open-world life RPGs set in everyday Indonesia, including Citampi Stories and Cisini Stories.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Citampi Stories
+      - Cisini Stories
+    notes: City not stated on site. Found via AGI member list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Aim to Mite Studio
+    url: https://aimtomitestudio.com/
+    description: Jakarta studio making mobile, PC and Roblox games, including Berandal Sekolah, alongside VR safety training simulators.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - mobile
+      - vr
+    platforms:
+      - mobile
+      - pc
+      - vr
+    notable:
+      - Berandal Sekolah
+      - Berandal City
+    notes: Berandal Sekolah has 2M+ downloads per site; Berandal City announced for Steam. Large share of work is VR training for industry.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'

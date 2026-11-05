@@ -1,0 +1,959 @@
+studios:
+  - name: Monstronauts
+    url: https://www.monstronauts.com/
+    description: Philippine game developer and publisher founded in 2015, creator of the shopkeeping series Potion Punch.
+    hq:
+      country: Philippines
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Potion Punch
+      - Potion Punch 2
+      - Eat the Rich
+      - Rowan McPaddles
+    founded: 2015
+    notes: City not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Infinity Plus Two
+    url: https://infinityplustwo.net/
+    description: Melbourne developer of the match-3 RPGs Gems of War and Puzzle Quest 3, formerly known as Infinite Interactive.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Gems of War
+      - Puzzle Quest 3
+      - 'Puzzle Quest: Challenge of the Warlords'
+    notes: Wikipedia gives St Kilda; site says Melbourne CBD office. infinite-interactive.com redirects here.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Wildfire Studios
+    url: https://wildfire.com.au/
+    description: Brisbane game developer making games since 1995, creator of the puzzle game Tumblebugs.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Tumblebugs
+    founded: 1995
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Kumobius
+    url: https://kumobius.com/
+    description: Melbourne game developer behind the mobile games Duet, Time Surfer and Wall Kickers.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Duet
+      - Time Surfer
+      - Wall Kickers
+      - Basket Fall
+    notes: Site last updated 2019.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Shape Shop
+    url: https://shapeshop.games/
+    description: Small Melbourne games studio, developer of the physics-based delivery game Mars First Logistics.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Mars First Logistics
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Summerfall Studios
+    url: https://www.summerfallstudios.com/
+    description: 'Melbourne narrative game studio founded in 2017, developer of Stray Gods: The Roleplaying Musical and the deckbuilder Malys.'
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Stray Gods: The Roleplaying Musical'
+      - Malys
+    founded: 2017
+    notes: Melbourne inferred from the About page (Kulin Nation acknowledgement, Melbourne-based team bios); HQ address not printed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Strategic Studies Group
+    url: https://www.ssg.com.au/
+    description: Australian developer of strategy wargames including Warlords, Carriers at War and the Decisive Battles series.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Warlords
+      - Carriers at War
+      - Kharkov
+    notes: City not confirmed (Wikipedia gives Australia only; Wikidata says Sydney).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Exbleative
+    url: https://www.exbleative.com/
+    description: Adelaide indie developer of the gravity-driven exploration game Exo One.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Exo One
+    notes: Effectively a solo developer; site blog last updated 2024.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.139Z'
+  - name: Cortopia Studios
+    url: https://www.cortopia.com/
+    description: Stockholm VR game studio owned by Beyond Frames, developer of Down the Rabbit Hole, Wands and GORN 2.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+    parent: Beyond Frames Entertainment
+    notable:
+      - Down the Rabbit Hole
+      - Wands
+      - GORN 2
+      - 'Teenage Mutant Ninja Turtles: Empire City'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Psytec Games
+    url: https://www.psytecgames.com/
+    description: Welsh VR studio in Blaenavon, developer of the Windlands series, Crystal Rift and Titan Isles.
+    hq:
+      city: Blaenavon
+      country: United Kingdom
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Windlands
+      - Windlands 2
+      - Crystal Rift
+      - Titan Isles
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Ivanovich Games
+    url: https://www.ivanovichgames.com/
+    description: 'Barcelona developer and publisher focused on VR games, including Touring Karts, Beat Blaster and 1976: Back to Midway.'
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Touring Karts
+      - Beat Blaster
+      - '1976: Back to Midway'
+      - Pangman
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Holonautic
+    url: https://www.holonautic.com/
+    description: Swiss VR studio in St. Niklausen near Lucerne, developer of Hand Physics Lab, Surgineer and Rail Estate.
+    hq:
+      city: St. Niklausen
+      country: Switzerland
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Hand Physics Lab
+      - Surgineer
+      - Rail Estate
+      - Holoception
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Odders Lab
+    url: https://odderslab.com/
+    description: Seville XR studio making VR fitness and rhythm games, including OhShape and Les Mills XR Bodycombat.
+    hq:
+      city: Seville
+      country: Spain
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+      - console
+    notable:
+      - OhShape
+      - Les Mills XR Bodycombat
+      - Les Mills XR Dance
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Steel Crate Games
+    url: https://steelcrategames.com/
+    description: Ottawa indie studio behind Keep Talking and Nobody Explodes, a co-op bomb defusal game first built for VR.
+    hq:
+      city: Ottawa
+      country: Canada
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Keep Talking and Nobody Explodes
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Mixed Realms
+    url: https://www.mixedrealms.com/
+    description: Singapore studio founded in 2016, developer of Sairento VR, Hellsweeper VR and the deckbuilder Gordian Quest.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Sairento VR
+      - Hellsweeper VR
+      - Gordian Quest
+      - 13Z
+    founded: 2016
+    notes: Site says team grew from four to 20 members.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Toast Interactive
+    url: https://toastinteractive.com/
+    description: Gold Coast VR studio, developer of Richie's Plank Experience and the VR platformer Max Mustard.
+    hq:
+      city: Gold Coast
+      country: Australia
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+      - console
+    notable:
+      - Richie's Plank Experience
+      - Max Mustard
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Impulse Gear
+    url: https://www.impulsegear.com/
+    description: San Francisco studio founded in 2013 that develops VR games, including the PlayStation VR shooter Farpoint.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+      - console
+    notable:
+      - Farpoint
+    founded: 2013
+    notes: Farpoint credit from Wikipedia.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Realities.io
+    url: https://www.realities.io/
+    description: Berlin VR studio, developer of Puzzling Places, a 3D jigsaw game built from photogrammetry scans.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+      - console
+    offices:
+      - city: San Mateo
+        country: United States
+    notable:
+      - Puzzling Places
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: I-Illusions
+    url: https://i-illusions.com/
+    description: Belgian independent studio behind the VR wave shooter Space Pirate Trainer, plus Element4l and Shredders.
+    hq:
+      country: Belgium
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+      - console
+    notable:
+      - Space Pirate Trainer
+      - Element4l
+      - Shredders
+    founded: 2011
+    size: boutique
+    notes: City not confirmed; founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: WarpFrog
+    url: https://www.warpfrog.com/
+    description: 'French independent VR studio working fully remote, developer of Blade & Sorcery and Blade & Sorcery: Nomad.'
+    hq:
+      country: France
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Blade & Sorcery
+      - 'Blade & Sorcery: Nomad'
+    notes: Fully remote, no office; country from Wikipedia (Blade & Sorcery article).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Aldin Dynamics
+    url: https://www.aldin.io/
+    description: Reykjavik studio founded in 2013 that makes VR games, best known for Waltz of the Wizard.
+    hq:
+      city: Reykjavik
+      country: Iceland
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Waltz of the Wizard
+    founded: 2013
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: One Hamsa
+    url: https://www.onehamsa.com/
+    description: Tel Aviv VR game design studio founded in 2015.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    founded: 2015
+    size: small
+    notes: City, founded year and size from LinkedIn; site lists no shipped titles, so notable left empty.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Joy Way
+    url: https://joyway.games/
+    description: 'Limassol VR developer and publisher founded in 2017, maker of STRIDE, STRIDE: Fates, AGAINST and Dead Hook.'
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+    notable:
+      - STRIDE
+      - 'STRIDE: Fates'
+      - AGAINST
+      - Dead Hook
+    founded: 2017
+    size: small
+    notes: HQ from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Another Axiom
+    url: https://www.anotheraxiom.com/
+    description: US VR studio with a remote team, developer of the social tag game Gorilla Tag.
+    hq:
+      country: United States
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Gorilla Tag
+    founded: 2021
+    size: mid
+    notes: Delaware corporation per site; remote team, no HQ city. Size and founded from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Vankrupt Games
+    url: https://www.vankrupt.com/
+    description: Vancouver studio founded in 2019 after the success of the VR shooter Pavlov, now developing Pavlov and Pavlov Shack.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Pavlov
+      - Pavlov Shack
+    founded: 2019
+    size: small
+    notes: City from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: SUPERHOT Team
+    url: https://superhotgame.com/
+    description: Lodz studio behind the time-bending shooter SUPERHOT and SUPERHOT VR.
+    hq:
+      city: Lodz
+      country: Poland
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - SUPERHOT
+      - SUPERHOT VR
+      - 'SUPERHOT: Mind Control Delete'
+    founded: 2013
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Voldex
+    url: https://www.voldex.com/
+    description: Roblox game company founded in 2015 that runs experiences such as Brookhaven and Driving Empire.
+    hq:
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Brookhaven
+      - Driving Empire
+    founded: 2015
+    size: mid
+    notes: Voldex Entertainment Ltd; remote team (Canada, UK, Brazil). LinkedIn lists HQ as Global with country GB.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Blockception
+    url: https://blockception.com/
+    description: Derry-based Minecraft agency building Marketplace content and branded Minecraft experiences since 2015.
+    hq:
+      city: Londonderry
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2015
+    size: small
+    notes: City and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Lifeboat Network
+    url: https://www.lbsg.net/
+    description: Eden Prairie, Minnesota company that runs the Lifeboat Minecraft server network and is an official Minecraft partner.
+    hq:
+      city: Eden Prairie
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notes: Operated by Hydreon Corporation.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: House of How
+    url: https://www.houseofhow.com/
+    description: Seattle-area studio founded in 2016 doing co-development and UGC work, including Minecraft Legends DLC and Battlefield 6 content.
+    hq:
+      city: Bothell
+      country: United States
+    segments:
+      - co-dev
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    offices:
+      - city: Vancouver
+        country: Canada
+    notable:
+      - Minecraft Legends
+      - Battlefield 6
+      - 'Tomb Raider: Legacy of Atlantis'
+      - King of Meat
+    founded: 2016
+    size: mid
+    notes: Site says studio in Seattle, Sweden and Vancouver BC; LinkedIn HQ Bothell, WA. Swedish city not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Kreatik Studios
+    url: https://kreatik.be/
+    description: Belgian Minecraft studio in Puurs-Sint-Amands making Marketplace worlds, educational worlds and virtual replicas.
+    hq:
+      city: Puurs-Sint-Amands
+      country: Belgium
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Street Studios
+    url: https://www.streetstudios.com.br/
+    description: Brazilian official Minecraft partner making Marketplace add-ons, worlds and skin packs such as Ocean+ and Ultimate Airplanes.
+    hq:
+      country: Brazil
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Ocean+ Add-On
+      - Ultimate Airplanes
+      - Backroom Escape
+    notes: City not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Ready, Set, Block!
+    url: https://readysetblock.com/
+    description: Independent Minecraft Marketplace studio founded in 2019, building maps and branded Minecraft projects.
+    hq:
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2019
+    size: small
+    notes: LinkedIn lists HQ as San Francisco Bay Area; city not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Team Visionary
+    url: https://teamvisionary.net/
+    description: US Minecraft build team and Marketplace partner that also develops games, trading as GizmoServers LLC.
+    hq:
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2017
+    size: small
+    notes: LinkedIn lists Mississippi; city not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Nitric Concepts
+    url: https://nitricconcepts.com/
+    description: Official Minecraft partner in Guyton, Georgia with 500+ Marketplace releases.
+    hq:
+      city: Guyton
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2018
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Podcrash
+    url: https://www.podcrash.com/
+    description: Grantham studio making Minecraft Marketplace add-ons, with a mobile game in development.
+    hq:
+      city: Grantham
+      country: United Kingdom
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2017
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Dodo Studios
+    url: https://dodostudios.com/
+    description: Amersfoort studio with 400+ Minecraft Bedrock Marketplace add-ons, worlds and skin packs.
+    hq:
+      city: Amersfoort
+      country: Netherlands
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    size: boutique
+    notes: City and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: 57Digital
+    url: https://www.57digital.co.uk/
+    description: Sheffield app developer founded in 2011 that built official Minecraft companion apps and Marketplace content.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    segments:
+      - ugc
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Beyond Creative
+    url: https://www.beyondcreative.gg/
+    description: Irish studio building branded games and experiences inside Fortnite Creative and UEFN.
+    hq:
+      country: Ireland
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notes: Country from EY Entrepreneur Of The Year Ireland 2024 listing on its site; city not confirmed. Press quote cites 20 full-time staff.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Fugo Games
+    url: https://fugo.com.tr/
+    description: Istanbul casual mobile studio, maker of Words of Wonders, Word Master, Solitaire Sunday and Sort Out.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Words of Wonders
+      - Word Master
+      - Solitaire Sunday
+      - Sort Out
+    founded: 2010
+    notes: Founded year from Mobidictum.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Masomo
+    url: https://www.masomo.com/
+    description: Izmir mobile studio founded in 2015 and part of Miniclip, developer of Head Ball 2 and Basketball Arena.
+    hq:
+      city: Izmir
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    offices:
+      - city: London
+        country: United Kingdom
+    parent: Miniclip
+    notable:
+      - Head Ball 2
+      - Basketball Arena
+    founded: 2015
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Mobge
+    url: https://www.mobge.net/
+    description: Turkish independent studio behind Oddmar, the Apple Design Award winning Viking platformer.
+    hq:
+      city: Eskisehir
+      country: Turkey
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Oddmar
+    size: boutique
+    notes: Site says based in Eskisehir; LinkedIn lists Bornova, Izmir and founded 2011.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Warlock Arts
+    url: https://www.warlockarts.com/
+    description: Ankara studio founded in 2014, developer of Intergalactic Pawn Shop, Dustmen and casual mobile puzzle games.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Intergalactic Pawn Shop
+      - Dustmen
+      - Balls n Blocks
+      - Symmetry
+    founded: 2014
+    size: boutique
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: 24 Bit Games
+    url: https://24bitgames.com/
+    description: South African game development services studio founded in 2012, offering porting and co-development from Johannesburg and Cape Town.
+    hq:
+      city: Bedfordview
+      country: South Africa
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+      - mobile
+    offices:
+      - city: Cape Town
+        country: South Africa
+    founded: 2012
+    size: small
+    notes: HQ city from LinkedIn (Bedfordview, Gauteng); site cites a 55+ person team.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Pizia
+    url: https://pizia.com/
+    description: 'Cordoba, Argentina studio founded in 2018 with mobile games past 15 million downloads and Hayaku: Island of Darkness in development.'
+    hq:
+      city: Cordoba
+      country: Argentina
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Sismo Games
+    url: https://sismogames.com/
+    description: Rafaela, Argentina studio founded in 2004 that has made 100+ games for clients plus mobile titles like Elemental Rush and Cube Merge 3D!
+    hq:
+      city: Rafaela
+      country: Argentina
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Elemental Rush
+      - Supply Defender
+      - Cube Merge 3D!
+      - Infinity Rails
+    founded: 2004
+    size: small
+    notes: City and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Odaclick
+    url: https://www.odaclick.com/
+    description: Cordoba, Argentina studio founded in 2019 providing full-cycle development, co-development and LiveOps, including Bit Heroes Quest.
+    hq:
+      city: Cordoba
+      country: Argentina
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Bit Heroes Quest
+    founded: 2019
+    size: small
+    notes: City, founded year and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Error 404 Game Studios
+    url: https://e404.gs/
+    description: Buenos Aires studio founded in 2017 making PC, VR and console games and outsourcing work, developer of Obey Me.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Obey Me
+    founded: 2017
+    size: boutique
+    notes: City and size from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Red Wolves Studios
+    url: https://redwolvestudios.com/
+    description: Buenos Aires studio founded in 2019 that develops and ports games for mobile, PC, consoles, web and VR.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2019
+    size: mid
+    notes: Size band from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'
+  - name: Mucho Games
+    url: https://mucho.games/
+    description: Montevideo studio of game veterans, formerly Trojan Chicken, maker of the mobile game Toast It Up.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Toast It Up
+    size: boutique
+    notes: City from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.140Z'

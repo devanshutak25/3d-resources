@@ -358,17 +358,23 @@ left open, remove when done.
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
-- `/studios/` 1,598 (75 countries; archviz 252, product viz 151) and `/game-studios/` 1,898 (75 countries) on
-  2026-11-03. Goal is every studio worldwide. Still thin: previs 14 (Previs Society site down, PLF/NVIZ dead),
-  mocap 36, Live2D/VTuber rigging 0 (only freelancers found), Morocco/Ghana/Jordan/Ecuador/Venezuela 0-2.
-- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,093 of 1,898), so
+- `/studios/` 1,911 (84 countries; archviz 253, product viz 158) and `/game-studios/` 2,102 (75 countries) on
+  2026-11-05. Goal is every studio worldwide. Still thin: previs 16 (Previs Society site down, PLF/NVIZ dead),
+  mocap 43, Live2D/VTuber rigging 3 (no Live2D discipline, tagged `2d-animation`), 0 rows for Ecuador,
+  Venezuela, Belarus, Malta, Moldova, Montenegro, Tunisia. Japan production 156 (game 232).
+- Round 4 (2026-11-05, +313 / +204) rows were verified by agents + a main-session HTTP probe only. Weak spots
+  flagged in `notes:`: city-less rows (~30), `notable`/`founded` from Wikidata or agent knowledge, Live2D rows.
+  Leads not added: CEE Animation directory (ceeanimation.eu, 353 studios; Slovak/Croatian/Slovenian/Serbian/
+  Ukrainian studios unchecked), WayForward + 1047 Games (TLS refuse scripted fetches), VIXI (Tokyo, live-action
+  CM/MV, no CG evidence), flightgraf (JS-only site).
+- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,216 of 2,102), so
   mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
-  LOW-confidence segment fixes (no live source). Size only 232/1,898. 84 Russia-HQ Wikidata studios skipped
+  LOW-confidence segment fixes (no live source). Size only 267/2,102. 84 Russia-HQ Wikidata studios skipped
   (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
   Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
 - 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,
   but HQ/description not from site text (`notes:` says so).
-- `/studios/` founded 877/1,598, size 657/1,598. The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+- `/studios/` founded 1,062/1,911, size 692/1,911. The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".

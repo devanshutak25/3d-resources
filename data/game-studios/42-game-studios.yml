@@ -1,0 +1,873 @@
+studios:
+  - name: JV Games
+    url: https://www.jvgames.com/
+    description: Las Vegas game developer that has made licensed handheld and WiiWare games and offers software engineering services.
+    hq:
+      city: Las Vegas
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - '007: Nightfire'
+      - Pong Toss! Frat Party Games
+      - Incoming!
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Zeboyd Games
+    url: http://zeboyd.com/
+    description: Lake Arrowhead, California studio making retro 16-bit style RPGs such as Cosmic Star Heroine.
+    hq:
+      city: Lake Arrowhead
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cosmic Star Heroine
+      - Cthulhu Saves the World
+      - 'Breath of Death VII: The Beginning'
+    founded: 2009
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: 17-BIT
+    url: https://17-bit.com/
+    description: Seattle and Kyoto studio behind Skulls of the Shogun, Galak-Z and the VR game Song in the Smoke.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Skulls of the Shogun
+      - 'Galak-Z: The Dimensional'
+      - Song in the Smoke
+      - Awaysis
+    founded: 2009
+    notes: Wikipedia says based in both Kyoto and Seattle.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Pangea Software
+    url: https://www.pangeasoft.net/
+    description: Austin developer of Mac and iOS games including Nanosaur, Bugdom and Enigmo.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Nanosaur
+      - Bugdom
+      - Otto Matic
+      - Enigmo
+    founded: 1987
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Guild Software
+    url: https://www.guildsoftware.com/
+    description: Milwaukee independent developer of the space MMORPG Vendetta Online.
+    hq:
+      city: Milwaukee
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - vr
+    notable:
+      - Vendetta Online
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: BreakAway Games
+    url: https://www.breakawaygames.com/
+    description: Hunt Valley, Maryland developer of strategy expansions and serious games for training and education.
+    hq:
+      city: Hunt Valley
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'Emperor: Rise of the Middle Kingdom'
+      - 'Civilization III: Conquests'
+      - 'Vital Signs: Emergency Department'
+    founded: 1998
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Minor Key Games
+    url: https://minorkeygames.com/
+    description: Two-person indie studio in Frisco, Texas and Novato, California making Eldritch and NEON STRUCT.
+    hq:
+      city: Frisco
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Eldritch
+      - NEON STRUCT
+      - Slayer Shock
+    founded: 2013
+    notes: Press kit lists Frisco, TX and Novato, CA.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Necrosoft Games
+    url: https://necrosoftgames.com/
+    description: Oakland, California studio behind Demonschool, Gunhouse and Hyper Gunsport.
+    hq:
+      city: Oakland
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Demonschool
+      - Gunhouse
+      - Hyper Gunsport
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Bit Kid
+    url: https://bitkidgames.com/
+    description: Baltimore indie studio that made the action platformer Chasm and is working on Wolfhound.
+    hq:
+      city: Baltimore
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Chasm
+      - Wolfhound
+    founded: 2011
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Flippfly
+    url: http://flippfly.com/
+    description: Wisconsin indie studio based in Wautoma, maker of Race the Sun and Evergarden.
+    hq:
+      city: Wautoma
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Race the Sun
+      - Evergarden
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: NPC Studio
+    url: https://www.fieldsofmistria.com/
+    description: Chicago indie studio developing the farming and life sim Fields of Mistria.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Fields of Mistria
+    notes: Site is the game's official page; it says the studio is based in Chicago.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Ironwood Studios
+    url: https://www.ironwoodstudios.com/
+    description: Seattle game studio of industry veterans, developer of the driving survival game Pacific Drive.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Pacific Drive
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Standing Stone Games
+    url: https://www.standingstonegames.com/
+    description: Boston studio that develops and runs the MMOs The Lord of the Rings Online and Dungeons & Dragons Online.
+    hq:
+      city: Boston
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - The Lord of the Rings Online
+      - Dungeons & Dragons Online
+    notes: Site links to Daybreak Game Company; ownership not confirmed, so parent omitted.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: iRacing.com Motorsport Simulations
+    url: https://www.iracing.com/
+    description: Chelmsford, Massachusetts developer of the online racing simulation iRacing.
+    hq:
+      city: Chelmsford
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - iRacing
+    notes: Address from site footer/contact.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Messhof
+    url: https://messhof.com/
+    description: Video game studio in Venice, Los Angeles, founded by Mark Essen and Kristy Norindr, maker of Nidhogg.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Nidhogg
+      - Nidhogg 2
+    founded: 2013
+    notes: Site says located in Venice, California (a Los Angeles neighborhood).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Originator
+    url: https://www.originatorkids.com/
+    description: San Francisco Bay Area developer and publisher of educational mobile apps for children such as PAW Patrol Academy.
+    hq:
+      city: San Carlos
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - PAW Patrol Academy
+      - MathTango
+    notes: Address on site is San Carlos, CA.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: PeopleFun
+    url: https://www.peoplefun.com/
+    description: Dallas mobile game developer behind the word game Wordscapes.
+    hq:
+      city: Dallas
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Wordscapes
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Turn Me Up Games
+    url: https://www.turnmeup.la/
+    description: Los Angeles co-development and porting studio handling platform support and optimization for partner games.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2011
+    notes: Founding year from site copyright (2011-2026).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Tic Toc Games
+    url: https://tictocgames.com/
+    description: Burbank game studio offering pitch-to-live-ops development, with a second studio in Manila, and maker of Wrestle Story.
+    hq:
+      city: Burbank
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - mobile
+      - pc
+    notable:
+      - Wrestle Story
+      - B.ARK
+      - Adventures of Pip
+    founded: 2011
+    notes: Also has a studio in Manila, Philippines.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Implicit Conversions
+    url: https://www.implicitconversions.com/
+    description: Porting and emulation studio that brings retro games to modern consoles, often with Limited Run Games.
+    hq:
+      city: Middletown
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Milano's Odd Job Collection
+    notes: City is the contact address on the site (Middletown, Delaware); it may be a registered office rather than a studio.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Gogii Games
+    url: https://www.gogiigames.com/
+    description: Moncton, New Brunswick developer and publisher of casual and hidden-object games for mobile and PC.
+    hq:
+      city: Moncton
+      country: Canada
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Fairy Tale Mysteries
+      - 'The Emerald Maiden: Symphony of Dreams'
+      - Babysitting Mania
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Kerberos Productions
+    url: http://www.kerberos-productions.com/
+    description: Vancouver developer formed by ex-Rockstar Vancouver staff, known for the Sword of the Stars series.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Sword of the Stars
+      - 'Sword of the Stars: The Pit'
+      - Fort Zombie
+      - Hoards of Glory
+    founded: 2003
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Over The Moon
+    url: https://www.overthemoongames.com/
+    description: Independent Vancouver studio behind The Fall series and The Last Hero of Nostalgaia.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Fall
+      - 'The Fall Part 2: Unbound'
+      - The Last Hero of Nostalgaia
+    notes: Site is JS-only; city from page title, titles from Wikidata.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Vertex Pop
+    url: http://www.vertexpop.com/
+    description: Toronto indie studio founded by Mobeen Fikree, making colourful action games such as Graceful Explosion Machine.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - WE ARE DOOMED
+      - Graceful Explosion Machine
+      - Super Crush KO
+      - HYPER METEOR
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Artisan Studios
+    url: https://www.artisangamestudios.com/
+    description: Québec City developer specializing in 2D RPGs such as Astria Ascending and Lost Hellden.
+    hq:
+      city: Québec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Super Neptunia RPG
+      - Astria Ascending
+      - Lost Hellden
+    founded: 2016
+    notes: Founded in Paris in 2016; site lists a Québec address.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Semidome
+    url: https://www.semido.me/
+    description: Toronto studio that made Nightgate and Last Voyage and is developing Still Stars Echo.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Nightgate
+      - Last Voyage
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Canari Games
+    url: https://www.canarigames.com/
+    description: Independent Montreal studio founded in 2018, maker of the cinematic platformer Lunark and Castaway.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Lunark
+      - Castaway
+    founded: 2018
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Foolish Mortals
+    url: https://www.foolish-mortals.net/
+    description: Saskatoon indie strategy studio behind Radio General and Kaiju Wars.
+    hq:
+      city: Saskatoon
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Radio General
+      - Kaiju Wars
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Kano
+    url: https://www.kano.ca/
+    description: Independent Victoria, B.C. studio making long-lived social and casual games such as Free Rider HD.
+    hq:
+      city: Victoria
+      country: Canada
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Free Rider HD
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Inflexion Games
+    url: https://www.inflexion.io/
+    description: Edmonton studio developing the survival crafting game Nightingale.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Nightingale
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Rewind Games
+    url: https://rewindgames.ca/
+    description: Small Vancouver indie studio, developer of the downhill longboarding game Tanuki Sunset.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tanuki Sunset
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Max Inferno
+    url: https://www.maxinferno.com/
+    description: Small Halifax, Nova Scotia studio that made the tidying puzzle game A Little to the Left.
+    hq:
+      city: Halifax
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - A Little to the Left
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: 3583 Bytes
+    url: https://www.3583bytes.com/
+    description: Calgary mobile game studio best known for Train Sim.
+    hq:
+      city: Calgary
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Train Sim
+    founded: 2012
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Excellent Rectangle
+    url: https://tapetotapegame.com/
+    description: Québec City indie studio behind the roguelite hockey game Tape to Tape.
+    hq:
+      city: Québec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tape to Tape
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Laundry Bear Games
+    url: http://laundrybear.com/
+    description: Toronto studio making story-driven games such as A Mortician's Tale.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - A Mortician's Tale
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Xona Games
+    url: https://xona.com/
+    description: Yarmouth, Nova Scotia indie studio making arcade shooters for Xbox and PlayStation such as Score Rush Extended.
+    hq:
+      city: Yarmouth
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Score Rush Extended
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Blinkmoon
+    url: https://blinkmoon.com/
+    description: Vancouver game studio behind Necromantic.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Necromantic
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Pengonauts
+    url: https://pengonauts.com/
+    description: Three-person Montreal indie studio behind the deckbuilder StarVaders.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - StarVaders
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Longbow Games
+    url: https://longbowgames.com/
+    description: Toronto developer of the Hegemony strategy series and DX-Ball 2.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Hegemony III: Clash of the Ancients'
+      - 'Hegemony Rome: The Rise of Caesar'
+      - DX-Ball 2
+    founded: 1997
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Invoke Studios
+    url: https://www.invokestudios.com/
+    description: 'Montreal developer, formerly Tuque Games, that made Dungeons & Dragons: Dark Alliance.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Wizards of the Coast
+    notable:
+      - 'Dungeons & Dragons: Dark Alliance'
+      - Livelock
+    founded: 2012
+    notes: Parent per site (part of the Wizards of the Coast family).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Breakfall
+    url: http://breakfall.ca/
+    description: Ottawa indie studio behind Starwhal and Pizza Titan Ultra.
+    hq:
+      city: Ottawa
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Starwhal
+      - Pizza Titan Ultra
+    founded: 2010
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Yellow Brick Games
+    url: https://yellowbrickgames.ca/
+    description: Québec City studio founded in 2020, developer of the action adventure Eternal Strands.
+    hq:
+      city: Québec City
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Eternal Strands
+    founded: 2020
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Budge Studios
+    url: https://budgestudios.com/
+    description: 'Montreal developer of licensed mobile games for kids such as Bluey: Let''s Play! and Barbie DreamHouse Adventures.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Bluey: Let''s Play!'
+      - Barbie DreamHouse Adventures
+      - PAW Patrol Rescue World
+    notes: Address found on site (Montreal, Quebec).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Sago Mini
+    url: https://sagomini.com/
+    description: Toronto maker of preschool apps and toys, a subsidiary of Spin Master.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Spin Master
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Asteroid Base
+    url: https://www.asteroidbase.com/
+    description: Toronto indie studio behind the co-op game Lovers in a Dangerous Spacetime.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Lovers in a Dangerous Spacetime
+      - Shuriken Skies
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Rogue Factor
+    url: https://rogue-factor.com/
+    description: Montreal boutique studio that developed the action adventure Hell Is Us.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hell Is Us
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Shishi Studios
+    url: https://www.shishistudios.com/en/
+    description: 'Montreal indie studio focused on accessible games, maker of Shishi: Timeless Prelude.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Shishi: Timeless Prelude'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Trebuchet
+    url: https://trebuchet.fun/fr/
+    description: Montreal studio making VR games such as Prison Boss VR and Prison Boss Prohibition.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Prison Boss VR
+      - Jousting Time
+      - Prison Boss Prohibition
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Breaking Walls
+    url: https://www.breakingwalls.co/
+    description: 'Independent Montreal studio founded in 2015 by industry veterans, developing Venus: The Last Ascent.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Venus: The Last Ascent'
+    founded: 2015
+    notes: Earlier titles not confirmed on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Ululab
+    url: https://ululab.com/
+    description: Montreal studio making math learning games for kids, including Slice Fractions and Math Makers.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Slice Fractions
+      - Math Makers
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'

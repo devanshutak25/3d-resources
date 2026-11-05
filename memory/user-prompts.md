@@ -191,3 +191,11 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > resolve github issues and pull requests
 
 **Answered:** Triaged 5 PRs + 3 issues (+ webGPU-boids#1). Local branch `resolve`: merged #46, #45 (fixed), #42 (fixed); added GameShipKit (#43) + official SolidCraft; link-check fixes (#40); #41 no-op. User: decline #44 + #39, merge boids#1. Fork push + merge blocked by auto-mode classifier; push/close commands handed to user. Validate ✓, tests 8/8, build ✓.
+
+**Prompt:** (2026-11-05)
+> lets look for more studios
+
+**Prompt:** (2026-11-05, mid-run)
+> find more studios in japan from here, https://pixelpixel.jp/
+
+**Answered:** Round 4 discovery: 8 gap-slice agents + Pixel×Pixel festival speaker/sponsor lists (2025 + 2026). /studios/ 1,598 -> 1,911 (84 countries; Japan 81 -> 156), /game-studios/ 1,898 -> 2,102. Pixel×Pixel gave 16 (14 Japan). Probe dropped 4 dead/cert-expired; cut Ánima + 5 explainer shops. Validate/tests/build/links pass. Not committed.

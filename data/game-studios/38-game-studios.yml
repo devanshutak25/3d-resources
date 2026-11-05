@@ -805,3 +805,20 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:55:47.768Z'
+  - name: Chilly Room
+    url: https://www.chillyroom.com/en
+    description: Shenzhen indie studio and developer of the mobile roguelike Soul Knight and the action game Otherworld Legends.
+    hq:
+      city: Shenzhen
+      country: China
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Soul Knight
+      - Otherworld Legends
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.138Z'

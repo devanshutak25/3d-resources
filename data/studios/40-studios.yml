@@ -1,0 +1,1066 @@
+studios:
+  - name: Animācijas Brigāde
+    url: https://animacijasbrigade.lv/
+    description: Riga puppet animation studio using classic stop-motion techniques to make films, series and commercials.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - advertising
+    notes: Site is JS-rendered; city from Wikidata (Q-item for Animācijas brigāde, HQ Riga).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Spotted Bird
+    url: https://www.spottedbird.nl/
+    description: Rotterdam animation production company founded in 2021 by Peter Lindhout, developing and producing animated projects with new and established talent.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2021
+    notes: Producer; discipline not confirmed on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Kedoo
+    url: https://www.kedoo.com/
+    description: Dubai kids' entertainment company that produces and distributes animated series, best known for the non-dialogue CG series Booba.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2013
+    notable:
+      - Booba
+      - Food Puzzle
+      - Sonya from Toastville
+    notes: IP owner/producer more than a service studio; site footer 'Kedoo Entertainment DMCC'. HQ from Wikipedia.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Lunes
+    url: https://www.estudiolunes.cl/
+    description: Santiago animation studio creating original series, feature films and branded content, including the Homeless series and feature.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Homeless
+      - Waldo's Dream
+      - Hermanos Casablanca
+    social:
+      instagram: https://www.instagram.com/lunes_animacion/
+      linkedin: https://www.linkedin.com/company/lunesanimation/
+      youtube: https://www.youtube.com/@HomelessSerie
+    notes: Listed on Animachi (Chilean animation association). Site says almost 20 years of activity; exact founding year not stated.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Niño Viejo
+    url: http://ninoviejo.cl/
+    description: Chilean 2D and stop-motion animation studio making TV series work, short films, music videos and commercials.
+    hq:
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - music-video
+      - advertising
+    notable:
+      - La Leyenda de Zeta y Ozz
+      - Cantar con Sentido
+    social:
+      instagram: https://www.instagram.com/nino_viejo_estudio
+      vimeo: https://vimeo.com/ninoviejo
+      youtube: https://www.youtube.com/@ninoviejoestudiodeanimacion
+      x: https://x.com/NinoViejo
+    notes: Animachi member. City not stated on site or Animachi profile, so hq.city omitted.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: AnimaxFYB Studios
+    url: https://www.animaxfybstudios.com/
+    description: Accra animation and visual effects studio producing animated films and series based on Ghanaian history and folklore.
+    hq:
+      city: Accra
+      country: Ghana
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2014
+    notable:
+      - Agorkoli
+      - Osei Tutu
+      - Jabari
+    notes: Accra location from Graphic Showbiz / Pulse Ghana press on studio launch in East Legon, Accra. Homepage loads with title 'Animation & Visual Effects Studio' but little text.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Sketch In Motion
+    url: https://www.sketchinmotion.com/
+    description: Amman animation studio producing comedy cartoons and animated series for Arab broadcasters, from concept to final delivery.
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Street 13
+      - Halwasat
+    notes: Halwasat credit from Jordan Times coverage; Street 13 (2022) from site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Artcoustic Studios
+    url: https://www.artcoustic.ma/
+    description: Casablanca animation studio producing short animated comedies and 2D/3D heritage series for Moroccan broadcasters 2M and SNRT.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/artcoustic.studios
+      linkedin: https://www.linkedin.com/company/artcoustic-solutions
+      youtube: https://www.youtube.com/user/ArtcousticStudios
+    notes: Homepage loads but says 'site web en construction' with address in Casablanca; work verified via Africanews (2022) and Bladi.net press on 2M/SNRT series. Founding year from Bladi.net.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Quadron Studios
+    url: https://www.quadronstudios.com/
+    description: Lagos studio making 2D and 3D animation, motion graphics and XR work focused on African stories, plus outsourcing support.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - xr
+      - outsourcing
+    notable:
+      - Ikenga
+      - Skelebe
+    social:
+      linkedin: https://www.linkedin.com/company/28623233/
+    notes: 'Address on site: Yaba, Lagos.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Mercury Visual Solutions
+    url: https://www.mercuryvfx.com/
+    description: Cairo visual effects and post-production studio working on film, television and live events since 2007.
+    hq:
+      city: Cairo
+      country: Egypt
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/mercury_vfx/
+      linkedin: https://www.linkedin.com/company/mercury-visual-solutions
+      vimeo: https://vimeo.com/mercuryvs
+    notes: City from 3dvf.com studio directory; site title says Egypt.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Komotion Studios
+    url: http://komotionstudios.com/
+    description: Lagos 3D animation and VFX studio using motion capture for animated productions, commercials and immersive experiences.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - vfx
+      - mocap
+      - xr
+    markets:
+      - advertising
+      - film
+    notable:
+      - Dawn of Thunder
+    notes: Lagos from The Native and Squid Mag press. Site copyright 2022; recent activity not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: ISF Studios
+    url: https://www.isfstudios.com/
+    description: Ankara animation studio producing children's series and films, best known for Rafadan Tayfa and its theatrical spin-offs.
+    hq:
+      city: Ankara
+      country: Turkey
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Rafadan Tayfa
+      - 'Rafadan Tayfa: Dehliz Macerası'
+      - Dijital Tayfa
+      - Trafik Tayfa
+    social:
+      instagram: https://www.instagram.com/isfstudios
+      youtube: https://www.youtube.com/channel/UCNejE03PzpBBfX9NNEVRLCQ
+    notes: Gölbaşı, Ankara per site and Wikipedia (Rafadan Tayfa article). 3D technique inferred from series look, not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Animanya
+    url: https://www.animanya.com/
+    description: Ankara 3D animation studio founded in 2008, making product, industrial and defense animation, motion graphics and AR/VR work.
+    hq:
+      city: Ankara
+      country: Turkey
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - motion-design
+      - xr
+    markets:
+      - brand
+      - advertising
+    founded: 2008
+    notes: Clients include TUSAŞ, Roketsan, Aselsan, Havelsan (defense sector). English site at animanyastudios.com.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Mandrill
+    url: https://mandrill.tv/
+    description: Chilean 2D/3D animation and VFX studio in Santiago and Valparaíso, with VFX credits on Netflix's El Conde and original series work.
+    hq:
+      city: Santiago
+      country: Chile
+    offices:
+      - city: Valparaíso
+        country: Chile
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - advertising
+    founded: 2018
+    notable:
+      - El Conde
+      - Teo
+      - Cat's Box
+    social:
+      instagram: https://www.instagram.com/themandrillstudio
+      vimeo: https://vimeo.com/mandrillstudio
+    notes: Animachi member. Site lists Santiago & Valparaíso.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Monstruosa
+    url: https://monstruosa.cl/
+    description: Concepción animation studio producing animated short films, social campaign videos, music videos and original characters for brands.
+    hq:
+      city: Concepción
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - music-video
+    notable:
+      - Un caracol me trajo hasta aquí
+      - La segunda Ola
+    social:
+      instagram: https://www.instagram.com/monstruosa_estudio
+    notes: City from Animachi profile; small studio. Site serves a bot challenge (HTTP 202) to scripted link checks (2026-11-05).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Pil Animation
+    url: https://pilanimation.com/
+    description: Petah Tikva animation studio making explainer, commercial, training and TV animation, including History in a Minute for National Geographic.
+    hq:
+      city: Petah Tikva
+      country: Israel
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - History in a Minute
+      - One Fact A Day
+      - Jump with Joey
+      - El Al safety video
+    social:
+      linkedin: https://www.linkedin.com/company/pilanimation/
+      youtube: https://www.youtube.com/channel/UCKvQkCwZfTBEy79pVjhDB2A
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Estricnina Desenhos Animados
+    url: https://www.estricnina.com.br/
+    description: São Paulo animation studio behind adult animated series for MTV Brasil and Brazilian cable, including Fudêncio e Seus Amigos and Gigablaster.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Fudêncio e Seus Amigos
+      - Gigablaster
+      - Megaliga MTV de VJs Paladinos
+      - The Jorges
+    social:
+      instagram: https://www.instagram.com/estricnina_desenhosanimados
+      vimeo: https://vimeo.com/user3108315
+    notes: 'Address on site: Pinheiros, São Paulo. Site copyright 2021; current activity not confirmed.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Arik Boas Animation
+    url: https://www.arikboas-animation.com/
+    description: Tel Aviv animation studio creating title sequences, documentary and museum animation, music videos and commercials in hand-drawn and digital styles.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    disciplines:
+      - 2d-animation
+      - title-design
+      - stop-motion
+    markets:
+      - advertising
+      - episodic
+      - music-video
+    notable:
+      - Reformed (opening titles)
+      - Test Me (Slushii)
+      - Revolution 101
+    notes: City from Dexigner directory and +972-3 phone on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Snowball Studios
+    url: http://www.snowballvfx.com/
+    description: Israeli 3D animation and VFX studio with Tel Aviv and Jerusalem bases, producing TV series, commercials and film work.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    offices:
+      - city: Jerusalem
+        country: Israel
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - advertising
+      - film
+    notes: Locations from Jerusalem Film Fund company page. Homepage loads (portfolio, TV series, showreel nav) but has no dates; recent activity not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: KMER Studios
+    url: https://wwwkmerstudios1.odoo.com/
+    description: Douala animation studio founded in 2022 making children's and family animation based on Cameroonian and African stories.
+    hq:
+      city: Douala
+      country: Cameroon
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2022
+    notable:
+      - Les histoires de Pa'a Tagni
+    notes: Very small team (about 6) with a pilot project; site on an odoo subdomain. Include only if small studios are wanted.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Hola Combo
+    url: https://www.holacombo.com/
+    description: Mexican creative and animation studio making title design, film and TV graphics, animated documentaries and commercial campaigns.
+    hq:
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Ninety-five Senses
+      - Somos Pajaritos
+      - GOY
+    social:
+      instagram: https://www.instagram.com/holacombo/
+      youtube: https://www.youtube.com/channel/UCivRXbPMMuE1XJYIFl61wRw
+    notes: Country from Premios Quirino 2024 nominations (Somos Pajaritos, México). City not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: El Birque
+    url: https://www.elbirque.com/
+    description: Argentine animation studio producing children's series, music videos and commissioned animation, including El Viento del Olvido.
+    hq:
+      country: Argentina
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - music-video
+    notable:
+      - El Viento del Olvido
+      - El Pulpo Cocinero
+      - Juana y la Chacarera de la Vinchuca
+    social:
+      instagram: https://www.instagram.com/elbirque/
+      youtube: https://youtube.com/@elbirqueanimaciones7447
+    notes: Country from Premios Quirino 2024 nominations. City not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Estudio Teremim
+    url: https://www.estudioteremim.com.br/
+    description: Brazilian animation studio making auteur short films such as Lulina e a Lua, a 2024 Quirino Awards nominee.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Lulina e a Lua
+      - Torre
+      - Quando os dias eram eternos
+      - Realejo
+    social:
+      vimeo: https://vimeo.com/estudioteremim
+    notes: Country from Premios Quirino 2024. City not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Nea Studio
+    url: https://www.neastudio.xyz/
+    description: Medellín creative studio producing motion design, 3D/CGI and live-action brand films alongside identity and digital work.
+    hq:
+      city: Medellín
+      country: Colombia
+    offices:
+      - city: Miami
+        country: United States
+    disciplines:
+      - motion-design
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/nea__st
+      linkedin: https://www.linkedin.com/company/nea-studio
+      vimeo: https://vimeo.com/user198645455
+      behance: https://www.behance.net/neastudio
+    notes: Also does branding and web; address on site in Medellín.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Digital Realism Studios
+    url: https://www.digitalrealismstudios.com/
+    description: Amman production studio offering VFX, CGI, 2D/3D animation, motion graphics, VR/AR and projection mapping for brands and NGOs.
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - xr
+      - live-action
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/digitalrealismstudios
+      linkedin: https://www.linkedin.com/company/digitalrealismstudios
+      youtube: https://www.youtube.com/@digitalrealismstudios
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Tomandora
+    url: https://www.tomandora.com/
+    description: Amman digital production studio making 2D and 3D animated series, motion graphics and e-learning animation for Jordan TV, MBC3 and others.
+    hq:
+      city: Amman
+      country: Jordan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Abu Salamah
+      - Abu 3awad
+      - Secret of the Cave
+    social:
+      linkedin: https://www.linkedin.com/company/tomandora
+      youtube: https://www.youtube.com/@tomandoraproductions
+      x: https://x.com/tomandora
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Afrotoons
+    url: https://www.afrotoons.com/
+    description: Accra animation studio creating original children's series inspired by African cultures, starting with Selase's Adventures.
+    hq:
+      city: Accra
+      country: Ghana
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Selase's Adventures
+    social:
+      instagram: https://www.instagram.com/afrotoons_animation
+      linkedin: https://www.linkedin.com/company/afrotoons
+      youtube: https://www.youtube.com/channel/UCzrjJ_MWeYihP03VRUhj_Gw
+    notes: Accra launch from MyJoyOnline press; site has no address. 2D technique not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: PATAKA
+    url: https://www.pataka.studio/
+    description: Chilean auteur stop-motion and animation studio producing web series and music videos, including Pajarones and You're My Morning.
+    hq:
+      country: Chile
+    disciplines:
+      - stop-motion
+    markets:
+      - episodic
+      - music-video
+    notable:
+      - Pajarones
+      - You're My Morning
+    social:
+      instagram: https://www.instagram.com/pataka.studio
+    notes: Animachi member; You're My Morning was a 2024 Quirino nominee (Pataka Producciones, Chile). City not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: 404 Motion
+    url: https://404mo.com/
+    description: Chilean motion graphics and 2D/3D animation studio born in Chiloé, making explainers, educational series graphics and video mapping.
+    hq:
+      country: Chile
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - experiential
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Mira y Aprende (CNTV graphics)
+      - Desde las Cenizas (HypnosFest mapping)
+    notes: Animachi member; says it was born in Chiloé and works fully remote, so no city given.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Bugbox Animation
+    url: https://www.bugbox.co.za/
+    description: Cape Town character animation studio founded in 2003, making 2D and 3D commercials, brand characters and original series.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    founded: 2003
+    notable:
+      - Musi & Cuckoo
+      - Toby
+    social:
+      vimeo: https://vimeo.com/user2389579bugbox
+    notes: 'Clients listed: Kellogg''s, Coca-Cola, Nestlé, LEGO. Selected for 2026 UNDP Cape Town animation accelerator (Cape Town ETC).'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: BlackRhino VR
+    url: https://www.blackrhinovr.com/
+    description: Nairobi immersive studio founded in 2015 producing 360° video, live streaming, VR and AR experiences for brands and NGOs.
+    hq:
+      city: Nairobi
+      country: Kenya
+    disciplines:
+      - xr
+    markets:
+      - brand
+    founded: 2015
+    notable:
+      - Le Lac
+    social:
+      instagram: https://www.instagram.com/blackrhinovr
+    notes: 'Address on site: Westlands, Nairobi. Co-produced VR film Le Lac with Electric South.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Pixcomm
+    url: http://pixcomm.co.za/
+    description: Cape Town animation studio that produced ten seasons of the SABC1 children's series Jabu's Jungle and NHK Japan Prize winner Zizi and Hannibal.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Jabu's Jungle
+      - Zizi and Hannibal
+    notes: Site is mainly a Jabu's Jungle show page (copyright 2018); Cape Town and credits from Cape Town ETC (Oct 2026). Animation technique not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Goon Valley
+    url: https://www.goonvalley.com/
+    description: Cape Town motion design and animation studio making explainer and learning content for corporate clients, now expanding into original work.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+    notable:
+      - 'Aau''s Song (Star Wars: Visions, co-founder co-wrote/co-directed)'
+    notes: City from Cape Town ETC press; site has no address. Aau's Song was produced by Triggerfish, credit is via co-founder Nadia Darries.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Scroll Entertainment
+    url: http://scrollentertainment.com/
+    description: Lagos 2D animation studio making TV commercials, YouTube animation and animated short films.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - Artsy
+      - Linda Love
+    social:
+      instagram: https://www.instagram.com/scrollentertainment
+      linkedin: https://www.linkedin.com/company/scroll-comics
+      youtube: https://www.youtube.com/channel/UCH_TH08np_0ez0l7M63cLLA
+    notes: Site copyright 2022.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Behagerlij
+    url: https://www.behagerlij.com/
+    description: Addis Ababa creative studio making animation, illustration, 3D and children's content alongside branding work.
+    hq:
+      city: Addis Ababa
+      country: Ethiopia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notes: Trades as Behagerlij Advertising Company; animation is one service among design and branding. Described in press as one of Ethiopia's first animation studios (Habesha Creative Lab 2025).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Anibera
+    url: https://www.anibera.com/
+    description: Istanbul animation studio founded in 2013 producing 3D series and films such as Niloya, Doru and Evliya Çelebi, plus VFX and ads.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2013
+    notable:
+      - Niloya
+      - Doru
+      - 'Evliya Çelebi: Ölümsüzlük Suyu'
+      - Taktik 6
+    notes: 'Address on site: Maslak, Sarıyer, Istanbul. Site states a team of about 30 (size from site, not LinkedIn).'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Mano Animation Studios
+    url: https://manoanimationstudios.com/
+    description: Karachi hand-drawn animation studio behind The Glassworker, Pakistan's first hand-drawn animated feature, also making commercial animation.
+    hq:
+      city: Karachi
+      country: Pakistan
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - advertising
+    notable:
+      - The Glassworker
+    social:
+      instagram: https://www.instagram.com/manoanimationstudios
+      linkedin: https://www.linkedin.com/company/mano-animation-studios
+      youtube: https://www.youtube.com/@manoanimationstudios
+      x: https://twitter.com/manostudios
+    notes: Founded by Usman Riaz. Also credited on Wikipedia List of Pakistani animated films.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Blink Studios
+    url: https://www.blinkstudios.ae/
+    description: Dubai film and animation studio producing original IP and 2D/3D animation, live action and immersive work, with an office at twofour54 Abu Dhabi.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    offices:
+      - city: Abu Dhabi
+        country: United Arab Emirates
+      - city: Houston
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - live-action
+      - xr
+    markets:
+      - episodic
+      - brand
+    notable:
+      - 1001 Inventions
+      - Mindmovers
+      - Karim & Noor
+      - Reimagining Classics (Sesame Workshop)
+    social:
+      instagram: https://www.instagram.com/blinkstudios/
+      linkedin: https://www.linkedin.com/company/blink-studios-blink/
+      vimeo: https://vimeo.com/blinkstudios
+      youtube: https://www.youtube.com/user/blinkstudiosonline
+    notes: 'Address on site: Dubai Studio City. Founding year not stated.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Careloko Producciones
+    url: https://www.careloko.com/
+    description: Bogotá production company making animated children's series such as Hay Algo Detrás de Ti, Quirino 2026 best series winner, plus audiovisual services.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+    notable:
+      - Hay Algo Detrás de Ti
+      - Diente x Diente
+      - Ciudad Animal
+      - Serapio y los Enigmas del Cuerpo
+    social:
+      instagram: https://www.instagram.com/carelokoproducciones/
+      youtube: https://www.youtube.com/channel/UC6dHUByOtWjZYbGS2ZnkYzQ
+    notes: Site also lists event coverage and photography. Animation technique not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Hierroanimación
+    url: https://www.hierro.tv/
+    description: Colombian animation studio producing series, transmedia, short and feature films, including the short The Other Shape.
+    hq:
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - The Other Shape
+      - Tormenta de Arroz
+    social:
+      linkedin: https://www.linkedin.com/company/hierroanimacion
+      vimeo: https://vimeo.com/channels/hierro
+    notes: GEMA Colombia member. Site lists Colombian and Costa Rican phone numbers; city not confirmed. Techniques not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Fosfenos Media
+    url: http://www.fosfenosmedia.com/
+    description: Cali studio making animated and documentary films and series for children, including Guillermina y Candelario and the feature El libro de Lila.
+    hq:
+      city: Cali
+      country: Colombia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Guillermina y Candelario
+      - El libro de Lila
+      - León el camaleón
+    notes: GEMA Colombia member. Founded by Marcela and Maritza Rincón; site says about 20 years of work.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: 3DADOS MEDIA
+    url: https://3dadosmedia.com/
+    description: Bogotá animation studio founded in 2006 making animated series, films and branded content, including Sabogal and El insólito secreto de Eri.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - brand
+    founded: 2006
+    notable:
+      - Sabogal
+      - El insólito secreto de Eri
+      - Amarillo y Violeta
+      - Espantijos
+    social:
+      instagram: https://www.instagram.com/3dadosmedia
+      linkedin: https://www.linkedin.com/company/3da2-animation-studios
+      youtube: https://www.youtube.com/@3DADOSMEDIA
+    notes: GEMA Colombia member. Also trades as 3da2 Animation Studios.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Animatropo
+    url: http://www.animatropo.com/
+    description: Colombian studio founded in 2014 creating edutainment animation and transmedia for kids, including Japan Prize winner Donkeybook.
+    hq:
+      country: Colombia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2014
+    notable:
+      - Donkeybook
+      - Tita & Nico
+      - Anahí
+    notes: GEMA Colombia member. City not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Doinmedia
+    url: https://www.doinmedia.com/
+    description: Bogotá audiovisual studio producing 3D animation, animated explainers, video and interactive content for NGOs and brands.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - live-action
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/doinmedia
+      linkedin: https://www.linkedin.com/company/doinmedia
+      vimeo: https://vimeo.com/doinmedia
+      youtube: https://www.youtube.com/channel/UCh-EdcQZeUihY26EyDmmTQA
+    notes: GEMA Colombia member. Clients include Save the Children, UNODC, DHL.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Kiddigraph Studio
+    url: https://www.k3dvfx.com/
+    description: Colombian VFX and animation studio offering matte painting, CG shots, 3D and stop-motion animation and photogrammetry for film and series.
+    hq:
+      country: Colombia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    notable:
+      - La Matriarca
+      - Aquatium 2070
+      - Sangrenegra
+    social:
+      instagram: https://www.instagram.com/kiddigraphstudio
+    notes: GEMA Colombia member (country). City not stated on site. Site also lists vendor credits on Riddick, Narnia, Watchmen and The Reef via other studios; not verified.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: La Mar Media Lab
+    url: https://www.lamar.com.co/
+    description: Colombian kids' animation and music studio making 2D and 3D series such as Ana the Pirate for Discovery Kids and Pipo, My Imaginary Friend.
+    hq:
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - music-video
+    notable:
+      - Ana the Pirate
+      - Pipo, My Imaginary Friend
+      - Bombotones at Home
+      - The Songbird's Flight
+    social:
+      instagram: https://www.instagram.com/lamarmedialab
+      linkedin: https://www.linkedin.com/company/la-mar-media-lab
+    notes: GEMA Colombia member. City not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Lanzcom Studio
+    url: https://lanzcom.com/
+    description: Sincelejo transmedia studio making 2D/3D animation, mobile games, augmented reality and educational apps.
+    hq:
+      city: Sincelejo
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    markets:
+      - episodic
+      - games
+    notable:
+      - Ajubá cuentos
+      - Cuatro Reinos
+    social:
+      instagram: https://www.instagram.com/lanzcom_studio
+      youtube: https://www.youtube.com/@lanzcomaudiovisual1539
+    notes: GEMA Colombia member. Mixed animation/edtech/app shop.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Red Animation Studio
+    url: https://redanima.com/
+    description: Lima animation studio with about 120 staff making CGI and 2D series and films, including Angry Birds series work for Rovio and original features.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    notable:
+      - Angry Birds Bubble Trouble
+      - Angry Birds Maker Space
+      - Little Angels
+      - Mecha
+    social:
+      instagram: https://www.instagram.com/redanimationstudios
+      x: https://x.com/redanimastudio
+    notes: 'Address on site: Miraflores, Lima. Site says studio is 15 years old (about 2011). Listed by Peru Animation association (old domain redanimationstudio.pe).'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Bicicleta Casa Audiovisual
+    url: https://bicicleta.com.pe/
+    description: Lima audiovisual house producing 2D animation, institutional and advertising videos and original fiction series.
+    hq:
+      city: Lima
+      country: Peru
+    disciplines:
+      - 2d-animation
+      - live-action
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/bicicletaav
+    notes: 'Peru Animation association member. Address on site: Miraflores, Lima.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Cenital Concept
+    url: http://www.cenitalconcept.com/
+    description: Peruvian animation and e-learning studio making animated explainers and training content for NGOs, broadcasters and companies.
+    hq:
+      country: Peru
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - Así es mi Perú (América TV)
+    social:
+      instagram: https://www.instagram.com/cenitalconcept
+      linkedin: https://www.linkedin.com/company/cenital-concept
+      vimeo: https://vimeo.com/cenitalconcept
+    notes: Peru Animation association member (country). City not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'

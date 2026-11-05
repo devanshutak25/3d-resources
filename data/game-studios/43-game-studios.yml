@@ -1,0 +1,49 @@
+studios:
+  - name: Erupting Avocado
+    url: https://eruptingavocado.com/
+    description: Sherbrooke indie studio making dark horror tales such as The Repairing Mantis and The Hungry Fly.
+    hq:
+      city: Sherbrooke
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Repairing Mantis
+      - The Hungry Fly
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: Beyond Fun Studio
+    url: https://www.beyondfunstudio.com/
+    description: Québec City independent studio founded in 2019, maker of the party game Aeolis Tournament.
+    hq:
+      city: Québec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Aeolis Tournament
+    founded: 2019
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'
+  - name: RageCure Games
+    url: https://www.ragecure.games/
+    description: Québec City indie studio behind the arcade hockey game Hockey Super Squad.
+    hq:
+      city: Québec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hockey Super Squad
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.141Z'

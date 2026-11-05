@@ -772,3 +772,116 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:41:09.969Z'
+  - name: Seven Arcs
+    url: https://7arcs.co.jp/
+    description: Musashino, Tokyo anime studio producing TV series and films, known for the Magical Girl Lyrical Nanoha franchise.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2002
+    notable:
+      - Magical Girl Lyrical Nanoha
+    notes: Address in Musashino, Tokyo on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: studio A-CAT
+    url: https://a-cat.co.jp/
+    description: Kunitachi, Tokyo animation studio producing TV anime series and handling production work for other studios.
+    hq:
+      city: Kunitachi
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1996
+    social:
+      x: https://x.com/acat_jp
+    notes: Site states office in Kunitachi, Tokyo.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Actas
+    url: https://actas-inc.co.jp/
+    description: Suginami, Tokyo anime studio that plans and produces TV series and films, including Girls und Panzer and Princess Principal.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1998
+    notable:
+      - Girls und Panzer
+      - Princess Principal
+    social:
+      x: https://x.com/Actas_Animation
+    notes: Suginami, Tokyo address on company page. Bandai Namco Filmworks group.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: The Answer Studio
+    url: https://www.answerstudio.co.jp/
+    description: Suginami, Tokyo anime studio providing key animation, in-between and finishing work for TV series and features.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    social:
+      x: https://x.com/TheAnswerstudio
+      youtube: https://www.youtube.com/channel/UCyskIVbK6dwvekl6WvwexsQ
+    notes: Suginami, Tokyo address on company page; Wikidata founding 2004 not confirmed on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Ashi Productions
+    url: https://ashipro.jp/
+    description: Long-running Suginami, Tokyo anime studio producing TV series since the 1970s, known for Super Beast Machine God Dancouga.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1975
+    notable:
+      - Super Beast Machine God Dancouga
+    social:
+      x: https://x.com/ashi__pro
+      youtube: https://www.youtube.com/@ashipro1224
+    notes: Suginami, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Bibury Animation Studios
+    url: https://bibury-st.com/
+    description: Mitaka, Tokyo anime studio producing TV series, including the second season of The Quintessential Quintuplets.
+    hq:
+      city: Mitaka
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2017
+    notable:
+      - The Quintessential Quintuplets 2
+    notes: Mitaka, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'

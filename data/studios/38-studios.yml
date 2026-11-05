@@ -1,0 +1,1008 @@
+studios:
+  - name: Studio Signpost
+    url: https://st-signpost.co.jp/
+    description: Suginami, Tokyo anime studio and Pierrot subsidiary producing TV series and production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notes: Homepage loads without address; Igusa, Suginami, Tokyo HQ from Wikipedia infobox. Pierrot subsidiary (Studio Pierrot is already listed).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Wolf Smoke Animation Studio
+    url: http://wolfsmoke.studio/
+    description: 'Shanghai hand-drawn 2D animation studio making original shorts and game animation, including a story sequence for Black Myth: Wukong.'
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - games
+    founded: 2006
+    notable:
+      - The White Moon
+    social:
+      x: https://x.com/Wolfsmokestudio
+      youtube: https://www.youtube.com/user/WolfSomke
+    notes: 'About page states founded 2006 in Shanghai (Wikidata says Guangzhou; site used). Site lists a hidden-story animation for Black Myth: Wukong.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Sparkly Key Animation Studio
+    url: https://xjent.com/
+    description: Hangzhou 3D animation studio producing Chinese donghua series such as The Legend of Qin and Soul Land.
+    hq:
+      city: Hangzhou
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2005
+    notable:
+      - The Legend of Qin
+      - Soul Land
+      - Tales of Herding Gods
+    notes: Site is Chinese only (Hangzhou Xuanji Technology, Zhejiang ICP); English name from Wikidata.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: 2:10 AM Animation
+    url: https://www.2-10.cn/
+    description: Wuhan animation studio producing game CG trailers and series in 2D and toon-shaded 3D, including work for Onmyoji and League of Legends.
+    hq:
+      city: Wuhan
+      country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - cinematics
+    markets:
+      - games
+      - episodic
+    founded: 2011
+    notable:
+      - Onmyoji
+      - League of Legends
+      - Dungeon & Fighter
+    social:
+      youtube: https://www.youtube.com/channel/UCZ38upNkczaWQuFUqQyc06A
+      linkedin: https://www.linkedin.com/company/twoten-animation/
+    notes: Wuhan Optics Valley address on homepage; founding year from Wikidata. Notable entries are games it made CG animation for.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Zoland Animation
+    url: https://www.zolandanimation.com/
+    description: Hangzhou animation company of the Zhongnan Group producing original TV animation, with distribution and licensing arms.
+    hq:
+      city: Hangzhou
+      country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2003
+    notes: Site meta states Hangzhou (Binjiang) base and 2003 founding; Chinese name Zhejiang Zhongnan Cartoon.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: 7DOC
+    url: http://7doc.com.cn/
+    description: Shanghai animation studio behind the Aotu World series, also developing games based on its own IP.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    founded: 2013
+    notable:
+      - Aotu World
+    notes: Site footer gives operating company and Jing'an, Shanghai address; site served over http. Also publishes a mobile game on its IP.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: RedHot
+    url: https://www.redhotgameart.com/
+    description: Shanghai game art outsourcing studio founded in 2010, producing 2D, 3D and animation assets for game developers.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2010
+    social:
+      x: https://x.com/RedHotCG
+      linkedin: https://www.linkedin.com/company/1406466/
+    notes: Site footer names RedHot Software (Shanghai) Limited; site says founded 2010 with several studios in China and one in Southeast Asia. redhotcg.com redirects here.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Red Dog Culture House
+    url: https://reddogch.com/
+    description: 'Bucheon 2D animation studio working on series, films and game videos, including The Witcher: Nightmare of the Wolf and Love, Death + Robots.'
+    hq:
+      city: Bucheon
+      country: South Korea
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - games
+      - music-video
+    founded: 2014
+    notable:
+      - 'Love, Death + Robots: Good Hunting'
+      - 'The Witcher: Nightmare of the Wolf'
+      - Heaven Official's Blessing
+      - 'Dragon Age: Absolution'
+    social:
+      instagram: https://www.instagram.com/reddogch_official/
+      x: https://x.com/reddogch
+      youtube: https://www.youtube.com/channel/UCmu6Zi6wyJuHPKOqdzY0VxQ
+    notes: Bucheon, Gyeonggi address on homepage; founding year from Wikidata. Also runs webtoon and web novel lines.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: CAMPFIRE ANIWORKS
+    url: https://www.campfireani.com/
+    description: Gwangju animation studio with a Seoul office, developing original kids' series such as Rainbow Bubblegem.
+    hq:
+      city: Gwangju
+      country: South Korea
+    offices:
+      - city: Seoul
+        country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2017
+    notable:
+      - The Bigfoots on Topsy-Turvy Island
+      - Rainbow Bubblegem
+    notes: HQ Gwangju and Seoul office on homepage; founding year from Wikidata; 2D or 3D technique not stated on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: FUNNYFLUX
+    url: https://www.funnyflux.kr/
+    description: Seoul animation studio producing kids' CG series including Super Wings and Dinoster.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2008
+    notable:
+      - Super Wings
+      - Dinoster
+    notes: Mapo, Seoul address on homepage; founding year from Wikidata.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Studio W.Baba
+    url: http://studiowbaba.com/
+    description: Seoul animation studio producing kids' series and films including Hello Carbot and B Family.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2011
+    notable:
+      - Hello Carbot
+      - B Family
+    notes: Guro, Seoul address on homepage; founding year from Wikidata.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Sunwoo & Company
+    url: http://sunwoo.com/
+    description: Seoul animation company producing kids' animated series and handling licensing and distribution for animation IP.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 1974
+    notes: Guro, Seoul address on homepage; founding year from Wikidata. Site also covers licensing and IP management.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: DongWoo A&E
+    url: http://www.anidong.com/
+    description: Seoul animation studio producing series and films for clients in the US, Canada, Japan and South Korea.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1991
+    notes: Homepage loads with little text; Seoul HQ, 1991 founding and parent Studio Gallop from Wikipedia.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Kentadip
+    url: http://kentadip.com.tw/
+    description: Taipei animation studio founded in 2000, making stop-motion with handmade miniature sets alongside digital character animation.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - stop-motion
+      - 3d-animation
+    founded: 2000
+    notes: Da'an, Taipei address and September 2000 founding on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Active Animation
+    url: https://www.activeanimation.studio/
+    description: Taipei animation studio producing naked-eye 3D billboard content, VTuber and AR/VR work, with an in-house motion capture stage.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - 3d-animation
+      - xr
+      - mocap
+      - experiential
+    markets:
+      - advertising
+      - games
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/active_animation/
+      vimeo: https://vimeo.com/activeanimationstudio
+    notes: Neihu, Taipei address on contact page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Triken Studios
+    url: https://www.trikenstudios.com/
+    description: Singapore animation studio producing 3D, motion graphics, explainer and medical animation for brands and healthcare clients.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/trikenstudios/
+      youtube: https://www.youtube.com/channel/UCmu69p1WKwk2UR1hcmZBPzQ
+      linkedin: https://www.linkedin.com/company/triken-studios/
+      behance: https://www.behance.net/trikenstudios
+    notes: Site footer names Triken Studios, Singapore; founding year not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Grumpy Studios
+    url: https://grumpystudios.com/
+    description: Sydney experiential studio designing large-scale immersive installations and exhibitions for museums, cultural institutions and brands.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    notes: Camperdown NSW (Sydney) address on about page; grumpysailor.com redirects here.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Balance Film
+    url: https://www.balancefilm.de/
+    description: Dresden studio producing animated features, animated documentaries and series such as Fritzi and Alois Nebel.
+    hq:
+      city: Dresden
+      country: Germany
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 1993
+    notable:
+      - Fritzi - Eine Wendewundergeschichte
+      - Alois Nebel
+      - Auf Fritzis Spuren
+    social:
+      instagram: https://www.instagram.com/balance_film_gmbh
+      vimeo: https://vimeo.com/user26512027
+    notes: Founded year inferred from site news item '33 Jahre Balance Film' dated June 2026.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Celluloid VFX
+    url: https://celluloid-vfx.com/
+    description: Berlin visual effects studio founded in 2008, working on feature films, commercials and title sequences.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - film
+      - advertising
+    founded: 2008
+    notable:
+      - System Crasher
+      - Gold
+    notes: Site also lists a 'Studio Bavaria' location (city not confirmed). Latest site news items date from around 2020.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Talking Animals
+    url: https://talking-animals.de/
+    description: Berlin animation collective making short films, music videos and animated documentaries since 2009.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+      - music-video
+    founded: 2009
+    notable:
+      - Tracing Addai
+      - Mishou
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: M.A.R.K.13
+    url: https://www.mark13.com/
+    description: Stuttgart animation producer with an in-house studio, making animated features and series for cinema and TV.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Giants of La Mancha
+      - Vic the Viking and the Magic Sword
+      - 'Mission Santa: Yoyo to the Rescue'
+    social:
+      instagram: https://www.instagram.com/m.a.r.k.13tm
+      linkedin: https://www.linkedin.com/company/m.a.r.k.13
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Studio FILM BILDER
+    url: https://filmbilder.de/
+    description: Stuttgart animation studio making short films, series, commercials, music videos and game animation.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    notable:
+      - Animanimals
+      - Patchwork Pals
+    social:
+      youtube: https://www.youtube.com/user/filmbilder
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: House of Creatures
+    url: https://house-of-creatures.de/
+    description: 2D animation and illustration studio in Landsberg am Lech and Berlin making explainers, motion graphics and commissioned films since 2011.
+    hq:
+      city: Landsberg am Lech
+      country: Germany
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/house_of_creatures_animation/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Akkord Film
+    url: https://akkord.film/
+    description: Berlin animation production company founded in 2001, producing animated features and series with a subsidiary in Hamburg.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Hamburg
+        country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2001
+    notable:
+      - Rabbit Academy
+      - Apple Cadabra - I Shrunk Myself
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: DAYWALKER Studios
+    url: https://www.daywalker-studios.de/
+    description: Cologne studio developing and producing animated features since 2005, with 3D character animation and VFX for cinema and TV.
+    hq:
+      city: Cologne
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2005
+    notable:
+      - Stitch Head
+      - The Super Elfkins
+      - Moonbound
+      - Guardian Rabbits
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: OVERTOON Studios
+    url: https://www.overtoon-studios.net/
+    description: Freiburg animation studio making 2D and 3D animated music videos, shorts, character design and storyboards.
+    hq:
+      city: Freiburg im Breisgau
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - music-video
+    social:
+      instagram: https://www.instagram.com/overtoon_studios
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.144Z'
+  - name: Protoplanet Studio
+    url: https://www.protoplanet-studio.de/
+    description: Berlin studio for handcrafted 2D animation and motion design, making ads, explainers and short films such as Cat Lake City.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - film
+    notable:
+      - Cat Lake City
+    social:
+      instagram: https://www.instagram.com/protoplanet_studio
+      linkedin: https://www.linkedin.com/company/protoplanet-studio
+      vimeo: https://vimeo.com/user33358253
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.144Z'
+  - name: Telescope Animation
+    url: https://www.telescopeanimation.com/
+    description: Berlin animation producer with a studio in Hamburg, making animated features and series such as The Last Whale Singer.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Hamburg
+        country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    notable:
+      - The Last Whale Singer
+      - Children of Gaea
+    social:
+      instagram: https://www.instagram.com/telescopeanimation
+      youtube: https://www.youtube.com/channel/UCUxr-Y-Z1ykgn2YwLL0Tzgw
+    notes: Group also runs a game studio founded 2022.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.144Z'
+  - name: monströös
+    url: https://monstroos.com/
+    description: Berlin 2D animation studio combining traditional techniques and custom sound, making short films and explainer videos.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - brand
+    social:
+      instagram: https://www.instagram.com/studio_monstroos
+      vimeo: https://vimeo.com/monstroos
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.144Z'
+  - name: Gao Shan Pictures
+    url: https://www.gaoshanpictures.com/
+    description: Animation studio and producer founded in 2014 on La Reunion, making 2D and 3D animation for features and series.
+    hq:
+      city: Saint-Gilles-les-Bains
+      country: France
+    offices:
+      - city: Angoulême
+        country: France
+      - city: Annecy
+        country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2014
+    notable:
+      - Sirocco and the Kingdom of the Winds
+      - Jim Queen
+    social:
+      instagram: https://www.instagram.com/gaoshanpicturesanimation
+      vimeo: https://vimeo.com/user85701266
+    notes: HQ on La Reunion (French overseas department); also an antenna in Mauritius.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.144Z'
+  - name: Lucid Realities
+    url: https://lucidrealities.studio/
+    description: Paris producer and distributor of immersive VR, AR and exhibition experiences, founded in 2018.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - experiential
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/lucidrealities_
+      linkedin: https://www.linkedin.com/company/11868769
+      vimeo: https://vimeo.com/lucidrealities
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.144Z'
+  - name: Hari Studios
+    url: https://hari-studios.com/
+    description: Paris studio founded in 2006 producing 3D animated TV series for the international market, including Grizzy and the Lemmings.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2006
+    notable:
+      - Grizzy and the Lemmings
+    social:
+      instagram: https://www.instagram.com/hari_studios_
+      linkedin: https://www.linkedin.com/company/studio-hari
+      youtube: https://www.youtube.com/channel/UCn9l4gU5mkmmlC2eiVu0LHw
+      x: https://twitter.com/studio_hari
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: 3.0 Studio
+    url: https://www.3point0studio.com/
+    description: Angoulême animation studio grown out of Prima Linea, making short films, features, TV films and immersive shows.
+    hq:
+      city: Angoulême
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Les Lapins 3 Oreilles
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Autour de Minuit
+    url: https://www.autourdeminuit.com/
+    description: Paris animation producer and distributor of shorts, series and features, known for the Oscar-winning short Logorama.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Logorama
+    social:
+      instagram: https://www.instagram.com/autourdeminuit_productions
+      vimeo: https://vimeo.com/autourdeminuit
+      x: https://x.com/autourdeminuit
+    notes: Main domain redirects to blog.autourdeminuit.com; disciplines from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Superprod
+    url: https://superprod.net/
+    description: Paris producer of animated series and features with its own animation studios in Paris and Angoulême.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Angoulême
+        country: France
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Petit Vampire
+    notes: Locations from site meta description; site is JS-rendered so notable/discipline from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Sacrebleu Productions
+    url: https://sacrebleuprod.fr/
+    description: Paris production company for animated features, series, shorts and VR works.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+      - xr
+    markets:
+      - film
+      - episodic
+    notable:
+      - My Sunny Maad
+    social:
+      instagram: https://www.instagram.com/sacrebleu.productions
+      linkedin: https://www.linkedin.com/company/875093
+      youtube: https://www.youtube.com/channel/UCUZXZtgAnlXn67GN4IisnYw
+    notes: Notable title from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Animatò
+    url: https://www.anima.to.it/
+    description: Turin animation studio founded in 2020, making 2D and cut-out animated TV series and original content for European broadcasters.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/animato.animation
+      linkedin: https://www.linkedin.com/company/animato-it
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Cartobaleno
+    url: https://www.cartobaleno.it/
+    description: Florence-area animation studio focused on 2D animation, producing kids series such as Atchoo! and Mortina.
+    hq:
+      city: Scarperia e San Piero
+      country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Atchoo!
+      - Mortina
+    social:
+      instagram: https://www.instagram.com/cartobaleno.studio
+      linkedin: https://www.linkedin.com/company/cartobaleno
+      vimeo: https://vimeo.com/cartobaleno
+      youtube: https://www.youtube.com/user/cartobaleno
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Gertie
+    url: https://www.gertieproduction.com/
+    description: Milan independent animation producer founded in 1993, making animated series and licensing kids properties.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1993
+    social:
+      linkedin: https://www.linkedin.com/company/gertie-srl
+      vimeo: https://vimeo.com/gertie
+    notes: Discipline from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Graphilm
+    url: https://graphilm.com/
+    description: Rome animation production company founded in 1988, part of Cyber Group Studios, making TV series, specials and features.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1988
+    notable:
+      - Alex Player
+      - McFire Family
+      - Nefertina on the Nile
+      - The Case
+    social:
+      instagram: https://www.instagram.com/graphilm_entertainment
+      linkedin: https://www.linkedin.com/company/5036452
+    notes: Discipline from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Ibrido Studio
+    url: https://www.ibridostudio.com/
+    description: Turin independent animation studio working since 2016 across 2D, 3D and stop-motion for shorts and commissioned films.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - film
+      - advertising
+    founded: 2016
+    notable:
+      - Les Enfants des Funambules
+      - Anselmo Wannabe
+    social:
+      instagram: https://www.instagram.com/ibrido_studio
+      linkedin: https://www.linkedin.com/company/ibrido-studio
+      vimeo: https://vimeo.com/ibrido
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Mash&Co
+    url: https://mashandco.tv/
+    description: Taormina studio making 2D animation, kids apps and video games, with a French office in Tourcoing.
+    hq:
+      city: Taormina
+      country: Italy
+    offices:
+      - city: Tourcoing
+        country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - games
+      - advertising
+    notable:
+      - Super Sofia
+    social:
+      instagram: https://www.instagram.com/mashandco_kids
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Nasse Animation
+    url: https://www.nasseanimation.com/
+    description: Taranto animation studio producing films and series in hand-drawn 2D, cut-out, CGI and stop-motion.
+    hq:
+      city: Taranto
+      country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/nasseanimation
+      linkedin: https://www.linkedin.com/company/nasse-animation-studio
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Panebarco
+    url: https://www.panebarco.it/
+    description: Ravenna animation and video production studio active since 1995, making original animation, commercials, VFX and post-production.
+    hq:
+      city: Ravenna
+      country: Italy
+    disciplines:
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - episodic
+    founded: 1995
+    social:
+      instagram: https://www.instagram.com/panebarcos
+      vimeo: https://vimeo.com/panebarco
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Primal Shape
+    url: https://www.primalshapestudio.com/
+    description: Turin animation studio and production house founded in 2018, with a Naples office, working on features, series, commercials, games and VR.
+    hq:
+      city: Turin
+      country: Italy
+    offices:
+      - city: Naples
+        country: Italy
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/primalshape
+      linkedin: https://www.linkedin.com/company/primal-shape
+      vimeo: https://vimeo.com/primalshape
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Red Monk Studio
+    url: https://redmonkstudio.com/
+    description: Milan animation production company founded in 2017, developing its own IP and working as a service studio, part of Superprod Group since 2020.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/redmonkstudio
+      linkedin: https://www.linkedin.com/company/red-monk-studio
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Robin Studio
+    url: https://robin.studio/
+    description: Turin creative studio making animation, stop-motion, videomapping and interactive installations for cultural and music projects.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - stop-motion
+      - 2d-animation
+      - experiential
+    markets:
+      - brand
+      - music-video
+    social:
+      instagram: https://www.instagram.com/_robinstudio
+      behance: https://www.behance.net/robin_studio
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Studio Campedelli
+    url: https://www.studiocampedelli.net/
+    description: Animation studio based in Milan and Turin producing animated content, with storyboard, 2D cut-out and traditional animation and compositing.
+    hq:
+      city: Milan
+      country: Italy
+    offices:
+      - city: Turin
+        country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/studiocampedelli
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Studio Pandora
+    url: https://www.studiopandora.it/
+    description: Turin digital media studio founded in 2012, making CGI, VFX, product rendering and animated branded content.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - cg
+      - vfx
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/pandora.creative.studios
+      linkedin: https://www.linkedin.com/company/studiopandora
+      behance: https://www.behance.net/StudioPandoraIt
+      youtube: https://www.youtube.com/user/PandoraCreative
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Algorithm
+    url: https://www.algorithm.ie/
+    description: Dublin creative production studio formed in 2015, making CG, animation and immersive visual work for brands and music videos.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - cg
+      - 3d-animation
+      - experiential
+    markets:
+      - advertising
+      - music-video
+      - brand
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/algorithm.ie
+      vimeo: https://vimeo.com/algorithmproductions
+      youtube: https://www.youtube.com/channel/UCCkZBoFzP5Vsc1mEDXapswg
+      x: https://twitter.com/algorithm_ie
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'

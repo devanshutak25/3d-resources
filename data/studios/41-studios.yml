@@ -1,0 +1,1139 @@
+studios:
+  - name: Oz Produtora
+    url: https://www.ozprodutora.com.br/
+    description: São Carlos production company with an animation unit, making the animated series Mytikah alongside brand content and advertising.
+    hq:
+      city: São Carlos
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - advertising
+      - brand
+    notable:
+      - 'Mytikah: O Livro dos Heróis'
+      - Sementes da Educação
+    social:
+      instagram: https://www.instagram.com/ozprodutora
+      vimeo: https://vimeo.com/ozprodutora
+      youtube: https://www.youtube.com/@ozprodutora
+    notes: Mytikah season 2 preselected for Quirino 2026 (Oz Produtora, Brasil). City from site footer. Animation technique not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.146Z'
+  - name: Breeder
+    url: https://breeder.studio/
+    description: Brisbane motion design studio known for main title sequences such as HBO's True Detective and The Expanse, also making commercials and installations.
+    hq:
+      city: Brisbane
+      country: Australia
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - True Detective (titles)
+      - The Expanse (titles)
+      - The Walking Dead
+    social:
+      instagram: https://www.instagram.com/breederstudio/
+      linkedin: https://www.linkedin.com/company/breeder
+      vimeo: https://vimeo.com/breeder
+    notes: Offices from site meta description (Brisbane, Sydney, LA). Art of the Title lists it as Brisbane-based. Founded year not confirmed.
+    size: boutique
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Grand Jeté
+    url: https://grand-jete.com/
+    description: Los Angeles design studio making main and end title sequences, key art and motion graphics for film, TV and brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - brand
+    social:
+      instagram: http://instagram.com/grand_jete_design/
+      vimeo: https://vimeo.com/grandjete
+      x: https://twitter.com/GrandJeteDesign
+    notes: Address 6525 Sunset Blvd, Los Angeles from site (LinkedIn lists Novato, CA). Credited title studio on Art of the Title.
+    size: boutique
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Plucky
+    url: https://plucky.la/
+    description: Burbank studio doing title sequences, motion design, animation and VFX for films, series and advertising, with teams in New York and London.
+    hq:
+      city: Burbank
+      country: United States
+    offices:
+      - city: New York
+        country: United States
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - title-design
+      - motion-design
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Hidden Figures
+      - Ghostbusters (2016)
+      - Harold and the Purple Crayon
+    social:
+      instagram: https://www.instagram.com/pluckylosangeles/
+      linkedin: https://www.linkedin.com/company/plucky
+    notes: 'Site: headquartered in Burbank, also operates in New York and London. Notable are films listed in its credits.'
+    size: small
+    founded: 2014
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Voodoodog
+    url: https://www.voodoodog.com/
+    description: London 2D and 3D animation studio designing title sequences for TV series and films, plus commercials and motion graphics.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - title-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - The A-Team (titles)
+    notes: Site says it is a London-based studio founded by a director/animator and a producer. Founded year not confirmed.
+    size: boutique
+    founded: 2003
+    social:
+      linkedin: https://www.linkedin.com/company/voodoodog
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Me & the Bootmaker
+    url: https://www.meandthebootmaker.com/
+    description: Los Angeles design studio producing title sequences and graphic design for films, television, fashion and brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/meandthebootmaker/
+      x: https://twitter.com/bootmakerfilms
+    notes: Art of the Title and own site list it as Los Angeles-based. Founded year not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Orbital Virtual Studios
+    url: https://www.orbitalvs.com/
+    description: Los Angeles virtual production studio at Television City running fixed and mobile LED volumes with in-camera VFX and real-time environments for film, TV and ads.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    social:
+      instagram: http://instagram.com/orbitalvirtualstudios
+      linkedin: https://www.linkedin.com/company/orbital-virtual-studios/
+    notes: HQ address 7800 Beverly Blvd (Television City) from site.
+    size: small
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: 80six Virtual Production Studios
+    url: https://www.virtualproductionstudios.com/
+    description: Slough, Berkshire virtual production studio from LED specialist 80six, offering ROE LED stages for in-camera VFX and xR shoots for film, TV and broadcast.
+    hq:
+      city: Slough
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/80sixltd/
+      linkedin: https://www.linkedin.com/company/80six-ltd/
+      vimeo: https://vimeo.com/80six
+      x: https://twitter.com/80sixltd
+    notes: Address Slough Interchange Industrial Estate, Slough SL2 5EP from site. Listed in LBB virtual production studio roundup.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Silvertown Studios
+    url: https://www.silvertownstudios.co.uk/
+    description: East London virtual production facility with two LED volume stages and a mobile LED stage for commercials, automotive, music videos and film.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - music-video
+      - film
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/silvertown.studios/
+      linkedin: https://www.linkedin.com/company/silvertown-studios/
+    notes: 'Site: established 2020, located in East London. LinkedIn lists founded 2022; site year used.'
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Recode XR Studio
+    url: https://recode-xr-studio.com/
+    description: Manchester virtual production and XR studio with a curved LED volume, real-time Unreal workflows and motion capture for brands and broadcast.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    disciplines:
+      - virtual-production
+      - xr
+      - mocap
+    markets:
+      - advertising
+      - brand
+      - music-video
+    social:
+      instagram: https://www.instagram.com/recodexrstudio/
+      linkedin: https://www.linkedin.com/company/recode-xr-studio
+      x: https://twitter.com/recodestudioxr
+    notes: Site states Manchester-based.
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: LED Unit
+    url: https://ledunit.net/
+    description: Riga virtual production studio with a 26.5 m curved LED wall, Mo-Sys tracking and Unreal Engine for film, TV and commercial shoots.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/ledunit_studio/
+      linkedin: https://www.linkedin.com/company/79646735
+      youtube: https://www.youtube.com/channel/UCjnUdkUN2NwCpaG8ZJRoiZw
+    notes: Studio at Ramulu street 29, Riga per site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Ten Dots
+    url: https://www.ten-dots.com/
+    description: Sofia virtual production studio launched in 2020 with a 34 m LED volume and Mo-Sys tracking for film, TV and commercial productions.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2020
+    social:
+      youtube: https://www.youtube.com/channel/UCOu2DjVQq3747Yo4Hpj-JGg
+    notes: 'Site: launched 2020, first VP studio in the Balkans, located in Sofia.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Pixojam
+    url: https://pixojam.com/
+    description: Dubai virtual production and XR studio running an LED volume and real-time VFX for commercials, film and branded content in the Middle East.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - virtual-production
+      - xr
+    markets:
+      - advertising
+      - film
+      - brand
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/pixojam/
+      linkedin: https://www.linkedin.com/company/pixojam/
+      youtube: https://www.youtube.com/@PixoJamVP
+      x: https://x.com/pixojam
+    notes: 'Site timeline: founded in Dubai May 2022; studio in Dubai Production City.'
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: ReadySet Studios
+    url: https://readysetstudios.nl/
+    description: Amsterdam virtual production studio with a 14 m curved LED wall and tracked cameras for film, TV, agencies and brand content.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/readyset_studios/
+      linkedin: https://www.linkedin.com/company/readysetstudios/
+      youtube: https://www.youtube.com/@ReadySetStudios
+    notes: Amsterdam from site title; LED wall size from LBB roundup (2022).
+    size: boutique
+    founded: 2022
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Cinética Studio
+    url: https://www.cinetica.studio/
+    description: Mexico City CGI and immersive studio making 3D animation, motion capture, virtual production and interactive installations for brands.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - virtual-production
+      - 3d-animation
+      - experiential
+      - mocap
+    markets:
+      - brand
+      - advertising
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/cinetica.studio/
+      linkedin: https://www.linkedin.com/company/cineticastudio
+      behance: https://www.behance.net/CineticaStudio
+    notes: 'Site: founded in Mexico City, active since 2019.'
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: La planète rouge
+    url: https://www.laplaneterouge.fr/
+    description: Provence studio offering LED virtual production, VFX, shooting services and post-production for film, series and advertising.
+    hq:
+      city: Martigues
+      country: France
+    offices:
+      - city: Marseille
+        country: France
+    disciplines:
+      - virtual-production
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/laplaneterouge/
+    notes: Contact page lists addresses in Martigues and Marseille; which is HQ not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: TRICK 3D
+    url: https://www.trick3d.com/
+    description: Atlanta immersive media studio producing CGI, 3D animation and LED-stage virtual production for brands, with an office in Ireland.
+    hq:
+      city: Atlanta
+      country: United States
+    disciplines:
+      - cg
+      - 3d-animation
+      - virtual-production
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/trick_3d/
+      linkedin: https://www.linkedin.com/company/trick-3d/
+      x: https://twitter.com/trick3d
+    notes: Address 996 Huff Road NW, Atlanta. Site lists an Ireland phone line; Irish office city not confirmed, so not added.
+    size: small
+    founded: 2006
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Beyond Capture Studios
+    url: https://www.beyond-capture.com/
+    description: Vancouver motion capture studio with a second large stage in Montreal, doing performance capture for games, series and film.
+    hq:
+      city: Vancouver
+      country: Canada
+    offices:
+      - city: Montreal
+        country: Canada
+    disciplines:
+      - mocap
+    markets:
+      - games
+      - episodic
+      - film
+    founded: 2017
+    notable:
+      - Mortal Kombat 1
+      - Street Fighter 6
+      - The Fall of the House of Usher
+    social:
+      instagram: https://www.instagram.com/beyondcapturestudios/
+      linkedin: https://www.linkedin.com/company/beyond-capture-studios/
+      youtube: https://www.youtube.com/channel/UCfHAG3h5WWE04CCRmUWtI7w
+      x: https://twitter.com/Beyond_Capture
+    notes: Addresses in Vancouver (151 West Cordova St) and Montreal on site; founded 2017 per site and Vicon case study.
+    size: small
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Digital Kinetics
+    url: https://digital-kinetics.com/
+    description: Zagreb motion capture studio with a Vicon Valkyrie stage of about 300 sq m, capturing performance for games, film and media clients.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - mocap
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/digitalkineticscroatia/
+      linkedin: https://www.linkedin.com/company/digital-kinetics-croatia/
+      youtube: https://www.youtube.com/@digitalkineticscroatia
+    notes: City from Vicon press release (May 2023). Own site (Readymag) loads but shows no address. Press release links digitalkinetics.hr, which redirects to digital-kinetics.com.
+    size: boutique
+    founded: 2021
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Rouge Studios
+    url: https://www.rougestudios.com/
+    description: Los Angeles motion capture and cinematics studio providing performance capture, previs, layout and animation for games, series and music videos.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - mocap
+      - cinematics
+      - previs
+    markets:
+      - games
+      - episodic
+      - music-video
+    notable:
+      - Borderlands 4
+      - 'Star Wars Jedi: Survivor'
+      - 'Dragon Age: The Veilguard'
+      - Secret Level
+    social:
+      instagram: https://www.instagram.com/rougemocap
+      linkedin: https://www.linkedin.com/company/rougestudios
+    notes: Also known as Rouge MoCap. Address 5415 Jandy Pl, Los Angeles. Site blocks scripted requests (403); verified via fetch tool. Site serves a bot challenge (HTTP 202) to scripted link checks (2026-11-05).
+    size: small
+    founded: 2008
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Foliascope
+    url: https://www.foliascope.fr/
+    description: Stop-motion studio in Saint-Péray, Ardèche, producing and fabricating puppet animation features, TV specials, series and commercials.
+    hq:
+      city: Saint-Péray
+      country: France
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2011
+    notable:
+      - Wardi
+      - No Dogs or Italians Allowed
+      - Leo, the Fabulous Story of Leonardo da Vinci
+    social:
+      instagram: https://www.instagram.com/foliascope/
+      linkedin: https://www.linkedin.com/company/foliascope/
+      vimeo: https://vimeo.com/foliascope
+      youtube: https://www.youtube.com/@foliascope
+    notes: 'History page: created 2011 near Valence, moved to St Péray (Ardèche) in 2021. Address 9 rue Grand Mail, 07130 St Péray.'
+    size: boutique
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Beast Animation
+    url: https://www.beastanimation.com/
+    description: Ghent studio that directs and produces stop-motion animation for cinema, TV, web and mobile, handling puppets and sets in house.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/beastanimation
+      linkedin: https://www.linkedin.com/company/beast-animation
+      vimeo: https://vimeo.com/beastanimation
+      youtube: https://www.youtube.com/beastanimation
+    notes: Address Hof ter Mere 28, 9000 Gent. Founded year not confirmed.
+    size: boutique
+    founded: 2004
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Hélium Films
+    url: https://heliumfilms.ch/
+    description: Lausanne animation production company founded in 2002, producing stop-motion and 2D shorts, features and series.
+    hq:
+      city: Lausanne
+      country: Switzerland
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2002
+    notable:
+      - Ma vie de Courgette
+      - Sauvages
+      - Banquise
+    social:
+      instagram: https://instagram.com/heliumfilms.ch
+    notes: 'Site footer: Lausanne production company founded 2002, specialised in animation. Production role (co-producer vs lead) on listed features not checked.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Mineloader
+    url: https://www.mineloader.com/
+    description: Shanghai game art outsourcing studio doing full level art, 3D assets, VFX and 3D animation for console and PC games, with teams in Tianjin and Dalian.
+    hq:
+      city: Shanghai
+      country: China
+    offices:
+      - city: Tianjin
+        country: China
+      - city: Dalian
+        country: China
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    notes: Site lists Shanghai (Yangpu), Tianjin and Dalian entities; claims full level art on 30+ games.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: RocketBrush Studio
+    url: https://rocketbrush.com/
+    description: Limassol game art outsourcing studio creating concept art, 2D characters, casual game art, 3D environments and 3D assets for game developers.
+    hq:
+      city: Limassol
+      country: Cyprus
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/rocketbrush_studio/
+      linkedin: https://www.linkedin.com/company/rocketbrush
+      behance: https://www.behance.net/rocketbrush
+      artstation: https://www.artstation.com/rocketbrush
+      x: https://twitter.com/rocketbrush
+    notes: Registered address ROCKETBRUSH STUDIO LTD, Makariou III 228, Limassol per site footer.
+    size: mid
+    founded: 2016
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Create
+    url: https://createadvertising.com/
+    description: Los Angeles and London entertainment marketing studio cutting trailers, title campaigns, key art and game capture for films, series and games.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - cinematics
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - games
+    social:
+      instagram: https://www.instagram.com/createadvertisinggroup/
+      linkedin: https://www.linkedin.com/company/create-advertising/
+      vimeo: https://vimeo.com/createadvertising
+    notes: Also known as Create Advertising Group. Studios at 4201 Wilshire Blvd LA and 38A Warren St London.
+    size: mid
+    founded: 2005
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: FreeAnimal
+    url: https://freeanimal.com/
+    description: Games-focused creative marketing agency formed from TrailerFarm, gnet, ICHI, KWM and others, producing game trailers and campaigns from London, LA and Montreal.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Montreal
+        country: Canada
+      - city: Quebec City
+        country: Canada
+      - city: Brighton
+        country: United Kingdom
+    disciplines:
+      - cinematics
+      - motion-design
+    markets:
+      - games
+    notable:
+      - Minecraft Dungeons II (gameplay reveal)
+      - Fall Guys
+    social:
+      instagram: https://www.instagram.com/freeanimal.agency
+      linkedin: https://www.linkedin.com/company/freeanimal
+    notes: thetrailerfarm.com now redirects here. HQ London per LinkedIn; site lists LA, Montreal, Quebec City, London, Brighton offices. Agency brand dates from 2026 merger.
+    size: mid
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Trailer Park Group
+    url: https://trailerparkgroup.com/
+    description: Hollywood entertainment marketing company producing trailers, AV content, design and live-action campaigns for film, TV, sports, brands and gaming.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - cinematics
+      - motion-design
+      - live-action
+    markets:
+      - film
+      - episodic
+      - games
+      - brand
+    social:
+      instagram: https://www.instagram.com/trailerparkgroup/
+      linkedin: https://www.linkedin.com/company/trailerparkgroup/
+    notes: HQ 6922 Hollywood Blvd, Hollywood (Los Angeles); UK office Clipstone St, London. Size and founding year from LinkedIn.
+    size: large
+    founded: 1994
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Host VFX
+    url: https://hostvfx.com/
+    description: London previs and postvis company that embeds artist teams in film and TV productions for previs, postvis, techvis, on-set comp and final VFX shots.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - previs
+      - vfx
+    markets:
+      - film
+      - episodic
+    size: small
+    founded: 2017
+    notable:
+      - Wonder Woman 1984
+      - Aladdin
+      - The Old Guard
+      - Wonka
+    social:
+      linkedin: https://www.linkedin.com/company/host-vfx-ltd
+    notes: Site lists studios in Los Angeles and the UK; London HQ, size and 2017 founding from LinkedIn and site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Stoopid Buddy Stoodios
+    url: https://www.leagueofbuddies.com/
+    description: Burbank stop-motion studio behind Robot Chicken, also doing 2D, 3D, puppet fabrication, practical VFX and live action for series and ads.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - stop-motion
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    size: mid
+    founded: 2012
+    notable:
+      - Robot Chicken
+      - Dinosaur Office
+      - Spy vs. Spy
+    social:
+      instagram: http://www.instagram.com/stoopidbuddystoodios
+      linkedin: https://www.linkedin.com/company/stoopid-buddy-stoodios
+      x: https://twitter.com/StoopidBuddy
+    notes: Contact page lists Burbank Stoodio; size and founding year from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Kofuku Kobo
+    url: https://kofukukobo.co.jp/
+    description: Tokyo illustration studio designing VTuber characters and rigging Live2D models, also running illustration courses and a VTuber talent label.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    size: boutique
+    founded: 2017
+    notes: 'Japanese name 株式会社狐福工房. Company page: founded 2017-07-07, 5 employees, HQ Taito-ku Tokyo. Live2D/VTuber work listed in its works section. 2d-animation used for Live2D since no Live2D discipline exists.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: SODAART
+    url: https://sodaart.co.jp/
+    description: Nara-based Live2D studio making VTuber and game character models and animation, with over 200 models since 2019, plus online Live2D courses.
+    hq:
+      city: Nara
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - games
+    founded: 2022
+    notes: 'Company page: SODAART CO., LTD., HQ Nara City, incorporated 2022-03-11, about 25 people. Works page: 234 Live2D models 2019-2026. Says it is a Live2D official partner. Many clients are Taiwanese VTubers.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Creative House Pocket
+    url: https://ch-pocket.co.jp/
+    description: Chofu, Tokyo game art studio founded in 1996, producing 2D game illustration, character design, UI, 2D motion and 3DCG for mobile and console games.
+    hq:
+      city: Chofu
+      country: Japan
+    disciplines:
+      - outsourcing
+      - 2d-animation
+    markets:
+      - games
+    founded: 1996
+    notes: 'Japanese name 有限会社クリエイティブハウスポケット. Company page: founded 1996-12-17, 110 staff (May 2025), Chofu, Tokyo.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Spotted Fawn Productions
+    url: https://www.spottedfawnproductions.com/
+    description: Indigenous-owned Vancouver animation studio making stop-motion films and series that center Indigenous stories.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    size: boutique
+    founded: 2010
+    notable:
+      - Inkwo for When the Starving Return
+      - Biidaaban
+      - Four Faces of the Moon
+    social:
+      instagram: https://www.instagram.com/spottedfawnproductions/
+      x: https://twitter.com/spottedfawnart
+    notes: 'About page: founded 2010, incorporated 2014, located in Vancouver BC. Size from LinkedIn.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: NUARE
+    url: https://nuare.com/
+    description: Kelowna game art outsourcing and co-development studio delivering 2D and 3D art, technical art, animation, VFX and level design since 2006.
+    hq:
+      city: Kelowna
+      country: Canada
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    size: mid
+    founded: 2006
+    social:
+      instagram: https://www.instagram.com/nuarestudio/
+      linkedin: https://www.linkedin.com/company/nuare-studio
+    notes: Site contact lists Kelowna, BC; LinkedIn HQ Kelowna, 51-200 staff, founded 2006.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Leartes Studios
+    url: https://leartesstudios.com/
+    description: Istanbul game art outsourcing studio creating 3D environments, props and Unreal Engine asset packs for game developers.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    size: mid
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/leartesstudios
+      linkedin: https://www.linkedin.com/company/leartes
+      youtube: https://www.youtube.com/@leartesstudios
+      artstation: https://www.artstation.com/leartesstudios
+      x: https://x.com/Leartes
+    notes: Studio address Kadıköy, Istanbul per site; size and founding year from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: SunStrike Studios
+    url: https://sunstrikestudios.com/
+    description: Nicosia game art outsourcing studio producing concept art, 2D and 3D game graphics, animation, GUI and video creatives.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    size: mid
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/sunstrikestudios/
+      linkedin: https://www.linkedin.com/company/sunstrikestudios/
+      youtube: https://www.youtube.com/@sunstrikestudios
+      behance: https://www.behance.net/sunstrikestudios
+      artstation: https://www.artstation.com/sunstrikestudios
+      x: https://twitter.com/SunStrikeStudio
+    notes: Legal entity Sun Strike Gaming Ltd., Kallipoleos 3, Nicosia per site footer.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Pixune Studios
+    url: https://pixune.com/
+    description: Warsaw animation and game art studio producing 2D and 3D animation, game trailers and character and environment art, with a US office in Long Beach.
+    hq:
+      city: Warsaw
+      country: Poland
+    offices:
+      - city: Long Beach
+        country: United States
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+      - advertising
+    size: small
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/pixunestudios/
+      linkedin: https://www.linkedin.com/company/pixune
+      youtube: https://www.youtube.com/channel/UCxMZ0r_KvT6d-sBpihm-Uvg
+    notes: 'Contact page: Poland office Buska 32 Warsaw, US office Long Beach CA. LinkedIn HQ Warsaw.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: AAA Game Art Studio
+    url: https://aaagameartstudio.com/
+    description: Limassol game art outsourcing company making 2D and 3D characters, environments and animation for mobile, casual and console games.
+    hq:
+      city: Limassol
+      country: Cyprus
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    size: mid
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/aaagameartstudio/
+      linkedin: https://www.linkedin.com/company/aaa-game-art-studio/
+      youtube: https://www.youtube.com/@aaagameartstudio
+      behance: https://www.behance.net/aaagameartstudio
+      artstation: https://www.artstation.com/aaa_game_art_studio
+    notes: Site says based in Europe; Limassol HQ, size and 2018 founding from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: 3D-Ace
+    url: https://3d-ace.com/
+    description: Nicosia art outsourcing studio of Program-Ace producing 2D art, 3D models, animation and VFX for games and real-time projects since 2009.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    size: mid
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/3d-ace/
+      youtube: https://www.youtube.com/channel/UCWjkTOVT9p354zfGtIh7Mzw
+      artstation: https://www.artstation.com/art-ace
+      x: https://twitter.com/3d_ace
+    notes: 'Site: headquarters Nicosia, Cyprus; production division of Program-Ace. Founded 2009 per site and LinkedIn.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: SP Studios
+    url: https://www.spstudios.ca/
+    description: Toronto-area LED volume studio in Mississauga offering virtual production stages, motion-control robots and camera rental for commercials and branded content.
+    hq:
+      city: Mississauga
+      country: Canada
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+    size: small
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/spstudioscanada/
+      linkedin: https://www.linkedin.com/company/spstudioscanada/
+      youtube: https://www.youtube.com/@spstudioscanada
+      x: https://x.com/spstudioscanada
+    notes: Studio at 6030 Kestrel Rd, Mississauga ON; NY office on Mercer St. LBB (2026) calls it a Toronto-based LED volume studio. Size/founded from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: ATM Virtual
+    url: https://atmvirtual.pl/
+    description: Warsaw virtual production studio with an 800 sq m stage, a 16 m curved LED wall and ceiling, plus driving-stage and rental services for film and ads.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - advertising
+    size: small
+    founded: 2021
+    notes: 'Site title: Virtual Production Studio in Warsaw. Linked to ATM System (OB vehicles, rental). Size/founded from LinkedIn.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Forge Virtual Studios
+    url: https://forgevirtualstudios.com/
+    description: Chicago-area virtual production studio in Hanover Park with an LED volume, Unreal workflows and camera tracking for commercials and branded content.
+    hq:
+      city: Hanover Park
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+    size: boutique
+    founded: 2024
+    social:
+      instagram: https://www.instagram.com/forgevirtualstudios/
+      linkedin: https://www.linkedin.com/company/forge-virtual-studios/
+    notes: Address 1555 Hunter Rd, Hanover Park IL per site. Size/founded from LinkedIn.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Aaron Sims Creative
+    url: https://www.aaronsimscreative.com/
+    description: Burbank concept design and VFX studio creating characters, creatures, worlds and Unreal Engine content for film, series and games.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - film
+      - episodic
+      - games
+    size: mid
+    founded: 2005
+    notable:
+      - Stranger Things
+      - Love, Death & Robots
+      - Ready Player One
+      - The Rings of Power
+    social:
+      instagram: https://www.instagram.com/aaronsimscreative/
+      linkedin: https://www.linkedin.com/company/aaron-sims-creative/
+      youtube: https://www.youtube.com/channel/UCn12Sq3F4wgqEqYtkyVyJ5Q
+    notes: Founded 2005 per site; Burbank HQ and size from LinkedIn. Notable from site selected works.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: iCrea
+    url: https://www.icrea.co.jp/
+    description: Tokyo content studio producing game promo videos, openings and TV spots with Live2D illustration animation, plus figures, illustration and merchandise.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - games
+      - advertising
+    founded: 2010
+    notable:
+      - New Danganronpa V3 (OP/PV)
+      - Ensemble Stars! (OP)
+      - A3! (OP)
+      - Touken Ranbu Online (TVCM)
+    notes: 'Japanese name 株式会社イクリエ. Company page: founded 2010-12-01, 25 staff, HQ Taito-ku Tokyo. Video service page says it makes illustration animation with Live2D. Exhibited and presented at Live2D alive 2024/2025.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Smith & Lee
+    url: https://www.smithleedesign.com/
+    description: Portland, Oregon design studio creating main and end title sequences and animation for feature films, documentaries and television.
+    hq:
+      city: Portland
+      country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+    size: boutique
+    founded: 2010
+    notable:
+      - Juno (main titles)
+      - Saturday Night (main-on-end titles)
+    notes: Two-founder studio; site says based in Portland, Oregon (LinkedIn lists Los Angeles, 2-10 staff, founded 2010). Credited studio on Art of the Title.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.147Z'
+  - name: Studio Croma Animation
+    url: https://www.studiocromanimation.com/
+    description: Bologna stop-motion production company making commercials and branded content for brands, plus films and stop-motion services for other productions.
+    hq:
+      city: Bologna
+      country: Italy
+    disciplines:
+      - stop-motion
+    markets:
+      - advertising
+      - brand
+      - film
+    notes: 'Site: Studio Croma Animation srl, Via Francesco de Sanctis 7/B, Bologna. About text says company founded 2021, tagline says Est. 2014, so founded omitted. Wikidata lists it under stop-motion film.'
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Calabash Animation
+    url: https://calabashanimation.com/
+    description: Chicago animation studio creating 2D, CGI and motion graphics animation for TV commercials, film and the web.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/calabashanimation/
+      linkedin: https://www.linkedin.com/company/calabash-animation/
+      x: https://x.com/calabashani
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Run Kick Shout
+    url: https://www.runkickshout.com/
+    description: Design-driven Chicago animation studio making 2D and 3D animation for tech and consumer brands.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/runkickshout/
+      linkedin: https://www.linkedin.com/company/run-kick-shout-/
+      behance: https://www.behance.net/runkickshout
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Protokulture
+    url: https://protokulture.com/
+    description: Chicago creative studio blending live action, design, animation and visual effects for ad agencies, networks and brands.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - live-action
+      - motion-design
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/protokulture/
+      vimeo: https://vimeo.com/protokulture
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'

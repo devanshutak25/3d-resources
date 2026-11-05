@@ -1,0 +1,905 @@
+studios:
+  - name: Bandai Namco Pictures
+    url: https://www.bn-pictures.co.jp/
+    description: Suginami, Tokyo anime studio spun off from Sunrise, producing TV series and films such as Gintama and Aikatsu Stars!.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2015
+    notable:
+      - Gintama
+      - Aikatsu Stars!
+    social:
+      x: https://x.com/bnpictures_info
+      youtube: https://www.youtube.com/c/BNPictures
+    notes: Suginami, Tokyo address on homepage. Bandai Namco Filmworks group, separate company from bnfw.co.jp.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Connect
+    url: https://connect.jp.net/
+    description: Mitaka, Tokyo anime studio producing TV series and co-production work.
+    hq:
+      city: Mitaka
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2012
+    social:
+      x: https://x.com/mitaka_connect
+    notes: Mitaka, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Cyclone Graphics
+    url: https://www.cyclone-graphics.com/
+    description: Suginami, Tokyo 3DCG studio producing CG animation for anime series, films and game projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+      - games
+    founded: 2002
+    social:
+      instagram: https://www.instagram.com/cyclonegraphics/
+      x: https://x.com/cyc_graphics
+    notes: Suginami, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Diomedéa
+    url: https://www.diomedea.co.jp/
+    description: Nerima, Tokyo anime studio producing TV series including Squid Girl and Kantai Collection.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2005
+    notable:
+      - Squid Girl
+      - Kantai Collection
+    social:
+      x: https://x.com/diomedea_tweet
+    notes: Nerima, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: E&H production
+    url: https://e-h-pro.co.jp/
+    description: Nakano, Tokyo anime studio producing TV series and handling production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2021
+    social:
+      instagram: https://www.instagram.com/eandh_info/
+      x: https://x.com/EandH_INFO
+    notes: Nakano, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Eiken
+    url: https://eiken-anime.jp/
+    description: Arakawa, Tokyo anime studio best known for producing the long-running TV series Sazae-san.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1969
+    notable:
+      - Sazae-san
+    social:
+      x: https://x.com/EK_eiken
+      youtube: https://www.youtube.com/channel/UCEDUsJwjoW51pPQTEkrx9eg
+    notes: Arakawa, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: EMT Squared
+    url: https://emt2.co.jp/
+    description: Suginami, Tokyo anime studio producing TV series such as Kuma Kuma Kuma Bear.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2013
+    notable:
+      - Kuma Kuma Kuma Bear
+    social:
+      x: https://x.com/EMT_Squared
+    notes: Suginami, Tokyo address on about page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: feel.
+    url: https://www.feel-ing.com/
+    description: Koganei, Tokyo anime studio that plans and produces TV series including My Teen Romantic Comedy SNAFU Too! and Dagashi Kashi.
+    hq:
+      city: Koganei
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2002
+    notable:
+      - My Teen Romantic Comedy SNAFU Too!
+      - Dagashi Kashi
+    social:
+      x: https://x.com/feel_feel
+    notes: Koganei, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Frontier Engine
+    url: https://www.fr-en.co.jp/
+    description: Nishitokyo, Tokyo anime studio producing animation for TV series and other studios' productions.
+    hq:
+      city: Nishitokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2013
+    notes: Nishitokyo, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: StudioGOONEYS
+    url: https://gooneys.co.jp/
+    description: Nakano, Tokyo anime studio providing animation production work for TV series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2012
+    social:
+      x: https://x.com/studio_gooneys
+    notes: Nakano, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Yokohama Animation Laboratory
+    url: https://www.hama-ani.co.jp/
+    description: Yokohama anime studio producing TV series and animation production work.
+    hq:
+      city: Yokohama
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2015
+    notes: Yokohama address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Imagin
+    url: https://www.imagin-do.co.jp/
+    description: Nerima, Tokyo animation studio producing TV anime, films and production support work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1992
+    notes: Nerima, Tokyo address on about page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Lay-duce
+    url: https://lay-duce.co.jp/
+    description: 'Nakano, Tokyo anime studio producing TV series including Magi: Adventure of Sinbad.'
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2013
+    notable:
+      - 'Magi: Adventure of Sinbad'
+    social:
+      x: https://x.com/LayDuce
+    notes: Nakano, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Marvy Jack
+    url: https://marvyjack.co.jp/
+    description: Suginami, Tokyo 3DCG studio producing CG animation and modeling for anime and game projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - games
+    founded: 2003
+    social:
+      x: https://x.com/MarvyJack
+    notes: Suginami, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: monofilmo
+    url: https://www.monofilmo.com/
+    description: Kichijoji, Tokyo anime studio producing TV series and production work for other studios.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/monofilmo_official/
+      x: https://x.com/monofilmo
+      youtube: https://www.youtube.com/channel/UCI8kCReDOe7TlO7Tdfa51ZQ
+    notes: Musashino (Kichijoji), Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Nintendo Pictures
+    url: https://nintendo-pictures.co.jp/
+    description: Chiyoda, Tokyo CG animation studio owned by Nintendo, producing animated content based on Nintendo IP.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - games
+      - film
+    notes: Chiyoda, Tokyo address on homepage. Nintendo subsidiary, formerly Dynamo Pictures.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: NOMAD
+    url: https://nomad-inc.co.jp/
+    description: Suginami, Tokyo anime studio producing TV series, known for the original Rozen Maiden series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2003
+    notable:
+      - Rozen Maiden
+    notes: Suginami, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Passione
+    url: https://passione-anime.com/
+    description: Suginami, Tokyo anime studio producing TV series including High School DxD Hero.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2011
+    notable:
+      - High School DxD Hero
+    social:
+      x: https://x.com/office_passione
+    notes: Suginami, Tokyo address on profile page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: project No.9
+    url: https://project-no9.co.jp/
+    description: Nakano, Tokyo anime studio producing TV series such as The Ryuo's Work Is Never Done!.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2009
+    notable:
+      - The Ryuo's Work Is Never Done!
+    social:
+      x: https://x.com/projectNo9
+    notes: Nakano, Tokyo address on company page; also lists a Tokorozawa, Saitama site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Blanc
+    url: https://www.s-blanc.net/
+    description: Nerima, Tokyo anime studio producing TV series and providing animation work for other studios.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2008
+    notes: Nerima, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Comet
+    url: https://st-comet.com/
+    description: Nerima, Tokyo anime studio producing children's and family TV series including Jewelpet.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1986
+    notable:
+      - Jewelpet
+    social:
+      x: https://x.com/studio_comet
+    notes: Nerima, Tokyo address on homepage; founded 1986-01-21 per Wikipedia.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Hibari
+    url: https://www.st-hibari.co.jp/
+    description: Nerima, Tokyo anime studio producing TV series and finishing work, parent company of the Lerche label.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1979
+    social:
+      x: https://x.com/studio_hibari
+    notes: Nerima, Tokyo address on homepage. Parent of the Lerche label (lerche.jp did not resolve).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio KAI
+    url: https://st-kai.jp/
+    description: Nakano, Tokyo anime studio producing TV series including the second season of Uma Musume Pretty Derby.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2019
+    notable:
+      - Uma Musume Pretty Derby Season 2
+    social:
+      x: https://x.com/studioKAI_inc
+    notes: Nakano, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Massket
+    url: https://st-massket.com/
+    description: Asagaya, Tokyo anime studio producing TV series and production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2017
+    social:
+      x: https://x.com/SMassket
+    notes: Suginami (Asagaya), Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Kafka
+    url: https://www.studio-kafka.jp/
+    description: Nakano, Tokyo anime studio producing TV series and animation work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2020
+    social:
+      x: https://x.com/studio_kafka
+    notes: Nakano, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio M2
+    url: https://studio-m2.net/
+    description: Suginami, Tokyo anime studio providing animation production for TV series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2016
+    notes: Site lists Suginami, Tokyo.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Nanahoshi
+    url: https://www.studio-nanahoshi.com/
+    description: Takadanobaba, Tokyo anime studio producing TV series and production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/studio_nanahoshi/
+      youtube: https://www.youtube.com/channel/UCm2gtGIRr7YUgkYOzPP29Cg
+    notes: Shinjuku (Takadanobaba), Tokyo address on about page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: ANIMA
+    url: https://www.studioanima.co.jp/
+    description: Shinjuku, Tokyo 3DCG animation studio producing CG for anime series, films and games, with a studio in Kanazawa.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kanazawa
+        country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+      - games
+    founded: 1997
+    social:
+      x: https://x.com/anima_CG
+      youtube: https://www.youtube.com/channel/UCPvliF5M71OZAcXWnHiug8w
+    notes: Shinjuku, Tokyo head office and a Kanazawa site on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio Elle
+    url: https://www.studioelle.jp/
+    description: Nakano, Tokyo animation company that plans and produces anime and provides production work for TV series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1988
+    social:
+      x: https://x.com/animestudioelle
+    notes: Site states Nakano, Tokyo.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: SynergySP
+    url: https://synergy-sp.com/
+    description: Koganei, Tokyo anime studio producing TV series and films.
+    hq:
+      city: Koganei
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1998
+    notes: Koganei, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: TOHO animation STUDIO
+    url: https://ta-studio.co.jp/
+    description: Shinjuku, Tokyo anime studio owned by TOHO, producing TV series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2017
+    notes: Nishi-Shinjuku, Tokyo stated on homepage. TOHO subsidiary.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Typhoon Graphics
+    url: https://typhoon-g.com/
+    description: Musashino, Tokyo anime studio producing TV series and animation work.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2014
+    social:
+      x: https://x.com/typhoon_g_anime
+    notes: Musashino, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: WHITE FOX
+    url: https://w-fox.co.jp/
+    description: Suginami, Tokyo anime studio producing TV series including Steins;Gate and Re:Zero.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2007
+    notable:
+      - Steins;Gate
+      - Re:Zero
+    social:
+      x: https://x.com/WHITEFOX_PR
+    notes: Suginami, Tokyo address on about page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Yostar Pictures
+    url: https://yostar-pictures.co.jp/
+    description: Chiyoda, Tokyo animation studio of the Yostar group, producing anime series and game animation such as Blue Archive the Animation.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    founded: 2020
+    notable:
+      - Blue Archive the Animation
+      - 'Azur Lane: Slow Ahead!'
+    social:
+      x: https://x.com/YostarPictures
+      youtube: https://www.youtube.com/channel/UCYTTXQsLazyL-GgESNdWb_w
+    notes: Chiyoda, Tokyo address on company page. Yostar group (Yostar game publisher is in game list).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Yumeta Company
+    url: https://yumeta.co.jp/
+    description: Kiyose, Tokyo anime studio producing TV series and animation production work.
+    hq:
+      city: Kiyose
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2009
+    social:
+      x: https://x.com/yumeta_company
+      youtube: https://www.youtube.com/channel/UCKzM9omfzsoiYJzwErgBRPQ
+    notes: Kiyose, Tokyo address on homepage.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Lapin Track
+    url: http://lapintrack.com/
+    description: Kichijoji, Tokyo anime studio producing TV series and animation work.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2014
+    notes: Kichijoji, Musashino, Tokyo address on about page; site served over http only.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Platinum Vision
+    url: http://www.platinumvision.co.jp/
+    description: Mitaka, Tokyo anime studio producing TV series and animation production work.
+    hq:
+      city: Mitaka
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    social:
+      x: https://x.com/platinum0330
+    notes: Mitaka, Tokyo address on homepage; founding year not confirmed; site served over http only.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Studio KADAN
+    url: https://www.kadan-st.jp/
+    description: Chiyoda, Tokyo 3DCG animation and VFX studio producing CG for anime, films and series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cg
+    markets:
+      - episodic
+      - film
+    founded: 2021
+    notes: Chiyoda, Tokyo address on about page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: AXsiZ
+    url: http://axsiz.co.jp/
+    description: Suginami, Tokyo anime studio producing TV series and films such as Reborn as a Vending Machine, I Now Wander the Dungeon.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2011
+    notable:
+      - Reborn as a Vending Machine, I Now Wander the Dungeon
+      - 'Kiniro Mosaic: Thank You!!'
+    notes: Suginami, Tokyo address on company page; site served over http only.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Okuruto Noboru
+    url: https://okurutonoboru.co.jp/
+    description: Ikebukuro, Tokyo anime studio producing TV series and animation work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2017
+    notes: Toshima, Tokyo address on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Zero-G
+    url: https://zerog2.jp/
+    description: Suginami, Tokyo anime studio producing TV series such as Science Fell in Love, So I Tried to Prove It.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2011
+    notable:
+      - Science Fell in Love, So I Tried to Prove It
+      - Farming Life in Another World
+    social:
+      x: https://x.com/zerog_goods
+    notes: Suginami, Tokyo address and 2011 founding on company page.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Asread
+    url: http://www.asread.net/
+    description: Higashimurayama, Tokyo anime studio producing TV series including Future Diary.
+    hq:
+      city: Higashimurayama
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2003
+    notable:
+      - Future Diary
+    social:
+      x: https://x.com/asread_net
+    notes: Higashimurayama, Tokyo address on company page; site served over http only.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.142Z'
+  - name: Kanaban Graphics
+    url: https://www.kanaban.com/
+    description: Nakano, Tokyo CG production company that made the Usavich shorts and produces CG animation for series, ads and games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - episodic
+      - advertising
+      - games
+    notable:
+      - Usavich
+    social:
+      x: https://x.com/kanabangraphics
+    notes: Nakano, Tokyo address on homepage; founding year not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: MUGENUP
+    url: https://mugenup.com/
+    description: Tokyo game art outsourcing company producing illustration, animation and 3D assets for game developers.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    notes: Shinjuku (Iidabashi), Tokyo address on homepage; founding year not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: picona
+    url: https://www.picona.jp/
+    description: Shibuya, Tokyo animation studio producing anime, original content and client work, including international co-productions.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/picona_official/
+      x: https://x.com/picona_inc
+    notes: Shibuya, Tokyo address on homepage; site news marks 17th anniversary on 2026-03-24, so founded 2009.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Spade&Co.
+    url: https://www.spade-co.jp/
+    description: Shinagawa, Tokyo VFX company producing high-end visual effects mainly for films, plus dramas, commercials and music videos.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    social:
+      x: https://x.com/spadeandco
+    notes: Shinagawa, Tokyo address on about page; founding year not confirmed.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Hoods Entertainment
+    url: http://hoods.co.jp/
+    description: Suginami, Tokyo anime studio producing TV series including Mysterious Girlfriend X and Drifters.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2009
+    notable:
+      - Mysterious Girlfriend X
+      - Drifters
+    notes: Homepage loads (http only) but shows no address; Suginami, Tokyo HQ and 2009 founding from Wikipedia infobox.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Cypic
+    url: https://cypic.co.jp/
+    description: Nerima, Tokyo anime studio of the CyberAgent group, formerly CygamesPictures, producing series such as Princess Connect! Re:Dive.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2016
+    notable:
+      - Princess Connect! Re:Dive
+    notes: Formerly CygamesPictures, now a CyberAgent subsidiary (Cygames is in the game list, this is a separate anime studio). Homepage is JS-rendered; Nerima, Tokyo HQ from Wikipedia infobox.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Millepensee
+    url: https://millepensee.com/
+    description: Nerima, Tokyo anime studio with drawing and 3DCG teams, producing TV series and co-production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2013
+    notable:
+      - Berserk (2016)
+    notes: Homepage loads; Nerima, Tokyo HQ and 2013 founding from Wikipedia infobox. Site lists animation, key animation and 3DCG divisions.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'
+  - name: Studio Bind
+    url: https://st-bind.jp/
+    description: 'Suginami, Tokyo anime studio founded by Egg Firm and White Fox, best known for Mushoku Tensei: Jobless Reincarnation.'
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2018
+    notable:
+      - 'Mushoku Tensei: Jobless Reincarnation'
+    social:
+      x: https://x.com/st_bind
+    notes: Company page has Tokyo 03 phone but no address; Suginami (Ogikubo), Tokyo HQ and Nov 2018 founding from Wikipedia infobox. Joint venture of Egg Firm and White Fox.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.143Z'

@@ -1,0 +1,892 @@
+studios:
+  - name: Optimus
+    url: https://optimus.com/
+    description: Chicago production and post-production house offering editing, color, visual effects, design and finishing for advertising.
+    hq:
+      city: Chicago
+      country: United States
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - vfx
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/optimuspost/
+      linkedin: https://www.linkedin.com/company/optimus-/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Leviathan
+    url: https://www.lvthn.com/
+    description: Chicago experience design agency turning physical environments and branded spaces into media-driven experiences.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notes: City taken from the site's own meta keywords (Chicago). leviathan.co no longer belongs to the studio.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: OK Motion Club
+    url: https://okmotion.club/
+    description: Woman-owned Atlanta animation studio making short-form social content in traditional and vector animation styles.
+    hq:
+      city: Atlanta
+      country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: The Idea Studio
+    url: https://www.theideastudio.co/
+    description: Atlanta video production and animation company making live action, 2D and 3D animated content for brands and agencies.
+    hq:
+      city: Atlanta
+      country: United States
+    disciplines:
+      - live-action
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/theideastudio_atl/
+      vimeo: https://vimeo.com/ideastudiovideo
+      linkedin: https://www.linkedin.com/company/atlanta-idea-studio/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Lyda
+    url: https://www.lyda.com/
+    description: Atlanta creative studio working across design, video, motion and event content for brands.
+    hq:
+      city: Atlanta
+      country: United States
+    disciplines:
+      - motion-design
+      - live-action
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/lydaagency/
+      linkedin: https://www.linkedin.com/company/lydaagency/
+      vimeo: https://vimeo.com/lydafire
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: charlieuniformtango
+    url: https://charlieuniformtango.com/
+    description: Dallas production and post-production company making commercials, branded content, VFX, motion design and 3D work.
+    hq:
+      city: Dallas
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+    disciplines:
+      - live-action
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/charlieuniformtango/
+      vimeo: https://vimeo.com/charlieuniformtango
+      linkedin: https://www.linkedin.com/company/charlieuniformtango/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Cloud 10 Studios
+    url: https://www.cloud10studios.com/
+    description: Woman-owned Dallas studio combining feature-film artists with real-time tools for animation, VFX and digital twin projects.
+    hq:
+      city: Dallas
+      country: United States
+    disciplines:
+      - 3d-animation
+      - vfx
+    social:
+      instagram: https://www.instagram.com/cloud10_studios/
+      linkedin: https://www.linkedin.com/company/cloud10studios/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Industrial3D
+    url: https://industrial3d.com/
+    description: Tulsa 3D animation studio making technical, medical, legal and industrial animations plus VR content.
+    hq:
+      city: Tulsa
+      country: United States
+    offices:
+      - city: Houston
+        country: United States
+      - city: Dallas
+        country: United States
+      - city: New Orleans
+        country: United States
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - xr
+    markets:
+      - brand
+    founded: 2005
+    social:
+      linkedin: https://www.linkedin.com/company/industrial3d/
+      x: https://x.com/industrial3d
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Hinge
+    url: https://hellohinge.com/
+    description: Portland content studio producing 2D and 3D animation, live action, VFX and virtual production for commercials, film and TV.
+    hq:
+      city: Portland
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - film
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/hingedigital/
+      vimeo: https://vimeo.com/hellohinge
+      linkedin: https://www.linkedin.com/company/hinge-digital/
+    notes: hingedigital.com redirects to hellohinge.com.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Nifty Studio
+    url: https://www.niftystudio.com/
+    description: Small Denver 3D and motion studio making product visuals, technical animation and documentary graphics.
+    hq:
+      city: Denver
+      country: United States
+    disciplines:
+      - product-viz
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/nifty.motionstudio/
+      linkedin: https://www.linkedin.com/company/nifty-studio-motion/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Hey-Yo Studio
+    url: https://heyyostudio.com/
+    description: Denver illustration and animation team making animated social ads and connected TV spots for brands.
+    hq:
+      city: Denver
+      country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/heyyostudio/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: DYSTNCT
+    url: https://dystnct.media/
+    description: Seattle creative studio directing, editing and producing motion design, 3D animation and VFX for brands and agencies.
+    hq:
+      city: Seattle
+      country: United States
+    disciplines:
+      - live-action
+      - motion-design
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/dystnct/
+      vimeo: https://vimeo.com/dystnct
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Wild Gravity
+    url: https://www.wildgravity.net/
+    description: Seattle creative studio directing hero films, VFX and campaign content for tech and consumer brands.
+    hq:
+      city: Seattle
+      country: United States
+    disciplines:
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/wild.gravity/
+      linkedin: https://www.linkedin.com/company/wildgravity/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Austin Visuals
+    url: https://austinvisuals.com/
+    description: Austin animation studio producing 2D, 3D and motion graphics videos, including medical and product animation.
+    hq:
+      city: Austin
+      country: United States
+    offices:
+      - city: Houston
+        country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    founded: 2007
+    social:
+      x: https://x.com/AustinVisuals
+    notes: Also runs medical3danimationcompany.com as a division.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Perfect Form
+    url: https://www.perfectformdesign.com/
+    description: Austin motion studio making design-driven 2D and 3D animation, brand films, explainers and title sequences.
+    hq:
+      city: Austin
+      country: United States
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/perfectformdesign/
+      linkedin: https://www.linkedin.com/company/perfect-form/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Hero4Hire
+    url: https://www.h4h.studio/
+    description: Boston animation and motion design studio making character animation, branded content and experiential media.
+    hq:
+      city: Boston
+      country: United States
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - experiential
+    markets:
+      - episodic
+      - brand
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/hero4hirecreative/
+      linkedin: https://www.linkedin.com/company/hero-4-hire-creative/
+      vimeo: https://vimeo.com/hero4hire
+      x: https://x.com/h4hcreative
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: FableVision Studios
+    url: https://www.fablevisionstudios.com/
+    description: Boston learning media studio creating animation, games, apps and AR/VR experiences for education and nonprofit clients.
+    hq:
+      city: Boston
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    founded: 1996
+    social:
+      instagram: https://www.instagram.com/fvstudioboston/
+      linkedin: https://www.linkedin.com/company/fablevision/
+      x: https://x.com/FVStudioBoston
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: XYZ Creative Group
+    url: https://xyzcreativegroup.com/
+    description: Miami 3D design and animation studio producing photorealistic product renderings, 3D models and animation.
+    hq:
+      city: Miami
+      country: United States
+    disciplines:
+      - product-viz
+      - 3d-animation
+      - cg
+    markets:
+      - brand
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Yupix
+    url: https://yupix.com/
+    description: Miami studio creating immersive VR, digital twins and experience design for luxury real estate and hospitality projects.
+    hq:
+      city: Miami
+      country: United States
+    disciplines:
+      - xr
+      - archviz
+    markets:
+      - brand
+    notes: Site labels its Wynwood space as HQ in Miami.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Kuku Studios
+    url: https://www.kukustudios.com/
+    description: Berkeley animation house producing animated series and films for streaming.
+    hq:
+      city: Berkeley
+      country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Go! Go! Cory Carson
+      - In Your Dreams
+    social:
+      instagram: https://www.instagram.com/kuku_studios/
+      linkedin: https://www.linkedin.com/company/kuku-studios/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Creative Capers Entertainment
+    url: https://www.creativecapers.com/
+    description: Altadena character animation studio with 30+ years of 2D work for feature studios, games and brands.
+    hq:
+      city: Altadena
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - brand
+    founded: 1989
+    notable:
+      - Once Upon a Studio
+    social:
+      instagram: https://www.instagram.com/creativecapers/
+      linkedin: https://www.linkedin.com/company/creative-capers-entertainment/
+    notes: Founded year from Wikidata; site says 30+ years.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Exceptional Minds
+    url: https://exceptional-minds.org/
+    description: Sherman Oaks nonprofit academy and studio where artists on the autism spectrum deliver VFX and animation work for films and series.
+    hq:
+      city: Sherman Oaks
+      country: United States
+    disciplines:
+      - vfx
+      - 2d-animation
+    markets:
+      - film
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/exceptionalminds/
+      linkedin: https://www.linkedin.com/company/exceptional-minds-visual-effects-animation-studio/
+      x: https://x.com/ExMinds
+    notes: Nonprofit. Founded year from Wikidata.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Hydraulx
+    url: https://www.hydraulx.com/
+    description: Los Angeles visual effects facility founded by the Brothers Strause, delivering VFX for features and commercials.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+    founded: 2002
+    social:
+      instagram: https://www.instagram.com/hydraulxvfx/
+      linkedin: https://www.linkedin.com/company/hydraulx/
+      x: https://x.com/hydraulxvfx
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Artjail
+    url: https://www.artjail.com/
+    description: New York boutique VFX studio delivering 2D and 3D visual effects, CGI and color for directors and agencies.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Toronto
+        country: Canada
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/artjail/
+      vimeo: https://vimeo.com/artjail
+      x: https://x.com/Artjail
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Ghostbot
+    url: https://www.ghostbot.com/
+    description: San Francisco Bay Area animation studio and IP creator making animated content for brands and entertainment since 2004.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2004
+    social:
+      linkedin: https://www.linkedin.com/company/329764/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: J.J. Sedelmaier Productions
+    url: https://www.jjsedelmaier.com/
+    description: White Plains, New York design and animation studio making animated films and print work in many styles.
+    hq:
+      city: White Plains
+      country: United States
+    disciplines:
+      - 2d-animation
+    social:
+      instagram: https://www.instagram.com/jjsedelmaier/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Ideum
+    url: https://ideum.com/
+    description: Corrales, New Mexico studio designing interactive exhibits, immersive experiences and touch tables for museums and brands.
+    hq:
+      city: Corrales
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/ideum/
+      linkedin: https://www.linkedin.com/company/ideum/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Thinc Design
+    url: https://thincdesign.com/
+    description: New York exhibit design firm creating immersive experiences for museums, aquariums, zoos and cultural organizations.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/thincdesign/
+      linkedin: https://www.linkedin.com/company/thinc-design-ny-ny/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: motion504
+    url: https://motion504.com/
+    description: Minneapolis broadcast design, effects and animation studio making title packages and graphics for TV and film.
+    hq:
+      city: Minneapolis
+      country: United States
+    disciplines:
+      - motion-design
+      - vfx
+    markets:
+      - episodic
+    notable:
+      - Life Below Zero
+      - 'Genius: Picasso'
+    social:
+      instagram: https://www.instagram.com/motion504/
+      vimeo: https://vimeo.com/motion504
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Gaardhouse
+    url: https://gaardhouse.com/
+    description: Northeast Minneapolis creative production house focused on motion design for advertising, film and television.
+    hq:
+      city: Minneapolis
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/gaardhouse/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Germantown Studios
+    url: https://germantownstudios.com/
+    description: Philadelphia animation studio making 2D animation and motion graphics for life sciences, finance, education and retail clients.
+    hq:
+      city: Philadelphia
+      country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Deeplocal
+    url: https://www.deeplocal.com/
+    description: Pittsburgh creative agency and production studio building interactive experiences and installations for brands.
+    hq:
+      city: Pittsburgh
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/deeplocal/
+      linkedin: https://www.linkedin.com/company/deeplocal/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Armada
+    url: https://armada.company/
+    description: Nashville media production company delivering video, 2D and 3D animation, motion graphics and VFX for business and entertainment.
+    hq:
+      city: Nashville
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+      - vfx
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/armadacontent/
+      linkedin: https://www.linkedin.com/company/armada-content/
+    notes: magneticdreams.com (Magnetic Dreams Animation Studio) now redirects here.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Hillmann & Carr
+    url: https://hillmanncarr.com/
+    description: Washington, D.C. media producer creating films, soundscapes and interactive media for museums and visitor centers since 1974.
+    hq:
+      city: Washington, D.C.
+      country: United States
+    offices:
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - experiential
+      - live-action
+    founded: 1974
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Design I/O
+    url: https://design-io.com/
+    description: Studio with offices in Petaluma and Brooklyn creating immersive interactive installations and VR for museums and public spaces.
+    hq:
+      city: Petaluma
+      country: United States
+    offices:
+      - city: Brooklyn
+        country: United States
+    disciplines:
+      - experiential
+      - xr
+    social:
+      instagram: https://www.instagram.com/designiollc/
+      behance: https://www.behance.net/design-io
+      x: https://x.com/design_io
+    notes: Site lists offices in Petaluma, CA and Brooklyn, NY without naming a HQ.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: NeoPangea
+    url: https://neopangea.com/
+    description: West Reading, Pennsylvania creative studio building interactive experiences for physical spaces and digital channels.
+    hq:
+      city: West Reading
+      country: United States
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/neopangea/
+      linkedin: https://www.linkedin.com/company/neopangea/
+      x: https://x.com/neopangea
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: ESI Design
+    url: https://esidesign.com/
+    description: New York experience design studio turning spaces into immersive environments through storytelling, media and technology.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/esidesign/
+      linkedin: https://www.linkedin.com/company/esidesign/
+    notes: Now an NBBJ studio.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Two Bit Circus
+    url: https://twobitcircus.com/
+    description: Los Angeles entertainment studio that designs, fabricates and operates interactive attractions, story rooms and games.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - experiential
+    social:
+      instagram: https://www.instagram.com/twobitcircus/
+      linkedin: https://www.linkedin.com/company/twobitcircus/
+      x: https://x.com/TwoBitCircus
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Meow Wolf
+    url: https://meowwolf.com/
+    description: Santa Fe arts and entertainment company creating immersive, maximalist walk-through art environments.
+    hq:
+      city: Santa Fe
+      country: United States
+    disciplines:
+      - experiential
+    founded: 2008
+    social:
+      instagram: https://www.instagram.com/meow__wolf/
+      linkedin: https://www.linkedin.com/company/meow-wolf/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Mycotoo
+    url: https://mycotoo.com/
+    description: Glendale, California entertainment development company designing theme parks, immersive experiences and live attractions.
+    hq:
+      city: Glendale
+      country: United States
+    offices:
+      - city: Cambrils
+        country: Spain
+    disciplines:
+      - experiential
+    founded: 2011
+    social:
+      linkedin: https://www.linkedin.com/company/mycotoo-inc-/
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: Roto
+    url: https://roto.com/
+    description: Dublin, Ohio exhibition planning and design-build firm creating interactive experiences for museums, science centers and attractions.
+    hq:
+      city: Dublin
+      country: United States
+    disciplines:
+      - experiential
+    founded: 2004
+    social:
+      instagram: https://www.instagram.com/roto.group/
+      linkedin: https://www.linkedin.com/company/roto-group-llc/
+    notes: HQ is Dublin, Ohio (not Ireland).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.148Z'
+  - name: amana
+    url: https://amana.jp/
+    description: Tokyo visual production company making photography, CG and video for corporate brands and advertising.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notes: Found via Pixel×Pixel 2026 sponsor list. HQ Shinagawa from amana.jp/company/profile/.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: Hakuten
+    url: https://www.hakuten.co.jp/
+    description: Tokyo experiential design company planning and building events, exhibitions, private shows and showrooms for brands.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+      - city: Nagoya
+        country: Japan
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 1970
+    notes: Found via Pixel×Pixel 2026. Founded and offices from hakuten.co.jp/company/ (創業 1967, 設立 1970).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: KASSEN
+    url: https://kassen.tokyo/
+    description: Tokyo VFX production house offering direction, editing, CG, VFX and color grading.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+    notes: Found via Pixel×Pixel 2026. HQ Shibuya from kassen.tokyo/about/.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: kumo.productions
+    url: https://kumo.productions/
+    description: Tokyo video production studio specializing in motion design, character CG animation and VFX for ads and music videos.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - music-video
+    founded: 2021
+    notes: Found via Pixel×Pixel 2026. Shinjuku office and founding date from kumo.productions/about.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: LIGHT THE WAY
+    url: https://light-the-way.jp/
+    description: Tokyo video-led design company planning and producing commercials, promo videos, music videos and event visuals.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/lighttheway_design/
+      x: https://x.com/LTW_design
+    notes: Found via Pixel×Pixel 2026. Facts from light-the-way.jp/about_us/.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: moff
+    url: https://www.moffediting.com/
+    description: Tokyo post-production company offering editing, VFX, CG and color grading for TV commercials and online ads.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    notes: Found via Pixel×Pixel 2026 sponsor list. City from site meta text.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: Magrant
+    url: https://magrant.co.jp/
+    description: Tokyo design studio built around motion graphics, also producing video, graphics and photography.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+    notes: Found via Pixel×Pixel 2026. Meguro address from magrant.co.jp/company/.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: mellow soda.
+    url: https://mellowsoda.jp/
+    description: Tokyo video production company focused on motion graphics, making branding and promo videos with original music.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/mellowsoda.inc/
+    notes: Found via Pixel×Pixel 2026. Facts from mellowsoda.jp/about/.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: MULTRA
+    url: https://multra.jp/
+    description: Tokyo design and technology studio planning and producing motion design and digital work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/multra_inc/
+      linkedin: https://www.linkedin.com/company/multra_tokyo
+    notes: Found via Pixel×Pixel 2026 (speaker studio). Discipline from staff roles on multra.jp/about/; site does not list services.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'

@@ -1,0 +1,1017 @@
+studios:
+  - name: Igloo Animations
+    url: https://www.iglooanimations.com/
+    description: Dublin animation studio founded in 2008, making 2D digital and mixed-media animation, TV comedy and animated explainer videos.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+      - brand
+    founded: 2008
+    social:
+      x: https://twitter.com/IglooAnimations
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Ink and Light
+    url: https://www.ink-and-light.com/
+    description: Dublin animation studio founded in 2012, producing kids series such as Royals Next Door.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2012
+    notable:
+      - Royals Next Door
+    social:
+      instagram: https://www.instagram.com/inkandlightfilm
+      x: https://twitter.com/inkandlightfilm
+    notes: Animation technique not confirmed on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: JAM Media
+    url: https://www.jammedia.com/
+    description: Dublin animation studio founded in 2002, making character-led kids series, with a second studio in Belfast.
+    hq:
+      city: Dublin
+      country: Ireland
+    offices:
+      - city: Belfast
+        country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2002
+    notable:
+      - Roy
+      - Becca's Bunch
+    social:
+      linkedin: https://www.linkedin.com/company/jam-media-ltd
+      x: https://twitter.com/jampips
+    notes: Notable titles and disciplines from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Little Moon Animation
+    url: https://www.littlemoonanimation.com/
+    description: Dublin studio founded in 2019, producing broadcast CG animated series with an Unreal Engine pipeline.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 3d-animation
+      - virtual-production
+    markets:
+      - episodic
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/little_moon_animation
+      linkedin: https://www.linkedin.com/company/little-moon-animation
+      x: https://twitter.com/littlemoonanim
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Moetion Films
+    url: https://moetionfilms.com/
+    description: Galway animation company co-producing animated features and series, including the 3D feature Two By Two.
+    hq:
+      city: Galway
+      country: Ireland
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Two By Two
+    social:
+      x: https://twitter.com/MoetionFilms
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Paper Panther
+    url: https://www.paperpanther.ie/
+    description: Dublin stop-motion studio founded in 2014, making animated shorts and explainers for clients such as BBC Ideas and TED-Ed.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - stop-motion
+    markets:
+      - brand
+      - advertising
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/paperpanther
+      x: https://twitter.com/paperpanther
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Studio 9
+    url: https://studio9.ie/
+    description: Dublin animation studio making short animated explainers and science films for national and international clients.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/studio_9_dublin
+      linkedin: https://www.linkedin.com/company/studio-9-dublin
+      vimeo: https://vimeo.com/studio9animation
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Telegael
+    url: https://www.telegael.com/
+    description: County Galway film, TV and animation studio established in 1988, producing animation, stop-motion and live action plus dubbing.
+    hq:
+      city: Spiddal
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - live-action
+    markets:
+      - episodic
+      - film
+    founded: 1988
+    social:
+      instagram: https://instagram.com/telegaelireland
+      vimeo: https://vimeo.com/user43010239
+      x: https://twitter.com/TelegaelIreland
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Treehouse Republic
+    url: https://treehouserepublic.com/
+    description: Dublin 2D animation studio established in 2010, providing series animation services and ads with Toon Boom Harmony pipelines.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/thetreehouserepublic
+      vimeo: https://vimeo.com/treehouserepublicads
+      youtube: https://www.youtube.com/user/TreehouseRepublic
+      x: https://twitter.com/3houserepublic
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Whackala
+    url: https://whackala.com/
+    description: Dublin film and TV production company making animated and live-action shorts, series and documentaries since 2006.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    founded: 2006
+    notable:
+      - The Grumpy Onion
+      - Lady Betty
+      - Squinky and the Witch
+    social:
+      instagram: https://instagram.com/whackala
+      linkedin: https://www.linkedin.com/company/whackala
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Piranha Bar
+    url: https://piranhabar.ie/
+    description: Dublin creative studio with in-house directors, VFX and broadcast design, making commercials and content for brands.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/piranhabar_insta
+      linkedin: https://www.linkedin.com/company/piranha-bar
+      vimeo: https://vimeo.com/piranhabar
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: MAUR film
+    url: https://www.maurfilm.com/
+    description: Prague producer of Czech animated films, shorts and international co-productions, with its own studio and VFX staff.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    notable:
+      - The Crossing
+      - Daughter
+    social:
+      instagram: https://www.instagram.com/maurfilm
+      vimeo: https://vimeo.com/user28753998
+      youtube: https://www.youtube.com/channel/UCwc4z9i3shlE_auY-7GGSJQ
+    notes: Daughter (Dcera) from catalogue knowledge; The Crossing listed on site as Pres hranici.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Boddah
+    url: https://boddah.hu/
+    description: Budapest film production company and creative hub representing animation and live-action directors for shorts, ads and music videos.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - advertising
+      - music-video
+    social:
+      instagram: https://www.instagram.com/boddahbudapest
+      vimeo: https://vimeo.com/boddahbudapest
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: KEDD
+    url: https://www.keddstudio.com/
+    description: Budapest animation studio founded in 2002, producing and distributing animated content for young children such as Berry and Dolly.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2002
+    notable:
+      - Berry and Dolly
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Anima Vitae
+    url: https://anima.fi/
+    description: Helsinki 3D character animation studio with a site in Kuala Lumpur, making animated series and features such as Angry Birds Stella.
+    hq:
+      city: Helsinki
+      country: Finland
+    offices:
+      - city: Kuala Lumpur
+        country: Malaysia
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Angry Birds Stella
+      - 'Rabbids Invasion: Mission to Mars'
+      - Minifauna
+      - The Adventures of Little Penguin
+    social:
+      instagram: https://www.instagram.com/animavitae
+      vimeo: https://vimeo.com/animavitae
+      youtube: https://www.youtube.com/user/AnimaVitaeTV
+      x: https://twitter.com/animavitaeltd
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Gigglebug Entertainment
+    url: https://gigglebugentertainment.com/
+    description: Helsinki animation IP studio behind the Emmy-winning Gigglebug, also providing animation services, with an office in Las Palmas.
+    hq:
+      city: Helsinki
+      country: Finland
+    offices:
+      - city: Las Palmas de Gran Canaria
+        country: Spain
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Gigglebug
+    social:
+      instagram: https://instagram.com/gigglebugentertainment
+      linkedin: https://www.linkedin.com/company/gigglebug-entertainment
+    notes: Discipline from catalogue knowledge.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Wil Film
+    url: https://www.wilfilm.dk/
+    description: Copenhagen film production company and 3D animation studio making series, features and commercials, such as Hugo og Holger.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Hugo og Holger
+    social:
+      instagram: https://www.instagram.com/wil_film_
+      linkedin: https://www.linkedin.com/company/wil-film-aps
+      vimeo: https://vimeo.com/userwilfilm
+      youtube: https://www.youtube.com/channel/UC7b8zI_LOI_zaux2uukMCAA
+      x: https://twitter.com/WILFILM
+    notes: Commercials work since 2002 per site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: The Chimney Pot
+    url: https://www.chimney.se/
+    description: Stockholm post-production and VFX studio for scripted content and advertising, with satellite offices in Poland.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notes: Site mentions satellite offices in Poland; city not stated.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Take Five
+    url: https://www.take-five.be/
+    description: Brussels film production company founded in 2005, producing and co-producing animated and live-action features and series such as Flow.
+    hq:
+      city: Brussels
+      country: Belgium
+    disciplines:
+      - 3d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    founded: 2005
+    notable:
+      - Flow
+      - Nino Dino
+      - Mare the Mermaid
+    social:
+      instagram: https://www.instagram.com/takefiveprod
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: hydralab
+    url: https://cph.hydralab.com/
+    description: Copenhagen studio from an animation and high-end VFX background, directing films and making VFX, miniatures, software and robots.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+      - music-video
+    social:
+      linkedin: https://www.linkedin.com/company/2866686
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Sweatbox Animation
+    url: https://www.sweatbox.dk/
+    description: Frederiksberg animation studio providing storyboards, character design and hand-drawn and CGI animation for features and TV commercials.
+    hq:
+      city: Frederiksberg
+      country: Denmark
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    notable:
+      - To Bee or Not to Bee
+      - Tivoli
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Doze Studio
+    url: https://doze.studio/
+    description: Nantes motion design studio founded in 2012, making 2D and 3D animation, commercials and animated identities for brands and agencies.
+    hq:
+      city: Nantes
+      country: France
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/doze_studio
+      linkedin: https://www.linkedin.com/company/doze-studio
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Pictak
+    url: https://pictak.fr/
+    description: Animation production company founded in 2000 by Xavier Picard, co-producer of Moomins on the Riviera, now based in Sainte-Soline.
+    hq:
+      city: Sainte-Soline
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2000
+    notable:
+      - Moomins on the Riviera
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Red Parrot Studios
+    url: https://redparrot-studios.com/
+    description: Cologne animation and VFX studio founded in 2014, with sites in Hamburg and Stuttgart, working on series, features and arthouse films such as Tehran Taboo.
+    hq:
+      city: Cologne
+      country: Germany
+    offices:
+      - city: Hamburg
+        country: Germany
+      - city: Stuttgart
+        country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+    founded: 2014
+    notable:
+      - Tafiti
+      - Tehran Taboo
+      - Die Mucklas
+      - Kleine Germanen
+    social:
+      instagram: https://www.instagram.com/redparrotgermany
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: SERU Animation
+    url: https://www.seru-animation.com/
+    description: Ludwigsburg studio founded in 2011, producing 2D and CGI animation for features and series, with a second studio in Hanover.
+    hq:
+      city: Ludwigsburg
+      country: Germany
+    offices:
+      - city: Hanover
+        country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2011
+    notable:
+      - Die Heinzels
+      - Die Häschenschule
+      - Meine Chaosfee & Ich
+      - Rabbit Academy
+    social:
+      instagram: https://www.instagram.com/seruanimation
+      linkedin: https://www.linkedin.com/company/71185842
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: The Soulcage Department
+    url: https://www.soulcage-department.de/
+    description: Bremen 3D character animation studio working since 2002, making animated commercials, game trailers and feature film work.
+    hq:
+      city: Bremen
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - games
+      - film
+    founded: 2002
+    notable:
+      - June's Journey
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Contrast 3D
+    url: https://www.contrast3d.com/
+    description: Madrid creative production studio making CGI visual campaigns, product imagery and immersive brand experiences.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - cg
+      - product-viz
+      - xr
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/contrast3dstudio
+      linkedin: https://www.linkedin.com/company/contrast3dstudio
+      x: https://x.com/contrast3d
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Zigzag Animation
+    url: https://zigzag.se/
+    description: Stockholm animation studio of directors Uzi Geffenblad and Helena Elfgren, making animated short films and series.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    notable:
+      - In the Loop
+    notes: Technique from catalogue knowledge; site address is Johanneshov, Stockholm.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Dibulitoon Studio
+    url: https://dibulitoon.com/
+    description: San Sebastián animation producer making animated features and series for children, including Elcano and Winnipeg.
+    hq:
+      city: San Sebastián
+      country: Spain
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Elcano: The First Voyage Around the World'
+      - Winnipeg
+      - Robotia
+      - Dixie and the Zombie Rebellion
+    social:
+      instagram: https://www.instagram.com/dibulitoon
+      youtube: https://www.youtube.com/channel/UCK8KUVF8uSjdUVmtLjmWfvQ
+      x: https://x.com/dibulitoon
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Panique!
+    url: https://panique.be/
+    description: Brussels film production company founded in 2009 by the creators of A Town Called Panic, producing animated features and shorts.
+    hq:
+      city: Brussels
+      country: Belgium
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2009
+    notable:
+      - In Waves
+    social:
+      vimeo: https://vimeo.com/paniqueprod
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Fabrique d'Images
+    url: https://www.fabrique-d-images.com/
+    description: Differdange animation studio and production company founded in 2002, making animated features, series and commercials for international audiences.
+    hq:
+      city: Differdange
+      country: Luxembourg
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2002
+    notable:
+      - Spiked
+      - Allah Is Not Obliged
+      - The Last Dinosaur
+      - Arvil the Little Falcon
+    social:
+      linkedin: https://www.linkedin.com/company/la-fabrique-d
+      x: https://twitter.com/FabriquedImages
+    notes: Also listed in Film Fund Luxembourg 'Animated Luxembourg 2024' directory.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: ZEILT productions
+    url: https://www.zeiltproductions.com/
+    description: Oscar-winning Luxembourg CG animation producer founded in 2007 by Laurent Witz, with a sister studio, making features and series.
+    hq:
+      city: Foetz
+      country: Luxembourg
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2007
+    notable:
+      - Mr Hublot
+      - L'Ogre
+      - Barababor
+    social:
+      linkedin: https://www.linkedin.com/company/zeilt-productions
+      vimeo: https://vimeo.com/zeilt
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Doghouse Films
+    url: https://doghousefilms.eu/
+    description: Differdange independent production company founded in 2012, with an in-house 2D and 3D animation studio for adult and family films.
+    hq:
+      city: Differdange
+      country: Luxembourg
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/doghouse_films
+      vimeo: https://vimeo.com/user36172144
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: a_BAHN
+    url: https://a-bahn.com/
+    description: Oberkorn production company co-founded in 2013, making hybrid and immersive works including VR and animated films.
+    hq:
+      city: Oberkorn
+      country: Luxembourg
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    founded: 2013
+    notable:
+      - Ceci Est Mon Coeur
+    social:
+      instagram: https://www.instagram.com/a_bahn
+      x: https://twitter.com/a_BAHN
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Bidibul Productions
+    url: https://bidibul.eu/
+    description: 'Luxembourg production company making family films and animated features such as Little Nicholas: Happy as Can Be and White Fang.'
+    hq:
+      city: Luxembourg
+      country: Luxembourg
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+    notable:
+      - 'Little Nicholas: Happy as Can Be'
+      - White Fang
+      - Tall Tales
+    notes: City and titles from Film Fund Luxembourg directory; homepage bidibul.eu loads but shows no address.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: FX3X
+    url: https://fx3x.com/
+    description: Skopje visual effects and animation studio founded in 1997, a Cinesite partner company, delivering VFX and virtual production for film and TV.
+    hq:
+      city: Skopje
+      country: North Macedonia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - virtual-production
+    markets:
+      - film
+      - episodic
+    founded: 1997
+    notes: Cinesite took a majority stake in 2022 (press).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Animation People
+    url: https://www.animation.cz/
+    description: Prague animation studio founded in 1990, making animated commercials and films with in-house puppeteers and prop making.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - advertising
+      - film
+    founded: 1990
+    notes: Founded year from founder bio on site.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Incognito Studio
+    url: https://www.incognito.studio/
+    description: Prague animation and post-production studio providing visual development, character animation, motion graphics and VFX for film, TV and ads.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/_incognito.studio_
+      vimeo: https://vimeo.com/1ncognit0
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: three bohemians
+    url: https://threebohemians.studio/
+    description: Prague animation and cinematics studio working since 2006 with a senior team on games, film and advertising, as full production or pipeline support.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - outsourcing
+    markets:
+      - games
+      - film
+      - advertising
+    founded: 2006
+    social:
+      vimeo: https://vimeo.com/3bohemians
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: GS Animation
+    url: https://g-s.pl/
+    description: Gdańsk animation studio founded in 2004, producing series, features, shorts, commercials and cinematics, including Kajko i Kokosz.
+    hq:
+      city: Gdańsk
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - cinematics
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2004
+    notable:
+      - Kajko i Kokosz
+      - Harry i Toto
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Badi Badi
+    url: https://badibadi.com/
+    description: Warsaw post-production and animation studio founded in 2003, specialising in visual effects for brands and commercials.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2003
+    social:
+      instagram: https://www.instagram.com/badibadi_postproduction
+      vimeo: https://vimeo.com/badibadi
+    notes: Founding year from CEE Animation studio directory.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Ionart Studios
+    url: https://ionartstudios.com/
+    description: Budapest full-service VFX and animation studio with presence in Los Angeles and Dallas, making CG game cinematics, commercials and series work.
+    hq:
+      city: Budapest
+      country: Hungary
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Dallas
+        country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cinematics
+    markets:
+      - games
+      - advertising
+      - episodic
+    social:
+      instagram: https://www.instagram.com/ionartstudios
+      linkedin: https://www.linkedin.com/company/ionart-studios
+      vimeo: https://vimeo.com/ionartstudios
+      youtube: https://www.youtube.com/channel/UCp5CEcA5JLDadFz_l6RGHjg
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: GRAFIK
+    url: https://grafik.ee/
+    description: Tallinn animation and production studio working in 3D and 2D animation, stop-motion and post-production.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+      - advertising
+    notes: Techniques from CEE Animation directory entry.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Meinart
+    url: https://www.meinart.lt/
+    description: Vilnius animation studio founded in 2012, making 2D and 3D character animation and explainer videos for brands and agencies.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/meinartanimation
+      vimeo: https://vimeo.com/meinartanimation
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Akis Bado
+    url: https://akisbado.com/
+    description: Vilnius indie animation and film production company established in 2019, making animated shorts including stop-motion films.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+    founded: 2019
+    notable:
+      - Glass Elephants
+      - Pigeon of our Time
+    social:
+      instagram: https://www.instagram.com/akisbado
+      vimeo: https://vimeo.com/akisbado
+      behance: https://www.behance.net/akisbado
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: 20 Steps Productions
+    url: https://20steps.ge/
+    description: Tbilisi production company founded in 2007, producing animated films and features and providing production services in Georgia.
+    hq:
+      city: Tbilisi
+      country: Georgia
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/20steps.ge
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Flammorum
+    url: https://flammorum.com/
+    description: Prishtina artist-owned animation studio making animated films, music videos and educational content.
+    hq:
+      city: Prishtina
+      country: Kosovo
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - music-video
+    notable:
+      - The Mountain Climber
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: LWZ
+    url: https://www.lwz.studio/
+    description: Vienna design and animation studio founded in 2014, making animated films, illustration and motion work for cultural and brand clients.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/wearelwz
+      vimeo: https://vimeo.com/lwz
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: RippleX Studios
+    url: https://ripplexstudios.no/
+    description: Oslo studio making immersive VR, AR and spatial experiences at the intersection of film, art and technology, formerly Stargate Media.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - xr
+      - experiential
+      - virtual-production
+    social:
+      instagram: https://www.instagram.com/ripplexstudios
+      linkedin: https://www.linkedin.com/company/ripplexstudios
+    notes: stargatemedia.no redirects here.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'
+  - name: Cinnamon Entertainment
+    url: https://www.cinnamon-entertainment.be/
+    description: Ghent animation studio, indie game developer and immersive content creator supporting projects by emerging talent.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - 2d-animation
+      - xr
+    markets:
+      - film
+      - games
+      - brand
+    social:
+      instagram: https://www.instagram.com/cinnamonentertainment.be
+      linkedin: https://www.linkedin.com/company/cinnamon-entertainment
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:21:04.145Z'

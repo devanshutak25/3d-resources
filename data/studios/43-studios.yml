@@ -1,0 +1,106 @@
+studios:
+  - name: gradation
+    url: https://www.gradation.site/
+    description: Tokyo studio planning and producing video, graphics and digital content.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - motion-design
+    founded: 2020
+    notes: Found via Pixel×Pixel 2026. Facts from gradation.site/about/.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: Nieichi
+    url: https://2eichi.com/
+    description: Tokyo and Osaka video design company producing live-action and 3DCG films.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - cg
+      - live-action
+    notes: Found via Pixel×Pixel 2026. Offices from 2eichi.com/company; Tokyo listed first, taken as HQ.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: CS.2
+    url: https://cs-2.jp/
+    description: Nagoya creative team with a Tokyo office making motion graphics, 3DCG and VFX for branding and promotions.
+    hq:
+      city: Nagoya
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - motion-design
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - brand
+    founded: 2014
+    notes: Found via Pixel×Pixel 2026. Facts from cs-2.jp/company/ (19 staff, no LinkedIn band checked).
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: popx
+    url: https://popx-inc.com/
+    description: Tokyo production company whose work includes the ARASHI 2026 live tour and the Osaka-Kansai Expo opening ceremony.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - experiential
+    founded: 2024
+    notes: Found via Pixel×Pixel 2026. Role on listed works not stated on site; discipline from works list.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: FLUX
+    url: http://flux-inc.jp/
+    description: Japanese CG production company making CG video, VFX and interactive work.
+    hq:
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+    notes: Found via Pixel×Pixel 2026 sponsor list. Site is JS-rendered; city not confirmed. Site serves HTTP only.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: auv
+    url: https://auvcreative.com/
+    description: Seoul design-led CGI studio making product renders, motion graphics and VFX simulations.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - cg
+      - product-viz
+      - motion-design
+      - vfx
+    notes: Found via Pixel×Pixel 2026. Mapo-gu address from auvcreative.com/contact.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
+  - name: illo
+    url: https://illo.tv/
+    description: Turin design studio focused on motion design, illustration and set design.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - motion-design
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/illotv/
+    notes: Found via Pixel×Pixel 2026 speaker list. Facts from illo.tv/studio.
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    added_at: '2026-11-05T16:25:15.106Z'
