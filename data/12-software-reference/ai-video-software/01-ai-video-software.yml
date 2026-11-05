@@ -702,10 +702,10 @@ entries:
   - name: VidGen Studio
     url: https://vidgen.studio/
     added_at: '2026-11-05T08:30:03.000Z'
-    description: Web app that blocks out every scene of a story as a 3D storyboard you can change in plain words, then films each approved scene with models like Veo 3.1, Kling 3.0 Pro and Seedance 2.0.
+    description: Web app that blocks out every scene of a story as a 3D storyboard you can change in plain words, then films each approved scene with Veo 3.1, Kling or Seedance.
     license: Freemium
     entry_type: software
-    pricing: Free 3D storyboard and animatic, pay-as-you-go credits for AI video
+    pricing: Free 3D storyboard, prepaid credits for AI video (model price plus 20%)
     tags:
       workflow:
         - storyboard
@@ -722,3 +722,6 @@ entries:
       - 3D Storyboard
       - Previs
     best_for: Directing a multi-scene AI film before rendering
+    url_status: ok
+    url_last_verified: '2026-11-05'
+    pricing_last_verified: '2026-11-05'
