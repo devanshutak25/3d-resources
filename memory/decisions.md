@@ -111,3 +111,4 @@ Architectural / structural decisions w/ rationale + date.
 - Agents tag rows with `_event` (provenance) in scratch output only; importer drops it, not stored in data.
 - Rows with no evidence of work in ~2 years dropped even when an event lists them (Cartel Cartoon, Dawn Digital). A recent award win counts as activity (Form&Fun, 2025 Auggie).
 - Casino in a client-work title (Frost FX "Olympic Casino" ad) or a street name is not spam; injected outbound casino links are (Peekaboo Animation, rejected three rounds now).
+- 2026-11-06: Freshness branches whose PR could not be opened get merged by hand: latest month only (each run re-scans every repo, so it supersedes older ones), then old branches are deleted. Conflicts are usually "main appended entries after the chunk's last entry" vs "branch added flags to that entry": branch lines first, then main's appended block.

@@ -82,6 +82,8 @@ entries:
         - opensource-alt
         - unity-plugin
     archived: true
+    stale: true
+    last_pushed: '2024-10-05'
   - name: GILES
     url: https://github.com/Unity-Technologies/giles
     added_at: '2026-04-19T17:15:03.000Z'

@@ -340,8 +340,9 @@ left open, remove when done.
 
 **Needs the user (GitHub settings / decisions):**
 - Settings -> Actions -> General -> "Allow GitHub Actions to create and approve pull requests": the
-  2026-10-01 freshness run failed on it. Then re-run freshness and delete the orphan branch
-  `maintenance/freshness-2026-10` (its stale/archived flags were never merged).
+  the 2026-10-01 and 2026-11-01 freshness runs both pushed a branch but could not open the PR. On 2026-11-06 the
+  November branch (a full re-scan, so it supersedes October) was merged by hand and both branches were deleted.
+  Until the setting is on, each monthly run leaves a `maintenance/freshness-YYYY-MM` branch to merge by hand.
 - Disable the legacy GitHub Pages build (Settings -> Pages). It publishes the whole repo, including
   `memory/`, to devanshutak25.github.io on every push; Cloudflare Pages is the real host.
 - Optional: branch protection on `main` (bots push directly: link-check, release-watch, render-readme).

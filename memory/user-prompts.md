@@ -265,3 +265,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > push the changes please
 
 **Answered:** Committed round 5 data + docs (feat) and memory log (docs), pushed to origin/main.
+
+**Prompt:** (2026-11-06)
+> check the different branches as well please. If content from them can be merged and branches deleted
+
+**Answered:** 3 branches. maintenance/freshness-2026-11 (stale/last_pushed/archived flags) merged by hand (2 append-vs-flag conflicts resolved, all 654 flagged URLs match the branch); freshness-2026-10 superseded by the Nov re-scan; wip/studio-gap-fill already fully in main (0 hosts missing, schema identical). All 3 deleted.

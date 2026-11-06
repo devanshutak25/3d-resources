@@ -8,7 +8,7 @@ Project-level goals and intent for 3d_resources.
 
 ## Active goals
 - 2026-10-05: Keep the catalog link-healthy: monthly link-check triage (5 unreachable left, see project.md §11).
-- 2026-10-05: Unblock the freshness workflow (GitHub "Allow Actions to create PRs" setting) and merge October flags.
+- 2026-10-05: Unblock the freshness workflow (GitHub "Allow Actions to create PRs" setting). Oct/Nov flags merged by hand 2026-11-06.
 - 2026-10-05: Launch track (pub_plan Part 2): social preview, awesome-list PRs, community posts, newsletters, GSC.
 - 2026-10-05: Continue web discovery phases (assets, tutorials/learning, AI/ML workflows) after software + tools.
 - 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v6 at 2,695 + 2,683 game studios (2026-11-06, round 5 event-sourced). Next: size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (23), JS-only award sites (CICLOPE, AICP, Clio, Promax) with a headless browser.

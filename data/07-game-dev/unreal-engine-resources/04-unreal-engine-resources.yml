@@ -133,6 +133,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-01'
   - name: ue5coro
     url: https://github.com/landelare/ue5coro
     added_at: '2026-04-19T17:29:43.000Z'
@@ -151,6 +153,7 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    archived: true
   - name: RemCommon
     url: https://github.com/RemRemRemRe/RemCommon
     added_at: '2026-04-19T17:29:43.000Z'
@@ -424,6 +427,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-11-29'
   - name: 📺📜 Control Rig ~ Ask A Dev
     url: https://www.youtube.com/@livinfreestyle6727
     added_at: '2026-04-19T17:15:03.000Z'
@@ -583,6 +588,8 @@ entries:
         - unreal-plugin
       workflow:
         - animation
+    stale: true
+    last_pushed: '2024-07-10'
   - name: UE4 Plugin Resources
     url: https://github.com/Sythenz/UE4-Plugin-Resources
     added_at: '2026-04-19T17:29:43.000Z'

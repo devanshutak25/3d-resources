@@ -21,6 +21,8 @@ entries:
       - Pose-controlled
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2024-07-31'
   - name: Mixamo LLM Mocap
     url: https://github.com/squall01337/mixamo-llm-mocap
     description: Pipeline that turns locked-camera video, filmed or AI-generated, into FK animation on Mixamo characters in Blender using GVHMR pose estimation and retargeting.

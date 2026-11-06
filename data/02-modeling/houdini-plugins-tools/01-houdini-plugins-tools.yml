@@ -511,6 +511,8 @@ entries:
         - houdini
     url_last_verified: '2026-11-01'
     url_status: ok
+    stale: true
+    last_pushed: '2022-09-26'
   - name: FXHoudiniMCP
     url: https://github.com/healkeiser/fxhoudinimcp
     description: MCP server for Houdini with 215 tools that build node networks, set up simulations, inspect USD stages and render.

@@ -126,6 +126,8 @@ entries:
       - Free
       - Blender
     best_for: Automatic quad remeshing
+    stale: true
+    last_pushed: '2024-10-08'
   - name: Smart Remesh
     url: https://superhivemarket.com/products/smart-remesh
     description: Blender retopology add-on with organic and hard-surface modes for clean quad meshes.

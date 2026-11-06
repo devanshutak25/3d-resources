@@ -472,8 +472,6 @@ entries:
     readme_tags:
       - analytics
       - flurry
-    stale: true
-    last_pushed: '2015-06-01'
   - name: Google Analytics Plugin for Unity
     url: https://github.com/googleanalytics/google-analytics-plugin-for-unity
     added_at: '2026-04-19T17:15:03.000Z'
@@ -611,6 +609,8 @@ entries:
     readme_tags:
       - lua
       - scripting
+    stale: true
+    last_pushed: '2024-06-22'
   - name: LuaProfiler For Unity
     url: https://github.com/leinlin/Miku-LuaProfiler
     added_at: '2026-04-19T17:15:03.000Z'
@@ -970,6 +970,7 @@ entries:
       - integration
     stale: true
     last_pushed: '2021-05-24'
+    archived: true
   - name: Unity Tools
     url: https://github.com/TobiahZ/unity-tools
     added_at: '2026-04-19T17:15:03.000Z'
@@ -1054,6 +1055,7 @@ entries:
       - proxy
     stale: true
     last_pushed: '2016-04-07'
+    archived: true
   - name: Unity3DVim
     url: https://github.com/NOSDuco/Unity3dVim
     added_at: '2026-04-19T17:15:03.000Z'

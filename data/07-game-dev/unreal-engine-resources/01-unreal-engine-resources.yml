@@ -625,6 +625,8 @@ entries:
         - unreal-plugin
         - opensource-alt
     archived: true
+    stale: true
+    last_pushed: '2024-11-01'
   - name: ObjectDeliverer
     url: https://github.com/ayumax/ObjectDeliverer
     added_at: '2026-04-19T17:29:43.000Z'
@@ -754,6 +756,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-12'
   - name: VaRest
     url: https://github.com/ufna/VaRest
     added_at: '2026-04-19T17:29:43.000Z'
@@ -775,7 +779,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
-    archived: true
+    stale: true
+    last_pushed: '2024-11-01'
   - name: Unreal.js
     url: https://github.com/ncsoft/Unreal.js
     added_at: '2026-04-19T17:29:43.000Z'
@@ -889,6 +894,8 @@ entries:
       tech:
         - unreal-plugin
         - opensource-alt
+    stale: true
+    last_pushed: '2024-06-26'
   - name: Street Map
     url: https://github.com/ue4plugins/StreetMap
     added_at: '2026-04-19T17:29:43.000Z'
