@@ -361,13 +361,13 @@ left open, remove when done.
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
-- `/studios/` 2,357 (95 countries) and `/game-studios/` 2,550 (94 countries) on 2026-11-06, after round 4 (other
-  session, 2026-11-05) and this session's gap fill + country fill were merged. Disciplines: archviz 351, product viz 188,
-  interactive 134, VP 96, mocap 62, AI production 36, scanning 28, previs 22; markets: real-estate 352, medical-science 52;
-  games: simulation 97, kids-edu 62, UGC 41, VR 75, web 95. Japan production 162 (game 232).
-- Goal is every studio worldwide. Still thin: previs 22 (Previs Society site down, PLF/NVIZ/Nvizage dead), digital fashion 0
+- `/studios/` 2,695 (97 countries) and `/game-studios/` 2,683 (96 countries) on 2026-11-06, after round 5
+  (event-sourced, +338 / +133). Disciplines: archviz 392, product viz 206, interactive 164, VP 103, mocap 65,
+  AI production 46, scanning 33, previs 23; markets: real-estate 394, medical-science 58; games: simulation 101,
+  kids-edu 65, UGC 41, VR 86, web 95. Japan production 175 (game 233).
+- Goal is every studio worldwide. Still thin: previs 23 (Previs Society site down, PLF/NVIZ/Nvizage dead), digital fashion 0
   (The Fabricant, DRESSX are software now), Live2D/VTuber rigging 3 (no Live2D discipline, tagged `2d-animation`),
-  Saudi/Qatar archviz 0. Countries under 20: 65 in /studios/, 60 in /game-studios/ (many are 1-2 row countries added
+  Gulf archviz (Saudi/Qatar 0; round 5 found only Bahrain 1, Dubai 1). Countries under 20 (by HQ): 63 in /studios/, 60 in /game-studios/ (many are 1-2 row countries added
   2026-11-06; small markets like Malta, Iceland, Bosnia, Moldova may never reach 20). 0 rows: Montenegro, Kosovo, Albania.
 - Round 4 (+313 / +204), gap fill (2026-11-05) and country fill (2026-11-06) rows were verified by agents + a main-session
   HTTP probe only. The two runs overlapped on 134 studios; round 4 rows were kept and gained the new enum values.
@@ -376,22 +376,30 @@ left open, remove when done.
   (ceeanimation.eu, 353 studios), WayForward + 1047 Games (TLS refuse scripted fetches), VIXI (Tokyo, live-action, no CG
   evidence), flightgraf (JS-only site). Round 4 rows were not re-tagged for `interactive`/`scanning`/`ai-production`/
   `medical-science`/`kids-edu`/`simulation` beyond the name lists (archviz rows did get `real-estate`).
+- Round 5 (2026-11-06): leads from festival/award/conference credits (FMX company JSON, AEAF, Cartoon Forum/Movie,
+  Quirino, Annies, ADFEST, El Ojo, British Arrows, Venice Immersive, 1minute Projection Mapping, Auggies, CGarchitect
+  3D Awards, International Property Awards, IGF/DICE, Deutscher Computerspielpreis, BIG Festival API, AGDA, Taipei
+  Game Show, XDS, MCV/DEVELOP, Golden Trailer). Agent + main-session probe only; 78 of 471 rows are country-only HQ,
+  none have `size`. Not mined (JS-only, login or bot wall): CICLOPE galleries, AICP, Clio, Promax, Thea Awards, AMI,
+  Telly, Cityscape, Architizer, MIPIM, gameindustry.ph (SEA Game Awards), Amsterdam Light/GLOW/Lumiere; older BIG
+  Festival years (classifier stopped API paging). Leads left out (HQ or site unverified): beloFX, 1920 (London VFX),
+  Nash VFX, Mavericks VFX, WolfEye, Deck Nine (placeholder site), Slow Bros (.com parked), Shedworks, BlueTwelve.
 - Check status: The Mill and Mikros Animation (both hit by the Technicolor collapse, Feb 2025) still read `url_status: ok`.
-- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,471 of 2,550), so
+- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,588 of 2,683), so
   mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
-  LOW-confidence segment fixes (no live source). Size only 267/2,550. 84 Russia-HQ Wikidata studios skipped
+  LOW-confidence segment fixes (no live source). Size only 267/2,683. 84 Russia-HQ Wikidata studios skipped
   (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
   Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
 - 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,
   but HQ/description not from site text (`notes:` says so).
-- `/studios/` founded 1,062/1,911, size 692/1,911. The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+- `/studios/` founded 1,270/2,695, size 692/2,695 (2026-11-06). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".
 - Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
   Beauty and the Bit, Frogwares.
 - ~200 studios carry agent provenance in `notes:` (size from team page, city from Guild list, 403 sites).
-- Pages ~43/49 KB gz (studios/game-studios, mostly JSON-LD ItemList); studios.json ~311/297 KB gz. Past ~3,000 per directory consider splitting the JSON.
+- Pages 64/64 KB gz (studios/game-studios, mostly JSON-LD ItemList); studios.json 500/420 KB gz (2026-11-06). Past ~3,000 per directory consider splitting the JSON (both now ~2,700).
 - Not verified on a real phone (headless Chrome floors the viewport at 504 px).
 
 **Site / UX:**

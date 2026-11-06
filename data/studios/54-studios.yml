@@ -1,0 +1,994 @@
+studios:
+  - name: Miralumo Films
+    url: https://miralumo.com/
+    description: 3D animation studio making commercials and animated content for game and entertainment brands.
+    hq:
+      country: Brazil
+    disciplines:
+      - 3d-animation
+    markets:
+      - advertising
+      - games
+    social:
+      instagram: https://www.instagram.com/miralumo
+      linkedin: https://www.linkedin.com/company/miralumo/
+    added_at: '2026-11-06T14:26:06.011Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: S4 Studios
+    url: https://s4studios.com/
+    description: VFX and virtual production company offering LED stage work, Unreal Engine content and visual effects for film, TV and commercials.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 1999
+    social:
+      instagram: https://www.instagram.com/s4icvfx/
+      vimeo: https://vimeo.com/s4studios
+    added_at: '2026-11-06T14:26:06.012Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Invert Agency
+    url: https://invertagency.com/
+    description: Boutique design studio producing motion design and branding for film, streaming and social campaigns.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - film
+      - episodic
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/invertagency/
+      linkedin: https://www.linkedin.com/company/invert-agency-llc/
+      vimeo: https://vimeo.com/invertagency
+    added_at: '2026-11-06T14:26:06.013Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Jamestown Productions
+    url: https://jamestownproductions.com/
+    description: Trailer and promo house making theatrical, TV and digital campaigns with editorial and motion graphics.
+    hq:
+      city: Marina del Rey
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-06T14:26:06.014Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: TOTOP Creatives
+    url: https://www.totopcreatives.com/
+    description: Art co-development studio creating characters, environments and other game assets for international developers.
+    hq:
+      city: Chengdu
+      country: China
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    founded: 2022
+    careers: https://www.totopcreatives.com/studio-culture/
+    social:
+      linkedin: https://www.linkedin.com/company/totop-creatives-co-ltd/
+    added_at: '2026-11-06T14:26:06.015Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Vertic Studios
+    url: https://www.verticstudios.com/
+    description: Creative production studio in the Winking Group making AAA game art, animation, cinematics and concept art.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - outsourcing
+      - cinematics
+      - 3d-animation
+    markets:
+      - games
+    added_at: '2026-11-06T14:26:06.016Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: FuryLion
+    url: https://furylion.net/
+    description: Game content studio providing 2D and 3D art, animation, playable ads and custom game development.
+    hq:
+      city: Dubai
+      country: United Arab Emirates
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/furylion_group/
+    added_at: '2026-11-06T14:26:06.017Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: DualNorth Studios
+    url: https://www.dualnorth.com/
+    description: Studio making game trailers and immersive video for VR, mixed reality and XR headsets.
+    hq:
+      city: Stockholm
+      country: Sweden
+    offices:
+      - city: Kelowna
+        country: Canada
+    disciplines:
+      - cinematics
+      - xr
+    markets:
+      - games
+    founded: 2014
+    social:
+      linkedin: https://www.linkedin.com/company/dualnorth/
+      vimeo: https://vimeo.com/dualnorth
+    added_at: '2026-11-06T14:26:06.018Z'
+  - name: Super Spline Studios
+    url: https://supersplinestudios.com/
+    description: Games animation co-development studio providing animation, rigging and remote animation teams for game developers.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+    founded: 2016
+    social:
+      linkedin: https://www.linkedin.com/company/super-spline-studios
+      vimeo: https://vimeo.com/superspline
+    added_at: '2026-11-06T14:26:06.019Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Liquid Crimson
+    url: https://www.liquidcrimson.co.uk/
+    description: Video production studio making game trailers and marketing content for game developers and publishers.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - motion-design
+    markets:
+      - games
+      - advertising
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/liquidcrimson/
+    added_at: '2026-11-06T14:26:06.020Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: INDOMI Studio
+    url: https://indomi.studio/
+    description: Art outsourcing studio making 2D and 3D art and animation in casual, stylized and realistic styles for game developers.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/indomi_studio/
+      linkedin: https://www.linkedin.com/company/indomi-studio/
+    added_at: '2026-11-06T14:26:06.021Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: CinemaLeap
+    url: https://cinemaleap.com/
+    description: XR entertainment studio producing VR films and location-based immersive experiences.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    founded: 2019
+    social:
+      linkedin: https://www.linkedin.com/company/cinemaleap
+    added_at: '2026-11-06T14:26:06.022Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ENTER.black
+    url: https://enter.black/
+    description: Artistic studio making immersive installations, projection scenography and VR performance pieces.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    notable:
+      - HeartBeat
+      - The Shapeshifter
+      - Mise en Lumieres (Palais Galliera)
+    social:
+      instagram: https://www.instagram.com/enter__black
+    added_at: '2026-11-06T14:26:06.023Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kodansha VR Lab
+    url: https://kodanshavrlab.com/
+    description: VR film and animation studio of publisher Kodansha, making original immersive titles and client XR work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - xr
+      - 3d-animation
+    markets:
+      - film
+    founded: 2017
+    notable:
+      - If You See a Cat (VR)
+      - Hop Step Sing!
+    social:
+      instagram: https://www.instagram.com/kodanshavrlab
+    added_at: '2026-11-06T14:26:06.024Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: NowHere Media
+    url: https://www.nowheremedia.net/
+    description: Immersive studio making VR and AR documentaries with film producers, nonprofits and media groups.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - xr
+    markets:
+      - film
+    notable:
+      - Dark Rooms
+      - Home After War
+      - Kusunda
+      - Berlin 2037
+    social:
+      instagram: https://www.instagram.com/nowhere.media
+      linkedin: https://www.linkedin.com/company/nowheremedia
+    added_at: '2026-11-06T14:26:06.025Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Oniroco Studios
+    url: https://oniroco.com/
+    description: Media company creating narrative VR experiences and immersive art shows.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: Vilnius
+        country: Lithuania
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    notable:
+      - Creation of the Worlds
+      - Trail of Angels
+    social:
+      instagram: https://www.instagram.com/oniroco.studios
+      linkedin: https://www.linkedin.com/company/oniroco-studios
+    added_at: '2026-11-06T14:26:06.026Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Smartphone Orchestra
+    url: https://smartphoneorchestra.com/
+    description: Interactive studio staging live group experiences where each audience member's own phone drives the show.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Ancestors
+      - Emojiii
+      - The Social Sorting Experiment
+    social:
+      instagram: https://www.instagram.com/smartphoneorchestra
+      linkedin: https://www.linkedin.com/company/the-smartphone-orchestra
+    added_at: '2026-11-06T14:26:06.027Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: TARGO
+    url: https://www.targostories.com/
+    description: Immersive documentary studio producing VR and mixed reality nonfiction for Meta Quest and Apple Vision Pro.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/targostories
+      linkedin: https://www.linkedin.com/company/targo
+      youtube: https://www.youtube.com/channel/UChgMU5DqL0goHXbxZbx5YgQ
+    added_at: '2026-11-06T14:26:06.028Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Geppetto
+    url: https://www.studio-geppetto.com/
+    description: Paris motion design studio making animation, explainer films and VR animated shorts.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - xr
+    markets:
+      - advertising
+      - film
+    notable:
+      - Roussel's Music Box (VR)
+      - Goodbye Mr. Octopus (VR)
+      - Jack & Flo
+    social:
+      instagram: https://instagram.com/studio_geppetto
+      vimeo: https://vimeo.com/studiogeppetto
+    added_at: '2026-11-06T14:26:06.029Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Syro
+    url: https://studiosyro.com/
+    description: Independent studio making VR animation and mixed reality stories with Quill and real-time engines.
+    hq:
+      country: United States
+    disciplines:
+      - xr
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Tales from Soda Island
+      - The Art of Change
+      - PondQuest
+    social:
+      instagram: https://www.instagram.com/studiosyro
+      linkedin: https://www.linkedin.com/company/studio-syro
+      youtube: https://www.youtube.com/@studiosyro
+    added_at: '2026-11-06T14:26:06.030Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: spec.studio
+    url: https://spec.studio/
+    description: 3D motion studio making product animations, stills and XR content for brands and agencies.
+    hq:
+      city: Fürstenfeldbruck
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - xr
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-06T14:26:06.031Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: East City Films
+    url: https://eastcityfilms.com/
+    description: Immersive studio producing and touring location-based experiences and VR documentaries for museums and festivals.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    notable:
+      - In Pursuit Of Repetitive Beats
+      - Letters From Drancy
+      - Walk To Westerbork
+      - Escape To Shanghai
+    social:
+      instagram: https://www.instagram.com/eastcityfilms
+    added_at: '2026-11-06T14:26:06.032Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Nergens
+    url: https://www.studionergens.com/
+    description: Immersive performance studio making VR operas that mix opera, visual art and real-time technology.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    notable:
+      - Songs for a Passerby
+      - Eurydice
+      - Nothing to see here
+    social:
+      instagram: https://www.instagram.com/studionergens
+      vimeo: https://vimeo.com/user57205372
+    added_at: '2026-11-06T14:26:06.033Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Metapo
+    url: https://www.studiometapo.com/
+    description: Korean studio making immersive VR, AR and XR films and games.
+    hq:
+      country: South Korea
+    disciplines:
+      - xr
+      - 3d-animation
+    markets:
+      - film
+      - games
+    social:
+      instagram: https://instagram.com/studio.metapo
+      youtube: https://www.youtube.com/channel/UClrvKWN_34E2RocwcrsCOqg
+    added_at: '2026-11-06T14:26:06.034Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Elektrick.me
+    url: https://elektrick.me/
+    description: Bulgarian studio making 3D projection mapping shows, event visuals and motion graphics for TV, events and advertising.
+    hq:
+      country: Bulgaria
+    disciplines:
+      - experiential
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    notable:
+      - iMapp Bucharest 2025 winner
+      - Fear Not (LUMA Festival 2025)
+      - 120 Years Port of Varna spectacle
+    added_at: '2026-11-06T14:26:06.035Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ruestungsschmie.de
+    url: https://ruestungsschmie.de/
+    description: Artist collective making architectural projection mapping, light art and media installations for festivals.
+    hq:
+      city: Dresden
+      country: Germany
+    offices:
+      - city: Frankfurt
+        country: Germany
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - KERNEL³ (Fete des Lumieres Lyon 2023)
+      - URBS³ (Portal Festival 2026)
+      - REFRACTION³ (1minute PM 2024)
+    added_at: '2026-11-06T14:26:06.036Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: RESORB
+    url: https://www.resorb.tv/
+    description: Media-art studio making 3D projection mapping on monuments and walk-in holographic fog installations.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Tbilisi
+        country: Georgia
+    disciplines:
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2004
+    notable:
+      - Festival of Lights Berlin
+      - Sharjah Light Festival
+      - Brandenburg Gate mapping
+    social:
+      instagram: https://www.instagram.com/resorb
+      vimeo: https://vimeo.com/user32980920
+    added_at: '2026-11-06T14:26:06.037Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: OTU Cinema
+    url: https://otucinema.com/
+    description: Madrid studio making digital scenography, video mapping and immersive audiovisual shows for TV, events and public spaces.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+      - episodic
+    social:
+      instagram: https://www.instagram.com/otucinema
+      vimeo: https://vimeo.com/otucinema
+    added_at: '2026-11-06T14:26:06.038Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Vision Impossible
+    url: https://vision-impossible.nl/
+    description: Creative studio making show design, stage visuals, projection mapping and live VJ content for festivals and events.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+      - music-video
+    founded: 1996
+    notable:
+      - EDC Las Vegas 2025
+      - Electric Forest
+      - Beyond Wonderland SoCal
+      - Vrienden van Amstel LIVE
+    social:
+      instagram: https://www.instagram.com/vision.impossible
+      linkedin: https://www.linkedin.com/company/vision-impossible
+      youtube: https://www.youtube.com/@VisionImpossible
+    added_at: '2026-11-06T14:26:06.039Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: United Motion Labs
+    url: https://www.unitedmotionlabs.com/
+    description: Austrian studio making audiovisual installations, architectural projection mapping and stage shows.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    notable:
+      - Miele Generation 7000
+    social:
+      instagram: https://www.instagram.com/united.motion.labs
+    added_at: '2026-11-06T14:26:06.040Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: MotionLab
+    url: https://www.motionlab.ro/
+    description: Bucharest creative studio making video mapping, interactive installations and festival visuals.
+    hq:
+      city: Bucharest
+      country: Romania
+    disciplines:
+      - experiential
+      - interactive
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Span (iMapp Public Choice Award)
+      - Windows (Shinjuku Station mapping)
+      - Berlin Festival of Lights
+    social:
+      instagram: https://www.instagram.com/motionlabromania
+      vimeo: https://vimeo.com/studiomotionlab
+      youtube: https://www.youtube.com/@motionlab_studio
+    added_at: '2026-11-06T14:26:06.041Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Julia Set Lab
+    url: https://www.juliasetlab.com/
+    description: Visual factory making immersive installations, projection mapping, new media art and experimental documentaries.
+    hq:
+      city: San Benedetto del Tronto
+      country: Italy
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - film
+      - brand
+    founded: 2012
+    notable:
+      - Respiro (1minute PM 2023)
+      - Fantomatyka
+    social:
+      instagram: https://www.instagram.com/juliasetlab
+      vimeo: https://vimeo.com/juliaset
+    added_at: '2026-11-06T14:26:06.042Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Machineast
+    url: https://machineast.com/
+    description: Singapore design studio making motion graphics, key visuals, 3D and projection mapping for brands and exhibitions.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - motion-design
+      - experiential
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Reflective Ascension (1minute PM 2024)
+      - Monolith Signal
+      - Nike Air Max Day
+    social:
+      instagram: https://www.instagram.com/machineast
+      behance: http://www.behance.net/machineast
+      linkedin: https://www.linkedin.com/company/machineast
+    added_at: '2026-11-06T14:26:06.043Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: George Berlin Studios
+    url: https://www.georgeberlin.com/
+    description: Chicago studio making immersive projection mapping and animated light art for festivals and brands.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - experiential
+      - 2d-animation
+    markets:
+      - brand
+    notable:
+      - 'Eco-nnections: Flow (1minute PM 2023)'
+      - Coachella
+    social:
+      instagram: https://www.instagram.com/georgeberlinart
+    added_at: '2026-11-06T14:26:06.044Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: GEDEON Experiences
+    url: https://gedeonexperiences.com/
+    description: Immersive arm of GEDEON Media Group making VR exhibitions and multi-format cultural experiences.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    notable:
+      - Un soir avec les impressionnistes, Paris 1874
+      - Via Sensoria
+    social:
+      instagram: https://www.instagram.com/gedeon_experiences
+      linkedin: https://www.linkedin.com/company/gedeon-experiences
+    added_at: '2026-11-06T14:26:06.045Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: SoWhen?
+    url: https://sowhen.fr/
+    description: Creative tech studio making immersive experiences, Fortnite UEFN islands, virtual production and motion capture.
+    hq:
+      city: Montreuil
+      country: France
+    disciplines:
+      - xr
+      - interactive
+      - virtual-production
+      - mocap
+    markets:
+      - games
+      - brand
+    notable:
+      - Turbo Killer (Carpenter Brut, Fortnite)
+      - ARTE Riff Mountain (Fortnite)
+    social:
+      instagram: https://www.instagram.com/sowhenstudio
+      linkedin: https://www.linkedin.com/company/sowhen-digital-art-studio
+      youtube: https://www.youtube.com/channel/UCqX-j_NBWmluWYOXgSX7tHw
+    added_at: '2026-11-06T14:26:06.046Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ferryman Collective
+    url: https://www.ferrymancollective.com/
+    description: Indie theatre company staging live, actor-led immersive shows inside VR worlds.
+    hq:
+      country: United States
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    founded: 2020
+    notable:
+      - Welcome To Respite
+      - Gumball Dreams
+      - 'Uncanny Alley: A New Day'
+    social:
+      instagram: https://instagram.com/ferrymancollective
+      linkedin: https://www.linkedin.com/company/ferryman-collective
+      youtube: https://www.youtube.com/channel/UCWi5oeMhkQwtAoyRMRFTATQ
+    added_at: '2026-11-06T14:26:06.047Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Daring House
+    url: https://daringhouse.com/
+    description: Creative media studio making VR, AR, projection installations and films for brands and cultural institutions.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Rome
+        country: Italy
+    disciplines:
+      - xr
+      - experiential
+      - live-action
+    markets:
+      - brand
+      - film
+    founded: 2008
+    added_at: '2026-11-06T14:26:06.048Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kost
+    url: https://kost.ai/
+    description: Los Angeles immersive studio making full-body VR, haptic and spatial computing experiences.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - xr
+    markets:
+      - film
+    notable:
+      - Body of Mine (VR, 2023)
+    added_at: '2026-11-06T14:26:06.049Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Superposition
+    url: https://superposition.dk/
+    description: Danish XR production company making VR works that combine spatial sound and volume.
+    hq:
+      country: Denmark
+    disciplines:
+      - xr
+    markets:
+      - film
+    notable:
+      - A Vocal Landscape (VR)
+      - Reality Looks Back
+    added_at: '2026-11-06T14:26:06.050Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: MØJØ Studio
+    url: https://mojostudio.pt/
+    description: Lisbon studio making large-scale projection mapping, architectural visuals and immersive installations.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - experiential
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2018
+    notable:
+      - KØNTRAST (1minute PM 2021)
+      - Kyiv Lights Festival 2018 first prize
+      - Global AI Summit 2022 opening
+      - Explore Vatican (with Front Pictures)
+    social:
+      instagram: https://www.instagram.com/motion_journey
+    added_at: '2026-11-06T14:26:06.051Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Parapluie Studio
+    url: https://www.parapluie.studio/
+    description: Bangkok design studio making projection mapping, interactive walls and metaverse experiences for brands and expos.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - experiential
+      - interactive
+      - 2d-animation
+    markets:
+      - brand
+    founded: 2014
+    notable:
+      - Ginkgotaro (1minute PM 2021)
+      - Bangkok Projection Mapping 2021
+      - Thailand Nanotechnology Pavilion 2020
+    social:
+      linkedin: https://www.linkedin.com/company/parapluiestudio
+      youtube: https://www.youtube.com/channel/UCamhHlPOuLqQGnvh3X397Lw
+    added_at: '2026-11-06T14:26:06.052Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Fox, The Folks
+    url: https://www.thefoxthefolks.com/
+    description: Bandung multimedia art team making 2D animation and projection mapping for local and international clients.
+    hq:
+      city: Bandung
+      country: Indonesia
+    disciplines:
+      - 2d-animation
+      - experiential
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Through the Night (1minute PM 2021 Grand Prize)
+    social:
+      instagram: https://www.instagram.com/thefox.thefolks
+      linkedin: https://www.linkedin.com/company/the-fox-the-folks
+    added_at: '2026-11-06T14:26:06.053Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: FullFrames
+    url: https://www.fullframes.it/
+    description: Florence creative studio making video mapping, immersive art, video scenography and 3D motion for events and brands.
+    hq:
+      city: Florence
+      country: Italy
+    disciplines:
+      - experiential
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    notable:
+      - The Thousand Paper Cranes (1minute PM 2021)
+    added_at: '2026-11-06T14:26:06.054Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: CamOn XR
+    url: https://camonapp.com/
+    description: AR and VR studio making virtual try-ons, branded AR campaigns and training experiences for consumer brands.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Captain Messi AR
+      - Coca-Cola World Cup 2022 AR
+      - Amstel Matchpaint
+      - O2 Virtual Try-On
+    social:
+      instagram: https://www.instagram.com/camon.xr
+      linkedin: https://www.linkedin.com/company/camonapp
+      vimeo: https://vimeo.com/CamOnApp
+    added_at: '2026-11-06T14:26:06.055Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Treeview
+    url: https://treeview.studio/
+    description: XR studio building AR, VR and mixed reality apps and digital twins for enterprise clients.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2016
+    notable:
+      - Microsoft Renewable Energy digital twin
+    social:
+      linkedin: https://www.linkedin.com/company/treeview-studios
+    added_at: '2026-11-06T14:26:06.056Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: AREYES Studio
+    url: https://areyes.studio/
+    description: Studio making playable AR and mixed reality campaigns for brands, agencies and game studios.
+    hq:
+      city: St. Petersburg
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Dodge Hornet AR
+      - Taco Bell Taco Trip
+      - Puma ST Race
+      - ARGARIUM
+    social:
+      instagram: https://www.instagram.com/areyes.studio
+      linkedin: https://www.linkedin.com/company/areyes-studio
+      behance: https://www.behance.net/areyesstudio
+    added_at: '2026-11-06T14:26:06.057Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Imvizar
+    url: https://www.imvizar.com/
+    description: Irish studio making AR storytelling trails for visitor attractions, parks and buildings.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Planet vs. Plastics (with Grant Thornton Ireland)
+      - Carlichauns Adventure Trail
+    social:
+      instagram: https://www.instagram.com/imvizar
+      linkedin: https://www.linkedin.com/company/imvizar
+      youtube: https://www.youtube.com/@imvizar
+    added_at: '2026-11-06T14:26:06.058Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Designium
+    url: https://www.designium.jp/
+    description: Aizuwakamatsu developer making AR, VR and MR experiences and WebAR plus community digital projects.
+    hq:
+      city: Aizuwakamatsu
+      country: Japan
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Measuranimal (AR)
+    social:
+      instagram: https://instagram.com/thedesignium
+      linkedin: https://www.linkedin.com/company/thedesignium
+      youtube: https://www.youtube.com/@thedesignium
+    added_at: '2026-11-06T14:26:06.059Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Frame Sixty
+    url: https://framesixty.com/
+    description: AR and VR development agency building Apple Vision Pro, Meta Quest, WebAR and mobile AR apps for enterprise and healthcare.
+    hq:
+      city: Clearwater
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/frame_sixty
+      linkedin: https://www.linkedin.com/company/framesixty
+    added_at: '2026-11-06T14:26:06.060Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

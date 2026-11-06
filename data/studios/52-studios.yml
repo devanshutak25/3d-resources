@@ -56,3 +56,931 @@ studios:
       instagram: https://www.instagram.com/jungeroemerwien/
       linkedin: https://www.linkedin.com/company/junge-r-mer-gmbh/
     added_at: '2026-11-05T21:33:58.638Z'
+  - name: Animal Tank
+    url: https://www.animaltank.com/
+    description: Ghent production company and animation studio making animated and fiction shorts, features and series.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    founded: 2014
+    notable:
+      - Beautiful Men
+      - Easter Eggs
+    social:
+      instagram: https://www.instagram.com/animaltank/
+    added_at: '2026-11-06T14:26:05.914Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ikki Films
+    url: https://ikkifilms.com/
+    description: Tours animation producer of shorts and features, including Yuck! and Little Amélie or the Character of Rain.
+    hq:
+      city: Tours
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    founded: 2011
+    notable:
+      - Yuck!
+      - Little Amélie or the Character of Rain
+      - Dog Alone
+    social:
+      instagram: https://www.instagram.com/ikkifilms
+      vimeo: https://vimeo.com/user72791802
+    added_at: '2026-11-06T14:26:05.915Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Je Suis Bien Content
+    url: https://jsbc.fr/
+    description: Montreuil animation production company behind features and series such as Mars Express.
+    hq:
+      city: Montreuil
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Mars Express
+    social:
+      instagram: https://www.instagram.com/jesuisbiencontent/
+      linkedin: https://www.linkedin.com/company/je-suis-bien-content
+    added_at: '2026-11-06T14:26:05.916Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kaap Holland Studios
+    url: https://kaaphollandstudios.nl/
+    description: Amsterdam production studio for animated and live-action films and series, co-producer of Wander to Wonder.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - stop-motion
+      - live-action
+    markets:
+      - film
+      - episodic
+    notable:
+      - Wander to Wonder
+    social:
+      instagram: https://www.instagram.com/kaapholland/
+      linkedin: https://www.linkedin.com/company/kaap-holland-film/
+    added_at: '2026-11-06T14:26:05.917Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Megadrago
+    url: https://www.megadrago.it/
+    description: Palermo animation studio for mixed-media comedy series, maker of the Prime Video series Il Baracchino.
+    hq:
+      city: Palermo
+      country: Italy
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Il Baracchino
+    social:
+      instagram: https://www.instagram.com/megadragooo/
+    added_at: '2026-11-06T14:26:05.918Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Bumpybox
+    url: https://www.bumpybox.com/
+    description: Cardiff animation studio for 3D character animation, VFX and compositing on features, TV and games.
+    hq:
+      city: Cardiff
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - games
+    notable:
+      - Kensuke's Kingdom
+    social:
+      linkedin: https://www.linkedin.com/company/bumpybox
+    added_at: '2026-11-06T14:26:05.919Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Miyu Productions
+    url: https://www.miyu.fr/
+    description: French animation production company founded in 2009, producing shorts, features and series such as Chicken for Linda!
+    hq:
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2009
+    notable:
+      - Chicken for Linda!
+      - Beautiful Men
+      - Steakhouse
+    added_at: '2026-11-06T14:26:05.920Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Zmei
+    url: https://studiozmei.com/
+    description: Sofia 2D animation studio making series, commercials and films, including work for HBO Max and Disney co-productions.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/studiozmei/
+      linkedin: https://www.linkedin.com/company/studio-zmei/
+    added_at: '2026-11-06T14:26:05.921Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Watch Next Media
+    url: https://www.watchnextmedia.com/
+    description: Paris animation production company with in-house studios in Paris, Lille and Turin, making series for international broadcasters.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Lille
+        country: France
+      - city: Turin
+        country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/watchnextmedia/
+      linkedin: https://www.linkedin.com/company/watch-next-media/
+    added_at: '2026-11-06T14:26:05.922Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Coala Filmes
+    url: https://www.coalafilmes.com.br/
+    description: São Paulo stop-motion studio making animated films, TV and commercials since 2000, including the feature Bob Spit.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2000
+    notable:
+      - 'Bob Spit: We Do Not Like People'
+      - Kabuki
+    social:
+      instagram: https://www.instagram.com/coalafilmes_
+      vimeo: https://vimeo.com/coalafilmes
+    added_at: '2026-11-06T14:26:05.923Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Antaruxa
+    url: https://antaruxa.com/
+    description: Spanish animation studio working on feature films, TV series and commercials, including Disney TV series and the feature Valentina.
+    hq:
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Valentina
+      - 'Nivis: Friends from Another World'
+    social:
+      instagram: https://www.instagram.com/antaruxa.animation/
+      vimeo: https://vimeo.com/antaruxa
+    added_at: '2026-11-06T14:26:05.924Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ElectroLeague
+    url: https://www.electroleague.com/
+    description: Los Angeles real-time animation studio making animated shorts and content in game engines.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - 3d-animation
+      - virtual-production
+    markets:
+      - film
+      - music-video
+    notable:
+      - WAR IS OVER! Inspired by the Music of John & Yoko
+    social:
+      instagram: http://instagram.com/ElectroLeague.IG
+    added_at: '2026-11-06T14:26:05.925Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Toon2Tango
+    url: https://www.toon2tango.com/
+    description: Munich producer of animated kids series and films plus licensing, including the CGI series NIKO and Agent 203.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - NIKO
+      - Agent 203
+      - Hey Fuzzy Yellow
+    social:
+      instagram: https://www.instagram.com/toon2tango.official/
+    added_at: '2026-11-06T14:26:05.926Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Laïdak Films
+    url: https://laidakfilms.com/
+    description: Franco-German producer of animated and live-action shorts, features and series built on international co-production.
+    hq:
+      city: Dieulefit
+      country: France
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    notable:
+      - Mum Is Pouring Rain
+    social:
+      instagram: https://instagram.com/laidakfilms
+      vimeo: https://vimeo.com/laidakfilms
+    added_at: '2026-11-06T14:26:05.927Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Mago Production
+    url: https://magoproduction.com/
+    description: Barcelona animation production studio making kids and family series, with teams in Perpignan, Düsseldorf, Mexico City and Tokyo.
+    hq:
+      city: Barcelona
+      country: Spain
+    offices:
+      - city: Perpignan
+        country: France
+      - city: Düsseldorf
+        country: Germany
+      - city: Mexico City
+        country: Mexico
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - The Tiny Orchestra
+      - Polinopolis
+    social:
+      instagram: https://www.instagram.com/mago_production/
+    added_at: '2026-11-06T14:26:05.928Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 2DLab
+    url: https://www.2dlab.com/
+    description: Brazilian animation studio producing 2D series, shorts and commercials, with over 2,000 minutes of animation produced.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Annie Rose's Critter Camp
+      - Jasmine & Jambo
+    social:
+      instagram: https://www.instagram.com/2dlab_oficial
+      linkedin: https://www.linkedin.com/company/2dlab
+    added_at: '2026-11-06T14:26:05.929Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Rokyn Animation
+    url: https://rokynanimation.com/
+    description: Granada animation studio making 2D and 3D series and films for producers such as HBO, Buendía Estudios and Sony.
+    hq:
+      city: Granada
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Sex Symbols
+    social:
+      instagram: https://instagram.com/rokynanimation
+    added_at: '2026-11-06T14:26:05.930Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: El Guiri Studios
+    url: https://elguiristudios.com/
+    description: 'Madrid independent CG animation studio for films, series and commissioned work, using Unreal Engine since 2023, including Star Wars: Visions.'
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Star Wars: Visions, Sith'
+    social:
+      instagram: https://www.instagram.com/elguiristudios/
+      linkedin: https://www.linkedin.com/company/el-guiri-studios
+    added_at: '2026-11-06T14:26:05.931Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 4 Cats Pictures
+    url: https://4catspictures.com/
+    description: Barcelona animation feature producer founded in 2013, behind Capture the Flag, Tadeo Jones 2, Mummies and Buffalo Kids.
+    hq:
+      city: Barcelona
+      country: Spain
+    offices:
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    founded: 2013
+    notable:
+      - Capture the Flag
+      - Tadeo Jones 2
+      - Mummies
+      - Buffalo Kids
+    social:
+      instagram: https://www.instagram.com/4catspictures/
+    added_at: '2026-11-06T14:26:05.932Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Alopra Studio
+    url: https://alopra.com/
+    description: Porto Alegre 2D animation studio creating and producing original and service animation for series and shorts.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-06T14:26:05.933Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Derengő Animation
+    url: https://derengo.com/
+    description: Budapest studio making 2D and 3D animation, projection mapping and event visuals.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - experiential
+    markets:
+      - film
+      - brand
+    social:
+      instagram: https://www.instagram.com/derengo
+      vimeo: https://vimeo.com/derengo
+    added_at: '2026-11-06T14:26:05.934Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Dream Logic Studios
+    url: https://www.dreamlogic.ie/
+    description: Dublin animation and live-action production company and studio making series and films.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/dreamlogicstudios/
+    added_at: '2026-11-06T14:26:05.935Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Fabrique Fantastique
+    url: https://fabriquefantastique.be/
+    description: Lier IP and animation group that develops and produces kids brands, with its own animation studio, Studio Fantastique.
+    hq:
+      city: Lier
+      country: Belgium
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/fabrique-fantastique/
+      vimeo: https://vimeo.com/fabriquefantastique
+    added_at: '2026-11-06T14:26:05.936Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Fly Moustache
+    url: https://www.flymoustache.com/
+    description: Faro animation studio developing and producing animated series, staffed by artists from BBC and Cartoon Network shows.
+    hq:
+      city: Faro
+      country: Portugal
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Dark Woods
+      - The Planet Agents
+    social:
+      instagram: https://www.instagram.com/fly_moustache/
+      linkedin: https://www.linkedin.com/company/fly-moustache/
+    added_at: '2026-11-06T14:26:05.937Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Funny Tales
+    url: https://www.funnytales.eu/
+    description: Greek 2D animation and pre-production studio founded in 2018, developing original kids series.
+    hq:
+      country: Greece
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2018
+    notable:
+      - Star Chasers
+      - The Planet Agents
+    added_at: '2026-11-06T14:26:05.938Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Amopix
+    url: https://amopix.com/
+    description: Strasbourg and Annecy animation studio and production company founded in 2002, making animated films, corporate films and motion design.
+    hq:
+      city: Strasbourg
+      country: France
+    offices:
+      - city: Annecy
+        country: France
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - film
+      - brand
+    founded: 2002
+    notable:
+      - Kabuki
+      - Into the Wonderwoods
+    social:
+      instagram: https://instagram.com/studio_amopix
+      vimeo: https://vimeo.com/amopix
+      linkedin: https://www.linkedin.com/company/amopix
+    added_at: '2026-11-06T14:26:05.939Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Special Touch Studios
+    url: https://specialtouchstudios.com/
+    description: Marseille production company for animated features and series, including Heart of Darkness and Ananda.
+    hq:
+      city: Marseille
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Heart of Darkness
+      - Ananda
+      - Mia Moké
+    social:
+      instagram: https://www.instagram.com/specialtouchstudios
+      linkedin: https://www.linkedin.com/company/specialtouchstudios
+    added_at: '2026-11-06T14:26:05.940Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Lakeside Animation
+    url: https://www.lakesideanimation.com/
+    description: North Bay, Ontario animation studio developing content and providing pre-production and post-production services.
+    hq:
+      city: North Bay
+      country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Luz Diabla
+    added_at: '2026-11-06T14:26:05.941Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Kimchi
+    url: https://studiokimchi.com/
+    description: Barcelona boutique animation studio making character-driven films for NGOs, ethical brands and purpose-driven organisations.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+      - film
+    notable:
+      - Because Today Is Saturday
+    social:
+      instagram: https://www.instagram.com/studio_kimchi/
+      vimeo: https://vimeo.com/studiokimchi
+      linkedin: https://www.linkedin.com/company/studio-kimchi
+    added_at: '2026-11-06T14:26:05.942Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Planta Filmes
+    url: https://plantafilmes.com/
+    description: Brazilian animation studio developing and producing independent mixed-technique and experimental animation.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Sappho
+    social:
+      instagram: https://www.instagram.com/planta_filmes
+    added_at: '2026-11-06T14:26:05.943Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Durian
+    url: https://durian.co.jp/
+    description: Tokyo anime studio founded in 2018, producer of the feature Look Back.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    notable:
+      - Look Back
+    added_at: '2026-11-06T14:26:05.944Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sideways Studios
+    url: https://www.sideways-studios.com/
+    description: Swedish animation studio developing and co-producing 2D shorts and 3D features such as Valentino and Snot Shine.
+    hq:
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+    notable:
+      - Valentino
+      - Snot Shine
+    added_at: '2026-11-06T14:26:05.945Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: To Blink Animation
+    url: https://toblinkanimation.com/
+    description: Serbian animation production studio focused on original feature and series projects.
+    hq:
+      country: Serbia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Nome Is an Island
+      - '2142'
+    added_at: '2026-11-06T14:26:05.946Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Wolkenlenker
+    url: https://www.wolkenlenker.com/
+    description: Berlin developer and producer of family and kids animated properties, founded in 2011.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2011
+    notable:
+      - Dinner Detectives
+      - Wing It Like Lilly
+      - Reinventing Herman
+    social:
+      linkedin: https://www.linkedin.com/company/wolkenlenker
+    added_at: '2026-11-06T14:26:05.947Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Zooper Film
+    url: https://www.zooperfilm.com/
+    description: Ludwigsburg animation production company for feature films and TV series, with sister companies in Germany and Denmark.
+    hq:
+      city: Ludwigsburg
+      country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Valentino
+      - Wolperting
+    added_at: '2026-11-06T14:26:05.948Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: bigchild Entertainment
+    url: https://www.bigchild.de/
+    description: German 3D animation studio developing and producing kids films and series.
+    hq:
+      country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - SnailMail
+    social:
+      instagram: https://www.instagram.com/bigchild_entertainment/
+      linkedin: https://linkedin.com/company/bigchild
+    added_at: '2026-11-06T14:26:05.949Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Blaue Pampelmuse
+    url: https://www.blauepampelmuse.com/
+    description: Leipzig animation development collective making 2D and 3D content for children.
+    hq:
+      city: Leipzig
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Emotsters
+    social:
+      instagram: https://www.instagram.com/blauepampelmuse/
+    added_at: '2026-11-06T14:26:05.950Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Wailing Wolves
+    url: https://www.wailingwolves.com/
+    description: Ghent production studio co-producing 2D and 3D animated films and series, part of Menagerie Media Group.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Emotsters
+    social:
+      linkedin: https://www.linkedin.com/company/wailing-wolves/
+    added_at: '2026-11-06T14:26:05.951Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 20STM
+    url: https://20stm.com/
+    description: Brussels creative studio for live-action production, CGI, VFX and motion design for film and TV.
+    hq:
+      city: Brussels
+      country: Belgium
+    offices:
+      - city: Enghien
+        country: Belgium
+      - city: Mons
+        country: Belgium
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+      - live-action
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Mini Missions
+    social:
+      instagram: https://www.instagram.com/20stm/
+      vimeo: https://vimeo.com/20stm
+      linkedin: https://www.linkedin.com/company/20stm
+    added_at: '2026-11-06T14:26:05.952Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Urrebuk
+    url: https://urrebuk.nl/
+    description: Rotterdam animation studio making custom explainer and corporate animations for companies and governments.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - episodic
+    notable:
+      - Fairytale Friends
+    social:
+      instagram: https://www.instagram.com/urrebuk/
+    added_at: '2026-11-06T14:26:05.953Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Imagic TV
+    url: https://imagic-tv.com/
+    description: Barcelona audiovisual producer of animated series and features, including Moss and Anton Piñon.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Moss
+      - Anton Piñon
+      - Picasso in Royan
+    social:
+      linkedin: https://www.linkedin.com/company/imagic-tv/
+    added_at: '2026-11-06T14:26:05.954Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Prickly Pear Animation
+    url: https://www.pricklypearanimation.com/
+    description: Cyprus animation studio generating original IP and providing storyboards, design and concept art for pre-production.
+    hq:
+      country: Cyprus
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    notable:
+      - Kombina
+    social:
+      instagram: https://www.instagram.com/prickly.pear.animation/
+    added_at: '2026-11-06T14:26:05.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Komadoli Studio
+    url: https://www.komadoli.fr/
+    description: Nantes and Lyon stop-motion production company and puppet fabrication studio founded in 2015.
+    hq:
+      city: Nantes
+      country: France
+    offices:
+      - city: Lyon
+        country: France
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    founded: 2015
+    notable:
+      - The Stone
+      - Michel Club
+    social:
+      vimeo: https://vimeo.com/user56409042
+    added_at: '2026-11-06T14:26:05.956Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pangur Animation
+    url: https://www.panguranimation.com/
+    description: Spanish stop-motion animation studio founded in 2015, making shorts and series projects such as Sissi & Caesar.
+    hq:
+      country: Spain
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    founded: 2015
+    notable:
+      - Sissi & Caesar
+    social:
+      instagram: https://www.instagram.com/pangur_animation_studio/
+      vimeo: https://vimeo.com/panguranimation
+    added_at: '2026-11-06T14:26:05.957Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Incroyable Studio
+    url: https://incroyablestudio.com/
+    description: Paris and Nantes AI studio producing generated images, videos and brand campaigns, also developing animated series.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Nantes
+        country: France
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+      - episodic
+    notable:
+      - The Ambush
+      - Pepper
+    social:
+      instagram: https://www.instagram.com/incroyable_studio/
+    added_at: '2026-11-06T14:26:05.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Brain Comet
+    url: https://www.brain-comet.com/
+    description: Paris production company founded in 2021 that develops original animated series and films for international markets.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2021
+    notable:
+      - My Life Is a Manga
+      - Adonis
+    added_at: '2026-11-06T14:26:05.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: La Cabane Productions
+    url: https://lacabaneproductions.com/
+    description: Paris animation production company founded in 2015, making TV series and short films with in-house look development.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2015
+    notable:
+      - A Lamb's Stew
+      - Emma Makes Waves
+    social:
+      instagram: https://www.instagram.com/lacabaneproductions/
+      vimeo: https://vimeo.com/user58270629
+    added_at: '2026-11-06T14:26:05.960Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

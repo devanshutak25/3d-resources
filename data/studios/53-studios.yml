@@ -1,0 +1,950 @@
+studios:
+  - name: UniKo
+    url: https://www.uniko.com.es/
+    description: Bilbao animation and advertising studio since 2009, co-producer of Unicorn Wars, Sultana's Dream and Decorado.
+    hq:
+      city: Bilbao
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - film
+      - advertising
+      - brand
+    founded: 2009
+    notable:
+      - Unicorn Wars
+      - Sultana's Dream
+      - Decorado
+      - To Bird or Not to Bird
+    social:
+      instagram: http://www.instagram.com/uniko_films/
+      vimeo: https://vimeo.com/uniko
+    added_at: '2026-11-06T14:26:05.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Illuminated Films
+    url: https://illuminatedfilms.com/
+    description: London 2D animation studio for TV and film, maker of Little Princess, A Bear Named Wojtek and Rocket Says Look Up.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1993
+    notable:
+      - Little Princess
+      - A Bear Named Wojtek
+      - Rocket Says Look Up
+      - The Rubbish World of Dave Spud
+    added_at: '2026-11-06T14:26:05.962Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kawanimation
+    url: https://kawanimation.com/
+    description: Bordeaux production company specialised in animation, making fiction, documentary and branded animated content since 2006.
+    hq:
+      city: Bordeaux
+      country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - brand
+    founded: 2006
+    notable:
+      - The Soul of the Wandering Chicken
+    social:
+      instagram: https://www.instagram.com/kawanimation/
+    added_at: '2026-11-06T14:26:05.963Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Barfak Studio
+    url: https://barfakstudio.com/
+    description: Iranian animation studio making 2D and mixed 2D/3D shorts, motion comics, commercials and visual development, maker of In the Shadow of the Cypress.
+    hq:
+      country: Iran
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - film
+      - advertising
+    notable:
+      - In the Shadow of the Cypress
+    added_at: '2026-11-06T14:26:05.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Artichoke
+    url: https://www.artichoke.sk/
+    description: Bratislava producer of animated features, fiction and documentaries since 2010, co-producer of White Plastic Sky.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    founded: 2010
+    notable:
+      - White Plastic Sky
+      - The Island of Salamanders
+    social:
+      instagram: https://www.instagram.com/artichokeproduction/
+      vimeo: https://vimeo.com/artichokefilm
+      linkedin: https://www.linkedin.com/company/artichoke
+    added_at: '2026-11-06T14:26:05.965Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Vivi Film
+    url: https://www.vivifilm.be/
+    description: Brussels independent production company focused on animated features since 2014, co-producer of The Triplets of Belleville and The Secret of Kells.
+    hq:
+      city: Brussels
+      country: Belgium
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - The Triplets of Belleville
+      - The Secret of Kells
+      - Dreamwalker
+      - The Polar Bear Prince
+    social:
+      instagram: https://www.instagram.com/vivifilmbelgium/
+    added_at: '2026-11-06T14:26:05.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Capitán Araña
+    url: https://www.capitanarana.com/
+    description: Spanish independent producer of fiction and family animation with over 20 years of activity, co-producer of SuperKlaus.
+    hq:
+      country: Spain
+    disciplines:
+      - 3d-animation
+      - live-action
+    markets:
+      - film
+    notable:
+      - SuperKlaus
+    social:
+      instagram: https://instagram.com/capitanaranasl/
+      vimeo: https://vimeo.com/capitanaranasl
+    added_at: '2026-11-06T14:26:05.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Bug Films
+    url: https://www.bugfilms.jp/
+    description: 'Tokyo anime studio founded in 2021 that plans, develops and produces TV anime, including Zom 100: Bucket List of the Dead.'
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2021
+    notable:
+      - 'Zom 100: Bucket List of the Dead'
+    added_at: '2026-11-06T14:26:05.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ajiado
+    url: https://ajiado.co.jp/
+    description: Japanese anime production studio making TV series such as A Sign of Affection, Nintama Rantarō and Yano-kun's Ordinary Days.
+    hq:
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - A Sign of Affection
+      - Nintama Rantarō
+      - Yano-kun's Ordinary Days
+    added_at: '2026-11-06T14:26:05.969Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cornelius Films
+    url: https://www.corneliusfilms.com/
+    description: Barcelona production company founded in 2009 making fiction, documentary and animated films plus content for brands.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - stop-motion
+      - live-action
+    markets:
+      - film
+      - brand
+    founded: 2009
+    notable:
+      - Olivia and the Invisible Earthquake
+    social:
+      vimeo: https://vimeo.com/corneliusfilms
+    added_at: '2026-11-06T14:26:05.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: AIM Creative Studios
+    url: https://www.aimcreativestudios.com/
+    description: Porto animation studio making campaigns, mini-series and films for clients such as TED-Ed, WHO and Rakuten Kobo.
+    hq:
+      city: Porto
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - film
+    notable:
+      - A World of Color
+      - 'TED-Ed: Artificial Intelligence'
+    social:
+      instagram: https://www.instagram.com/aimcreativestudios/
+      vimeo: https://vimeo.com/aimcreativestudios
+      behance: https://www.behance.net/aimcreativestudios
+    added_at: '2026-11-06T14:26:05.971Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Teidees Audiovisuals
+    url: https://www.teidees.com/
+    description: Barcelona animation production company behind kids series such as Jasmine & Jambo and Annie Rose's Critter Camp.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Jasmine & Jambo
+      - Annie Rose's Critter Camp
+      - Cold Soup
+    social:
+      instagram: https://www.instagram.com/teidees/
+      vimeo: https://vimeo.com/teidees
+      linkedin: http://www.linkedin.com/company/teidees-audiovisuals
+    added_at: '2026-11-06T14:26:05.972Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Wild Stream
+    url: https://wildstream.fr/
+    description: Cahors production company for animation, fiction, documentaries and music videos, co-producer of the short Ice Merchants.
+    hq:
+      city: Cahors
+      country: France
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - music-video
+    notable:
+      - Ice Merchants
+    social:
+      instagram: https://www.instagram.com/wild.stream/
+    added_at: '2026-11-06T14:26:05.973Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Abano Producións
+    url: https://www.abano.es/
+    description: A Coruña production company for animated films in 2D, 3D and stop-motion, producer of Unicorn Wars and Decorado.
+    hq:
+      city: A Coruña
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - film
+    notable:
+      - Unicorn Wars
+      - Decorado
+      - Valentina
+      - Sultana's Dream
+    social:
+      instagram: https://www.instagram.com/abanoproducions/
+      vimeo: https://vimeo.com/user21914265
+    added_at: '2026-11-06T14:26:05.974Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Dog and Rabbit
+    url: https://dogandrabbit.com/
+    description: UK animation studio making 2D, 3D, stop-frame and motion graphics commercials and films for brands and broadcasters.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+      - brand
+    notable:
+      - The Beatles Vs The Stones
+      - Oasis album cover animations for Radio X
+    social:
+      instagram: https://www.instagram.com/dog_judo/
+    added_at: '2026-11-06T14:26:05.975Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: OddBot
+    url: https://www.oddbot.net/
+    description: 'Glendale animation studio for preschool and kids series, shorts, music videos and commercials, including Muppet Babies and Kindergarten: The Musical.'
+    hq:
+      city: Glendale
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    founded: 2006
+    notable:
+      - Muppet Babies
+      - 'Kindergarten: The Musical'
+      - Playdate with Winnie the Pooh
+    social:
+      instagram: https://www.instagram.com/oddbotinc/
+    added_at: '2026-11-06T14:26:05.976Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ka-Ching Cartoons
+    url: https://ka-chingcartoons.com/
+    description: Rotterdam animation studio, mainly 2D, making feature films and TV series as service or full creative studio.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2007
+    notable:
+      - Beautiful Men
+      - Ink
+      - 3D Machine
+    added_at: '2026-11-06T14:26:05.977Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Art Bully Productions
+    url: https://artbully.co/
+    description: Game art outsourcing studio making AAA characters, creatures, weapons, vehicles and level art for game developers.
+    hq:
+      city: Raleigh
+      country: United States
+    offices:
+      - city: Belgrade
+        country: Serbia
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/art-bully-productions-llc
+    added_at: '2026-11-06T14:26:05.978Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cloud Mark Studios
+    url: https://www.cloudmarkstudios.com/
+    description: Game art production studio making 2D and 3D content for console, PC and mobile developers.
+    hq:
+      city: Nanjing
+      country: China
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-11-06T14:26:05.979Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Dardo Studios
+    url: https://dardostudios.com/
+    description: Boutique art studio offering concept art, 3D modeling, animation, VFX and art direction for game teams.
+    hq:
+      city: Irvine
+      country: United States
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    careers: https://dardostudios.com/careers
+    social:
+      instagram: https://www.instagram.com/dardostudios/
+      linkedin: https://www.linkedin.com/company/dardo-studios/
+    added_at: '2026-11-06T14:26:05.980Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Diorama
+    url: https://dioramadigital.com/
+    description: Visual services studio producing 3D, 2D, animation and VFX for console, PC and mobile game production.
+    hq:
+      city: Recife
+      country: Brazil
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2015
+    added_at: '2026-11-06T14:26:05.981Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Envar
+    url: https://envarstudio.com/
+    description: Game art outsourcing and development studio making 2D and 3D assets for clients and its own game Witchspire.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    careers: https://careers.envarstudio.com/
+    notable:
+      - Witchspire
+    social:
+      instagram: https://www.instagram.com/envarstudio/
+    added_at: '2026-11-06T14:26:05.982Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Forge Studios
+    url: https://www.forgestudios.com/
+    description: Game art outsourcing studio making realistic and stylized art, animation and co-development work for game publishers.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2010
+    careers: https://www.forgestudios.com/careers/
+    social:
+      instagram: https://www.instagram.com/forge.studios.gameart/
+      linkedin: https://www.linkedin.com/company/forge-studios-s-r-l-/
+    added_at: '2026-11-06T14:26:05.983Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Inferno Studios
+    url: https://fueltheinferno.com/
+    description: Real-time VFX outsourcing studio creating in-game effects, shaders and cinematic effects for game developers.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - vfx
+    markets:
+      - games
+    careers: https://fueltheinferno.com/careers/
+    social:
+      instagram: https://www.instagram.com/fueltheinferno
+      linkedin: https://www.linkedin.com/company/fueltheinferno/
+    added_at: '2026-11-06T14:26:05.984Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Hexar Studios
+    url: https://hexarstudios.com/
+    description: Game art outsourcing studio making characters, creatures, environments, concept art, animation and real-time hair.
+    hq:
+      city: Lucknow
+      country: India
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    notable:
+      - Back 4 Blood
+      - 'Predator: Hunting Grounds'
+      - Skull and Bones
+    added_at: '2026-11-06T14:26:05.985Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Immortals Studios
+    url: https://immortalsstudios.com/
+    description: Game art production studio providing concept design, 3D modeling, animation and UI art for game developers.
+    hq:
+      city: Xi'an
+      country: China
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    added_at: '2026-11-06T14:26:05.986Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: MOOD Visuals
+    url: https://moodvisuals.com/
+    description: Visual development studio making concept art, 2D, 3D and technical art for AAA game productions.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    founded: 2013
+    careers: https://jobs.moodvisuals.com
+    social:
+      instagram: https://www.instagram.com/moodvisuals.studio/
+      linkedin: https://www.linkedin.com/company/mood/
+    added_at: '2026-11-06T14:26:05.987Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Mooncolony
+    url: https://mooncolony.co/
+    description: Concept art and illustration studio providing 2D character, marketing and concept art to the games industry.
+    hq:
+      city: Cambridge
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    careers: https://mooncolony.co/jobs
+    social:
+      instagram: https://www.instagram.com/mooncolony.co/
+      linkedin: https://www.linkedin.com/company/mooncolony
+    added_at: '2026-11-06T14:26:05.988Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Onyx Studio
+    url: https://www.onyx.studio/
+    description: Co-development studio making AAA game art, real-time environments and cinematics for game publishers.
+    hq:
+      city: Belgrade
+      country: Serbia
+    offices:
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - outsourcing
+      - cinematics
+    markets:
+      - games
+    founded: 2020
+    notable:
+      - Jagged Alliance 3
+      - South of Midnight
+    social:
+      instagram: https://www.instagram.com/onyx___studios/
+      linkedin: https://www.linkedin.com/company/onyx-studio-ltd/
+    added_at: '2026-11-06T14:26:05.989Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ophion Studios
+    url: https://www.ophionstudios.com/
+    description: Game art outsourcing studio making characters, environments, weapons and vehicles, with in-house human 3D scanning.
+    hq:
+      city: Valencia
+      country: Spain
+    disciplines:
+      - outsourcing
+      - scanning
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/ophion_studios/
+      linkedin: https://www.linkedin.com/company/ophion-studios/
+    added_at: '2026-11-06T14:26:05.990Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Parallax Studios
+    url: https://www.parallaxstudios.com/
+    description: Pre-production studio offering previs, visual development and virtual production for film, series and games.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - previs
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - games
+    notable:
+      - Citadel
+      - 'Dune: Prophecy'
+      - Gran Turismo
+    social:
+      instagram: https://www.instagram.com/parallax.la/
+      linkedin: https://www.linkedin.com/company/parallaxstudios-la
+    added_at: '2026-11-06T14:26:05.991Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pixel Mafia
+    url: https://pixelmafia.com/
+    description: Game art outsourcing studio making concept art, environments, characters and hard-surface assets for AAA games.
+    hq:
+      city: Taguig
+      country: Philippines
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    careers: https://pixelmafia.com/careers
+    notable:
+      - Horizon Forbidden West
+      - Apex Legends
+      - Tiny Tina's Wonderlands
+    social:
+      instagram: https://www.instagram.com/pixelmafiacorp/
+      linkedin: https://www.linkedin.com/company/pixelmafia/
+    added_at: '2026-11-06T14:26:05.992Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Rocksalt Interactive
+    url: https://rocksaltinteractive.com/
+    description: Game art studio producing 2D and 3D art, animation, VFX, tech art and AR/VR content for game developers.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/rocksaltinteractive/
+      linkedin: https://www.linkedin.com/company/rocksalt-interactive-games-pvt-ltd-467758147/
+    added_at: '2026-11-06T14:26:05.993Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Saffronic
+    url: https://saffronic.com/
+    description: Animation production studio making CG animation for series, films and games.
+    hq:
+      city: Chennai
+      country: India
+    offices:
+      - city: Los Angeles
+        country: United States
+      - city: Bangalore
+        country: India
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - games
+    founded: 2022
+    social:
+      linkedin: https://www.linkedin.com/company/saffronic/
+    added_at: '2026-11-06T14:26:05.994Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sprung Studios
+    url: https://www.sprungstudios.com/
+    description: UX and UI co-development studio designing game interfaces and player journeys for AAA and mobile titles.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    offices:
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    careers: https://www.sprungstudios.com/careers/
+    notable:
+      - Apex Legends
+      - 'Call of Duty: Mobile'
+    social:
+      instagram: https://www.instagram.com/sprungstudios/
+      linkedin: https://www.linkedin.com/company/sprung-studios-ltd/
+    added_at: '2026-11-06T14:26:05.995Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Waterproof Studios
+    url: https://waterproofstudios.com/
+    description: CG studio making cinematics, trailers and real-time content for game publishers, film and TV.
+    hq:
+      city: Burnaby
+      country: Canada
+    disciplines:
+      - cinematics
+      - 3d-animation
+    markets:
+      - games
+      - film
+    founded: 2012
+    careers: https://waterproofstudios.com/careers
+    notable:
+      - Civilization VII
+      - 'Gears of War: E-Day'
+      - Gotham Knights cinematics
+      - Hogwarts Legacy
+    social:
+      linkedin: https://www.linkedin.com/company/waterproof-studios/
+    added_at: '2026-11-06T14:26:05.996Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Goodname
+    url: https://goodname.lt/
+    description: Digital art studio providing visual development, concept art, art direction and asset design for game developers.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    founded: 2016
+    careers: https://goodname.lt/jobs
+    social:
+      instagram: https://www.instagram.com/goodnamestudio/
+      linkedin: https://www.linkedin.com/company/goodname
+    added_at: '2026-11-06T14:26:05.997Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Modma Studios
+    url: https://www.modmastudios.com/
+    description: Game art and production partner providing dedicated art teams for mobile, PC and console games.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/modmastudios/
+      linkedin: https://www.linkedin.com/company/modmastudios/
+    added_at: '2026-11-06T14:26:05.998Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Team From Earth
+    url: https://teamfromearth.com/
+    description: Art production studio making realistic characters and environments for games.
+    hq:
+      country: Cyprus
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-11-06T14:26:05.999Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cyan Heart Studio
+    url: https://www.cyanheartstudio.com/
+    description: Game art outsourcing studio making 3D environments, props, characters, rigging, animation and concept art.
+    hq:
+      city: Recife
+      country: Brazil
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/cyanheartstudio/
+      linkedin: https://www.linkedin.com/company/cyan-heart-studio/
+    added_at: '2026-11-06T14:26:06.000Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: BOSi Art Studios
+    url: https://bosi.com/
+    description: Game art outsourcing studio providing full-pipeline 2D and 3D art for video games, film, XR and toys.
+    hq:
+      city: Shanghai
+      country: China
+    offices:
+      - city: Nanjing
+        country: China
+      - city: Nanchang
+        country: China
+      - city: San Francisco
+        country: United States
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    founded: 2006
+    social:
+      instagram: https://www.instagram.com/bosiartstudios/
+      linkedin: https://www.linkedin.com/company/bosiartstudios/
+    added_at: '2026-11-06T14:26:06.001Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ICON Creative Studio
+    url: https://iconcreativestudio.com/
+    description: CG animation studio producing animated series, features, specials, game cinematics and immersive content.
+    hq:
+      city: Vancouver
+      country: Canada
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - episodic
+      - film
+      - games
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/iconcreativestudio
+      linkedin: https://www.linkedin.com/company/icon-creative-studio/
+    added_at: '2026-11-06T14:26:06.002Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: On Point Creative
+    url: https://onpoint-creative.com/
+    description: Game art production company providing UI/UX, 2D, 3D and animation services for game developers.
+    hq:
+      city: Taipei
+      country: Taiwan
+    offices:
+      - city: Suzhou
+        country: China
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/opc_onpoint/
+    added_at: '2026-11-06T14:26:06.003Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: West Studio
+    url: https://weststudio.com/
+    description: Concept art and visual development house designing worlds, characters and props for games and entertainment.
+    hq:
+      city: Pasadena
+      country: United States
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - Valorant map concepts for Riot Games
+    social:
+      instagram: https://www.instagram.com/weststudionews/
+      vimeo: https://vimeo.com/weststudio
+    added_at: '2026-11-06T14:26:06.004Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Zvky Design Studio
+    url: https://zvky.com/
+    description: Game art and development studio providing art, animation and resource augmentation for game developers.
+    hq:
+      country: India
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/zvky.design.studio/
+    added_at: '2026-11-06T14:26:06.005Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Hammer Creative
+    url: https://hammercreative.com/
+    description: Game marketing studio producing trailers, key art and social content for developers and publishers.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - motion-design
+    markets:
+      - games
+      - advertising
+    social:
+      instagram: https://www.instagram.com/hammer.creative/
+      linkedin: https://www.linkedin.com/company/hammer-creative/
+    added_at: '2026-11-06T14:26:06.006Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Coal Car Studio
+    url: https://coalcar.ca/
+    description: Boutique XR studio making social VR and AR games and experiences for clients.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - xr
+    markets:
+      - games
+    founded: 2015
+    added_at: '2026-11-06T14:26:06.007Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Greydot Lab
+    url: https://www.greydotlab.com/en
+    description: Creative tech studio offering motion capture, 2D and 3D art, animation and XR work for games, film and brands.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - mocap
+      - outsourcing
+      - xr
+    markets:
+      - games
+      - advertising
+    social:
+      instagram: https://www.instagram.com/greydotlab/
+      linkedin: https://www.linkedin.com/company/greydotlab/
+    added_at: '2026-11-06T14:26:06.008Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Magic Sword Studio
+    url: https://www.magicswordstudio.com/
+    description: 2D art studio making concept art, illustration, UI art and animation for games.
+    hq:
+      country: Brazil
+    disciplines:
+      - outsourcing
+      - 2d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/magicswordstudio/
+      linkedin: https://www.linkedin.com/company/magic-sword-studio/
+    added_at: '2026-11-06T14:26:06.009Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Spark XD
+    url: https://sparkstudio.gg/
+    description: Game outsourcing and co-development studio providing art, animation, UI and engineering for publishers and indies.
+    hq:
+      country: Brazil
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/sparkstudio.gg
+      linkedin: https://www.linkedin.com/company/spark-studio-gg
+    added_at: '2026-11-06T14:26:06.010Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

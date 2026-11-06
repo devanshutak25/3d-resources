@@ -1,0 +1,1063 @@
+studios:
+  - name: Form&Fun Studio
+    url: https://formandfun.co/
+    description: Creative technology studio making AR, VR and interactive brand experiences.
+    hq:
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Oreo x Pac-Man AR experience
+      - Powerade Mindzone VR
+      - DoorDash Summer of DashPass
+    social:
+      instagram: https://www.instagram.com/formandfun
+      linkedin: https://www.linkedin.com/company/formandfun
+      behance: https://www.behance.net/FormandFun
+    added_at: '2026-11-06T14:26:06.061Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 60fps
+    url: https://60fps.fr/
+    description: Creative production studio of developers and 3D modelers making WebGL sites, digital twins and installations for premium brands.
+    hq:
+      city: Nancy
+      country: France
+    disciplines:
+      - interactive
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    founded: 2013
+    added_at: '2026-11-06T14:26:06.062Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Riotters
+    url: https://riotters.com/
+    description: Design studio making 3D, motion, branding and creative development to explain complex tech products.
+    hq:
+      city: Szczecin
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Norton
+      - Medallia
+      - Sedai
+    social:
+      instagram: https://www.instagram.com/riotters
+      linkedin: https://www.linkedin.com/company/riotters
+      behance: https://www.behance.net/riotters
+    added_at: '2026-11-06T14:26:06.063Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Virtually Ever After
+    url: https://virtuallyeverafter.xyz/
+    description: Architect-led studio making interactive 3D websites, real-time WebGL and WebXR experiences, films and exhibitions.
+    hq:
+      city: Luxembourg
+      country: Luxembourg
+    disciplines:
+      - interactive
+      - xr
+      - motion-design
+    markets:
+      - brand
+      - real-estate
+    founded: 2025
+    social:
+      instagram: https://www.instagram.com/virtually.ever.after
+      linkedin: https://www.linkedin.com/company/virtuallyeverafter
+    added_at: '2026-11-06T14:26:06.064Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Mirage
+    url: https://studiomirage.io/
+    description: Creative tech studio making immersive 3D web experiences, motion design and interactive campaigns for luxury brands.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+    disciplines:
+      - interactive
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    notable:
+      - DIFC 4th edition
+      - Maison Margiela
+      - Renault Trucks
+      - Ubisoft
+    social:
+      instagram: https://www.instagram.com/studiomirage___
+      linkedin: https://www.linkedin.com/company/studio-mirageio
+    added_at: '2026-11-06T14:26:06.065Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Bearplus
+    url: https://bear.plus/
+    description: Independent design studio making web design and development, 3D and motion for digital brand experiences.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: Ho Chi Minh City
+        country: Vietnam
+    disciplines:
+      - interactive
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/bearplus.agency
+      linkedin: https://www.linkedin.com/company/bear-plus
+    added_at: '2026-11-06T14:26:06.066Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: WAY Experience
+    url: https://wayexperience.it/
+    description: Milan creative company making VR and mixed reality experiences for museums, heritage sites, hospitals and corporate events.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - xr
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2019
+    notable:
+      - Marco Polo VR
+    social:
+      instagram: https://www.instagram.com/wayexperience
+      linkedin: https://www.linkedin.com/company/way-experience
+      youtube: https://www.youtube.com/@wayexperience
+    added_at: '2026-11-06T14:26:06.067Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Viewtoo
+    url: https://www.viewtoo.it/
+    description: Milan studio making augmented, virtual and mixed reality campaigns for brand marketing.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - advertising
+      - brand
+    notable:
+      - AC Milan AR Fan Cam
+      - KIA The Limitless Brochure
+      - Dulcis in Agro
+    social:
+      instagram: https://www.instagram.com/viewtooar
+      linkedin: https://www.linkedin.com/company/viewtoo
+    added_at: '2026-11-06T14:26:06.068Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Onyx Leaf Media
+    url: https://www.onyxleafmedia.com/
+    description: Immersive experience studio making XR experiences, interactive apps and branded virtual worlds.
+    hq:
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - episodic
+    notable:
+      - Getting Things Dun with JDun and JoyReign
+    social:
+      instagram: https://www.instagram.com/onyxleafmedia
+      linkedin: https://www.linkedin.com/company/onyxleafmedia
+    added_at: '2026-11-06T14:26:06.069Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sunnana Inc.
+    url: https://sunnana.jp/
+    description: Japanese studio making projection mapping, LED content and digital art for expos, hotels and city events.
+    hq:
+      country: Japan
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - EXPO 2025 Osaka Shining Hat projection mapping
+      - Suginoi Hotel permanent mapping
+      - Pac-Man Eats Tokyo
+    added_at: '2026-11-06T14:26:06.070Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Motion House
+    url: https://motionhouse.co.th/
+    description: Bangkok motion graphics studio making explainer videos, LED billboard content, concert visuals and projection mapping.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - motion-design
+      - experiential
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Contrasting Concurrences (1minute PM 2023)
+    social:
+      instagram: https://instagram.com/motionhousethailand
+      youtube: https://www.youtube.com/channel/UCVU6d-NfNoDTjiTTNpnVXtQ
+    added_at: '2026-11-06T14:26:06.071Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: iNK Stories
+    url: https://www.inkstories.com/
+    description: New York entertainment company making narrative games, VR and immersive story experiences.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/inkstoriesnyc
+    added_at: '2026-11-06T14:26:06.072Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Da Prod
+    url: https://daprod.net/
+    description: Paris audiovisual production company specialised in VR and immersive works with filmmakers and artists.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+    markets:
+      - film
+    founded: 2015
+    social:
+      linkedin: https://linkedin.com/company/da-prod
+    added_at: '2026-11-06T14:26:06.073Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Biarritz
+    url: https://studiobiarritz.nl/
+    description: Utrecht production house making VR, mixed reality and immersive documentary works.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - xr
+    markets:
+      - film
+    founded: 2019
+    notable:
+      - Lesbian Simulator
+      - Deep Soup
+      - Palimpsest
+      - Floating With Spirits
+    social:
+      instagram: https://www.instagram.com/studiobiarritznl
+      linkedin: https://www.linkedin.com/company/studio-biarritz
+    added_at: '2026-11-06T14:26:06.074Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ona Stories
+    url: https://www.onastories.com/
+    description: Tanzanian AR, VR and digital storytelling company making mobile-first immersive stories.
+    hq:
+      country: Tanzania
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - film
+    social:
+      instagram: https://www.instagram.com/onastories
+    added_at: '2026-11-06T14:26:06.075Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Louter
+    url: https://www.studiolouter.nl/
+    description: Amsterdam content design studio making interactive installations and visitor experiences for museums.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Film Catcher (Eye Filmmuseum, with Kiss the Frog)
+    social:
+      instagram: http://instagram.com/studio_louter
+      linkedin: https://www.linkedin.com/company/studio-louter
+      vimeo: https://vimeo.com/studiolouter
+    added_at: '2026-11-06T14:26:06.076Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Parangon
+    url: https://parangon.eu/
+    description: Strasbourg animation studio providing 2D animation and FX services to producers of short and feature films.
+    hq:
+      city: Strasbourg
+      country: France
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - film
+    founded: 2021
+    notable:
+      - There Might Be Nothing Here
+    added_at: '2026-11-06T14:26:06.077Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Occupied VR
+    url: https://www.occupiedvr.com/
+    description: Toronto studio making virtual and mixed reality experiences for entertainment, training and research.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - xr
+    markets:
+      - film
+      - brand
+    social:
+      instagram: https://www.instagram.com/occupiedvr
+      linkedin: https://www.linkedin.com/company/occupied-vr
+      vimeo: https://vimeo.com/occupiedvr
+      youtube: https://www.youtube.com/channel/UCimk1cVokaxhFFwgvIP_hRQ
+    added_at: '2026-11-06T14:26:06.078Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Diversion
+    url: https://www.diversionxr.com/
+    description: Paris VR company producing immersive works and running VR scenography for events, exhibitions and training.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+      - brand
+    social:
+      instagram: https://www.instagram.com/diversion.xr
+      linkedin: https://www.linkedin.com/company/diversion-cinema
+      vimeo: https://vimeo.com/diversioncinema
+      youtube: https://www.youtube.com/channel/UCncNJECSHulq-qNJH7zWDuA
+    added_at: '2026-11-06T14:26:06.079Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ARIA
+    url: https://showaria.com/
+    description: Korean entertainment-tech company making interactive cinema, XR shows and AI virtual characters.
+    hq:
+      country: South Korea
+    offices:
+      - city: San Jose
+        country: United States
+    disciplines:
+      - xr
+      - interactive
+      - ai-production
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/showaria.official
+      youtube: https://www.youtube.com/@aria_ai_ent.official
+    added_at: '2026-11-06T14:26:06.080Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Warriors VFX
+    url: https://warriorsvfx.com.br/
+    description: Post-production house in Brazil doing VFX and CGI for commercials, film and music videos.
+    hq:
+      city: Barueri
+      country: Brazil
+    offices:
+      - city: Mexico City
+        country: Mexico
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+      - music-video
+    notable:
+      - Mitsubishi (Stink, dir. Ian Ruschel)
+      - O Boticário
+      - Pringles x Stranger Things
+    added_at: '2026-11-06T14:26:06.081Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Faro VFX
+    url: https://farovfx.com/
+    description: Colombian VFX studio making CGI for commercials, feature films, TV shows and music videos.
+    hq:
+      country: Colombia
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+      - episodic
+      - music-video
+    notable:
+      - Aeroméxico (Ogilvy México, Oriental Films)
+    added_at: '2026-11-06T14:26:06.082Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tribbo VFX
+    url: https://www.tribbovfx.com/
+    description: Brazilian VFX and post studio making visual effects for commercials.
+    hq:
+      country: Brazil
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - Chevrolet
+      - Rexona
+      - Taco Bell
+      - BYD
+    social:
+      instagram: https://www.instagram.com/tribbo_vfx/
+      linkedin: https://www.linkedin.com/company/tribbo
+      vimeo: https://vimeo.com/tribbovfx
+    added_at: '2026-11-06T14:26:06.083Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Nidai Studio
+    url: https://www.nidaistudio.com/
+    description: São Paulo 3D studio making CGI and visual effects for advertising.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/nidaistudio
+    added_at: '2026-11-06T14:26:06.084Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Post IT
+    url: https://postitvfx.com/
+    description: São Paulo post-production and VFX house working on commercials and brand films.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - Nubank Carnaval
+      - Google
+      - Motorola
+    social:
+      instagram: https://www.instagram.com/postit_vfx
+      vimeo: https://vimeo.com/postitvfx
+    added_at: '2026-11-06T14:26:06.085Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Invisible Works
+    url: https://invisibleworks.com.br/
+    description: São Paulo post studio doing VFX, 3D animation and AI imagery for commercials.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - vfx
+      - 3d-animation
+      - ai-production
+    markets:
+      - advertising
+    notable:
+      - Betano
+      - 'Ford: Ride the Impossible'
+      - Nubank
+      - Old Spice
+    social:
+      instagram: https://www.instagram.com/invisible.works/
+      linkedin: https://www.linkedin.com/company/invisible-works
+      vimeo: https://vimeo.com/invisibleworks
+    added_at: '2026-11-06T14:26:06.086Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Magic Hammer
+    url: https://magichammer.com.mx/
+    description: Mexican 3D animation and VFX studio making CGI, FOOH and AI spots for brands.
+    hq:
+      country: Mexico
+    disciplines:
+      - 3d-animation
+      - vfx
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Bimbo Linaza
+      - Nissan e-Power
+      - Pinol FOOH
+      - Coyote vs Acme FOOH
+    social:
+      instagram: https://www.instagram.com/magichammerstudio/
+      linkedin: https://www.linkedin.com/company/magic-hammer-studio/
+    added_at: '2026-11-06T14:26:06.087Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: MYM Post
+    url: https://www.mympost.com/
+    description: Buenos Aires post house doing VFX, compositing, grading and 2D/3D animation for ads, film and music videos.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - vfx
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+      - music-video
+    notable:
+      - Mercado Libre
+      - 'Gatorade: Full of Champions'
+      - 'Burger King: The Witcher'
+      - Coca-Cola
+    added_at: '2026-11-06T14:26:06.088Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Stray
+    url: https://stray.london/
+    description: Independent London VFX studio working on commercials, fashion films and music videos.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - music-video
+      - brand
+    notable:
+      - 'Beats x Erling Haaland: Ordinary Is for Everyone Else'
+      - 'Claude: Keep Thinking'
+      - 'New Balance: Two Swords'
+      - Tesco Christmas
+    social:
+      instagram: https://www.instagram.com/stray.ldn/
+      linkedin: https://linkedin.com/company/straylondon/
+    added_at: '2026-11-06T14:26:06.089Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Selected Works
+    url: https://selectedworks.tv/
+    description: London VFX and colour company working on commercials for agencies and production companies.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - 'Nike: Rip the Script'
+      - 'Coinbase: Your Way Out'
+      - 'John Lewis: Gloria & Pickles'
+      - 'Xbox Game Pass: The Janitor'
+    added_at: '2026-11-06T14:26:06.090Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ELMNTL
+    url: https://www.elmntl.studio/
+    description: Independent London studio doing VFX and colour for brands, agencies and production companies.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - 'Paddy Power: Come Out and Play'
+      - 'Vodafone: The Toymaker'
+      - 'Adidas Football: F50 vs Predator'
+      - 'Toyota: Toyotathon'
+    social:
+      instagram: https://www.instagram.com/elmntl.studio/
+      linkedin: https://www.linkedin.com/company/elmntl
+    added_at: '2026-11-06T14:26:06.091Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Corduroy
+    url: https://corduroy.studio/
+    description: Los Angeles VFX and directing studio doing CG, compositing and animation for music videos and ads.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cg
+    markets:
+      - music-video
+      - advertising
+    notable:
+      - 'Charli XCX: 360'
+      - Troye Sivan (Object & Animal)
+      - Nike ACG
+    social:
+      instagram: https://www.instagram.com/corduroy.fx
+    added_at: '2026-11-06T14:26:06.092Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: FEATHER
+    url: https://studiofeather.com/
+    description: Artist-led Toronto post studio doing VFX, motion and colour for commercials.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+    notable:
+      - 'President''s Choice: Possible Lives Here'
+      - Crown Royal
+      - FENTY x PUMA
+      - DoorDash x NHL
+    social:
+      instagram: https://www.instagram.com/studiofeather/
+      linkedin: https://www.linkedin.com/company/studiofeather/
+    added_at: '2026-11-06T14:26:06.093Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: GABHA Studios
+    url: https://www.gabhastudios.com/
+    description: Dublin creative studio doing motion, 2D/3D animation, CGI, VFX and colour for commercials and episodic.
+    hq:
+      city: Dublin
+      country: Ireland
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+      - title-design
+    markets:
+      - advertising
+      - episodic
+      - film
+    founded: 2021
+    careers: https://www.gabhastudios.com/careers
+    notable:
+      - 'Tesco Mobile Ireland: Same But Tesco Wizard'
+      - 'Hak Baker: Doolally'
+    social:
+      instagram: https://www.instagram.com/gabhastudios/
+      linkedin: https://www.linkedin.com/company/gabha-studios/
+    added_at: '2026-11-06T14:26:06.094Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pineapple VFX
+    url: https://www.pineapplevfx.com/
+    description: North London VFX, CG and finishing studio for commercials and music videos, with an AI services arm.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - cg
+      - ai-production
+    markets:
+      - advertising
+      - music-video
+    notable:
+      - 'Royal Marines: LOST!'
+      - 'Transport for Wales: Woven Through Wales'
+      - 'Swatch: Jelly Effect'
+      - 'Fontaines D.C.: Marianne'
+    social:
+      instagram: https://www.instagram.com/pineapple_vfx/
+    added_at: '2026-11-06T14:26:06.095Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Gunner
+    url: https://gunner.work/
+    description: Detroit illustration and animation studio making 2D and 3D animation for tech and consumer brands.
+    hq:
+      city: Detroit
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Google Home App
+      - Spotify Pride
+      - Etsy Plus
+      - Amazon Alexa
+    social:
+      instagram: https://www.instagram.com/gunneranimation/
+      vimeo: https://vimeo.com/gunneranimation
+    added_at: '2026-11-06T14:26:06.096Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: TELEVISOR
+    url: https://televisor.studio/
+    description: Warsaw production and post studio doing CGI, VFX, character animation and generative AI for brands.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+      - motion-design
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    notable:
+      - 'McDonald''s: Drop'
+      - Fortuna
+      - Krakus
+      - 'LV x Murakami: MNNK Bro.'
+    social:
+      instagram: https://www.instagram.com/televisor.studio/
+      linkedin: https://www.linkedin.com/company/televisor/
+      vimeo: https://vimeo.com/televisor
+    added_at: '2026-11-06T14:26:06.097Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Frameboy
+    url: https://www.frameboy.com/
+    description: Ghent motion studio doing animation, motion branding and projection mapping for brands and events.
+    hq:
+      city: Ghent
+      country: Belgium
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+      - experiential
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Dopper
+      - Tiffany & Co. high-jewellery projection, Doha
+      - Roeselare Awards titles
+      - Modular Lighting Instruments
+    social:
+      instagram: https://www.instagram.com/frameboy.studio/
+      linkedin: https://www.linkedin.com/company/frameboy/
+    added_at: '2026-11-06T14:26:06.098Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kevin
+    url: https://www.yourstrulykevin.com/
+    description: Los Angeles VFX and CG studio, working on commercials and Super Bowl spots.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    notable:
+      - 'Squarespace: A Tale as Old as Websites'
+      - 'Life360: I Think of You Dying'
+      - Rocket Companies Super Bowl
+      - 'Kia: Telluride'
+    social:
+      instagram: http://instagram.com/yourstruly.kevin
+      linkedin: https://www.linkedin.com/company/18251500/
+    added_at: '2026-11-06T14:26:06.099Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: jitto
+    url: https://jitto.jp/
+    description: Tokyo VFX studio doing CG, compositing and online finishing for TV commercials and music videos.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - music-video
+    social:
+      instagram: https://www.instagram.com/jitto_tokyo/
+      linkedin: https://www.linkedin.com/company/jitto-inc/
+    added_at: '2026-11-06T14:26:06.100Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: MARK inc.
+    url: https://mark-inc.jp/
+    description: Tokyo high-end CGI production doing VFX, CG animation and 3D scanning for commercials, film and auto shows.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+      - scanning
+    markets:
+      - advertising
+      - film
+      - brand
+    founded: 2012
+    notable:
+      - 'Calorie Mate: Kaiju Summer Vacation'
+      - Lexus at Japan Mobility Show 2025
+      - SMBC Card
+    added_at: '2026-11-06T14:26:06.101Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 3P Studio
+    url: https://www.3pstudio.com.au/
+    description: Brisbane post studio doing VFX, 3D animation, picture and sound for commercials and feature films.
+    hq:
+      city: Brisbane
+      country: Australia
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Auckland
+        country: New Zealand
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/3pstudio/
+      linkedin: https://au.linkedin.com/company/3p-studio
+      vimeo: https://vimeo.com/3pstudioau
+    added_at: '2026-11-06T14:26:06.102Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: VISUALMAN TOKYO
+    url: https://visualman.tokyo/
+    description: Tokyo VFX and CG studio for commercials, film and music videos, with AR/VR and virtual production work.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kumamoto
+        country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - virtual-production
+      - xr
+    markets:
+      - advertising
+      - film
+      - episodic
+      - music-video
+    founded: 2013
+    notable:
+      - 'Netflix: Last Samurai Standing (Ikusagami)'
+      - 'Snow Man: Charismax MV'
+      - Samsung Galaxy Z Fold7
+      - Sapporo Breweries 150th anniversary
+    added_at: '2026-11-06T14:26:06.103Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ydot
+    url: https://ydot.jp/
+    description: Tokyo CG studio combining VFX and programming for commercials and brand projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - interactive
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/ydotworks/
+      vimeo: https://vimeo.com/ydot
+    added_at: '2026-11-06T14:26:06.104Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: supersensory
+    url: https://www.supersensory.com/
+    description: Hamburg studio making full-CG and hybrid AI plus CG food advertising for confectionery and FMCG brands.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - cg
+      - ai-production
+      - product-viz
+    markets:
+      - advertising
+    notable:
+      - Lindt Christmas 2025
+      - Milka
+      - Ferrero pan-European TVC
+      - Dove UK
+    added_at: '2026-11-06T14:26:06.105Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: thequietlab
+    url: https://www.thequietlab.com/
+    description: Singapore visual effects company for film, TV and advertising, with a second studio in Bangkok.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - city: Bangkok
+        country: Thailand
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2013
+    notable:
+      - 'Disney Cruise Line: Disney Adventure'
+      - 'Lifebuoy: Possession'
+      - Samsung
+      - SK-II
+    social:
+      instagram: https://www.instagram.com/thequietlabvfx
+      linkedin: https://www.linkedin.com/company/thequietlab/
+      vimeo: https://vimeo.com/quietlab
+    added_at: '2026-11-06T14:26:06.106Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Creature Post
+    url: https://www.creaturepost.co.nz/
+    description: Auckland post studio doing VFX, motion design, projection mapping and XR for brands and live events.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+      - motion-design
+      - experiential
+      - xr
+    markets:
+      - advertising
+      - brand
+    notable:
+      - 'Asahi: Seek Silence'
+      - 'Samsung: Worst Children''s Library'
+      - Auckland Diwali Festival projection mapping
+      - Skinny Mobile
+    added_at: '2026-11-06T14:26:06.107Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Rig
+    url: https://therig.co.nz/
+    description: Auckland content studio doing design, 2D/3D animation, VFX and grading for brands and agencies.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - vfx
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/therignz/
+    added_at: '2026-11-06T14:26:06.108Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: digital egg
+    url: https://www.digitalegg.co.jp/
+    description: Tokyo post-production house doing editing, compositing and VFX for commercials, TV dramas and signage.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - episodic
+    founded: 1992
+    added_at: '2026-11-06T14:26:06.109Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: LorryPop
+    url: https://lorrypop.com/
+    description: Malaysian 3D animation and immersive design studio making anamorphic DOOH, brand activations and ads.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - 3d-animation
+      - experiential
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Genesis Brand Night 2022
+      - Zeekr China anamorphic
+      - 'KFC: Kentucky Town Manifesto'
+      - Coca-Cola anamorphic
+    social:
+      instagram: https://www.instagram.com/lorrypop_studio/
+      vimeo: https://vimeo.com/lorrypop
+    added_at: '2026-11-06T14:26:06.110Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

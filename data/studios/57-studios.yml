@@ -1,0 +1,935 @@
+studios:
+  - name: PixelPEC
+    url: https://www.pixelpec.de/
+    description: Offenbach am Main film and animation studio producing motion graphics, explainer films and AI-assisted content for brands.
+    hq:
+      city: Offenbach am Main
+      country: Germany
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2014
+    careers: https://www.pixelpec.de/jobs
+    social:
+      instagram: https://www.instagram.com/pixelpec
+      vimeo: https://vimeo.com/pixelpec
+      youtube: https://www.youtube.com/@pixelpec
+    added_at: '2026-11-06T14:26:06.161Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pixelcloud
+    url: https://www.pixelcloud.de/
+    description: Ludwigsburg studio building VR experiences, serious games, browser games and web experiences.
+    hq:
+      city: Ludwigsburg
+      country: Germany
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    careers: https://www.pixelcloud.de/pixelcloud-jobs.html
+    social:
+      instagram: https://instagram.com/pixelcloud_stories
+      linkedin: https://www.linkedin.com/company/12740506
+    added_at: '2026-11-06T14:26:06.162Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: RECOM FILM
+    url: https://www.recom-film.de/
+    description: Ostfildern production company making live-action and full CG automotive films and photo productions.
+    hq:
+      city: Ostfildern
+      country: Germany
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - cg
+      - live-action
+    markets:
+      - advertising
+    notable:
+      - Genesis GV70
+      - Toyota bZ
+    social:
+      instagram: https://www.instagram.com/recom_film
+    added_at: '2026-11-06T14:26:06.163Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: RPM VFX Studios
+    url: https://rpmvfxstudios.com/
+    description: Chennai VFX studio doing compositing, roto and animation for film, TV and digital media.
+    hq:
+      city: Chennai
+      country: India
+    offices:
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    careers: https://rpmvfxstudios.com/home/careers
+    added_at: '2026-11-06T14:26:06.164Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Satore Studio
+    url: https://satorestudio.com/
+    description: London creative studio designing virtual and screen-based experiences for runways, stages and sets.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Lisbon
+        country: Portugal
+      - city: Mexico City
+        country: Mexico
+    disciplines:
+      - experiential
+      - cg
+    markets:
+      - brand
+    added_at: '2026-11-06T14:26:06.165Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ScannedReality
+    url: https://scanned-reality.com/
+    description: Unterföhring volumetric video studio capturing people for XR and virtual production, also licensing its capture tech.
+    hq:
+      city: Unterföhring
+      country: Germany
+    disciplines:
+      - scanning
+    founded: 2022
+    added_at: '2026-11-06T14:26:06.166Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Das alte Lager
+    url: https://www.das-alte-lager.com/
+    description: Zürich VFX studio creating visual effects, 3D animation and motion graphics for cinema, series and commercials.
+    hq:
+      city: Zürich
+      country: Switzerland
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2020
+    notable:
+      - Lindt
+      - Spotify
+      - IWC
+    social:
+      instagram: https://www.instagram.com/dasaltelager
+      youtube: https://www.youtube.com/c/dasaltelager1
+    added_at: '2026-11-06T14:26:06.167Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Stellar Creative Lab
+    url: https://www.stellarcreativelab.com/
+    description: Vancouver animation studio producing 2D and CG animation, VFX, theme park films and cinematics for features and series.
+    hq:
+      city: Vancouver
+      country: Canada
+    offices:
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - cinematics
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Sausage Party: Foodtopia'
+    added_at: '2026-11-06T14:26:06.168Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Uncharted Territory
+    url: https://www.uncharted-territory.com/
+    description: Nuremberg VFX and production company that plans visual effects into film and series production from the start.
+    hq:
+      city: Nuremberg
+      country: Germany
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 1999
+    social:
+      youtube: https://www.youtube.com/user/UnchartedTerritoryFX
+    added_at: '2026-11-06T14:26:06.169Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Rotomaker
+    url: https://www.rotomaker.com/
+    description: VFX outsourcing company with production in Hyderabad and Chennai doing roto, paint, matchmove and stereo conversion.
+    hq:
+      city: Corona
+      country: United States
+    offices:
+      - city: Surrey
+        country: Canada
+      - city: Hyderabad
+        country: India
+      - city: Chennai
+        country: India
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-06T14:26:06.170Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Graphiti Multimedia
+    url: https://www.graphitimultimedia.com/
+    description: Mumbai animation studio producing 2D animated series and films, including Krish Trish and Baltiboy.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1995
+    notable:
+      - Krish Trish and Baltiboy
+    social:
+      instagram: https://www.instagram.com/graphitistudio
+      linkedin: https://www.linkedin.com/company/graphiti-multimedia-pvt-ltd
+    added_at: '2026-11-06T14:26:06.171Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: CineVisualFX
+    url: https://www.cinevisualfx.com/
+    description: Mumbai and London VFX house producing visual effects, virtual reconstructions and graphic animation.
+    hq:
+      city: Mumbai
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+    careers: https://www.cinevisualfx.com/careers
+    notable:
+      - Huawei MIRO
+    social:
+      instagram: https://www.instagram.com/cinevisualfx
+    added_at: '2026-11-06T14:26:06.172Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Frost FX
+    url: https://frostfx.ee/
+    description: Tallinn VFX studio working on international film and TV, including HBO's The Penguin.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - The Penguin
+    social:
+      instagram: https://www.instagram.com/frostfxestonia
+      vimeo: https://vimeo.com/frostfx
+    added_at: '2026-11-06T14:26:06.173Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Van Dyke Visual Effects
+    url: https://www.vandykevfx.com/
+    description: Pasadena VFX studio for film and television, from on-set supervision to final compositing.
+    hq:
+      city: Pasadena
+      country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-06T14:26:06.174Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Stereocolor
+    url: https://stereocolor.se/
+    description: Stockholm animation and VFX studio making 3D animation, motion graphics and technical art for brands such as Volvo and H&M.
+    hq:
+      city: Stockholm
+      country: Sweden
+    offices:
+      - city: Gothenburg
+        country: Sweden
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-06T14:26:06.175Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Isar Animation
+    url: https://www.isaranimation.com/
+    description: Munich CGI studio in the Studio 100 Group making animated series and films for children and families.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    careers: https://www.isaranimation.com/en/jobs/
+    added_at: '2026-11-06T14:26:06.176Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Terminal FX
+    url: https://www.terminalfx.com/
+    description: Canadian VFX and animation studio delivering FX, creatures, character animation and compositing for film, TV and commercials.
+    hq:
+      country: Canada
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - The Thousand Faces of Dunjia
+    social:
+      vimeo: https://vimeo.com/terminalfx
+      linkedin: https://www.linkedin.com/company/terminalfx
+    added_at: '2026-11-06T14:26:06.177Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Marmalade
+    url: https://www.themarmalade.com/
+    description: Hamburg CGI studio creating visual branding and advertising imagery since 2008.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    founded: 2008
+    careers: https://www.themarmalade.com/join/
+    social:
+      instagram: https://www.instagram.com/the.marmalade
+      linkedin: https://www.linkedin.com/company/the-marmalade-creative-effects
+      vimeo: https://vimeo.com/themarmalade
+    added_at: '2026-11-06T14:26:06.178Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: VFXPICK Studio
+    url: https://vfxpick.com/
+    description: Chennai VFX outsourcing studio doing CGI, FX simulation, compositing and roto for films, episodic and ads.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/vfxpick
+      x: https://x.com/VFX_PICK
+    added_at: '2026-11-06T14:26:06.179Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: jangled nerves
+    url: https://janglednerves.com/
+    description: Stuttgart communication architects designing museums, exhibitions and media installations.
+    hq:
+      city: Stuttgart
+      country: Germany
+    offices:
+      - city: Shanghai
+        country: China
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    careers: https://janglednerves.com/jobs
+    social:
+      instagram: https://www.instagram.com/janglednerves
+      linkedin: https://www.linkedin.com/company/jangled-nerves
+    added_at: '2026-11-06T14:26:06.180Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Merkas
+    url: https://www.studiomerkas.com/
+    description: Stuttgart studio developing games, XR training apps and real-time 3D product configurators.
+    hq:
+      city: Stuttgart
+      country: Germany
+    offices:
+      - city: Zürich
+        country: Switzerland
+    disciplines:
+      - interactive
+      - xr
+    added_at: '2026-11-06T14:26:06.181Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: VANDAL
+    url: https://www.vandal.au/
+    description: Sydney studio making projection mapping, installations, animation, VFX and XR for advertising, culture and events.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - experiential
+      - vfx
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - brand
+    notable:
+      - 'Westpac: Layers of Defence'
+      - 'Badu Gili: Story Keepers'
+      - 'City of Sydney: Rewild the Night'
+    social:
+      instagram: https://www.instagram.com/vandal_au
+      linkedin: https://www.linkedin.com/company/vandal
+    added_at: '2026-11-06T14:26:06.182Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Lola Post
+    url: https://www.lola-post.com/
+    description: London VFX studio for high-end TV, documentary, specialist factual and drama, part of Phantom Media Group.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+    careers: https://www.lola-post.com/careers/
+    notable:
+      - Walking with Dinosaurs
+    social:
+      instagram: https://www.instagram.com/lolapostproduction
+      linkedin: https://www.linkedin.com/company/lola-post-production-ltd
+      x: https://twitter.com/lola_post
+    added_at: '2026-11-06T14:26:06.183Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Goodman Brothers
+    url: https://www.goodmanbrothers.com/
+    description: Sydney boutique post-production, VFX and animation studio working on commercials.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+    notable:
+      - 'Discovery Parks: Meet Bruce'
+    social:
+      linkedin: https://www.linkedin.com/company/goodman-brothers
+    added_at: '2026-11-06T14:26:06.184Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: FABLEfx
+    url: https://www.fablefx.com/
+    description: Stockholm creature animation and VFX studio focused on CG animals and characters for film and commercials.
+    hq:
+      city: Stockholm
+      country: Sweden
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    careers: https://www.fablefx.com/careers
+    notable:
+      - 'Petro-Canada: No Time to Hibernate'
+      - 'AIDA: The Lemur'
+    social:
+      instagram: http://instagram.com/fablefx_sthlm
+    added_at: '2026-11-06T14:26:06.185Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Nowake
+    url: https://studionowake.com/
+    description: Canary Islands studio creating 3D characters for animation, film and game studios.
+    hq:
+      country: Spain
+    disciplines:
+      - cg
+      - outsourcing
+    markets:
+      - games
+      - film
+    social:
+      linkedin: https://www.linkedin.com/company/studionowake
+    added_at: '2026-11-06T14:26:06.186Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Megalis VFX
+    url: https://megalisvfx.com/
+    description: Tokyo VFX studio producing effects and full CG work for episodic and film projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Avignon
+        country: France
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/megalisvfx
+      linkedin: https://www.linkedin.com/company/megalisvfx
+    added_at: '2026-11-06T14:26:06.187Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: BaconX
+    url: https://www.baconx.com/
+    description: Frederiksberg studio creating visual effects and color grading for commercials, feature films and episodic.
+    hq:
+      city: Frederiksberg
+      country: Denmark
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - film
+      - episodic
+    added_at: '2026-11-06T14:26:06.188Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Fuchs & Vogel
+    url: https://www.fuchsundvogel.de/
+    description: Munich studio making 3D animations of technical and industrial products.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - product-viz
+      - 3d-animation
+    markets:
+      - brand
+    added_at: '2026-11-06T14:26:06.189Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Mountaineer Animation
+    url: https://mountaineeranimation.com/
+    description: Osnabrück animation service studio delivering work from rough layout to final polished character animation.
+    hq:
+      city: Osnabrück
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    added_at: '2026-11-06T14:26:06.190Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Rixfilm
+    url: https://www.rixfilm.de/
+    description: Berlin production company making stop-motion animation alongside film and TV production.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - stop-motion
+    added_at: '2026-11-06T14:26:06.191Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Singarajan VFX
+    url: https://www.singarajanstudios.com/
+    description: Indian VFX outsourcing studio doing roto, cleanup, matchmove, compositing and matte painting for CG studios worldwide.
+    hq:
+      country: India
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - advertising
+    careers: https://www.singarajanstudios.com/careers/
+    social:
+      instagram: https://www.instagram.com/singarajanvfx
+    added_at: '2026-11-06T14:26:06.192Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: NICE creative
+    url: https://www.nicecreative.de/
+    description: Berlin production company and studio making character-driven 3D animation, including the KiKA series Karlchen.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Karlchen
+    added_at: '2026-11-06T14:26:06.193Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ample Projects
+    url: https://ampleprojects.com/
+    description: Sydney collective of artists, designers and technologists making public art, projections and animated short films.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - experiential
+      - 2d-animation
+    markets:
+      - brand
+    notable:
+      - Lifeblood
+      - A Rough Shed
+      - BioDream (Vivid Sydney)
+    added_at: '2026-11-06T14:26:06.194Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Monkeystack
+    url: https://monkeystack.com.au/
+    description: Adelaide studio creating animation, screen media, digital installations and interactive experiences for museums and public campaigns.
+    hq:
+      city: Adelaide
+      country: Australia
+    disciplines:
+      - 3d-animation
+      - interactive
+      - experiential
+    markets:
+      - brand
+    careers: https://monkeystack.com.au/careers/
+    notable:
+      - 'Smartraveller: Know Before You Go'
+    social:
+      instagram: https://www.instagram.com/monkeystackau
+      linkedin: https://www.linkedin.com/company/monkeystack
+    added_at: '2026-11-06T14:26:06.195Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Girraphic
+    url: https://girraphic.com/
+    description: Sydney broadcast design studio making sports and news graphics packages and real-time broadcast graphics.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Denver
+        country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Supercars 2023
+    added_at: '2026-11-06T14:26:06.196Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio ESEM
+    url: https://www.studioesem.com/
+    description: Sydney studio designing immersive storytelling, public art and digital interpretation for museums and civic spaces.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/studioesem
+      linkedin: https://www.linkedin.com/company/esem-projects
+      vimeo: https://vimeo.com/esemprojects
+    added_at: '2026-11-06T14:26:06.197Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Funktion
+    url: https://www.thefunktion.com/
+    description: Sydney animation studio making hand-crafted stop motion, 2D and 3D animation and VFX for brands.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - stop-motion
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: http://instagram.com/the.funktion
+      linkedin: https://www.linkedin.com/company/the-funktion
+    added_at: '2026-11-06T14:26:06.198Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Motionlab
+    url: https://www.motionlab.com.au/
+    description: Sydney animation and motion design studio making 2D and 3D animated videos for brands and agencies since 2010.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    founded: 2010
+    added_at: '2026-11-06T14:26:06.199Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Half Giant
+    url: https://www.halfgiant.com.au/
+    description: Australian animation studio making game trailers and cinematics for indie and mid-size games.
+    hq:
+      country: Australia
+    disciplines:
+      - cinematics
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+    notable:
+      - Rogue Legacy 2
+      - 'Palworld: Tides of Terraria'
+      - Crossy Road Castle
+      - Streets of Rogue 2
+    social:
+      instagram: https://www.instagram.com/halfgiant_
+      vimeo: https://vimeo.com/halfgiantau
+    added_at: '2026-11-06T14:26:06.200Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: pictureDRIFT
+    url: https://www.picturedrift.com.au/
+    description: Sydney design and animation studio crafting moving image design for film, television, digital and physical spaces.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - brand
+      - film
+    founded: 2002
+    notable:
+      - Eight Chifley Foyer Film
+    social:
+      instagram: https://www.instagram.com/picturedrift
+    added_at: '2026-11-06T14:26:06.201Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kapow Pictures
+    url: https://www.kapowpictures.com/
+    description: Sydney animation studio producing 2D and 3D content for kids TV, commercials, music videos and short films.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    founded: 1997
+    notable:
+      - 'The Hard-Ons: Ride to the Station'
+    added_at: '2026-11-06T14:26:06.202Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cosmic Dino Studio
+    url: https://cosmicdinostudio.com/
+    description: Brisbane 3D animation studio offering script-to-screen animation and PDV services for film and TV.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Scarygirl
+    social:
+      instagram: https://www.instagram.com/cosmicdinostudio
+      linkedin: https://www.linkedin.com/company/cosmicdinostudio
+    added_at: '2026-11-06T14:26:06.203Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: RUCKUS Studio
+    url: https://ruckus.studio/
+    description: Brisbane creative studio making motion design, 2D and 3D animation, illustration and post for brands.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-06T14:26:06.204Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Haymaker VFX
+    url: https://www.haymakerfx.com/
+    description: Gothenburg VFX studio with Stockholm and Los Angeles teams working on feature films, episodics and commercials.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    offices:
+      - city: Stockholm
+        country: Sweden
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2008
+    notable:
+      - 'Volkswagen: Electric Feels Good'
+    added_at: '2026-11-06T14:26:06.205Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: GRAPH
+    url: https://graph.cat/
+    description: Architectural visualization studio making images and films for architects and developers.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    founded: 2011
+    added_at: '2026-11-06T14:26:06.206Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Gabriel Saunders
+    url: https://gabrielsaunders.com.au/
+    description: Visualisation studio producing 3D imagery, animation and styling for architects, developers and brands.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+      - brand
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/gabriel_saunders/
+      linkedin: https://au.linkedin.com/company/gabriel-saunders
+    added_at: '2026-11-06T14:26:06.207Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: PIXREADY
+    url: https://www.pixready.com/
+    description: 3D rendering studio making architectural visuals, product CGI, animation and configurators for developers and brands.
+    hq:
+      city: Worcester
+      country: United Kingdom
+    offices:
+      - city: Lviv
+        country: Ukraine
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/pixready.team/
+      linkedin: https://www.linkedin.com/company/pixready/
+    added_at: '2026-11-06T14:26:06.208Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: FLOAT
+    url: https://float.digital/
+    description: Architectural visualisation studio making images, films and verified views for planning, funding and property sales.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    offices:
+      - city: Glasgow
+        country: United Kingdom
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    added_at: '2026-11-06T14:26:06.209Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Blackpoint Design
+    url: https://www.blackpointdesign.co.uk/
+    description: Architectural visualisation studio producing CGI, animation, VR and verified imagery for architects and developers.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/blackpointdesignltd/
+    added_at: '2026-11-06T14:26:06.210Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

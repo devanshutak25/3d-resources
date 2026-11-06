@@ -1,0 +1,1091 @@
+studios:
+  - name: Dandelion Studios
+    url: https://dandelionstudios.com.sg/
+    description: Singapore post house doing compositing, VFX, CGI, 2D/3D animation, motion and grading for commercials.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+    founded: 2023
+    notable:
+      - 'SK-II: The Secret Key'
+      - 'OCBC: Greater Heights'
+      - Knorr
+      - Porsche
+    social:
+      linkedin: https://www.linkedin.com/company/dandelionstudios/
+      vimeo: https://vimeo.com/dandelionstudios
+    added_at: '2026-11-06T14:26:06.111Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: antenna
+    url: https://antennacreative.com/
+    description: California design studio making film title sequences, broadcast packages and motion pieces for studios and brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - brand
+    notable:
+      - Twisters main titles
+      - 'Joker: Warner Bros. logo and titles'
+      - Leave the World Behind main titles
+      - Nine Perfect Strangers title cards
+    social:
+      instagram: https://instagram.com/antenna.creative/
+      vimeo: https://vimeo.com/antennacreative
+    added_at: '2026-11-06T14:26:06.112Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Blind Pig
+    url: https://www.blindpig.tv/
+    description: London animation studio making 2D, 3D and motion graphics for ads, DOOH and broadcast.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - HBO Max DOOH
+      - Disney x F1
+      - Kleenex x Mr Doodle
+      - 'Issey Miyake: Lumière d''Issey'
+    social:
+      instagram: https://www.instagram.com/blindpig_tv/
+      linkedin: https://www.linkedin.com/company/blindpig/
+      vimeo: https://vimeo.com/blindpig
+    added_at: '2026-11-06T14:26:06.113Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: dedo ciego
+    url: https://www.dedociego.com/
+    description: Barcelona studio directing mixed-media and collage animation for commercials, TV graphics, titles and music videos.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - episodic
+      - music-video
+    notable:
+      - 'Oasis: Who Feels Love visualiser'
+      - 'Turismo de Canarias: El Árbol Garoé'
+      - '3Cat: Nervi graphics package'
+      - Davis Cup TV opening
+    social:
+      instagram: https://www.instagram.com/dedociego/
+      linkedin: https://www.linkedin.com/company/dedociego
+      vimeo: http://vimeo.com/dedociego
+    added_at: '2026-11-06T14:26:06.114Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ODD (Office of Development & Design)
+    url: https://odd.tv/
+    description: New York design and animation studio making trailers, title work, motion graphics and ads for agencies and filmmakers.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Santa Monica
+        country: United States
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+      - title-design
+    markets:
+      - advertising
+      - film
+      - brand
+    notable:
+      - Geometrip
+      - 'Taylor Swift: Look What You Made Me Do'
+      - Adidas 1985
+      - Fiat vs. Tesla Cybertruck
+    social:
+      instagram: https://instagram.com/odd_tv
+      linkedin: https://www.linkedin.com/company/oddtv/
+    added_at: '2026-11-06T14:26:06.115Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: White Chocolate
+    url: https://whitechocolate.tv/
+    description: Artist-owned Sydney post house doing VFX, motion graphics and finishing for commercials.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+    notable:
+      - Commonwealth Bank 3D OOH
+      - Socceroos
+      - Qantas 100 Years safety video
+      - Google Pixel
+    social:
+      linkedin: https://www.linkedin.com/company/white-chocolate/
+    added_at: '2026-11-06T14:26:06.116Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Method & Madness
+    url: https://www.methodnmadness.com/
+    description: Singapore CG and film studio making CG commercials, FX simulation and music video work for brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - music-video
+      - brand
+    notable:
+      - 'Greenpeace: Wasteminster'
+      - Razer Trinity
+      - Ed Sheeran (Atlantic Records)
+      - 'Samsonite: Live Undefined'
+    social:
+      instagram: https://www.instagram.com/methodnmadness_/
+      vimeo: https://vimeo.com/methodnmadness
+    added_at: '2026-11-06T14:26:06.117Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Keenly
+    url: https://www.keenly.de/
+    description: Berlin motion design studio making event visuals for LED walls, brand films and 3D product visualisation.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - motion-design
+      - experiential
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Deutscher Sparkassentag 2025 event design
+      - Zwilling 3D product films
+      - Deutscher Digital Award show design
+    social:
+      instagram: https://www.instagram.com/keenly.de/
+      linkedin: https://www.linkedin.com/company/keenly-gmbh
+    added_at: '2026-11-06T14:26:06.118Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: TwentythirdC
+    url: https://www.twentythirdc.com/
+    description: London motion design and art direction studio working on broadcast, brand and documentary graphics.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - brand
+      - episodic
+    notable:
+      - 'BBC Studios: Blue Planet III'
+      - Nurama
+    social:
+      instagram: https://www.instagram.com/23rdc/
+      vimeo: https://vimeo.com/23rdc
+    added_at: '2026-11-06T14:26:06.119Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Fort York VFX
+    url: https://www.fortyork.tv/
+    description: Toronto visual effects shop doing compositing, animation, motion design and colour for agencies and brands.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+    notable:
+      - 'Paramount+: Crime Goat'
+      - 'Rogers: TIFF 50'
+      - 'BMO: Window Washers'
+      - 'Lay''s: The Bet'
+    social:
+      instagram: http://instagram.com/fortyorkvfx
+      vimeo: https://vimeo.com/fortyorkvfx
+    added_at: '2026-11-06T14:26:06.120Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Iceberg Design
+    url: https://icebergdesign.com/
+    description: Singapore post-production studio doing VFX, CGI animation, motion graphics and grading for TVCs and long-form.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - city: Petaling Jaya
+        country: Malaysia
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      vimeo: https://vimeo.com/icebergdesign
+    added_at: '2026-11-06T14:26:06.121Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Blacksmith
+    url: https://blacksmith.tv/
+    description: New York VFX and colour studio working on commercials for directors and agencies.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - 'Apple: iPhone 18 Pro'
+      - 'SAP: Grow the Business'
+      - 'Levi''s: Backstory'
+      - Adidas Superstar
+    social:
+      instagram: https://www.instagram.com/blacksmithvfx/
+    added_at: '2026-11-06T14:26:06.122Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Trizz
+    url: https://www.trizz.tv/
+    description: Barcelona design and direction studio making CG product films for beauty, food, tech and gaming brands.
+    hq:
+      city: Barcelona
+      country: Spain
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - games
+    notable:
+      - 'Cannondale: Michelangelo'
+      - Huawei Pura 80 Pro+
+      - 'League of Legends K/DA: Villain'
+      - Shiseido The Ginza
+    social:
+      instagram: https://www.instagram.com/trizzstudio/
+      linkedin: https://www.linkedin.com/company/10987280/
+      vimeo: https://vimeo.com/trizz
+    added_at: '2026-11-06T14:26:06.123Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Now Medical Studios
+    url: https://www.nowmedicalstudios.com/
+    description: Medical animation and illustration studio making 2D and 3D mechanism, device and procedure films for pharma, medtech and healthcare clients.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - medical-science
+    social:
+      instagram: http://instagram.com/nowmedstudios
+      linkedin: https://www.linkedin.com/company/nowmedicalstudios
+      youtube: https://www.youtube.com/@nowmedicalstudios
+    added_at: '2026-11-06T14:26:06.124Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Newt Studios
+    url: https://newtstudios.com/
+    description: 3D medical animation studio visualizing therapeutics, medical devices and biotech platforms, plus VR and AR mechanism-of-action experiences.
+    hq:
+      country: United States
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - medical-science
+    founded: 2017
+    social:
+      vimeo: https://vimeo.com/newtstudios
+      linkedin: https://www.linkedin.com/company/newtstudios/
+    added_at: '2026-11-06T14:26:06.125Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Nanographics
+    url: https://nanographics.at/
+    description: Scientific visualization company making 3D animation, interactive renderings and atomic-scale models of viruses and cells for research and media.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - 3d-animation
+      - interactive
+    markets:
+      - medical-science
+    notable:
+      - SARS-CoV-2 virion atomic model with KAUST and Scripps Research
+      - ORF Welt der Seuchen animations
+    social:
+      instagram: https://www.instagram.com/nanographics.at/
+    added_at: '2026-11-06T14:26:06.126Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Bemo
+    url: https://www.bemo.studio/
+    description: Design and animation studio making 3D animation, experiential installations, title sequences and music video VFX for brands and venues.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - 3d-animation
+      - experiential
+      - title-design
+      - motion-design
+    markets:
+      - brand
+      - advertising
+      - music-video
+    notable:
+      - Sphere Atrium hologram installation
+      - Sydney Opera House Lighting of the Sails
+      - 'A Tribe Called Quest: Dis Generation VFX'
+    social:
+      instagram: https://www.instagram.com/bemo_studio/
+      linkedin: https://www.linkedin.com/company/bemo
+    added_at: '2026-11-06T14:26:06.127Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Copenhagen Visual
+    url: https://copenhagenvfx.com/
+    description: Post-production, VFX and digital animation studio doing on-set supervision, VFX and color for film, series, commercials and music videos.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    offices:
+      - city: MalmÃ¶
+        country: Sweden
+      - city: Hamburg
+        country: Germany
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    careers: https://copenhagenvfx.com/jobs/
+    notable:
+      - 'PinkPantheress and Zara Larsson: Stateside VFX'
+    social:
+      instagram: https://www.instagram.com/copenhagenvisual/
+      vimeo: https://vimeo.com/copenhagenvisual
+    added_at: '2026-11-06T14:26:06.128Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Monumental FX
+    url: https://www.monumental.art/
+    description: Post-production and VFX studio making CG and effects for music videos, fashion and luxury commercials.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - music-video
+      - advertising
+      - brand
+    notable:
+      - 'Madonna: Confessions Part II'
+      - 'Free Nationals ft A$AP Rocky: Gangsta'
+      - Audemars Piguet
+      - 'Mugler: Alien Hypersense'
+    added_at: '2026-11-06T14:26:06.129Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Frender
+    url: https://frender.com/
+    description: VFX studio doing compositing, 3D animation, cleanup and motion graphics for music videos, commercials and short films.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - music-video
+      - advertising
+    founded: 2018
+    notable:
+      - 'Sam Smith and Kim Petras: Unholy'
+      - 'Justin Timberlake: Selfish'
+      - 'Eminem: Tobey'
+    social:
+      instagram: https://www.instagram.com/the_frender/
+      linkedin: https://www.linkedin.com/company/frender
+    added_at: '2026-11-06T14:26:06.130Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: OkayStudio
+    url: https://okaystudio.co.uk/
+    description: Independent post-production company doing VFX, colour and editorial for TV, cinema and social commercials.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Berlin
+        country: Germany
+      - city: New York
+        country: United States
+      - city: Culver City
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - music-video
+    added_at: '2026-11-06T14:26:06.131Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Samplistic
+    url: https://www.samplistic.com/
+    description: Video studio making motion design, animation, title sequences and live-action brand films, with its own stage.
+    hq:
+      city: Penngrove
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+      - live-action
+    markets:
+      - brand
+      - film
+    notable:
+      - The Botanist opening title
+      - Cognizant AI Manifesto
+      - Samsung Tech Day event open
+    social:
+      instagram: http://instagram.com/samplisticmedia
+      linkedin: https://www.linkedin.com/company/95625746
+    added_at: '2026-11-06T14:26:06.132Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Orage Studio
+    url: https://orage.studio/
+    description: Post-production studio doing VFX, 3D, motion design, grading and editing for music videos and brand films.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - music-video
+      - advertising
+    founded: 2021
+    notable:
+      - 'J. Cole: The Fall Off Is Inevitable'
+      - 'Adidas: Choose One'
+      - 'Casablanca: Venus As A Boy'
+    social:
+      instagram: https://www.instagram.com/orage_studio/
+      linkedin: https://www.linkedin.com/company/orage-studio/
+      vimeo: https://vimeo.com/oragestudio
+    added_at: '2026-11-06T14:26:06.133Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sancio VFX Studios
+    url: https://sanciovfxstudios.com/
+    description: VFX studio doing compositing and CG for feature films, streaming series, high-end commercials and music videos.
+    hq:
+      city: Secunderabad
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    careers: https://sanciovfxstudios.com/careers.html
+    notable:
+      - Mugler
+      - 'Orelsan: Ensemble'
+      - MÃ©gantic
+      - The Longest Goodbye
+    social:
+      youtube: https://www.youtube.com/@sanciovfxstudios9200
+    added_at: '2026-11-06T14:26:06.134Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: PIC Agency
+    url: https://picagency.com/
+    description: Entertainment motion design boutique making main titles, logos and editorial for feature films and TV series.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+    founded: 2005
+    notable:
+      - Becoming Led Zeppelin
+      - No One Will Save You
+      - Crisis on Infinite Earths
+      - Man on a Ledge
+    social:
+      instagram: https://www.instagram.com/pic_agency/
+    added_at: '2026-11-06T14:26:06.135Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: ISO
+    url: http://www.isodesign.co.uk/
+    description: Creative technology studio designing immersive galleries, interactive exhibits and digital interpretation for museums and cultural venues.
+    hq:
+      city: Glasgow
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - interactive
+      - title-design
+    markets:
+      - brand
+    social:
+      vimeo: https://vimeo.com/isodesign
+      instagram: https://www.instagram.com/_iso_design/
+      linkedin: https://www.linkedin.com/company/iso-2
+    added_at: '2026-11-06T14:26:06.136Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: biolution
+    url: https://biolution.net/
+    description: Life sciences visualization studio making 3D animations, 3D images and media design for research groups, grant proposals and biotech.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - 3d-animation
+    markets:
+      - medical-science
+    careers: https://biolution.net/join-our-team/
+    social:
+      instagram: https://www.instagram.com/biolution_visuals/
+      linkedin: https://www.linkedin.com/company/biolution
+      youtube: https://www.youtube.com/c/biolution
+    added_at: '2026-11-06T14:26:06.137Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kaktus Film
+    url: https://www.kaktusfilm.com/
+    description: Independent studio making character animation, visual effects and motion design for music videos, broadcast identities and feature films.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - motion-design
+    markets:
+      - music-video
+      - film
+      - brand
+    notable:
+      - Crazy Frog music video
+      - Aniara VFX
+      - Sky One broadcast identity
+      - This World Is Not My Own
+    added_at: '2026-11-06T14:26:06.138Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Deep Voodoo
+    url: https://www.deepvoodoo.com/
+    description: AI visual effects studio founded by Trey Parker and Matt Stone, making deepfake face replacement for music videos, series and films.
+    hq:
+      country: United States
+    disciplines:
+      - ai-production
+      - vfx
+    markets:
+      - music-video
+      - episodic
+      - film
+    founded: 2020
+    notable:
+      - 'Kendrick Lamar: The Heart Part 5'
+      - Sassy Justice
+      - South Park 2025 live-action Trump PSA
+    added_at: '2026-11-06T14:26:06.139Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: VFXaddART
+    url: https://vfxaddart.com/
+    description: VFX, AI and 3D animation studio making CGI product films, FOOH, medical 3D video and music video effects for brands.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+      - 3d-animation
+      - ai-production
+      - product-viz
+    markets:
+      - advertising
+      - music-video
+      - medical-science
+    notable:
+      - Xiaomi
+      - Avegant
+    social:
+      instagram: https://www.instagram.com/vfxaddart
+      linkedin: https://www.linkedin.com/company/36128632
+    added_at: '2026-11-06T14:26:06.140Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Alchemy
+    url: https://alchemy.studio/
+    description: London motion design studio making branded animation and design-led content for brands such as Nike and the NFL.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Nike
+      - NFL London
+      - 'Chris Hemsworth: A Road to Remember'
+    social:
+      instagram: https://www.instagram.com/wearealchemytv
+      linkedin: https://www.linkedin.com/company/alchemy-uk
+      vimeo: https://vimeo.com/wearealchemy
+    added_at: '2026-11-06T14:26:06.141Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Alps Studios
+    url: https://www.alps-studios.com/
+    description: Turin studio providing visual effects, animation, R&D and training for film and entertainment productions.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/alps_studios
+      linkedin: https://www.linkedin.com/company/alps-vfx
+      vimeo: https://vimeo.com/alpsvfx
+    added_at: '2026-11-06T14:26:06.142Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: bEpic
+    url: https://bepic.studio/
+    description: Berlin VFX and CG studio producing commercials and music videos for brands such as Coors Light and Citroën.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - music-video
+    notable:
+      - 'Coors Light: Chill Train'
+      - 'Citroën: The Hunt for Hybernation'
+      - 'DEKA: Dragon'
+    social:
+      instagram: https://www.instagram.com/bepic.studio
+    added_at: '2026-11-06T14:26:06.143Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Black Amber Digital
+    url: https://blackamber.de/
+    description: Offenbach am Main studio making real-time rendered cinematics, series and digital humans in Unreal Engine 5.
+    hq:
+      city: Offenbach am Main
+      country: Germany
+    disciplines:
+      - cinematics
+      - cg
+    markets:
+      - episodic
+      - games
+    notable:
+      - 'Gundam: Requiem for Vengeance'
+    social:
+      youtube: https://www.youtube.com/channel/UCuUgwszJ1q1Mcs9uw8G3XoQ
+    added_at: '2026-11-06T14:26:06.144Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Black Point Studio
+    url: https://blackpoint.art/
+    description: Yerevan studio creating VFX sequences for feature film and TV, plus game cinematics and CG films.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - vfx
+      - cinematics
+      - cg
+    markets:
+      - film
+      - episodic
+      - games
+    careers: https://blackpoint.art/careers
+    social:
+      linkedin: https://www.linkedin.com/company/blackpointt
+    added_at: '2026-11-06T14:26:06.145Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Bottleship VFX
+    url: https://www.bottleshipvfx.com/
+    description: Sofia VFX studio creating FX simulations, destruction and environments for feature films, episodic and commercials.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://bottleship.bamboohr.com/careers
+    notable:
+      - Knights of the Zodiac
+      - Marcel the Shell with Shoes On
+      - The Wandering Earth
+      - Space Sweepers
+    social:
+      instagram: https://www.instagram.com/bottleshipvfx
+      linkedin: https://www.linkedin.com/company/bottleship-vfx
+      vimeo: https://vimeo.com/bottleshipvfx
+    added_at: '2026-11-06T14:26:06.146Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Damm it!
+    url: https://dammit.tv/
+    description: Zagreb boutique animation studio specialising in stylized 2D animation and NPR rendering.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    social:
+      instagram: https://www.instagram.com/dammit.tv
+      linkedin: https://www.linkedin.com/company/damm-it-
+      x: https://x.com/Dammittv
+    added_at: '2026-11-06T14:26:06.147Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Dupe VFX
+    url: https://dupevfx.com/
+    description: London VFX studio and certified B Corp delivering visual effects for film and TV.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    careers: https://dupevfx.com/careers/
+    social:
+      instagram: https://www.instagram.com/dupevfx
+      linkedin: https://www.linkedin.com/company/dupevfx
+      vimeo: https://vimeo.com/dupevfx
+    added_at: '2026-11-06T14:26:06.148Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: east side effects
+    url: https://ese.nyc/
+    description: New York VFX boutique working on feature films and TV series.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    careers: https://ese.nyc/jobs/
+    social:
+      instagram: https://www.instagram.com/eastsideeffects
+      x: https://twitter.com/eastsideeffects
+    added_at: '2026-11-06T14:26:06.149Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: JFX
+    url: https://jfx.world/
+    description: London boutique VFX studio for film and high-end TV, formed from the former Jellyfish Pictures VFX division.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/jfx.world
+      linkedin: https://www.linkedin.com/company/jellyfishfx
+    added_at: '2026-11-06T14:26:06.150Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 3SISTERS
+    url: https://www.3sis3.com/
+    description: Tel Aviv studio offering VFX, digital humans, 3D scanning, motion and 4D capture and virtual production.
+    hq:
+      city: Tel Aviv
+      country: Israel
+    disciplines:
+      - vfx
+      - mocap
+      - scanning
+      - virtual-production
+      - xr
+    social:
+      instagram: https://instagram.com/3sisters3000
+      linkedin: https://www.linkedin.com/company/3sisters
+    added_at: '2026-11-06T14:26:06.151Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: LMI
+    url: https://lmi.london/
+    description: London CG, VFX and production technology studio making visuals for film, advertising and immersive entertainment.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-06T14:26:06.152Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Liminal
+    url: https://www.liminalstage.com/
+    description: UK stage, screen and XR company producing live performance work with real-time virtual production and immersive tech.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - xr
+      - experiential
+      - virtual-production
+    social:
+      instagram: https://www.instagram.com/liminalstage
+      x: https://twitter.com/Liminal_Stage
+    added_at: '2026-11-06T14:26:06.153Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Lux Aeterna
+    url: https://www.lavfx.com/
+    description: Bristol VFX and creative studio working on film, high-end TV and immersive experiences.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - RENO
+      - A Very Special Delivery (BBC)
+    social:
+      instagram: https://www.instagram.com/luxaeternavfx
+    added_at: '2026-11-06T14:26:06.154Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Miind Map Studios
+    url: https://www.miindmapstudios.com/
+    description: VFX studio in Hyderabad and Los Angeles doing FX simulation, environments and compositing for features and episodic TV.
+    hq:
+      city: Hyderabad
+      country: India
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Kalki 2898 AD
+    social:
+      linkedin: https://www.linkedin.com/company/miind-map-studios
+    added_at: '2026-11-06T14:26:06.155Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Milk Visual Effects
+    url: https://www.milk-vfx.com/
+    description: London VFX studio for high-end episodic and feature film, part of Phantom Media Group.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Bordeaux
+        country: France
+      - city: Barcelona
+        country: Spain
+      - city: Dublin
+        country: Ireland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2013
+    careers: https://www.milk-vfx.com/careers/
+    notable:
+      - Heads of State
+    social:
+      instagram: https://www.instagram.com/milkvfx
+      linkedin: https://www.linkedin.com/company/milk-visual-effects
+      x: https://twitter.com/milkvfx
+    added_at: '2026-11-06T14:26:06.156Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Mosaic Studios
+    url: https://mosaicstudios.com/
+    description: Artist-owned VFX studio in New York and London working on film, TV and commercials.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - American Horror Story
+      - Caught Stealing
+      - Love Story
+    added_at: '2026-11-06T14:26:06.157Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: NO WORRIES JUST SHAPES
+    url: https://nwjs.studio/
+    description: Vienna 3D and motion design studio for brands, cultural institutions and agencies.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/noworriesjustshapes
+      linkedin: https://www.linkedin.com/company/noworriesjustshapes
+    added_at: '2026-11-06T14:26:06.158Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: One of Us
+    url: https://www.oneofusvfx.com/
+    description: London VFX studio doing design-led visual effects for feature films, episodic and commercials.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Paris
+        country: France
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2004
+    notable:
+      - Hamnet
+      - Troll 2
+      - The Witcher
+    social:
+      instagram: https://www.instagram.com/oneofusvfx
+      linkedin: https://www.linkedin.com/company/oneofusvfx
+      youtube: https://www.youtube.com/@oneofusvfx
+      x: https://x.com/oneofusvfx
+    added_at: '2026-11-06T14:26:06.159Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: PixStone Images
+    url: https://www.pixstone.com/
+    description: Chennai VFX outsourcing studio doing roto, paint, matchmove and compositing for film, TV and commercials.
+    hq:
+      city: Chennai
+      country: India
+    offices:
+      - city: Hyderabad
+        country: India
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://www.pixstone.com/careers/
+    social:
+      instagram: https://www.instagram.com/pixstone_images
+      linkedin: https://www.linkedin.com/company/pixstone
+    added_at: '2026-11-06T14:26:06.160Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

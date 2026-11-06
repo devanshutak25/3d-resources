@@ -22,3 +22,946 @@ studios:
     added_at: '2026-11-05T21:33:58.712Z'
     url_status: ok
     url_last_verified: '2026-11-05'
+  - name: PlayEveryWare
+    url: https://www.playeveryware.com/
+    description: Engineering-focused co-development studio handling ports, remasters, licensed IP and full game development.
+    hq:
+      city: Seattle
+      country: United States
+    offices:
+      - city: Yokohama
+        country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    careers: https://www.playeveryware.com/careers
+    social:
+      linkedin: https://www.linkedin.com/company/playeveryware
+    added_at: '2026-11-06T14:26:05.914Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Paragon Interactive
+    url: https://paragoninteractive.io/
+    description: Porting, co-development and full-cycle game developer for PC and console with five studios.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Sydney
+        country: Australia
+      - city: Munich
+        country: Germany
+      - city: Vancouver
+        country: Canada
+      - city: London
+        country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    careers: https://paragoninteractive.io/careers.html
+    added_at: '2026-11-06T14:26:05.915Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tanglewood Games
+    url: https://tanglewoodgames.com/
+    description: Unreal Engine specialist studio providing engineering support, platform porting and technology integration.
+    hq:
+      city: Hartlepool
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    social:
+      linkedin: https://www.linkedin.com/company/tanglewood-games
+    added_at: '2026-11-06T14:26:05.916Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: GS Studio
+    url: https://gs-studio.eu/
+    description: Co-development studio providing engineering, art, live-ops and porting for multiplayer and single-player UE5 games.
+    hq:
+      country: Cyprus
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - ATONE
+    added_at: '2026-11-06T14:26:05.917Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Multiplayer Group
+    url: https://themultiplayergroup.com/
+    description: Co-development and full-development studio providing engineering, art, design, backend and QA for multiplayer games.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Keywords Studios
+    founded: 2018
+    notable:
+      - Sea of Thieves
+      - Starfield
+      - The Elder Scrolls Online
+      - Firewall Ultra
+    social:
+      instagram: https://www.instagram.com/multiplayergroup/
+      linkedin: https://www.linkedin.com/company/the-multiplayer-group/
+    added_at: '2026-11-06T14:26:05.918Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Huey Games
+    url: https://www.hueygames.com/
+    description: Porting and co-development studio bringing PC games to consoles for developers and publishers.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    notable:
+      - Sociable Soccer 24/25 console ports
+    added_at: '2026-11-06T14:26:05.919Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Rhino Rock Studios
+    url: https://www.rhinorockstudios.com/
+    description: Senior-led studio making original VR and flatscreen games and providing co-development staff to other studios.
+    hq:
+      country: United Kingdom
+    segments:
+      - co-dev
+      - indie
+      - vr
+    platforms:
+      - vr
+      - pc
+    notable:
+      - OUTBLAST
+    social:
+      instagram: https://www.instagram.com/rhinorockstudios/
+      linkedin: https://www.linkedin.com/company/rhino-rock-studios/
+    added_at: '2026-11-06T14:26:05.920Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Nequinox Studios
+    url: https://nequinox-studios.com/
+    description: Co-development studio handling ports, prototyping and end-to-end game development for indie, AA and AAA partners.
+    hq:
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/NequinoxStudios/
+      linkedin: https://www.linkedin.com/company/nequinox-studios
+    added_at: '2026-11-06T14:26:05.921Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pontoco
+    url: https://pontoco.com/
+    description: Game studio split between Seattle and Brooklyn making approachable VR and PC games such as The Last Clockwinder.
+    hq:
+      country: United States
+    offices:
+      - city: Seattle
+        country: United States
+      - city: Brooklyn
+        country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+      - pc
+    careers: https://pontoco.com/jobs
+    notable:
+      - The Last Clockwinder
+      - Gathering Sky
+    social:
+      youtube: https://www.youtube.com/channel/UCwFdu0klOogAeimzwrsg0-w
+      x: https://twitter.com/hellopontoco
+    added_at: '2026-11-06T14:26:05.922Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Northway Games
+    url: https://northwaygames.com/
+    description: Two-person indie studio making narrative and strategy games, including I Was a Teenage Exocolonist and the Rebuild series.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2011
+    notable:
+      - I Was a Teenage Exocolonist
+      - 'Rebuild 3: Gangs of Deadsville'
+      - Fantastic Contraption
+      - Incredipede
+    added_at: '2026-11-06T14:26:05.923Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tuxedo Labs
+    url: https://tuxedolabs.com/
+    description: Small tech-driven studio building its own voxel engines, known for the destruction sandbox Teardown.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Teardown
+    added_at: '2026-11-06T14:26:05.924Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Complex Games
+    url: https://www.complexgames.com/
+    description: 'Tactical RPG developer owned by Frontier Developments, maker of Warhammer 40,000: Chaos Gate - Daemonhunters.'
+    hq:
+      city: Winnipeg
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Frontier Developments
+    careers: https://www.frontier.co.uk/careers/complex
+    notable:
+      - 'Warhammer 40,000: Chaos Gate - Daemonhunters'
+    added_at: '2026-11-06T14:26:05.925Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Chasing Carrots
+    url: https://www.chasing-carrots.com/
+    description: Self-funded indie studio making action and management games such as Halls of Torment and Good Company.
+    hq:
+      city: Stuttgart
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Halls of Torment
+      - Good Company
+      - Pressure Overdrive
+      - Cosmonautica
+    social:
+      instagram: https://www.instagram.com/chasing_carrots/
+      youtube: https://www.youtube.com/channel/UCFEVs2fDPWvrgRx2fH-Rglw
+      x: https://twitter.com/chasing_carrots
+    added_at: '2026-11-06T14:26:05.926Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Wrong Organ
+    url: https://www.wrongorgan.com/
+    description: Independent horror game studio, developer of Mouthwashing and the co-op tank game Carcass Clad.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Mouthwashing
+      - Carcass Clad
+    social:
+      instagram: https://www.instagram.com/wrong_organ/
+      x: https://twitter.com/Wrong_Organ
+    added_at: '2026-11-06T14:26:05.927Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Coal Supper
+    url: https://coalsupper.com/
+    description: Yorkshire comedy game studio behind Thank Goodness You're Here! and The Good Time Garden.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Thank Goodness You're Here!
+      - The Good Time Garden
+    added_at: '2026-11-06T14:26:05.928Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: MoonHood
+    url: https://www.moonhood.se/
+    description: Studio founded by Lost in Random and Ghost Giant veterans, building games from real clay and cardboard, such as The Midnight Walk.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Midnight Walk
+    social:
+      instagram: https://www.instagram.com/moonhoodstudios/
+      youtube: https://www.youtube.com/channel/UCBQYYWI8Kcv2X_oFMZE1tAQ
+      x: https://twitter.com/MoonHoodStudios
+    added_at: '2026-11-06T14:26:05.929Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Chyr
+    url: https://studiochyr.com/
+    description: Independent studio making puzzle games built on impossible geometry, including Manifold Garden and the VR game Hotel Infinity.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Manifold Garden
+      - Hotel Infinity
+      - Strata
+    social:
+      youtube: https://www.youtube.com/channel/UCPNVUqNoZTB2FpLO7F0dtew
+    added_at: '2026-11-06T14:26:05.930Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Soft Rains
+    url: https://softrains.games/
+    description: Remote game studio of indie and AAA veterans, developer of the sci-fi immersive sim Ambrosia Sky.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Ambrosia Sky
+    social:
+      instagram: https://www.instagram.com/softrainsgames/
+      linkedin: https://www.linkedin.com/company/softrainsgames/
+      x: https://twitter.com/softrainsgames
+    added_at: '2026-11-06T14:26:05.931Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Dlala Studios
+    url: https://www.dlalastudios.com/
+    description: Independent studio in Essex, England, making family and licensed games such as Disney Illusion Island and Battletoads (2020).
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    notable:
+      - Disney Illusion Island
+      - Battletoads (2020)
+    added_at: '2026-11-06T14:26:05.932Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Short Sleeve Studio
+    url: https://shortsleevestudio.com/
+    description: Self-publishing indie studio, developer of the point-and-click adventure Voodoo Detective.
+    hq:
+      city: Marietta
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Voodoo Detective
+    added_at: '2026-11-06T14:26:05.933Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Bippinbits
+    url: https://bippinbits.com/
+    description: Independent game developer with roots in game jams, maker of the roguelike mining game Dome Keeper.
+    hq:
+      city: Radeberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dome Keeper
+    added_at: '2026-11-06T14:26:05.934Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Poti Poti Studio
+    url: https://www.potipoti.studio/
+    description: Indie studio making cozy puzzle games, developer of Is This Seat Taken?
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Is This Seat Taken?
+    social:
+      instagram: https://instagram.com/potipoti.studio
+      x: https://x.com/potipotistudio
+    added_at: '2026-11-06T14:26:05.935Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Moral Anxiety Studio
+    url: https://moralanxietystudio.com/
+    description: Small indie studio behind Roadwarden, a text-heavy fantasy RPG.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Roadwarden
+    social:
+      youtube: https://www.youtube.com/channel/UCqORtPfGLasjXPUJwch5IDA
+      x: https://twitter.com/MoralAnxiety
+    added_at: '2026-11-06T14:26:05.936Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Flat Head Studio
+    url: https://flathead-studio.com/
+    description: Small Austrian VR game studio, developer of the co-op puzzle shooter We Are One.
+    hq:
+      country: Austria
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - We Are One
+    social:
+      youtube: https://www.youtube.com/channel/UC_OCeoY0kqrnxyapyB_NRZg
+    added_at: '2026-11-06T14:26:05.937Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Phoenix Labs
+    url: https://phxlabs.ca/
+    description: Game developer with studios in Vancouver and Montreal, maker of the farming sim Fae Farm and the co-op action game Dauntless.
+    hq:
+      city: Vancouver
+      country: Canada
+    offices:
+      - city: Montreal
+        country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    careers: https://phxlabs.ca/careers
+    notable:
+      - Fae Farm
+      - Dauntless
+    social:
+      instagram: https://www.instagram.com/phxlabs/
+      linkedin: https://www.linkedin.com/company/phoenix-labs/
+      x: https://twitter.com/phoenixlabs
+    added_at: '2026-11-06T14:26:05.938Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Three Bees
+    url: https://perfect-tides.com/
+    description: Solo studio of cartoonist Meredith Gran, maker of the point-and-click coming-of-age adventure Perfect Tides.
+    hq:
+      city: Philadelphia
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Perfect Tides
+      - 'Perfect Tides: Station to Station'
+    added_at: '2026-11-06T14:26:05.939Z'
+  - name: Chimera Entertainment
+    url: https://chimera-entertainment.com/
+    description: Strategy and licensed-game developer of about 80 staff, part of remote control productions, maker of Songs of Silence.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: remote control productions
+    founded: 2006
+    notable:
+      - Songs of Silence
+      - 'Shadow and Bone: Destinies'
+    social:
+      linkedin: https://www.linkedin.com/company/chimera-entertainment/
+      youtube: https://www.youtube.com/c/ChimeraEntertainmentYT
+    added_at: '2026-11-06T14:26:05.940Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Hyper Luminal Games
+    url: https://www.hyperluminalgames.com/
+    description: Studio of about 67 developers offering co-development, porting and live ops, and making its own games such as Pine Hearts.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Pine Hearts
+    social:
+      instagram: https://www.instagram.com/hyperluminaluk/
+      linkedin: https://www.linkedin.com/company/hyperluminalgames/
+      x: https://twitter.com/hyperluminaluk
+    added_at: '2026-11-06T14:26:05.941Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Yaldi Games
+    url: https://www.yaldigames.com/
+    description: Studio making games built on real-world knowledge, starting with the cozy foraging adventure Out and About.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Out and About
+    social:
+      linkedin: https://www.linkedin.com/company/yaldigames
+      x: https://twitter.com/yaldigames
+    added_at: '2026-11-06T14:26:05.942Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Games by Stitch
+    url: https://www.gamesbystitch.com/
+    description: Games label of Stitch Media making VR and narrative games such as Elsewhere Electric, Broken Spectre and Flow Weaver.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    parent: Stitch Media
+    notable:
+      - Elsewhere Electric
+      - Broken Spectre
+      - Flow Weaver
+      - Terrorarium
+    social:
+      instagram: https://www.instagram.com/gamesbystitch/
+      youtube: https://www.youtube.com/@gamesbystitch
+    added_at: '2026-11-06T14:26:05.943Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: imaginarylab
+    url: https://imaginarylab.it/
+    description: Small Italian studio making 3D point-and-click adventures, including Willy Morgan and Whirlight - No Time To Trip.
+    hq:
+      city: San Giovanni Ilarione
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Whirlight - No Time To Trip
+      - Willy Morgan and the Curse of Bone Town
+    added_at: '2026-11-06T14:26:05.944Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: GrosChevaux
+    url: https://groschevaux.com/
+    description: Indie studio split between Paris and London, maker of the party game Unspottable and the deckbuilder Cardburners.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: London
+        country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Unspottable
+      - Cardburners
+    social:
+      instagram: https://www.instagram.com/GrosChevaux
+      x: https://twitter.com/GrosChevaux
+    added_at: '2026-11-06T14:26:05.945Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Blue Backpack
+    url: https://bluebackpack.com/
+    description: Independent developer and publisher of gentle adventure games, spun off from btf in 2025, maker of The Berlin Apartment.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Berlin Apartment
+    social:
+      instagram: https://www.instagram.com/_blue_backpack
+      x: https://x.com/_blue_backpack
+    added_at: '2026-11-06T14:26:05.946Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Indoor Astronaut
+    url: https://indoorastronaut.ch/
+    description: 'ETH Zurich spin-off studio making the co-op train-building games Unrailed! and Unrailed 2: Back on Track.'
+    hq:
+      city: Zürich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Unrailed!
+      - 'Unrailed 2: Back on Track'
+    social:
+      linkedin: https://linkedin.com/company/indoorastronaut
+      x: https://twitter.com/IndoorAstronaut
+    added_at: '2026-11-06T14:26:05.947Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Playables
+    url: https://playables.net/
+    description: Production company of Mario von Rickenbach and Michael Frei making playful games such as KIDS, Plug & Play and Time Flies.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Time Flies
+      - KIDS
+      - Plug & Play
+      - Rakete
+    social:
+      instagram: https://www.instagram.com/playables_/
+      youtube: https://youtube.com/@playables
+    added_at: '2026-11-06T14:26:05.948Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Picomy
+    url: https://www.picomy.com/
+    description: Studio founded by four friends making family games in-house and with partners, including Bandit Trap, Monomals and Heroki.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Bandit Trap
+      - Monomals
+      - Heroki
+    social:
+      instagram: https://www.instagram.com/picomygames/
+      youtube: https://www.youtube.com/picomygames
+      x: https://www.twitter.com/picomy
+    added_at: '2026-11-06T14:26:05.949Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Starbrew Games
+    url: https://starbrewgames.com/
+    description: Small indie studio making cozy games, developer of the space exploration game Duck Side of the Moon.
+    hq:
+      city: Breda
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://starbrewgames.com/jobs/
+    notable:
+      - Duck Side of the Moon
+    social:
+      instagram: https://www.instagram.com/starbrewgames
+      linkedin: https://www.linkedin.com/company/starbrew-games/
+    added_at: '2026-11-06T14:26:05.950Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sunset Visitor
+    url: https://sunsetvisitor.studio/
+    description: Small narrative game studio, creator of 1000xRESIST and the sci-fi adventure Prove You're Human.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 1000xRESIST
+      - Prove You're Human
+    social:
+      instagram: https://instagram.com/sunsetvisitorstudios
+      youtube: https://youtube.com/@sunsetvisitor
+      x: https://x.com/sunset_visitor
+    added_at: '2026-11-06T14:26:05.951Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sunblink
+    url: https://www.sunblink.com/
+    description: Game studio behind the cozy life sim Hello Kitty Island Adventure and the strategy game HEROish.
+    hq:
+      city: Boulder
+      country: United States
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Hello Kitty Island Adventure
+      - HEROish
+    added_at: '2026-11-06T14:26:05.952Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Outerloop Games
+    url: https://outerloopgames.com/
+    description: Minority-led, fully distributed indie studio making games about underrepresented cultures, such as Thirsty Suitors and Falcon Age.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Thirsty Suitors
+      - Falcon Age
+      - Dosa Divas
+    added_at: '2026-11-06T14:26:05.953Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Plane Toast
+    url: https://planetoast.com/
+    description: Independent French studio founded by Emi and Adrien, developer of the exploration game Caravan SandWitch.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Caravan SandWitch
+    added_at: '2026-11-06T14:26:05.954Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Jump Over the Age
+    url: https://jumpovertheage.com/
+    description: One-person studio of Gareth Damian Martin making narrative sci-fi games, including In Other Waters and Citizen Sleeper.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Citizen Sleeper
+      - 'Citizen Sleeper 2: Starward Vector'
+      - In Other Waters
+    added_at: '2026-11-06T14:26:05.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Crinkle Cut Games
+    url: https://crinklecutgames.com/
+    description: Danish studio founded by three game graduates in 2021, maker of the supermarket management game Discounty.
+    hq:
+      country: Denmark
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    founded: 2021
+    notable:
+      - Discounty
+    social:
+      instagram: https://www.instagram.com/discountygame/
+      x: https://x.com/DiscountyGame
+    added_at: '2026-11-06T14:26:05.956Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Odd Dreams Digital
+    url: https://odddreamsdigital.com/
+    description: Small independent studio of international veterans, developer of the evolution roguelite Everything is Crab.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Everything is Crab: The Animal Evolution Roguelite'
+    added_at: '2026-11-06T14:26:05.957Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Tolima
+    url: https://studiotolima.com/
+    description: Independent studio making short, accessible emotional games, developer of the dog adventure Koira.
+    hq:
+      city: Brussels
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2022
+    notable:
+      - Koira
+    social:
+      instagram: https://www.instagram.com/studiotolima/
+      x: https://twitter.com/StudioTolima
+    added_at: '2026-11-06T14:26:05.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Oisoi Studio
+    url: https://www.oisoi.studio/
+    description: XR studio making creative VR apps and games, including Painting VR and the multiplayer VR game Wait What's That.
+    hq:
+      city: Ghent
+      country: Belgium
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Painting VR
+      - Wait What's That
+    social:
+      instagram: https://instagram.com/itspaintingvr
+      linkedin: https://www.linkedin.com/company/oisoi-studio
+      youtube: https://www.youtube.com/channel/UC0ltXQyDw7it1nEZ8C0vQKg
+    added_at: '2026-11-06T14:26:05.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Flawberry Studio
+    url: https://www.flawberrystudio.com/
+    description: Five-person indie studio formed by university friends, maker of the puzzle game Projected Dreams.
+    hq:
+      city: Zürich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Projected Dreams
+    added_at: '2026-11-06T14:26:05.960Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Old Cake Factory
+    url: https://oldcakefactory.games/
+    description: New Swiss studio making small loop-focused games, starting with the cooking roguelite Goblin Sushi.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Goblin Sushi
+    added_at: '2026-11-06T14:26:05.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Diditopia Games
+    url: https://www.plankbuilders.com/
+    description: Indie game design studio, developer of the physics building game Plank Builders.
+    hq:
+      city: Basel
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Plank Builders
+    added_at: '2026-11-06T14:26:05.962Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

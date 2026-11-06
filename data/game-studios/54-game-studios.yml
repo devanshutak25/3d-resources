@@ -1,0 +1,680 @@
+studios:
+  - name: Broadside Games
+    url: https://www.broadside.games/
+    description: Indie studio in Ipswich, Queensland making absurd comedy games such as Bears In Space.
+    hq:
+      city: Ipswich
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Bears In Space
+    added_at: '2026-11-06T14:26:06.013Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Funny Fintan Softworks
+    url: https://www.girlypop.net/
+    description: Two-developer studio in Perth behind Don't Stop, Girlypop!, published by Kwalee.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Don't Stop, Girlypop!
+      - Incolatus
+    added_at: '2026-11-06T14:26:06.014Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Larrikin Interactive
+    url: https://dietsanddeities.com/
+    description: Indie studio in the Northern Territory behind Diets & Deities, a game drawing on Australian and Indonesian settings.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Diets & Deities
+    added_at: '2026-11-06T14:26:06.015Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Owl Machine
+    url: https://keyfairy.com.au/
+    description: Two-person Australian studio behind Key Fairy, a hand-drawn pacifist bullet-hell for PC.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Key Fairy
+    added_at: '2026-11-06T14:26:06.016Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sandy Floor
+    url: https://www.sandyfloor.com/
+    description: Seongnam studio making mobile casual and PC indie games, such as Great Toy Showdown and PengPong.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Great Toy Showdown
+      - PengPong
+      - Dark Bouncer
+      - 'Mawang: Dark Lord Defense'
+    added_at: '2026-11-06T14:26:06.017Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Sad Socket
+    url: https://www.sadsocket.com/
+    description: Indie studio from São Paulo behind 9 Kings, a roguelike kingdom strategy game for PC and Xbox.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 9 Kings
+      - Ending Tau
+    social:
+      x: http://twitter.com/sadsocketgames
+      youtube: https://www.youtube.com/@sadsocketgames
+    added_at: '2026-11-06T14:26:06.018Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Poly Poly Games
+    url: https://polypolygames.com/
+    description: Taiwanese indie studio making puzzle and building games such as Tails of Trainspot, Qube Qross and VR Slugger.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Tails of Trainspot
+      - Qube Qross
+      - VR Slugger
+      - Back of Beyond
+    social:
+      x: https://x.com/PolyPolyGames
+    added_at: '2026-11-06T14:26:06.019Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: IKINAGAMES
+    url: https://www.ikinagames.com/
+    description: Korean game studio active since 2011, making PC games such as Telebbit and All of Us Are Dead.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2011
+    notable:
+      - Telebbit
+      - All of Us Are Dead
+      - 'The Starbites: Taste of Desert'
+      - 'Galaxy Tales: Story of Rapunzel'
+    social:
+      x: https://twitter.com/IKINAGAMES
+      youtube: https://www.youtube.com/channel/UCdlNQbJH5UHhnw1I_ljVhIw
+    added_at: '2026-11-06T14:26:06.020Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: SUPERTHUMb
+    url: https://www.superthumb.net/
+    description: South Korean studio making mobile and PC games such as Animal Hot Springs, Animal Cinema and Death at Fleming Manor.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Animal Hot Springs
+      - Animal Cinema
+      - 'Pucca, Let''s Cook!: World Tour'
+      - Death at Fleming Manor
+    social:
+      instagram: https://www.instagram.com/animal_spa_official/
+      youtube: https://www.youtube.com/@superthumb7513
+    added_at: '2026-11-06T14:26:06.021Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pocket Trap
+    url: https://pocket-trap.com/
+    description: 'São Paulo indie studio behind Ninjin: Clash of Carrots, Dodgeball Academia and Pipistrello and the Cursed Yoyo.'
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - Pipistrello and the Cursed Yoyo
+      - Dodgeball Academia
+      - 'Ninjin: Clash of Carrots'
+    social:
+      x: https://twitter.com/PocketTrap
+    added_at: '2026-11-06T14:26:06.022Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tlön Industries
+    url: https://tlon.vg/
+    description: Buenos Aires studio behind the Mars terraforming sim Per Aspera and the game Kentum.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - Per Aspera
+      - Kentum
+      - Face It
+    social:
+      x: https://twitter.com/tlonindustries
+      linkedin: https://www.linkedin.com/company/tl%C3%B6n-industries/
+    added_at: '2026-11-06T14:26:06.023Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Indiesruption
+    url: https://www.indiesruption.com/
+    description: Buenos Aires studio making pixel-art horror adventures such as Nine Witches and the Vlad Circus series.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - 'Vlad Circus: Curse of Asmodeus'
+      - 'Vlad Circus: Descend Into Madness'
+      - 'Nine Witches: Family Disruption'
+    social:
+      instagram: https://www.instagram.com/indiesruption/
+      x: http://www.twitter.com/indiesruption
+    added_at: '2026-11-06T14:26:06.024Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: DeadlyCrow Games
+    url: https://deadlycrowgames.com/
+    description: Santiago studio making horror and action games for PC, such as The Midnight Crimes and Mutter.
+    hq:
+      city: Santiago
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - The Midnight Crimes
+      - Mutter
+      - Lucerna
+      - Escape the Ayuwoki
+    social:
+      instagram: https://www.instagram.com/deadlycrowgames/
+      linkedin: https://www.linkedin.com/company/deadlycrowgames/
+      x: https://twitter.com/DeadlyCrowGames
+    added_at: '2026-11-06T14:26:06.025Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: StudioBando
+    url: https://studiobando.com/
+    description: 'Bogotá indie studio behind SOPA: Tale of the Stolen Potato, an adventure game for PC.'
+    hq:
+      city: Bogotá
+      country: Colombia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - 'SOPA: Tale of the Stolen Potato'
+    social:
+      linkedin: https://www.linkedin.com/company/StudioBando
+      x: https://www.twitter.com/StudioBando
+      instagram: https://instagram.com/StudioBando
+    added_at: '2026-11-06T14:26:06.026Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cadabra Games
+    url: https://www.cadabragames.com/
+    description: Brazilian studio in Campo Grande behind Adore, a creature-collecting action game, and Shepherd Knight.
+    hq:
+      city: Campo Grande
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2019
+    notable:
+      - Adore
+      - Shepherd Knight
+    social:
+      instagram: https://www.instagram.com/cadabragames
+      linkedin: https://www.linkedin.com/company/cadabragames/
+      x: https://www.twitter.com/cadabragames
+      youtube: https://www.youtube.com/channel/UCisapdVIgzb7elFe6ndIr8g
+    added_at: '2026-11-06T14:26:06.027Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Orbit Studio
+    url: https://orbitstudio.com.br/
+    description: São Paulo game studio behind Retro Machina and Ebenezer and the Invisible World, also offering development services.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - Retro Machina
+      - Ebenezer and the Invisible World
+      - Haunted House
+    social:
+      x: https://x.com/orbitgamestudio
+    added_at: '2026-11-06T14:26:06.028Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Mito Games
+    url: https://www.mitogames.com.br/
+    description: 'Studio in Vitória making games and gamification projects, including The Elements and Tupi: The Legend of Arariboia.'
+    hq:
+      city: Vitória
+      country: Brazil
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - The Elements
+      - 'Tupi: The Legend of Arariboia'
+    social:
+      instagram: https://www.instagram.com/mitogames/
+      linkedin: https://www.linkedin.com/company/mito-games-ltda
+      x: https://x.com/mitogamesbrasil
+    added_at: '2026-11-06T14:26:06.029Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Headless
+    url: https://www.headlessvideogames.com/
+    description: Latin American indie studio behind the PC games Underboard and ULTRA LMAD.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Underboard
+      - ULTRA LMAD
+      - OMEN
+    social:
+      x: https://x.com/Headless_Games
+      instagram: https://www.instagram.com/headless.games/
+    added_at: '2026-11-06T14:26:06.030Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 7th Beat Games
+    url: https://7thbe.at/
+    description: Rhythm game studio with members in Malaysia and Peru, behind A Dance of Fire and Ice and Rhythm Doctor.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Rhythm Doctor
+      - A Dance of Fire and Ice
+    added_at: '2026-11-06T14:26:06.031Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Statera Studio
+    url: https://staterastudio.com/
+    description: Rio de Janeiro studio behind the fighting game Pocket Bravery and the action game Arashi Gaiden.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - Pocket Bravery
+      - Arashi Gaiden
+      - Guns N' Runs
+    social:
+      instagram: https://www.instagram.com/staterastudio_
+      linkedin: https://www.linkedin.com/company/staterastudio
+      x: https://x.com/StateraStudio_
+      youtube: https://www.youtube.com/stateraStudio
+    added_at: '2026-11-06T14:26:06.032Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Gamecraft Studios
+    url: https://gamecraftstudios.com/
+    description: Belo Horizonte indie studio behind PC games such as Vampire Hunters, For Sparta and Rogue Summoner.
+    hq:
+      city: Belo Horizonte
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Vampire Hunters
+      - For Sparta
+      - Rogue Summoner
+    social:
+      x: https://x.com/gamecraftstd
+      youtube: https://www.youtube.com/channel/UCpSO01A448GOwJQHUJVD0uw
+    added_at: '2026-11-06T14:26:06.033Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Epopeia Games
+    url: https://epopeiagames.com/
+    description: Porto Alegre developer and publisher of PC and console games, including Gaucho and the Grassland.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2010
+    notable:
+      - Gaucho and the Grassland
+      - IINTWO
+      - Mega Monster Party
+    social:
+      instagram: https://instagram.com/epopeiagames
+      x: https://www.twitter.com/epopeiagames
+      youtube: https://www.youtube.com/@epopeiagames
+    added_at: '2026-11-06T14:26:06.034Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Clops Game Studio
+    url: https://studioclops.com/
+    description: Indie studio from São Luís making its own games such as UniDuni and Super Bafo Championship, plus outsourcing.
+    hq:
+      city: São Luís
+      country: Brazil
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - UniDuni
+      - Super Bafo Championship
+    social:
+      instagram: https://www.instagram.com/studioclops/
+      x: https://twitter.com/studioClops
+      youtube: https://www.youtube.com/channel/UCXu8ZiR0JLLrs5lqmeqPWpw
+    added_at: '2026-11-06T14:26:06.035Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: YAW Studios
+    url: https://www.yawstudios.com/
+    description: 'Small São Paulo studio making fantasy card games such as One Card One Shot: Mafia, released on consoles.'
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - console
+    founded: 2017
+    notable:
+      - 'One Card One Shot: Mafia'
+    social:
+      instagram: https://www.instagram.com/yaw_studios/
+      x: https://twitter.com/YawStudios
+      youtube: https://www.youtube.com/channel/UCzIqGlCTyJ_VoagabFBruJg
+    added_at: '2026-11-06T14:26:06.036Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Hiscory Studio
+    url: https://hiscory.com/
+    description: Seven-person Batam studio behind the PC games Let Me Out and Teller's Duty, also making simulations for clients.
+    hq:
+      city: Batam
+      country: Indonesia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Let Me Out
+      - Teller's Duty
+    social:
+      instagram: https://www.instagram.com/hiscorystudio/
+      x: https://x.com/HiscoryStudio
+      youtube: https://www.youtube.com/@Hiscorystudio
+    added_at: '2026-11-06T14:26:06.037Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Engram Interactive
+    url: https://engraminteractive.com/
+    description: 'Indonesian indie studio founded in 2018, behind Fractured Core and the izakaya game Afterglow Bytes: Reverie by the Shore.'
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Fractured Core
+      - 'Afterglow Bytes: Reverie by the Shore'
+    social:
+      instagram: https://www.instagram.com/egrinteractive/
+      x: https://x.com/EGRInteractive
+      youtube: https://www.youtube.com/@EngramInteractive/
+    added_at: '2026-11-06T14:26:06.038Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Leolit Games
+    url: https://leolitgames.com/
+    description: 'Indonesian indie developer formed in 2021, making mobile games such as Tanduk Putih: Clash Battle.'
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    founded: 2021
+    notable:
+      - 'Tanduk Putih: Clash Battle'
+      - War Angels
+    social:
+      instagram: https://www.instagram.com/leolitgames/
+      linkedin: https://www.linkedin.com/company/leolitgames/
+      youtube: https://www.youtube.com/@leolitgames
+    added_at: '2026-11-06T14:26:06.039Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Melting Parrot
+    url: https://meltingparrot.com/
+    description: Husband-and-wife studio in Melbourne behind the PC adventure game Dap.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dap
+    social:
+      x: https://twitter.com/MeltingParrot
+    added_at: '2026-11-06T14:26:06.040Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Newcore Games
+    url: https://www.newcoregames.com/
+    description: 'Korean indie studio founded in 2020 by industry veterans, behind I am Zombie, The Devil Within: Satgat and 7Trials.'
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2020
+    notable:
+      - 'The Devil Within: Satgat'
+      - I am Zombie
+      - 7Trials
+    social:
+      youtube: https://www.youtube.com/@NewcoreGames
+    added_at: '2026-11-06T14:26:06.041Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Behemutt
+    url: https://www.behemutt.com/
+    description: Three-person Brazilian indie studio behind the automation sandbox Nova Lands and the action RPG Mana Spark.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - Nova Lands
+      - Mana Spark
+      - Fourleaf Fields
+    social:
+      x: https://twitter.com/behemutt
+    added_at: '2026-11-06T14:26:06.042Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 3lb Games
+    url: https://3lbgames.com/
+    description: Remote XR game studio making mixed reality and VR games for Meta Quest, SteamVR and Pico.
+    hq:
+      country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Grokit
+      - Space Dragon
+      - Vault of Stars
+    social:
+      instagram: https://www.instagram.com/3lbGames
+      linkedin: https://www.linkedin.com/company/3lb-games
+      youtube: https://www.youtube.com/user/3lbgames
+    added_at: '2026-11-06T14:26:06.043Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Combat Waffle Studios
+    url: https://combatwaffle.com/
+    description: Veteran-owned Florida studio making hardcore VR survival games, including the extraction shooter Ghosts of Tabor.
+    hq:
+      country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+      - pc
+    founded: 2022
+    notable:
+      - Ghosts of Tabor
+    added_at: '2026-11-06T14:26:06.044Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Squingle Studios
+    url: https://squingle.com/
+    description: Miami studio making Squingle Arcade, a relaxing VR and mixed reality puzzle game for Meta Quest and Steam.
+    hq:
+      city: Miami
+      country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Squingle Arcade
+    social:
+      instagram: https://www.instagram.com/squinglestudios
+      youtube: https://youtube.com/@squinglestudios
+    added_at: '2026-11-06T14:26:06.045Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: kaleidoscube
+    url: https://www.kaleidoscube.com/
+    description: Stuttgart indie studio making atmospheric, narrative-driven games for PC and console, including A Juggler's Tale.
+    hq:
+      city: Stuttgart
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://www.kaleidoscube.com/jobs
+    notable:
+      - A Juggler's Tale
+    social:
+      instagram: https://www.instagram.com/kaleidoscube
+      linkedin: https://www.linkedin.com/company/kaleidoscube
+    added_at: '2026-11-06T14:26:06.046Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'

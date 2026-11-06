@@ -1,0 +1,933 @@
+studios:
+  - name: Lululu Entertainment
+    url: https://lululu.games/
+    description: Young game studio, developer of the object-possession puzzle game Henry Halfhead.
+    hq:
+      city: Zürich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Henry Halfhead
+    added_at: '2026-11-06T14:26:05.963Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Spilt Milk Studios
+    url: https://www.spiltmilkstudios.com/
+    description: Independent developer of cozy original games such as Trash Goblin, also doing work-for-hire for other studios.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2010
+    notable:
+      - Trash Goblin
+      - Lazarus
+      - Hardlines
+      - Tango Fiesta
+    social:
+      linkedin: https://www.linkedin.com/company/spilt-milk-studios-ltd
+      x: https://twitter.com/SpiltMilkStudio
+    added_at: '2026-11-06T14:26:05.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Little Bat Games
+    url: https://littlebat.games/
+    description: Narrative game studio behind the therapy visual novel Vampire Therapist, now making the stealth game Better Than Us.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://littlebat.games/jobs
+    notable:
+      - Vampire Therapist
+      - Better Than Us
+    added_at: '2026-11-06T14:26:05.965Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pixelsplit
+    url: https://pixelsplit.games/
+    description: Remote-first indie studio making games since 2018, developer of the psychological thriller REVEIL.
+    hq:
+      city: Eschborn
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - REVEIL
+    social:
+      linkedin: https://linkedin.com/company/pixelsplit-gmbh-co-kg
+    added_at: '2026-11-06T14:26:05.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Playing History
+    url: https://playinghistory.de/
+    description: Studio making history and civic education games for museums, foundations and schools, such as Herbst 89.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - pc
+      - mobile
+    careers: https://playinghistory.de/main-home/jobs/
+    notable:
+      - 'Herbst 89: Auf den Straßen von Leipzig'
+      - 'Friedrich Ebert: Der Weg zur Demokratie'
+    added_at: '2026-11-06T14:26:05.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Stunforge
+    url: https://stunforge.com/
+    description: Young indie studio from North Rhine-Westphalia, developer of the tower defense roguelite Nordhold.
+    hq:
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Nordhold
+    social:
+      instagram: https://instagram.com/stunforgeofficial
+      youtube: https://www.youtube.com/@StunForge
+      x: https://twitter.com/StunForge
+    added_at: '2026-11-06T14:26:05.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Thera Bytes
+    url: https://www.therabytes.de/
+    description: Bavarian game studio, developer of the zombie lab management game Zombie Cure Lab.
+    hq:
+      city: Hohenschäftlarn
+      country: Germany
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    careers: https://www.therabytes.de/careers
+    notable:
+      - Zombie Cure Lab
+    social:
+      linkedin: https://www.linkedin.com/company/thera-bytes-ug/
+    added_at: '2026-11-06T14:26:05.969Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Thoughtfish
+    url: https://www.thoughtfish.de/
+    description: Real-world gaming studio building location-based AR games and apps on its own COALA tech, such as How to God and Earthscaper.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    careers: https://www.thoughtfish.de/careers/
+    notable:
+      - How to God
+      - Earthscaper
+      - 'Living Room: Pet Party'
+    social:
+      x: https://twitter.com/ThoughtfishGmbH
+    added_at: '2026-11-06T14:26:05.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tivola Games
+    url: https://www.tivola.de/
+    description: Children's game developer making animal care and adventure games such as Cat Rescue Story.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Cat Rescue Story
+    social:
+      instagram: https://www.instagram.com/tivolagames/
+      youtube: https://www.youtube.com/user/TivolaPublishing
+    added_at: '2026-11-06T14:26:05.971Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Mirebound
+    url: https://www.mirebound.com/
+    description: Indie studio founded by former Blizzard staff making narrative puzzle games, including Causal Loop.
+    hq:
+      city: Frauenberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Causal Loop
+    social:
+      instagram: https://www.instagram.com/mirebound/
+      linkedin: https://www.linkedin.com/company/98593020/
+    added_at: '2026-11-06T14:26:05.972Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Butter By The Fish
+    url: https://www.butterbythefish.com/
+    description: Small indie studio, developer of the pinball-style roguelite Flick Shot Rogues.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Flick Shot Rogues
+    social:
+      instagram: https://www.instagram.com/butterbythefishgames/
+      youtube: https://www.youtube.com/@ButterByTheFish
+      x: https://x.com/butterByTheFish
+    added_at: '2026-11-06T14:26:05.973Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Expression Games
+    url: https://expressiongames.com/
+    description: Development studio offering co-development to major studios and franchises, co-developer of the WWII shooter Hell Let Loose.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hell Let Loose
+    added_at: '2026-11-06T14:26:05.974Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Feral Cat Den
+    url: https://feralcatden.com/
+    description: Small team of artists making games, animation and visuals, developer of the cosmic noir adventure Genesis Noir.
+    hq:
+      city: Brooklyn
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Genesis Noir
+    social:
+      x: https://twitter.com/FeralCatDen
+    added_at: '2026-11-06T14:26:05.975Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: INGAME STUDIOS
+    url: https://www.ingamestudios.com/
+    description: 'Game developer behind the crime shooter Crime Boss: Rockay City.'
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Crime Boss: Rockay City'
+    added_at: '2026-11-06T14:26:05.976Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: INTERIOR/NIGHT
+    url: https://www.interiornight.com/
+    description: Studio founded in 2016 making mature, multiplayer story-driven games, developer of As Dusk Falls.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    careers: https://www.interiornight.com/jobs
+    notable:
+      - As Dusk Falls
+    social:
+      instagram: https://www.instagram.com/intnight/
+      x: https://twitter.com/Int_Night
+    added_at: '2026-11-06T14:26:05.977Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Artax Games
+    url: https://artaxgames.com/
+    description: 'Full-cycle game development, porting and publishing company, co-developer of Bluey: The Videogame.'
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - co-dev
+      - kids-edu
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Bluey: The Videogame'
+    social:
+      x: https://twitter.com/Artax_Games
+    added_at: '2026-11-06T14:26:05.978Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Red Soul Games
+    url: https://www.redsoulgames.com/
+    description: Small independent studio, developer of the survival horror game Post Trauma.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Post Trauma
+    added_at: '2026-11-06T14:26:05.979Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Singularity 6
+    url: https://www.singularity6.com/
+    description: Online game studio owned by Daybreak Game Company, developer of the cozy multiplayer life sim Palia.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: Daybreak Game Company
+    careers: https://www.singularity6.com/careers
+    notable:
+      - Palia
+    added_at: '2026-11-06T14:26:05.980Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Pumpernickel Studio
+    url: https://www.pumpernickel-studio.com/
+    description: Independent game developer, maker of the typing strategy game Touch Type Tale.
+    hq:
+      city: Münster
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Touch Type Tale - Strategic Typing
+    added_at: '2026-11-06T14:26:05.981Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Spoonful Games
+    url: https://spoonful.games/
+    description: Indie studio founded in 2021 by Cologne Game Lab graduates, making wholesome games with an opinion such as Bauhaus Bonk.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Bauhaus Bonk
+    added_at: '2026-11-06T14:26:05.982Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Inlusio Interactive
+    url: https://www.inlusio.com/en/
+    description: Studio making story-driven games, animated VR films and interactive graphic novels, including The Guardian of Nature.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Guardian of Nature
+    added_at: '2026-11-06T14:26:05.983Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: neoludic games
+    url: https://neoludic.games/en
+    description: Games studio making indie games and playful installations for cultural institutions, developer of Tiny Bookshop.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tiny Bookshop
+    social:
+      instagram: https://www.instagram.com/neoludic/
+      youtube: https://www.youtube.com/channel/UC5VfhLAwliCmTOdQRgWMiGw
+      x: https://twitter.com/neoludic
+    added_at: '2026-11-06T14:26:05.984Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Kissaki Studios
+    url: https://kissaki.de/
+    description: Game design and development studio behind Mindbug Online, the digital version of the Mindbug card game.
+    hq:
+      city: Aschaffenburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Mindbug Online
+    added_at: '2026-11-06T14:26:05.985Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Something We Made
+    url: https://www.somethingwemade.se/
+    description: Small indie studio making hand-drawn photography adventures, TOEM and TOEM 2.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - TOEM
+      - TOEM 2
+    social:
+      instagram: https://www.instagram.com/swmgames/
+      youtube: https://www.youtube.com/@SWMGames
+      x: https://twitter.com/SWMGames
+    added_at: '2026-11-06T14:26:05.986Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Garoa Studios
+    url: https://garoastudios.com/
+    description: Indie studio in Rio de Janeiro making rhythm, narrative and puzzle games for PC.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Cat Leather Jackets
+      - RitMania
+    social:
+      instagram: https://instagram.com/garoastudios
+      linkedin: https://www.linkedin.com/company/garoastudios
+      x: https://x.com/garoastudios
+      youtube: https://youtube.com/@garoastudios
+    added_at: '2026-11-06T14:26:05.987Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 5 Lives Studios
+    url: https://www.5livesstudios.com/
+    description: Independent Brisbane studio making original PC games, including the cozy game Cozy Caravan.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://www.5livesstudios.com/careers
+    notable:
+      - Cozy Caravan
+    social:
+      x: https://twitter.com/5LivesStudios
+    added_at: '2026-11-06T14:26:05.988Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Panpipe Studio
+    url: https://panpipestudio.com/
+    description: Indie studio in Viña del Mar developing Colorbound, a PC game published by Whitethorn Games.
+    hq:
+      city: Viña del Mar
+      country: Chile
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Colorbound
+    social:
+      instagram: https://www.instagram.com/panpipe.studio/
+      x: https://x.com/PanpipeStudio
+    added_at: '2026-11-06T14:26:05.989Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Among Giants
+    url: https://www.amonggiantsgames.com/
+    description: Brazilian indie studio behind Albatroz and Distortions for PC and console.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - Albatroz
+      - Distortions
+      - 'Chenen: The Geomancy Trail'
+    social:
+      instagram: https://www.instagram.com/amonggiantsgames/
+      linkedin: https://www.linkedin.com/company/among-giants-games
+      x: https://x.com/Among_Giants_
+      youtube: https://www.youtube.com/@AmongGiantsStudio
+    added_at: '2026-11-06T14:26:05.990Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Fira Soft
+    url: https://firasoft.com/en/
+    description: Brazilian studio making its own games, such as the survival horror Kriophobia, plus custom games for clients.
+    hq:
+      city: Brasília
+      country: Brazil
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2011
+    notable:
+      - Kriophobia
+    social:
+      instagram: https://www.instagram.com/firasoftbr/
+      linkedin: https://www.linkedin.com/company/fira-soft/
+      x: https://x.com/firasoft
+      youtube: https://www.youtube.com/c/firasoft
+    added_at: '2026-11-06T14:26:05.991Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Luski Game Studio
+    url: https://www.luskigamestudio.com/
+    description: Brazilian indie studio making 3D games for PC and console, including the multiplayer game Capote.
+    hq:
+      city: São Paulo
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    careers: https://www.luskigamestudio.com/careers
+    notable:
+      - Capote
+      - F.O.O.D.S.
+    social:
+      instagram: https://www.instagram.com/luski_gamestudio/
+      linkedin: https://www.linkedin.com/company/luskigamestudio/
+      x: https://twitter.com/LuskiGameStudio
+    added_at: '2026-11-06T14:26:05.992Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: The Dreamerians
+    url: https://thedreamerians.com/
+    description: Mexican indie studio behind A Rat's Quest, a puzzle adventure series published by THQ Nordic Mobile.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'A Rat''s Quest: The Way Back Home'
+    added_at: '2026-11-06T14:26:05.993Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Hammer95
+    url: https://www.hammer95.com/
+    description: Brazilian indie studio behind Mullet Mad Jack, a fast anime-styled FPS for PC and consoles.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mullet Mad Jack
+    added_at: '2026-11-06T14:26:05.994Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cookiecrayon
+    url: https://cookiecrayon.com/
+    description: Small New Zealand studio making experimental art-driven games such as Neon Knives.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Neon Knives
+      - Cat or Ice Cream?
+    social:
+      instagram: https://www.instagram.com/cookiecrayongames/
+      x: https://twitter.com/bycookiecrayon
+      youtube: https://www.youtube.com/channel/UCIp0nVDg2ZLNqEe2k7sj1zA
+    added_at: '2026-11-06T14:26:05.995Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Spoonful of Wonder
+    url: https://spoonfulofwonder.com/
+    description: Two-person Sydney studio behind Copycat, a narrative game about a shelter cat, for PC and console.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Copycat
+    added_at: '2026-11-06T14:26:05.996Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Trialforge Studio
+    url: https://trialforgestudio.com/
+    description: Rio de Janeiro studio making 3D indie games, best known for the action RPG Deathbound.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Deathbound
+    social:
+      instagram: https://www.instagram.com/trialforgestudio/
+      linkedin: https://www.linkedin.com/company/trialforgestudio
+      x: https://twitter.com/trialforgestu
+      youtube: https://www.youtube.com/channel/UC8MilyBNLbHTNqiM66jANug
+    added_at: '2026-11-06T14:26:05.997Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Cat Society
+    url: https://catsocietygames.com/
+    description: Small South Korean indie studio developing Dungeon Inn for PC, published by Spiral Up Games.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dungeon Inn
+    social:
+      instagram: https://www.instagram.com/catsocietygames
+      x: https://twitter.com/catsocietygames
+      youtube: https://www.youtube.com/@catsocietygames
+    added_at: '2026-11-06T14:26:05.998Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Asobism
+    url: https://www.asobism.co.jp/
+    description: Tokyo developer of mobile and PC games, including Castle & Dragons, Vivid Night and Vivid World.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Nagano
+        country: Japan
+    segments:
+      - aa
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2005
+    notable:
+      - Castle & Dragons
+      - Vivid Night
+      - Vivid World
+      - ShapeHero Factory
+    social:
+      x: https://x.com/AsobismOfficial
+    added_at: '2026-11-06T14:26:05.999Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Whistling Wizard
+    url: https://www.whistlingwizard.com/
+    description: Two-person New Zealand studio behind Rose and Locket, published by Ninja Kiwi.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Rose and Locket
+    social:
+      instagram: https://www.instagram.com/whistlingwizardnz/
+      x: https://twitter.com/WWGAMINGNZ
+    added_at: '2026-11-06T14:26:06.000Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: LCB Games
+    url: https://lcbgames.com/
+    description: Buenos Aires studio making the Pixel Pulps series of narrative horror visual novels, such as Mothmen 1966 and Grizzly Man.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mothmen 1966
+      - Varney Lake
+      - Bahnsen Knights
+      - Grizzly Man
+    social:
+      instagram: https://www.instagram.com/lcbgamestudio/
+      x: https://x.com/lcbgamestudio
+      youtube: https://www.youtube.com/channel/UClyOSpyJjRVgTIs9pReP2ow
+    added_at: '2026-11-06T14:26:06.001Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: 7QUARK
+    url: https://7quark.com/
+    description: 'Taipei studio making action and puzzle games, including the roguelike Yasha: Legends of the Demon Blade.'
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2013
+    notable:
+      - 'Yasha: Legends of the Demon Blade'
+      - LazyLinkr
+    social:
+      x: https://x.com/7quarkgames_EN
+    added_at: '2026-11-06T14:26:06.002Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Ignita Games
+    url: https://ignitagames.com/
+    description: Monterrey indie studio behind Idle Waters, a PC game released in 2025.
+    hq:
+      city: Monterrey
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Idle Waters
+    added_at: '2026-11-06T14:26:06.003Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tempo Lab Games
+    url: https://tempolabgames.com/
+    description: Small Sydney studio behind Bits & Bops, a rhythm game.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Bits & Bops
+    social:
+      x: https://twitter.com/TempoLabGames
+    added_at: '2026-11-06T14:26:06.004Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Abandoned Sheep
+    url: https://abandonedsheep.com/
+    description: Brisbane studio behind Schrodinger's Cat Burglar, a quantum puzzle adventure starring a cat.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Schrodinger's Cat Burglar
+    social:
+      x: http://twitter.com/_AbandonedSheep
+    added_at: '2026-11-06T14:26:06.005Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Fat Alien Cat
+    url: https://fataliencat.com/
+    description: Two-person Brisbane studio behind Smash Crates and the life-story game Momento.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Smash Crates
+      - Momento
+    social:
+      x: https://twitter.com/FatAlienCat
+      youtube: https://www.youtube.com/channel/UC38VY0bLMjxDj1YsWpKu6aQ
+    added_at: '2026-11-06T14:26:06.006Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Unnatural Freaks
+    url: https://www.unnaturalfreaks.com/
+    description: Perth narrative studio making story-driven games and prose, including The Last Werewolf.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Last Werewolf
+    social:
+      instagram: https://www.instagram.com/unnaturalfreaksstudio/
+    added_at: '2026-11-06T14:26:06.007Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Tin Man Games
+    url: https://tinmangames.com.au/
+    description: Melbourne developer of adventure games, digital gamebooks and digital board games, such as NEON Squad Tactics.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2008
+    notable:
+      - NEON Squad Tactics
+      - To Be Or Not To Be
+    added_at: '2026-11-06T14:26:06.008Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Spitfire Interactive
+    url: https://www.spitfireinteractive.com.au/
+    description: Small Brisbane developer behind Capes, a superhero game published by Daedalic.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Capes
+    added_at: '2026-11-06T14:26:06.009Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Protostar
+    url: https://protostargames.com/
+    description: Brisbane indie studio making mobile puzzle games such as Mowing Mazes and the VR game Hyper Bullet.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+      - vr
+    platforms:
+      - mobile
+      - vr
+    founded: 2014
+    notable:
+      - Hyper Bullet
+      - Mowing Mazes
+    added_at: '2026-11-06T14:26:06.010Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: Studio Bravarda
+    url: https://studiobravarda.com/
+    description: Brazilian indie studio making games with Brazilian themes, such as Sky Caravan.
+    hq:
+      country: Brazil
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Extremely Powerful Capybaras
+      - Sky Caravan
+    social:
+      x: https://twitter.com/studiobravarda
+      linkedin: https://www.linkedin.com/company/studio-bravarda/
+    added_at: '2026-11-06T14:26:06.011Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
+  - name: An Otter Game Studio
+    url: https://anottergamestudio.com/
+    description: Game studio in Rosario making its own titles such as Sequenza, plus games for museums and clients.
+    hq:
+      city: Rosario
+      country: Argentina
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Sequenza
+    social:
+      instagram: https://www.instagram.com/anottergamestudio/
+    added_at: '2026-11-06T14:26:06.012Z'
+    url_status: ok
+    url_last_verified: '2026-11-06'
