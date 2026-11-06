@@ -213,7 +213,7 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 **Prompt:** (2026-11-06)
 > find studios for categories that have less than 20 entries
 
-**Answered:** No discipline/market/segment/platform is under 20 (lowest: previs 21); the facets under 20 are countries (59 in /studios/, 53 in /game-studios/). Spawned 8 regional agents (Nordic/Baltic/Ireland, West/South EU, CEE, MENA, Sub-Saharan Africa, South/SE Asia, East Asia/Oceania, LatAm) to fill both directories toward 20 per country. Import pending.
+**Answered:** No discipline/market/segment/platform is under 20 (lowest: previs 21); the facets under 20 are countries (59 in /studios/, 53 in /game-studios/). Spawned 8 regional agents (Nordic/Baltic/Ireland, West/South EU, CEE, MENA, Sub-Saharan Africa, South/SE Asia, East Asia/Oceania, LatAm) to fill both directories toward 20 per country. Import done: +338 studios, +133 game studios (484 raw; 10 dupes, 3 dropped, 4 spam false positives force-passed). Totals 2,695 / 2,683. Validate, tests, build, links pass. Not committed.
 
 **Prompt:** (2026-11-06)
 > continue please
@@ -255,3 +255,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > update readme and commit please
 
 **Answered:** render-readme CI already committed eb9e8e1 (README has twirl); fresh local render identical, no README commit needed. Logged prompt only.
+
+**Prompt:** (2026-11-06)
+> look up conferences, events, award shows in the different domains and look up studios that way, need to flesh out the list even more
+
+**Answered:** Round 5 (event-sourced): 9 general-purpose agents, one per domain (VFX/VP awards, animation festivals, motion/ad craft awards, music video/titles/medical, interactive/XR/experiential, archviz/product viz, games West, games world, game services/co-dev). Import pending.
+
+**Prompt:** (2026-11-06)
+> push the changes please
+
+**Answered:** Committed round 5 data + docs (feat) and memory log (docs), pushed to origin/main.

@@ -105,3 +105,9 @@ Architectural / structural decisions w/ rationale + date.
 - 2026-11-06: "Categories under 20" read as countries (no discipline/market/segment/platform was under 20). Target = 20 per country per directory where that many real, active studios exist.
 - 2026-11-06: Panic Studio HQ London -> Latvia (own legal page names SIA "Panic"); London refs on its site are clients (W+K London).
 - 2026-11-06: Parallel sessions append to the same studio chunk files. Merge rule: take origin data, re-run name/rule backfills, replay this session's rows (new = URL not in the shared base commit), dedupe by host + name/country, origin row wins on overlap but gains new enum values. Check `git fetch` before long data runs.
+
+## 2026-11-06: Round 5, event-sourced discovery
+- Festival/award/conference credits are leads only; HQ still verified on the studio site, LinkedIn or press. Student awards are not leads.
+- Agents tag rows with `_event` (provenance) in scratch output only; importer drops it, not stored in data.
+- Rows with no evidence of work in ~2 years dropped even when an event lists them (Cartel Cartoon, Dawn Digital). A recent award win counts as activity (Form&Fun, 2025 Auggie).
+- Casino in a client-work title (Frost FX "Olympic Casino" ad) or a street name is not spam; injected outbound casino links are (Peekaboo Animation, rejected three rounds now).
