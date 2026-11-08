@@ -710,6 +710,7 @@ studios:
     url: https://n2qstudio.com/
     description: Boutique architectural visualization studio making stills, film and 3D tours for residential developers.
     hq:
+      city: Hue
       country: Vietnam
     disciplines:
       - archviz

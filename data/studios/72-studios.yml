@@ -1,0 +1,956 @@
+studios:
+  - name: Sconnect
+    url: https://sconnect.com.vn/
+    description: Kids content studio producing the Wolfoo animated series and games for YouTube and app stores.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    offices:
+      - city: Ho Chi Minh City
+        country: Vietnam
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    notable:
+      - Wolfoo
+    social:
+      linkedin: https://www.linkedin.com/company/68576226
+    added_at: '2026-11-08T22:14:00.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rare Reversee
+    url: https://www.rarereversee.com/
+    description: CGI studio making cinematics, commercials and series animation, and developer of the horror games The Scourge and Bad Parenting.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - cg
+      - outsourcing
+    markets:
+      - games
+      - advertising
+      - episodic
+    founded: 2019
+    notable:
+      - The Scourge
+      - 'Bad Parenting 1: Mr. Red Face'
+    added_at: '2026-11-08T22:14:00.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glowing Animation Studio
+    url: https://glowingstudio.vn/
+    description: 2D animation and motion video studio making brand films and animated shorts.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2014
+    social:
+      vimeo: https://vimeo.com/glowinganimationstudio
+      instagram: https://www.instagram.com/glowinganimationstudio
+    added_at: '2026-11-08T22:14:00.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dark Army Studio
+    url: https://www.darkarmystudio.com/
+    description: VFX studio specialising in camera and object tracking, rotomation and matchmove for Thai films, series and commercials.
+    hq:
+      city: Bangkok
+      country: Thailand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Khun Phan 2
+      - Kitty the Killer
+      - Future Sex
+    added_at: '2026-11-08T22:14:00.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Red Cat Motion
+    url: https://www.redcatmotion.com/
+    description: Animation studio making 2D, 3D and hand-drawn animated content, cartoon series and music animation for brands.
+    hq:
+      country: Vietnam
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+      - episodic
+    social:
+      vimeo: https://vimeo.com/667287248
+    added_at: '2026-11-08T22:14:00.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Moon Catalyst
+    url: https://www.mooncatalyst.com/
+    description: Game development and art outsourcing studio offering 3D animation, rigging, concept art and game assets, also building its own horror game.
+    hq:
+      city: Chiang Mai
+      country: Thailand
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      x: https://twitter.com/MoonCatalyst_pr
+      instagram: https://www.instagram.com/mooncatalyst.official
+    added_at: '2026-11-08T22:14:00.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 808 Ltd
+    url: https://www.808ltd.co.nz/
+    description: VFX studio making CG environments, set extensions, matte paintings and light creature work for film and episodic TV.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Spartacus: House of Ashur'
+      - 'Zombies 4: Dawn of the Vampires'
+      - The Wrecking Crew
+    social:
+      instagram: https://www.instagram.com/808_ltd/
+      linkedin: https://www.linkedin.com/company/808-ltd
+    added_at: '2026-11-08T22:14:00.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Albedo VFX
+    url: http://albedovfx.com/
+    description: VFX house making digital matte paintings, 3D environments and virtual sets for film, TV series and commercials.
+    hq:
+      country: New Zealand
+    disciplines:
+      - vfx
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-08T22:14:00.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fathom VFX
+    url: https://www.fathomvfx.com/
+    description: Artist-led VFX studio working on feature films, episodic TV and commercials.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - M3GAN 2.0
+      - 'Tron: Ares'
+      - Our Flag Means Death
+      - X trilogy
+    social:
+      instagram: https://www.instagram.com/fathom_vfx/
+    added_at: '2026-11-08T22:14:00.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Final Boss
+    url: https://www.finalbossvfx.com/
+    description: Filmmaker-focused VFX studio for film, television, commercials and game cinematics.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+      - cinematics
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    added_at: '2026-11-08T22:14:00.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flux Animation Studio
+    url: https://fluxmedia.co.nz/
+    description: Character animation studio making animation and VFX for advertising, film and television since 1997.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 1997
+    social:
+      instagram: https://www.instagram.com/fluxanimation/
+      vimeo: https://vimeo.com/fluxmedia
+    added_at: '2026-11-08T22:14:00.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Masters of Reality
+    url: https://morvfx.com/
+    description: Independent hybrid VFX studio for feature films, episodic TV and advertising.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - 'Spartacus: House of Ashur'
+      - MaXXXine
+      - M3GAN
+      - Our Flag Means Death S2
+    social:
+      instagram: https://www.instagram.com/mor_vfx/
+      linkedin: https://www.linkedin.com/company/morvfx/
+    added_at: '2026-11-08T22:14:00.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Method
+    url: https://www.method.digital/
+    description: Creative technology studio designing and building immersive experiences, installations and attractions since 2003.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2003
+    notable:
+      - Art Aquarium
+      - Ātea Nuku Paihia
+      - Journey to the Deep (Sea Life Melbourne)
+    added_at: '2026-11-08T22:14:00.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: OHUfx
+    url: https://www.ohufx.com/
+    description: VFX studio delivering compositing shots for feature films, also publisher of free Nuke extensions.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+    notable:
+      - MaXXXine
+      - Pearl
+      - X
+    added_at: '2026-11-08T22:14:00.694Z'
+  - name: PRPVFX
+    url: https://www.prpvfx.com/
+    description: VFX studio working on New Zealand feature films and television.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Ash
+      - Sgt. Haane
+    added_at: '2026-11-08T22:14:00.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Undercover Media
+    url: https://www.undercover-media.co.nz/
+    description: Boutique VFX company doing compositing, set extensions, matte paintings and 3D environments for film and TV.
+    hq:
+      city: Lower Hutt
+      country: New Zealand
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T22:14:00.696Z'
+  - name: Studio Pixelpush
+    url: https://www.pixelpush.co.nz/
+    description: Motion and animation studio making 2D, 3D and stop-motion content for brands and agencies.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/pixelpush_studio/
+    added_at: '2026-11-08T22:14:00.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Many Worlds
+    url: https://manyworlds.co.nz/
+    description: Design and development agency building AR, MR and VR apps, games and web experiences.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T22:14:00.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Motion Arcade
+    url: https://themotionarcade.com/
+    description: Motion capture studio running a 110 m² OptiTrack volume for film, TV and game productions.
+    hq:
+      city: Wellington
+      country: New Zealand
+    disciplines:
+      - mocap
+    markets:
+      - film
+      - episodic
+      - games
+    added_at: '2026-11-08T22:14:00.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: StaplesVR
+    url: https://www.staplesvr.com/
+    description: Builds VR and AR training simulations for aviation, defence and national security workforces.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/staples_vr/
+      linkedin: https://www.linkedin.com/company/staplesvr/
+    added_at: '2026-11-08T22:14:00.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CONICAL
+    url: https://www.conical.nz/
+    description: Creative technology studio making AI video, animation, VR and AR experiences for brands.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - ai-production
+      - xr
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Time Travel New Zealand
+      - KFC New Zealand app cricket game
+    added_at: '2026-11-08T22:14:00.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Evans Taylor Digital
+    url: https://evanstaylor.digital/
+    description: Interactive content studio building AR, VR, 360 video and 3D applications.
+    hq:
+      city: Christchurch
+      country: New Zealand
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T22:14:00.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 137Studio
+    url: https://137studio.com/
+    description: 3D visualisation studio making architectural stills, animations, 360° panoramas and VR, plus a small indie game line.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Voxely Studio
+    url: https://www.voxelystudio.com/
+    description: Architectural visualisation and 3D product rendering studio for architects and property developers.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/voxely_studio/
+      behance: https://www.behance.net/arch3d
+    added_at: '2026-11-08T22:14:00.704Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Assembly
+    url: https://assemblyltd.com/
+    description: Production company of directors, 3D artists, animators and VFX specialists making commercials and short films since 2010.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+      - film
+    founded: 2010
+    notable:
+      - Blip 'Lightyears From Home'
+      - Diary of a Head Injury
+      - Benee 'Bagels'
+      - EECA 'Gen Less'
+    social:
+      instagram: https://instagram.com/assemblyltd
+      vimeo: https://vimeo.com/assemblyltd
+      linkedin: https://nz.linkedin.com/company/assemblyltd
+    added_at: '2026-11-08T22:14:00.705Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mechanic Animation
+    url: https://mechanicanimation.com/
+    description: Animation studio with 500+ episodes of service work behind it, developing original kids IP such as Bjillion Bots and Astropods.
+    hq:
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Bjillion Bots
+      - Astropods
+    social:
+      instagram: https://instagram.com/mechanicanimation/
+      linkedin: https://www.linkedin.com/company/mechanic-animation-limited
+    added_at: '2026-11-08T22:14:00.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Synty Studios
+    url: https://www.syntystudios.com/
+    description: 3D art studio founded in 2014 that makes low-poly asset packs for Unity, Unreal, film and game developers.
+    hq:
+      country: New Zealand
+    disciplines:
+      - cg
+    markets:
+      - games
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/synty.studios/
+      linkedin: https://www.linkedin.com/company/synty-studios/
+      x: https://twitter.com/SyntyStudios
+    added_at: '2026-11-08T22:14:00.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Images & Sound
+    url: https://www.imagesandsound.co.nz/
+    description: Long-running post-production facility offering picture, sound, VFX and motion graphics for NZ film and TV.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/imagesandsound/
+    added_at: '2026-11-08T22:14:00.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Waxeye
+    url: https://waxeye.co.nz/
+    description: Creative technology studio making animation, 3D content, and VR/AR training and brand experiences since 2008.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - xr
+      - 3d-animation
+      - interactive
+    markets:
+      - brand
+    founded: 2008
+    notable:
+      - Air New Zealand 75 years in VR
+      - New Zealand Steel VR safety training
+    social:
+      instagram: https://www.instagram.com/waxeye_nz/
+      linkedin: https://www.linkedin.com/company/waxeye/
+    added_at: '2026-11-08T22:14:00.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Satellite
+    url: https://www.satellite.co.nz/
+    description: Digital innovation and event studio building interactive installations, gamified event tech and brand activations.
+    hq:
+      city: Auckland
+      country: New Zealand
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Spark Game Arena
+      - Wonder Wai Discovery Centre (Watercare)
+      - MOTAT Aviation Display Hall
+      - All Blacks Experience interactives
+    added_at: '2026-11-08T22:14:00.710Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yukfoo
+    url: https://www.yukfoo.net/
+    description: Independent animation studio developing original animated films and series and producing character animation for studios and brands.
+    hq:
+      country: New Zealand
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - 'Plankton: The Movie (Nickelodeon)'
+      - Palau Pledge
+      - Snick & Willow
+    social:
+      instagram: https://www.instagram.com/yukfooanimation/
+      linkedin: https://www.linkedin.com/company/yukfoo/
+      vimeo: https://vimeo.com/yukfoo
+      youtube: https://www.youtube.com/@Yukfoo
+    added_at: '2026-11-08T22:14:00.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zeevium
+    url: https://zeevium.com/
+    description: Singapore studio building games, AR and VR experiences, digital twins and interactive apps for clients.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - games
+      - brand
+    notable:
+      - Hantu and Hunted!
+    social:
+      instagram: https://www.instagram.com/zeeviumgames/
+      linkedin: https://www.linkedin.com/company/zeevium/
+      youtube: https://www.youtube.com/@zeevium
+    added_at: '2026-11-08T22:14:00.712Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Warnakala Studios
+    url: https://www.warnakala.com/
+    description: Cyberjaya animation studio behind Didi & Friends and Makania, producing kids series, films and creative training.
+    hq:
+      city: Cyberjaya
+      country: Malaysia
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    careers: https://www.warnakala.com/career/
+    notable:
+      - Didi & Friends
+      - Makania
+      - Jazmine
+      - Didi & Friends The Movie
+    social:
+      instagram: https://www.instagram.com/warnakala_studios/
+      youtube: https://www.youtube.com/@WarnakalaStudios
+    added_at: '2026-11-08T22:14:00.713Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blindspot Studios
+    url: https://blindspot.my/
+    description: Shah Alam 3D animation studio making explainers, mascots, animated series, archviz and AR/VR content for brands and government.
+    hq:
+      city: Shah Alam
+      country: Malaysia
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - archviz
+      - xr
+    markets:
+      - advertising
+      - episodic
+      - real-estate
+    notable:
+      - Alif & Sofia
+      - Klum The Knight
+    social:
+      youtube: https://www.youtube.com/@blindspotstudios
+    added_at: '2026-11-08T22:14:00.714Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rawr Pictures
+    url: https://rawr-pictures.com/
+    description: Petaling Jaya studio making 2D and 3D animation, VFX and motion graphics for TV, film and brand campaigns.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    careers: https://rawr-pictures.com/careers.php
+    notable:
+      - The Muralz
+      - Rawr N Roll
+      - LEGO Monkie Kid
+    social:
+      behance: https://www.behance.net/rawrpictures
+      vimeo: https://www.vimeo.com/rawrpictures
+    added_at: '2026-11-08T22:14:00.715Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Quasa
+    url: https://www.studioquasa.com/
+    description: Shah Alam animation and VFX house offering motion design, 2D and 3D animation and post-production, and developing its own IP Semesta.
+    hq:
+      city: Shah Alam
+      country: Malaysia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - 'Semesta: Di Sebalik Tirai Bintang'
+    social:
+      instagram: https://www.instagram.com/studio.quasa/
+      behance: https://www.behance.net/StudioQuasa
+      youtube: https://www.youtube.com/@studioquasa
+    added_at: '2026-11-08T22:14:00.716Z'
+  - name: NVRT Design
+    url: https://nvrtdesign.com/
+    description: Malaysian 3D rendering studio making architectural stills and CGI for property developers' marketing.
+    hq:
+      city: Senawang
+      country: Malaysia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MMP Singapore
+    url: https://mmpeople.com.sg/
+    description: Singapore experiential design studio producing interpretive galleries, interactive walls, projection mapping and immersive museum media.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 1995
+    notable:
+      - Singapore Oceanarium experiential gallery
+    social:
+      vimeo: https://www.vimeo.com/mmpeople
+    added_at: '2026-11-08T22:14:00.718Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digimagic
+    url: https://digimagic.com.sg/
+    description: Singapore experiential media agency making immersive installations, projection mapping, VR and virtual tours for events, museums and brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - city: Petaling Jaya
+        country: Malaysia
+    disciplines:
+      - experiential
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/digitalmagic-communications-pte-ltd
+    added_at: '2026-11-08T22:14:00.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Artzee Animation
+    url: https://www.artzee.sg/
+    description: Singapore studio making 2D and 3D explainer, training and medical animation, game art and trailers, plus its own kids IP Stickypinch.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - outsourcing
+    markets:
+      - advertising
+      - games
+      - medical-science
+    notable:
+      - Stickypinch
+      - Kai Bai Bo
+    social:
+      instagram: https://www.instagram.com/artzeeanimation/
+      linkedin: https://www.linkedin.com/company/artzee/
+      youtube: https://www.youtube.com/channel/UCug2kP1YCnmnhuHeYrw42jg
+      x: https://x.com/artzeemedia
+    added_at: '2026-11-08T22:14:00.720Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Superpixel
+    url: https://superpixel.sg/
+    description: Singapore animation studio making 2D and 3D animated videos, AR/VR and projection work for brands, agencies and government.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - city: Melbourne
+        country: Australia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+      - experiential
+    markets:
+      - advertising
+      - brand
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/superpixel.creative/
+      youtube: https://www.youtube.com/channel/UCyuC4v1RiI2NImwJpQxm_ww
+    added_at: '2026-11-08T22:14:00.721Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dark Sandwich
+    url: https://darksandwich.com/
+    description: Remote Malaysian animation studio specialising in creature and gameplay animation for games and cinematics.
+    hq:
+      country: Malaysia
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/darksandwich_animation/
+      linkedin: https://www.linkedin.com/company/darksandwich
+      vimeo: https://vimeo.com/darksandwich
+      artstation: https://www.artstation.com/darksandwich
+      youtube: https://www.youtube.com/@darksandwich
+    added_at: '2026-11-08T22:14:00.722Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ENZTV
+    url: https://enztv.com/
+    description: Motion graphics and animation studio making 3D animation, VFX, AR/VR and virtual human content for brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    offices:
+      - city: Johor Bahru
+        country: Malaysia
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - vfx
+      - xr
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/enztv.multimedia/
+      linkedin: https://www.linkedin.com/company/enztv/
+      vimeo: https://vimeo.com/enztv
+    added_at: '2026-11-08T22:14:00.723Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sage Animation
+    url: https://sageanimation.com/
+    description: Singapore studio making 2D explainer videos and motion graphics for brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/sage-animation/
+    added_at: '2026-11-08T22:14:00.724Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Voxel
+    url: https://studiovoxel.com/
+    description: Petaling Jaya post house doing VFX, compositing, Xsens motion capture and motion graphics for film, TV, documentaries and brands.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    disciplines:
+      - vfx
+      - mocap
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Hantu Gangster
+      - Haze Heroes (History Channel)
+    social:
+      instagram: https://www.instagram.com/studiovoxel/
+      vimeo: https://vimeo.com/studiovoxel
+      youtube: https://www.youtube.com/@studiovoxel7761
+      x: https://twitter.com/studiovoxel
+    added_at: '2026-11-08T22:14:00.725Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Red Blu Monstar Studios
+    url: https://redblu4.wixsite.com/redblumonstarstudio
+    description: Kulai, Johor production house making 2D and 3D animation for TV series, ads, education and corporate clients.
+    hq:
+      city: Kulai
+      country: Malaysia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Kunci Galaxsi
+    added_at: '2026-11-08T22:14:00.726Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EDT (Experiential Design Team)
+    url: https://www.weareedt.com/
+    description: Kuala Lumpur studio building AR, VR and MR experiences, AI avatars, projection mapping and immersive installations for brands.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    disciplines:
+      - xr
+      - experiential
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/weareedt/
+      linkedin: https://www.linkedin.com/company/31284467/
+      youtube: https://www.youtube.com/@weareEDT
+    added_at: '2026-11-08T22:14:00.727Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bear Down Studios
+    url: https://www.beardownstudios.com/
+    description: Bandar Sunway concept art studio, part of TransPerfect, doing world-building, IP development and visual design for games and films.
+    hq:
+      city: Bandar Sunway
+      country: Malaysia
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/bear_down_studios/
+      linkedin: https://www.linkedin.com/company/bear-down-studios
+      artstation: https://www.artstation.com/beardownstudios
+    added_at: '2026-11-08T22:14:00.728Z'
+  - name: Pixljaya
+    url: https://pixljaya.com/
+    description: Cyberjaya virtual production studio with an LED volume stage, motion capture and an AI-assisted 3D content pipeline for film and ads.
+    hq:
+      city: Cyberjaya
+      country: Malaysia
+    disciplines:
+      - virtual-production
+      - mocap
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: https://www.instagram.com/pixljaya
+      linkedin: https://www.linkedin.com/company/pixljaya-studio
+      youtube: https://www.youtube.com/@PixlJaya
+    added_at: '2026-11-08T22:14:00.729Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Virtual X
+    url: https://virtualx.my/
+    description: Malaysian AR and VR company building virtual showrooms, 360 tours, training simulations and custom games for businesses.
+    hq:
+      country: Malaysia
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - real-estate
+    added_at: '2026-11-08T22:14:00.730Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

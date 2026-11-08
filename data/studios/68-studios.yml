@@ -1,0 +1,862 @@
+studios:
+  - name: Picture Post Studios
+    url: https://picturepoststudio.com/
+    description: Mumbai post-production studio for films, streaming shows and commercials, covering editing, colour, VFX, CGI and finishing.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Panchayat Season 3
+      - Khakee Season 2
+    social:
+      instagram: https://www.instagram.com/picture.post.studio.ltd
+      linkedin: https://www.linkedin.com/company/picturepoststudios
+    added_at: '2026-11-08T22:14:00.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: WRC Studios
+    url: https://wrcstudios.in/
+    description: Mumbai VFX studio for feature films and series, with environment and effects work on Bhoot Bangla.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Bhoot Bangla
+    social:
+      instagram: https://www.instagram.com/wrcstudios
+      linkedin: https://www.linkedin.com/company/wrcstudios
+    added_at: '2026-11-08T22:14:00.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio 56
+    url: https://studio56.com/
+    description: CGI animation studio making kids series and animated features for international broadcast, part of the Broadvision group.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2011
+    notable:
+      - The Black Diamond Race
+      - Mission Santa
+      - 'Esther: Queen of Courage'
+      - The Last Dinosaur
+    social:
+      instagram: https://www.instagram.com/studio56animation
+      linkedin: https://www.linkedin.com/company/studio56animationvfx
+    added_at: '2026-11-08T22:14:00.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DeMeg Studios
+    url: https://www.demegstudios.com/
+    description: Bengaluru 3D animation studio making animated content and original shorts such as Fira.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2019
+    notable:
+      - Fira
+    added_at: '2026-11-08T22:14:00.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ele Animations
+    url: https://eleanimations.com/
+    description: Bhubaneswar 2D animation studio producing devotional and mythology series and its own IP.
+    hq:
+      city: Bhubaneswar
+      country: India
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Mere Bhole
+      - Jay Jagannath
+    added_at: '2026-11-08T22:14:00.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tenali Rama Animations
+    url: https://tenalirama.com/
+    description: Bengaluru animation studio developing Indian mythology and folk-tale films and series.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - 'Ramayan: Luv Aur Kush Ke Nazar Se'
+    added_at: '2026-11-08T22:14:00.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ek Number Studios
+    url: https://www.eknumberstudios.com/
+    description: Mumbai VFX and motion graphics studio making animation, compositing and title design for brands, agencies and streamers.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - brand
+      - episodic
+    social:
+      instagram: https://www.instagram.com/eknumberstudios/
+    added_at: '2026-11-08T22:14:00.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ZebuFX
+    url: https://zebufx.com/
+    description: Independent VFX studio in Bengaluru and Hubballi creating visual effects for films, series and ads.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: Hubballi
+        country: India
+      - city: Thiruvananthapuram
+        country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/zebu.fx/
+      linkedin: https://www.linkedin.com/company/zebufx
+    added_at: '2026-11-08T22:14:00.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zebu Animation Studios
+    url: https://zebuanimation.com/
+    description: Animation studio making original Indian IP series and music videos, including The Wonderful Adventures of Suppandi.
+    hq:
+      country: India
+    offices:
+      - city: Thiruvananthapuram
+        country: India
+      - city: Bengaluru
+        country: India
+      - city: Hubballi
+        country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - music-video
+    founded: 2019
+    notable:
+      - The Wonderful Adventures of Suppandi
+      - Santhu Baba
+    added_at: '2026-11-08T22:14:00.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Envision VFX
+    url: https://envisionvfx.in/
+    description: Pune VFX, animation and design company working on feature films and series for Indian and international clients.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/envision.vfx/
+      linkedin: https://www.linkedin.com/company/envision-vfx/
+    added_at: '2026-11-08T22:14:00.490Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: R2VFX Studios
+    url: https://r2vfxstudios.com/
+    description: Mumbai VFX outsourcing studio for rotoscoping, paint, matchmove, compositing and CGI on Hollywood and Indian projects.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - outsourcing
+      - cg
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/r2vfx_studios/
+      linkedin: https://www.linkedin.com/company/r2vfx-studios
+      x: https://x.com/r2vfx
+    added_at: '2026-11-08T22:14:00.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EFFEX Studio
+    url: https://vfxstudio.in/
+    description: Chennai VFX and post-production studio handling CGI, 3D ads, DI, green-screen shoots and virtual production for films, OTT and TVCs.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+      - virtual-production
+    markets:
+      - film
+      - advertising
+      - episodic
+    added_at: '2026-11-08T22:14:00.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Talespun Studios
+    url: https://www.talespunstudios.com/
+    description: New Delhi animation studio making stop-motion and animated PSAs, music videos and social content for brands and NGOs.
+    hq:
+      city: New Delhi
+      country: India
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - brand
+      - music-video
+    added_at: '2026-11-08T22:14:00.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nube Cirrus
+    url: https://nubecirrus.com/
+    description: DI and VFX finishing house for Indian feature films and streaming series, sister brand of Nube Studio.
+    hq:
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - The Goat Life
+      - Do Patti
+      - Sitaare Zameen Par
+      - Mandala Murders
+    added_at: '2026-11-08T22:14:00.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Illusion Reality Studioz
+    url: https://www.illusionreality.in/
+    description: Mumbai VFX studio for streaming series and films, covering on-set supervision, 3D, compositing, matte painting, roto and prep.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T22:14:00.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Artha Animation
+    url: https://www.arthaanimation.com/
+    description: Mumbai animation studio making animated shorts, series and original IP for brands and broadcasters.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 7Mantle Studios
+    url: https://7mantlestudios.com/
+    description: Chennai 2D and 3D animation studio producing story-driven and educational animated content.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - brand
+    added_at: '2026-11-08T22:14:00.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Atheorem Studios
+    url: https://www.atheorem.in/
+    description: Hyderabad studio with a motion capture stage, producing animation, VFX, AI video and XR content plus its own IPs.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - mocap
+      - 3d-animation
+      - vfx
+      - xr
+    markets:
+      - film
+      - episodic
+      - games
+    added_at: '2026-11-08T22:14:00.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PIXL VFX
+    url: https://pixlvfx.com/
+    description: Puducherry VFX studio specialising in Houdini FX simulations, CGI and digital environments for film, games and ads.
+    hq:
+      city: Puducherry
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - games
+      - advertising
+    founded: 2020
+    added_at: '2026-11-08T22:14:00.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pencillati Studios
+    url: https://www.pencillati.com/
+    description: New Delhi game art and animation studio providing 2D/3D art, cinematics, VFX and co-development for game publishers.
+    hq:
+      city: New Delhi
+      country: India
+    offices:
+      - city: Singapore
+        country: Singapore
+    disciplines:
+      - outsourcing
+      - cinematics
+      - 3d-animation
+    markets:
+      - games
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Squad VFX
+    url: https://www.squadvfx.com/
+    description: Mumbai visual effects and animation studio working on films, series and commercials.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-08T22:14:00.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digitoonz
+    url: https://digitoonz.com/
+    description: 2D and 3D animation production house making kids series, CGI content and original IP for global clients.
+    hq:
+      country: India
+    offices:
+      - city: Noida
+        country: India
+      - city: Kolkata
+        country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rhinestone VFX
+    url: https://rhinestonevfx.com/
+    description: Hyderabad VFX studio providing compositing, roto and CG outsourcing for feature films and streaming shows.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T22:14:00.503Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Magmyth VFX Studio
+    url: https://magmyth.com/
+    description: Kochi VFX studio serving Malayalam cinema with visual effects, CGI and compositing since 2008.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+    founded: 2008
+    added_at: '2026-11-08T22:14:00.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pompee VFX
+    url: https://www.pompeevfx.com/
+    description: Kochi VFX studio delivering visual effects, CGI and 3D animation for films and commercials.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Unifi Media
+    url: https://unifimedia.com/
+    description: Bengaluru post-production studio offering VFX, DI and VR for films and television, with studios in Mumbai and Chennai.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: Mumbai
+        country: India
+      - city: Chennai
+        country: India
+    disciplines:
+      - vfx
+      - xr
+    markets:
+      - film
+      - episodic
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/unifimedia/
+    added_at: '2026-11-08T22:14:00.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Accel Media Ventures
+    url: https://accelmedia.in/
+    description: Chennai post-production company providing VFX, DI and animation for Tamil and Malayalam films.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+    added_at: '2026-11-08T22:14:00.507Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ChuChu TV
+    url: https://chuchutv.com/
+    description: Chennai kids content studio producing animated nursery rhymes and preschool shows for YouTube and streaming.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wackytoon Studio
+    url: https://www.wackytoon.in/
+    description: Kolkata animation studio making 2D and 3D animation, character design and storyboards for series and brands.
+    hq:
+      city: Kolkata
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2012
+    social:
+      linkedin: https://www.linkedin.com/company/wackytoon
+    added_at: '2026-11-08T22:14:00.509Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Videogyan
+    url: https://www.videogyan.com/
+    description: Bengaluru kids media studio producing 3D animated nursery rhymes and shows in several Indian languages.
+    hq:
+      city: Bengaluru
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    social:
+      instagram: https://www.instagram.com/videogyan.kids/
+      linkedin: https://www.linkedin.com/company/videogyan-media
+    added_at: '2026-11-08T22:14:00.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Plangle Studio
+    url: https://planglestudio.com/
+    description: Character animation and VFX studio making short films and its original IP Nayanar.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - advertising
+    notable:
+      - Nayanar
+    added_at: '2026-11-08T22:14:00.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DreamSnap Studio
+    url: https://dreamsnapstudio.in/
+    description: Hyderabad studio producing AI-native films, devotional epics and Telugu cinema made with generative AI pipelines.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - ai-production
+    markets:
+      - film
+    founded: 2015
+    notable:
+      - A Monk's Voice to the World
+    added_at: '2026-11-08T22:14:00.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: White Turtle Studios
+    url: https://whiteturtlestudios.com/
+    description: Mumbai creative studio making film trailer campaigns, digital campaigns and VFX and 3D packshot animation for brands.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - motion-design
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-08T22:14:00.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Anivision Studio
+    url: https://anivision.in/
+    description: Nashik archviz studio producing exterior, interior and township 3D renders and walkthroughs for developers and architects.
+    hq:
+      city: Nashik
+      country: India
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: F9 Post Studio
+    url: https://www.f9poststudio.com/
+    description: Mumbai post studio making CG and VFX for commercials and films, plus AI-made short films.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+      - ai-production
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-08T22:14:00.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: iRealities
+    url: https://irealities.com/
+    description: Mumbai experiential company producing projection-mapped light and sound shows, museum installations and immersive brand engagements.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T22:14:00.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tiltlabs
+    url: https://tiltlabs.io/
+    description: Thiruvananthapuram immersive tech studio building AR/VR experiences, virtual production, gamified interactives and digital twins.
+    hq:
+      city: Thiruvananthapuram
+      country: India
+    disciplines:
+      - xr
+      - virtual-production
+      - interactive
+    markets:
+      - brand
+    founded: 2014
+    added_at: '2026-11-08T22:14:00.517Z'
+  - name: Infobells
+    url: https://www.infobells.com/
+    description: Bengaluru kids content producer making animated nursery rhymes and stories in Hindi and regional Indian languages.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Prasad Corp
+    url: https://prasadcorp.com/
+    description: Chennai post-production and film heritage company offering restoration, colorisation, DI and VFX services for studios and archives.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/prasad_corp/
+      linkedin: https://www.linkedin.com/company/prasad-group-of-companies/
+      x: https://x.com/PrasadCorp
+    added_at: '2026-11-08T22:14:00.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Motionify
+    url: https://motionify.co/
+    description: Chennai video production studio making 2D and 3D animated explainers, promos, commercials and walkthroughs for businesses.
+    hq:
+      city: Chennai
+      country: India
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T22:14:00.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Acoroid Studio
+    url: https://www.acoroidstudio.com/
+    description: Ahmedabad 3D studio making product, assembly and machine animations from CAD for manufacturers in the US, UK and Europe.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - product-viz
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2019
+    added_at: '2026-11-08T22:14:00.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Clapstick Media
+    url: https://www.clapstickmedia.com/
+    description: Ahmedabad animation studio producing explainer videos, 3D animation and edtech content for brands and startups.
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T22:14:00.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 3D Services India
+    url: https://www.3dservicesindia.com/
+    description: 3D animation and VFX prep studio doing roto, matchmove and AI video for agencies, broadcasters and productions since 2013.
+    hq:
+      country: India
+    offices:
+      - city: New Delhi
+        country: India
+      - city: Gandhinagar
+        country: India
+    disciplines:
+      - 3d-animation
+      - vfx
+      - outsourcing
+    markets:
+      - advertising
+      - film
+      - episodic
+    added_at: '2026-11-08T22:14:00.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ImmersionX Technologies
+    url: https://immersionx.io/
+    description: Mumbai experience design studio building immersive experience centres, digital twins and real-time visualisation for enterprises.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-08T22:14:00.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Srushti Creative Studio
+    url: https://srushticreative.com/
+    description: Hyderabad CGI and VFX studio for films and games that also builds AR, VR, projection mapping and holographic experiences.
+    hq:
+      city: Hyderabad
+      country: India
+    disciplines:
+      - vfx
+      - cg
+      - xr
+      - experiential
+    markets:
+      - film
+      - games
+      - brand
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spectre Post
+    url: https://spectrepost.com/
+    description: Bengaluru VFX and post-production studio offering CGI, animation, previs and DI for feature films, with work on Amaran.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - vfx
+      - cg
+      - previs
+    markets:
+      - film
+    founded: 2024
+    notable:
+      - Amaran
+    added_at: '2026-11-08T22:14:00.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Avium Studios
+    url: https://aviumstudios.com/
+    description: Mumbai AI studio and film production company making generative AI films and series for its own channel and partners.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - ai-production
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T22:14:00.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kayhan Entertainment
+    url: https://kayhanentertainment.com/
+    description: Mumbai VFX and animation studio making film VFX, brand films and TVCs, and original IP such as Chote Tara Ka Bada Gadar.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+      - episodic
+    notable:
+      - Chote Tara Ka Bada Gadar
+    added_at: '2026-11-08T22:14:00.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wayu Digital Studio
+    url: https://wayudigital.com/
+    description: Mumbai creative studio making game trailers, cinematics, performance ads and marketing assets for game developers.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - cinematics
+      - motion-design
+      - 3d-animation
+    markets:
+      - games
+      - advertising
+    added_at: '2026-11-08T22:14:00.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Staunch Studios
+    url: https://www.staunchstudios.in/
+    description: Bengaluru animation studio developing original 3D kids series such as Ollie and the Bubble Heads.
+    hq:
+      city: Bengaluru
+      country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Ollie and the Bubble Heads
+    added_at: '2026-11-08T22:14:00.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

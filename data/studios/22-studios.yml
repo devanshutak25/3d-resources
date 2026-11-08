@@ -669,6 +669,7 @@ studios:
     url: https://www.resin.com.au/
     description: Independent VFX studio in South Australia delivering visual effects for feature films and episodic series, including around 200 shots for Elvis.
     hq:
+      city: Adelaide
       country: Australia
     disciplines:
       - vfx

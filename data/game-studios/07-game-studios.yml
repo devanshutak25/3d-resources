@@ -432,6 +432,7 @@ studios:
     url: https://www.urniquestudio.com/TH/home
     description: Thai indie studio behind the time-manipulation puzzle game Timelie.
     hq:
+      city: Bangkok
       country: Thailand
     segments:
       - indie

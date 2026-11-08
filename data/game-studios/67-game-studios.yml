@@ -1,0 +1,958 @@
+studios:
+  - name: intiny
+    url: https://love.xiaoyouneirong.com/
+    description: Guangzhou studio making live-action interactive films, including the 2023 hit Love Is All Around and its sequel.
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Love Is All Around
+    added_at: '2026-11-08T22:14:00.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Quxuan Network
+    url: http://www.q-dazzle.com/
+    description: Guangzhou developer and operator of mobile online games, founded in 2013.
+    hq:
+      city: Guangzhou
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FIREBEAST
+    url: https://www.firebeaststudio.com/
+    description: Indie studio making action games for PC and console, including the Zombo Buster series.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    notable:
+      - Zombo Buster Advance
+      - Zombo Buster Rising
+      - Mighty Knight Legacy
+    social:
+      youtube: https://www.youtube.com/@Firebeaststudio
+      x: https://x.com/firebeaststudio
+    added_at: '2026-11-08T22:14:00.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cliffbite Game
+    url: https://www.cliffbite.com/
+    description: Indie studio making cozy strategy and casual PC games such as Once Upon A Kingdom and Cookard.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cookard
+      - Once Upon A Kingdom
+      - Chu-Bang!
+    social:
+      instagram: https://www.instagram.com/cliffbitegame
+      x: https://twitter.com/cliffbitegame
+    added_at: '2026-11-08T22:14:00.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pantoy Games
+    url: https://pantoygames.com/
+    description: Independent studio making mobile and PC games with Filipino stories, including the horror game Trance.
+    hq:
+      city: Butuan City
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Trance
+    added_at: '2026-11-08T22:14:00.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: stellarNull
+    url: https://stellarnull.dev/
+    description: Remote indie team making retro-style action RPGs for PC and console, including Anuchard.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2011
+    notable:
+      - Anuchard
+      - Mentari (in development)
+    social:
+      instagram: https://instagram.com/stellar.null
+      x: https://x.com/stellarNull
+      youtube: https://youtube.com/stellarNull
+    added_at: '2026-11-08T22:14:00.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GingerSun Games
+    url: https://gingersungames.com/
+    description: Game studio making PC and mobile games such as Legends of Crystal and Unrivaled Heroes, plus gamification and AR work for businesses.
+    hq:
+      city: Sidoarjo
+      country: Indonesia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Legends of Crystal
+      - 'Unrivaled Heroes: 2.5D Brawler'
+      - ELIMORA
+    social:
+      instagram: https://www.instagram.com/gingersungames
+      x: https://x.com/gingersungames
+      youtube: https://www.youtube.com/channel/UCSiG9s5TA5fIJ_mPwxobYhQ
+    added_at: '2026-11-08T22:14:00.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Solite Kids
+    url: https://solitekids.com/
+    description: Edutech studio making Indonesian-language learning game apps for kindergarten and primary school children, with 80+ apps since 2016.
+    hq:
+      city: Bangkalan
+      country: Indonesia
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    founded: 2016
+    added_at: '2026-11-08T22:14:00.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Storytale
+    url: https://www.storytale.co.id/
+    description: Independent studio making first-person horror games based on Indonesian folklore, including the Pamali series.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Pamali: Indonesian Folklore Horror'
+    social:
+      instagram: https://www.instagram.com/storytalestudios
+      youtube: https://www.youtube.com/storytalestudios
+    added_at: '2026-11-08T22:14:00.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Niji Games
+    url: https://nijigames.com/
+    description: Small studio making and co-developing PC games such as The Sun Shines Over Us and Memory Rewind.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - The Sun Shines Over Us
+      - Memory Rewind
+      - Sunny Side Crossing (co-dev)
+    social:
+      instagram: https://www.instagram.com/nijigames
+      x: https://twitter.com/nijigamesstudio
+    added_at: '2026-11-08T22:14:00.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mankibo
+    url: https://mankibo.com/
+    description: Indie studio making accessible games and hiring people with special needs, known for the desktop companion game Montabi.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Montabi
+    social:
+      instagram: https://www.instagram.com/mankibogames
+      linkedin: https://www.linkedin.com/company/mankibo
+      x: https://x.com/MankiboGames
+    added_at: '2026-11-08T22:14:00.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pandora Entertainment
+    url: https://pandoraentertainment.id/
+    description: 'Game studio making PC and mobile games on Indonesian folklore, such as Niskala: Sacred Knowledge of Leyak, plus AR apps and 3D asset outsourcing.'
+    hq:
+      city: Bali
+      country: Indonesia
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Niskala: Sacred Knowledge of Leyak'
+      - AR Wayang (Sidhi Plus)
+    social:
+      artstation: https://pandoraentertainment.artstation.com
+      instagram: https://www.instagram.com/pandoraentertainment.id
+      youtube: https://www.youtube.com/@pandoraentertainment23
+    added_at: '2026-11-08T22:14:00.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Antimeta Studio
+    url: https://antimeta.id/
+    description: Indie studio making PC games including the cozy city builder Verde and the tycoon comedy KhodamPreneur.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Verde and the Echoing Water
+      - KhodamPreneur
+      - Retro Invasion
+    social:
+      instagram: https://www.instagram.com/antimetastudio
+      youtube: https://www.youtube.com/@AntimetaStudio
+      x: https://x.com/AntimetaStudio
+    added_at: '2026-11-08T22:14:00.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hwaye Studio
+    url: https://hwaye.studio/
+    description: Indie studio making first-person psychological horror games, the Haze of Lucidity (Halu) series.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Haze of Lucidity (Halu): The Fracture'
+      - 'Haze of Lucidity (Halu): The Fish'
+    added_at: '2026-11-08T22:14:00.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Noobzilla
+    url: https://noobzilla.games/
+    description: Two-person team making small cat-themed hidden-object games for PC, including the Cats and Seek series.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Cats and Seek: Tokyo'
+      - 'Cats and Seek: Dino Park'
+      - 'Cats and Seek: Zoo'
+      - 'Pictective 2: Around The World'
+    social:
+      instagram: https://www.instagram.com/noobzilla.games
+      x: https://twitter.com/noobzilla_team
+    added_at: '2026-11-08T22:14:00.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Akhir Pekan Studio
+    url: https://akhirpekan.studio/
+    description: Studio making life and business simulation games for PC and mobile, such as Bakso Simulator and Laundry Store Simulator.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    segments:
+      - simulation
+      - mobile
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 2022
+    notable:
+      - Bakso Simulator 2
+      - Laundry Store Simulator
+      - Movie Cinema Simulator
+      - Gaming Cafe Life
+    social:
+      instagram: https://www.instagram.com/akhirpekanstudio
+      youtube: https://www.youtube.com/@akhirpekanstudio
+    added_at: '2026-11-08T22:14:00.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lion Core
+    url: https://www.lioncore.id/
+    description: Indie studio making stylized anime-style PC games such as Masquaradious, rebranded from Magesoft (Burst Fighter) in 2022.
+    hq:
+      city: Malang
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Masquaradious
+      - Memory Rewind
+      - Burst Fighter
+    social:
+      instagram: https://www.instagram.com/lioncore.id
+      x: https://x.com/lioncoreid
+    added_at: '2026-11-08T22:14:00.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Inner Sight Games
+    url: https://innersightgames.com/
+    description: Indie studio making PC games with mystical and spiritual themes, including Luxman Moonlit Market.
+    hq:
+      city: Bandung
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Luxman Moonlit Market
+    social:
+      instagram: https://www.instagram.com/innersight.games
+      x: https://x.com/InnerSightGames
+    added_at: '2026-11-08T22:14:00.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: WizDream Games
+    url: https://wizdreamgames.com/
+    description: Indie studio making mobile puzzle games such as SparkLine and the strategy game The Gambit Lost to Time.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - SparkLine
+      - Circle of Sparks
+      - The Gambit Lost to Time (upcoming)
+    social:
+      instagram: https://www.instagram.com/wizdreamgames
+      x: https://twitter.com/wizdreamgames
+    added_at: '2026-11-08T22:14:00.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Namaapa
+    url: https://studionamaapa.com/
+    description: Indie studio making cozy simulation and RPG games, including the child-raising sim Ciel Fledge.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Ciel Fledge: A Daughter Raising Simulator'
+    added_at: '2026-11-08T22:14:00.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MCKY Studio Labs
+    url: https://mckystudiolabs.com/
+    description: Indie studio making horror and adventure games rooted in Indonesian village folklore, such as Parman.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Parman
+      - Echoes of Paur
+    added_at: '2026-11-08T22:14:00.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bakunawa Studios
+    url: https://www.bakunawastudios.com/
+    description: 'Indie studio making mechanics-driven PC games such as Loophole: The Prison Break.'
+    hq:
+      country: Philippines
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Loophole: The Prison Break'
+    added_at: '2026-11-08T22:14:00.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Maccima Games
+    url: https://www.maccima.com/
+    description: 'Indie studio making strategy and simulation games for PC, including the villain sim Ruinarch and Eat the Rich: Greed Games.'
+    hq:
+      country: Philippines
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Ruinarch
+      - 'Eat the Rich: Greed Games'
+    added_at: '2026-11-08T22:14:00.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GINVO Studio
+    url: https://ginvostudio.com/
+    description: Indie studio making casual mobile games such as Kids Jaman Now and Knight of Dice, plus game development outsourcing.
+    hq:
+      country: Indonesia
+    segments:
+      - mobile
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Kids Jaman Now
+      - Knight of Dice
+      - Nikahan Mantan
+      - NPCVille (upcoming)
+    social:
+      instagram: https://www.instagram.com/ginvostudio
+      linkedin: https://www.linkedin.com/company/ginvostudio
+      x: https://twitter.com/ginvostudio
+    added_at: '2026-11-08T22:14:00.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Akhir Hayat Studio
+    url: https://akhirhayat.studio/
+    description: Indie studio making psychological and PSX-style horror games for PC, such as the Overtime series and Project CCTV.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Overtime: Patrol'
+      - 'Overtime: Paper Trail'
+      - Project CCTV
+      - 'Obsessed: Night Shift (with ARydk)'
+    social:
+      instagram: https://www.instagram.com/akhirhayatstudio
+      x: https://x.com/AkhirHayatTeam
+    added_at: '2026-11-08T22:14:00.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rezero Studio
+    url: https://rezerostudio.com/
+    description: Small indie team making Super Shout Showdown, an action game where players shout their moves into the microphone.
+    hq:
+      country: Indonesia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Super Shout Showdown
+    social:
+      instagram: https://www.instagram.com/rezero.studio
+      youtube: https://www.youtube.com/@rezerostudio
+    added_at: '2026-11-08T22:14:00.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Highbrow Interactive
+    url: https://www.highbrowinteractive.com/
+    description: Simulation game studio making Indian Train Simulator and Bus Masters India for mobile.
+    hq:
+      city: Chennai
+      country: India
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Indian Train Simulator
+      - Bus Masters India
+      - Truck Masters India
+      - Rest Stop Tycoon
+    social:
+      instagram: https://www.instagram.com/highbrowinteractive/
+      youtube: https://www.youtube.com/channel/UCxBOJ0jlilRRpYl0REDnXdw
+    added_at: '2026-11-08T22:14:00.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rendered Ideas
+    url: https://www.renderedideas.com/
+    description: Mobile game developer and publisher of action, platformer and cooking games such as Jungle Adventures and Alpha Guns.
+    hq:
+      city: Mumbai
+      country: India
+    offices:
+      - city: Bengaluru
+        country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Jungle Adventures 3
+      - Alpha Guns 2
+      - Strike Force 2
+      - Cooking Star Chef
+    social:
+      instagram: https://www.instagram.com/renderedideas/
+      linkedin: https://www.linkedin.com/company/rendered-ideas
+      youtube: https://www.youtube.com/renderedideas
+      x: https://twitter.com/RenderedIdeas
+    added_at: '2026-11-08T22:14:00.490Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Reliance Games
+    url: https://www.reliancegames.com/
+    description: Mobile game developer known for licensed titles like Real Steel and WWE Mayhem, with publishing, QA and live-ops services.
+    hq:
+      city: Pune
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    notable:
+      - WWE Mayhem
+      - Real Steel World Robot Boxing
+      - Drone Shadow Strike 3
+      - 'Pacific Rim: The Mobile Game'
+    social:
+      instagram: https://www.instagram.com/reliance_games/
+      linkedin: https://www.linkedin.com/company/reliance-games
+      x: https://twitter.com/RelianceGames
+    added_at: '2026-11-08T22:14:00.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bablabo Games
+    url: https://bablabogames.com/
+    description: Three-person indie team making Hush Hush High, a school-themed PC game of secrets and mini-games.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Hush Hush High
+    added_at: '2026-11-08T22:14:00.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BornMonkie
+    url: https://bornmonkie.com/
+    description: Independent studio making PC games, including Dodo Duckie and the India-set action horror game Occult Chambers.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dodo Duckie
+    social:
+      instagram: https://www.instagram.com/bornmonkie/
+      linkedin: https://www.linkedin.com/company/bornmonkie/
+      x: https://twitter.com/bornmonkie
+    added_at: '2026-11-08T22:14:00.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Solozard Games
+    url: https://solozard.com/
+    description: Small indie team making solo survival horror games, including Terror Call.
+    hq:
+      city: Namakkal
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2024
+    notable:
+      - Terror Call
+    social:
+      instagram: https://www.instagram.com/solozard_games/
+      linkedin: https://www.linkedin.com/company/solozardgames/
+      youtube: https://www.youtube.com/@Solozard_Games
+    added_at: '2026-11-08T22:14:00.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wala Interactive
+    url: https://www.walainteractive.com/
+    description: Game studio with 40+ casual mobile games, own and for hypercasual publishers, and the couch co-op PC game Spook-A-Boo.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - indie
+      - mobile
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Spook-A-Boo
+    social:
+      instagram: https://www.instagram.com/walainteractive/
+      linkedin: https://www.linkedin.com/company/walainteractive/
+      youtube: https://www.youtube.com/channel/UCyTcDLags8belm7OJUqq-NA
+      x: https://twitter.com/WalaInteractive
+    added_at: '2026-11-08T22:14:00.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tentworks Interactive
+    url: https://tentworks.io/
+    description: PC game studio behind the city builder City Block Builder and the upcoming Becoming Pablo.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - City Block Builder
+      - Becoming Pablo
+    social:
+      instagram: https://www.instagram.com/tentworks_interactive/
+      youtube: https://www.youtube.com/@tentworksinteractive
+    added_at: '2026-11-08T22:14:00.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: imissmyfriends.studio
+    url: https://imissmyfriends.studio/
+    description: Two-person indie studio that made Fishbowl, a slice-of-life coming-of-age narrative game for PC and PS5.
+    hq:
+      city: Goa
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fishbowl
+    social:
+      instagram: http://instagram.com/imissmyfriends.studio
+      youtube: https://www.youtube.com/channel/UC9X2hI_Fo6wLSpMSMoUKnlA
+      x: https://twitter.com/imissmy_friends
+    added_at: '2026-11-08T22:14:00.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AM Playhouse
+    url: https://www.amplayhouse.in/
+    description: Independent team making PC simulation and management games such as Game Builder Tycoon and Ice Cream Simulator.
+    hq:
+      city: Ujjain
+      country: India
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Game Builder Tycoon
+      - Ice Cream Simulator
+      - Flee the Fallen
+    added_at: '2026-11-08T22:14:00.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gallic Entertainment
+    url: https://www.gallicentertainment.com/
+    description: 'Indie studio making cozy PC games, including Silktrails 2: Cats in the Grove and Solnest.'
+    hq:
+      city: Dehradun
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Silktrails 2: Cats in the Grove'
+      - Solnest
+      - Silkgrove
+    social:
+      instagram: https://www.instagram.com/gallicentertainment/
+      linkedin: https://www.linkedin.com/company/gallic-entertainment/
+      youtube: https://www.youtube.com/@gallicentertainment
+      x: https://x.com/gallic_ent
+    added_at: '2026-11-08T22:14:00.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AbhiTechGames
+    url: https://abhitechgames.com/
+    description: Indie studio behind Laser Tanks and Paperly, now making the RTS Warbound under a Nazara publishing deal.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Laser Tanks
+      - 'Paperly: Paper Plane Adventure'
+      - Warbound
+    social:
+      instagram: https://www.instagram.com/abhitechgames
+      youtube: https://www.youtube.com/@AbhiTechGames
+      x: https://www.twitter.com/AbhiTechGames
+    added_at: '2026-11-08T22:14:00.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Street Lamp Games
+    url: http://www.streetlampgames.com/
+    description: Indie studio that made the puzzle game CUBOTS The Origins and is building Souls of Bombarika with 1312 Interactive.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - CUBOTS The Origins
+      - Souls of Bombarika
+    social:
+      instagram: http://instagram.com/streetlampgames
+      linkedin: https://www.linkedin.com/company/streetlampgames/
+      x: http://twitter.com/streetlampgames
+    added_at: '2026-11-08T22:14:00.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: XSQUADS Tech
+    url: https://xsquads.com/
+    description: Mobile game developer and publisher of Scarfall 2.0, a battle royale with India-inspired maps.
+    hq:
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Scarfall 2.0
+    social:
+      linkedin: https://www.linkedin.com/company/xsquads/
+      youtube: https://www.youtube.com/c/XSQUADS
+      x: https://twitter.com/xsquadstech
+    added_at: '2026-11-08T22:14:00.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tara Gaming
+    url: https://theageofbhaarat.com/
+    description: Studio co-founded by author Amish Tripathi, building The Age of Bhaarat, a Ramayana-era action-adventure for PC and console.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Age of Bhaarat
+    added_at: '2026-11-08T22:14:00.503Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LightFury Games
+    url: https://www.lightfurygames.com/
+    description: Game-tech company building eCricket, an Unreal Engine 5 cricket game for mobile with licensed player avatars.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - eCricket
+    social:
+      instagram: https://www.instagram.com/lightfurygames/
+      linkedin: https://www.linkedin.com/company/lightfury-games/
+      youtube: https://www.youtube.com/channel/UC70j5Z4gCzIxS1QKpRe7nDA/
+      x: https://twitter.com/LightFuryGames
+    added_at: '2026-11-08T22:14:00.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Masala Games
+    url: https://www.masalagames.com/
+    description: Indie studio behind Detective Dotson, a Bollywood-flavoured detective adventure released with a companion animated film.
+    hq:
+      city: Ahmedabad
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Detective Dotson
+    added_at: '2026-11-08T22:14:00.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tathvamasi Studios
+    url: https://tathvamasi.com/
+    description: 'Small indie studio making single-player games with Indian aesthetics, starting with the rhythm platformer SURI: The Seventh Note.'
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'SURI: The Seventh Note'
+    added_at: '2026-11-08T22:14:00.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gape Labs
+    url: https://www.gapelabs.com/
+    description: Mobile game studio making the Arcado series of tower defense and MOBA games.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Arcado Champs: Tower Defense'
+      - 'Arcado Battle: MOBA'
+    social:
+      linkedin: https://www.linkedin.com/company/gape-labs/
+    added_at: '2026-11-08T22:14:00.507Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Holy Cow Productions
+    url: https://holycowprod.com/
+    description: Game studio making its own titles such as Mystic Pillars and offering 2D/3D art, programming and design outsourcing.
+    hq:
+      country: India
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Mystic Pillars
+      - Mystic Pillars X Kantara
+      - 'Requital: Gates of Blood'
+      - Super Brick Master 3000
+    social:
+      instagram: https://www.instagram.com/holycowprod
+      linkedin: https://in.linkedin.com/company/holycowproductions
+      youtube: https://www.youtube.com/@holy-cow-productions
+      x: https://x.com/HolyCowProd
+    added_at: '2026-11-08T22:14:00.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tuttifrutti Interactive
+    url: http://www.tuttifrutti.in/
+    description: 'Narrative game studio behind Darkarta: A Broken Heart''s Quest, now making the Unreal 5 action-adventure Broken, But Not Dead.'
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Darkarta: A Broken Heart''s Quest'
+      - 'Broken, But Not Dead: Curse of Nakht-Hor'
+    social:
+      linkedin: https://www.linkedin.com/company/tuttifrutti-interactive
+      x: https://twitter.com/tuttifrutti_gam
+    added_at: '2026-11-08T22:14:00.509Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Silvine Game Studios
+    url: https://www.silvinegamestudios.com/
+    description: 'Small indie studio that made the tactics game Artifice: War Tactics and is building Chakravyuh.'
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - 'Artifice: War Tactics'
+      - Chakravyuh
+    added_at: '2026-11-08T22:14:00.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kyrel
+    url: https://kyrelgames.in/
+    description: 'Indie studio making short PC puzzle and rage games such as PinDrop: Escape The Room and Screw IT.'
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'PinDrop: Escape The Room'
+      - Screw IT
+      - 'PHi: The Broken Strings'
+    social:
+      linkedin: https://www.linkedin.com/company/kyrel/
+      youtube: https://youtube.com/@Kyrel_Games
+      x: https://x.com/Kyrel_Play
+    added_at: '2026-11-08T22:14:00.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mayawi Software
+    url: https://www.mayawisoftware.com/
+    description: Indie developer of PC games including the strategy title The Last King and the hunting game Huntin' Buddies.
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Last King
+      - Huntin' Buddies
+    social:
+      x: https://twitter.com/MayawiSoftware
+    added_at: '2026-11-08T22:14:00.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

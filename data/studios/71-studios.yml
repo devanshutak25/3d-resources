@@ -1,0 +1,891 @@
+studios:
+  - name: Zeronium
+    url: https://www.zeronium.com/
+    description: Akita 3DCG production company doing anime and game CG, VFX, XR and 360-degree video.
+    hq:
+      city: Akita
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+      - xr
+    markets:
+      - games
+      - advertising
+    added_at: '2026-11-08T22:14:00.631Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LIL
+    url: https://www.lil.vision/
+    description: Visual arts studio doing video, spatial and stage direction, animation and projection mapping.
+    hq:
+      country: Japan
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2018
+    added_at: '2026-11-08T22:14:00.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aldina Visual
+    url: https://aldinavisual.com/
+    description: Product CG and CG video studio making advertising visuals for B2B companies.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T22:14:00.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: YAMATOWORKS
+    url: https://yamato-works.com/
+    description: CG animation studio working on anime series and films.
+    hq:
+      city: Kokubunji
+      country: Japan
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T22:14:00.634Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Just Cause Productions
+    url: https://www.for-the-cause.com/
+    description: CG studio making CG animation, game cutscenes and previs.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - previs
+    markets:
+      - games
+      - film
+    added_at: '2026-11-08T22:14:00.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Jet Studio
+    url: https://jetstudio.jp/
+    description: Independent CG production company making CG movies for games, anime, film and commercials since 2001.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cinematics
+      - 3d-animation
+      - cg
+    markets:
+      - games
+      - film
+      - advertising
+    founded: 2001
+    added_at: '2026-11-08T22:14:00.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: STUDIO Soup.
+    url: https://studio-soup.net/
+    description: Optical motion capture studio in Tokyo running a Vicon stage for games and video.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - mocap
+    markets:
+      - games
+      - film
+    added_at: '2026-11-08T22:14:00.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Integral Vision Graphics
+    url: https://www.integral-vision.net/
+    description: 3DCG production company contributing CG to films, commercials and games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+      - games
+    added_at: '2026-11-08T22:14:00.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Colossus
+    url: https://cls-studio.co.jp/
+    description: CG production studio making CG video for brands, commercials and games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+      - games
+    founded: 2007
+    added_at: '2026-11-08T22:14:00.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digidelic
+    url: https://digidelic.jp/
+    description: Real-time graphics studio doing VR, AR and virtual production visuals for esports, concerts, ads and streams.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - xr
+      - virtual-production
+      - experiential
+    markets:
+      - brand
+      - advertising
+      - music-video
+    added_at: '2026-11-08T22:14:00.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Concept Lab
+    url: https://concept-lab.co.jp/
+    description: Planning and CG production company making CG, VFX and commercial video.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - games
+    added_at: '2026-11-08T22:14:00.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Unbereal
+    url: https://unbereal.co.jp/
+    description: Product CG studio in Sabae making product visuals for manufacturers.
+    hq:
+      city: Sabae
+      country: Japan
+    disciplines:
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T22:14:00.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TREE Digital Studio
+    url: https://www.tdsi.co.jp/
+    description: Content production group covering planning, shooting, editing, CG, VFX and programming.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.643Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BUEMON
+    url: https://buemon.com/
+    description: Animation and CG studio making short anime and character design and CG for film and streaming titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - cg
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T22:14:00.644Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spooky graphic
+    url: https://www.spooky.tv/
+    description: Animation studio doing graphic and character design, storyboards and animation for TV and ads.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-08T22:14:00.645Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Welz Animation Studios
+    url: https://www.welzanimation.com/
+    description: CG animation studio making CG for TV and theatrical anime, commercials and corporate video, plus its own short IP.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    added_at: '2026-11-08T22:14:00.646Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Igaku Eizou Kyouiku Center
+    url: https://www.igakueizou.co.jp/
+    description: Medical video and CG producer making training and education content for medical and nursing schools, with offices in Tokyo and Osaka.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - cg
+      - live-action
+    markets:
+      - medical-science
+    added_at: '2026-11-08T22:14:00.647Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flying Ship Studio
+    url: https://www.flyingship.co.jp/
+    description: 3D animation and video production company working on anime, games and brand video.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+      - brand
+    added_at: '2026-11-08T22:14:00.648Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Toei Zukun Lab
+    url: https://zukun-lab.com/
+    description: Toei research unit doing performance capture, digital humans, CGI and XR for film, TV and ads.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - mocap
+      - scanning
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-08T22:14:00.649Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MADBOX
+    url: https://madbox.jp/
+    description: Anime and video production company covering 3DCG, colour design, editing and illustration.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.650Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: IKIF+
+    url: https://www.ikifplus.co.jp/
+    description: 3DCG studio making CG for OVA, theatrical and TV anime.
+    hq:
+      city: Chofu
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T22:14:00.651Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MASH Design Lab
+    url: https://www.mashdesignlab.com/
+    description: CG and web design company making architectural CG and websites.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.652Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AMBER VFX GROUP
+    url: https://www.ambgrp.net/
+    description: VFX and CG house doing compositing, CG, VR and AR for film, TV, commercials and music videos.
+    hq:
+      city: Tama
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - xr
+    markets:
+      - film
+      - advertising
+      - music-video
+    added_at: '2026-11-08T22:14:00.653Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: QLEA
+    url: https://www.qlea.co.jp/
+    description: CG, web and video production company for the real estate industry, with offices in Tokyo, Hiroshima, Osaka and Fukuoka.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Hiroshima
+        country: Japan
+      - city: Osaka
+        country: Japan
+      - city: Fukuoka
+        country: Japan
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    founded: 2002
+    added_at: '2026-11-08T22:14:00.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Imaginary Power
+    url: https://www.imaginarypower.com/
+    description: 3DCG and VFX production company working on films such as Kingdom and on Gundam projection mapping shows.
+    hq:
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - experiential
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-08T22:14:00.655Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: REELVISION
+    url: http://www.reelvision.jp/
+    description: CG and motion graphics production company making concert, music and advertising visuals.
+    hq:
+      country: Japan
+    disciplines:
+      - motion-design
+      - cg
+    markets:
+      - music-video
+      - advertising
+    founded: 2009
+    added_at: '2026-11-08T22:14:00.656Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Solidray Institute
+    url: https://www.solidray.co.jp/
+    description: Industrial VR and stereoscopic 3D developer with over 35 years of in-house content and system work.
+    hq:
+      country: Japan
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - medical-science
+    added_at: '2026-11-08T22:14:00.657Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Liberty Mirai-bu
+    url: https://mi-rai.info/
+    description: Shizuoka production company making local video, CG and projection mapping projects.
+    hq:
+      city: Shizuoka
+      country: Japan
+    disciplines:
+      - cg
+      - experiential
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.658Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Monster Studio
+    url: https://www.monsterstudio.tv/
+    description: 3D animation studio behind the comedy series Bread Barbershop, plus Cherrytoon and Coco & Siro.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Bread Barbershop
+      - Cherrytoon
+      - Coco & Siro
+    social:
+      instagram: https://www.instagram.com/breadbarbershop/
+      youtube: https://www.youtube.com/@BreadBarbershop
+    added_at: '2026-11-08T22:14:00.659Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Alimoli Studio
+    url: https://www.alimolistudio.com/
+    description: Character IP studio making 3D kids animation such as Astrostation for KBS2, plus VR content.
+    hq:
+      city: Suncheon
+      country: South Korea
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - episodic
+    notable:
+      - Astrostation
+      - Dream Catchers
+    social:
+      instagram: https://www.instagram.com/alimolistudiovr/
+      youtube: https://www.youtube.com/channel/UCkCudplols2kZ9JoKjtvbxQ
+    added_at: '2026-11-08T22:14:00.660Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: JUNKY CREAM
+    url: https://junkycream.com/
+    description: Entertainment IP studio combining Unreal Engine, 3D motion and AI to make animation, AI films and virtual artists.
+    hq:
+      city: Seoul
+      country: South Korea
+    offices:
+      - city: Beverly Hills
+        country: United States
+    disciplines:
+      - 3d-animation
+      - ai-production
+      - experiential
+    markets:
+      - film
+      - episodic
+      - music-video
+    notable:
+      - PARADOX VEIL
+    social:
+      instagram: https://www.instagram.com/junky_cream/
+      youtube: https://www.youtube.com/channel/UCvTARjzHMhhjOP9l1ycqIaA
+    added_at: '2026-11-08T22:14:00.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pingo Entertainment
+    url: https://www.pingo.kr/
+    description: Kids animation studio planning and producing full CGI series such as Shasha & Milo and GIGABUILDER.
+    hq:
+      country: South Korea
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2016
+    notable:
+      - Shasha & Milo
+      - GIGABUILDER
+    social:
+      instagram: https://www.instagram.com/pingoent/
+    added_at: '2026-11-08T22:14:00.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SangSangBang
+    url: http://www.sangsangplace.com/
+    description: 3D animation studio making original kids series such as Pramon Expedition and Pantyman.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2019
+    notable:
+      - Pramon Expedition
+      - Pantyman
+    added_at: '2026-11-08T22:14:00.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Shelter
+    url: https://studioshelter.co.kr/
+    description: 2D animation and motion graphics studio making original series, commercials, promo videos and character design.
+    hq:
+      city: Seoul
+      country: South Korea
+    offices:
+      - city: Gwangju
+        country: South Korea
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+      - brand
+    notable:
+      - Maru is a Puppy
+    social:
+      instagram: https://www.instagram.com/studio_shelter/
+      youtube: https://www.youtube.com/user/shelteranimation/
+    added_at: '2026-11-08T22:14:00.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ICONIX
+    url: https://www.iconix.co.kr/
+    description: Kids content company developing and producing animated series such as Tayo the Little Bus, Pororo and Hechi.
+    hq:
+      city: Seongnam
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 1996
+    notable:
+      - Tayo the Little Bus
+      - Pororo the Little Penguin
+      - Hechi
+      - Zanmang Loopy
+    social:
+      instagram: https://www.instagram.com/iconix__official/
+    added_at: '2026-11-08T22:14:00.665Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Choirock Contents Company
+    url: http://www.choirockcf.com/
+    description: Toy and animation company that plans and produces kids series such as Hello Carbot and Turning Mecard.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2007
+    notable:
+      - Hello Carbot
+      - Turning Mecard
+      - Dino Mecard
+      - Sophie Ruby
+    social:
+      instagram: https://www.instagram.com/choirock_official/
+    added_at: '2026-11-08T22:14:00.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Soul Creative
+    url: http://soulcreative.co.kr/
+    description: 2D and 3D animation studio producing kids series and doing layout, key and in-between animation for Japanese TV anime.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2008
+    notable:
+      - The Secret Diary of Banji
+      - Taekwon Hero Kkuang
+      - 'Arifureta: From Commonplace to World''s Strongest S3 (BG)'
+      - 'The Seven Deadly Sins: Four Knights of the Apocalypse (episode work)'
+    added_at: '2026-11-08T22:14:00.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RetroBot Animation Studios
+    url: https://www.retrobot.co.kr/
+    description: 3D CGI animation studio behind the robot series TOBOT and PotenDogs, also offering series, feature and game cinematic production.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - episodic
+      - film
+      - games
+    founded: 2008
+    notable:
+      - TOBOT
+      - PotenDogs
+      - 'TOBOT The Movie: Attack of the Robot Force'
+      - BIKLONZ
+    social:
+      instagram: https://www.instagram.com/potendogs/
+      youtube: https://www.youtube.com/channel/UCaT8jYOqn_-MGsS8G7h9Zqg
+      x: https://twitter.com/PotenDogs
+    added_at: '2026-11-08T22:14:00.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: WESTWORLD
+    url: https://www.westworld.co.kr/
+    description: VFX studio for Korean film and streaming series, known for the Sweet Home creatures, with an SFX stage and DI unit.
+    hq:
+      country: South Korea
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    notable:
+      - Sweet Home
+      - The Silent Sea
+      - All of Us Are Dead
+      - Exhuma
+    added_at: '2026-11-08T22:14:00.669Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: STUDIO AIM
+    url: https://studioaim.co.kr/
+    description: Marketing content studio that plans and produces ads and brand videos with generative AI.
+    hq:
+      city: Bucheon
+      country: South Korea
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/studio_aim_official/
+      youtube: https://www.youtube.com/@STUDIOaimofficial
+    added_at: '2026-11-08T22:14:00.670Z'
+  - name: POLYART STUDIO
+    url: https://polyart.co.kr/
+    description: VR, AR and XR content studio making safety training, exhibition and interactive projection content for companies and public bodies.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - xr
+      - interactive
+      - scanning
+    markets:
+      - brand
+    notable:
+      - Hyundai E&C heavy-equipment XR safety training
+      - Incheon Airport security-check MR training
+    social:
+      youtube: https://www.youtube.com/channel/UCulhp_z41dBeP3ZiHDYuw5Q
+    added_at: '2026-11-08T22:14:00.671Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DANSTRUCT
+    url: https://www.danstruct.co/
+    description: Motion capture company running the XSTAGE capture studio in Seoul, turning human movement into data for content and physical AI.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - mocap
+    markets:
+      - games
+      - film
+    social:
+      youtube: https://youtube.com/@danstruct
+    added_at: '2026-11-08T22:14:00.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Animation Studio 38°C
+    url: https://www.38c.kr/
+    description: Seoul 3D animation studio producing kids TV series and features such as Rainbow Ruby, plus outsourced animation work.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 2011
+    notable:
+      - Rainbow Ruby
+      - Jungle Box
+      - Drone Racer
+      - GotChu CatChu
+    added_at: '2026-11-08T22:14:00.673Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Devil's Candy
+    url: https://www.devilscandy.co.kr/
+    description: Character IP studio making 3D animation such as the non-verbal series HeepPeep, plus brand films and ad animation.
+    hq:
+      city: Seoul
+      country: South Korea
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+      - brand
+    notable:
+      - HeepPeep
+      - Devil's Candy
+    social:
+      instagram: https://www.instagram.com/devilscandyinc
+    added_at: '2026-11-08T22:14:00.674Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sangdan Studio
+    url: https://www.studiosangdan.com/
+    description: Gwangju animation studio making kids series such as Crunchy Detectives and Hamahama, plus webtoons and outsourced animation.
+    hq:
+      city: Gwangju
+      country: South Korea
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+    notable:
+      - Crunchy Detectives
+      - Poto & Solt
+      - Papaman
+      - Hamahama
+    social:
+      youtube: https://www.youtube.com/channel/UCO1Zag8U_Vx3KKDiZVr0GjQ
+    added_at: '2026-11-08T22:14:00.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Visual Dart
+    url: https://www.visualdart.com/
+    description: Game art studio producing 3D models and animation for game developers, also making its own titles such as Finding Momo.
+    hq:
+      country: South Korea
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - Finding Momo
+      - ReliCursed
+    added_at: '2026-11-08T22:14:00.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VA Corporation
+    url: http://www.vacorp.co.kr/
+    description: Content group running an ICVFX and XR virtual production stage, with VFX, virtual human and motion capture teams for film, ads and music videos.
+    hq:
+      city: Seoul
+      country: South Korea
+    offices:
+      - city: Goyang
+        country: South Korea
+    disciplines:
+      - virtual-production
+      - vfx
+      - xr
+      - mocap
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    notable:
+      - SK Telecom MWC AI concept video
+      - IONIQ 5 Japan Limited Edition XR live
+      - Moonbyul 'Is This Love?' music video
+    social:
+      instagram: https://www.instagram.com/vacorp.official/
+    added_at: '2026-11-08T22:14:00.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Toyville Animation Studio
+    url: https://www.toyville.co.kr/
+    description: Stop-motion studio making puppet animation such as the Battery Family shorts, picture books and clay animation for brands.
+    hq:
+      country: South Korea
+    disciplines:
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Battery Daddy
+      - Battery Mommy
+      - Battery Grandma
+      - Shinsegae Department Store Christmas film
+    social:
+      instagram: https://www.instagram.com/toyville_studio
+    added_at: '2026-11-08T22:14:00.678Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Locus Corporation
+    url: http://www.locus.co.kr/
+    description: Animation studio that produced the CG feature Red Shoes and the Seven Dwarfs and exhibits kids animation at international markets.
+    hq:
+      country: South Korea
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Red Shoes and the Seven Dwarfs
+    added_at: '2026-11-08T22:14:00.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BEE8 Studio
+    url: https://bee8studio.com/
+    description: Game art outsourcing studio making 2D and 3D game assets, CGI game trailers and VR/AR content.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - cinematics
+      - xr
+    markets:
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/bee8-studio
+      artstation: https://www.artstation.com/bee8studio6
+    added_at: '2026-11-08T22:14:00.680Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

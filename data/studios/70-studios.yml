@@ -1,0 +1,783 @@
+studios:
+  - name: Qzil.la
+    url: https://qzil.la/
+    description: Anime production company building new production workflows for TV and streaming anime.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2021
+    added_at: '2026-11-08T22:14:00.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Magic Bus
+    url: https://www.magicbusinc.com/
+    description: Anime production company working on TV series and films since 1977.
+    hq:
+      city: Nishitokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1977
+    added_at: '2026-11-08T22:14:00.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio BACU
+    url: https://www.studio-bacu.com/
+    description: Anime compositing (satsuei) and CG video studio in Asahikawa, Hokkaido.
+    hq:
+      city: Asahikawa
+      country: Japan
+    disciplines:
+      - cg
+      - outsourcing
+    markets:
+      - episodic
+      - advertising
+    founded: 2007
+    added_at: '2026-11-08T22:14:00.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RagingBull
+    url: https://www.st-ragingbull.com/
+    description: Anime production studio founded in 2022.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2022
+    added_at: '2026-11-08T22:14:00.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TNK
+    url: http://www.e-tnk.net/
+    description: Anime planning and production company with about 20 years of TV series work.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1999
+    added_at: '2026-11-08T22:14:00.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio CAB
+    url: https://studio-cab.com/
+    description: Anime direction and production studio started in 1990 by directors from the Anpanman TV series.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1990
+    notable:
+      - Soreike! Anpanman
+    added_at: '2026-11-08T22:14:00.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gallop
+    url: https://www.anime-gallop.co.jp/
+    description: Anime production company behind long-running kids series such as Ojarumaru and Zenitendo.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1978
+    notable:
+      - Ojarumaru
+      - Zenitendo
+      - Yu-Gi-Oh!
+    added_at: '2026-11-08T22:14:00.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Jumondou
+    url: https://www.jumondou.com/
+    description: Anime production company with key animation studios in Tokyo, Musashino and Fukuoka.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Musashino
+        country: Japan
+      - city: Fukuoka
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2009
+    added_at: '2026-11-08T22:14:00.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BLADE
+    url: https://tap-blade.com/
+    description: Anime production studio working on TV series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1990
+    added_at: '2026-11-08T22:14:00.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nakano Animation
+    url: https://nakano-animation.jp/
+    description: Anime studio doing digital key animation, 3DCG and scripts, plus original IP and merchandise.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2017
+    added_at: '2026-11-08T22:14:00.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Anime International Company
+    url: https://www.anime-int.com/
+    description: Anime production company (AIC) making TV and OVA series since 1982.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1982
+    added_at: '2026-11-08T22:14:00.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PRA
+    url: https://pra-anime.com/
+    description: Anime production company making contract and original animation.
+    hq:
+      city: Higashikurume
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Jumonji
+    url: https://www.jumonji.biz/
+    description: Anime production company working on TV series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2010
+    added_at: '2026-11-08T22:14:00.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Quun Plant
+    url: https://www.quunplant.com/
+    description: Background art studio making 3D and 2D backgrounds, art settings and models for anime and games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - outsourcing
+    markets:
+      - episodic
+      - games
+    founded: 2007
+    added_at: '2026-11-08T22:14:00.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pie in the sky
+    url: https://pieinthesky.jp/
+    description: Character and animation studio making TV anime, music videos, commercials and design work.
+    hq:
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    founded: 2013
+    notable:
+      - Hyakusho Kizoku
+      - Aware! Meisaku-kun
+    added_at: '2026-11-08T22:14:00.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MAHO FILM
+    url: https://mahofilm.com/
+    description: Anime production company started by staff from Nijiiro Days and In Another World With My Smartphone.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2018
+    added_at: '2026-11-08T22:14:00.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Makaria
+    url: https://www.makaria.biz/
+    description: Anime production company credited on The Dark Healer and Zatsu Tabi.
+    hq:
+      city: Kokubunji
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2014
+    added_at: '2026-11-08T22:14:00.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Asurafilm
+    url: https://asurafilm.jp/
+    description: Anime production company making TV and streaming animation since 2013.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ACGT
+    url: http://acgt.co.jp/
+    description: Anime production company working on TV series and films.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2000
+    added_at: '2026-11-08T22:14:00.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lesprit
+    url: https://lesprit.jp/
+    description: Anime production company focused on digital key animation for TV series, films and other studios.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 2016
+    added_at: '2026-11-08T22:14:00.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ROLL2
+    url: https://www.roll2.co.jp/
+    description: Anime production company making TV series and production-cooperation work for other studios.
+    hq:
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2017
+    notable:
+      - Now That We Draw
+      - I Want to Love You Till Your Dying Day
+      - Love Is Indivisible by Twins
+    added_at: '2026-11-08T22:14:00.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Soigne
+    url: https://www.soigne.co.jp/
+    description: Anime production studio founded in 2023.
+    hq:
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2023
+    added_at: '2026-11-08T22:14:00.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gekko
+    url: http://gekkou-tokyo.com/
+    description: Anime planning and production company that also handles sound production and voice casting.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2017
+    added_at: '2026-11-08T22:14:00.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: M.S.C
+    url: http://msc-jp.biz/
+    description: Anime production company working on TV series since 1999.
+    hq:
+      city: Koganei
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1999
+    added_at: '2026-11-08T22:14:00.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PROJECT STUDIO Q
+    url: https://studio-q.co.jp/
+    description: Anime CG studio in Fukuoka set up jointly by khara, Dwango and the Aso school group.
+    hq:
+      city: Fukuoka
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T22:14:00.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KAYAC POLARIS
+    url: https://www.kayacpolaris.com/
+    description: 3DCG character animation studio in Sapporo, part of the Kayac group, working on anime and game productions.
+    hq:
+      city: Sapporo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - games
+    founded: 2022
+    added_at: '2026-11-08T22:14:00.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Title Labo
+    url: https://www.titlelabo.co.jp/
+    description: Design company in Osaka making logos, CG, on-screen captions and flip graphics for TV programmes.
+    hq:
+      city: Osaka
+      country: Japan
+    disciplines:
+      - title-design
+      - motion-design
+      - cg
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ARECT
+    url: https://www.arect.co.jp/
+    description: 3DCG video production company with its head office in Sapporo and a studio in Tokyo.
+    hq:
+      city: Sapporo
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - games
+      - advertising
+    added_at: '2026-11-08T22:14:00.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Purmoe Design Lab
+    url: http://purmoe-design-lab.co.jp/
+    description: 2D asset studio in Sendai making illustrations and Spine animation for games, with an Osaka office and a new anime business.
+    hq:
+      city: Sendai
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - games
+    added_at: '2026-11-08T22:14:00.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: C's Craft
+    url: https://cscraft.co.jp/
+    description: 3DCG content studio with offices in Tokyo and Akita making CG video for games, ads and products.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Akita
+        country: Japan
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - games
+      - advertising
+    added_at: '2026-11-08T22:14:00.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LIT design
+    url: https://litdesign.jp/
+    description: Visualization studio turning architecture, interiors and products into CG imagery and video.
+    hq:
+      country: Japan
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    added_at: '2026-11-08T22:14:00.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CeiRyu
+    url: https://ceiryu.tech/
+    description: 3DCG, video and digital content studio headquartered in Osaka with an office in Tokyo.
+    hq:
+      city: Osaka
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digital Design Lab
+    url: https://dd-lab.jp/
+    description: Nagoya studio making CG promotional videos for industrial products plus GUI and HMI design.
+    hq:
+      city: Nagoya
+      country: Japan
+    disciplines:
+      - product-viz
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T22:14:00.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KOO-KI
+    url: https://koo-ki.co.jp/
+    description: Video production company making TV commercials, PR films and exhibition content, started as a motion graphics shop in Fukuoka.
+    hq:
+      city: Fukuoka
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - live-action
+      - motion-design
+      - cg
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MontBlanc Pictures
+    url: https://mtblanc.jp/
+    description: Fukuoka design studio making video, CG and museum content for brands, city PR and the Fukuoka City Science Museum.
+    hq:
+      city: Fukuoka
+      country: Japan
+    disciplines:
+      - motion-design
+      - cg
+      - experiential
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: chidori graph
+    url: https://www.chidorigraph.com/
+    description: Small CG and visual art studio in Kyoto making commercial work, live event visuals and art installations.
+    hq:
+      city: Kyoto
+      country: Japan
+    disciplines:
+      - cg
+      - experiential
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: UTALICA
+    url: https://utalica.jp/
+    description: Sapporo animation studio focused on Japanese anime and virtual characters.
+    hq:
+      city: Sapporo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio R
+    url: https://www.studio-r.co.jp/
+    description: Osaka CG studio making video for games, commercials and projection mapping.
+    hq:
+      city: Osaka
+      country: Japan
+    disciplines:
+      - cg
+      - cinematics
+      - experiential
+    markets:
+      - games
+      - advertising
+    added_at: '2026-11-08T22:14:00.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CG Koubou
+    url: http://www.cgkoubou.com/
+    description: Miyazaki studio making architectural CG perspectives, VR and video for presentations.
+    hq:
+      city: Miyazaki
+      country: Japan
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: x10studio
+    url: https://x10s.jp/
+    description: Visual planning and 3DCG/VFX design studio making CM, PV, game, VR, projection mapping and exhibition video.
+    hq:
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+      - experiential
+    markets:
+      - advertising
+      - games
+      - brand
+    added_at: '2026-11-08T22:14:00.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Swallowtails
+    url: https://swallowtails.jp/
+    description: 3D modeling and animation studio working on mobile and console games and TV anime.
+    hq:
+      city: Yokohama
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+      - episodic
+    founded: 2006
+    added_at: '2026-11-08T22:14:00.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Crafts
+    url: https://www.at-crafts.com/
+    description: Nagoya CG, VFX and VR production company making game, exhibition and amusement video.
+    hq:
+      city: Nagoya
+      country: Japan
+    disciplines:
+      - cg
+      - vfx
+      - xr
+    markets:
+      - games
+      - brand
+    added_at: '2026-11-08T22:14:00.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sherpa
+    url: https://sherpa-cg.com/
+    description: Fukuoka studio making CG perspectives, VR walkthroughs and video for real estate and architecture clients.
+    hq:
+      city: Fukuoka
+      country: Japan
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: REDOT
+    url: http://redot.jp/
+    description: VFX and CG production studio in Kumamoto serving film, TV and commercial clients.
+    hq:
+      city: Kumamoto
+      country: Japan
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-08T22:14:00.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SGMX
+    url: https://www.sgmx.co.jp/
+    description: Fukuoka VFX studio for live-action films, commercials and music videos, part of the Spade&Co. group.
+    hq:
+      city: Fukuoka
+      country: Japan
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - film
+      - advertising
+      - music-video
+    founded: 2022
+    added_at: '2026-11-08T22:14:00.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ei!studio
+    url: https://eistd.jp/
+    description: Real-time CG studio making architectural 3DCG, museum and cultural heritage VR, and game lighting work.
+    hq:
+      city: Nasushiobara
+      country: Japan
+    disciplines:
+      - archviz
+      - xr
+      - cg
+    markets:
+      - real-estate
+      - games
+      - brand
+    added_at: '2026-11-08T22:14:00.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kirari Lab
+    url: https://kira-ri.co.jp/
+    description: Fukuoka video and CG production company working on commercials, anime, TV, music videos, film and games.
+    hq:
+      city: Fukuoka
+      country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - games
+      - music-video
+    added_at: '2026-11-08T22:14:00.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TriPoint
+    url: https://tripoint.pro/
+    description: 3D asset production company modeling for games, video, anime and VR/AR content.
+    hq:
+      country: Japan
+    disciplines:
+      - cg
+      - outsourcing
+    markets:
+      - games
+      - episodic
+    founded: 2023
+    added_at: '2026-11-08T22:14:00.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Mikata
+    url: https://studiomikata.co.jp/
+    description: 3DCG production studio for TV anime and games, pairing a Japan office with a production team in China.
+    hq:
+      city: Kawasaki
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - games
+    added_at: '2026-11-08T22:14:00.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BeRISE
+    url: https://berise.co.jp/
+    description: VR, AR and CG content studio headquartered in Hiroshima with offices in Tokyo and Osaka.
+    hq:
+      city: Hiroshima
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - xr
+      - cg
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T22:14:00.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

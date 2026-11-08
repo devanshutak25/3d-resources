@@ -354,26 +354,6 @@ studios:
     added_at: '2026-11-05T18:39:02.671Z'
     url_status: ok
     url_last_verified: '2026-11-05'
-  - name: Two Ten Animation
-    url: https://en.2-10.cn/
-    description: Wuhan animation studio making game trailers, animated series, films and TV commercials.
-    hq:
-      city: Wuhan
-      country: China
-    disciplines:
-      - 3d-animation
-      - cinematics
-    markets:
-      - games
-      - episodic
-      - film
-      - advertising
-    founded: 2007
-    social:
-      linkedin: https://www.linkedin.com/company/twoten-animation
-    added_at: '2026-11-05T18:39:02.672Z'
-    url_status: ok
-    url_last_verified: '2026-11-05'
   - name: Sycamore Studios
     url: https://sycamorestudios.com/
     description: Animation film studio with hubs in Los Angeles and Austin making family animated features.

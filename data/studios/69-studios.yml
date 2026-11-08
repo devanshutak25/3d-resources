@@ -1,0 +1,789 @@
+studios:
+  - name: Ssoftoons
+    url: https://ssoftoons.com/
+    description: Animation studio making regional-language 2D animated series and YouTube content in Bengali, Hindi and other languages since 2001.
+    hq:
+      country: India
+    offices:
+      - city: Kolkata
+        country: India
+      - city: Mumbai
+        country: India
+      - city: Howrah
+        country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2001
+    added_at: '2026-11-08T22:14:00.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kalpanik Films
+    url: https://kalpanikfilms.com/
+    description: Mumbai generative AI video studio producing AI films, music videos, avatars and brand content.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - music-video
+      - film
+    added_at: '2026-11-08T22:14:00.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Horseman FX
+    url: https://horsemanfx.in/
+    description: Boutique VFX studio in Namakkal, Tamil Nadu, delivering visual effects for film, television and commercials since 2018.
+    hq:
+      city: Namakkal
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2018
+    added_at: '2026-11-08T22:14:00.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RedGod Studios
+    url: https://www.redgodstudios.com/
+    description: Kerala animation studio led by former DreamWorks, DNEG and MPC artists, making cinematic animated shorts and service work.
+    hq:
+      country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Blu
+    added_at: '2026-11-08T22:14:00.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: WOT Studios
+    url: https://wotstudios.com/
+    description: Pune film production, post-production and VFX studio working on films, series and ads.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - vfx
+      - live-action
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-08T22:14:00.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digital Turbo Media
+    url: https://www.digitalturbomedia.in/
+    description: Kochi VFX and post-production facility serving Malayalam and South Indian feature films since 2014.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+    founded: 2014
+    added_at: '2026-11-08T22:14:00.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kayra Animation
+    url: https://kayraanimation.com/
+    description: Indore animation service studio producing 2D and 3D animation for international clients, with an attached training institute.
+    hq:
+      city: Indore
+      country: India
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Animatzione
+    url: https://animatzione.in/
+    description: Kolkata 2D animation service studio producing animation for national and international series and studios for over 16 years.
+    hq:
+      city: Kolkata
+      country: India
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Capsule VFX
+    url: https://www.capsulevfx.com/
+    description: Indian VFX studio creating visual effects for feature films and commercials, run by artist-led teams.
+    hq:
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: https://www.instagram.com/capsulevfx/
+      linkedin: https://www.linkedin.com/company/capsule-vfx/
+    added_at: '2026-11-08T22:14:00.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Caizon Creations
+    url: https://caizoncreations.com/
+    description: Indian animation studio building original character IP and worlds in-house, starting with Noko.
+    hq:
+      country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2025
+    notable:
+      - Noko
+    social:
+      instagram: https://www.instagram.com/caizoncreations/
+    added_at: '2026-11-08T22:14:00.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Resonance Digital
+    url: https://resonancedigital.in/
+    description: Indian VFX and creative studio producing visual effects for films, streaming shows and TVCs, with work on Dhurandhar and The Family Man.
+    hq:
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Dhurandhar
+      - The Family Man Season 3
+    added_at: '2026-11-08T22:14:00.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fourth Dimension VFX
+    url: https://4dvfx.com/
+    description: Kolkata VFX and animation studio working on Bengali and Indian films, episodic series, TV commercials and motion graphics since 2003.
+    hq:
+      city: Kolkata
+      country: India
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2003
+    added_at: '2026-11-08T22:14:00.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frame Founder Studio
+    url: https://www.framefounder.com/
+    description: Kolkata post-production and VFX studio providing roto, paint, compositing and finishing for film and episodic clients.
+    hq:
+      city: Kolkata
+      country: India
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T22:14:00.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hi-Tech Animation Studio
+    url: https://hitechanimationstudio.com/
+    description: Kolkata animation and VFX production house making 3D series, original IP and international service work, with an office in Mumbai.
+    hq:
+      city: Kolkata
+      country: India
+    offices:
+      - city: Mumbai
+        country: India
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - episodic
+      - film
+    notable:
+      - Kurukshetra
+    added_at: '2026-11-08T22:14:00.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mox
+    url: https://mox-motion.com/
+    description: 3D character animation studio specialising in hand-keyed motion and motion capture cleanup for games and video.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+    disciplines:
+      - 3d-animation
+      - mocap
+      - outsourcing
+    markets:
+      - games
+    founded: 2007
+    social:
+      x: https://twitter.com/MoxMotion
+    added_at: '2026-11-08T22:14:00.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Scarab Studio
+    url: http://www.scarabstudio.com/
+    description: Tokyo 3DCG and animation studio making CG for TV and film anime, game videos and music videos.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - outsourcing
+    markets:
+      - episodic
+      - film
+      - games
+      - music-video
+    founded: 1999
+    added_at: '2026-11-08T22:14:00.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rhino Studios
+    url: https://www.rhino-studios.com/
+    description: Tokyo real-time CG studio making XR and VR experiences, apps and games with Unity and Unreal.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - xr
+      - interactive
+      - cg
+    markets:
+      - brand
+      - games
+    added_at: '2026-11-08T22:14:00.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SF Graphics
+    url: http://www.sfgi.jp/
+    description: Tokyo graphics studio providing art direction, 3D models, scene movies and effects for console games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - cg
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+    founded: 2008
+    notable:
+      - 'No Sleep for Kaname Date: From AI: The Somnium Files'
+    added_at: '2026-11-08T22:14:00.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Palette
+    url: https://studiopalette.net/
+    description: Anime studio doing production work in Tokyo plus in-between and finishing (douga and shiage) from a second studio in Kobe.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kobe
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2018
+    added_at: '2026-11-08T22:14:00.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: HORNETS
+    url: https://www.anime-hornets.jp/
+    description: Anime production company making TV animation plus video and web assets.
+    hq:
+      city: Koganei
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Production +h.
+    url: https://plsh.co.jp/
+    description: Anime production company founded in 2020 to make series animation.
+    hq:
+      city: Fuchu
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2020
+    added_at: '2026-11-08T22:14:00.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dangun Pictures
+    url: https://www.dangun.jp/
+    description: Anime planning and production studio taking projects from concept to finished animation.
+    hq:
+      city: Nishitokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1994
+    added_at: '2026-11-08T22:14:00.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Landq studios
+    url: https://www.landq.co.jp/
+    description: Anime and 3DCG production studio making animation for TV series and games such as Tokyo 7th Sisters.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    founded: 2009
+    notable:
+      - Tokyo 7th Sisters
+    added_at: '2026-11-08T22:14:00.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Colored Pencil Animation Japan
+    url: https://www.cpaj.co.jp/
+    description: Animation studio doing anime production work for TV and streaming series.
+    hq:
+      city: Machida
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T22:14:00.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Qmotri
+    url: https://qmotri.jp/
+    description: Animation studio making kids TV segments, music clips and branded animation for NHK, Sanrio and ad clients.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    founded: 1997
+    added_at: '2026-11-08T22:14:00.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: East Fish Studio
+    url: https://eastfish.co.jp/
+    description: Animation-led video production company that also shoots live action and makes physical props.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - advertising
+    founded: 2017
+    added_at: '2026-11-08T22:14:00.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SCOOTER FILMS
+    url: https://www.scooterfilms.jp/
+    description: Anime studio making short animation and indie games.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - games
+    founded: 2021
+    added_at: '2026-11-08T22:14:00.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hotline
+    url: https://hotline.style/
+    description: TV anime production company making series animation.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2005
+    added_at: '2026-11-08T22:14:00.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Boundary
+    url: https://boundary-inc.co.jp/
+    description: 3DCG animation studio blending CG with cel-style anime for series and films.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2020
+    added_at: '2026-11-08T22:14:00.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wish
+    url: https://wish-ltd.jp/
+    description: Anime production studio working on TV series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2005
+    added_at: '2026-11-08T22:14:00.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Pastoral
+    url: http://st-pastoral.com/
+    description: Animation and music production company working on anime series.
+    hq:
+      city: Tokorozawa
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2004
+    added_at: '2026-11-08T22:14:00.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Live
+    url: http://www.stlive.biz/
+    description: Anime key animation (sakuga) studio working on TV and film productions since 1976.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 1976
+    added_at: '2026-11-08T22:14:00.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DandeLion Animation Studio
+    url: https://www.dlas.jp/
+    description: CG anime planning and production company.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2007
+    added_at: '2026-11-08T22:14:00.563Z'
+  - name: Tomason
+    url: https://www.tomason.co.jp/
+    description: Anime production company making TV series and productions for other studios.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1988
+    added_at: '2026-11-08T22:14:00.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vega Entertainment
+    url: http://www.vega-entertainment.co.jp/
+    description: Self-contained anime studio covering direction through art and photography, known for the Kaitou Joker series.
+    hq:
+      city: Fuchu
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 1993
+    notable:
+      - Kaitou Joker
+    added_at: '2026-11-08T22:14:00.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wao World
+    url: https://waoworld.com/
+    description: Animation and CG production division of education group Wao Corporation, making films and video content.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2000
+    added_at: '2026-11-08T22:14:00.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tsumugi Akita Animation Lab
+    url: https://www.tsumu-sakuga.com/
+    description: Anime key and in-between animation studio headquartered in Akita, with a second studio in Kawaguchi.
+    hq:
+      city: Akita
+      country: Japan
+    offices:
+      - city: Kawaguchi
+        country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2017
+    added_at: '2026-11-08T22:14:00.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bihou
+    url: https://www.bihou.biz/
+    description: Anime background art and art-setting studio, now part of the CoMix Wave Films group.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 1993
+    added_at: '2026-11-08T22:14:00.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 100studio
+    url: https://100studio.jp/
+    description: Digital anime studio run by HIKE, making animation for TV, film, streaming, games and music videos.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - games
+      - music-video
+    founded: 2021
+    added_at: '2026-11-08T22:14:00.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Add
+    url: http://st-add.com/
+    description: Anime production studio focused on training new animators.
+    hq:
+      city: Kawagoe
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 1992
+    added_at: '2026-11-08T22:14:00.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Staple Entertainment
+    url: http://www.staple-e.co.jp/
+    description: Animation production and digital content company that also publishes.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2020
+    added_at: '2026-11-08T22:14:00.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Voil
+    url: https://studio-voil.com/
+    description: Anime production studio working on TV series.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2022
+    added_at: '2026-11-08T22:14:00.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: JFK
+    url: https://j-f-k.jp/
+    description: Anime production company that releases its series under the QUAD studio name.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2018
+    added_at: '2026-11-08T22:14:00.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Polon
+    url: https://studiopolon.com/
+    description: Animation studio planning and producing TV, film and streaming anime plus character merchandise.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T22:14:00.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ga-Crew
+    url: https://ga-crew.co.jp/
+    description: Cel-style anime studio with in-house production, key animation, 2D, direction, 3DCG and compositing teams.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2021
+    added_at: '2026-11-08T22:14:00.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Space Neko Company
+    url: https://www.spaceneko.com/
+    description: Animation studio that co-produced Pop Team Epic season 2 and makes pop, cute original shorts and commissioned animation.
+    hq:
+      city: Musashino
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2007
+    notable:
+      - Pop Team Epic (season 2)
+    added_at: '2026-11-08T22:14:00.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Monster's Egg
+    url: https://monstersegg.jp/
+    description: CG animation studio making character animation for series and brands.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - brand
+    added_at: '2026-11-08T22:14:00.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Furyu Pictures
+    url: https://www.furyu-pictures.jp/
+    description: Anime planning and production company in the Furyu group.
+    hq:
+      city: Tokyo
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2025
+    added_at: '2026-11-08T22:14:00.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Usagi Ou
+    url: https://usagiou.net/
+    description: Animation studio making cute, offbeat original shorts and commissioned anime.
+    hq:
+      city: Sagamihara
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2008
+    added_at: '2026-11-08T22:14:00.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Electric Circus
+    url: https://e-circus.co.jp/
+    description: Anime production company founded in 2024.
+    hq:
+      city: Mitaka
+      country: Japan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2024
+    added_at: '2026-11-08T22:14:00.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

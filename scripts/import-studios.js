@@ -64,7 +64,8 @@ for (const f of files) {
     if (!h) { rej('bad url'); continue; }
     if (ctry === 'Russia') { rej('Russia HQ (open question)'); continue; }
     if (!SHARED_HOSTS.has(h) && (hostSet.has(h) || seenHost.has(h))) { rej(`dupe host ${h}`); continue; }
-    if (nameKey.has(`${n}|${ctry}`) || seenName.has(`${n}|${ctry}`)) { rej('dupe name+country'); continue; }
+    // force.txt also clears name clashes between distinct studios (Hexar Games vs Hexar Studios); host dupes still block.
+    if (!FORCE.has(s.name) && (nameKey.has(`${n}|${ctry}`) || seenName.has(`${n}|${ctry}`))) { rej('dupe name+country'); continue; }
     if (BANNED.test(s.description || '')) { rej('style: ' + (s.description || '').match(BANNED)[0]); continue; }
     const bad = [s.hq, ...(s.offices || [])].filter(p => p && !COUNTRY_REGION[p.country]).map(p => p.country);
     if (bad.length) { rej('unknown country ' + bad.join(',')); continue; }

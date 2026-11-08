@@ -621,3 +621,196 @@ studios:
     added_at: '2026-11-08T20:25:14.075Z'
     url_status: ok
     url_last_verified: '2026-11-08'
+  - name: Covyne Entertainment
+    url: https://www.covyne.com/
+    description: Independent Melbourne studio making atmospheric PC games, including the tactical roguelike card battler Dolven and the survival horror game X300.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dolven
+    social:
+      instagram: http://instagram.com/covyne_entertainment
+    added_at: '2026-11-08T22:14:00.402Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: O'Saurus Studios
+    url: https://www.osaurusstudios.com/
+    description: Small Melbourne indie studio behind Call of the Golden Valley, a mystery adventure game set in an Australian country town.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Call of the Golden Valley
+    added_at: '2026-11-08T22:14:00.403Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RDBK Studios
+    url: https://www.rdbkstudios.com/
+    description: Melbourne indie studio run by a small team of artists, making Renown, a PC game in Steam early access since 2025.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Renown
+    added_at: '2026-11-08T22:14:00.404Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Radiobush
+    url: https://radiobush.com/
+    description: Independent puzzle game studio, started in Tasmania and now based in Melbourne, maker of Lighthaze World and the fishing automation game FishOmatic.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Lighthaze World
+    social:
+      x: https://twitter.com/Radiobush
+      instagram: https://www.instagram.com/radiobush
+      youtube: https://www.youtube.com/radiobush
+    added_at: '2026-11-08T22:14:00.405Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Too Many Teeth Studios
+    url: https://toomanyteeth.net/
+    description: Melbourne game studio making narrative games and visual novels, including Artificial Nexus.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Artificial Nexus
+    added_at: '2026-11-08T22:14:00.406Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spunge Games
+    url: https://spungegames.com/
+    description: Brisbane studio making cross-platform casual games, best known for the mobile hit Faily Brakes, plus work-for-hire games for brands.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - mobile
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    founded: 2014
+    notable:
+      - Faily Brakes
+      - Faily Skater
+      - Cartoon Survivor
+    social:
+      linkedin: https://au.linkedin.com/company/spunge-games-pty-ltd
+      x: https://x.com/spungegames
+    added_at: '2026-11-08T22:14:00.407Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ArkimA
+    url: https://topplepop.com/
+    description: 'Sydney indie team of three veteran developers behind TopplePOP: Bungee Blockbusters, a co-op physics puzzle game.'
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'TopplePOP: Bungee Blockbusters'
+    social:
+      x: https://x.com/ArkimA_games
+    added_at: '2026-11-08T22:14:00.408Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chironex Studios
+    url: https://chironexstudios.com/
+    description: Melbourne indie studio behind Grist, released in early access in 2026, with This Starry Void in development.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Grist
+    social:
+      x: https://www.twitter.com/ChironexStudios
+    added_at: '2026-11-08T22:14:00.409Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hell Byte Studios
+    url: https://www.hellbytestudios.com/
+    description: Adelaide indie studio making Blood Reaver, a dark-fantasy wave-based FPS in Steam early access.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Blood Reaver
+    social:
+      instagram: https://www.instagram.com/HellbyteStudios
+      x: https://twitter.com/StudiosHELLBYTE
+    added_at: '2026-11-08T22:14:00.410Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arch Rebels
+    url: https://www.archrebels.com/
+    description: Australian indie studio making story-driven games such as Ghost Cam for PC, and offering narrative design services.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ghost Cam
+    social:
+      instagram: https://www.instagram.com/archrebels
+    added_at: '2026-11-08T22:14:00.411Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Effort Star
+    url: https://effortstar.games/
+    description: Melbourne indie game company behind Enter the Chronosphere, published by Joystick Ventures in 2026.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Enter the Chronosphere
+    social:
+      x: https://x.com/EffortStarGames
+      youtube: https://www.youtube.com/@effortstar
+    added_at: '2026-11-08T22:14:00.412Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

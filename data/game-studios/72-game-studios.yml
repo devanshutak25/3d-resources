@@ -1,0 +1,706 @@
+studios:
+  - name: Sablo Studio
+    url: https://www.sablostudio.com/
+    description: Mobile game developer and publisher making idle, simulation and puzzle games, plus playable ads.
+    hq:
+      city: Lahore
+      country: Pakistan
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - Idle Construction 3D
+      - Dig Tycoon
+      - Oil Mining 3D
+    social:
+      instagram: https://www.instagram.com/sablostudio/
+      linkedin: https://www.linkedin.com/company/7799339/
+    added_at: '2026-11-08T22:14:00.713Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Game District
+    url: https://gamedistrict.co/
+    description: Mobile game developer and publisher of casual and hybrid-casual games, with studios in Pakistan, Turkey and the UAE.
+    hq:
+      city: Lahore
+      country: Pakistan
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+    social:
+      instagram: https://www.instagram.com/gamedistrict.co/
+      linkedin: https://www.linkedin.com/company/game-district/
+    added_at: '2026-11-08T22:14:00.714Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gravity Lagoon
+    url: https://www.gravitylagoon.com/
+    description: Indie studio from North Kazakhstan making action games, including the co-op roguelike Gatekeeper.
+    hq:
+      country: Kazakhstan
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Gatekeeper
+    social:
+      youtube: https://www.youtube.com/@gravitylagoon
+    added_at: '2026-11-08T22:14:00.715Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: XenEva Studio
+    url: https://xenevastudio.github.io/
+    description: Indie mobile game studio making shooters and casual games, including Battle of Agents.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Battle of Agents
+    added_at: '2026-11-08T22:14:00.716Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: miniGameLab
+    url: https://minigamelab.com/
+    description: Small studio making hybrid-casual mobile games with an RPG focus, released with publishers such as Voodoo and Homa.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2021
+    social:
+      linkedin: https://www.linkedin.com/company/mini-game-lab/
+    added_at: '2026-11-08T22:14:00.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Thunder Games
+    url: https://tg.studio/
+    description: Ten-person studio designing and running hyper-casual and hybrid-casual mobile games.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/74898074/
+    added_at: '2026-11-08T22:14:00.718Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arcube Games & Animation
+    url: https://www.arcube.com.np/
+    description: Indie studio making mobile and PC games and apps, including the Nani Babu kids games, plus CGI animation work.
+    hq:
+      country: Nepal
+    segments:
+      - indie
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - pc
+    founded: 2015
+    notable:
+      - Nani Babu Games
+      - 'Dimiria: The Agrarian Falls'
+      - Dragons Evader
+    social:
+      youtube: https://www.youtube.com/channel/UCeRdGAF70qgUCfwOJRIjKQA
+    added_at: '2026-11-08T22:14:00.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: East Games
+    url: https://eastgames.uz/
+    description: Game studio of 90+ people that co-develops the World of Tanks-family titles Mir Tankov, Mir Korabley and Tanks Blitz and works on new projects.
+    hq:
+      city: Tashkent
+      country: Uzbekistan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Mir Tankov
+      - Mir Korabley
+      - Tanks Blitz
+    social:
+      instagram: https://www.instagram.com/eastgames.uz
+      linkedin: https://www.linkedin.com/company/east-games/
+    added_at: '2026-11-08T22:14:00.720Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Grand Games
+    url: https://grandgames.kz/
+    description: Tech holding behind the open-world roleplay mobile game Grand Mobile.
+    hq:
+      city: Ust-Kamenogorsk
+      country: Kazakhstan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Grand Mobile
+    added_at: '2026-11-08T22:14:00.721Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Novalink
+    url: https://blockade3d.com/
+    description: Developer of BLOCKADE 3D, a free-to-play voxel shooter for PC, browser and mobile.
+    hq:
+      city: Astana
+      country: Kazakhstan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+      - mobile
+    notable:
+      - BLOCKADE 3D
+      - RoboArena
+    added_at: '2026-11-08T22:14:00.722Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MadOut Games
+    url: https://www.madoutgames.com/
+    description: Mobile developer of MadOut 2, an open-world crime game with online play for up to 200 players.
+    hq:
+      city: Astana
+      country: Kazakhstan
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - MadOut 2 BigCityOnline
+    added_at: '2026-11-08T22:14:00.723Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Not Friendly Games
+    url: https://notfriendlygames.com/
+    description: 'Indie studio making PC and console games, including the slasher Untold Tales: A Scarlet Way and the board game adaptation Daldos.'
+    hq:
+      city: Astana
+      country: Kazakhstan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2024
+    notable:
+      - Daldos
+      - 'Devil Trigger: Smash Them All'
+      - 'Untold Tales: A Scarlet Way'
+    social:
+      youtube: https://www.youtube.com/channel/UCKEGGzZ7pxE91NCTBRsqjEA
+      x: https://x.com/NotFriendlyGam1
+    added_at: '2026-11-08T22:14:00.724Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kraken Express
+    url: https://playwindrose.com/
+    description: Developer of Windrose, an open-world pirate survival game for PC released in 2026.
+    hq:
+      country: Uzbekistan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Windrose
+    added_at: '2026-11-08T22:14:00.725Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Foxtale Studio
+    url: https://www.foxtale.studio/
+    description: Indie game studio making PC games, including the couch co-op party game This Game is Ground Breaking on Steam.
+    hq:
+      city: Colombo
+      country: Sri Lanka
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - This Game is Ground Breaking
+    social:
+      instagram: https://www.instagram.com/foxtale_studios/
+      linkedin: https://www.linkedin.com/company/foxtale-studio
+      youtube: https://www.youtube.com/@foxtalestudios
+      artstation: https://www.artstation.com/foxtalestudios
+    added_at: '2026-11-08T22:14:00.726Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Level X
+    url: https://levelx-landing.pages.dev/
+    description: Small mobile games and apps studio making hyper-casual, hybrid-casual and casual midcore titles such as Real Championship Cricket Game.
+    hq:
+      city: Lahore
+      country: Pakistan
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Real Championship Cricket Game
+      - Real Vehicle Driving Simulator
+    added_at: '2026-11-08T22:14:00.727Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio 23
+    url: https://www.studio-23.xyz/
+    description: In-house game studio of BrainStation 23 making PC horror games, including Silent Scream and Silent Scream 2.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    segments:
+      - indie
+    platforms:
+      - pc
+    parent: BrainStation 23
+    notable:
+      - Silent Scream
+      - Silent Scream 2
+    social:
+      instagram: https://www.instagram.com/studio23xyz/
+      linkedin: https://www.linkedin.com/company/studio-23-bs/
+      youtube: https://www.youtube.com/@studio-2371
+      x: https://twitter.com/Studio23xyz
+    added_at: '2026-11-08T22:14:00.728Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cyber Temple Games
+    url: https://cybertemple.games/
+    description: Indie studio behind DarkSwitch, a dark fantasy vertical city builder for PC released in 2026.
+    hq:
+      city: Almaty
+      country: Kazakhstan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - DarkSwitch
+    added_at: '2026-11-08T22:14:00.729Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DreamGate Company
+    url: http://www.dg-company.com/
+    description: Indie developer of the Steampunk Tower tower-defense series for mobile, PC and consoles, plus card and dice games.
+    hq:
+      city: Karaganda
+      country: Kazakhstan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Steampunk Tower 2
+      - Steampunk Tower
+      - Astral Cards
+      - Dice Mastery
+    added_at: '2026-11-08T22:14:00.730Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Odd Meter
+    url: https://odd-meter.com/
+    description: Indie studio behind INDIKA, a third-person adventure game for PC and consoles, finished after the team moved from Russia to Kazakhstan.
+    hq:
+      country: Kazakhstan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - INDIKA
+    added_at: '2026-11-08T22:14:00.731Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PINIX
+    url: https://www.pinixgames.com/
+    description: Taipei indie studio making strategy and tactics games for PC.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Alina of the Arena
+      - Wanna Survive
+      - Die Deep
+    social:
+      x: https://twitter.com/pinixgames
+      youtube: https://www.youtube.com/@pinixgames
+    added_at: '2026-11-08T22:14:00.732Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Acme Gamestudio
+    url: https://www.asterigos.com/en
+    description: 'Taiwanese indie studio behind the action RPG Asterigos: Curse of the Stars.'
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Asterigos: Curse of the Stars'
+    social:
+      x: https://twitter.com/AcmeGamestudio
+    added_at: '2026-11-08T22:14:00.733Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glass Heart Games
+    url: https://glasshearttw.net/
+    description: 'Taiwanese indie studio behind the 2D action RPG Vigil: The Longest Night.'
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Vigil: The Longest Night'
+    added_at: '2026-11-08T22:14:00.734Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pupuya Games
+    url: https://www.littlewitchnobeta.com/
+    description: Taiwanese indie studio making the 3D action shooter Little Witch Nobeta, with a follow-up title in development.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Little Witch Nobeta
+    added_at: '2026-11-08T22:14:00.735Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: buho game
+    url: https://buho.game.tw/
+    description: Taiwanese indie studio making party and physics games for PC and Switch.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Chef Chen
+      - Wacky Boats
+    social:
+      instagram: https://www.instagram.com/buho_game/
+      x: https://twitter.com/buhogame
+    added_at: '2026-11-08T22:14:00.736Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Binary Tree Studio
+    url: https://www.binarytreestudio.com/
+    description: Hong Kong indie studio making roguelike and western-themed PC games, plus STEAM education game projects.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Siege of Dungeon
+      - No Death in Wild West
+    social:
+      instagram: https://www.instagram.com/binarytreestudio.hk/
+      youtube: https://www.youtube.com/@binarytreestudio3744
+    added_at: '2026-11-08T22:14:00.737Z'
+  - name: Laputa Labs
+    url: https://www.playkqo.com/
+    description: Taiwanese indie studio making programming puzzle games for PC.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Alan's Automaton Workshop
+      - Ket's Quantum Oracle
+    social:
+      x: https://x.com/LaputaLabs
+    added_at: '2026-11-08T22:14:00.738Z'
+  - name: PhantomWorks
+    url: https://phtworks.com/
+    description: 'Remote-first Taipei game studio founded in 2023, making the action game ARIE: Moonprayer.'
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    notable:
+      - 'ARIE: Moonprayer'
+    social:
+      youtube: https://www.youtube.com/@phtworks
+      x: https://x.com/phtworks
+    added_at: '2026-11-08T22:14:00.739Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fun2 Studio
+    url: https://fun2studio.com/
+    description: Taipei VR and AR game studio making its own titles on Taiwanese history and culture, plus outsourced XR projects.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+      - mobile
+    notable:
+      - KOXINGA BLACK WATER
+      - Raid on Taihoku
+      - 'Endemics: GONGWAN'
+      - Puffit GO! XR
+    social:
+      instagram: https://www.instagram.com/fun2studio/
+    added_at: '2026-11-08T22:14:00.740Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DAONE GAMES
+    url: https://www.daonegames.com/
+    description: Taipei Unity studio making its own mobile and PC games plus branded games, learning apps and game art for clients.
+    hq:
+      city: Taipei
+      country: Taiwan
+    segments:
+      - indie
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Boba Cafe Fever
+    added_at: '2026-11-08T22:14:00.741Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Millo Games
+    url: https://www.millogames.com/
+    description: Taiwanese studio founded in 2013 making original mobile and Switch games, with 10+ titles released.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - console
+    founded: 2013
+    notable:
+      - Demon King and Heroes
+      - Astro Blast
+      - Immune Simulator
+      - Type Z
+    social:
+      youtube: https://www.youtube.com/@millogames4971
+    added_at: '2026-11-08T22:14:00.742Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Genuine Studio
+    url: https://www.genuine-studio.com/
+    description: Hong Kong studio making narrative mystery and horror mobile games set in local city settings.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Dangerous Man
+      - 'Dangerous Man: Rainy Butcher'
+    social:
+      youtube: https://www.youtube.com/channel/UCWt-o5nvVhaHYkItUtAVamQ
+    added_at: '2026-11-08T22:14:00.743Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamestry Lab
+    url: https://www.gamestrylab.com/
+    description: Hong Kong game studio making original games plus animation and interactive work for clients.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Balance Breakers
+    social:
+      instagram: https://www.instagram.com/gamestrylab/
+      linkedin: https://www.linkedin.com/company/gamestrylab/
+    added_at: '2026-11-08T22:14:00.744Z'
+  - name: Lokin Studios
+    url: https://lokin.gg/
+    description: Hong Kong indie studio making co-op horror games for PC, including Hospital 666 and School 666.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Hospital 666
+      - School 666
+      - Kowloon 666
+      - Go Some Balls
+    added_at: '2026-11-08T22:14:00.745Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: YOHCAN
+    url: https://yohcan.com/
+    description: Small Taiwanese indie studio making action games, including the office brawler Quit Today.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Quit Today
+      - Awaking Beauty
+    social:
+      instagram: https://www.instagram.com/yohcanstudio/
+    added_at: '2026-11-08T22:14:00.746Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GameNobility
+    url: https://www.gamenobility.com/
+    description: Taichung-run game studio making gamified brand experiences and custom games for clients, plus its own titles.
+    hq:
+      city: Taichung
+      country: Taiwan
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - web
+    notable:
+      - DreamKeeper
+    social:
+      instagram: https://instagram.com/gamenobility
+      x: https://twitter.com/GameNobility
+    added_at: '2026-11-08T22:14:00.747Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dream Engine Games
+    url: https://www.rotaeno.com/en
+    description: Hong Kong rhythm game studio behind Rotaeno, a motion-control music game for mobile, Switch and PC.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    notable:
+      - Rotaeno
+    social:
+      x: https://twitter.com/DreamEngineGame/
+      youtube: https://www.youtube.com/channel/UCK7w2ZE2JE2SgcdVr5aUQ2A
+    added_at: '2026-11-08T22:14:00.748Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 18Light Game
+    url: https://www.18light.cc/
+    description: Taiwanese indie studio founded in 2015 making action and narrative games for PC and consoles.
+    hq:
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - NanoApostle
+      - Pronty
+    added_at: '2026-11-08T22:14:00.749Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chinese Gamer International
+    url: https://www.chinesegamer.net/
+    description: Taiwanese online game developer and operator running long-lived Chinese martial-arts and Three Kingdoms MMOs.
+    hq:
+      country: Taiwan
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    added_at: '2026-11-08T22:14:00.750Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FunYours Technology
+    url: http://www.fy.com.tw/
+    description: Taichung game developer founded in 1993, known for the Wind Fantasy RPG series and its online spin-off.
+    hq:
+      city: Taichung
+      country: Taiwan
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 1993
+    notable:
+      - Wind Fantasy series
+      - Wind Fantasy Online
+    added_at: '2026-11-08T22:14:00.751Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

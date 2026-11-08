@@ -1,0 +1,902 @@
+studios:
+  - name: Fly Penguin
+    url: https://www.flypenguin.jp/
+    description: Tokyo game developer offering planning, development, UI design and live operations for clients, plus its own mobile titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+    founded: 2013
+    social:
+      x: https://x.com/flypenguin_jp
+      youtube: https://www.youtube.com/@flypenguininc.903
+    added_at: '2026-11-08T22:14:00.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Headlock
+    url: https://headlock.jp/
+    description: Tokyo developer and operator of online games, building on server technology from its early MMORPG work.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 1999
+    added_at: '2026-11-08T22:14:00.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Logicalbeat
+    url: https://logicalbeat.co.jp/
+    description: Yokohama game developer providing programming and full development for console and mobile titles.
+    hq:
+      city: Yokohama
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2016
+    social:
+      x: https://x.com/logicalbeat_jp
+    added_at: '2026-11-08T22:14:00.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: One or Eight
+    url: https://one-or-eight.co.jp/
+    description: Tokyo developer of its own games such as Earth Wars, with a branch in Nagoya.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Nagoya
+        country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2012
+    notable:
+      - Earth Wars
+    social:
+      x: https://twitter.com/OneorEightINC
+    added_at: '2026-11-08T22:14:00.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Accord Seven
+    url: https://www.accordseven.co.jp/
+    description: Kyoto developer of console and smartphone games for publishers.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2012
+    social:
+      x: https://twitter.com/accordseveninc
+    added_at: '2026-11-08T22:14:00.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ullucus Heaven
+    url: https://www.ullucus.com/
+    description: Suita-based developer of smartphone apps and handheld games, part of the Alvion group.
+    hq:
+      city: Suita
+      country: Japan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    parent: Alvion
+    founded: 2006
+    social:
+      x: https://x.com/ULLUCUS_pr
+      youtube: https://www.youtube.com/user/ULLUCUSHEAVEN
+    added_at: '2026-11-08T22:14:00.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Indie-us Games
+    url: https://indie-us-games.co.jp/
+    description: Osaka studio specialising in Unreal Engine game development, VR and video, plus Unreal training for students and pros.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+    founded: 2017
+    social:
+      x: https://x.com/IndieusGames
+    added_at: '2026-11-08T22:14:00.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: G CHOICE
+    url: https://gchoice.co.jp/
+    description: Tokyo developer of PC and console games and mobile content.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2001
+    social:
+      x: https://twitter.com/G_CHOICE_INFO
+      instagram: https://www.instagram.com/g_choice_info
+      youtube: https://www.youtube.com/@gchoiceinfo
+    added_at: '2026-11-08T22:14:00.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: iMel
+    url: https://imel.co.jp/
+    description: Tokyo developer and publisher of adventure games for consoles, smartphones and PC.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - mobile
+      - pc
+    founded: 2011
+    added_at: '2026-11-08T22:14:00.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VRIDGE
+    url: https://www.vridge.co.jp/
+    description: Developer of console games and smartphone content that also takes on partial development work for other studios.
+    hq:
+      city: Machida
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2000
+    social:
+      x: https://twitter.com/OfficialVRIDGE
+    added_at: '2026-11-08T22:14:00.572Z'
+  - name: Riz
+    url: https://www.riz.co.jp/
+    description: Tokyo developer of smartphone, console and PC games that also produces 3D animation, VR and interactive content.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - console
+      - pc
+    founded: 1998
+    social:
+      x: https://x.com/rizinc_official
+    added_at: '2026-11-08T22:14:00.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Witchcraft
+    url: http://www.witch-craft.co.jp/
+    description: Tokyo game developer handling planning, scenario, 2D and 3D art and sound for publisher titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2008
+    added_at: '2026-11-08T22:14:00.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SRD
+    url: https://www.srd.co.jp/
+    description: Nintendo subsidiary in Kyoto doing contract development of games and web systems for Nintendo platforms.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    parent: Nintendo
+    founded: 1979
+    notable:
+      - Super Mario series
+      - The Legend of Zelda series
+      - Animal Crossing series
+    added_at: '2026-11-08T22:14:00.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mutan
+    url: https://www.mutan.co.jp/
+    description: Tokyo developer of console and social games and CG art for publishers such as Atlus, Koei Tecmo and Square Enix.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - console
+      - mobile
+    founded: 2007
+    added_at: '2026-11-08T22:14:00.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wizcorp
+    url: https://www.wizcorp.jp/
+    description: Tokyo game studio offering core engineering, prototyping, porting and full game development. Part of Keywords Studios.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    parent: Keywords Studios
+    founded: 2008
+    social:
+      linkedin: https://www.linkedin.com/company/wizcorp
+    added_at: '2026-11-08T22:14:00.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rabbit & Bear Studios
+    url: https://rabbitandbearstudios.com/
+    description: Tokyo studio founded by veteran JRPG creators, developer of the Eiyuden Chronicle games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - 'Eiyuden Chronicle: Hundred Heroes'
+      - 'Eiyuden Chronicle: Rising'
+    added_at: '2026-11-08T22:14:00.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CommSeed
+    url: https://www.commseed.net/
+    description: Tokyo developer and operator of mobile and social games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 1991
+    added_at: '2026-11-08T22:14:00.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SilverStar Japan
+    url: https://www.silverstar.co.jp/
+    description: Gifu developer of game and utility software, with contract work for Nintendo, Sony Interactive and Sega.
+    hq:
+      city: Gifu
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+      - pc
+    social:
+      x: https://twitter.com/silverstarjapan
+    added_at: '2026-11-08T22:14:00.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CA Production
+    url: https://www.caproduction.co.jp/
+    description: Omura-based studio developing home console games, with Nintendo and NDcube as main clients.
+    hq:
+      city: Omura
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    founded: 1993
+    added_at: '2026-11-08T22:14:00.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spicysoft
+    url: https://www.spicysoft.com/
+    description: Tokyo mobile game studio behind the Chari-so cycling runner series, also running an engineering services arm.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Chari-so series
+    added_at: '2026-11-08T22:14:00.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cosmo Machia
+    url: https://www.cosmomachia.co.jp/
+    description: Tokyo developer of online games for smartphone and PC, and of console titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2010
+    social:
+      x: https://twitter.com/cosmo_machia
+    added_at: '2026-11-08T22:14:00.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: favary
+    url: https://favary.co.jp/
+    description: Tokyo studio making novel games and apps aimed at women, both original titles and contract work.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Yokohama
+        country: Japan
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    founded: 2015
+    social:
+      x: https://twitter.com/favary_Apps
+    added_at: '2026-11-08T22:14:00.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Altplus
+    url: https://www.altplus.co.jp/
+    description: Tokyo developer and operator of mobile games, with a development studio in Kochi.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Kochi
+        country: Japan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    social:
+      x: https://twitter.com/Altplus_PR
+    added_at: '2026-11-08T22:14:00.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ArtPlay
+    url: https://artplay.co.jp/
+    description: Tokyo studio behind the Bloodstained series of gothic side-scrolling action games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2014
+    notable:
+      - 'Bloodstained: Ritual of the Night'
+    social:
+      x: https://twitter.com/ArtplayInc
+      instagram: https://www.instagram.com/artplayinc
+      linkedin: https://www.linkedin.com/company/artplaygames
+    added_at: '2026-11-08T22:14:00.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Grenge
+    url: https://www.grenge.co.jp/
+    description: Tokyo developer and operator of smartphone games such as Pokoron Dungeons.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pokoron Dungeons
+    added_at: '2026-11-08T22:14:00.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cross Field
+    url: https://crossfd.co.jp/
+    description: Tokyo company planning, developing and operating smartphone games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2009
+    added_at: '2026-11-08T22:14:00.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TENKY
+    url: https://www.tenky.co.jp/
+    description: Tokyo game company handling game design, illustration and development, plus card and board games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    founded: 1989
+    notable:
+      - Melty Lancer
+      - Kyoukai Senjou no Horizon Portable
+    added_at: '2026-11-08T22:14:00.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Metro
+    url: https://www.metro-japan.com/
+    description: Osaka developer of arcade, console and smartphone games, with a development office in Tokyo.
+    hq:
+      city: Osaka
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 1987
+    added_at: '2026-11-08T22:14:00.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: COMPILE-O
+    url: https://compile-o.com/
+    description: Small Matsudo studio making puzzle games such as Nyoki Nyoki for Nintendo Switch.
+    hq:
+      city: Matsudo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+    founded: 2016
+    notable:
+      - Nyoki Nyoki
+    social:
+      x: https://twitter.com/compile_o
+    added_at: '2026-11-08T22:14:00.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Infinity Vector
+    url: https://www.infinityvector.com/
+    description: Tokyo studio behind Assoluto Racing, a racing simulation for mobile with over 20 million downloads.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - Assoluto Racing
+    added_at: '2026-11-08T22:14:00.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Will
+    url: http://www.will-net.co.jp/
+    description: Saitama developer of console, smartphone and arcade game software, including co-development on Nintendo titles.
+    hq:
+      city: Saitama
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 1988
+    notable:
+      - 'Super Mario Party Jamboree: Nintendo Switch 2 Edition + Jamboree TV'
+    added_at: '2026-11-08T22:14:00.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: POISOFT
+    url: https://poisoft.jp/
+    description: Three-person Fukuoka indie studio making strategy and action games, also doing development support for other studios.
+    hq:
+      city: Fukuoka
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2008
+    notable:
+      - Bridge Orders
+    social:
+      x: https://twitter.com/poisoftofficial
+      youtube: https://www.youtube.com/user/POISOFT/featured
+    added_at: '2026-11-08T22:14:00.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tenda Games
+    url: https://tendagames.co.jp/
+    description: Tokyo studio developing console and online games in full or in part for publishers, and publishing its own titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - pc
+      - mobile
+    founded: 2005
+    notable:
+      - KOKUTOTO
+    added_at: '2026-11-08T22:14:00.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: room6
+    url: https://www.room6.net/
+    description: Kyoto indie studio that develops, ports and publishes games for Switch, Steam and mobile.
+    hq:
+      city: Kyoto
+      country: Japan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - Rogue with the Dead
+    social:
+      x: https://twitter.com/room6_pr
+    added_at: '2026-11-08T22:14:00.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RENGAME
+    url: https://rengame.co.jp/
+    description: Osaka game developer formed in 2024 around a core team of former SNK staff, working on titles for publishers.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2024
+    added_at: '2026-11-08T22:14:00.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pikii
+    url: https://www.pikii.jp/
+    description: Niigata company planning, porting and publishing console games from Japanese and overseas creators.
+    hq:
+      city: Niigata
+      country: Japan
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+    founded: 2012
+    social:
+      x: https://twitter.com/PikiiGK
+    added_at: '2026-11-08T22:14:00.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LIONA
+    url: https://www.liona.co.jp/
+    description: Tokyo game developer offering one-stop development for console and mobile titles, plus gamified business projects.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+      - pc
+    founded: 2016
+    notable:
+      - 'BLEACH: Soul Resonance'
+      - Beast of Reincarnation
+    social:
+      x: https://x.com/official_LIONA
+    added_at: '2026-11-08T22:14:00.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Metasla
+    url: https://www.metasla.net/
+    description: Nagoya indie studio making PC and mobile games such as Sea Fantasy.
+    hq:
+      city: Nagoya
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2022
+    notable:
+      - Sea Fantasy
+      - Mana Alchemy
+    added_at: '2026-11-08T22:14:00.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yaneura Games
+    url: https://yaneuragames.com/
+    description: Tokyo studio of former CyberAgent producers and directors, making original games and supporting partner titles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    founded: 2023
+    added_at: '2026-11-08T22:14:00.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Black Tower Studios
+    url: https://www.blacktower.jp/
+    description: Tokyo studio founded by former Acquire developers, making console games and Fortnite UEFN experiences.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - ugc
+      - co-dev
+    platforms:
+      - console
+      - pc
+    founded: 2012
+    notable:
+      - STELLAR IN FORTNITE
+    added_at: '2026-11-08T22:14:00.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KITERETSU
+    url: https://kiteretsu.jp/en/
+    description: Tokyo developer and operator of puzzle games, best known for the Zookeeper series, with game offices in Sendai and Osaka.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Sendai
+        country: Japan
+      - city: Osaka
+        country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2007
+    notable:
+      - Zookeeper
+      - Zookeeper World
+      - 'Zookeeper: Blast Quest'
+    added_at: '2026-11-08T22:14:00.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ecole Software
+    url: https://www.e56.info/
+    description: Arcade and console game developer known for Death Crimson and the arcade versions of Melty Blood, with a new studio in Fujisawa.
+    hq:
+      city: Nishinomiya
+      country: Japan
+    offices:
+      - city: Fujisawa
+        country: Japan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - console
+    founded: 1989
+    notable:
+      - Death Crimson
+      - 'Melty Blood: Actress Again'
+      - 'Dengeki Bunko: Fighting Climax'
+    added_at: '2026-11-08T22:14:00.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kuusoukagaku
+    url: https://kuusoukagaku.co.jp/
+    description: Software house on Amami Oshima making smartphone puzzle and mahjong games, with past console and arcade work such as RPG Maker.
+    hq:
+      city: Amami
+      country: Japan
+    offices:
+      - city: Kagoshima
+        country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 1991
+    notable:
+      - Metro Keeper
+      - Yonin Mahjong
+    social:
+      x: https://x.com/kuusoukagakucom
+    added_at: '2026-11-08T22:14:00.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sonzai Games
+    url: https://www.sonzaigames.com/
+    description: Independent Osaka studio making original games and taking on collaborative development.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Super Sami Roll
+      - Bat Boy
+    social:
+      x: https://twitter.com/sonzaigames
+    added_at: '2026-11-08T22:14:00.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SAT-BOX
+    url: https://sat-box.jp/
+    description: Nagoya developer of smartphone apps, VR and Nintendo Switch games, also doing contract work such as kids tablet apps.
+    hq:
+      city: Nagoya
+      country: Japan
+    offices:
+      - city: Ogaki
+        country: Japan
+    segments:
+      - indie
+      - co-dev
+      - kids-edu
+    platforms:
+      - console
+      - mobile
+      - pc
+    notable:
+      - Bokura no Keshigomu Otoshi 4
+      - Yake! Pizza Master
+    social:
+      x: https://twitter.com/SAT_BOX_2011
+    added_at: '2026-11-08T22:14:00.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KAYAC Akiba Studio
+    url: https://akiba.kayac.studio/
+    description: Tokyo game developer for console, arcade, PC and mobile that has grown into xR and CG animation. Part of the Kayac group.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+      - pc
+    parent: Kayac
+    founded: 2006
+    added_at: '2026-11-08T22:14:00.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamedo
+    url: https://gamedo.co.jp/
+    description: Small Sapporo game development studio focused on UI planning, programming and design for client titles.
+    hq:
+      city: Sapporo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    social:
+      x: https://x.com/gamedo_inc
+    added_at: '2026-11-08T22:14:00.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Megg
+    url: http://www.megg.co.jp/
+    description: Miyazaki game company doing planning, scenario and direction for console and mobile titles.
+    hq:
+      city: Miyazaki
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2007
+    notable:
+      - Minna de Kuuki Yomi. Korokoro Comic Ver.
+      - Osawari Tantei Ozawa Rina Rising 3
+    added_at: '2026-11-08T22:14:00.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Qmax
+    url: https://qmax.co.jp/
+    description: Fukuoka developer and operator of smartphone and PC games, also doing contract development and indie publishing.
+    hq:
+      city: Fukuoka
+      country: Japan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    social:
+      x: https://x.com/info_qmax
+    added_at: '2026-11-08T22:14:00.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: unico
+    url: https://unico-inc.jp/
+    description: Tokyo game studio making its own titles such as Little Recollector and working for publishers including Sony Interactive and Square Enix.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    founded: 2006
+    notable:
+      - Little Recollector
+    added_at: '2026-11-08T22:14:00.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

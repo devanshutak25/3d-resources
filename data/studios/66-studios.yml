@@ -345,3 +345,555 @@ studios:
     added_at: '2026-11-08T20:25:13.900Z'
     url_status: ok
     url_last_verified: '2026-11-08'
+  - name: Flood
+    url: https://floodstudio.com/
+    description: Film, 3D and experience studio making CGI, animation and immersive sales experiences for property developers and brands.
+    hq:
+      country: Australia
+    offices:
+      - city: Brisbane
+        country: Australia
+      - city: Melbourne
+        country: Australia
+      - city: Sydney
+        country: Australia
+      - city: Perth
+        country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - experiential
+      - live-action
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://instagram.com/floodstudio_
+    added_at: '2026-11-08T22:14:00.402Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vishus Productions
+    url: https://vishusproductions.com/
+    description: South Australian animation house making 2D and 3D animated content for film and television, e-learning, games and VR.
+    hq:
+      city: Mount Barker
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - brand
+    founded: 2007
+    added_at: '2026-11-08T22:14:00.403Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 12field
+    url: https://12field.com.au/
+    description: Melbourne animation studio making kids and family series such as The Flamin' Thongs and Dogstar, with work on Ludo Studio's The Strange Chores.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - The Flamin' Thongs
+      - Dogstar
+      - The Strange Chores
+    social:
+      instagram: https://www.instagram.com/12field
+      linkedin: https://au.linkedin.com/company/12field
+      vimeo: https://vimeo.com/12field
+    added_at: '2026-11-08T22:14:00.404Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chunk
+    url: https://www.chunkmotion.design/
+    description: Melbourne motion design and animation studio making commercial animation for brands and agencies.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/chunkmotion
+      x: https://twitter.com/chunkmotion
+      vimeo: https://vimeo.com/chunkmotion
+      youtube: https://www.youtube.com/c/chunkmotion
+    added_at: '2026-11-08T22:14:00.405Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CHOP
+    url: https://www.chop-studio.com/
+    description: Animation studio in Northcote, Melbourne, taking television, film and digital projects from concept to finished animation.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/chop_studio
+      vimeo: https://vimeo.com/chopstudio
+    added_at: '2026-11-08T22:14:00.406Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Soymilk Studio
+    url: https://www.soymilk.studio/
+    description: Stop-motion duo based in Melbourne and Bordeaux, making animated ads, PSAs and museum pieces for brands and public bodies.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Bordeaux
+        country: France
+    disciplines:
+      - stop-motion
+    markets:
+      - advertising
+      - brand
+    social:
+      x: https://twitter.com/soymilkstudio
+      vimeo: https://vimeo.com/soymilkstudio
+      instagram: https://www.instagram.com/soymilk_studio
+      linkedin: https://www.linkedin.com/company/2981058
+    added_at: '2026-11-08T22:14:00.407Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Double Jinx
+    url: https://doublejinx.net/
+    description: Melbourne motion design studio making animated videos for brands, ads, training and social content.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2019
+    social:
+      linkedin: http://www.linkedin.com/company/double-jinx
+      vimeo: https://vimeo.com/doublejinx
+      instagram: https://www.instagram.com/studiodoublejinx
+    added_at: '2026-11-08T22:14:00.408Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DAVE Enterprises
+    url: https://www.dave-enterprises.com/
+    description: Sydney pre-production and animation studio making design, storyboards and animatics for 2D and 3D TV series and features.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - previs
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/daveenterprises
+      youtube: https://www.youtube.com/@dave-enterprises
+    added_at: '2026-11-08T22:14:00.409Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arterra Interactive
+    url: https://www.arterrainteractive.com.au/
+    description: Sydney 3D visualisation studio making animations, photomontages and interactive media for infrastructure, government and property projects.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+      - interactive
+    markets:
+      - real-estate
+    founded: 1999
+    social:
+      instagram: https://www.instagram.com/arterrainteractive
+      linkedin: https://www.linkedin.com/company/arterra-interactive
+    added_at: '2026-11-08T22:14:00.410Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Volume Vision
+    url: https://volume.vision/
+    description: Archviz studio making photoreal renders, animations, walkthroughs and sales presentation software for unbuilt residential projects.
+    hq:
+      country: Australia
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Sydney
+        country: Australia
+      - city: Brisbane
+        country: Australia
+    disciplines:
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/volume.vision
+      linkedin: https://www.linkedin.com/company/volumevision
+    added_at: '2026-11-08T22:14:00.411Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stab Studio
+    url: https://stabstudio.com/
+    description: Melbourne creative studio making realistic CGI imagery and films for property and architecture projects.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/stabstudio
+    added_at: '2026-11-08T22:14:00.412Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Impact Multimedia
+    url: https://impactmultimedia.com.au/
+    description: Sydney 3D animation and multimedia studio for property, medical and defence clients.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/impactmultimedia
+      linkedin: https://www.linkedin.com/company/3558344
+    added_at: '2026-11-08T22:14:00.413Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AX2 Creative
+    url: https://ax2studio.com/
+    description: Sunshine Coast studio making renders, film and approval images for off-the-plan property marketing.
+    hq:
+      city: Sunshine Coast
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/ax2creative
+      linkedin: https://www.linkedin.com/company/ax2-studio
+    added_at: '2026-11-08T22:14:00.414Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vizhouse
+    url: https://vizhouse.com.au/
+    description: Boutique Sydney archviz studio making stills, animations, photomontages and 360 tours for architects and developers.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/vizhouse_3d
+    added_at: '2026-11-08T22:14:00.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Visual Render
+    url: https://visualrender.com.au/
+    description: Gold Coast archviz studio making renders, video walkthroughs and floor plans for architects, developers and builders.
+    hq:
+      city: Gold Coast
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://instagram.com/visualrenderaustralia
+      linkedin: https://linkedin.com/company/visualrenderaustralia
+    added_at: '2026-11-08T22:14:00.416Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Illustrate
+    url: https://www.illustrate.com.au/
+    description: Brisbane product visualisation studio making 3D imagery and animation for retail and multi-channel marketing.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - product-viz
+      - cg
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T22:14:00.417Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: rdvis
+    url: https://www.rdvis.com/
+    description: Gold Coast CGI studio making renders, films and interactive sales tools for property developers, builders and agencies.
+    hq:
+      city: Gold Coast
+      country: Australia
+    disciplines:
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+    founded: 2015
+    social:
+      instagram: https://instagram.com/rdvis.creative
+      linkedin: https://www.linkedin.com/company/rdvis
+    added_at: '2026-11-08T22:14:00.418Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RAMUS
+    url: https://ramus.com.au/
+    description: Melbourne studio designing light, digital and interactive art for public spaces, precincts and architecture.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/ramusstudio
+    added_at: '2026-11-08T22:14:00.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Beau Immersive
+    url: https://www.beau-immersive.com/
+    description: Melbourne creative-tech studio making 3D renders, animations, VR tours and display suite apps for property projects.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - xr
+      - interactive
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/beau_immersive
+      linkedin: https://www.linkedin.com/company/beau-immersive
+    added_at: '2026-11-08T22:14:00.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Catalyst XR
+    url: https://catalystvr.com.au/
+    description: Sydney XR studio making VR, AR and MR experiences for brands, tourism, training and education.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/catalyst_xr
+      linkedin: https://www.linkedin.com/company/catalyst-xr
+    added_at: '2026-11-08T22:14:00.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Electric Canvas
+    url: https://www.theelectriccanvas.com.au/
+    description: Sydney projection mapping specialist creating large-scale building projections for festivals, governments and events.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 1997
+    notable:
+      - Sydney Opera House projections
+      - Vivid Sydney
+    social:
+      vimeo: http://www.vimeo.com/theelectriccanvas
+      linkedin: https://au.linkedin.com/company/the-electric-canvas
+      instagram: https://www.instagram.com/the_electric_canvas
+      youtube: https://www.youtube.com/theelectriccanvas
+    added_at: '2026-11-08T22:14:00.422Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: emergeWorlds
+    url: https://emergeworlds.com/
+    description: Gold Coast VR studio making training simulations, visualisation and games, including the puzzle platformer DROS.
+    hq:
+      city: Gold Coast
+      country: Australia
+    disciplines:
+      - xr
+      - interactive
+      - archviz
+    markets:
+      - games
+      - brand
+      - real-estate
+    notable:
+      - DROS
+    added_at: '2026-11-08T22:14:00.423Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Showoff
+    url: https://www.studioshowoff.com/
+    description: Melbourne animation house making boutique ad campaigns and full TV series for children and adults.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/studioshowoff
+      youtube: https://www.youtube.com/@studioshowoff
+      x: http://www.twitter.com/studioshowoff
+    added_at: '2026-11-08T22:14:00.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Broken Yellow
+    url: https://www.brokenyellow.com/
+    description: Sydney design and animation studio making animated features and series, TV and online commercials, and show graphics.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: Launceston
+        country: Australia
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - title-design
+    markets:
+      - episodic
+      - advertising
+    social:
+      vimeo: https://vimeo.com/brokenyellow
+      instagram: https://www.instagram.com/brokenyellow
+    added_at: '2026-11-08T22:14:00.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Unlisted
+    url: https://www.unlisted.tv/
+    description: Melbourne animation, design, film and VFX production company with a Shanghai office, working with agencies, brands and artists.
+    hq:
+      city: Melbourne
+      country: Australia
+    offices:
+      - city: Shanghai
+        country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - vfx
+    markets:
+      - advertising
+      - music-video
+      - brand
+    social:
+      instagram: https://instagram.com/unlisted.tv
+    added_at: '2026-11-08T22:14:00.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Gilay
+    url: https://studiogilay.com/
+    description: Sydney animation and design studio making kids content, title sequences and campaign films with communities, broadcasters and organisations.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - title-design
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Play School opening titles
+      - Black Snow S2 title sequence
+    social:
+      instagram: https://www.instagram.com/studio.gilay
+      linkedin: https://www.linkedin.com/company/studiogilay
+    added_at: '2026-11-08T22:14:00.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Armchair Productions
+    url: https://www.armchairproductions.com.au/
+    description: Sydney animation and content studio making animated stories for business, government and education.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      x: https://twitter.com/armchairproduct
+      instagram: https://www.instagram.com/armchairproductions
+    added_at: '2026-11-08T22:14:00.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Explanimate
+    url: https://explanimate.com.au/
+    description: Brisbane design and animation studio making explainer videos and corporate animation.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      vimeo: https://vimeo.com/explanimate
+      youtube: https://www.youtube.com/@Explanimate-studio
+    added_at: '2026-11-08T22:14:00.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vast Visual
+    url: https://vastvisual.com.au/
+    description: Perth creative studio making 3D animation for mining, safety training and complex project explainers.
+    hq:
+      city: Perth
+      country: Australia
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/vast_visual_creative_studio
+      linkedin: https://www.linkedin.com/company/vast-visual-arts
+    added_at: '2026-11-08T22:14:00.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

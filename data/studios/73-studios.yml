@@ -1,0 +1,658 @@
+studios:
+  - name: Genesis Motion Design
+    url: https://genesismotiondesign.com/
+    description: Singapore motion graphics and 2D animation studio making campaign and social content for brands such as McDonald's and Riot Games.
+    hq:
+      city: Singapore
+      country: Singapore
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - McDonald's Samurai & Ninja Burger campaign
+      - VALORANT Champions Tour Pacific campaign
+    social:
+      instagram: https://instagram.com/genesismotiondesign
+      linkedin: https://www.linkedin.com/company/genesismotiondesign
+      vimeo: https://vimeo.com/genesismotiondesign/
+    added_at: '2026-11-08T22:14:00.731Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Latitude-23
+    url: https://latitude-23.net/
+    description: Architectural visualization studio making renders, animations and interactive walkthroughs for architects and developers.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - archviz
+      - 3d-animation
+      - interactive
+    markets:
+      - real-estate
+    founded: 2001
+    social:
+      instagram: https://www.instagram.com/latitude23bd/
+      linkedin: https://www.linkedin.com/company/latitude-23/
+      youtube: https://www.youtube.com/user/latitude23dotnet/
+    added_at: '2026-11-08T22:14:00.732Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Technomagic
+    url: https://www.technomagicbd.com/
+    description: 3D animation, VFX, AR and VR studio making commercials and interactive brand experiences.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - 3d-animation
+      - vfx
+      - xr
+      - interactive
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/technomagic.bd/
+      linkedin: https://www.linkedin.com/company/technomagic-pvt-ltd
+      youtube: https://www.youtube.com/user/technomagicbd
+    added_at: '2026-11-08T22:14:00.733Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Renegades Art
+    url: https://renegades-art.com/
+    description: Game art outsourcing studio making 3D props, characters and hard-surface assets.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    added_at: '2026-11-08T22:14:00.734Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio PADMA
+    url: https://www.studiopadma.com/
+    description: Animation production company making animated content to Japanese production standards for clients in Japan, China and Bangladesh.
+    hq:
+      city: Dhaka
+      country: Bangladesh
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+    founded: 2014
+    added_at: '2026-11-08T22:14:00.735Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rapid Renders
+    url: https://rapidrenders.com/
+    description: 3D rendering studio making architectural stills, animations, 360 walkthroughs and product renders for architects, developers and brands.
+    hq:
+      city: Dehiwala-Mount Lavinia
+      country: Sri Lanka
+    offices:
+      - city: Torrance
+        country: United States
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+    markets:
+      - real-estate
+      - brand
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/rapidrenders/
+      linkedin: https://www.linkedin.com/company/rapidrenders/
+    added_at: '2026-11-08T22:14:00.736Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio3
+    url: https://studio3.pk/
+    description: Architectural visualization studio making exterior, interior and aerial renders and walkthrough animations for architects and developers.
+    hq:
+      city: Multan
+      country: Pakistan
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/studio3archviz/
+      youtube: https://www.youtube.com/channel/UCRj8X9Iqx0xsmwwB1uu1axw
+    added_at: '2026-11-08T22:14:00.737Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ARA Studios
+    url: https://arastudios.kz/
+    description: Animation and game art studio making kids series and short films, and game art for external developers.
+    hq:
+      city: Almaty
+      country: Kazakhstan
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - games
+    notable:
+      - Maqta qyz
+      - Solar Cats
+      - Shyraq
+      - Golden Tides (game art)
+    social:
+      instagram: https://www.instagram.com/ara.studios/
+      youtube: https://www.youtube.com/@ARAstudioskz
+    added_at: '2026-11-08T22:14:00.738Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CGFHQ
+    url: https://cgfhq.com/
+    description: Full-cycle VFX and post-production studio doing 3D, compositing, matte painting, roto and matchmove for commercials, music videos and narrative projects.
+    hq:
+      city: Almaty
+      country: Kazakhstan
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - music-video
+      - film
+    added_at: '2026-11-08T22:14:00.739Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tasqyn Studio
+    url: https://tasqyn.kz/
+    description: Full-cycle animation studio of about 100 artists making Kazakh-language animated series and comics.
+    hq:
+      city: Almaty
+      country: Kazakhstan
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2022
+    notable:
+      - Kunshikter
+      - Bes tai-tai
+    social:
+      instagram: https://www.instagram.com/tasqynstudio/
+      youtube: https://www.youtube.com/@studiotasqyn
+    added_at: '2026-11-08T22:14:00.740Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: United Soft
+    url: https://unitedsoft.uz/
+    description: Production company doing VFX, CGI and virtual production for film, TV and advertising, and maker of the animated series Bek and Lola.
+    hq:
+      city: Tashkent
+      country: Uzbekistan
+    disciplines:
+      - vfx
+      - cg
+      - virtual-production
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Bek and Lola
+    added_at: '2026-11-08T22:14:00.741Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Futurist Media Group
+    url: https://futurist.uz/
+    description: Animation studio making cartoons, films and commercials, with in-house dubbing, post-production and a render farm for hire.
+    hq:
+      city: Tashkent
+      country: Uzbekistan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://instagram.com/FuturistMG
+    added_at: '2026-11-08T22:14:00.742Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MovingStone Digital
+    url: https://www.movingstonedigital.com/
+    description: Animation and VFX studio making CGI, 3D animation, motion graphics, archviz and AR/VR work for brands.
+    hq:
+      city: Islamabad
+      country: Pakistan
+    offices:
+      - city: Austin
+        country: United States
+      - city: Ilford
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - archviz
+      - xr
+    markets:
+      - advertising
+      - brand
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/movingstonedigital/
+      linkedin: https://www.linkedin.com/company/movingstonedigital/
+      youtube: https://www.youtube.com/@movingstonedigital
+    added_at: '2026-11-08T22:14:00.743Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 3D iLLUMINATION
+    url: https://3dillumination.com/
+    description: 3D projection mapping and immersive media studio also doing VFX, CGI and motion graphics for brands and public events.
+    hq:
+      city: Islamabad
+      country: Pakistan
+    disciplines:
+      - experiential
+      - vfx
+      - cg
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    founded: 2008
+    notable:
+      - Holo-Verse at Lahore Zoo
+    added_at: '2026-11-08T22:14:00.744Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Big Picture Studio
+    url: https://www.bigpicturevfx.com/
+    description: VFX studio making CGI for Hong Kong feature films and TV commercials, with on-set supervision and its own LiDAR scanning.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - vfx
+      - cg
+      - scanning
+    markets:
+      - film
+      - advertising
+    founded: 2016
+    notable:
+      - The Goldfinger
+      - One More Chance
+      - Warriors of Future
+    added_at: '2026-11-08T22:14:00.745Z'
+  - name: Milpicture
+    url: https://www.milpicture.com/
+    description: Production and VFX house making CG, visual effects and commercials for Hong Kong films and brands.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    offices:
+      - city: Guangzhou
+        country: China
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+      - live-action
+    markets:
+      - film
+      - advertising
+    founded: 2016
+    notable:
+      - The Prosecutor
+      - Cesium Fallout
+      - Mama's Affair
+      - Zero to Hero
+    social:
+      vimeo: https://vimeo.com/milpicture
+    added_at: '2026-11-08T22:14:00.746Z'
+  - name: Herbgarden
+    url: http://www.herbgarden.com.hk/
+    description: Hong Kong film VFX and post house with 50+ local features, including Hong Kong Film Award Best Visual Effects wins.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+    founded: 2008
+    notable:
+      - Rigor Mortis
+      - Operation Mekong
+      - Rob N Roll
+      - Sons of the Neon Night
+    added_at: '2026-11-08T22:14:00.747Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Symbolic Production
+    url: https://symbolicproduction.wixsite.com/symbolic/film
+    description: Hong Kong VFX company making visual effects for local films, web films, TV dramas and commercials.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    offices:
+      - city: Shenzhen
+        country: China
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Crisis Negotiators
+      - Sons of the Neon Night
+    social:
+      instagram: http://www.instagram.com/symbolic.production
+    added_at: '2026-11-08T22:14:00.748Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Votion Studios
+    url: https://votion.studio/
+    description: Hong Kong virtual production, XR and AI content studio making music videos and brand films.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - virtual-production
+      - xr
+      - vfx
+      - ai-production
+    markets:
+      - advertising
+      - music-video
+      - brand
+    notable:
+      - Dear Jane music video
+      - Standard Chartered
+      - Emperor Watch & Jewellery
+    social:
+      instagram: https://www.instagram.com/votionstudios/
+      linkedin: https://www.linkedin.com/company/votion-studios
+    added_at: '2026-11-08T22:14:00.749Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Taiwan Bar Studio
+    url: https://taiwanbar.cc/
+    description: Taipei content studio making animated explainer series, character IP and animation for public-sector and brand clients.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Animated History of Taiwan
+      - Beeru
+      - Taipei 101 New Year fireworks animation
+    social:
+      instagram: https://www.instagram.com/taiwan_bar/
+    added_at: '2026-11-08T22:14:00.750Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NextFrame AI Studio
+    url: https://next-frame.ai/
+    description: Taipei studio making AI-generated ads, films, series and short dramas for brands and government clients.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - episodic
+      - film
+      - music-video
+    notable:
+      - SIGNAL
+      - STELLAR5
+      - VALKYRIE
+    added_at: '2026-11-08T22:14:00.751Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AQUR Visual
+    url: https://www.aqurvisual.com/
+    description: Taiwanese studio making product animation, VFX, motion graphics and CG stills for TV commercials.
+    hq:
+      country: Taiwan
+    disciplines:
+      - vfx
+      - product-viz
+      - motion-design
+      - cg
+    markets:
+      - advertising
+    social:
+      vimeo: https://vimeo.com/user40310142
+    added_at: '2026-11-08T22:14:00.752Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: eMotionLAB
+    url: https://www.emotionlab.tv/en/
+    description: Hong Kong animation and motion studio making brand films and explainer animation for local organisations.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - REFRAME
+    social:
+      instagram: http://instagram.com/emotionlab/
+      linkedin: http://www.linkedin.com/company/2921025
+      vimeo: https://vimeo.com/emotionlablimited
+      youtube: https://www.youtube.com/user/TheEmotionlab
+    added_at: '2026-11-08T22:14:00.753Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Taproot Studio
+    url: https://www.taproot-studio.com/
+    description: Hong Kong animation and post studio making TVCs, broadcast animation and original animated shorts.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - Zero (Future Animation scheme short)
+      - Sato TVC
+      - RTHK
+    social:
+      youtube: https://www.youtube.com/channel/UCaDoDT9zHeKXE2H69Uz-HnQ
+    added_at: '2026-11-08T22:14:00.754Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vision Desire
+    url: https://www.visiondesire.com/
+    description: Hong Kong studio making 2D, 3D, stop-motion and AI-assisted animation plus TVCs for brands, agencies and government.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+      - motion-design
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    founded: 2013
+    added_at: '2026-11-08T22:14:00.755Z'
+  - name: ManyMany Creations
+    url: https://www.manymany.asia/
+    description: Hong Kong CG and AI animation studio making naked-eye 3D billboards, DOOH campaigns and art-tech installations for brands.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - 3d-animation
+      - cg
+      - ai-production
+      - experiential
+    markets:
+      - advertising
+      - brand
+    notable:
+      - MGM Macau naked-eye 3D
+      - McDonald's naked-eye 3D
+      - Ocean Park
+      - Chow Sang Sang
+    social:
+      instagram: https://www.instagram.com/manymanycreations/
+    added_at: '2026-11-08T22:14:00.756Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FATFace Production
+    url: http://www.fatface.hk/
+    description: Hong Kong VFX company that led visual effects on the sci-fi feature Warriors of Future.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+    notable:
+      - Warriors of Future
+    added_at: '2026-11-08T22:14:00.757Z'
+  - name: Newgen Creativity
+    url: https://www.newgen-creativity.com/
+    description: Hong Kong studio making AI films, short dramas, AI commercials and animation from original scripts.
+    hq:
+      city: Hong Kong
+      country: Hong Kong
+    disciplines:
+      - ai-production
+      - 2d-animation
+    markets:
+      - advertising
+      - episodic
+      - film
+    notable:
+      - Tuen Mun vs Tin Shui Wai (Future Animation scheme short)
+    added_at: '2026-11-08T22:14:00.758Z'
+  - name: Grass Jelly Studio
+    url: https://www.grassjelly.tv/
+    description: Taipei production studio directing CG, VFX and live-action for commercials, music videos and concert visuals.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - music-video
+      - film
+    notable:
+      - Mayday Fly to 2025 online concert
+      - LEGO x Mayday
+      - 'Jolin Tsai: Ugly Beauty'
+      - 'Magical Super Asia: The Old Monk and the Cat Monster'
+    added_at: '2026-11-08T22:14:00.759Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aniapex
+    url: https://www.aniapex.com/zh_TW
+    description: Taipei game art outsourcing studio making 2D concept art, Spine and Live2D animation, 3D models and 3D motion for game developers.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+    added_at: '2026-11-08T22:14:00.760Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio2 Animation Lab
+    url: https://www.studio2.com.tw/
+    description: Tainan animation studio founded in 2005 making original animated series and features, plus commercials.
+    hq:
+      city: Tainan
+      country: Taiwan
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2005
+    notable:
+      - Barkley
+      - Little Sun
+      - Observatory Boy
+      - Pigsy
+    added_at: '2026-11-08T22:14:00.761Z'
+  - name: Woolito Studio
+    url: https://www.woolito.com/
+    description: Taipei animation studio making brand animation, motion graphics, social content and original IP for companies and NGOs.
+    hq:
+      city: Taipei
+      country: Taiwan
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    notable:
+      - Child Welfare League Foundation brand animation
+    social:
+      behance: https://www.behance.net/woolitostudio
+    added_at: '2026-11-08T22:14:00.762Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zealot Digital Art Center
+    url: http://artcenter.zealotdigital.com.tw/
+    description: Kaohsiung game art outsourcing arm of Zealot Digital making concept art, environments, character animation, VFX and music for game developers.
+    hq:
+      city: Kaohsiung
+      country: Taiwan
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - cinematics
+    markets:
+      - games
+    added_at: '2026-11-08T22:14:00.763Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

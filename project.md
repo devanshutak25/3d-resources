@@ -197,7 +197,7 @@ outsourcing, cinematics), `/game-studios/` = game developers. A URL may live in 
   em-dash/banned words in description (error).
 - check-links.js scans both studio directories with catalog entries (monthly).
 - Discovery method: `docs/playbooks/studio-discovery.md` (country agents + `scripts/import-studios.js`). Europe done
-  2026-11-09 (round 6); next regions: Americas, Asia-Pacific, Middle East + Africa.
+  2026-11-09 (round 6), Asia-Pacific done 2026-11-09 (round 7); next regions: Americas, Middle East + Africa.
 - Active studios only. Locations must be verified on the studio's own site or LinkedIn/press. The School of
   Motion ebook scrambles many locations (it put Blur Studio in Istanbul), so its HQs were never trusted alone.
 
@@ -372,13 +372,27 @@ left open, remove when done.
   Village) in §07. Houdini FX/simulations still 2 entries.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
-- `/studios/` 3,075 (97 countries) and `/game-studios/` 3,238 (95 countries) on 2026-11-09, after round 6
-  (Europe country by country, +380 / +555). Round 5 (event-sourced, 2026-11-06) stood at 2,695 / 2,683. Disciplines: archviz 392, product viz 206, interactive 164, VP 103, mocap 65,
-  AI production 46, scanning 33, previs 23; markets: real-estate 394, medical-science 58; games: simulation 101,
-  kids-edu 65, UGC 41, VR 86, web 95. Japan production 175 (game 233).
+- `/studios/` 3,436 (99 countries) and `/game-studios/` 3,587 (97 countries) on 2026-11-09, after round 7
+  (Asia-Pacific country by country, +361 / +349 net). Round 6 (Europe) stood at 3,075 / 3,238. Disciplines: archviz 461, product viz 238,
+  interactive 251, VP 123, mocap 79, AI production 66, scanning 38, previs 29; games: simulation 166, kids-edu 114, UGC 50,
+  VR 116. Japan 289 / 314, India 199 / 98, Australia 122 / 119, Korea 59 / 112, China 43 / 93.
+- Round 7 (2026-11-09, Asia-Pacific): 13 agents, both directories. Agent + main-session probe only; 112 of 712 rows are
+  country-only HQ, none have `size`, 305 medium + 4 low confidence. Thin after round 7: Korea production 59 (bot walls),
+  China (most .cn sites refuse non-CN fetches; 5 indie rows use a Steam `/developer/` page as `url`), Thailand 14/14,
+  Philippines 16/10, Sri Lanka/Nepal/Cambodia/Myanmar/Mongolia under 6, Pacific islands 0, Macau 0 (4DMacau site 404).
+  Not mined: TAICCA, Cyberport, HKDEA, GDAP, Screen Australia, AGDA, Reel-Scout (bot walls), AINAKI API (rejects),
+  HATCH/PGDX (API key in JS bundle: not extracted, on purpose), VFX-JAPAN (coming-soon page), abai.in (casino-hijacked),
+  filmnz.com (self-signed), .my sites resolving to 0.0.0.0 locally (Les' Copaque, Digital Durian, Silver Ant, Circle
+  Studio, Brainy Bones unverified). Leads left out: Enixo, Astrode, YesGnome, Tusharth (India games, fell between the two
+  India agents), Hoop VFX (HQ unclear), 6 China devs with only a Steam search URL, Debuz (Web3 pivot), Vermillion (522).
+- Existing rows flagged in round 7, still open: REVOROOT no city (Wikidata: Yamato, site unreachable), Morph Studios
+  (202 bot challenge), Indocgi (unreachable), Kurechii city (Puchong per gamedevmap only), Century Games HQ China vs
+  Singapore (unverified), Mad Mantra Games city (Pune per Tracxn only), PUBG Studios (url is a page on krafton.com, listed
+  KRAFTON has the same host), Framenote Studio (Behance) + Studio Blink (Instagram) have no own site (Goppo's Linktree was
+  a user add).
 - Goal is every studio worldwide. Still thin: previs 23 (Previs Society site down, PLF/NVIZ/Nvizage dead), digital fashion 0
   (The Fabricant, DRESSX are software now), Live2D/VTuber rigging 3 (no Live2D discipline, tagged `2d-animation`),
-  Gulf archviz (Saudi/Qatar 0; round 5 found only Bahrain 1, Dubai 1). Countries under 20 (by HQ): 56 in /studios/, 57 in /game-studios/ (many are 1-2 row countries added
+  Gulf archviz (Saudi/Qatar 0; round 5 found only Bahrain 1, Dubai 1). Countries under 20 (by HQ): 55 in /studios/, 58 in /game-studios/ (many are 1-2 row countries added
   2026-11-06; small markets like Malta, Iceland, Bosnia, Moldova may never reach 20). 0 rows: Montenegro, Albania (round 6
   found nothing verifiable in Albania, Montenegro, North Macedonia, Kosovo).
 - Round 6 (2026-11-09, Europe): 14 country agents, both directories. Agent + main-session probe only; 167 of 935 rows are
@@ -387,7 +401,7 @@ left open, remove when done.
   Moldova/Belarus 0 new. Not mined: gamesmap.uk (login), TIGA shortlist (JS), HGDA (no list), Slovak Film Commission +
   APAF + BGDA (unreachable/JS), Clutch (IP block). Leads left out: BlueTwelve (placeholder site), PortaPlay + Logic Artists
   (cert errors), Kuju, Lo-Fi, Hunted Cow (403), LIGHT VFX, iGene, beloFX (HQ unclear). Nebula Studios HQ Lisbon vs Faro
-  (Portugal Film Commission PDF) unresolved: site is JS-only. Next: rest of world by country (Americas, Asia-Pacific, MEA).
+  (Portugal Film Commission PDF) unresolved: site is JS-only. Next: rest of world by country (Americas, MEA).
 - Round 4 (+313 / +204), gap fill (2026-11-05) and country fill (2026-11-06) rows were verified by agents + a main-session
   HTTP probe only. The two runs overlapped on 134 studios; round 4 rows were kept and gained the new enum values.
   Weak spots: ~30 round-4 + ~240 gap/country-fill rows are country-only HQ; none of the new rows have `size` (LinkedIn
@@ -404,22 +418,22 @@ left open, remove when done.
   Festival years (classifier stopped API paging). Leads left out (HQ or site unverified): beloFX, 1920 (London VFX),
   Nash VFX, Mavericks VFX, WolfEye, Deck Nine (placeholder site), Slow Bros (.com parked), Shedworks, BlueTwelve.
 - Check status: The Mill and Mikros Animation (both hit by the Technicolor collapse, Feb 2025) still read `url_status: ok`.
-- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 2,002 of 3,238), so
+- Game studios: segments are rough. Rows default to `indie` without a headcount (indie 2,208 of 3,587), so
   mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
-  LOW-confidence segment fixes (no live source). Size only 267/3,238. 84 Russia-HQ Wikidata studios skipped
+  LOW-confidence segment fixes (no live source). Size only 267/3,587. 84 Russia-HQ Wikidata studios skipped
   (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
   Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
 - 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,
   but HQ/description not from site text (`notes:` says so).
-- `/studios/` founded 1,372/3,075, size 692/3,075 (2026-11-09). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+- `/studios/` founded 1,502/3,436, size 692/3,436 (2026-11-09). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".
 - Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
   Beauty and the Bit, Frogwares.
 - ~200 studios carry agent provenance in `notes:` (size from team page, city from Guild list, 403 sites).
-- Pages 74/77 KB gz (studios/game-studios, mostly JSON-LD ItemList); studios.json 575/513 KB gz (2026-11-09). Both directories
-  are now past ~3,000 (3,075 / 3,238): time to decide on splitting the JSON (per region or per batch) before the next round.
+- studios.json 633/568 KB gz (2026-11-09, round 7; was 575/513). Both directories are past ~3,400 (3,436 / 3,587):
+  decide on splitting the JSON (per region or per batch) before the next round.
 - Not verified on a real phone (headless Chrome floors the viewport at 504 px).
 
 **Site / UX:**

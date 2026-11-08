@@ -1,0 +1,867 @@
+studios:
+  - name: A Few Dragons
+    url: https://afewdragons.com/
+    description: South Australian indie studio making narrative point-and-click games; released Lightsmith in 2021.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Lightsmith
+    social:
+      instagram: http://instagram.com/afewdragons
+      youtube: http://youtube.com/@afewdragons
+      x: https://twitter.com/afewdragons
+    added_at: '2026-11-08T22:14:00.413Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: We Made A Thing Studios
+    url: https://www.wemat.com.au/
+    description: Adelaide studio making games and screen projects; released Box Knight on PC in 2026.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Box Knight
+    social:
+      instagram: https://www.instagram.com/wematstudios
+      youtube: https://www.youtube.com/wemadeathingstudios
+      x: https://x.com/wematstudios
+    added_at: '2026-11-08T22:14:00.414Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Danger Thumbs
+    url: https://www.dangerthumbs.com/
+    description: Melbourne indie studio making Footy Bash, a fast arcade game based on Australian rules football.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Footy Bash
+    social:
+      instagram: https://www.instagram.com/dangerthumbs
+      x: https://x.com/dangerthumbs
+    added_at: '2026-11-08T22:14:00.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SweatyChair
+    url: https://www.sweatychair.com/
+    description: 'Sydney studio making offbeat mobile and PC games, including Tingus Goose and the Apple Arcade launch title Projection: First Light.'
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Tingus Goose
+      - 'Projection: First Light'
+      - Brian - Pet Evolution
+    social:
+      instagram: https://www.instagram.com/sweatychair
+      youtube: https://www.youtube.com/sweatychair
+      x: https://x.com/sweatychair
+    added_at: '2026-11-08T22:14:00.416Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tinyware Games
+    url: https://www.tinywaregames.com/
+    description: Perth indie team behind Misc. A Tiny Tale, an adventure game funded by Screen Australia and Screenwest.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Misc. A Tiny Tale
+    added_at: '2026-11-08T22:14:00.417Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wombat Brawler
+    url: https://www.wombatbrawler.com/
+    description: Remote indie studio making relaxing idle games, including the fishing game Cast n Chill.
+    hq:
+      country: Australia
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Brisbane
+        country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Cast n Chill
+    social:
+      x: https://twitter.com/WombatBrawler
+      instagram: https://www.instagram.com/wombatbrawler
+    added_at: '2026-11-08T22:14:00.418Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SavySoda
+    url: https://savysoda.com/
+    description: Melbourne developer of mobile and PC games, best known for the space strategy game Pixel Starships.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Pixel Starships
+    social:
+      x: https://www.x.com/savysoda
+    added_at: '2026-11-08T22:14:00.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Smash Attack Studios
+    url: https://smashattackaus.com/
+    description: 'Collective of indie and AAA developers from Australia and Spain; released Nullstar: Solus on PC and consoles in 2026.'
+    hq:
+      city: Launceston
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Nullstar: Solus'
+    added_at: '2026-11-08T22:14:00.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Monster Shop Games
+    url: https://monstershopgames.com/
+    description: Perth indie studio behind Pie in the Sky, published by indie.io in 2026, and Dungeon Merchant.
+    hq:
+      city: Perth
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pie in the Sky
+    social:
+      x: https://twitter.com/MonsterShopAU
+      instagram: https://www.instagram.com/monstershopgames
+      youtube: https://www.youtube.com/@MonsterShopGames
+    added_at: '2026-11-08T22:14:00.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nomo Games
+    url: https://www.nomo.studio/
+    description: Small indie studio on the Sunshine Coast making casual, cozy games; co-developed the room decorating game Momento with Fat Alien Cat.
+    hq:
+      city: Sunshine Coast
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Momento
+    social:
+      instagram: https://www.instagram.com/wearenomo
+      youtube: https://www.youtube.com/@wearenomo
+      x: https://x.com/wearenomo
+    added_at: '2026-11-08T22:14:00.422Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Featherweight Games
+    url: https://www.featherweightgames.com/
+    description: Small Sydney studio behind the mobile hits Rodeo Stampede, Botworld Adventure and Skiing Yeti Mountain, with the PC game Chained Beasts.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    founded: 2014
+    notable:
+      - Rodeo Stampede
+      - Botworld Adventure
+      - Skiing Yeti Mountain
+      - Auto Pirates
+    added_at: '2026-11-08T22:14:00.423Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PixelCake
+    url: https://pixelcake.com.au/
+    description: Small studio in the Adelaide Hills making web, mobile and PC games, including the life sim Cozy Commons.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - web
+    notable:
+      - Cozy Commons
+    added_at: '2026-11-08T22:14:00.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vivink Studios
+    url: https://www.vivinkstudios.com/
+    description: Australian indie studio behind Ailuri, a PC adventure game released in 2025.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ailuri
+    social:
+      x: https://x.com/vivinkstudios
+    added_at: '2026-11-08T22:14:00.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Reuben Games
+    url: https://www.deadstaticdrive.com/
+    description: Melbourne indie developer of Dead Static Drive, a road-trip survival horror game released on PC in 2025.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dead Static Drive
+    added_at: '2026-11-08T22:14:00.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Actuator Digital
+    url: https://actuator.digital/
+    description: Game and software developer offering technical direction and work-for-hire builds, plus its own PC game On Point.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    notable:
+      - On Point
+    social:
+      linkedin: https://www.linkedin.com/company/actuator-digital
+    added_at: '2026-11-08T22:14:00.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blue Manchu
+    url: https://wildbastards.com/
+    description: Canberra indie studio behind the strategy shooters Void Bastards and Wild Bastards.
+    hq:
+      city: Canberra
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Void Bastards
+      - Wild Bastards
+    social:
+      x: https://twitter.com/BlueManchuGames
+    added_at: '2026-11-08T22:14:00.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Twice Different
+    url: https://winnieshole.com/
+    description: Melbourne indie studio that co-developed the roguelike Ring of Pain and released Winnie's Hole in early access in 2026.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ring of Pain
+      - Winnie's Hole
+    added_at: '2026-11-08T22:14:00.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Paper House
+    url: https://www.woodweather.com/
+    description: Melbourne indie studio behind the narrative game Paperbark, now making the toy-city god game Wood & Weather.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Paperbark
+    social:
+      x: https://twitter.com/WoodWeather
+    added_at: '2026-11-08T22:14:00.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ultimerse
+    url: https://ultimerse.com/
+    description: Indie VR studio in West Melbourne behind Paper Fire Rookie, also offering VR/MR development, porting and consultancy.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - vr
+      - indie
+      - co-dev
+    platforms:
+      - vr
+    notable:
+      - Paper Fire Rookie
+    social:
+      x: https://twitter.com/Ultimerse
+    added_at: '2026-11-08T22:14:00.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Crikey Games
+    url: https://crikey.io/
+    description: Sydney mobile game studio with 10+ released titles, including the word puzzle Word Tour, and 350M+ total downloads.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Word Tour
+    added_at: '2026-11-08T22:14:00.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glinda Games
+    url: https://www.glindagames.com/
+    description: Veteran-led Australian studio offering co-development, console ports, remasters and original games, founded after the sale of Wicked Witch.
+    hq:
+      country: Australia
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    added_at: '2026-11-08T22:14:00.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: All Possible Futures
+    url: https://allpossiblefutures.com/
+    description: Australian indie studio founded in 2019, developer of the storybook adventure The Plucky Squire, published by Devolver Digital.
+    hq:
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2019
+    notable:
+      - The Plucky Squire
+    social:
+      x: https://twitter.com/apossf
+    added_at: '2026-11-08T22:14:00.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Two and a Half Studios
+    url: https://www.twoandahalfstudios.com/
+    description: Independent game development and publishing studio making story-rich games, including A Date with Death.
+    hq:
+      city: Hobart
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - A Date with Death
+    added_at: '2026-11-08T22:14:00.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bungarra Software
+    url: http://www.bungarra.com/
+    description: Small Fremantle games, 3D modelling and animation studio, developer of Barton Lynch Pro Surfing.
+    hq:
+      city: Fremantle
+      country: Australia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Barton Lynch Pro Surfing
+    social:
+      x: https://twitter.com/BungarraS
+      instagram: https://www.instagram.com/bungarrasoftware
+    added_at: '2026-11-08T22:14:00.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nonsense Machine
+    url: https://nonsensemachine.com.au/
+    description: Melbourne indie studio behind Dryft City Kyngs, released on PC in 2024.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dryft City Kyngs
+    social:
+      x: https://twitter.com/nonsensemachine
+    added_at: '2026-11-08T22:14:00.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stellar Advent
+    url: https://stellaradvent.com/
+    description: Adelaide indie studio making cute, character-driven RPGs, including the shopkeeping game Lucie's Potager.
+    hq:
+      city: Adelaide
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Lucie's Potager
+    social:
+      x: https://x.com/stellaradvent
+      instagram: https://www.instagram.com/stellaradvent
+    added_at: '2026-11-08T22:14:00.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SporkTank
+    url: https://sporktank.com/
+    description: Melbourne indie studio making cozy puzzle games such as A Symmetric Escape, with Batography in development.
+    hq:
+      city: Melbourne
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - A Symmetric Escape
+    social:
+      instagram: https://www.instagram.com/sporktank
+      youtube: https://www.youtube.com/@sporktank
+      x: https://x.com/TankSpork
+    added_at: '2026-11-08T22:14:00.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PuzzLab
+    url: https://puzzlab.com.au/
+    description: Small indie studio in the Blue Mountains making narrative puzzle games, including Detective Ridelle.
+    hq:
+      city: Blue Mountains
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Detective Ridelle
+    social:
+      instagram: https://www.instagram.com/puzzlab
+      youtube: https://www.youtube.com/@PuzzLabGames
+      x: https://x.com/PuzzLabGames
+    added_at: '2026-11-08T22:14:00.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blue Volcano Studio
+    url: https://sidedecide.com/
+    description: Sydney indie studio behind the puzzle game Side Decide, released on Steam.
+    hq:
+      city: Sydney
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Side Decide
+    added_at: '2026-11-08T22:14:00.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Team WIBY
+    url: https://www.phantomabyss.com/
+    description: Brisbane indie team behind Phantom Abyss, an asynchronous multiplayer temple-raiding game published by Devolver Digital.
+    hq:
+      city: Brisbane
+      country: Australia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Phantom Abyss
+    added_at: '2026-11-08T22:14:00.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: XGameDev
+    url: https://xgamedev.com/
+    description: Sunshine Coast Unity studio building games, apps, HTML5 content and training software for clients since 2010.
+    hq:
+      city: Sunshine Coast
+      country: Australia
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - web
+      - pc
+    founded: 2010
+    added_at: '2026-11-08T22:14:00.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ourpalm
+    url: http://www.ourpalm.com/
+    description: Beijing developer and publisher of mobile games, including licensed King of Fighters and MU card and action RPGs.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2004
+    added_at: '2026-11-08T22:14:00.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: G-bits
+    url: https://www.g-bits.com/en/
+    description: Xiamen developer of online and mobile games, known for the Asktao series and Overmortal.
+    hq:
+      city: Xiamen
+      country: China
+    offices:
+      - city: Shenzhen
+        country: China
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Asktao
+      - Asktao Mobile
+      - Overmortal
+      - 'Aobi Island: Dreamland'
+    added_at: '2026-11-08T22:14:00.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FriendTimes
+    url: https://www.friendtimes.net/en/
+    description: Suzhou mobile game developer of Chinese-style RPGs and casual titles such as Legend of Empress and Culinary Chaos.
+    hq:
+      city: Suzhou
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.friendtimes.net/en/careers/index.html
+    notable:
+      - Legend of Empress
+      - Culinary Chaos
+      - Twist of the Fate
+      - 'Ink Sword: Jianghu'
+    added_at: '2026-11-08T22:14:00.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Electronic Soul
+    url: https://www.dianhun.cn/
+    description: Hangzhou developer of PC and mobile online games (Dianhun Network), active since 2008.
+    hq:
+      city: Hangzhou
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    added_at: '2026-11-08T22:14:00.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yoka Games
+    url: http://www.yokagames.com/
+    description: Hangzhou maker of the Legends of the Three Kingdoms (Sanguosha) card game in tabletop, PC and mobile versions.
+    hq:
+      city: Hangzhou
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Legends of the Three Kingdoms
+      - War of the Three Kingdoms
+    added_at: '2026-11-08T22:14:00.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GLOWRIDER
+    url: https://glowrider.cn/
+    description: Shanghai game company whose in-house Longchao Pavilion team develops the action RPG Returning Dragon Tides.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2022
+    notable:
+      - Returning Dragon Tides
+    added_at: '2026-11-08T22:14:00.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 37 Interactive Entertainment
+    url: https://www.37wan.net/
+    description: Listed game company developing (37 Games studio brand) and publishing mobile and web games in China and overseas.
+    hq:
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    added_at: '2026-11-08T22:14:00.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fabled Game Studio
+    url: https://fabledgame.com/
+    description: Shenzhen indie studio making roguelike deckbuilders, including Pirates Outlaws and its sequel.
+    hq:
+      city: Shenzhen
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2018
+    notable:
+      - Pirates Outlaws
+      - 'Pirates Outlaws 2: Heritage'
+      - Spiritle
+    social:
+      x: https://x.com/FabledGame
+      youtube: https://www.youtube.com/@FabledGame
+    added_at: '2026-11-08T22:14:00.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spikewave Games
+    url: http://www.spikewavegames.com/
+    description: Hangzhou indie team founded by four veteran developers, maker of the stealth action game Evotinction.
+    hq:
+      city: Hangzhou
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Evotinction
+    added_at: '2026-11-08T22:14:00.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Candleman Games
+    url: https://store.steampowered.com/developer/candlemangames
+    description: Beijing indie studio behind the narrative puzzle-platformer Exhausted Man.
+    hq:
+      city: Beijing
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Exhausted Man
+    added_at: '2026-11-08T22:14:00.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Youthcat Studio
+    url: https://store.steampowered.com/developer/YouthcatGames
+    description: Small Chongqing indie team behind the factory-building sim Dyson Sphere Program.
+    hq:
+      city: Chongqing
+      country: China
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Dyson Sphere Program
+    added_at: '2026-11-08T22:14:00.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Recreate Games
+    url: https://www.partyanimals.com/
+    description: Chinese studio founded by an ex-Smartisan design director, developer of the physics brawler Party Animals.
+    hq:
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Party Animals
+    added_at: '2026-11-08T22:14:00.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Egg Hatcher
+    url: https://store.steampowered.com/developer/eggHatcher
+    description: Chinese indie studio behind the parenting life sim Volcano Princess.
+    hq:
+      country: China
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Volcano Princess
+    added_at: '2026-11-08T22:14:00.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ConchShip Games
+    url: https://www.conchship.com.cn/
+    description: Kunming indie studio behind the wuxia sandbox RPG The Scroll of Taiwu.
+    hq:
+      city: Kunming
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Scroll of Taiwu
+    added_at: '2026-11-08T22:14:00.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zerocreation Games
+    url: https://store.steampowered.com/developer/Zerocreation
+    description: Chinese indie developer of narrative mystery adventures set in Chinese history, such as The Hungry Lamb.
+    hq:
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - 'The Hungry Lamb: Traveling in the Late Ming Dynasty'
+      - 'The Weeping Swan: Ten Days of the City''s Fall'
+      - 'Lay a Beauty to Rest: The Darkness Peach Blossom Spring'
+    added_at: '2026-11-08T22:14:00.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Camel Games
+    url: https://www.camelgames.com/
+    description: Chinese developer and operator of global mobile strategy games such as Age of Origins and War and Order.
+    hq:
+      country: China
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Age of Origins
+      - War and Order
+      - Little Empire
+      - Infinite Galaxy
+    added_at: '2026-11-08T22:14:00.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Taomee
+    url: https://www.61.com/
+    description: Shanghai maker of kids' online and mobile games such as Seer and Mole's World, plus related animated series and films.
+    hq:
+      city: Shanghai
+      country: China
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - web
+    founded: 2007
+    notable:
+      - Seer
+      - Mole's World
+      - Flower Fairy
+    added_at: '2026-11-08T22:14:00.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DreamStep
+    url: https://store.steampowered.com/developer/dreamstep
+    description: Chinese indie developer of animation-style narrative games, including Songs of Life.
+    hq:
+      country: China
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Songs of Life
+      - Songs of Yummy
+    added_at: '2026-11-08T22:14:00.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wizard Games
+    url: https://www.ssjj.cn/
+    description: Hangzhou developer and operator of the Battle Teams (Shengsi Juji) online shooter series, founded in 2010.
+    hq:
+      city: Hangzhou
+      country: China
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+      - web
+    founded: 2010
+    notable:
+      - Battle Teams 2
+    added_at: '2026-11-08T22:14:00.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

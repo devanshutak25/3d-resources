@@ -276,6 +276,7 @@ studios:
     url: https://www.mightykingdom.com/
     description: Australian game developer making licensed and original games for mobile, PC and console with brands such as Hasbro, Paramount and LEGO.
     hq:
+      city: Adelaide
       country: Australia
     segments:
       - co-dev
@@ -547,6 +548,7 @@ studios:
     url: https://massivemonster.com/
     description: Independent game studio with teams in Australia and the UK making character-driven console and PC games, including Cult of the Lamb.
     hq:
+      city: Melbourne
       country: Australia
     offices:
       - country: United Kingdom
@@ -864,31 +866,6 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-01'
     notes: Nazara Technologies subsidiary since 2021.
-  - name: Octro
-    url: https://www.octro.com/
-    description: Mobile game studio making social card and casino-style games such as Teen Patti, Indian Rummy and Octro Poker.
-    hq:
-      city: Noida
-      country: India
-    segments:
-      - mobile
-    platforms:
-      - mobile
-    founded: 2006
-    careers: https://www.octro.com/career.html
-    notable:
-      - Teen Patti Octro
-      - Indian Rummy
-      - Octro Poker
-    social:
-      instagram: https://www.instagram.com/octrogames/
-      linkedin: https://www.linkedin.com/company/octro-inc-
-      youtube: https://www.youtube.com/c/Octroofficial
-      x: https://twitter.com/octroinc
-    added_at: '2026-10-31T05:09:10.969Z'
-    url_status: ok
-    url_last_verified: '2026-11-01'
-    notes: Open roles listed in Noida (AGI list says Gurugram).
   - name: Hitwicket
     url: https://hitwicket.com/
     description: Hyderabad mobile game studio making Hitwicket Superstars, a cricket strategy game played worldwide.

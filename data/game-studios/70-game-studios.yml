@@ -1,0 +1,919 @@
+studios:
+  - name: Deragee
+    url: https://www.dxg.jp/
+    description: Tokyo game developer with a second studio in Malaysia, making smartphone and console titles such as Kingdom Ran.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - console
+    notable:
+      - Kingdom Ran
+    added_at: '2026-11-08T22:14:00.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chiffon
+    url: https://c4on.jp/
+    description: Tokyo game developer running the PC online game M2 Shinkou Tenshouden and doing contract development.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 2011
+    notable:
+      - 'M2: Shinkou Tenshouden'
+    social:
+      x: https://twitter.com/c4onjp
+    added_at: '2026-11-08T22:14:00.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Meteorise
+    url: https://www.meteorise.co.jp/
+    description: Tokyo game developer working on console and mobile titles for publishers such as Bandai Namco and Koei Tecmo.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+      - pc
+    founded: 2010
+    notable:
+      - Echoes of Aincrad
+      - BLEACH Rebirth of Souls
+      - Atelier Resleriana
+      - TRIBE NINE
+    social:
+      x: https://twitter.com/Meteorise
+    added_at: '2026-11-08T22:14:00.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SmileBoom
+    url: https://smileboom.com/
+    description: Sapporo software house making games and programming tools such as SmileBASIC, plus coding education for children.
+    hq:
+      city: Sapporo
+      country: Japan
+    offices:
+      - city: Yokohama
+        country: Japan
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - console
+      - pc
+    notable:
+      - Petit Computer
+      - SmileBASIC
+    social:
+      x: https://twitter.com/PetitComputer
+    added_at: '2026-11-08T22:14:00.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tozai Games
+    url: https://tozaigames.co.jp/
+    description: Kawasaki company planning, producing and selling console and PC games such as R-Type Dimensions III.
+    hq:
+      city: Kawasaki
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    founded: 2011
+    notable:
+      - R-Type Dimensions III
+    added_at: '2026-11-08T22:14:00.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pygmy Studio
+    url: https://pygmy.jp/
+    description: Osaka studio developing and operating smartphone social games and making console games, with a branch in Kyoto.
+    hq:
+      city: Osaka
+      country: Japan
+    offices:
+      - city: Kyoto
+        country: Japan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    founded: 2007
+    social:
+      x: https://twitter.com/PygmyOFFICIAL
+    added_at: '2026-11-08T22:14:00.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: G-Style
+    url: https://www.gstyle.co.jp/
+    description: Sapporo studio doing game planning, programming and 2D and 3D graphics and motion for game and film clients, with studios in Akita.
+    hq:
+      city: Sapporo
+      country: Japan
+    offices:
+      - city: Akita
+        country: Japan
+      - city: Oga
+        country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2000
+    added_at: '2026-11-08T22:14:00.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: pixyda
+    url: https://www.pixyda.co.jp/
+    description: Sapporo game developer planning, developing and operating social, smartphone and console games, with an office in Tokyo.
+    hq:
+      city: Sapporo
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    added_at: '2026-11-08T22:14:00.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Trisys
+    url: https://www.trisys.co.jp/
+    description: Sapporo software house focused on game development for about 30 years, now part of the Apex group.
+    hq:
+      city: Sapporo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    parent: Apex
+    added_at: '2026-11-08T22:14:00.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Adglobe
+    url: https://adglobe.co.jp/ja/
+    description: Tokyo company with game development and IT system development as its two main businesses, with offices in Osaka and Sapporo.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Osaka
+        country: Japan
+      - city: Sapporo
+        country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    social:
+      x: https://twitter.com/adglobe_jp
+    added_at: '2026-11-08T22:14:00.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kingpawn
+    url: https://kingpawn.jp/
+    description: Tokyo studio developing and operating games and producing illustration, with a development office in Sapporo.
+    hq:
+      city: Tokyo
+      country: Japan
+    offices:
+      - city: Sapporo
+        country: Japan
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+    founded: 2011
+    added_at: '2026-11-08T22:14:00.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cloud Creative Studios
+    url: http://cloud-creative-studios.com/
+    description: Kyoto studio developing web, mobile, online, arcade and console games, including the V-REVOLUTION and Airsoft Shooter titles, with a Fukuoka office.
+    hq:
+      city: Kyoto
+      country: Japan
+    offices:
+      - city: Fukuoka
+        country: Japan
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2011
+    social:
+      x: https://twitter.com/ccs2011
+    added_at: '2026-11-08T22:14:00.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: INTENSE
+    url: https://intense.jp/
+    description: Tokyo developer of console games, known for its escape-room and Picdun puzzle series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+      - mobile
+    founded: 2002
+    social:
+      x: https://twitter.com/Intense_game
+      youtube: https://www.youtube.com/user/TheIntenseMovie
+    added_at: '2026-11-08T22:14:00.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Orgesta
+    url: http://orgesta.com/
+    description: Osaka developer planning, building and operating social and console games, using Unity for multiplatform releases.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - console
+    founded: 2003
+    added_at: '2026-11-08T22:14:00.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nestopi
+    url: https://www.nestopi.co.jp/
+    description: 'Tokyo indie game company developing and releasing original titles such as Chill with You: Lo-Fi Story.'
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2017
+    notable:
+      - 'Chill with You: Lo-Fi Story'
+      - Re:VER PROJECT -TOKYO-
+    added_at: '2026-11-08T22:14:00.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Linked Brain
+    url: https://linkedbrain.jp/
+    description: Tokyo company offering game planning, development, art and sound for clients, alongside game industry recruiting.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    social:
+      x: https://twitter.com/LinkedBrain
+    added_at: '2026-11-08T22:14:00.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: C-Garden
+    url: https://c-gardens.com/
+    description: Tama-based studio producing scenario, development and live operations for games by publishers such as Nintendo, Bandai Namco and Sega.
+    hq:
+      city: Tama
+      country: Japan
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Osaka
+        country: Japan
+      - city: Gamagori
+        country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2018
+    social:
+      x: https://x.com/C_Garden_
+    added_at: '2026-11-08T22:14:00.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: IRONMACE
+    url: https://www.ironmace.com/
+    description: Independent studio of Korean veteran developers making Dark and Darker, a hardcore first-person fantasy dungeon extraction game for PC.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dark and Darker
+    social:
+      youtube: https://www.youtube.com/channel/UCRhJyNKxqIwZnz0LIKLijXA
+      x: https://twitter.com/IronmaceGames
+    added_at: '2026-11-08T22:14:00.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Storytaco
+    url: https://storytaco.com/
+    description: Seoul developer of FMV interactive dramas, visual novels and casual games for PC and mobile.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Five Hearts Under One Roof
+      - Five Hearts Under One Roof Season 2
+    social:
+      youtube: https://www.youtube.com/channel/UCIsJuST0871ZtmCRpK7Ngvw
+      x: https://x.com/storytacogame
+    added_at: '2026-11-08T22:14:00.631Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wemade Play
+    url: https://corp.wemadeplay.com/
+    description: Mobile puzzle game developer behind the Anipang series, formerly Sundaytoz, part of the Wemade group.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: WEMADE
+    notable:
+      - Anipang
+    added_at: '2026-11-08T22:14:00.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arumgames
+    url: https://arumgames.com/
+    description: Mobile developer of management simulation and casual games for the global market.
+    hq:
+      city: Gwangju
+      country: South Korea
+    offices:
+      - city: Seongnam
+        country: South Korea
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GENTLEMANIAC
+    url: https://www.gentlemaniac.com/
+    description: Seoul studio and publisher of subculture games, including the fantasy SRPG Horizon Walker for PC and mobile.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Horizon Walker
+    social:
+      youtube: https://www.youtube.com/@official.horizonwalker
+      x: https://x.com/_horizonwalker
+    added_at: '2026-11-08T22:14:00.634Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tikitaka Studio
+    url: https://tikitakastudio.com/
+    description: Mobile developer of idle and strategy RPGs, a Com2uS subsidiary.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: Com2uS
+    notable:
+      - Soul Strike
+      - 'Arcana Tactics: Revolvers'
+    added_at: '2026-11-08T22:14:00.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DAYAMONZ
+    url: https://www.dayamonz.com/
+    description: Mobile developer of licensed anime and webtoon IP games such as Haikyu!! Touch the Dream and Ultraman Be Ultra.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Haikyu!! Touch the Dream
+      - Ultraman Be Ultra
+      - The God of High School
+    added_at: '2026-11-08T22:14:00.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hypercent
+    url: https://www.hypercent.co.kr/
+    description: Indie studio making co-op PC games, including the horror title Backroom Company and the TPS roguelike Backroom Cleaners.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Backroom Company
+      - Backroom Cleaners
+      - OrePlant
+    added_at: '2026-11-08T22:14:00.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TAKEONE COMPANY
+    url: https://takeonecompany.com/
+    description: Content company developing K-pop IP games such as BTS World and BLACKPINK THE GAME, plus film and drama projects.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - BTS World
+      - BLACKPINK THE GAME
+      - NCT ZONE
+      - 'ENHYPEN WORLD: Eternal Moment'
+    social:
+      instagram: https://www.instagram.com/takeone_company/
+      youtube: https://www.youtube.com/c/TAKEONECOMPANY
+      x: https://twitter.com/takeone_company
+    added_at: '2026-11-08T22:14:00.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lizard Smoothie
+    url: https://lizardsmoothie.com/
+    description: Indie studio behind Shape of Dreams, a MOBA-inspired roguelike action game for PC published by NEOWIZ.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Shape of Dreams
+    added_at: '2026-11-08T22:14:00.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SQUARE PIXELS
+    url: https://www.squarepixels.co.kr/
+    description: 'Game developer of the rhythm game EZ2ON REBOOT : R for PC, co-developed with Neonovice.'
+    hq:
+      city: Hanam
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'EZ2ON REBOOT : R'
+    social:
+      youtube: https://www.youtube.com/channel/UCETTWjKi8wGGTIxxPDXIvPA
+      x: https://twitter.com/SQ_PIXELS
+    added_at: '2026-11-08T22:14:00.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Thumbage
+    url: https://www.thumbage.co.kr/
+    description: KOSDAQ-listed developer and operator of mobile RPGs such as Idle Hero, Gods Raid and Dekaron M.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Idle Hero
+      - Legend of Hamster
+      - Gods Raid
+      - Dekaron M
+    added_at: '2026-11-08T22:14:00.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LoadComplete
+    url: https://loadcomplete.com/
+    description: Mobile developer and publisher of light-core games such as Legend of Slime, Crusaders Quest and Merge Tactics.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2009
+    notable:
+      - Legend of Slime
+      - Crusaders Quest
+      - Merge Tactics
+      - Chainsaw Juice King
+    added_at: '2026-11-08T22:14:00.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NADDIC GAMES
+    url: http://www.naddic.com/
+    description: Action RPG developer behind the online brawler Closers, with about 160 staff.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - aa
+    platforms:
+      - pc
+      - mobile
+    founded: 2012
+    notable:
+      - Closers
+    social:
+      youtube: http://www.youtube.com/user/naddicgames
+      x: http://twitter.com/naddicgames
+    added_at: '2026-11-08T22:14:00.643Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: highbrow
+    url: https://www.highbrow.com/
+    description: Mobile developer of the Dragon Village game series, also making trading cards and books from the same IP.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Dragon Village
+    social:
+      instagram: https://www.instagram.com/dragonvillage_official/
+      youtube: https://www.youtube.com/c/dv
+    added_at: '2026-11-08T22:14:00.644Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Puzzle1studio
+    url: https://www.puzzle1studio.com/
+    description: Mobile puzzle game developer spun out of BitMango in 2019, making titles such as Jewels Magic and Brick Out.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2019
+    notable:
+      - 'Jewels Magic: Mystery Match3'
+      - 'Brick Out: Shoot the Ball'
+      - 'Sweet Home: Design & Blast'
+      - Bubble Pop Origin!
+    added_at: '2026-11-08T22:14:00.645Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TEAM42
+    url: https://www.team42.co.kr/
+    description: Seoul mobile developer of the social deduction game Mafia42, now building the 3D collectible MMORPG World of Slime.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Mafia42
+      - World of Slime
+    social:
+      instagram: https://www.instagram.com/mafia42.kr/
+      youtube: https://www.youtube.com/@mafia42official
+      x: https://twitter.com/_mafia42
+    added_at: '2026-11-08T22:14:00.646Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PROJECT MOREUM
+    url: https://www.projectmoreum.com/
+    description: Indie studio making story-driven PC games such as the cat photo adventure Shutter Nyan! and the cooking game Lone Chef.
+    hq:
+      city: Bucheon
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Shutter Nyan! Enhanced Edition
+      - Lone Chef
+    social:
+      youtube: https://www.youtube.com/channel/UCDNP0GKk8RFpRoeBfSYE6Dw
+      x: https://x.com/projectmoreum
+    added_at: '2026-11-08T22:14:00.647Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SeePlay
+    url: https://www.seeplay.co.kr/
+    description: Busan studio making casual mobile games such as Cat Jump, SpongePop and the Banatoon adventure series.
+    hq:
+      city: Busan
+      country: South Korea
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2018
+    notable:
+      - Cat Jump
+      - Infinite Jump
+      - SpongePop
+      - 'Banatoon 2: Jurassic World'
+    added_at: '2026-11-08T22:14:00.648Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: XOGAMES
+    url: https://xogamesinc.wixsite.com/xogames
+    description: Casual mobile game studio behind Toto Bear, QuizRumble, Monster Snap and Papadillo Go.
+    hq:
+      city: Seongnam
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Toto Bear
+      - QuizRumble
+      - Monster Snap
+      - Papadillo Go!
+    social:
+      youtube: https://www.youtube.com/channel/UCQO8UU505wdcN8dXER9-EhA
+      x: https://twitter.com/xogamestudio
+    added_at: '2026-11-08T22:14:00.649Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ALIVE Inc.
+    url: https://playvaporworld.com/
+    description: 'Indie developer of Vapor World: Over The Mind, a 2D souls-like platformer with deflection combat for PC.'
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Vapor World: Over The Mind'
+    social:
+      instagram: https://www.instagram.com/playvaporworld/
+      youtube: https://www.youtube.com/channel/UC0HWNZe3eDqqVIY5ESyV8Yw
+      x: https://twitter.com/ALIVEVaporWorld
+    added_at: '2026-11-08T22:14:00.650Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NDEV GAMES
+    url: https://www.fatalclaw.com/
+    description: Indie developer of Fatal Claw, a cat action Metroidvania for PC published by Com2uS Holdings.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Fatal Claw
+    social:
+      youtube: https://www.youtube.com/@FatalClaw
+      x: https://x.com/NDEVGAMES
+    added_at: '2026-11-08T22:14:00.651Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DevDepot Games
+    url: http://devdepot.co.kr/
+    description: Naju studio making mobile, PC and XR games, including the action game Clearing Blade and the upcoming 3D adventure ZZXX.
+    hq:
+      city: Naju
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - vr
+    notable:
+      - Clearing Blade
+      - ZZXX
+    added_at: '2026-11-08T22:14:00.652Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Plotrick
+    url: https://plotrick.com/
+    description: 'Indie studio making narrative PC games such as Three Kingdoms: Alias and the upcoming Rustown.'
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Three Kingdoms: Alias'
+      - Rustown
+    added_at: '2026-11-08T22:14:00.653Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PLAY Mephistowaltz
+    url: https://www.playmephistowaltz.com/
+    description: Busan indie studio making mobile and PC games such as Flame On, Sire! and Little Gods of the Abyss.
+    hq:
+      city: Busan
+      country: South Korea
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Flame On, Sire!
+      - Little Gods of the Abyss
+      - 'Luna & Sol: Nightmare Ward'
+    added_at: '2026-11-08T22:14:00.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Atelier Mirage
+    url: https://ateliermirage.co.kr/
+    description: Gyeongsan indie studio running Rune Tower, a turn-based squad RPG in old-school style.
+    hq:
+      city: Gyeongsan
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Rune Tower
+    added_at: '2026-11-08T22:14:00.655Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spring Games
+    url: https://www.springtoast.com/
+    description: Daegu mobile game developer that has built and run its own titles across genres since 2010.
+    hq:
+      city: Daegu
+      country: South Korea
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.656Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Na Universe Soft
+    url: https://nausoft.co.kr/
+    description: Gyeongsan studio making casual and idle pixel-art mobile games such as Raising Bunny and Tap Giants.
+    hq:
+      city: Gyeongsan
+      country: South Korea
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Raising Bunny
+      - Tap Giants
+    added_at: '2026-11-08T22:14:00.657Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PALM Inc.
+    url: https://palminc.co.kr/
+    description: 'Small horror game studio behind the Araha series on mobile and PC, now making the psychological thriller Gishi: The Deja Vu.'
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2019
+    notable:
+      - 'Araha: Curse of Yamiyashiki'
+      - The Ghost Spot
+      - 'Gishi: The Deja Vu'
+    social:
+      instagram: https://www.instagram.com/araha_official/
+      youtube: https://www.youtube.com/@palmsoftgames5613
+    added_at: '2026-11-08T22:14:00.658Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Funky Vine
+    url: https://www.funkyvine.com/
+    description: Mobile developer and service provider of match-3 and casual games, founded in 2020.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2020
+    added_at: '2026-11-08T22:14:00.659Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ACT Games
+    url: http://en.actgames.co.kr/
+    description: Seoul mobile developer of licensed casual games such as Hello Kitty My Dream Store, Transformers Multi Shock and Aggretsuko Match3.
+    hq:
+      city: Seoul
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Hello Kitty My Dream Store
+      - Transformers Multi Shock
+      - 'Aggretsuko: Match3 Puzzle'
+      - ZOIDS WILD ARENA
+    added_at: '2026-11-08T22:14:00.660Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AFEEL
+    url: https://afeel.biz/
+    description: Mobile developer of time-management and casual games such as the Jean's Boutique series and Kill The Dictator.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Jean's Boutique 3
+      - Jean's Boutique 2
+      - Kill The Dictator
+      - Jean's Pet Grooming
+    added_at: '2026-11-08T22:14:00.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Team Tetrapod
+    url: https://www.tetrapod.company/
+    description: Goyang indie studio behind the Staffer series of supernatural detective adventure games for PC.
+    hq:
+      city: Goyang
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Staffer Case: A Supernatural Mystery Adventure'
+      - Staffer Reborn
+      - 'Staffer Retro: A Supernatural Mystery Quest'
+    social:
+      instagram: https://www.instagram.com/teamtetrapod/
+    added_at: '2026-11-08T22:14:00.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

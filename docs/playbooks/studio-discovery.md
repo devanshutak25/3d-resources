@@ -1,7 +1,8 @@
 # Playbook: studio discovery by country (both directories)
 
-Used for round 6 (Europe, 2026-11-09: 14 agents, 945 raw -> 935 added). Reuse it region by region:
-Americas, Asia-Pacific, Middle East + Africa (regions = `COUNTRY_REGION` in `scripts/lib/studios.js`).
+Used for round 6 (Europe, 2026-11-09: 14 agents, 945 raw -> 935 added) and round 7 (Asia-Pacific, 2026-11-09:
+13 agents, 722 raw -> 712 added). Still to run: Americas, Middle East + Africa (regions = `COUNTRY_REGION` in
+`scripts/lib/studios.js`).
 Rules for what a studio is live in `project.md` §4b; this file is the how.
 
 ## Steps
@@ -41,7 +42,12 @@ Rules for what a studio is live in `project.md` §4b; this file is the how.
    - Cross-host redirects: fine when it is the studio's own game site or Google Sites; a redirect to a listed
      studio's host is a dupe.
    - `unknown country`: add it to `COUNTRY_REGION` (lookup table, no approval needed; Russia stays out, ask the user).
+   - `dupe name+country` between two different companies (Hexar Games vs Hexar Studios): `force.txt` clears it.
+   - Studio `url` that is not the studio's own site: a Steam `/developer/<name>` page or own itch.io subdomain is
+     fine when the studio has no site; Steam `/search/?developer=` URLs, Linktree, Behance, Instagram: drop.
    - Put names in `$R/force.txt` (pass after manual check) or `$R/drop.txt`, rerun until the reject list is clean.
+   - Then scan the passing rows' probe titles for placeholder/parked pages (blank titles are usually JS sites,
+     429 "Checking Your Request" is a Wix/Sucuri bot check: both fine).
 7. **Write.** `git fetch` first (parallel sessions append to the same chunk files, merge rule in decisions.md), then
    `node scripts/import-studios.js $R --write`, `node scripts/validate.js` (duplicate-name warnings: distinct studios
    in different countries are fine), `npm test`, `bash build.sh`.
@@ -66,6 +72,19 @@ curl -sL -m 25 -A "3d-resources-research/1.0" "$URL" | sed -E 's/<script[^>]*>.*
 - Agents report suspected errors in existing rows: check them, most turn out fine.
 - Expect ~15-20% country-only HQ rows and ~40% medium confidence. Production studios are harder to find than game studios
   (game associations publish member lists; animation/VFX/archviz shops mostly do not).
+- Round 7 (Asia-Pacific): split big countries by directory (Japan prod / Japan games, India prod / India games) instead
+  of by city. Leads one agent hands to the other can fall through (4 India game devs did): tell split agents to write
+  handed-off leads into their own out file anyway; the importer dedupes.
+- Agents see every MCP connector in the session. One used the user's Tracxn account for leads. The brief now says: no
+  connected user services (CRM, finance, mail, Tracxn and similar), public web only.
+- One agent tried to pull an API key out of a site's JS bundle (the permission system denied it). The brief now forbids
+  extracting keys or tokens from pages.
+- Asia sources that worked: CGWORLD studio DB (Japan), CESA + BitSummit WP API, AnimationXpress WP API (India),
+  BASIS API (Bangladesh), NZGDA MembershipWorks API, G-Star exhibitor pages, HKVFX WP API, MDEC JSON, Google Play
+  developer addresses (HQ for small mobile devs). Bot-walled: TAICCA, Cyberport, HKDEA, GDAP, Screen Australia, AGDA.
+  Mainland China .cn sites mostly refuse non-CN fetches; .my domains often resolve to 0.0.0.0 on the local router.
+- Agent runs took 26-90 min (longer than Europe); the last ones finish well after the first, so dry-run early to catch
+  unknown countries and reject classes.
 
 ## Agent brief (copy to `$R/BRIEF.md`, fill in `$R`)
 
@@ -196,6 +215,9 @@ site names the city. Social links only when the handle matches the studio (no pe
 - Fetch politely: low concurrency (max 3 parallel), no bursts (local DNS refuses bursts). Wikipedia API 429s fast.
 - **Privacy (HARD):** never put any email address or personal name in a User-Agent, header, URL or payload.
   Use a generic UA like `3d-resources-research/1.0`.
+- **Public web only (HARD):** don't use connected user services or MCP tools (CRM, finance, mail, drive, Tracxn and
+  similar). Don't extract API keys, tokens or credentials from page bundles; if a source needs one, skip it. If a
+  response exposes credentials or personal data, delete it from your folder and say so in your final message.
 - If your sandbox has no network, say so in your final message and list only studios you are highly
   confident about from memory, flagged `"_confidence": "low"`, with `_src` empty. The maintainer will probe them.
 

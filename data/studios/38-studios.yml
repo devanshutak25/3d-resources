@@ -67,6 +67,8 @@ studios:
     markets:
       - games
       - episodic
+      - film
+      - advertising
     founded: 2011
     notable:
       - Onmyoji

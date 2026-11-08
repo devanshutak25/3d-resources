@@ -1,0 +1,971 @@
+studios:
+  - name: The Post Lounge
+    url: https://www.thepostlounge.com/
+    description: Independent post-production company for film and TV offering picture post, VFX and title design, headquartered in Sydney.
+    hq:
+      city: Sydney
+      country: Australia
+    offices:
+      - city: Brisbane
+        country: Australia
+      - city: Gold Coast
+        country: Australia
+      - city: Melbourne
+        country: Australia
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - film
+      - episodic
+    founded: 1979
+    notable:
+      - ELVIS
+      - Better Man
+    social:
+      instagram: https://www.instagram.com/thepostlounge
+      linkedin: https://www.linkedin.com/company/the-post-lounge
+    added_at: '2026-11-08T22:14:00.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MACHINE Studio
+    url: https://machinestudio.xyz/
+    description: Sydney video production, photography and animation company making branded content, commercials and CGI for agencies and brands.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - live-action
+      - cg
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/machinestudio.xyz
+      linkedin: https://www.linkedin.com/company/machinestudio-xyz
+    added_at: '2026-11-08T22:14:00.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Motion Curve
+    url: https://motioncurve.com.au/
+    description: Brisbane XR studio making VR, AR and MR experiences and 3D animation for training and marketing.
+    hq:
+      city: Brisbane
+      country: Australia
+    disciplines:
+      - xr
+      - 3d-animation
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/motioncurvestudio
+    added_at: '2026-11-08T22:14:00.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vidico
+    url: https://vidico.com/
+    description: Video production company making animated and live-action explainer videos for SaaS and tech brands.
+    hq:
+      country: Australia
+    offices:
+      - city: Melbourne
+        country: Australia
+      - city: Sydney
+        country: Australia
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/vidico.agency
+      linkedin: https://www.linkedin.com/company/vidicoagency
+      vimeo: https://vimeo.com/vidico
+    added_at: '2026-11-08T22:14:00.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bake Studio
+    url: https://www.bakestudios.com.au/
+    description: Melbourne architectural visualisation studio making renders, visual production and branding for real estate projects.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/bake._studio
+    added_at: '2026-11-08T22:14:00.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Graphical Thread
+    url: https://graphicalthread.com.au/
+    description: Melbourne archviz studio making 3D imagery, animations and streetscapes for architects, interior designers and developers.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/graphicalthread
+      linkedin: https://www.linkedin.com/company/the-graphical-thread
+    added_at: '2026-11-08T22:14:00.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: House of 3D Renders
+    url: https://www.houseof3drenders.com/
+    description: Melbourne studio making 3D renders and animations for property developers, architects and builders.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/houseof3drenders
+      linkedin: http://www.linkedin.com/company/houseof3drenders
+    added_at: '2026-11-08T22:14:00.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Realview Studio
+    url: https://realviewstudio.com.au/
+    description: Melbourne archviz studio making photoreal stills, films and interactive 3D experiences for residential and commercial projects.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/realviewstudio
+    added_at: '2026-11-08T22:14:00.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Virteer
+    url: https://virteer.com.au/
+    description: Melbourne 3D visualisation practice making art-directed renders and walkthroughs to sell projects before they are built.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fade In Studio
+    url: https://fadeinstudio.com/
+    description: Brisbane production studio with a 2D animation division, making the preschool series Zip and the Tiny Sprouts and branded content.
+    hq:
+      city: Brisbane
+      country: Australia
+    offices:
+      - city: Melbourne
+        country: Australia
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Zip and the Tiny Sprouts
+    social:
+      vimeo: https://vimeo.com/fadeinproductions
+      instagram: https://www.instagram.com/fadeinpro
+      youtube: https://www.youtube.com/fadeinproductions
+    added_at: '2026-11-08T22:14:00.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mental Image
+    url: https://mentalimage.com.au/
+    description: Sydney design and animation studio for science communication, educational explainers, motion graphics and interactive pieces.
+    hq:
+      city: Sydney
+      country: Australia
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - interactive
+    markets:
+      - medical-science
+    added_at: '2026-11-08T22:14:00.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dreamscreen Australia
+    url: https://www.dreamscreenaustralia.com/
+    description: LED virtual production studio in Epping, Victoria, offering a 950 sqm volume, plates, motion capture and consultancy for film, TV and music videos.
+    hq:
+      city: Melbourne
+      country: Australia
+    disciplines:
+      - virtual-production
+      - mocap
+    markets:
+      - film
+      - episodic
+      - music-video
+    notable:
+      - La Brea S2
+    social:
+      instagram: https://www.instagram.com/dreamscreenaustralia
+      linkedin: https://www.linkedin.com/company/dreamscreen-australia
+    added_at: '2026-11-08T22:14:00.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: UltiZen Games
+    url: https://www.ultizen.com/
+    description: Shanghai game art studio making 2D and 3D game art, Spine animation and IP character design for game publishers.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - outsourcing
+      - cg
+      - 2d-animation
+    markets:
+      - games
+    founded: 2005
+    added_at: '2026-11-08T22:14:00.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Shanghai Phantom Animation
+    url: http://www.shphantom.com/
+    description: Shanghai anime subcontractor handling key animation, in-betweens and coloring for Japanese TV series, plus some full productions.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2019
+    notable:
+      - 'JoJo''s Bizarre Adventure: Steel Ball Run'
+      - 'Wistoria: Wand and Sword Season 2'
+    added_at: '2026-11-08T22:14:00.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zhixing Heyi Animation
+    url: https://www.uka-zhixing.com/
+    description: Changchun animation studio doing key animation, in-betweens and finishing for Japanese anime and films, plus original series.
+    hq:
+      city: Changchun
+      country: China
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 2016
+    notable:
+      - 'The Seven Deadly Sins: Four Knights of the Apocalypse'
+      - 'The Lord of the Rings: The War of the Rohirrim'
+    added_at: '2026-11-08T22:14:00.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Winsing Animation
+    url: https://www.winsing.net/
+    description: Guangzhou animation studio behind the GG Bond kids franchise, making 3D TV series and feature films.
+    hq:
+      city: Guangzhou
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - GG Bond
+    added_at: '2026-11-08T22:14:00.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Foch Film
+    url: https://www.fochot.com/
+    description: Shanghai studio developing and producing 2D, 3D and puppet animation series and features since 2006.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - film
+    founded: 2006
+    notable:
+      - Perfect World
+      - Stellar Transformations
+      - Full-Time Magister
+    added_at: '2026-11-08T22:14:00.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Impression CG
+    url: https://www.impressioncg.com/
+    description: Guangzhou archviz studio producing photoreal stills, animation and VR for architecture and interior design firms, especially hospitality.
+    hq:
+      city: Guangzhou
+      country: China
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VizPaw
+    url: https://www.vizpaw.com/
+    description: China-based archviz company making exterior and interior renders, animation and 360 panoramas for architects and developers.
+    hq:
+      country: China
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/vizpaw/
+      linkedin: https://www.linkedin.com/company/vizpaw-creative-studio/
+    added_at: '2026-11-08T22:14:00.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Firelight Motions
+    url: http://www.firelightmotions.com/
+    description: Shanghai production studio making corporate films, product launch content and animation for B2B and tech brands.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - live-action
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T22:14:00.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: L2 Studio
+    url: http://luheli.com/
+    description: Chengdu animation studio with 2D and 3D lines, known for the Cold Jokes series and Rakshasa Street.
+    hq:
+      city: Chengdu
+      country: China
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2013
+    notable:
+      - Cold Jokes
+      - Rakshasa Street
+      - Hanhua Diary
+    added_at: '2026-11-08T22:14:00.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LIGHTS Studios
+    url: https://lights3d.com/
+    description: Guangzhou archviz studio of about 60 artists producing stills, animation and VR tours for architects and property developers.
+    hq:
+      city: Guangzhou
+      country: China
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    added_at: '2026-11-08T22:14:00.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Garden Culture
+    url: https://www.garden-culture.net/
+    description: Shanghai animation studio producing donghua series and films such as Fox Spirit Matchmaker and The Outcast.
+    hq:
+      city: Shanghai
+      country: China
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2013
+    notable:
+      - Fox Spirit Matchmaker
+      - The Outcast
+      - JX3 Online animated series
+      - Spirit Realm
+    added_at: '2026-11-08T22:14:00.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Colored-Pencil Animation
+    url: https://www.csqbdh.com/
+    description: Chongqing animation studio producing 2D donghua series and films, including The King's Avatar spin-offs.
+    hq:
+      city: Chongqing
+      country: China
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2014
+    notable:
+      - 'The King''s Avatar: For the Glory'
+      - 'The Fated Magical Princess: Who Made Me a Princess'
+      - Lan Mo's Flower
+    added_at: '2026-11-08T22:14:00.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Soyep
+    url: http://www.soyiwh.com/
+    description: Hangzhou animation company co-producing web donghua series with Tencent Video, such as Qi Refining for 100,000 Years.
+    hq:
+      city: Hangzhou
+      country: China
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2016
+    notable:
+      - Qi Refining for 100,000 Years
+      - Defense All Out
+    added_at: '2026-11-08T22:14:00.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: archivizCV
+    url: https://archivizcv.com/
+    description: Beijing archviz team producing renders and 3D animation for international architecture firms and competitions.
+    hq:
+      city: Beijing
+      country: China
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/archivizcv/
+      linkedin: https://www.linkedin.com/company/archivizcv
+    added_at: '2026-11-08T22:14:00.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: meowsmouse animation
+    url: https://www.meowsmouse.com/
+    description: 2D animation studio making traditional animation, storyboards and animatics for clients and developing its own animated IP.
+    hq:
+      city: Quezon City
+      country: Philippines
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    notable:
+      - Flan (series in development, MIFA 2024 pitch)
+    social:
+      instagram: https://www.instagram.com/meowsmouse_
+      linkedin: https://www.linkedin.com/company/meowsmouse
+      x: https://www.twitter.com/meowsmouse
+    added_at: '2026-11-08T22:14:00.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Snipple Animation
+    url: https://www.snippleanimation.com/
+    description: 2D animation studio producing TV series for Disney, Warner Bros. and DreamWorks from an 800-artist studio in Manila, plus original IP and sports mascot content.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Manila
+        country: Philippines
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    notable:
+      - Phineas and Ferb (Season 5)
+      - 'Adventure Time: Side Quests'
+      - Hit-Monkey (Season 2)
+      - Angry Birds Mystery Island
+    social:
+      instagram: https://www.instagram.com/snippleanim
+      linkedin: https://www.linkedin.com/company/snipple-animation-studios
+    added_at: '2026-11-08T22:14:00.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Manimonki Studio
+    url: https://www.manimonki.studio/
+    description: Animation studio making animated commercials for Indonesian brands and original series and characters such as Dettolion.
+    hq:
+      city: Surakarta
+      country: Indonesia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+      - film
+    notable:
+      - Dettolion (Dettol)
+      - Ale-Ale Cocopandan
+      - Garuda di Dadaku (2026, co-production studio)
+    social:
+      instagram: https://www.instagram.com/manimonki
+      youtube: https://www.youtube.com/channel/UCg3G-Shzo4icdajx-scOiDg
+    added_at: '2026-11-08T22:14:00.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Leomotions
+    url: https://www.leomotions.com/
+    description: 3D animation studio making animated series, films, commercials, motion graphics and VFX.
+    hq:
+      city: Malang
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - vfx
+      - cg
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Garuda di Dadaku (2026)
+      - Jumbo (2025)
+      - Adit Sopo Jarwo
+    social:
+      instagram: https://www.instagram.com/leomotions
+      youtube: https://www.youtube.com/c/LeomotionsAnimationStudio
+    added_at: '2026-11-08T22:14:00.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KOMODOZ
+    url: https://komodoz.id/
+    description: Design and development studio making game art and product design for international game and creative clients.
+    hq:
+      country: Indonesia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    founded: 2010
+    notable:
+      - Safari Rally (game art)
+      - Transformers (game art)
+      - DiRT 3 (game art)
+      - Kriegsfront Tactics
+    social:
+      artstation: https://artstation.com/komodoz
+      instagram: https://www.instagram.com/komodoz.id
+      linkedin: https://www.linkedin.com/company/komodoz-id
+      youtube: https://www.youtube.com/@komodoz
+      x: https://twitter.com/komodoz_id
+    added_at: '2026-11-08T22:14:00.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rezonate
+    url: https://rezonate.tv/
+    description: Creative agency with in-house animation and motion design, making short-form brand content and animated documentary sequences.
+    hq:
+      city: Manila
+      country: Philippines
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - film
+    notable:
+      - 'Megan Thee Stallion: In Her Words (animated scenes)'
+      - 'Kraft Mac & Cheese: Help Yourself'
+      - Filipino American Story (AARP x NextDayBetter)
+    social:
+      instagram: https://www.instagram.com/rezonate.ig
+      linkedin: https://www.linkedin.com/company/11225759
+      x: https://x.com/wearerezonate
+    added_at: '2026-11-08T22:14:00.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Caravan Studio
+    url: https://www.caravanstudio.com/
+    description: Art studio making illustration, concept art, game card art, comics and IP development for films, games and toys.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+      - film
+    founded: 2008
+    notable:
+      - Jumbo (2025, visual development)
+    social:
+      artstation: http://www.artstation.com/caravanstudio
+      instagram: http://www.instagram.com/caravanstudio_artwork
+      x: https://twitter.com/CaravanArtworks
+    added_at: '2026-11-08T22:14:00.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ayena Studio
+    url: https://ayena-studio.com/
+    description: 3D animation studio producing series and film animation for Indonesian and international clients.
+    hq:
+      city: Cimahi
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    founded: 2015
+    notable:
+      - Jumbo (2025)
+      - Super Neli The Series
+      - Santiago of the Seas
+      - Kangaroo Beach
+    added_at: '2026-11-08T22:14:00.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Motion Circus Animation
+    url: https://www.motioncircusanimation.com/
+    description: 3D animation studio handling asset creation, character animation, lighting, rendering and compositing for series and films.
+    hq:
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    notable:
+      - Jumbo (2025)
+    social:
+      instagram: https://www.instagram.com/motioncircusanimation
+    added_at: '2026-11-08T22:14:00.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ARAS
+    url: https://www.aras.us/
+    description: Design and motion studio making commercials, title sequences, animated content and VFX for brands, films and streaming.
+    hq:
+      country: Indonesia
+    disciplines:
+      - motion-design
+      - title-design
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - film
+      - brand
+    notable:
+      - Jumbo (2025, animation)
+      - Nightmares & Daydreams (Netflix)
+      - Agak Laen
+    social:
+      instagram: https://www.instagram.com/arasdotus
+      linkedin: https://linkedin.com/company/arasdotus
+    added_at: '2026-11-08T22:14:00.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Imagimata
+    url: https://www.imagimata.com/
+    description: Creative studio doing visual development, look development, animation and motion for clients, and developing the animated feature Timun Mas.
+    hq:
+      city: Jakarta
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - film
+      - advertising
+    notable:
+      - Timun Mas (original IP, in development)
+    social:
+      instagram: https://instagram.com/imagimata
+    added_at: '2026-11-08T22:14:00.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tuldok Animation Studios
+    url: https://tuldokanimation.org/
+    description: Non-profit animation studio producing and promoting animated shorts and documentaries based on Filipino folklore and values.
+    hq:
+      country: Philippines
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Ang Dalawang Nag-uumpugang Bato
+      - Bernardo Carpio
+      - Indarapatra at Sulayman
+    social:
+      linkedin: https://www.linkedin.com/company/tuldok-animation
+      youtube: https://www.youtube.com/@tuldokanimation
+    added_at: '2026-11-08T22:14:00.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Emottoons Animation Studio
+    url: https://emottoons.com/
+    description: 2D animation studio making cartoon and anime-style series, educational content, storyboards and game art for producers and brands.
+    hq:
+      city: Lapu-Lapu City
+      country: Philippines
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - advertising
+      - games
+    social:
+      youtube: https://www.youtube.com/user/emottoons
+    added_at: '2026-11-08T22:14:00.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Afterlab
+    url: https://afterlab.id/
+    description: Animation and VFX studio making 2D/3D animation, visual effects and motion graphics for films and series, and developing its own IP KANCIL.
+    hq:
+      city: Bandung
+      country: Indonesia
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Jumbo (2025, modeling)
+      - KANCIL (original IP)
+    added_at: '2026-11-08T22:14:00.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PixelTek
+    url: https://www.pixeltek.com/
+    description: Outsourcing studio making game-ready 3D art assets since 2004, now also full game development and VR experiences.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - outsourcing
+      - xr
+      - 3d-animation
+    markets:
+      - games
+      - brand
+    added_at: '2026-11-08T22:14:00.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Thunder Game Studio
+    url: https://www.thundergamestudio.com/
+    description: Interactive technology studio making museum touch walls, projection experiences and VR training simulations.
+    hq:
+      city: Bhuj
+      country: India
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-08T22:14:00.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blue Creazione
+    url: https://www.bluecreazione.com/
+    description: Small Pune team making games, 3D animation and VR/AR training and simulation experiences for learning and entertainment.
+    hq:
+      city: Pune
+      country: India
+    disciplines:
+      - xr
+      - 3d-animation
+      - interactive
+    markets:
+      - games
+      - brand
+    added_at: '2026-11-08T22:14:00.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Shivaansh ArtVision
+    url: https://shivaanshartvision.com/
+    description: 'Studio doing game development, 3D production, animation and VFX for other studios, while building its own game Durga: The Lionhearted.'
+    hq:
+      city: Ahmedabad
+      country: India
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - vfx
+    markets:
+      - games
+      - film
+    notable:
+      - 'Durga: The Lionhearted'
+    social:
+      instagram: https://www.instagram.com/shivaanshartvision/
+      linkedin: https://www.linkedin.com/company/shivaansh-artvision/
+      x: https://x.com/ShivaanshAV
+    added_at: '2026-11-08T22:14:00.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EggWhite VFX
+    url: https://eggwhitevfx.com/
+    description: VFX studio for Malayalam cinema, delivering visual effects, CGI, animation and motion graphics for feature films.
+    hq:
+      city: Kochi
+      country: India
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/eggwhitevfx
+      x: https://twitter.com/EggWhiteVFX
+    added_at: '2026-11-08T22:14:00.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mindstein Studios
+    url: https://mindsteinstudios.com/
+    description: End-to-end VFX and CGI studio for feature films and commercials, with credits on Pushpa 2, ARM, 2018 and Minnal Murali.
+    hq:
+      country: India
+    offices:
+      - city: Chennai
+        country: India
+      - city: Thiruvananthapuram
+        country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - advertising
+    notable:
+      - Pushpa 2
+      - ARM
+      - '2018'
+      - Minnal Murali
+    added_at: '2026-11-08T22:14:00.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Identical Brains Studios
+    url: https://identicalbrains.com/
+    description: Mumbai VFX and DI studio for films and streaming series, with work on Article 370, Ashram and Assi.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Article 370
+      - Ashram Season 3
+      - Assi
+    social:
+      instagram: https://www.instagram.com/identicalbrains
+    added_at: '2026-11-08T22:14:00.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fractal Picture
+    url: https://fractalpicture.studio/
+    description: VFX and animation studio making CGI, creatures and immersive environments for films, series, theme parks and brands.
+    hq:
+      city: Mumbai
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+      - experiential
+    markets:
+      - film
+      - episodic
+      - brand
+    notable:
+      - Adipurush
+      - 'IC 814: The Kandahar Hijack'
+      - 'Juha: FIFA Arab Cup Qatar 2025'
+    social:
+      instagram: https://www.instagram.com/fractalpicture
+      linkedin: https://www.linkedin.com/company/fractalpicture
+    added_at: '2026-11-08T22:14:00.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nube Studio
+    url: https://nubestudio.in/
+    description: Mumbai post-production house for colour grading and CG/VFX on commercials, feature films, TV series and music videos.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+      - music-video
+    social:
+      vimeo: https://vimeo.com/nubestudio
+    added_at: '2026-11-08T22:14:00.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Oldmonk Studio
+    url: https://www.oldmonkstudio.com/
+    description: Mumbai VFX studio for feature films and TV commercials, with work on The Diplomat and Bajaj Pulsar ads.
+    hq:
+      city: Mumbai
+      country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - advertising
+    notable:
+      - The Diplomat
+    social:
+      instagram: https://www.instagram.com/oldmonkstudio.vfx
+    added_at: '2026-11-08T22:14:00.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

@@ -1,0 +1,924 @@
+studios:
+  - name: Studio Doodal
+    url: https://studiodoodal.com/
+    description: Indie developer of the 2D precision platformer LAPIN and the hand-drawn parry Metroidvania Solateria.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - LAPIN
+      - Solateria
+    social:
+      instagram: https://www.instagram.com/studiodoodal/
+      youtube: https://www.youtube.com/@studiodoodal
+      x: https://x.com/StudioDoodal
+    added_at: '2026-11-08T22:14:00.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Oneway Ticket Studio
+    url: https://www.onewayticketstudio.com/
+    description: Studio founded in 2023 by veteran developers, making The Midnight Walkers, a PvPvE zombie extraction survival game for PC.
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    notable:
+      - The Midnight Walkers
+    social:
+      youtube: https://www.youtube.com/@TheMidnightWalkersDev
+    added_at: '2026-11-08T22:14:00.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: HIGH-END Games
+    url: https://platinalab.net/
+    description: 'Developer of the rhythm game PLATiNA :: LAB for PC.'
+    hq:
+      country: South Korea
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'PLATiNA :: LAB'
+    social:
+      youtube: https://www.youtube.com/@PLATiNA_LAB
+      x: https://x.com/PLATiNALAB
+    added_at: '2026-11-08T22:14:00.665Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NeoJPL
+    url: https://www.neojpl.com/
+    description: Mobile developer of easy-to-play family games such as Jewelry Hunter GO and Merge to Fame.
+    hq:
+      country: South Korea
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Jewelry Hunter GO
+      - Merge to Fame
+    added_at: '2026-11-08T22:14:00.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Good Circle Games
+    url: https://www.goodcirclegames.com/
+    description: Busan studio making casual mobile games such as Dodge Arrow, Come On Kitty and My Neon City.
+    hq:
+      city: Busan
+      country: South Korea
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Dodge Arrow
+      - Last Harvest
+      - Come On Kitty
+      - My Neon City
+    added_at: '2026-11-08T22:14:00.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FairPlay Studios
+    url: https://fairplaystudios.net/
+    description: Independent game studio making action and adventure games for PC and consoles.
+    hq:
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2018
+    notable:
+      - Fallen Knight
+      - The Land Beneath Us
+      - Nightmare Circus
+    added_at: '2026-11-08T22:14:00.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nanuq
+    url: https://www.nanuq.co.th/
+    description: 'Independent game studio making the multiplayer action game Bounty Brawl: Most Wanted for PC.'
+    hq:
+      city: Bangkok
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Bounty Brawl: Most Wanted'
+    social:
+      linkedin: https://www.linkedin.com/company/nanuq-game/
+    added_at: '2026-11-08T22:14:00.669Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Revolution Industry
+    url: https://www.revolution-industry.com/
+    description: 'Indie game studio behind the airship city builder Airship: Kingdoms Adrift for PC.'
+    hq:
+      city: Bangkok
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Airship: Kingdoms Adrift'
+    social:
+      linkedin: https://www.linkedin.com/company/73071304/
+      x: https://twitter.com/rev_industry
+    added_at: '2026-11-08T22:14:00.670Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Secret Character
+    url: https://secret-character.com/
+    description: Independent game studio making retro-styled tactics and sim games for PC and Switch.
+    hq:
+      city: Bangkok
+      country: Thailand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - Banchou Tactics
+      - Neko Odyssey
+      - Yakiniku Simulator
+    social:
+      x: https://x.com/secretchargame
+    added_at: '2026-11-08T22:14:00.671Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Topebox
+    url: https://topebox.com/
+    description: Mobile game studio making casual and action games for iOS and Android.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Just Pull
+      - Pocket Army
+    added_at: '2026-11-08T22:14:00.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: iKame
+    url: https://ikameglobal.com/
+    description: Mobile game developer and publisher running Zego Studio, maker of casual puzzle and simulation games.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - 'Farm City: Farming & Building'
+      - Screwdom 3D
+    added_at: '2026-11-08T22:14:00.673Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hohama Studio
+    url: https://hohama.com/
+    description: Mobile game studio making casual puzzle games such as Screw Sort for Android and iOS.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Screw Sort: Color Pin Puzzle'
+    added_at: '2026-11-08T22:14:00.674Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CSCMobi
+    url: https://cscmobi.com/
+    description: Mobile game studio making cooking, hotel and farm simulation games for Android and iOS.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - Cooking Marina
+      - 'Kong Island: Farm & Survival'
+      - 'Dream Hotel: Hotel Manager'
+      - Merge Cafe
+    social:
+      linkedin: https://www.linkedin.com/company/cscmobi
+    added_at: '2026-11-08T22:14:00.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MGIF
+    url: https://mgif.net/
+    description: Mobile game studio making idle RPG and casual games for Android and iOS.
+    hq:
+      city: Ho Chi Minh City
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Heroes Legend: Idle Battle War'
+    added_at: '2026-11-08T22:14:00.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Taap Game Studio
+    url: https://taapgame.com/
+    description: Mobile game studio making farming and adventure games for Android and iOS.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - 'Horizon Island: Farm Adventure'
+    added_at: '2026-11-08T22:14:00.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TDCGames Studio
+    url: https://thaidong.com.vn/
+    description: Mobile game studio making idle defense and casual games for Android and iOS.
+    hq:
+      city: Hanoi
+      country: Vietnam
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2018
+    notable:
+      - Zombie Idle Defense
+    added_at: '2026-11-08T22:14:00.678Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Deep Field Games
+    url: https://www.deepfield.games/
+    description: Independent studio in southern New Zealand making co-op multiplayer games for PC and console.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Abiotic Factor
+      - Unfortunate Spacemen
+    social:
+      instagram: https://www.instagram.com/deepfieldgames/
+    added_at: '2026-11-08T22:14:00.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Splitting Point
+    url: https://splittingpoint.com/
+    description: Roblox game studio started in New Zealand in 2017, making comedy adventure and party experiences.
+    hq:
+      country: New Zealand
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 2017
+    notable:
+      - Dusty Trip
+      - Field Trip Z
+      - Wacky Wizards
+    social:
+      x: https://x.com/splitting_point
+    added_at: '2026-11-08T22:14:00.680Z'
+  - name: Outerdawn
+    url: https://www.outerdawn.com/
+    description: Game studio founded in 2014 making mobile and PC fantasy RPGs such as Grimguard Tactics.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2014
+    notable:
+      - 'Grimguard Tactics: End of Legends'
+      - Mana Monsters
+      - Goblins
+    social:
+      x: https://www.twitter.com/outerdawn
+      youtube: https://www.youtube.com/c/outerdawn
+    added_at: '2026-11-08T22:14:00.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Purple Moss Collectors
+    url: https://www.purplemosscollectors.com/
+    description: Indie studio that makes Dungeons & Degenerate Gamblers, a blackjack roguelike adventure for PC.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dungeons & Degenerate Gamblers
+    added_at: '2026-11-08T22:14:00.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Snickerdoodle Games
+    url: https://www.snickerdoodlegames.com/
+    description: Indie studio making family-friendly puzzle and incremental games for PC and mobile.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Squiggle Drop
+      - Sludgineers
+    social:
+      instagram: https://www.instagram.com/snickerdoodlegamesnz/
+    added_at: '2026-11-08T22:14:00.683Z'
+  - name: Space Rock Games
+    url: https://www.spacerockgames.com/
+    description: Remote Unreal Engine co-development studio that also ships its own games.
+    hq:
+      country: New Zealand
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Doomsday Diner
+    added_at: '2026-11-08T22:14:00.684Z'
+  - name: Gyxos
+    url: https://gyxos.com/
+    description: Indie studio making action games for PC, including a car-combat party game and a spaceship roguelike.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Hyper Tunnel
+      - Bumper Brawlers
+    added_at: '2026-11-08T22:14:00.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Majic Jungle
+    url: https://majicjungle.com/
+    description: Solo-developer studio behind the iOS hit The Blockheads and the PC civilization builder Sapiens.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Sapiens
+      - The Blockheads
+      - Chopper 2
+    added_at: '2026-11-08T22:14:00.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Prismatic Studios
+    url: https://www.prismaticstudios.co.nz/
+    description: Unreal Engine co-development studio and technical consultancy for games and virtual production.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    social:
+      x: https://twitter.com/PrismaticNZ
+      linkedin: https://www.linkedin.com/company/prismatic-studios-nz
+    added_at: '2026-11-08T22:14:00.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Geo A.R.
+    url: https://www.geoar.com/
+    description: Serious games studio of 30+ turning research into AR, VR and web simulations for education and policy.
+    hq:
+      city: Auckland
+      country: New Zealand
+    offices:
+      - city: Tauranga
+        country: New Zealand
+      - city: Wellington
+        country: New Zealand
+      - city: Guildford
+        country: United Kingdom
+    segments:
+      - kids-edu
+      - simulation
+    platforms:
+      - mobile
+      - vr
+      - web
+    social:
+      linkedin: https://www.linkedin.com/company/geoargames
+    added_at: '2026-11-08T22:14:00.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stormcloak Games
+    url: https://stormcloak.games/
+    description: Indie studio making deep simulation games, starting with the base-building survival game Adaptory.
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Adaptory
+    added_at: '2026-11-08T22:14:00.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DreamLoft Games
+    url: https://www.dreamloftgames.com/
+    description: Mobile game studio founded in 2016, making word and puzzle games such as Game of Words.
+    hq:
+      city: Wellington
+      country: New Zealand
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2016
+    notable:
+      - Game of Words
+      - Wordless
+      - Magic Mittens 3D
+      - Tile Kingdom
+    added_at: '2026-11-08T22:14:00.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Atawhai Interactive
+    url: https://www.atawhaiinteractive.com/
+    description: 'Small indie team making nature-focused games, debuting with the albatross flight adventure Toroa: Skycall.'
+    hq:
+      city: Dunedin
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Toroa: Skycall'
+    social:
+      instagram: https://www.instagram.com/atawhaigames/
+    added_at: '2026-11-08T22:14:00.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mighty Eyes
+    url: https://www.mightyeyes.games/
+    description: VR game studio behind the time-travel adventure series Wanderer, with its own modular VR framework.
+    hq:
+      city: Auckland
+      country: New Zealand
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Wanderer
+      - 'Wanderer: The Fragments of Fate'
+    added_at: '2026-11-08T22:14:00.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mune Studio
+    url: https://munestudio.net/
+    description: Indie studio formed in 2021, making co-op games such as the tavern dungeon crawler Brews & Bastards.
+    hq:
+      city: Dunedin
+      country: New Zealand
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2021
+    notable:
+      - Brews & Bastards
+      - Mech Support
+    social:
+      x: https://x.com/MuneStudio
+    added_at: '2026-11-08T22:14:00.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mermaid MenZ Games
+    url: https://bronzebeardstavern.com/
+    description: Team of five making co-op multiplayer games, including the restaurant manager sim Bronzebeard's Tavern.
+    hq:
+      country: New Zealand
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Bronzebeard's Tavern
+      - 'Bronzebeard''s Tavern 2: The First Pour'
+    social:
+      instagram: https://www.instagram.com/bronzebeardstavern/
+      x: https://twitter.com/mermaidmenz
+    added_at: '2026-11-08T22:14:00.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LandShark Games
+    url: https://www.landsharkgames.com/
+    description: Singapore indie studio behind the Zen Koi mobile series, Monster Candy and the Steam school sim Grifford Academy.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Zen Koi
+      - Zen Koi 2
+      - Grifford Academy
+      - Monster Candy
+    social:
+      instagram: https://www.instagram.com/landsharkgames/
+      x: https://twitter.com/LandShark_Games
+    added_at: '2026-11-08T22:14:00.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RATH
+    url: https://www.rathsoft.com/
+    description: Small Singapore game studio making commercial PC games plus prototypes and custom games for studios and brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2024
+    notable:
+      - Playing God
+      - Beast Brawl
+    social:
+      instagram: https://www.instagram.com/rath.soft
+      youtube: https://www.youtube.com/@rathsoft
+      x: https://x.com/RATHSOFT
+    added_at: '2026-11-08T22:14:00.696Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sprytosaur Games
+    url: https://sprytosaur.com/
+    description: Indie developer of the rhythm game ThumBeat that also offers console porting, localisation and technical production to other studios.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 2018
+    notable:
+      - ThumBeat
+    added_at: '2026-11-08T22:14:00.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Crimson Forge Studios
+    url: https://crimson-forge.com/
+    description: Singapore indie studio making PC and VR games, including the mech roguelite Last Mech Standing for Meta Quest and Steam.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    founded: 2017
+    notable:
+      - Last Mech Standing
+    added_at: '2026-11-08T22:14:00.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gearbyte Games
+    url: https://gearbytegames.com/
+    description: Small Singapore indie team behind the desktop dungeon puzzle game Identifile on Steam.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Identifile: Desktop Dungeon'
+    social:
+      instagram: https://www.instagram.com/gearbytegames/
+      linkedin: https://www.linkedin.com/company/gearbyte-games/
+      x: https://x.com/GearbyteGames
+    added_at: '2026-11-08T22:14:00.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AeonSparx Interactive
+    url: https://aeonsparx.com/
+    description: Indie developer of the top-down shooter Zombie Soup, with entities in Kuala Lumpur and Singapore.
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    offices:
+      - city: Singapore
+        country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Zombie Soup
+    social:
+      x: https://twitter.com/aeonsparx
+    added_at: '2026-11-08T22:14:00.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Todak Studios
+    url: https://todakstudios.com/
+    description: Cyberjaya game studio of the TODAK esports group, making mobile games such as Mastra Battle Arena and playable work for clients.
+    hq:
+      city: Cyberjaya
+      country: Malaysia
+    segments:
+      - mobile
+      - indie
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    parent: TODAK
+    notable:
+      - Mastra Battle Arena
+      - TAG Police Sentri
+    social:
+      instagram: https://www.instagram.com/todakstudios
+      youtube: https://www.youtube.com/@todakstudios
+    added_at: '2026-11-08T22:14:00.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hidden Chest Studio
+    url: https://www.hiddenchest.studio/
+    description: 'Kuala Lumpur game studio building custom games for brands and studios, and its own open-world crime game Midwest 90: Rapid City.'
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+      - co-dev
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2020
+    notable:
+      - 'Midwest 90: Rapid City'
+    social:
+      linkedin: https://www.linkedin.com/company/hidden-chest-studio/
+      youtube: https://www.youtube.com/@hiddencheststudios
+    added_at: '2026-11-08T22:14:00.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Twilight Foundry Games
+    url: https://twilightfoundrygames.com/
+    description: 'Penang indie studio making narrative games with stylised visuals, including the culinary adventure Kooeh: A Timeless Delight.'
+    hq:
+      city: Penang
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    careers: https://twilightfoundrygames.com/career/
+    notable:
+      - 'Kooeh: A Timeless Delight'
+      - Sunset Satellite
+    social:
+      linkedin: https://www.linkedin.com/company/twilight-foundry-games/
+      x: https://x.com/tfgames_
+    added_at: '2026-11-08T22:14:00.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: YYZ Studio
+    url: https://yyzstudio.com/
+    description: Singapore indie studio making cozy sea-themed games, starting with the raft-town builder Havendock.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Havendock
+      - Stormbridge
+      - Last Fuse
+    added_at: '2026-11-08T22:14:00.704Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mini Bunnies
+    url: https://www.minibunnies.com/
+    description: Small indie team from Singapore that grew out of game jams, co-developer of the metroidvania Rusted Moss and now making Iron Bramble.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Rusted Moss
+      - Iron Bramble
+      - After School Afterlife
+    added_at: '2026-11-08T22:14:00.705Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cellar Vault Games
+    url: https://cellar-vault-games.itch.io/
+    description: Small Malaysian indie team making horror and narrative games, including the papercraft adventure series Paper Ghost Stories.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Paper Ghost Stories: Third Eye Open'
+      - 'Paper Ghost Stories: 7PM'
+      - The Plight
+    social:
+      instagram: https://www.instagram.com/cellarvault/
+      x: https://twitter.com/CellarVault
+    added_at: '2026-11-08T22:14:00.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nimbus Games
+    url: https://nimbusgames.dev/
+    description: 'Kuala Lumpur studio of about 30 making Unreal Engine horror games such as Escape: Malice, plus game development and art services for partners.'
+    hq:
+      city: Kuala Lumpur
+      country: Malaysia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - 'Escape: Malice'
+      - 'Black Omens: House of Crimson Silk'
+    social:
+      instagram: https://www.instagram.com/nimbusgamesdev/
+      x: https://x.com/nimbusgamesdev
+      artstation: https://www.artstation.com/nimbusgamesart
+      youtube: https://www.youtube.com/channel/UCwFBcenTlqw03NaA5cvG02Q
+    added_at: '2026-11-08T22:14:00.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Metropolice Game Studio
+    url: https://themetropolice.com/
+    description: Malaysian indie studio releasing small PC games on Steam, including the city builder The HELL and Totally Normal Ramen.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The HELL
+      - Totally Normal Ramen
+      - Last Draft
+      - Train 404
+    added_at: '2026-11-08T22:14:00.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: YOLO35 Games
+    url: https://yolo35games.com/
+    description: Malaysian indie studio behind the card-based winter survival game Don't Freeze.
+    hq:
+      country: Malaysia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Don''t Freeze: A Winter Card Survival'
+    social:
+      x: https://x.com/yolo35games
+    added_at: '2026-11-08T22:14:00.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Doodle People
+    url: https://www.thedoodlepeople.com/
+    description: Singapore creative technology studio making its own party games such as Get Your Sheep Together, plus games, animation and virtual worlds for brands.
+    hq:
+      city: Singapore
+      country: Singapore
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2014
+    notable:
+      - Get Your Sheep Together
+      - PECK'EM - Bird Brawlers
+      - Find Lah!
+    social:
+      instagram: https://www.instagram.com/thedoodlepeople.studio/
+      vimeo: https://vimeo.com/thedoodlepeople
+      youtube: https://www.youtube.com/channel/UCZE1E0xd9L_1OCywnGXtPeQ
+      x: https://twitter.com/TheDoodlePeople
+    added_at: '2026-11-08T22:14:00.710Z'
+  - name: Why Knot Games Studio
+    url: https://whyknot.games/
+    description: Petaling Jaya game studio founded in 2016, making mobile, VR and AR games such as Princess of the Water Lilies, plus 2D and 3D game art.
+    hq:
+      city: Petaling Jaya
+      country: Malaysia
+    segments:
+      - indie
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - vr
+    founded: 2016
+    notable:
+      - Princess of the Water Lilies
+      - HomeStray
+    social:
+      instagram: https://www.instagram.com/whyknot_studio/
+      linkedin: https://www.linkedin.com/company/whyknotstudio/
+      x: https://x.com/WhyKnotStudio
+    added_at: '2026-11-08T22:14:00.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ZNK Games
+    url: https://znkgames.com/
+    description: Mobile game developer behind the Scary Teacher 3D series and other prank and horror titles for iOS and Android.
+    hq:
+      city: Lahore
+      country: Pakistan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Scary Teacher 3D
+      - Scary Stranger 3D
+      - Scary Child
+      - Scary Robber Home Clash
+    added_at: '2026-11-08T22:14:00.712Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

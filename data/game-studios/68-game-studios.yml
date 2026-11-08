@@ -1,0 +1,836 @@
+studios:
+  - name: Mono Tusk Studios
+    url: https://monotuskstudios.com/
+    description: 'Indie studio making culture-rooted games, including Palm Sugar: A Village Story, an action-adventure set in rural South India.'
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Palm Sugar: A Village Story'
+    added_at: '2026-11-08T22:14:00.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pariah Interactive
+    url: https://www.pariahinteractive.com/
+    description: Games and XR studio making surreal narrative work, including 1000 Deaths, PC Game of the Year at the India Game Awards 2025.
+    hq:
+      city: New York
+      country: United States
+    offices:
+      - city: New Delhi
+        country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - 1000 Deaths
+    social:
+      instagram: http://instagram.com/pariahinteractive
+      x: http://twitter.com/pariahinteract
+    added_at: '2026-11-08T22:14:00.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamenest
+    url: https://igamenest.com/
+    description: Game studio of IT firm Xpertnest, with 30+ shipped mobile, VR and AR games plus game art and development services.
+    hq:
+      city: Ahmedabad
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    segments:
+      - mobile
+      - vr
+      - co-dev
+    platforms:
+      - mobile
+      - vr
+    parent: Xpertnest
+    added_at: '2026-11-08T22:14:00.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kleanup Games
+    url: https://www.kleanupgames.com/
+    description: Small studio that made Chromadi, a colour-mixing arcade shooter for PC and web.
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - Chromadi
+    added_at: '2026-11-08T22:14:00.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Astronix Games
+    url: https://www.astronixgames.com/
+    description: 'Indie studio making narrative PC games such as The Fallow City and Incident Archives: Flight 882.'
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Fallow City
+      - 'Incident Archives: Flight 882'
+    social:
+      instagram: https://www.instagram.com/astronix_games/
+      linkedin: https://www.linkedin.com/company/astronix-games
+      youtube: https://www.youtube.com/@AstronixGames
+    added_at: '2026-11-08T22:14:00.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rayll Studios
+    url: https://www.rayllstudios.com/
+    description: Indie studio behind Fears to Fathom, an episodic first-person psychological horror series on Steam.
+    hq:
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Fears to Fathom: Home Alone'
+      - 'Fears to Fathom: Carson House'
+      - 'Fears to Fathom: Ironbark Lookout'
+      - 'Fears to Fathom: Scratch Creek'
+    social:
+      linkedin: https://www.linkedin.com/company/rayll-studios
+      x: https://twitter.com/theRayll
+    added_at: '2026-11-08T22:14:00.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 7Seas Entertainment
+    url: https://www.7seasent.com/
+    description: Listed game developer and publisher with 600+ mobile, PC and web games, original IP and work-for-hire projects.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - web
+    added_at: '2026-11-08T22:14:00.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamebee Studio
+    url: https://gamebeestudio.com/
+    description: Developer of casual and sports games for Smart TV, mobile and PC, including licensed Chhota Bheem games.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Baseball Super League 3D
+      - Fruit Cutter TV
+    added_at: '2026-11-08T22:14:00.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cympl Studios
+    url: https://www.cymplstudios.com/
+    description: Casual mobile game studio making time-management and cooking games such as Chef Diary and Masala Madness.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Chef Diary: Cooking & Romance'
+      - 'Masala Madness: Indian Food Truck Cooking Games'
+    added_at: '2026-11-08T22:14:00.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Timuz
+    url: https://timuz.com/
+    description: Mobile game developer and publisher since 2010, making casual, puzzle, racing and action games.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2010
+    added_at: '2026-11-08T22:14:00.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Supercode Games
+    url: https://supercodegames.com/
+    description: Mobile game studio with 35+ titles such as Bicycle Stunts, plus game art, porting and full-cycle development services.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Bicycle Stunts
+      - Water Dig Rescue
+    added_at: '2026-11-08T22:14:00.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Funcell Games
+    url: https://funcellgames.com/
+    description: Mobile studio making interactive story and idle games, including Idle Human, 9 Months and Pawn to Don.
+    hq:
+      city: Ahmedabad
+      country: India
+    offices:
+      - city: London
+        country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2016
+    notable:
+      - Idle Human
+      - 9 Months
+      - Idle World
+      - Pawn to Don
+    added_at: '2026-11-08T22:14:00.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glownight Games
+    url: https://glownightgames.com/
+    description: Mobile game studio making casual games for iOS and Android and building games for clients.
+    hq:
+      city: Ahmedabad
+      country: India
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: iGold Technologies
+    url: https://igoldtech.com/
+    description: Mobile game developer behind the third-person shooter Terra Fury and casual titles like Street Chaser and Swiped.
+    hq:
+      city: Chennai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Terra Fury
+      - Street Chaser
+      - Swiped
+      - Beast Chaser
+    added_at: '2026-11-08T22:14:00.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Game Sculptors
+    url: https://www.gamesculptors.com/
+    description: Mobile studio making social board-style adventure games such as Zoo Go and HissCapes.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Zoo Go
+      - HissCapes
+    added_at: '2026-11-08T22:14:00.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AlignIt Games
+    url: https://alignitgames.com/
+    description: Mobile studio rebuilding classic board games such as Bead 16, Chess and offline Ludo, with 140M+ downloads.
+    hq:
+      city: Jaipur
+      country: India
+    offices:
+      - city: Gurugram
+        country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Bead 16 - Sholo Guti
+      - Align It
+      - Ludo Offline
+    added_at: '2026-11-08T22:14:00.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Funstop Games
+    url: https://www.funstop.io/
+    description: Casual mobile game studio, a brand of Recreations Lab, with 100M+ downloads across hypercasual and casual titles.
+    hq:
+      city: Gurugram
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Qila Games
+    url: https://qilagames.com/
+    description: Mobile studio making social-first 3D games, starting with the free-to-play board battler Ludo Hero.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ludo Hero
+    added_at: '2026-11-08T22:14:00.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BlackLight Games
+    url: https://blacklightsw.com/
+    description: Mobile studio making classic social multiplayer games such as Ludo Superstar and Carrom Superstar.
+    hq:
+      city: Noida
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ludo Superstar
+      - Carrom Superstar
+    added_at: '2026-11-08T22:14:00.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brightpoint Studios
+    url: https://brightpointstudios.com/
+    description: Casual game studio making Solitaire Castle Royal and Match Heist for mobile, plus free browser games.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Solitaire Castle Royal
+      - Match Heist
+    added_at: '2026-11-08T22:14:00.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Csharks Games
+    url: https://csharks.com/
+    description: Game development company building HTML5, mobile, AR and VR games for clients, with 300+ games delivered.
+    hq:
+      city: Kothamangalam
+      country: India
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - web
+      - mobile
+      - vr
+    added_at: '2026-11-08T22:14:00.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AppOn
+    url: https://www.appon.co.in/
+    description: Mobile game studio making casual games for kids and families, including cooking, zombie and resort-management titles.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+    founded: 2012
+    added_at: '2026-11-08T22:14:00.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Biswa Games
+    url: https://www.biswagames.com/
+    description: Studio making VR and mixed-reality sports games for Meta Quest, such as Beyond Putt and Bowling Blitz.
+    hq:
+      city: Kolkata
+      country: India
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Beyond Putt
+      - Bowling Blitz
+      - Championship Clash
+    added_at: '2026-11-08T22:14:00.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: underDOGS Studio
+    url: https://www.underdogsthestudio.com/
+    description: Game development, servicing and publishing company making the narrative first-person adventure Mukti for PS5 and PC.
+    hq:
+      city: Mumbai
+      country: India
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2011
+    notable:
+      - Mukti
+    social:
+      instagram: https://www.instagram.com/underdogsindia
+      x: https://x.com/underdogsindia
+    added_at: '2026-11-08T22:14:00.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hexar Games
+    url: https://hexargames.com/
+    description: Casual mobile puzzle studio behind Cubescapes and Merge Forever.
+    hq:
+      city: Rajkot
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Cubescapes
+      - Merge Forever
+    added_at: '2026-11-08T22:14:00.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flecks Labs
+    url: https://www.fleckslabs.com/
+    description: Studio making and acquiring Roblox games, including Clover Legends and Battle Pets.
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Clover Legends
+      - Battle Pets
+    added_at: '2026-11-08T22:14:00.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arckon Arts
+    url: https://arckonarts.com/
+    description: Indie studio behind the strategy game Stick Infinite Kingdom and the upcoming Haunt Hunter.
+    hq:
+      city: Chennai
+      country: India
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Stick Infinite Kingdom
+      - Haunt Hunter
+    added_at: '2026-11-08T22:14:00.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Weloadin
+    url: https://www.weloadin.com/
+    description: Chennai game studio making casual and hybrid-casual mobile games, now developing the action-adventure Bloody Boots.
+    hq:
+      city: Chennai
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - Bloody Boots
+    added_at: '2026-11-08T22:14:00.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Makkajai
+    url: https://www.makkajai.com/
+    description: Kids learning studio behind Monster Math, game-based maths apps for kindergarten to grade 5.
+    hq:
+      city: Pune
+      country: India
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Monster Math
+    added_at: '2026-11-08T22:14:00.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spill Games
+    url: https://spill.games/
+    description: Mobile game studio making merge and match puzzle games for iOS and Android.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Appsoleut Games
+    url: https://www.appsoleutgames.com/
+    description: Mobile game studio of engineers and artists making casual games for a global audience.
+    hq:
+      city: Gurugram
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TrueForm Games
+    url: https://trueformgames.com/
+    description: Studio making medical training simulation games for doctors, nurses and paramedics, plus casual mobile games.
+    hq:
+      city: Lucknow
+      country: India
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+      - web
+    added_at: '2026-11-08T22:14:00.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 5th Ocean Studios
+    url: https://ilavath.com/
+    description: 'Studio behind Boogie Games and Gully Gangs: Street Cricket, now making Ilavath, an India-inspired multiplayer battle arena.'
+    hq:
+      city: Hyderabad
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Gully Gangs: Street Cricket'
+      - 'Ilavath: Battle Arenas'
+    added_at: '2026-11-08T22:14:00.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rocketship Studios
+    url: https://www.rocketshipstudios.com/
+    description: Small studio with 27 colourful casual and puzzle mobile games on iOS and Android.
+    hq:
+      city: Bengaluru
+      country: India
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Caterpillars!
+      - Dunk and Pop
+      - Jug Riddles
+      - Ultimate 3D Word Search
+    added_at: '2026-11-08T22:14:00.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TriSphere Studios
+    url: https://trisphere-studios.web.app/
+    description: Mobile studio making casual, puzzle and early-learning games distributed on Google Play.
+    hq:
+      city: Ahmedabad
+      country: India
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+    notable:
+      - Helix Fruit Smash 3D
+      - 'Sudoku Classic: Daily Puzzles'
+      - Baby & Toddler Word Learning
+    added_at: '2026-11-08T22:14:00.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GunjanApps Studios
+    url: https://gunjanappstudios.com/
+    description: Kids game studio making educational games, puzzles and colouring apps for children aged 2 to 12 since 2016.
+    hq:
+      city: Kolkata
+      country: India
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    founded: 2016
+    added_at: '2026-11-08T22:14:00.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tom Create
+    url: https://www.tomcreate.co.jp/
+    description: Tokyo game developer making console and mobile titles for publishers, known for work on the SD Gundam G Generation series.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 1989
+    notable:
+      - SD Gundam G Generation series
+    social:
+      x: https://twitter.com/TOM_CREATE
+      youtube: https://www.youtube.com/user/TOMCREATEchannel
+    added_at: '2026-11-08T22:14:00.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FLAME Hearts
+    url: https://www.flamehearts.co.jp/
+    description: Tokyo studio doing game planning and development, 3D motion and modeling, and live operation of social games for clients.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    founded: 2003
+    added_at: '2026-11-08T22:14:00.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Neilo
+    url: https://neilo.co.jp/
+    description: Tokyo game studio developing console, smartphone, arcade and XR games, with in-house sound production and a recording studio.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+      - pc
+    founded: 2010
+    social:
+      x: https://twitter.com/Neilo_JP
+      instagram: https://www.instagram.com/neilo.jp
+      youtube: https://www.youtube.com/@Neilo_JP
+    added_at: '2026-11-08T22:14:00.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Now Production
+    url: https://www.nowpro.co.jp/
+    description: Tokyo developer of console games, smartphone apps and edutainment software made for publishers.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 1986
+    added_at: '2026-11-08T22:14:00.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Otwo
+    url: https://www.otwo.jp/
+    description: Osaka developer of console and mobile games for clients, also releasing original titles under its peakvox label.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - mobile
+    founded: 1995
+    added_at: '2026-11-08T22:14:00.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Entergram
+    url: https://www.entergram.co.jp/
+    description: Tokyo developer and publisher of visual novels and adventure games for consoles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - console
+    founded: 1999
+    social:
+      x: https://twitter.com/entergram_info
+    added_at: '2026-11-08T22:14:00.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: UNBALANCE
+    url: https://www.unbalance.co.jp/
+    description: Tokyo maker of hanafuda, go, shogi and mahjong games with AI opponents for smartphones, PC and consoles.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 1998
+    social:
+      x: https://x.com/unbalance_jp
+    added_at: '2026-11-08T22:14:00.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aidis
+    url: https://www.aidis.co.jp/
+    description: Tokyo developer and operator of mobile games, including the pixel-art RPG Last Cloudia.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Last Cloudia
+    added_at: '2026-11-08T22:14:00.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Amazing
+    url: https://www.amazing-game.co.jp/
+    description: Osaka developer and operator of social and smartphone games, best known for its Venus series.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T22:14:00.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: IMAGICA GEEQ
+    url: https://www.geeq.co.jp/
+    description: Tokyo game production services company offering development, 2D and 3D art, localization and QA for publishers.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+      - pc
+    parent: IMAGICA GROUP
+    founded: 1995
+    social:
+      x: https://x.com/IMAGICAGEEQ
+      youtube: https://www.youtube.com/@imagica_geeq_official
+    added_at: '2026-11-08T22:14:00.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ilinx
+    url: https://www.ilinx.co.jp/
+    description: Tokyo console game developer working on titles for publishers such as Bandai Namco, Square Enix and Sega.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+    founded: 2010
+    added_at: '2026-11-08T22:14:00.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KEY WEST
+    url: https://kw-games.co.jp/
+    description: Osaka game developer handling planning and development of console and mobile titles for clients.
+    hq:
+      city: Osaka
+      country: Japan
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - mobile
+    founded: 2010
+    added_at: '2026-11-08T22:14:00.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: StudioZ
+    url: https://studioz.co.jp/
+    description: Tokyo developer and operator of smartphone games, part of the CROOZ group.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: CROOZ
+    founded: 2016
+    added_at: '2026-11-08T22:14:00.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TECOPARK
+    url: https://tecopark.com/
+    description: Small Tokyo studio behind the co-op puzzle game PICO PARK, designing interactive party games.
+    hq:
+      city: Tokyo
+      country: Japan
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2021
+    notable:
+      - PICO PARK
+      - PICO PARK 2
+    added_at: '2026-11-08T22:14:00.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

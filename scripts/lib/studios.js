@@ -91,7 +91,7 @@ const COUNTRY_REGION = {
   'Japan': 'asia-pacific', 'Malaysia': 'asia-pacific', 'Nepal': 'asia-pacific',
   'New Zealand': 'asia-pacific', 'Pakistan': 'asia-pacific', 'Philippines': 'asia-pacific',
   'Singapore': 'asia-pacific', 'South Korea': 'asia-pacific', 'Sri Lanka': 'asia-pacific',
-  'Cambodia': 'asia-pacific', 'Mongolia': 'asia-pacific', 'Myanmar': 'asia-pacific', 'Taiwan': 'asia-pacific', 'Thailand': 'asia-pacific', 'Vietnam': 'asia-pacific',
+  'Cambodia': 'asia-pacific', 'Kazakhstan': 'asia-pacific', 'Uzbekistan': 'asia-pacific', 'Mongolia': 'asia-pacific', 'Myanmar': 'asia-pacific', 'Taiwan': 'asia-pacific', 'Thailand': 'asia-pacific', 'Vietnam': 'asia-pacific',
 
   'Algeria': 'middle-east-africa', 'Bahrain': 'middle-east-africa', 'Cameroon': 'middle-east-africa', 'Egypt': 'middle-east-africa', 'Ethiopia': 'middle-east-africa', 'Ghana': 'middle-east-africa', 'Iran': 'middle-east-africa', 'Iraq': 'middle-east-africa',
   'Israel': 'middle-east-africa', 'Jordan': 'middle-east-africa', 'Kenya': 'middle-east-africa', 'Kuwait': 'middle-east-africa',
