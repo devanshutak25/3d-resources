@@ -1,0 +1,926 @@
+studios:
+  - name: Kosmos Games
+    url: https://kosmos.games/
+    description: Casual social games developer and publisher of web and mobile Solitaire, Mahjong and Yatzy titles.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Solitaire Social
+      - Mahjong Social
+      - Yatzy Social
+      - Merge Tale
+    social:
+      instagram: https://www.instagram.com/kosmosteam/
+      linkedin: https://www.linkedin.com/company/kosmos-games
+    added_at: '2026-11-08T20:25:13.987Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Matryoshka
+    url: https://www.matryoshka.com/
+    description: Casual mobile developer and publisher of cooking and time-management games such as Royal Cooking.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    offices:
+      - city: Novi Sad
+        country: Serbia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - Royal Cooking
+      - Cooking Live
+      - Farming Fever
+      - Rescue Dash
+    added_at: '2026-11-08T20:25:13.988Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mobirate
+    url: https://www.mobirate.com/
+    description: Independent mobile studio behind the Dead Ahead zombie franchise, Big Rig Racing and Parking Mania.
+    hq:
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2003
+    notable:
+      - 'Dead Ahead: Zombie Warfare'
+      - Big Rig Racing
+      - Parking Mania
+      - Genopanic
+    added_at: '2026-11-08T20:25:13.989Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mystery Tag
+    url: https://en.mysterytag.com/
+    description: 'Mobile game developer and publisher of farming and city sims such as Harvest Land and Paris: City Adventure.'
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Harvest Land
+      - 'Paris: City Adventure'
+      - 'Trump''s Empire: idle game'
+    social:
+      instagram: https://www.instagram.com/mystery_tag/
+      linkedin: https://www.linkedin.com/company/mystery-tag/
+    added_at: '2026-11-08T20:25:13.990Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nova Bits Studios
+    url: https://novabits.games/
+    description: Midcore mobile game developer behind RioRise, an open-world roleplay game popular in Brazil.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - RioRise
+    added_at: '2026-11-08T20:25:13.991Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Playkot
+    url: https://playkot.com/
+    description: Mobile and social game developer of Super City, Age of Magic and Tropic Storm.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+    founded: 2009
+    notable:
+      - Super City
+      - Age of Magic
+      - Tropic Storm
+    social:
+      instagram: https://www.instagram.com/playkot/
+      linkedin: https://www.linkedin.com/company/playkot/
+    added_at: '2026-11-08T20:25:13.992Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zillion Whales
+    url: https://www.zillionwhales.com/
+    description: Twenty-person studio making real-time strategy games for consoles and mobile.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - console
+      - mobile
+    social:
+      x: https://twitter.com/zillionwhales
+    added_at: '2026-11-08T20:25:13.993Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio 42
+    url: https://std42.com/
+    description: Mobile developer of puzzle games with hybrid monetization, founded in 2024.
+    hq:
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2024
+    social:
+      linkedin: https://www.linkedin.com/company/std42/
+    added_at: '2026-11-08T20:25:13.994Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: UDO Games
+    url: https://udogames.com/
+    description: Mobile game developer and publisher with 250M+ downloads, working with independent studios on hybrid-casual titles.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2013
+    notable:
+      - Incredible Toys
+    added_at: '2026-11-08T20:25:13.995Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Simula Games
+    url: https://simulagames.com/
+    description: Indie developer of Truck & Logistics Simulator for PC and Nintendo Switch.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - Truck & Logistics Simulator
+    social:
+      x: https://twitter.com/Simula_Games
+    added_at: '2026-11-08T20:25:13.996Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kayabros
+    url: https://kayabros.com/
+    description: Indie studio making hand-crafted narrative games for PC, mobile and consoles, including Soul Searching.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Soul Searching
+      - Pill Baby
+      - Golfinity
+      - BloodSpace
+    added_at: '2026-11-08T20:25:13.997Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Motion Blur
+    url: https://motionblur.com/
+    description: PC game studio behind Kabus 22, now developing the third-person action shooter Black State.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2004
+    notable:
+      - Kabus 22
+    added_at: '2026-11-08T20:25:13.998Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hero Concept
+    url: https://heroconcept.com/
+    description: Multi-platform studio behind the beat 'em up Mayhem Brawler and Doughlings, making PC and console games.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - Mayhem Brawler
+      - 'Mayhem Brawler II: Best of Both Worlds'
+      - 'Doughlings: Arcade'
+      - 'This is Fine: MC'
+    social:
+      instagram: https://instagram.com/heroconceptgames
+      linkedin: https://www.linkedin.com/company/heroconcept
+      youtube: https://www.youtube.com/c/heroconcept
+      x: https://x.com/heroconcept
+    added_at: '2026-11-08T20:25:13.999Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Recontact Games
+    url: https://www.recontactgame.com/
+    description: 'Studio making interactive-movie puzzle games such as Recontact London: Cyber Puzzle.'
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - 'Recontact London: Cyber Puzzle'
+      - Recontact Istanbul
+    social:
+      instagram: https://www.instagram.com/recontactgames
+      x: https://x.com/recontactgames
+    added_at: '2026-11-08T20:25:14.000Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Gamebit
+    url: https://studiogamebit.com/
+    description: 'Indie developer of VR and mobile games, including Naau: The Lost Eye and Agent Simulator.'
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+      - mobile
+    notable:
+      - 'Naau: The Lost Eye'
+      - Agent Simulator
+      - Cop Pursuit
+    social:
+      instagram: https://www.instagram.com/naaugame/
+    added_at: '2026-11-08T20:25:14.001Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Phew Phew Games
+    url: https://phewphewgames.com/
+    description: Indie studio making PC action games, including the cyberpunk platformer Anomaly Agent and Anomaly President.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Anomaly Agent
+      - Anomaly President
+    social:
+      youtube: https://www.youtube.com/@PhewPhewGames
+      x: https://x.com/phewphewgames
+    added_at: '2026-11-08T20:25:14.002Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zentium Studio
+    url: https://zentiumstudio.com/
+    description: Indie developer of cozy co-op simulation games for PC, including Island Market Simulator.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Island Market Simulator
+    social:
+      instagram: https://www.instagram.com/zentiumstudio/
+    added_at: '2026-11-08T20:25:14.003Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kuixo
+    url: https://www.kuixo.com/
+    description: Game studio at Bilkent Cyberpark developing Who Do Voodoo, a multiplayer social-deduction game for PC.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Who Do Voodoo
+    social:
+      instagram: https://www.instagram.com/kuixogames/
+    added_at: '2026-11-08T20:25:14.004Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Team Machiavelli
+    url: https://teammachiavelli.com/
+    description: Indie PC studio behind Castle of Alchemists and Deckfort Alchemist, now making the action RPG Monster Cuisine.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Castle of Alchemists
+      - Deckfort Alchemist
+      - Monster Cuisine
+    added_at: '2026-11-08T20:25:14.005Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Narcade
+    url: https://www.narcade.com/
+    description: Mobile game company making casual and puzzle games for a global audience since 2011.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2011
+    added_at: '2026-11-08T20:25:14.006Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Paxie Games
+    url: https://paxiegames.com/
+    description: 'Mobile developer and publisher of merge and casual puzzle games such as Merge Studio: Fashion Makeover.'
+    hq:
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: DoubleU Games
+    notable:
+      - 'Merge Studio: Fashion Makeover'
+      - 'Party Project: Merge Makeover'
+      - 'Glow Tales: Merge Makeover'
+    added_at: '2026-11-08T20:25:14.007Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Teneke Kafalar Studios
+    url: https://tenekekafalar.com/en
+    description: Independent PC game studio and publisher with 13+ games released, including the social deduction game Feign.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Feign
+    added_at: '2026-11-08T20:25:14.008Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vento Games
+    url: https://ventogames.com/
+    description: Mobile studio making word and puzzle games such as Blossom Word Search and Little Big Differences.
+    hq:
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2024
+    notable:
+      - Blossom Word Search
+      - Little Big Differences
+    social:
+      linkedin: https://www.linkedin.com/company/vento-games/
+    added_at: '2026-11-08T20:25:14.009Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TaleMonster Games
+    url: https://talemonster.games/
+    description: Mobile studio founded by Peak Games veterans, making the casual puzzle game Match Valley.
+    hq:
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Match Valley
+    social:
+      linkedin: https://www.linkedin.com/company/talemonster-games
+    added_at: '2026-11-08T20:25:14.010Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Winter Wolves Studios
+    url: https://winterwolvesstudios.com/
+    description: Independent studio building story-driven simulation and strategy experiences on Roblox.
+    hq:
+      country: Turkey
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - mobile
+    social:
+      instagram: https://www.instagram.com/winter_wolves_studios/
+      x: https://x.com/winterwolvesstd
+    added_at: '2026-11-08T20:25:14.011Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ace Games
+    url: https://ace.games/
+    description: Mobile developer of casual puzzle and board games, including the licensed Cluedo Chase.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Cluedo Chase
+      - Mystery Trail
+    social:
+      instagram: https://www.instagram.com/acegamestr/
+      linkedin: https://www.linkedin.com/company/acegames/
+    added_at: '2026-11-08T20:25:14.012Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: HOGO Games
+    url: https://www.hogogames.com/
+    description: Independent studio making simulation games for Steam, such as Rock Star Life Simulator and Cinema Simulator 2025.
+    hq:
+      city: Gebze
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - mobile
+    founded: 2022
+    notable:
+      - Rock Star Life Simulator
+      - Cinema Simulator 2025
+      - Off Road Together
+      - Backseat
+    added_at: '2026-11-08T20:25:14.013Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cypher Games
+    url: https://www.cyphergames.com/
+    description: Mobile studio making casual puzzle games, including Match Squad.
+    hq:
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Match Squad
+    social:
+      instagram: https://www.instagram.com/cyphergamesinc/
+      linkedin: https://www.linkedin.com/company/cyphergames/
+    added_at: '2026-11-08T20:25:14.014Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SekGames
+    url: https://sekgames.com/
+    description: Mobile studio making idle management games such as Police Station Idle, Airport Idle and Coffee Shop Idle.
+    hq:
+      city: Istanbul
+      country: Turkey
+    offices:
+      - city: Doha
+        country: Qatar
+      - city: Berlin
+        country: Germany
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2020
+    notable:
+      - Police Station Idle
+      - Airport Idle
+      - My Shopping Mall
+      - Dream Hospital
+    social:
+      instagram: https://www.instagram.com/sekgames/
+      linkedin: https://www.linkedin.com/company/sekgames
+      x: https://twitter.com/sekgames_
+    added_at: '2026-11-08T20:25:14.015Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spektra Games
+    url: https://spektra.games/
+    description: Mobile developer and publisher of open-world driving and racing games, including Highway Racer Pro.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2020
+    notable:
+      - Highway Racer Pro
+    social:
+      instagram: https://www.instagram.com/spektra.games
+      linkedin: https://www.linkedin.com/company/spektra-games/
+      youtube: https://www.youtube.com/channel/UCCrmj-C97tafc8qFiV9IyKw
+    added_at: '2026-11-08T20:25:14.016Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pine Games
+    url: https://www.pinegames.com/
+    description: 'Mobile studio making casual merge games, including Viking Island: Merge Adventure.'
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Viking Island: Merge Adventure'
+    social:
+      instagram: https://www.instagram.com/pinegamesofficial/
+    added_at: '2026-11-08T20:25:14.017Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arcustin Games
+    url: https://www.arcustin.com/
+    description: Mobile studio crafting puzzle games with an AI-native production approach, such as Angry Cactus and Royal Bees.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Angry Cactus
+      - Royal Bees
+    social:
+      instagram: https://www.instagram.com/arcustingames
+      linkedin: https://linkedin.com/company/arcustin
+    added_at: '2026-11-08T20:25:14.018Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frozen Pawn
+    url: https://www.frozenpawn.com/
+    description: UGC studio building Fortnite Creative and UEFN experiences for game communities and brands, with 20+ maps.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+    social:
+      instagram: https://www.instagram.com/frozenpawngames/
+      linkedin: https://www.linkedin.com/company/frozenpawn
+      youtube: https://www.youtube.com/channel/UCKbVygmRU5HIHm9UsrAoptQ
+      x: https://twitter.com/frozenpawngames
+    added_at: '2026-11-08T20:25:14.019Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Scorewarrior
+    url: https://scorewarrior.com/
+    description: Developer and operator of the mid-core 4X strategy MMO Total Battle.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+      - web
+    founded: 2015
+    notable:
+      - Total Battle
+    social:
+      linkedin: https://cy.linkedin.com/company/scorewarrior
+    added_at: '2026-11-08T20:25:14.020Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Banzai Games
+    url: https://banzai.games/
+    description: Developer of action games for PC, console and mobile, including the Shadow Fight series and Vector.
+    hq:
+      city: Yerevan
+      country: Armenia
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Shadow Fight 2
+      - Shadow Fight 3
+      - Vector
+      - Spine
+    added_at: '2026-11-08T20:25:14.021Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NoExit Games
+    url: https://www.noexitgames.com/
+    description: Mobile studio making casual and puzzle games such as CooKingdom and Match 3 Tiles.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2022
+    notable:
+      - CooKingdom
+      - Match 3 Tiles
+    social:
+      instagram: https://www.instagram.com/noexitgames/
+      linkedin: https://www.linkedin.com/company/noexit-games/
+      x: https://twitter.com/NoexitGames
+    added_at: '2026-11-08T20:25:14.022Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hypermonk Games
+    url: https://hypermonkgames.com/
+    description: Mobile developer of car and racing games such as Drift 2 Drag, Dyno 2 Race and Highway Overtake.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Drift 2 Drag
+      - Dyno 2 Race
+      - Count and Bounce
+    added_at: '2026-11-08T20:25:14.023Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mage Games
+    url: https://magegames.com/
+    description: Mobile studio crafting competitive PvP games, including the football game Goal Battle.
+    hq:
+      city: Izmir
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Goal Battle
+    social:
+      instagram: https://www.instagram.com/magegamescom/
+      linkedin: https://www.linkedin.com/company/magegames/
+    added_at: '2026-11-08T20:25:14.024Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rotatelab
+    url: https://rotatelab.com/
+    description: Independent mobile studio of 21 people making 3D block and sorting puzzle games such as Cube Land and Sort Land.
+    hq:
+      city: Gaziantep
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Cube Land
+      - Sort Land
+    added_at: '2026-11-08T20:25:14.025Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AzDimension
+    url: https://azdimension.az/en
+    description: Game development studio making PC, console and mobile games plus XR and interactive projects, active for 16+ years.
+    hq:
+      city: Baku
+      country: Azerbaijan
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    added_at: '2026-11-08T20:25:14.026Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nice Plans Studio
+    url: https://niceplans.studio/
+    description: Mobile studio from the makers of Tacticool, developing the 3v3 hero shooter Ricochet Squad.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ricochet Squad
+    added_at: '2026-11-08T20:25:14.027Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wendigo Games
+    url: https://wendigo.games/
+    description: 'Indie studio making PC games such as Orpheus: Tale of a Lover, Wrap House Simulator and Pizza House Simulator.'
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - 'Orpheus: Tale of a Lover'
+      - WHAT THE PAK
+      - Wrap House Simulator
+      - Pizza House Simulator
+    social:
+      instagram: https://www.instagram.com/wendigo.games
+      x: https://twitter.com/wendigo_games
+    added_at: '2026-11-08T20:25:14.028Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CubeCube Sports
+    url: https://www.cubecubesports.com/
+    description: Indie studio making physics-based simulation games for PC and consoles, including Barista Simulator and BBQ Simulator.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2014
+    notable:
+      - Barista Simulator
+      - 'BBQ Simulator: The Squad'
+      - 'Camping Simulator: The Squad'
+      - 'Medieval Crafter: Blacksmith'
+    added_at: '2026-11-08T20:25:14.029Z'
+  - name: Vertigo Games (Istanbul)
+    url: https://vertigogames.co/
+    description: Mobile developer and self-publisher of midcore real-time multiplayer shooters such as Critical Strike and Polygun Arena.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Critical Strike
+      - Polygun Arena
+    added_at: '2026-11-08T20:25:14.030Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: APPS
+    url: https://apps.com.tr/
+    description: Mobile game developer and publisher of word and casual games, including A Word Game and Fashion Battle.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - A Word Game
+      - Fashion Battle
+      - 'Drill and Collect: Idle Miner'
+      - Detective Puzzles
+    added_at: '2026-11-08T20:25:14.031Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Just Add Water
+    url: https://justaddwaterdevelopment.com/
+    description: Leeds game developer of VR and console titles, including work on the Oddworld and Sniper Elite VR series.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    founded: 2006
+    notable:
+      - Dig VR
+      - Sniper Elite VR
+      - 'Doctor Who: The Edge of Reality'
+      - 'Oddworld: New ''n'' Tasty'
+    social:
+      instagram: https://www.instagram.com/justaddwaterdev
+      linkedin: https://www.linkedin.com/company/just-add-water-development/
+    added_at: '2026-11-08T20:25:14.032Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Radical Forge
+    url: https://radicalforge.com/
+    description: Manchester game studio doing co-development and original projects for PC and console publishers.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+      - console
+    social:
+      instagram: https://www.instagram.com/radicalforge/
+      linkedin: https://www.linkedin.com/company/radical-forge-ltd/
+    added_at: '2026-11-08T20:25:14.033Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Firebrand Games
+    url: https://www.firebrandgames.com/
+    description: Glasgow developer making licensed and branded games for large publishers since 2006, with a US office.
+    hq:
+      city: Glasgow
+      country: United Kingdom
+    offices:
+      - city: Orlando
+        country: United States
+    segments:
+      - co-dev
+    founded: 2006
+    added_at: '2026-11-08T20:25:14.034Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Distinctive Games
+    url: https://www.distinctivegames.com/
+    description: Sheffield studio founded in 1994, now making mobile sports games.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 1994
+    notable:
+      - Rugby Nations 22
+    social:
+      instagram: https://www.instagram.com/distinctivegame/
+    added_at: '2026-11-08T20:25:14.035Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fish in a Bottle
+    url: https://www.fishinabottle.com/
+    description: Warwick studio making educational and serious games for clients in learning, health and culture.
+    hq:
+      city: Warwick
+      country: United Kingdom
+    segments:
+      - kids-edu
+      - co-dev
+    founded: 2003
+    added_at: '2026-11-08T20:25:14.036Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

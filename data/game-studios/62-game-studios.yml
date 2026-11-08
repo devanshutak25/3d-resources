@@ -1,0 +1,870 @@
+studios:
+  - name: Dramatic Iceberg
+    url: https://dramaticiceberg.it/
+    description: Indie studio behind the cozy gardening game Garden In!
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Garden In!
+    added_at: '2026-11-08T20:25:13.887Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Katabasi Studio
+    url: https://www.katabasistudio.com/
+    description: Startup making narrative games such as Freud's Bones and HR games for companies.
+    hq:
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Freud's Bones-the game
+    social:
+      instagram: https://www.instagram.com/katabasi_studio/
+    added_at: '2026-11-08T20:25:13.888Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Red Sky Games
+    url: https://redskygames.com/en/
+    description: Premium indie studio behind the roguelite twin-stick shooter Two Sides of Hell, also offering development services.
+    hq:
+      city: Cologno Monzese
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    careers: https://redskygames.com/en/careers/
+    notable:
+      - Two Sides of Hell
+    social:
+      instagram: https://www.instagram.com/red_sky_games/
+      youtube: https://www.youtube.com/@RedSky_Games_
+    added_at: '2026-11-08T20:25:13.889Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Megalith Interactive Studios
+    url: https://www.megalithinteractive.com/
+    description: 'Sardinian software house behind IDILI: Awakens, a mystery adventure set in an archaeological park.'
+    hq:
+      city: Isili
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'IDILI: Awakens'
+    social:
+      linkedin: https://www.linkedin.com/company/megalith-interactive-studios/
+    added_at: '2026-11-08T20:25:13.890Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Beehive Studios
+    url: https://www.beehivegamestudios.com/
+    description: 'Indie studio behind the monster-collecting RPG LumenTale: Memories of Trey.'
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'LumenTale: Memories of Trey'
+    added_at: '2026-11-08T20:25:13.891Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Black Flamingo Games
+    url: https://blackflamingogames.com/
+    description: Small remote indie team behind Frog Pond Simulator.
+    hq:
+      country: Italy
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Frog Pond Simulator
+    added_at: '2026-11-08T20:25:13.892Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Domynyo
+    url: https://www.domynyo.com/
+    description: Indie studio making games for PC and consoles, such as the survival adventure OneTry.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - OneTry
+    social:
+      instagram: https://www.instagram.com/domynyo/
+      youtube: https://www.youtube.com/@domynyo_official
+    added_at: '2026-11-08T20:25:13.893Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Curtel Games
+    url: https://curtelgames.com/
+    description: 'Indie studio behind the narrative card-combat game The Ballad Singer: Knights Templar.'
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'The Ballad Singer: Knights Templar'
+    social:
+      instagram: https://www.instagram.com/curtelgames
+    added_at: '2026-11-08T20:25:13.894Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Carrot Game Studio
+    url: https://carrotgamestudio.com/
+    description: Indie studio making games and 3D art, including the logistics strategy game Italia 1915-1918.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Italia 1915–1918: Great War Logistics'
+    added_at: '2026-11-08T20:25:13.895Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Cima
+    url: https://www.studiocimagames.com/
+    description: Indie studio founded in 2019, behind the surreal action platformer The Perfect Pencil.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - The Perfect Pencil
+    added_at: '2026-11-08T20:25:13.896Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bob's Cult Studio
+    url: https://bobscult.com/
+    description: Indie team behind the mystery adventure Necrologium.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Necrologium
+    social:
+      instagram: https://www.instagram.com/bobscult_team
+    added_at: '2026-11-08T20:25:13.897Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BitBorne Studio
+    url: https://bitbornestudio.com/
+    description: Indie studio made up of friends, behind the underground mining adventure Goblin Company.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Goblin Company
+    social:
+      instagram: https://www.instagram.com/bitbornestudio
+    added_at: '2026-11-08T20:25:13.898Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Intrugli Games
+    url: https://www.intrugligames.com/
+    description: Independent studio making surreal, atmospheric games such as Our Metal Bowl.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Our Metal Bowl
+    social:
+      youtube: https://www.youtube.com/@intrugligames
+    added_at: '2026-11-08T20:25:13.899Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sirio Art Games
+    url: https://www.sirioartgames.com/
+    description: Indie studio behind the hand-drawn point-and-click adventure Occulto.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Occulto
+    social:
+      instagram: https://www.instagram.com/sirioartgames
+    added_at: '2026-11-08T20:25:13.900Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Games On A Chair
+    url: https://gamesonachair.dev/
+    description: Indie studio behind the PSX-style horror game FEED IT.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - FEED IT
+    social:
+      linkedin: https://www.linkedin.com/company/games-on-a-chair/
+    added_at: '2026-11-08T20:25:13.901Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Paezo Hellas
+    url: https://english.paezo.gr/
+    description: Independent studio making and publishing original games such as Neoblazer and Captain Dodger.
+    hq:
+      city: Athens
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    careers: https://english.paezo.gr/careers
+    notable:
+      - Neoblazer
+      - Captain Dodger
+    social:
+      youtube: https://www.youtube.com/@PaezoHellas
+    added_at: '2026-11-08T20:25:13.902Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tamasenco
+    url: https://tamasenco.com/
+    description: Mobile developer of casual and idle games such as Wild West Saga and Travel Tycoon Greece.
+    hq:
+      city: Marousi
+      country: Greece
+    offices:
+      - city: Nicosia
+        country: Cyprus
+      - city: Limassol
+        country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    careers: https://tamasenco.com/careers/
+    notable:
+      - 'Wild West Saga: Idle Tycoon Clicker'
+      - Travel Tycoon Greece
+      - Unveil Greece
+    added_at: '2026-11-08T20:25:13.903Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RedSoup Studio
+    url: https://www.redsoupstudio.com/
+    description: Indie studio behind the narrative adventure Westwood Shadows.
+    hq:
+      country: Greece
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Westwood Shadows
+    social:
+      linkedin: http://linkedin.com/company/redsoup-studio
+      instagram: https://www.instagram.com/redsoupstudio/
+    added_at: '2026-11-08T20:25:13.904Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Iphigames
+    url: https://www.iphigames.com/
+    description: Dark and horror indie game developer and publisher that also runs a 3D art service arm.
+    hq:
+      country: Greece
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Skaramazuzu
+      - Abtos Covert
+      - Haunted Bloodlines
+    social:
+      instagram: https://www.instagram.com/iphigames/
+      youtube: https://www.youtube.com/@iphigames
+    added_at: '2026-11-08T20:25:13.905Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Artificer
+    url: https://www.artificer.com/
+    description: Warsaw game studio within Devolver Digital, developer of the tactical RPG Showgunners.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Devolver Digital
+    notable:
+      - Showgunners
+    added_at: '2026-11-08T20:25:13.906Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Event Horizon
+    url: https://evehor.com/
+    description: Gdynia developer of tactical party RPGs, including Tower of Time and Dark Envoy.
+    hq:
+      city: Gdynia
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dark Envoy
+      - Tower of Time
+    added_at: '2026-11-08T20:25:13.907Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Code Horizon
+    url: https://codehorizon.pl/
+    description: Katowice developer and publisher of simulation games such as Gold Mining Simulator and Landscaper Simulator.
+    hq:
+      city: Katowice
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Gold Mining Simulator 2
+      - Gold Mining Simulator
+      - Landscaper Simulator
+      - Giant Machines 2017
+    added_at: '2026-11-08T20:25:13.908Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Critical Hit Games
+    url: https://criticalhit.games/
+    description: Wrocław studio making narrative-driven games, developer of the noir detective adventure Nobody Wants to Die.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - Nobody Wants to Die
+    added_at: '2026-11-08T20:25:13.909Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dark Jay Studio
+    url: https://darkjay.com/
+    description: Gdańsk indie duo developing the roguelite arena auto-shooter Arms of God.
+    hq:
+      city: Gdańsk
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Arms of God
+    added_at: '2026-11-08T20:25:13.910Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gruby Entertainment
+    url: https://grubyentertainment.com/
+    description: Warsaw remote-first studio making action games, developer of the FPS roguelite Deadlink.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - Deadlink
+    added_at: '2026-11-08T20:25:13.911Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MS Games
+    url: https://msgames.pl/
+    description: Warsaw studio developing simulation and puzzle games such as AirportSim and Road Builder.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2018
+    notable:
+      - AirportSim
+      - Road Builder
+      - 'Land of War: The Beginning'
+    added_at: '2026-11-08T20:25:13.912Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pixel Perfect Dude
+    url: https://www.pixelperfectdude.com/en
+    description: 'Kalisz developer of arcade driving and sports games #DRIVE and Ski Jump for mobile, PC and consoles.'
+    hq:
+      city: Kalisz
+      country: Poland
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - '#DRIVE'
+      - Ski Jump
+    added_at: '2026-11-08T20:25:13.913Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kool2Play
+    url: https://www.kool2play.com/
+    description: Warsaw indie developer of PC games including Uragun, Ripperdoc Simulator and Friendship Dungeon.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Uragun
+      - Ripperdoc Simulator
+    added_at: '2026-11-08T20:25:13.914Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: JUJUBEE
+    url: https://jujubee.pl/
+    description: Katowice developer and publisher of strategy, simulation and racing games such as Realpolitiks and Dark Moon.
+    hq:
+      city: Katowice
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Realpolitiks II
+      - 'Realpolitiks 3: Earth and Beyond'
+      - Dark Moon
+      - FLASHOUT 3
+    added_at: '2026-11-08T20:25:13.915Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ovid Works
+    url: https://ovidworks.com/
+    description: Warsaw developer of PC, console and VR games, best known for the Kafka-inspired adventure Metamorphosis.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Metamorphosis
+    added_at: '2026-11-08T20:25:13.916Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Orchid Games
+    url: https://www.orchidgames.com/
+    description: Warsaw mobile studio making free-to-play solitaire card games such as Solitaire Dreams and Collector Solitaire.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Solitaire Dreams
+      - Collector Solitaire
+      - Solitaire Royals
+    added_at: '2026-11-08T20:25:13.917Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Last Qubit
+    url: https://lastqubit.com/
+    description: Warsaw Unity studio porting and co-developing casual games for PC, Switch, PlayStation, Xbox and mobile, plus own indie titles.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    added_at: '2026-11-08T20:25:13.918Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ice Code Games
+    url: https://icecodegames.com/
+    description: Warsaw studio making tactical and strategy games, developer of Hard West 2 and Rogue Waters.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Hard West 2
+      - Rogue Waters
+      - Nightmare Frontier
+    added_at: '2026-11-08T20:25:13.919Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Iron Wolf Studio
+    url: https://ironwolfstudio.com/
+    description: 'Polish studio making historical war simulators such as Destroyer: The U-Boat Hunter and Sherman Commander.'
+    hq:
+      city: Katowice
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - 'Destroyer: The U-Boat Hunter'
+      - Sherman Commander
+    added_at: '2026-11-08T20:25:13.920Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Polished Games
+    url: https://polishedgames.com/
+    description: Wrocław indie studio making PC strategy and RPG games such as Be My Horde, Realms of Magic and Here Comes the Horde.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Realms of Magic
+      - Here Comes the Horde
+      - Be My Horde
+    added_at: '2026-11-08T20:25:13.921Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pyramid Games
+    url: https://pyramid.games/
+    description: Lublin developer of simulation games including Occupy Mars, Dinosaur Fossil Hunter and Rover Mechanic Simulator.
+    hq:
+      city: Lublin
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Occupy Mars: The Game'
+      - Dinosaur Fossil Hunter
+      - Rover Mechanic Simulator
+    added_at: '2026-11-08T20:25:13.922Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Quite OK Games
+    url: https://quiteokgames.com/
+    description: 'Warsaw indie studio behind the mountain city builder Laysara: Summit Kingdom and the puzzle game Reshine.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - 'Laysara: Summit Kingdom'
+      - Reshine
+    added_at: '2026-11-08T20:25:13.923Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Something Random
+    url: https://somethingrandom.com/
+    description: Łódź VR studio founded by former SUPERHOT developers, maker of Harpagun and Toy Trains.
+    hq:
+      city: Łódź
+      country: Poland
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Harpagun
+      - Toy Trains
+    added_at: '2026-11-08T20:25:13.924Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: President Studio
+    url: https://www.president-studio.com/
+    description: Warsaw developer and publisher of simulation and builder games, including Crime Scene Cleaner and Viking City Builder.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Crime Scene Cleaner
+      - Viking City Builder
+      - Celestial Empire
+      - Ship Builder
+    added_at: '2026-11-08T20:25:13.925Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Astronauts
+    url: https://www.theastronauts.com/
+    description: Warsaw independent developer of the dark fantasy shooter Witchfire and The Vanishing of Ethan Carter.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Witchfire
+      - The Vanishing of Ethan Carter
+    added_at: '2026-11-08T20:25:13.926Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spectral Games
+    url: https://www.spectralgames.com/
+    description: Katowice studio active since 2009, developer of the Meta Quest VR game The Lightkeepers.
+    hq:
+      city: Katowice
+      country: Poland
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    founded: 2009
+    notable:
+      - The Lightkeepers
+    added_at: '2026-11-08T20:25:13.927Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Space Boat Studios
+    url: https://spaceboatstudios.com/
+    description: Łódź developer of simulation and party games such as Pirate Simulator, Holy Cow! and Dystopians.
+    hq:
+      city: Łódź
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pirate Simulator
+      - Holy Cow!
+      - Dystopians
+    added_at: '2026-11-08T20:25:13.928Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VARSAV Game Studios
+    url: https://www.varsav.com/
+    description: Warsaw developer and publisher of PC and console games including Bee Simulator, Everdream Valley and Barkour.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    notable:
+      - Bee Simulator
+      - Everdream Valley
+      - Giants Uprising
+      - Barkour
+    added_at: '2026-11-08T20:25:13.929Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yaza Games
+    url: https://www.yazagames.com/
+    description: 'Warsaw indie studio behind the cozy medieval manuscript-making sim Scriptorium: Master of Manuscripts.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - 'Scriptorium: Master of Manuscripts'
+    added_at: '2026-11-08T20:25:13.930Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Whitemoon Games
+    url: https://www.whitemoon.com/
+    description: Wrocław developer and publisher of the browser and client MMORPGs Broken Ranks and The Pride of Taern.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    founded: 2008
+    notable:
+      - Broken Ranks
+      - The Pride of Taern
+    added_at: '2026-11-08T20:25:13.931Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Far From Home
+    url: https://www.farfromhomegames.com/
+    description: Wrocław developer of the airship survival game Forever Skies for PC and PlayStation.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Forever Skies
+    added_at: '2026-11-08T20:25:13.932Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gaming Factory
+    url: https://gamingfactory.pl/
+    description: 'Warsaw developer and publisher of simulation and racing games, including JDM: Japanese Drift Master and Electrician Simulator.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'JDM: Japanese Drift Master'
+      - Electrician Simulator
+    added_at: '2026-11-08T20:25:13.933Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dark Point Games
+    url: https://darkpointgames.com/
+    description: 'Toruń developer of action RPGs Achilles: Legends Untold and Achilles: Survivor.'
+    hq:
+      city: Toruń
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2019
+    notable:
+      - 'Achilles: Legends Untold'
+      - 'Achilles: Survivor'
+      - Brightfall
+    added_at: '2026-11-08T20:25:13.934Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Exit Plan Games
+    url: https://www.exitplangames.com/
+    description: 'Warsaw indie studio behind the 3D collect-a-thon platformer Bang-On Balls: Chronicles.'
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Bang-On Balls: Chronicles'
+    added_at: '2026-11-08T20:25:13.935Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lichthund
+    url: https://lichthund.com/
+    description: Warsaw studio making unconventional management and action games, including Food Truck Empire.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Food Truck Empire
+      - Das Uber Fantastisch
+    added_at: '2026-11-08T20:25:13.936Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

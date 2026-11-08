@@ -1,0 +1,875 @@
+studios:
+  - name: Aeternum Game Studios
+    url: https://aeternathegame.com/
+    description: Studio behind the metroidvania Aeterna Noctis and its follow-ups Summum Aeterna and Aeterna Lucis.
+    hq:
+      city: Talavera de la Reina
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Aeterna Noctis
+      - Summum Aeterna
+    added_at: '2026-11-08T20:25:13.837Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Broken Bird Games
+    url: https://brokenbirdgames.com/
+    description: Small Canary Islands indie studio behind the psychological horror game Luto.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Luto
+    added_at: '2026-11-08T20:25:13.838Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vermila Studios
+    url: https://vermila.com/
+    description: 'Boutique studio making the survival horror game Crisol: Theater of Idols and providing 2D, 3D, animation and tech art outsourcing.'
+    hq:
+      country: Spain
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Crisol: Theater of Idols'
+    social:
+      instagram: https://www.instagram.com/vermilastudios/
+      x: https://twitter.com/vermilastudios
+    added_at: '2026-11-08T20:25:13.839Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Obscure Tales
+    url: https://obscuretales.com/
+    description: Indie team making pixel-art survival horror games, including Lamentum and INANIMA.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Lamentum
+    added_at: '2026-11-08T20:25:13.840Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Meteorbyte Studios
+    url: https://meteorbytestudios.com/
+    description: Game development and porting studio, creator of WOODPUNK and DECKRX, also offering publishing and game services.
+    hq:
+      country: Spain
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Woodpunk
+    added_at: '2026-11-08T20:25:13.841Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ImaginationOverflow
+    url: https://imaginationoverflow.com/
+    description: Studio developing and porting games for PC, Switch, PlayStation and Xbox, including its own game Oirbo.
+    hq:
+      country: Portugal
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2011
+    notable:
+      - Oirbo
+    social:
+      instagram: https://www.instagram.com/imaginationoverflow/
+      linkedin: https://www.linkedin.com/company/imaginationoverflow
+      youtube: https://www.youtube.com/channel/UC_zdox2LIm3eapKAMm0I_9w
+    added_at: '2026-11-08T20:25:13.842Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pandereta Estudio
+    url: https://panderetaestudio.com/
+    description: Mobile word and trivia game studio behind Atriviate, plus Ruletras, Lingo! and Roscopalabra.
+    hq:
+      city: Arroyomolinos
+      country: Spain
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Atriviate
+      - Ruletras
+      - Roscopalabra
+    added_at: '2026-11-08T20:25:13.843Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VirtualAge Games
+    url: https://virtualage.io/
+    description: VR game studio behind Gladius and the Guardians series for Meta Quest and PC.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Gladius
+      - Guardians Frontline
+    social:
+      x: https://twitter.com/virtualagegames
+      youtube: https://www.youtube.com/channel/UC0eOZz2_GCcmeWqaDU7fYKQ
+    added_at: '2026-11-08T20:25:13.844Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Appocalypse Games
+    url: https://appocalypsegames.com/
+    description: 'Indie studio behind Bowling Over It, Beyond the Pitch and Dr. Machine: Brain Hacking, sold on PC and mobile stores.'
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2016
+    notable:
+      - Bowling Over It
+      - 'Kaydy Cain: Reggaeton Salvation'
+      - Beyond the Pitch
+    social:
+      instagram: https://www.instagram.com/appocalypsegames/
+      youtube: https://www.youtube.com/@appocalypse333
+    added_at: '2026-11-08T20:25:13.845Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cocodrolo Games
+    url: https://es.cocodrologames.com/
+    description: Indie studio making casual mobile, simulation and narrative games with educational value.
+    hq:
+      city: Molins de Rei
+      country: Spain
+    segments:
+      - indie
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - pc
+    added_at: '2026-11-08T20:25:13.846Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DYA Games
+    url: https://dyagames.com/
+    description: Indie studio making retro-flavoured games such as Evil Tonight, Viviette, Strikey Sisters and Bot Vice.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Evil Tonight
+      - Viviette
+      - Strikey Sisters
+      - Bot Vice
+    added_at: '2026-11-08T20:25:13.847Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AgeofGames
+    url: https://www.ageofgames.net/
+    description: Indie studio making PC strategy games such as Chroma Wars, plus educational titles.
+    hq:
+      city: Bari
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Chroma Wars
+    added_at: '2026-11-08T20:25:13.848Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Evil
+    url: https://www.studioevil.com/
+    description: Indie studio behind the Syder shoot-em-ups that also co-develops games for other studios.
+    hq:
+      city: Bologna
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Syder Reloaded
+      - Retro Gadgets (co-dev)
+    social:
+      instagram: http://instagram.com/studioevil
+    added_at: '2026-11-08T20:25:13.849Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Caracal Games
+    url: https://www.caracalgames.com/
+    description: Independent studio making action and exploration games such as Star Overdrive and Downward.
+    hq:
+      city: Rome
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - Star Overdrive
+      - Downward
+      - OkunoKA Madness
+    added_at: '2026-11-08T20:25:13.850Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dragonkin Studios
+    url: https://www.dragonkinstudios.com/en/
+    description: 'Game developer making PC games such as Monastery: Ora et Labora, plus serious games and VR training apps.'
+    hq:
+      city: Siracusa
+      country: Italy
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - vr
+    notable:
+      - 'Monastery: Ora et Labora'
+    social:
+      instagram: https://www.instagram.com/dragonkin_studios/
+      linkedin: https://www.linkedin.com/company/10230554/
+    added_at: '2026-11-08T20:25:13.851Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Heartbit Interactive
+    url: https://www.heartbit-interactive.com/
+    description: Indie studio behind the Doom & Destiny comedy RPG series and Nerd Survivors.
+    hq:
+      city: Pontenure
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Doom & Destiny
+      - Doom & Destiny Worlds
+      - Nerd Survivors
+    added_at: '2026-11-08T20:25:13.852Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Innervoid Interactive
+    url: http://www.innervoid.net/
+    description: 'Independent studio making RPG and management games such as Dustgrave and Chef: A Restaurant Tycoon Game.'
+    hq:
+      city: Nicolosi
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Dustgrave: A Sandbox RPG'
+      - 'Chef: A Restaurant Tycoon Game'
+      - 'ICY: Frostbite Edition'
+    added_at: '2026-11-08T20:25:13.853Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Maze Well Lab
+    url: https://www.mazewelllab.com/
+    description: Small Sicilian indie studio behind the pixel-art roguelite Just a Lullaby.
+    hq:
+      city: Comiso
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Just a Lullaby
+    added_at: '2026-11-08T20:25:13.854Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Open Lab Games
+    url: https://open-lab.com/
+    description: Game studio making original narrative games and serious games for clients.
+    hq:
+      city: Florence
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Football Drama
+      - Roller Drama
+      - Becoming Saint
+    added_at: '2026-11-08T20:25:13.855Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CINIC Games
+    url: https://cinicgames.com/
+    description: Indie studio behind the point-and-click adventure The Wardrobe and Extra Coin.
+    hq:
+      city: Florence
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Wardrobe
+      - Extra Coin
+    social:
+      instagram: https://www.instagram.com/cinicgames
+      linkedin: https://www.linkedin.com/company/cinic-games/
+    added_at: '2026-11-08T20:25:13.856Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Italian Games Factory
+    url: https://www.italiangamesfactory.com/
+    description: Independent studio making space combat games such as Hell Galaxy.
+    hq:
+      city: Bologna
+      country: Italy
+    offices:
+      - city: Milan
+        country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://www.italiangamesfactory.com/careers/
+    notable:
+      - Hell Galaxy
+      - Haunted Space
+    added_at: '2026-11-08T20:25:13.857Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BR-Digital
+    url: https://www.br-digital.it/
+    description: 'Small studio in South Tyrol making story-driven PC games such as IMAGO: Beyond the Nightmares.'
+    hq:
+      city: Tirolo
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'IMAGO: Beyond the Nightmares'
+    added_at: '2026-11-08T20:25:13.858Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Volcanite Games
+    url: https://volcanite.games/
+    description: Indie studio making mechanics-driven games and strategy DLC for other publishers.
+    hq:
+      city: Turin
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Gambit Shifter
+      - 'Panzer Corps 2: Frontlines - Cyrenaica'
+    social:
+      linkedin: https://www.linkedin.com/company/volcanitegames
+      instagram: https://www.instagram.com/volcanite.games/
+    added_at: '2026-11-08T20:25:13.859Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tmesis Studio
+    url: https://tmesistudio.com/
+    description: Micro game design studio behind Universe For Sale.
+    hq:
+      city: Turin
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Universe For Sale
+    social:
+      instagram: https://www.instagram.com/tmesis_studio/
+    added_at: '2026-11-08T20:25:13.860Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Monkeys Tales Studio
+    url: https://monkeystales.xyz/it
+    description: 'Indie studio making narrative and graphic adventures such as A Painter''s Tale: Curon, 1950.'
+    hq:
+      city: Bologna
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'A Painter''s Tale: Curon, 1950'
+      - PROTOThYPE
+      - The NADI Project
+    social:
+      instagram: https://www.instagram.com/monkeys_tales
+      youtube: https://www.youtube.com/@monkeys_tales
+    added_at: '2026-11-08T20:25:13.861Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Strelka Games
+    url: https://strelkagames.com/
+    description: Game studio behind the racing manager Golden Lap and the shooter Hell is Others.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://strelkagames.com/work-with-us
+    notable:
+      - Golden Lap
+      - Hell is Others
+      - Circle of Sumo
+    social:
+      linkedin: https://www.linkedin.com/company/strelka-games
+    added_at: '2026-11-08T20:25:13.862Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: IV Productions
+    url: https://www.ivproductions.it/
+    description: 'Long-running game developer making PC and VR games such as RIOT: Civil Unrest and Kring.'
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+    notable:
+      - 'RIOT: Civil Unrest'
+      - Kring
+      - VR Ping Pong Pro
+    added_at: '2026-11-08T20:25:13.863Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamera Interactive
+    url: http://www.gamerainteractive.it/
+    description: 'Game development label behind Alaloth: Champions of The Four Kingdoms and a catalogue of small PC games.'
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Alaloth: Champions of The Four Kingdoms'
+      - Fearful Symmetry & The Cursed Prince
+    added_at: '2026-11-08T20:25:13.864Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 906 Games
+    url: https://www.906games.com/
+    description: Independent team making video games and interactive concert experiences.
+    hq:
+      city: Como
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - Unblock
+    added_at: '2026-11-08T20:25:13.865Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ACGames
+    url: https://acgames.it/
+    description: 'Italian indie studio behind the co-op puzzle game Codename: Terranova.'
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Codename: Terranova'
+    added_at: '2026-11-08T20:25:13.866Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Broken Arms Games
+    url: https://www.brokenarmsgames.com/
+    description: Indie studio making simulation and management games such as Hundred Days and Under Par Golf Architect.
+    hq:
+      country: Italy
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Hundred Days - Winemaking Simulator
+      - Under Par Golf Architect
+      - ATOMINE
+      - BioEden
+    added_at: '2026-11-08T20:25:13.867Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FutuRats
+    url: https://futurats.com/
+    description: Game development and outsourcing studio providing art and tech services and making its own games.
+    hq:
+      city: Turin
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    careers: https://futurats.com/work-with-us/
+    notable:
+      - 'Warhammer 40,000: Battlesector - Deeds of the Fallen (DLC)'
+    social:
+      linkedin: https://www.linkedin.com/company/futurats
+      instagram: https://www.instagram.com/futurats_studio/
+    added_at: '2026-11-08T20:25:13.868Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Operaludica
+    url: https://operaludica.com/
+    description: Studio making story-driven games based on Italian comics, such as Dragonero.
+    hq:
+      city: Bologna
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dragonero
+    added_at: '2026-11-08T20:25:13.869Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: We Are Muesli
+    url: https://wearemuesli.it/it/
+    description: Studio making narrative and cultural games such as Siheyuan and In Their Shoes.
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    notable:
+      - Siheyuan
+      - In Their Shoes
+      - Cadentia Farnese
+    social:
+      instagram: https://www.instagram.com/wearemuesli_it/
+      linkedin: https://www.linkedin.com/company/we-are-muesli/
+    added_at: '2026-11-08T20:25:13.870Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Whatwapp
+    url: https://whatwapp.com/
+    description: 'Mobile developer of traditional card games such as Scopa: la Sfida.'
+    hq:
+      country: Italy
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://whatwapp.com/it/careers/
+    notable:
+      - 'Scopa: la Sfida'
+      - 'Burraco Italiano: la Sfida'
+    social:
+      linkedin: https://www.linkedin.com/company/whatwapp-entertainment-srl
+    added_at: '2026-11-08T20:25:13.871Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bad Vices Games
+    url: https://www.badvicesgames.com/
+    description: Two-person indie team behind the cooking horror game Ravenous Devils.
+    hq:
+      city: Corridonia
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ravenous Devils
+      - While We Wait Here
+      - Hippocampus
+    social:
+      instagram: https://www.instagram.com/badvicesgames/
+    added_at: '2026-11-08T20:25:13.872Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Corvostudio
+    url: https://www.corvostudio.it/
+    description: Remote studio making WWII shooters such as Easy Red 2.
+    hq:
+      city: Faenza
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - Easy Red 2
+      - It's Raining Fists and Metal
+    added_at: '2026-11-08T20:25:13.873Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: redBit games
+    url: https://www.redbitgames.com/
+    description: Mobile developer of free puzzle games with over 100 million downloads.
+    hq:
+      city: Rome
+      country: Italy
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.redbitgames.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/redbitgames
+      instagram: https://www.instagram.com/redbit_games/
+    added_at: '2026-11-08T20:25:13.874Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Supernova Games Studios
+    url: https://supernovagamesstudio.it/
+    description: Game studio in the Digital Bros group that developed the racing sim Assetto Corsa Rally.
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - simulation
+    platforms:
+      - pc
+    parent: Digital Bros
+    notable:
+      - Assetto Corsa Rally
+    social:
+      linkedin: https://www.linkedin.com/company/supernovagamesstudios/
+    added_at: '2026-11-08T20:25:13.875Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Footprints Games
+    url: https://www.footprintsgames.com/
+    description: Indie studio behind the comedy point-and-click adventure Detective Gallo.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Detective Gallo
+    added_at: '2026-11-08T20:25:13.876Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BitNine Studio
+    url: https://www.bitninestudio.com/
+    description: Small studio founded by two brothers, behind tERRORbane.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - tERRORbane
+    added_at: '2026-11-08T20:25:13.877Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: turbolento games
+    url: https://www.turbolentogames.com/
+    description: Self-funded indie studio behind Placid Plastic Duck Simulator.
+    hq:
+      city: Rome
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Placid Plastic Duck Simulator
+      - Slowly Sliding Ducks
+    added_at: '2026-11-08T20:25:13.878Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Falling Saints
+    url: https://fallingsaints.com/
+    description: 'Indie studio behind the multiplayer racing game Slackers: Carts of Glory.'
+    hq:
+      city: Campobasso
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Slackers - Carts of Glory
+    added_at: '2026-11-08T20:25:13.879Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GhostShark
+    url: https://www.ghostshark.it/
+    description: Game studio making its own titles such as Still There and games for client projects.
+    hq:
+      city: Rome
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Still There
+      - Blockstorm
+    added_at: '2026-11-08T20:25:13.880Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DESTINYbit
+    url: https://www.destinybit.com/
+    description: 13-person studio making strategy games such as Dice Legacy and Empires Apart.
+    hq:
+      city: Ravenna
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dice Legacy
+      - Empires Apart
+      - NITRO GEN OMEGA
+      - Finals Week
+    added_at: '2026-11-08T20:25:13.881Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bad Seed
+    url: https://www.badseed.it/
+    description: Studio making games for core players such as The Beggar's Ride and Crime O'Clock.
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Beggar's Ride
+      - Crime O'Clock
+      - Sleep Attack
+    added_at: '2026-11-08T20:25:13.882Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sedleo
+    url: https://www.sedleo.com/
+    description: Very small indie studio behind the medieval adventure 1348 Ex Voto.
+    hq:
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 1348 Ex Voto
+    added_at: '2026-11-08T20:25:13.883Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dreambits Studio
+    url: https://www.dreambitsstudio.com/
+    description: Team making PC and console games such as War of Wheels, plus VR apps for cultural sites.
+    hq:
+      city: Bologna
+      country: Italy
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    founded: 2021
+    notable:
+      - War of Wheels
+    added_at: '2026-11-08T20:25:13.884Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Antab Studio
+    url: http://www.antabstudio.com/
+    description: Small indie team making PC and console games such as the cyberpunk shooter FORECLOSED.
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - FORECLOSED
+      - 'GRIDD: Retroenhanced'
+    added_at: '2026-11-08T20:25:13.885Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Darkage Software
+    url: https://darkagesoftware.it/
+    description: Developer and publisher of games for Amiga and modern machines, active since 1997.
+    hq:
+      city: Spoleto
+      country: Italy
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Hyper Runner
+      - Eldemar
+      - Alive 2
+    added_at: '2026-11-08T20:25:13.886Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

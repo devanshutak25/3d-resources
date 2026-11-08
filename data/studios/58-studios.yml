@@ -733,3 +733,177 @@ studios:
     added_at: '2026-11-06T14:26:06.251Z'
     url_status: ok
     url_last_verified: '2026-11-06'
+  - name: Immerea
+    url: https://www.immerea.com/
+    description: Indie studio making virtual reality games, art experiences and interactive installations.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - xr
+      - experiential
+      - interactive
+    markets:
+      - games
+      - brand
+    social:
+      instagram: https://www.instagram.com/immerea.studio/
+    added_at: '2026-11-08T20:25:13.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MEDIASQUAD
+    url: https://www.msq.at/
+    description: Extended reality studio building VR and AR training, showroom and marketing apps for industry clients.
+    hq:
+      city: Brixlegg
+      country: Austria
+    offices:
+      - city: Innsbruck
+        country: Austria
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/mediasquad
+      vimeo: https://vimeo.com/mediasquad
+    added_at: '2026-11-08T20:25:13.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fusion.Robot
+    url: https://fusion-robot.ch/
+    description: Studio founded in 2016 that builds serious games, interactive installations and websites for festivals, brands and museums.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - games
+      - brand
+    founded: 2016
+    notable:
+      - Lichtfestival Luzern installations
+      - Peugeot showroom installation
+      - Cardio Adventure
+    social:
+      instagram: https://www.instagram.com/fusion.robot/
+      linkedin: https://www.linkedin.com/company/fusion-robot
+    added_at: '2026-11-08T20:25:13.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Turnip + Duck
+    url: https://www.turnipandduck.com/
+    description: Writer-led creator studio developing and producing 2D kids' comedy series such as Maddie + Triggs.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Maddie + Triggs
+    social:
+      instagram: https://www.instagram.com/turnipandduck/
+      linkedin: https://www.linkedin.com/company/turnipandduck
+    added_at: '2026-11-08T20:25:13.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Revelator
+    url: https://revelatorstudio.com/
+    description: Creator-led animation studio developing original characters and adapting known properties for shorts, series and features.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T20:25:13.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: and maps and plans
+    url: http://andmapsandplans.com/
+    description: Irish animation studio making hand-drawn short films for adult and young audiences.
+    hq:
+      country: Ireland
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Voideden
+      - Tadhana
+      - Teacups
+    social:
+      vimeo: https://vimeo.com/andmapsandplans
+    added_at: '2026-11-08T20:25:13.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Curiosity Studio
+    url: https://curiositystudio.com/
+    description: Research-led creative studio making immersive, experiential and science storytelling projects for brands and cultural clients.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/curiositystudio/
+      linkedin: https://www.linkedin.com/company/curiositystudio/
+    added_at: '2026-11-08T20:25:13.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stylo Motion Design
+    url: https://www.stylo.ie/
+    description: Motion design studio making animation, explainer and VFX work for technology and corporate brands.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Lenovo
+      - Siemens
+      - Cisco
+    social:
+      instagram: https://www.instagram.com/stylomotion/
+      linkedin: https://www.linkedin.com/company/stylo-motion-design/
+    added_at: '2026-11-08T20:25:13.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Magpie 6 Media
+    url: https://magpie6media.com/
+    description: Animation studio founded in 2009 making kids' series, commercials and animated branding.
+    hq:
+      city: Ennis
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    founded: 2009
+    notable:
+      - The Wee Littles
+      - CÚ
+    social:
+      instagram: https://www.instagram.com/magpie6media/
+    added_at: '2026-11-08T20:25:13.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

@@ -1,0 +1,936 @@
+studios:
+  - name: LUEE Animació
+    url: https://luee.studio/
+    description: Independent animation studio that builds small custom teams for author-driven projects such as Valentina de Montblanc.
+    hq:
+      city: Manlleu
+      country: Spain
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-08T20:25:13.730Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Big Bang Box
+    url: https://www.bigbangbox.es/
+    description: Studio making 2D and 3D animation for films, series and spots, plus video games and VR/AR projects.
+    hq:
+      city: Boadilla del Monte
+      country: Spain
+    offices:
+      - city: Salamanca
+        country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/big-bang-box/
+    added_at: '2026-11-08T20:25:13.731Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 23lunes
+    url: https://www.23lunes.studio/
+    description: 3D animation studio directing character animation and cinematics for feature films, advertising and games.
+    hq:
+      city: Badalona
+      country: Spain
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - film
+      - advertising
+      - games
+    added_at: '2026-11-08T20:25:13.732Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Huhaa Studios
+    url: https://www.huhaastudios.com/
+    description: Character rigging service company for animation and video game productions.
+    hq:
+      country: Spain
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+      - episodic
+    added_at: '2026-11-08T20:25:13.733Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rising Pixel
+    url: https://www.risingpixel.com/
+    description: Boutique studio building custom games and gamification for lead generation, corporate training and trade show activations.
+    hq:
+      city: Las Palmas de Gran Canaria
+      country: Spain
+    disciplines:
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.734Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Prexenz
+    url: https://prexenz.com/
+    description: VR, AR and mixed reality studio making interactive heritage, tourism and training visualisations for institutions and companies.
+    hq:
+      city: Mérida
+      country: Spain
+    disciplines:
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.735Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Estudiofuture
+    url: https://estudiofuture.com/
+    description: VR company building immersive training, digital twins and AI avatar solutions for enterprises.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.736Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Viral Studios
+    url: https://www.viralstudios.es/
+    description: Studio developing serious games, VR and mixed reality projects for companies and institutions.
+    hq:
+      city: Badajoz
+      country: Spain
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2016
+    added_at: '2026-11-08T20:25:13.737Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Trix
+    url: https://www.trix.pt/
+    description: Lisbon production company that began as an animation boutique and now makes animation, live action and photography for advertising.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - advertising
+    founded: 1996
+    social:
+      linkedin: https://www.linkedin.com/company/trix-produ-o-audiovisual/
+    added_at: '2026-11-08T20:25:13.738Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BAP Animation Studios
+    url: https://bapstudio.com/
+    description: Animation cooperative of directors, animators and storytellers producing authored animated short films.
+    hq:
+      city: Porto
+      country: Portugal
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Terminal
+    added_at: '2026-11-08T20:25:13.739Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Easylab Animation
+    url: https://www.easylabanimation.com/
+    description: Animation studio making stop-motion and 2D animation for commercial and institutional clients, plus original short films.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - advertising
+      - film
+    notable:
+      - Macabre
+    social:
+      instagram: https://www.instagram.com/easylabanimation/
+      vimeo: https://vimeo.com/easylab
+      behance: https://www.behance.net/easylab
+    added_at: '2026-11-08T20:25:13.740Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: XIRIPITI studio
+    url: https://www.xiripiti.com/
+    description: 2D animation and design studio directing its own projects and providing outsourced animation and visual development.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/xiripiti_studio/
+      vimeo: https://vimeo.com/xiripiti
+    added_at: '2026-11-08T20:25:13.741Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spiceship Studios
+    url: https://spiceshipstudios.com/
+    description: Animation and VFX studio delivering visual effects for film and TV and developing its own authored projects.
+    hq:
+      country: Portugal
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/spiceshipstudios/
+      linkedin: https://www.linkedin.com/company/72185245
+      youtube: https://www.youtube.com/@SpiceshipStudios
+    added_at: '2026-11-08T20:25:13.742Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lusco Fusco Animation
+    url: https://luscofuscoanimation.com/
+    description: 3D animation studio working on short and feature films, TV series and advertising.
+    hq:
+      country: Portugal
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/luscofusco_animation/
+      linkedin: https://www.linkedin.com/company/lusco-fusco-animation/
+    added_at: '2026-11-08T20:25:13.743Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dialogue
+    url: https://www.dialogue.pt/
+    description: Creative studio of illustrators, 3D artists, animators and designers making animation, motion design and illustration for brands.
+    hq:
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/dialogue.pt/
+      linkedin: https://www.linkedin.com/company/dialogue.pt/
+    added_at: '2026-11-08T20:25:13.744Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Os Filmes do Pinguim
+    url: https://osfilmesdopinguim.pt/
+    description: Small animation studio making 2D and 3D short films, series, music videos and institutional films.
+    hq:
+      country: Portugal
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - music-video
+    notable:
+      - Um Mirtilo Canta uma Música Sobre Azul
+      - As 7 Caixas
+    added_at: '2026-11-08T20:25:13.745Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Entropy Studio
+    url: https://www.entropystudio.net/
+    description: 'VFX studio with over 20 years of film and TV work: 3D, compositing, matte painting, animation and motion graphics.'
+    hq:
+      city: Zaragoza
+      country: Spain
+    offices:
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/entropystudiovfx/
+      linkedin: https://www.linkedin.com/company/entropy-studio-corp/
+      vimeo: https://vimeo.com/entropystudio
+    added_at: '2026-11-08T20:25:13.746Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 3VE
+    url: https://www.3ve.es/
+    description: Architectural visualisation studio making photoreal 3D renders, animations, virtual tours and VR for architecture and interior design.
+    hq:
+      city: Valencia
+      country: Spain
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/3ve.es/
+      linkedin: https://www.linkedin.com/company/3ve-es/
+    added_at: '2026-11-08T20:25:13.747Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Metro Cúbico Digital
+    url: https://www.metrocubicodigital.com/
+    description: Architectural visualisation studio making photoreal 3D images and animations for architecture and design projects.
+    hq:
+      city: Guimarães
+      country: Portugal
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/metrocubicodigital/
+      behance: https://www.behance.net/MetroCubicoDigital
+    added_at: '2026-11-08T20:25:13.748Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Perspectiva Interior
+    url: https://perspectivainterior.pt/
+    description: Architectural and product visualisation studio producing marketing imagery for architects, developers and furniture and kitchen makers.
+    hq:
+      country: Portugal
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    founded: 2012
+    social:
+      behance: https://www.behance.net/perspectivainterior/
+      artstation: https://www.artstation.com/perspectivainterior/
+    added_at: '2026-11-08T20:25:13.749Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bolt Virtual
+    url: https://www.boltvirtual.gr/
+    description: XR studio making VR, AR and MR experiences for corporate marketing, culture, research and events.
+    hq:
+      country: Greece
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Pirates on Deck VR
+    added_at: '2026-11-08T20:25:13.750Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Movimenti Production
+    url: https://www.movimenti.com/
+    description: Animation production company making TV series and specials such as Topo Gigio and Tear Along the Dotted Line.
+    hq:
+      city: Milan
+      country: Italy
+    offices:
+      - city: Rome
+        country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    careers: https://www.movimenti.com/00/J0000001/Careers.html
+    notable:
+      - Topo Gigio - The Series
+      - Tear Along the Dotted Line
+    social:
+      linkedin: https://www.linkedin.com/company/movimenti-production-srl/
+      instagram: https://www.instagram.com/movimentiproduction/
+    added_at: '2026-11-08T20:25:13.751Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Light and Color
+    url: https://www.lightcolorstudio.com/
+    description: CGI animation studio producing kids series for Rai Ragazzi such as Giù dal Nido.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Giù dal Nido
+    social:
+      instagram: https://www.instagram.com/lightandcolor_/
+    added_at: '2026-11-08T20:25:13.752Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: T-Rex Digimation
+    url: http://www.t-rexdigimation.com/
+    description: Cartoon studio making animated series for children and teens, such as One Love for Rai Yoyo.
+    hq:
+      city: Cadorago
+      country: Italy
+    offices:
+      - city: Milan
+        country: Italy
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2004
+    notable:
+      - One Love
+      - Gino the Chicken
+    added_at: '2026-11-08T20:25:13.753Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lynx Multimedia Factory
+    url: https://www.lynxmf.com/
+    description: Animation production company making feature films, TV series and commercials.
+    hq:
+      city: Rome
+      country: Italy
+    offices:
+      - city: Milan
+        country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Bartali's Bicycle
+      - Nip & Lena
+      - Giants
+    social:
+      instagram: https://www.instagram.com/lynx_mf/
+      linkedin: https://www.linkedin.com/company/lynx-multimedia-factory/
+    added_at: '2026-11-08T20:25:13.754Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vallaround
+    url: https://vallaround.com/
+    description: Animation studio making original and commissioned content, plus animation training.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/vallaround/
+      linkedin: https://www.linkedin.com/company/vallaround-creative-contents/
+      youtube: https://www.youtube.com/@vallaroundcreativecontents
+    added_at: '2026-11-08T20:25:13.755Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Square Post Production
+    url: https://www.squarepostproduction.com/
+    description: Post-production house offering VFX, 2D and 3D animation, grading and audio for commercials.
+    hq:
+      city: Milan
+      country: Italy
+    offices:
+      - city: Rome
+        country: Italy
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+    added_at: '2026-11-08T20:25:13.756Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Melazeta
+    url: https://www.melazeta.com/
+    description: Digital studio building gamification, XR and AI projects for brands, training and culture.
+    hq:
+      city: Modena
+      country: Italy
+    offices:
+      - city: Milan
+        country: Italy
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    careers: https://www.melazeta.com/career
+    social:
+      linkedin: https://it.linkedin.com/company/melazeta-srl
+      instagram: https://www.instagram.com/melazeta_srl/
+    added_at: '2026-11-08T20:25:13.757Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AnotheReality
+    url: https://www.anothereality.io/
+    description: Studio designing XR, interactive 3D, simulation and AI projects for companies.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    careers: https://www.anothereality.io/it/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/anothereality
+      instagram: https://www.instagram.com/anotherealityxr/
+    added_at: '2026-11-08T20:25:13.758Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digital Mosaik
+    url: https://www.digitalmosaik.com/en/
+    description: Studio building virtual worlds, AR and VR experiences for companies and cultural sites.
+    hq:
+      city: Trento
+      country: Italy
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    careers: https://www.digitalmosaik.com/en/work-with-us/
+    notable:
+      - Carta Nostra
+    social:
+      instagram: https://www.instagram.com/digitalmosaik/
+      linkedin: https://www.linkedin.com/company/digitalmosaik/
+    added_at: '2026-11-08T20:25:13.759Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Unspace
+    url: https://www.unspace.it/
+    description: Virtual production studio for LED volume and ICVFX shoots, building real-time environments in Unreal Engine.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - virtual-production
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/unspace.IT/
+      linkedin: https://www.linkedin.com/company/unspacesrl/
+    added_at: '2026-11-08T20:25:13.760Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Loto Studios
+    url: https://www.lotostudios.com/
+    description: Studio making 3D renders and animation, product configurators, AR and VR apps for companies.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - product-viz
+      - 3d-animation
+      - interactive
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/loto.studios/
+      linkedin: https://www.linkedin.com/company/loto-studios/
+      vimeo: https://vimeo.com/lotostudios
+    added_at: '2026-11-08T20:25:13.761Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: D-Wok
+    url: https://www.d-wok.it/
+    description: Entertainment design company making show design, video design, interactive performances and AR content.
+    hq:
+      city: Turin
+      country: Italy
+    disciplines:
+      - experiential
+      - xr
+      - virtual-production
+    markets:
+      - brand
+      - film
+    social:
+      instagram: https://www.instagram.com/dwokvideo/
+      linkedin: https://it.linkedin.com/company/d-wok
+    added_at: '2026-11-08T20:25:13.762Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VRROOM Studio
+    url: https://www.vrroom.it/
+    description: XR production studio making immersive experiences that mix audiovisual, music and games.
+    hq:
+      country: Italy
+    disciplines:
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.763Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Artheria
+    url: https://www.artheria.it/
+    description: Studio developing virtual, augmented and mixed reality experiences such as Vajont VR.
+    hq:
+      country: Italy
+    disciplines:
+      - xr
+    markets:
+      - brand
+    notable:
+      - Vajont VR
+    social:
+      linkedin: https://www.linkedin.com/company/artheria
+    added_at: '2026-11-08T20:25:13.764Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frameworks
+    url: https://www.frameworks.gr/
+    description: VFX studio working on feature films, series and commercials such as KAOS and The Rig.
+    hq:
+      city: Melissia
+      country: Greece
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - KAOS
+      - The Rig
+      - The Expendables 3
+      - Fatal Fury
+    social:
+      instagram: https://www.instagram.com/frameworks.gr/
+    added_at: '2026-11-08T20:25:13.765Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rainbow CGI
+    url: https://www.rbw-cgi.it/
+    description: CGI animation studio of the Rainbow group making 3D animated films, TV and web series, VFX and branded content.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - brand
+    careers: https://www.rbw-cgi.it/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/rainbow-cgi/
+      instagram: https://www.instagram.com/rainbow_cgi/
+    added_at: '2026-11-08T20:25:13.766Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Animation Band
+    url: https://www.theanimationband.com/
+    description: Animation production company making 2D and 3D series for children and teens, such as Mammuk and Stellina.
+    hq:
+      city: Rome
+      country: Italy
+    offices:
+      - city: Manziana
+        country: Italy
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Mammuk
+      - Stellina
+      - Ragazze dell'Olimpo
+      - Lupo Alberto Xmas Holidays
+    social:
+      linkedin: https://www.linkedin.com/company/theanimationband/
+    added_at: '2026-11-08T20:25:13.767Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: M74 Post
+    url: https://www.m74post.com/
+    description: Post-production house doing VFX and motion graphics for films, TV series and commercials, such as Buen Camino.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Buen Camino
+      - Questi Fantasmi
+      - Io non ti lascio solo
+    social:
+      instagram: https://www.instagram.com/m74_post/
+      linkedin: https://www.linkedin.com/company/m74-post/
+      youtube: https://www.youtube.com/@M74Post
+    added_at: '2026-11-08T20:25:13.768Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Alchemiq Studio
+    url: https://alchemiqstudio.com/
+    description: Poznań production studio making 2D/3D animated ads, explainers, CGI product films and VFX for brands.
+    hq:
+      city: Poznań
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T20:25:13.769Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Anima-Pol
+    url: https://www.animapol.pl/
+    description: Łódź animation studio producing children's series and films in 2D, puppet and 3D animation, plus documentaries.
+    hq:
+      city: Łódź
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - film
+    founded: 1989
+    notable:
+      - Pamiętnik Florki
+      - Kaktus i Mały
+      - Tajemnica Kwiatu Paproci
+    added_at: '2026-11-08T20:25:13.770Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BreakThru Films
+    url: https://www.breakthrufilms.pl/
+    description: Sopot producer of painted animation features and shorts, known for Peter and the Wolf, Loving Vincent and The Peasants.
+    hq:
+      city: Sopot
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    founded: 2002
+    notable:
+      - Loving Vincent
+      - The Peasants
+      - Peter and the Wolf
+    added_at: '2026-11-08T20:25:13.771Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Human
+    url: https://www.human.film/
+    description: Warsaw animation and post-production studio, part of Human/PFX, making VFX and 2D/3D animation plus original films and series.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Diplodocus
+      - Casparade
+      - The Lost Town of Świteź
+    added_at: '2026-11-08T20:25:13.772Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Letko
+    url: https://letko.co/
+    description: Warsaw 2D animation studio producing preschool series, shorts and features for broadcasters and co-producers.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2015
+    notable:
+      - Odo
+      - Freddie
+      - Little Chopin
+      - Born Happy
+    social:
+      instagram: https://www.instagram.com/letko_animation_studio/
+      vimeo: https://vimeo.com/user53283121
+    added_at: '2026-11-08T20:25:13.773Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NOLABEL
+    url: https://nolabel.com.pl/
+    description: Kraków VFX and post-production studio creating visual effects and CGI for feature films, series and TV commercials.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Heweliusz
+      - The Doll
+      - Projekt UFO
+      - Deutsches Haus
+    added_at: '2026-11-08T20:25:13.774Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Orange Animation
+    url: https://www.orangeanimation.pl/
+    description: Bielsko-Biała animation studio producing TV series and feature films, plus production services for TV and advertising.
+    hq:
+      city: Bielsko-Biała
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 1995
+    notable:
+      - Space Kicks
+      - Mr. Toti
+      - Iggy the Eagle
+    added_at: '2026-11-08T20:25:13.775Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kinhouse Studio
+    url: https://kinhouse.pl/
+    description: Warsaw production company making auteur animated shorts and VR animation projects.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - film
+    founded: 2020
+    notable:
+      - Aquatia
+      - Świtezianka
+      - Eden House
+    added_at: '2026-11-08T20:25:13.776Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LocoMotive
+    url: https://locomotive.pl/
+    description: Warsaw post-production house offering VFX, 3D animation, compositing, color grading and AI-assisted video for ads and film.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+      - 3d-animation
+      - ai-production
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-08T20:25:13.777Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EGoFILM
+    url: https://egofilm.pl/
+    description: Warsaw animation studio producing preschool series and artistic shorts since 2012.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2012
+    notable:
+      - Kicia Kocia
+      - Żubr Pompik
+      - Wiking Tappi
+      - Kajko i Kokosz
+    social:
+      instagram: https://www.instagram.com/egofilm_studio/
+    added_at: '2026-11-08T20:25:13.778Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Animwood
+    url: https://animwood.com/
+    description: Kraków animation studio making explainer videos, animated ads, mascots and series for businesses and broadcasters.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+      - episodic
+    added_at: '2026-11-08T20:25:13.779Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

@@ -1,0 +1,347 @@
+studios:
+  - name: Beakus
+    url: https://www.beakus.com/
+    description: 2D animation studio in Lewes making series for CBeebies and films for museums, charities and broadcasters.
+    hq:
+      city: Lewes
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - brand
+    founded: 2010
+    social:
+      instagram: https://instagram.com/beakus
+      linkedin: https://www.linkedin.com/company/beakus/
+    added_at: '2026-11-08T20:25:13.880Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KidsCave Studios
+    url: https://www.kidscave.com/
+    description: London IP development and production company making animated kids series such as Robozuna and Kitti Katz.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Robozuna
+      - Kitti Katz
+    social:
+      instagram: https://www.instagram.com/kidscave_studios/
+    added_at: '2026-11-08T20:25:13.881Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lunar FX
+    url: https://lunarfx.co.uk/
+    description: Boutique VFX facility delivering matchmove, rotomation and layout for film and series.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Salzburg
+        country: Austria
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/_lunarfx_/
+      linkedin: https://www.linkedin.com/company/lunar-fx/
+    added_at: '2026-11-08T20:25:13.882Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Miaowito Animation
+    url: https://www.miaowito.co.uk/
+    description: Bristol indie animation studio developing and producing animated stories for children and families.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    social:
+      linkedin: https://www.linkedin.com/company/miaowito-animation/
+    added_at: '2026-11-08T20:25:13.883Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The 2D Workshop
+    url: https://www.the2dworkshop.com/
+    description: Edinburgh 2D animation company covering design, storyboarding, animation and post for online, TV and film.
+    hq:
+      city: Edinburgh
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - brand
+    founded: 2012
+    social:
+      instagram: https://instagram.com/the2dworkshop
+      linkedin: https://www.linkedin.com/company/the-2d-workshop
+    added_at: '2026-11-08T20:25:13.884Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: V+ Animation
+    url: https://www.vplusanimation.com/
+    description: London 2D animation studio combining artists and AI tools for music videos and branded content.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - ai-production
+    markets:
+      - music-video
+      - brand
+    social:
+      instagram: https://www.instagram.com/vplusanimation
+      linkedin: https://www.linkedin.com/company/vplusanimation/
+    added_at: '2026-11-08T20:25:13.885Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Eaglet Films
+    url: https://eagletfilms.com/
+    description: London kids animation production company behind the preschool series Piripenguins.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Piripenguins
+    social:
+      linkedin: https://www.linkedin.com/company/eaglet-films/
+    added_at: '2026-11-08T20:25:13.886Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Liddell
+    url: https://studioliddell.com/
+    description: UK creative technology studio making VR games, AR apps and animation for culture and education clients.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - brand
+      - games
+    founded: 2019
+    added_at: '2026-11-08T20:25:13.887Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tinmouse Animation Studio
+    url: https://www.tinmouseanimation.com/
+    description: London 2D animation production company making commercials, explainers, social and internal comms films.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/tinmouseanimation/
+      linkedin: https://www.linkedin.com/company/tinmouse-animation
+    added_at: '2026-11-08T20:25:13.888Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bonnie & Braw
+    url: https://www.bonnieandbraw.co.uk/
+    description: Edinburgh neurodivergent-led production company making animated cartoons and documentaries.
+    hq:
+      city: Edinburgh
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    social:
+      instagram: https://www.instagram.com/thebonnieandbraw
+    added_at: '2026-11-08T20:25:13.889Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fudge Animation
+    url: https://www.fudgeanimation.com/
+    description: London animation studio making IP, kids and commercial animation, with an office in Farnham.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Farnham
+        country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-08T20:25:13.890Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Koala FX
+    url: https://www.koalafx.co.uk/
+    description: London VFX studio making story-driven visual effects for feature films and series.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - One Life
+    social:
+      instagram: https://www.instagram.com/koala.fx
+      linkedin: https://www.linkedin.com/company/koalafx/
+    added_at: '2026-11-08T20:25:13.891Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spud Gun Studios
+    url: https://www.spudgunstudios.com/
+    description: UK animation studio behind the YouTube channel Mashed, making social-first animation, branded content and original IP.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - games
+    added_at: '2026-11-08T20:25:13.892Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sun & Moon Studios
+    url: https://sunandmoonstudios.co.uk/
+    description: UK animation studio creating animated characters, worlds and games, plus IP development and courses.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+      - brand
+      - games
+    social:
+      vimeo: https://vimeo.com/sunandmoonstudios
+      instagram: https://www.instagram.com/sunandmoon_animation/
+    added_at: '2026-11-08T20:25:13.893Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tentacle Media
+    url: https://www.tentaclemedia.co.uk/
+    description: UK 2D animation production studio making educational, broadcast and online video content.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/tentacle_media/
+    added_at: '2026-11-08T20:25:13.894Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FixFX
+    url: https://www.fixfx.uk/
+    description: UK VFX company working on film and TV, MPAA and TPN security compliant.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/fixvfx/
+    added_at: '2026-11-08T20:25:13.895Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Moodus Righteous Studios
+    url: https://moodusrighteous.co.uk/
+    description: UK independent animation studio making character-driven adult animation and original IP such as The Blib Factory.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - The Blib Factory
+    social:
+      instagram: https://www.instagram.com/moodusrighteous/
+    added_at: '2026-11-08T20:25:13.896Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Immersive Studio
+    url: https://immersivestudio.co.uk/
+    description: Kent studio making projection mapping, free-roam VR, interactive LED walls and real-time 3D for events and brands.
+    hq:
+      city: West Malling
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/immersivestudio_/
+      linkedin: https://www.linkedin.com/company/immersivestudio/
+    added_at: '2026-11-08T20:25:13.897Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Moose Brain Studio
+    url: https://moosebrainstudio.com/
+    description: Kent studio specialising in AI-animated micro-drama series.
+    hq:
+      city: Maidstone
+      country: United Kingdom
+    disciplines:
+      - ai-production
+    markets:
+      - episodic
+    added_at: '2026-11-08T20:25:13.898Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Illusion CGI
+    url: https://www.illusioncgi.com/
+    description: UK studio making 3D and 4D animation, product visualisation and architectural rendering for architects, developers and brands.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+    markets:
+      - real-estate
+      - brand
+    added_at: '2026-11-08T20:25:13.899Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Motion Mapping
+    url: https://www.motionmapping.co.uk/
+    description: UK projection mapping and immersive technology studio creating projection experiences for brands and agencies.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.900Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

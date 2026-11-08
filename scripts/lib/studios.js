@@ -73,7 +73,8 @@ const COUNTRY_REGION = {
   'Peru': 'americas', 'Puerto Rico': 'americas', 'United States': 'americas', 'Uruguay': 'americas',
   'Bolivia': 'americas', 'Guatemala': 'americas', 'Panama': 'americas', 'Venezuela': 'americas',
 
-  'Armenia': 'europe', 'Austria': 'europe', 'Belarus': 'europe', 'Belgium': 'europe',
+  'Armenia': 'europe', 'Austria': 'europe', 'Azerbaijan': 'europe', 'Belarus': 'europe', 'Belgium': 'europe',
+  'Faroe Islands': 'europe',
   'Bosnia and Herzegovina': 'europe', 'Bulgaria': 'europe', 'Croatia': 'europe', 'Cyprus': 'europe',
   'Czech Republic': 'europe', 'Denmark': 'europe', 'Estonia': 'europe', 'Finland': 'europe',
   'France': 'europe', 'Georgia': 'europe', 'Germany': 'europe', 'Greece': 'europe',

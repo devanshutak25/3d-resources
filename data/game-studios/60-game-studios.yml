@@ -1,0 +1,862 @@
+studios:
+  - name: Project Sunset
+    url: https://projectsunset.de/
+    description: Cologne indie studio behind Staged, a chaotic co-op party game.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Staged
+    social:
+      linkedin: https://www.linkedin.com/company/98124163
+    added_at: '2026-11-08T20:25:13.787Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Quad Head
+    url: https://quadhead.games/
+    description: Four-person studio behind Pratfall, a co-op cave-digging game for PC.
+    hq:
+      city: Leverkusen
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pratfall
+    added_at: '2026-11-08T20:25:13.788Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rat King Entertainment
+    url: https://www.ratking.de/
+    description: 'Small Halle studio making indie games and interactive works, known for TRI: Of Friendship and Madness.'
+    hq:
+      city: Halle
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'TRI: Of Friendship and Madness'
+    added_at: '2026-11-08T20:25:13.789Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Realgames
+    url: https://realgames.dev/
+    description: Indie studio behind Bearskull, a free top-down dungeon adventure, with Mindreaders in development.
+    hq:
+      city: Datteln
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Bearskull
+    added_at: '2026-11-08T20:25:13.790Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sleeprunner Studios
+    url: https://sleeprunnerstudios.com/
+    description: Bayreuth studio making family adventure games and offering development services.
+    hq:
+      city: Bayreuth
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - 'Windstorm: Start of a Great Friendship Remastered'
+    social:
+      instagram: https://www.instagram.com/sleeprunner_studios/
+      linkedin: https://www.linkedin.com/company/sleeprunner-studios/
+    added_at: '2026-11-08T20:25:13.791Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spaceflower
+    url: https://spaceflower.de/
+    description: Small Nuremberg studio behind the city-builder Let Them Trade.
+    hq:
+      city: Nuremberg
+      country: Germany
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Let Them Trade
+    added_at: '2026-11-08T20:25:13.792Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stonebrick Studios
+    url: https://www.stonebrickstudios.com/
+    description: Studio behind cyubeVR, a procedurally generated voxel world built for VR.
+    hq:
+      city: Buxtehude
+      country: Germany
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+      - console
+    notable:
+      - cyubeVR
+    social:
+      youtube: https://www.youtube.com/@StonebrickStudios
+    added_at: '2026-11-08T20:25:13.793Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stratosphere Games
+    url: https://www.stratosphere-games.com/
+    description: 'Berlin studio making mobile games such as The Kingdom: Medieval Tales and The Desolation.'
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'The Kingdom: Medieval Tales'
+      - The Desolation
+    social:
+      linkedin: https://www.linkedin.com/company/stratosphere-games-gmbh/
+    added_at: '2026-11-08T20:25:13.794Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Totally Not Aliens
+    url: https://totallynotaliens.com/
+    description: Bamberg indie studio behind All Quiet in the Trenches, an anti-war game set in WWI.
+    hq:
+      city: Bamberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - All Quiet in the Trenches
+    social:
+      instagram: https://www.instagram.com/totallynotaliens
+      linkedin: https://www.linkedin.com/company/totallynotaliens/
+    added_at: '2026-11-08T20:25:13.795Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VoodooDuck
+    url: https://www.voodooduck.com/
+    description: Duisburg studio making cozy and puzzle games such as Collector's Cove and Growth.
+    hq:
+      city: Duisburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Collector's Cove
+      - Growth
+    social:
+      instagram: https://instagram.com/voodooduckgames
+    added_at: '2026-11-08T20:25:13.796Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: welevel
+    url: https://welevel.com/
+    description: Munich studio of 20+ people building a survival city-builder with its own AI tech.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    social:
+      linkedin: https://www.linkedin.com/company/welevel-studios/
+    added_at: '2026-11-08T20:25:13.797Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wolpertinger Games
+    url: https://wolpertingergames.com/
+    description: Munich indie studio behind Survivor Mercs for PC, Xbox and PlayStation.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Survivor Mercs
+    social:
+      linkedin: https://www.linkedin.com/company/wolpertingergames
+    added_at: '2026-11-08T20:25:13.798Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Turtle Knight Games
+    url: https://turtleknightgames.com/
+    description: 'Small indie studio making games such as Footgun: Underground and Tap Tap Loot.'
+    hq:
+      city: Weiterstadt
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - 'Footgun: Underground'
+      - Tap Tap Loot
+    social:
+      linkedin: https://www.linkedin.com/company/101042301
+    added_at: '2026-11-08T20:25:13.799Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Soulven
+    url: https://www.soulven.com/
+    description: Frankfurt studio making narrative games and real-time 3D software, including Absinth and My Dear Emma.
+    hq:
+      city: Frankfurt
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Absinth
+      - 'My Dear Emma: Prologue'
+    social:
+      instagram: https://www.instagram.com/soulvengames/
+      youtube: https://www.youtube.com/@soulvengames
+    added_at: '2026-11-08T20:25:13.800Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: astragon Development
+    url: https://www.astragon-development.de/
+    description: Hamm studio developing commercial games since 1990, owned by astragon Entertainment since 2023.
+    hq:
+      city: Hamm
+      country: Germany
+    segments:
+      - simulation
+    platforms:
+      - pc
+      - console
+    parent: astragon Entertainment
+    founded: 1990
+    social:
+      linkedin: https://www.linkedin.com/company/astragon-development/
+    added_at: '2026-11-08T20:25:13.801Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: THQ Nordic Mobile
+    url: https://www.thqnordicmobile.com/
+    description: Formerly HandyGames, the studio develops and publishes indie and premium mobile games.
+    hq:
+      city: Giebelstadt
+      country: Germany
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    parent: THQ Nordic
+    founded: 2000
+    social:
+      instagram: https://www.instagram.com/thqnordicmobile/
+      youtube: https://www.youtube.com/@THQNordicMobile
+    added_at: '2026-11-08T20:25:13.802Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Walking Tree Games
+    url: https://walkingtreegames.com/
+    description: Karlsruhe studio behind The Tribe Must Survive and Under The Mountain, also offering LiveOps consulting.
+    hq:
+      city: Karlsruhe
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Tribe Must Survive
+      - Under The Mountain
+    added_at: '2026-11-08T20:25:13.803Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Beyond Worlds
+    url: https://beyondworlds.de/
+    description: Independent studio building the Silberheim fantasy world and its evolving card game.
+    hq:
+      city: Landstuhl
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Silberheim Evolving Card Game
+    social:
+      instagram: https://www.instagram.com/beyond_worlds/
+    added_at: '2026-11-08T20:25:13.804Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Playing Mantis
+    url: https://playing-mantis.io/
+    description: Cologne studio making wholesome games with an eerie touch, such as Tiny Capsule Collector and Solstride.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tiny Capsule Collector
+    social:
+      instagram: https://www.instagram.com/playing_mantis.io/
+      youtube: https://www.youtube.com/@playingmantisstudio
+    added_at: '2026-11-08T20:25:13.805Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Twin Harbour Interactive
+    url: https://twinharbourinteractive.com/
+    description: Hamburg studio behind the free-to-play Supremacy strategy games, joining Bytro Labs and Dorado Games.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - web
+      - pc
+      - mobile
+    parent: Stillfront
+    notable:
+      - Supremacy 1914
+      - Call of War 1942
+      - 'Supremacy: World War 3'
+    added_at: '2026-11-08T20:25:13.806Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KIDS interactive
+    url: https://www.kids-interactive.de/
+    description: Erfurt studio developing interactive learning and play apps for children since 2007.
+    hq:
+      city: Erfurt
+      country: Germany
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - mobile
+      - web
+    founded: 2007
+    added_at: '2026-11-08T20:25:13.807Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zeitland media & games
+    url: https://zeitland.com/
+    description: Ludwigsburg studio developing apps and games for client brands.
+    hq:
+      city: Ludwigsburg
+      country: Germany
+    segments:
+      - co-dev
+    platforms:
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/913132
+    added_at: '2026-11-08T20:25:13.808Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tistic Games
+    url: https://tistic-games.com/
+    description: Munich indie studio behind the 3D roguelike deckbuilder Cardtographer.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cardtographer
+      - AsteroPIX
+    added_at: '2026-11-08T20:25:13.809Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EdenSpiel
+    url: https://edenspiel.com/
+    description: Munich studio behind Sixth Force, a family co-op action-adventure for two players.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Sixth Force
+    social:
+      linkedin: https://www.linkedin.com/company/edenspiel/
+      youtube: https://www.youtube.com/@EdenSpiel
+    added_at: '2026-11-08T20:25:13.810Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Andarion Games
+    url: https://www.andarion-games.com/
+    description: Mainz studio making serious games, learning apps and digital twins, including the times-table game Einmaleinsjagd.
+    hq:
+      city: Mainz
+      country: Germany
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Einmaleinsjagd
+      - The Masked Particle
+    social:
+      instagram: https://www.instagram.com/andarion_games/
+    added_at: '2026-11-08T20:25:13.811Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Food for Thought Media
+    url: https://foodforthoughtmedia.com/
+    description: Berlin studio making narrative games and workshops on inclusion, identity and social issues for classrooms and youth work.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Sibel's Journey
+      - Leila's Play
+    social:
+      linkedin: https://linkedin.com/company/food-for-thought-media
+    added_at: '2026-11-08T20:25:13.812Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fictiorama Studios
+    url: https://www.fictiorama.com/
+    description: Indie studio making narrative games such as Do Not Feed the Monkeys and The Fabulous Fear Machine.
+    hq:
+      city: San Sebastián de los Reyes
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2012
+    notable:
+      - Do Not Feed the Monkeys
+      - Do Not Feed the Monkeys 2099
+      - The Fabulous Fear Machine
+    social:
+      instagram: https://www.instagram.com/fictiorama_studios/
+      youtube: https://www.youtube.com/user/fictiorama
+    added_at: '2026-11-08T20:25:13.813Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kaiju Games
+    url: https://kaijugames.es/
+    description: Game and app studio making PC, console and mobile titles, including the first-person mystery Room Zero, plus serious games.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/kaijugames
+    added_at: '2026-11-08T20:25:13.814Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kraken Empire
+    url: https://www.krakenempire.com/
+    description: Indie studio behind the 3D space shooter Kromaia and the physics-based strategy game Toy Tactics.
+    hq:
+      city: Zaragoza
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Kromaia
+      - Toy Tactics
+    social:
+      instagram: https://www.instagram.com/kraken.empire/
+      x: https://twitter.com/krakenempire
+    added_at: '2026-11-08T20:25:13.815Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mechanic Games
+    url: https://mechanicgames.net/
+    description: Studio making games and apps with a social-impact focus, including Crea tu propio monstruo, plus gamification projects.
+    hq:
+      city: Huelva
+      country: Spain
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+    founded: 2013
+    notable:
+      - Crea tu propio monstruo
+    social:
+      instagram: https://www.instagram.com/mechanicgames/
+      linkedin: https://www.linkedin.com/company/mechanicgames/
+      youtube: https://www.youtube.com/@mechanicgamestv
+    added_at: '2026-11-08T20:25:13.816Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RolldBox Games
+    url: https://rolldbox.com/
+    description: 'Indie studio making story-driven games with a positive message, such as Alex & Arty and Masks of the Void: Origins.'
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Alex & Arty
+    social:
+      instagram: https://www.instagram.com/rolldboxgames/
+      linkedin: https://www.linkedin.com/company/rolldbox-games/
+      youtube: https://www.youtube.com/@RolldBoxGames
+    added_at: '2026-11-08T20:25:13.817Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Breach Studios
+    url: https://thebreachstudios.com/
+    description: Game developer with several teams working on original titles and co-development, including an official LaLiga collectible game.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/the-breach-studios/
+    added_at: '2026-11-08T20:25:13.818Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EP Games
+    url: https://www.epgames.gg/
+    description: Independent studio developing and self-publishing co-op multiplayer games for PC and consoles, including Oppidum and Queendoom.
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - Oppidum
+      - Queendoom
+      - A Gummy's Life
+    social:
+      youtube: https://www.youtube.com/@EPGamesEU
+      x: https://twitter.com/EPGames
+    added_at: '2026-11-08T20:25:13.819Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bionic Ape
+    url: https://bionicape.com/
+    description: Studio building games, multiplayer backends, VR/XR systems and Unreal Engine plugins, with its own titles such as The Prison.
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - indie
+      - vr
+      - co-dev
+    platforms:
+      - pc
+      - vr
+    social:
+      linkedin: https://www.linkedin.com/company/bionicape/
+      youtube: https://www.youtube.com/channel/UC5iBSV_9PGQHyXLFM0Uy8Og
+    added_at: '2026-11-08T20:25:13.820Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Didactoons
+    url: https://www.didactoons.com/
+    description: Educational game studio making story-driven learning games for children on mobile.
+    hq:
+      city: Alcalá de Henares
+      country: Spain
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    social:
+      instagram: https://www.instagram.com/didactoons/
+      linkedin: https://www.linkedin.com/company/didactoons
+      youtube: https://www.youtube.com/c/Didactoons
+    added_at: '2026-11-08T20:25:13.821Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Daydream Software
+    url: https://www.daydreamsoftware.es/
+    description: Canary Islands studio making Unity games and apps, including the racket sport game eCrossminton for PS4, Switch and Steam.
+    hq:
+      city: Telde
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - eCrossminton
+    social:
+      x: https://twitter.com/DaydreamSoftwar
+    added_at: '2026-11-08T20:25:13.822Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GGTech Studios
+    url: https://ggtechstudios.com/
+    description: 'Spanish game developer behind Temtem: Swarm, now working on a new sword-and-sorcery project.'
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Temtem: Swarm'
+    added_at: '2026-11-08T20:25:13.823Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bluetile Games
+    url: https://www.bluetile.com/
+    description: Casual mobile game studio making long-lived relaxing games, with over 25 million monthly active users.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T20:25:13.824Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DALOAR
+    url: https://daloar.com/
+    description: Multidisciplinary game studio developing the narrative paranormal horror game The Occultist.
+    hq:
+      city: Valladolid
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    social:
+      instagram: https://www.instagram.com/daloar.studios
+      linkedin: https://www.linkedin.com/company/daloar
+      youtube: https://www.youtube.com/@DaloarStudios
+    added_at: '2026-11-08T20:25:13.825Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Epictellers Entertainment
+    url: https://www.epictellers.com/
+    description: 'Remote-first studio founded in Barcelona, making the role-playing game Starfinder: Afterlight.'
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    added_at: '2026-11-08T20:25:13.826Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cosmic Spell
+    url: https://www.cosmicspell.com/
+    description: Studio making tactical RPGs and card-based adventures, with its first tactical RPG in development.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    added_at: '2026-11-08T20:25:13.827Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Inverge Studios
+    url: https://invergestudios.com/
+    description: Indie studio making adventure games for PC and consoles, including Effie and Creatures of Ava.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Effie
+      - Creatures of Ava
+      - Peregrino
+    added_at: '2026-11-08T20:25:13.828Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EF Games
+    url: https://ef.games/
+    description: Madrid game studio backed by a major industry group, developing original multiplayer IPs.
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    added_at: '2026-11-08T20:25:13.829Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tellmewow
+    url: https://tellmewow.com/
+    description: Mobile studio making casual games for seniors, educational games for kids and cognitive training apps.
+    hq:
+      city: Bilbao
+      country: Spain
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+    added_at: '2026-11-08T20:25:13.830Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Entalto Studios
+    url: https://entaltostudios.com/
+    description: 'Studio offering publishing, co-development and porting for indie developers, and making games such as The Alighieri Circle: Dante''s Bloodline.'
+    hq:
+      city: Zaragoza
+      country: Spain
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    added_at: '2026-11-08T20:25:13.831Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Moonmana
+    url: https://moonmana.com/
+    description: Game development outsourcing studio providing full-cycle development, 2D and 3D art, animation and porting, alongside its own games.
+    hq:
+      city: San Cristóbal de La Laguna
+      country: Spain
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - mobile
+    added_at: '2026-11-08T20:25:13.832Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Quasar Factory Games
+    url: https://quasarfactory.com/
+    description: Studio behind Master of Cladia, an online strategy card game, and its follow-up Master of Vega.
+    hq:
+      city: Santa Cruz de Tenerife
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Master of Cladia
+    added_at: '2026-11-08T20:25:13.833Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sunrock Games
+    url: https://sunrockgames.com/
+    description: Game development and co-development studio offering full-cycle development, art, multiplayer, porting and LiveOps for publishers.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    added_at: '2026-11-08T20:25:13.834Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aldora Games
+    url: https://aldoragames.com/
+    description: Málaga studio developing and publishing its own PC games since 2019.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    added_at: '2026-11-08T20:25:13.835Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DEP Games
+    url: https://depgames.es/
+    description: Indie studio making games such as Unicorn Wars, based on Alberto Vázquez's animated film, and Microbian.
+    hq:
+      city: A Coruña
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    added_at: '2026-11-08T20:25:13.836Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

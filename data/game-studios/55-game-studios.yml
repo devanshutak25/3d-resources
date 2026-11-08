@@ -1,0 +1,865 @@
+studios:
+  - name: Pewter Games Studios
+    url: https://www.pewtergamesstudios.com/
+    description: 'Indie studio founded in 2013 that made Filthy Animals: Heist Simulator.'
+    hq:
+      city: Dublin
+      country: Ireland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - 'Filthy Animals: Heist Simulator'
+      - The Little Acre
+    social:
+      linkedin: https://www.linkedin.com/company/pewter-games-studios
+    added_at: '2026-11-08T20:25:13.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Outlier
+    url: https://www.outlier.games/
+    description: Independent studio founded in 2018 making strategy games such as This Means Warp and Mars Attracts.
+    hq:
+      city: Dublin
+      country: Ireland
+    offices:
+      - city: Belfast
+        country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2018
+    notable:
+      - This Means Warp
+      - Mars Attracts
+    social:
+      instagram: https://www.instagram.com/outliersocial/
+    added_at: '2026-11-08T20:25:13.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Asteroid Lab
+    url: https://asteroidlab.com/
+    description: Small indie studio making strategy games since 2019, including the Mars colony builder Terraformers.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - Terraformers
+      - Hero's Warden
+    added_at: '2026-11-08T20:25:13.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lakeview Games
+    url: https://lakeviewgames.com/
+    description: Indie studio that made Pool Party, a physics-based party game, and is developing Slot Machine Gun.
+    hq:
+      city: Geneva
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pool Party
+      - Slot Machine Gun
+    social:
+      instagram: https://www.instagram.com/lakeviewgames/
+    added_at: '2026-11-08T20:25:13.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Oopsie Daisies Studio
+    url: https://www.oopsiedaisiesstudio.com/
+    description: Indie studio that made Tom the Postgirl, a narrative game co-produced and published by ARTE France.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tom the Postgirl
+    social:
+      instagram: https://www.instagram.com/o.opsiedaisies/
+    added_at: '2026-11-08T20:25:13.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gbanga
+    url: https://gbanga.com/
+    description: Mixed-reality game studio making AR, VR and location-based games for museums, brands and learning since 2007.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - co-dev
+      - kids-edu
+      - vr
+    platforms:
+      - mobile
+      - vr
+      - pc
+    founded: 2007
+    notable:
+      - Book of Beasts
+      - Galaxy Invaders VR (Samsung)
+      - Urban. Hunt. (Mercedes-Benz)
+    added_at: '2026-11-08T20:25:13.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Space Lion Studios
+    url: https://www.spacelionstudios.ie/
+    description: Irish indie studio that made Axyz, a gravity-switching puzzle game.
+    hq:
+      country: Ireland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Axyz
+    social:
+      instagram: https://www.instagram.com/space.lion.studios/
+      linkedin: https://www.linkedin.com/company/space-lion-studios-games
+    added_at: '2026-11-08T20:25:13.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stelex Software
+    url: https://www.stelexsoftware.com/
+    description: Ticino studio founded in 2004 making indie games such as Monorail Stories and offering CG services.
+    hq:
+      city: Maggia
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2004
+    notable:
+      - Monorail Stories
+      - KING 4 A DAY
+      - Eselmir and the five magical gifts
+    social:
+      instagram: https://www.instagram.com/stelexsoftware/
+    added_at: '2026-11-08T20:25:13.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tiny Meow Studio
+    url: https://tinymeowstudio.com/
+    description: 'Small Croatian indie studio behind Bura: The Way the Wind Blows, an adventure game drawn from Adriatic folk tales.'
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Bura: The Way the Wind Blows'
+    added_at: '2026-11-08T20:25:13.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digital Gods
+    url: https://digital-gods.dev/
+    description: Independent Croatian studio making atmospheric dark-fiction games such as The Dark World, plus original fiction and music.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Dark World
+    added_at: '2026-11-08T20:25:13.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pine Studio
+    url: https://pinestudio.com/
+    description: Croatian studio making puzzle games, best known for the co-op escape room game Escape Simulator.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Escape Simulator
+    added_at: '2026-11-08T20:25:13.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gummy Cat
+    url: https://www.gummycat.com/
+    description: Small Bucharest indie studio behind the cozy management game Bear and Breakfast.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://www.gummycat.com/jobs
+    notable:
+      - Bear and Breakfast
+    added_at: '2026-11-08T20:25:13.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Those Awesome Guys
+    url: https://thoseawesomeguys.com/
+    description: Romanian studio that makes and publishes party and indie games, best known for Move or Die.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://thoseawesomeguys.com/jobs/
+    notable:
+      - Move or Die
+    added_at: '2026-11-08T20:25:13.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Atypical Games
+    url: https://www.atypicalgames.com/
+    description: Bucharest studio making flight combat and survival games for mobile, PC and console, including Sky Gamblers and Cubic Odyssey.
+    hq:
+      city: Bucharest
+      country: Romania
+    offices:
+      - city: Mountain View
+        country: United States
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - 'Sky Gamblers: Infinite Jets'
+      - Cubic Odyssey
+      - Escape from Chernobyl
+    added_at: '2026-11-08T20:25:13.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Angry Mob Games
+    url: https://www.angrymobgames.com/
+    description: Romanian studio making action, fighting and adventure games such as Brawlout and Trinity Fusion for console, PC and mobile.
+    hq:
+      country: Romania
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Brawlout
+      - Trinity Fusion
+      - 'Alien vs Predator: Evolution'
+      - Toysburg
+    added_at: '2026-11-08T20:25:13.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Breadcrumbs Interactive
+    url: https://breadcrumbsinteractive.com/
+    description: Romanian indie studio that made Yaga, a Slavic folktale action RPG, and is developing Monster Therapy.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Yaga
+    added_at: '2026-11-08T20:25:13.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tiny Trinket Games
+    url: https://tinytrinket.games/
+    description: 'Romanian indie studio behind the tactical RPG Zoria: Age of Shattering.'
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Zoria: Age of Shattering'
+      - 'Azuran Tales: Trials'
+    added_at: '2026-11-08T20:25:13.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Galactic Crows
+    url: https://www.galactic-crows.com/
+    description: Iași indie developer of psychological horror games such as Stay Still, Left to Rot and Dread Eagle.
+    hq:
+      city: Iași
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Stay Still
+      - Stay Still 2
+      - Left to Rot
+      - Netbreak
+    added_at: '2026-11-08T20:25:13.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 16bit Nights
+    url: https://16bitnights.com/
+    description: Romanian indie studio making shooters and tower defense games such as Chromosome Evil and Welcome Back, Commander.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Chromosome Evil
+      - Chromosome Evil 2
+      - Welcome Back, Commander
+    added_at: '2026-11-08T20:25:13.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bearded Giant Games
+    url: https://beardedgiantgames.com/
+    description: 'Independent Iași studio making budget roguelikes and retro-style games such as Ebony Spire: Heresy and Space Mercs.'
+    hq:
+      city: Iași
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - 'Ebony Spire: Heresy'
+      - Space Mercs
+      - Night Cart
+    added_at: '2026-11-08T20:25:13.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Quarks Interactive
+    url: https://www.quarksinteractive.com/
+    description: Romanian studio behind Quantum Odyssey, a puzzle game and learning platform that teaches quantum computing.
+    hq:
+      country: Romania
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    notable:
+      - Quantum Odyssey
+    social:
+      instagram: https://www.instagram.com/quarksinteractive/
+    added_at: '2026-11-08T20:25:13.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: eRepublik Labs
+    url: https://www.erepubliklabs.com/
+    description: Bucharest studio running the browser strategy MMO eRepublik and other online strategy games.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    careers: https://www.erepubliklabs.com/careers.html
+    notable:
+      - eRepublik
+      - 'World at War: WW2 Strategy MMO'
+    social:
+      linkedin: http://www.linkedin.com/company/erepublik-labs-limited
+    added_at: '2026-11-08T20:25:13.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dream Builder's Studios
+    url: https://dreambuilderstudios.net/
+    description: Romanian studio making space combat action games, including the open-world RPG Stellar Wanderer DX.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Stellar Wanderer DX
+      - 'Strike Wing: Raptor Rising'
+    social:
+      instagram: https://www.instagram.com/stellarwanderergame/
+    added_at: '2026-11-08T20:25:13.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RVL Interactive
+    url: https://rvlinteractive.com/
+    description: Romanian studio making narrative horror and defense games such as the Classified Stories series.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Classified Stories: Color Out of Space'
+      - 'Classified Stories: The Tome of Myrkah'
+      - Ezaron Defense
+      - 'Void Future: Hacking Protocol'
+    added_at: '2026-11-08T20:25:13.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Early Sun Games
+    url: https://www.earlysungames.com/
+    description: Brașov indie team behind the action game Glitch Hunt.
+    hq:
+      city: Brașov
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - Glitch Hunt
+    added_at: '2026-11-08T20:25:13.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Scholastics
+    url: https://www.wigmundrpg.com/
+    description: Romanian indie team behind Wigmund, a fantasy action RPG.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Wigmund
+    added_at: '2026-11-08T20:25:13.562Z'
+  - name: Twin Software Studio
+    url: https://www.twinsoftwarestudio.com/
+    description: Târgu Mureș studio making multiplayer VR simulation games such as My Store VR and Forklift Simulator.
+    hq:
+      city: Târgu Mureș
+      country: Romania
+    segments:
+      - vr
+      - simulation
+    platforms:
+      - vr
+    notable:
+      - My Store VR
+      - Forklift Simulator
+    social:
+      instagram: https://www.instagram.com/twinsoftwarestudio/
+    added_at: '2026-11-08T20:25:13.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bad Wolf Games
+    url: https://badwolfgames.net/
+    description: Romanian studio making RPG, action and casual mobile games for Google Play and the App Store.
+    hq:
+      country: Romania
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Hero Legends in Pursuit
+    added_at: '2026-11-08T20:25:13.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yboga
+    url: https://yboga.com/
+    description: Serbian mobile game studio behind the hospital management sim Dream Hospital and the action game Crimson Freedom.
+    hq:
+      country: Serbia
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    careers: https://yboga.com/jobs/
+    notable:
+      - Dream Hospital
+      - Crimson Freedom
+    added_at: '2026-11-08T20:25:13.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ingenious Studios
+    url: https://www.ingenious-studios.com/
+    description: Niš studio offering full-cycle Unity game development and game art for clients, plus its own VR title Shopenkraft's Magic Goods.
+    hq:
+      city: Niš
+      country: Serbia
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - mobile
+      - pc
+      - vr
+    careers: https://www.ingenious-studios.com/careers
+    notable:
+      - Shopenkraft's Magic Goods
+    social:
+      linkedin: https://www.linkedin.com/company/ingenious-studios/
+      artstation: https://www.artstation.com/ingenious-studios
+      behance: https://www.behance.net/ingenious-studios
+    added_at: '2026-11-08T20:25:13.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Alkonost Team
+    url: https://codealkonost.com/
+    description: 'Small Serbian indie team behind Code Alkonost: Awakening of Evil, a survival adventure based on Slavic mythology.'
+    hq:
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Code Alkonost: Awakening of Evil'
+    social:
+      instagram: https://www.instagram.com/codealkonost/
+    added_at: '2026-11-08T20:25:13.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Firefly
+    url: https://studiofirefly.io/
+    description: Romanian mobile studio that operates free-to-play games for partners and builds its own titles, with teams in Cluj-Napoca and Bucharest.
+    hq:
+      city: Cluj-Napoca
+      country: Romania
+    offices:
+      - city: Bucharest
+        country: Romania
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    added_at: '2026-11-08T20:25:13.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DPS Games
+    url: https://dpsgames.ro/
+    description: Small Romanian indie studio producing and publishing games, animated films, mobile apps and VR experiences for 25 years.
+    hq:
+      country: Romania
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - mobile
+      - vr
+    added_at: '2026-11-08T20:25:13.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blastproof Games
+    url: https://www.blastproof.tech/
+    description: Bucharest work-for-hire studio that designs and develops mobile and PC games for clients.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    added_at: '2026-11-08T20:25:13.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cojan Software
+    url: https://cojan-software.com/
+    description: 'Romanian mobile game studio making driving sims and casual games such as Balkan Drive: EVO.'
+    hq:
+      country: Romania
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - 'Balkan Drive: EVO'
+      - 'MYG''s World: Super Adventure'
+    social:
+      instagram: https://www.instagram.com/cojan.software/
+    added_at: '2026-11-08T20:25:13.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CSV Games
+    url: https://csvgames.com/
+    description: Independent Romanian studio behind the RPG Quest of the Hero.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Quest of the Hero
+    social:
+      linkedin: https://www.linkedin.com/company/csvgames/
+    added_at: '2026-11-08T20:25:13.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fearem
+    url: https://fearem.com/
+    description: Tech-focused Croatian game studio behind the horror game Daemonical and the in-development Anchor.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Daemonical
+    social:
+      linkedin: https://www.linkedin.com/company/20622643
+    added_at: '2026-11-08T20:25:13.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tinerasoft
+    url: https://tinerasoft.net/
+    description: Solo-led Croatian indie studio making atmospheric single-player games, debuting with the FPS Metal Garden.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Metal Garden
+    added_at: '2026-11-08T20:25:13.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: RetroCloud Studios
+    url: https://retrocloudstudios.com/
+    description: Bucharest indie game studio behind the PC game revere.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - revere
+    social:
+      linkedin: https://www.linkedin.com/company/retro-cloud-studios/
+    added_at: '2026-11-08T20:25:13.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Fireseer Games
+    url: https://fireseergames.com/
+    description: Independent Bucharest studio behind Timeland, a city-building game for mobile.
+    hq:
+      city: Bucharest
+      country: Romania
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Timeland
+    added_at: '2026-11-08T20:25:13.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Creoteam
+    url: https://creoteam.com/
+    description: Kyiv game studio founded in 2005, known for the Football, Tactics & Glory football management series.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    founded: 2005
+    notable:
+      - Football, Tactics & Glory
+      - Football, Tactics & Glory 2
+      - Collapse
+    added_at: '2026-11-08T20:25:13.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frag Lab
+    url: https://fraglab.com/
+    description: Kyiv studio developing Shatterline, a free-to-play arena FPS with a roguelike co-op mode.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Shatterline
+    social:
+      instagram: https://instagram.com/fraglab_studio
+    added_at: '2026-11-08T20:25:13.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Weasel Token
+    url: https://weaseltoken.com/
+    description: Independent two-person game studio from Kyiv making puzzle games for PC and mobile.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Puzzles For Clef
+    social:
+      instagram: https://www.instagram.com/weaseltoken/
+    added_at: '2026-11-08T20:25:13.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ALPA Kids
+    url: https://alpakids.com/
+    description: Tallinn studio making mobile learning games for children aged 3 to 8, built with teachers and child-development experts.
+    hq:
+      city: Tallinn
+      country: Estonia
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    social:
+      instagram: https://www.instagram.com/alpa.kids
+      linkedin: https://www.linkedin.com/company/alpa-kids/
+    added_at: '2026-11-08T20:25:13.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Morsakabi
+    url: https://www.morsakabi.com/
+    description: Tartu game studio founded in 2016, making the mobile action game Total Destruction and logic puzzle games.
+    hq:
+      city: Tartu
+      country: Estonia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    founded: 2016
+    notable:
+      - Total Destruction
+      - Tic Tac Toe Logic
+      - Logic Puzzle Kingdom
+    added_at: '2026-11-08T20:25:13.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dev9k
+    url: https://www.dev9k.com/
+    description: Estonian indie studio developing narrative, atmosphere-driven games, books and IPs.
+    hq:
+      country: Estonia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Nirvana Pilot Yume
+    added_at: '2026-11-08T20:25:13.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Coldwild Games
+    url: https://coldwild.com/
+    description: Seven-person indie studio in Riga making cozy and strategy games for PC.
+    hq:
+      city: Riga
+      country: Latvia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Luna's Fishing Garden
+      - Lazy Galaxy
+      - Druidwalker
+      - Stories from the Outbreak
+    added_at: '2026-11-08T20:25:13.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Imagination Port
+    url: https://imagination-port.com/
+    description: 'Lithuanian indie studio making mobile and PC games, now developing the FPS colony-survival game Encave: First Descent.'
+    hq:
+      city: Ilgakiemis
+      country: Lithuania
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Animal Merge Kingdom
+      - 'SONAR: Oceania Mining Co.'
+    social:
+      linkedin: https://www.linkedin.com/company/imagination-port
+    added_at: '2026-11-08T20:25:13.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Awem Games
+    url: https://awem.com/
+    description: Mobile game developer making casual puzzle and adventure games since 2002, headquartered in Paphos.
+    hq:
+      city: Paphos
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2002
+    social:
+      instagram: https://www.instagram.com/awemgames/
+      artstation: https://www.artstation.com/awem
+    added_at: '2026-11-08T20:25:13.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Elephant Games
+    url: https://elephant-games.com/
+    description: Casual game developer making hidden-object adventure games, now headquartered in Yerevan.
+    hq:
+      city: Yerevan
+      country: Armenia
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    social:
+      instagram: https://instagram.com/elephant_games
+    added_at: '2026-11-08T20:25:13.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

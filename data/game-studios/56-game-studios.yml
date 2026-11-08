@@ -1,0 +1,897 @@
+studios:
+  - name: Cleverside
+    url: https://www.cleverside.com/
+    description: Mobile game developer and publisher founded in 2019, making puzzle, sorting and hidden-object games from Limassol.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2019
+    notable:
+      - Tidy Shelf
+      - Color Balls Sort
+      - Bright Objects
+    social:
+      instagram: https://www.instagram.com/clvrsd/
+    added_at: '2026-11-08T20:25:13.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Color Gray Games
+    url: https://www.thegoldenidol.com/
+    description: Riga indie studio making The Case of the Golden Idol series of deduction puzzle games.
+    hq:
+      city: Riga
+      country: Latvia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Case of the Golden Idol
+      - The Rise of the Golden Idol
+    added_at: '2026-11-08T20:25:13.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flazm
+    url: https://flazm.com/
+    description: Lithuanian indie developer and publisher founded in 2010, known for the Train Valley railway puzzle-sim series.
+    hq:
+      country: Lithuania
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2010
+    notable:
+      - Train Valley
+      - Train Valley 2
+    added_at: '2026-11-08T20:25:13.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tea and Cake Games
+    url: https://teaandcakegames.com/
+    description: Kyiv indie studio developing the PC game Yandere School.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Yandere School
+    added_at: '2026-11-08T20:25:13.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Applava
+    url: https://www.applava.com/
+    description: Lithuanian game studio founded in 2014, maker of the roguelite Blazing Beaks for PC and Nintendo Switch.
+    hq:
+      country: Lithuania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - Blazing Beaks
+    social:
+      instagram: https://www.instagram.com/applavagames
+    added_at: '2026-11-08T20:25:13.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Jollybits Games
+    url: https://jollybits.games/
+    description: Five-person Vilnius studio making couch co-op puzzle games.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ready, Steady, Ship!
+    added_at: '2026-11-08T20:25:13.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aegic Entertainment
+    url: https://aegicentertainment.com/
+    description: Indie studio developing the gladiator game We Who Are About To Die.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - We Who Are About To Die
+    added_at: '2026-11-08T20:25:13.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Business Goose Studios
+    url: https://www.businessgoose.be/
+    description: Indie studio making the puzzle game Sizeable and the classroom morality game OMG.
+    hq:
+      city: Hasselt
+      country: Belgium
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    notable:
+      - Sizeable
+      - OMG
+    social:
+      instagram: https://www.instagram.com/businessgoosestudios/
+    added_at: '2026-11-08T20:25:13.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: eXiin
+    url: https://exiin.com/
+    description: Game studio behind the adventure game Ary and the Secret of Seasons.
+    hq:
+      city: Brussels
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - Ary and the Secret of Seasons
+    added_at: '2026-11-08T20:25:13.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fancy Cat Interactive
+    url: https://fancycatinteractive.com/
+    description: Indie studio making Heroes of Valor, a game in Steam Early Access.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Heroes of Valor
+    added_at: '2026-11-08T20:25:13.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Little Big Monkey Studio
+    url: https://www.littlebigmonkey.com/
+    description: Game studio making indie games and interactive applications for museums and brands, including the Charly the Vet series.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+      - kids-edu
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 2012
+    notable:
+      - 'Charly the Vet: Animal Rescue Center'
+      - Belgian Chocolate Village
+    social:
+      instagram: https://www.instagram.com/littlebigmonkeystudio
+      linkedin: https://www.linkedin.com/company/littlebigmonkey
+    added_at: '2026-11-08T20:25:13.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MoonMonster Studios
+    url: https://www.moonmonster.be/
+    description: Studio making comedy games, including the VR game Space Control.
+    hq:
+      city: Hooglede
+      country: Belgium
+    offices:
+      - city: Kortrijk
+        country: Belgium
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    founded: 2019
+    notable:
+      - Space Control
+    social:
+      instagram: https://www.instagram.com/moonmonsterstudios/
+      linkedin: https://www.linkedin.com/company/moonmonster/
+    added_at: '2026-11-08T20:25:13.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Myron Games
+    url: https://www.myronsoftware.com/
+    description: VR game studio behind Deisim and Underworld Overseer.
+    hq:
+      city: Mons
+      country: Belgium
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Deisim
+      - Underworld Overseer
+    social:
+      instagram: https://www.instagram.com/myrongamesvr/
+      linkedin: https://www.linkedin.com/company/myron-software
+    added_at: '2026-11-08T20:25:13.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Oddshot Games
+    url: https://oddshot.gg/
+    description: 'Studio making community-driven multiplayer sports games, led by the physics hockey game Slapshot: Rebound.'
+    hq:
+      city: Ghent
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - 'Slapshot: Rebound'
+    added_at: '2026-11-08T20:25:13.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pandora Technology
+    url: https://www.pandoratechnology.com/
+    description: Independent studio making the city-building game Moons of Ardan.
+    hq:
+      city: Liège
+      country: Belgium
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Moons of Ardan
+    added_at: '2026-11-08T20:25:13.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rogueside
+    url: https://www.rogueside.com/
+    description: 'Independent developer of hidden-object games, including Hidden Through Time and Hidden Through Time 2: Discovery.'
+    hq:
+      city: Geel
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Hidden Through Time
+      - 'Hidden Through Time 2: Discovery'
+    social:
+      linkedin: https://www.linkedin.com/company/rogueside/
+    added_at: '2026-11-08T20:25:13.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Slappy Inc.
+    url: https://slappyinc.com/
+    description: Studio making its own games such as Slappy Board and Aztlan Uncovered, plus 3D, VR and AR apps for clients.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Slappy Board
+      - Aztlan Uncovered
+      - Mazey Village
+    social:
+      instagram: https://www.instagram.com/slappyincdev/
+    added_at: '2026-11-08T20:25:13.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vigo Creative
+    url: https://www.vigo-creative.com/
+    description: VR game studio making titles such as Wild West Panic, plus VR training applications.
+    hq:
+      city: Namur
+      country: Belgium
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - Wild West Panic
+    social:
+      instagram: https://www.instagram.com/vigo.creative.be/
+      linkedin: https://www.linkedin.com/company/vigo-creative
+    added_at: '2026-11-08T20:25:13.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Maracas Studio
+    url: https://maracas-studio.com/
+    description: Game development studio that has delivered more than twenty games for mobile, PC and consoles.
+    hq:
+      city: Charleroi
+      country: Belgium
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    added_at: '2026-11-08T20:25:13.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Esprits Productions
+    url: https://esprits.io/en/home/
+    description: Studio making interactive stories and tales for children aged 5 and up.
+    hq:
+      city: Liège
+      country: Belgium
+    segments:
+      - kids-edu
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/esprits.io/
+    added_at: '2026-11-08T20:25:13.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Couch Potato Studios
+    url: https://www.couchpotatostudios.co/
+    description: 'Indie studio making the tower defense game XENOBREAKERS: Classic Tower Defense.'
+    hq:
+      city: Genk
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'XENOBREAKERS: Classic Tower Defense'
+    social:
+      instagram: https://www.instagram.com/couchpotatostudios/
+      linkedin: https://www.linkedin.com/company/couch-potato-studios/
+    added_at: '2026-11-08T20:25:13.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MeepMeep Games
+    url: https://meepmeepgames.com/
+    description: Indie studio making roguelike-inspired action games, starting with Galactic Vault.
+    hq:
+      city: Wetteren
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Galactic Vault
+    social:
+      linkedin: https://www.linkedin.com/company/meepmeepgames/
+    added_at: '2026-11-08T20:25:13.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: OptizOnion
+    url: https://optizonion.games/
+    description: Two-person indie studio making small-scope games such as Bounty of One and Chest Mate.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Bounty of One
+      - Chest Mate
+    added_at: '2026-11-08T20:25:13.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Eye Blink Twice
+    url: https://eyeblinktwice.com/
+    description: Indie studio making atmospheric story games, starting with Time To Wake Up.
+    hq:
+      city: Kortrijk
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Time To Wake Up
+    added_at: '2026-11-08T20:25:13.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Duckland Games
+    url: https://www.ducklandgames.com/
+    description: 'Studio founded by AAA veterans, making the party game Forgotten Playland: Party Edition.'
+    hq:
+      city: Breda
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Forgotten Playland: Party Edition'
+    social:
+      linkedin: https://www.linkedin.com/company/98671319
+    added_at: '2026-11-08T20:25:13.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cordyceps Collective
+    url: https://cordycepscollective.com/
+    description: Three-person game collective behind Microtopia, a factory automation colony sim about robot ants.
+    hq:
+      country: Netherlands
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Microtopia
+    added_at: '2026-11-08T20:25:13.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bubblebird Studio
+    url: http://bubblebirdstudio.com/
+    description: Independent studio making cozy PC games such as Haven Park and Trackline Express.
+    hq:
+      country: Luxembourg
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Haven Park
+      - Trackline Express
+    added_at: '2026-11-08T20:25:13.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Konafa Games
+    url: https://www.konafagames.com/
+    description: Small indie team making unusual strategy games, including Starless Abyss.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Starless Abyss
+    added_at: '2026-11-08T20:25:13.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Second Stage Studio
+    url: https://secondstage.studio/
+    description: Indie studio making Sprint City, a multiplayer 2D racing platformer.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Sprint City
+    added_at: '2026-11-08T20:25:13.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rumble Spark Games
+    url: https://rumblespark.com/
+    description: Independent developer and publisher of mobile puzzle and arcade games such as Folded Flyer, Cubo and Joe Cable.
+    hq:
+      city: Zwolle
+      country: Netherlands
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2010
+    notable:
+      - Folded Flyer
+      - Cubo
+      - Joe Cable
+      - Aztec Temple Quest
+    social:
+      instagram: https://www.instagram.com/rumblesparkgames
+      linkedin: https://www.linkedin.com/company/rumblespark/
+    added_at: '2026-11-08T20:25:13.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hulan
+    url: https://hulan.nl/
+    description: Studio building apps and serious games with social impact, including Asgaard Saga and the Pillo game platform.
+    hq:
+      city: Waalre
+      country: Netherlands
+    segments:
+      - kids-edu
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - web
+      - pc
+    founded: 2015
+    notable:
+      - Asgaard Saga
+      - Pillo
+      - Jungle the Bungle
+      - Freequency
+    social:
+      instagram: https://instagram.com/hulan_nl
+      linkedin: https://www.linkedin.com/company/hulan/
+    added_at: '2026-11-08T20:25:13.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Living Story
+    url: https://www.livingstory.nl/
+    description: Serious game studio designing game-based learning, training games and escape rooms for organisations.
+    hq:
+      city: Baarn
+      country: Netherlands
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - web
+      - mobile
+      - pc
+    notable:
+      - Expeditie
+      - Tijd Detective
+      - 'Cold Case: The Diamond Heist'
+    social:
+      instagram: https://www.instagram.com/livingstory_nl/
+      linkedin: https://www.linkedin.com/company/living-story
+    added_at: '2026-11-08T20:25:13.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Miniclip Netherlands
+    url: https://gamebasics.nl/
+    description: Football management game studio, formerly Gamebasics, that makes Online Soccer Manager and Football Head Coach.
+    hq:
+      city: Zoetermeer
+      country: Netherlands
+    segments:
+      - mobile
+      - aa
+    platforms:
+      - mobile
+      - web
+    parent: Miniclip
+    notable:
+      - Online Soccer Manager
+      - Football Head Coach
+      - Ultimate Football Manager
+    added_at: '2026-11-08T20:25:13.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Seven Mages
+    url: https://sevenmages.com/
+    description: 'Independent studio run by two brothers, making retro-styled games such as Penguin Panic! and Avalon: Legacy Edition.'
+    hq:
+      city: Zoetermeer
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Penguin Panic!
+      - 'Avalon: Legacy Edition'
+      - Avalon
+    added_at: '2026-11-08T20:25:13.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Convoy Games
+    url: https://convoy-games.com/
+    description: 'Indie studio behind the tactical roguelike Convoy and the space game Landinar: Into the Void.'
+    hq:
+      city: Leeuwarden
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - Convoy
+      - 'Landinar: Into the Void'
+    added_at: '2026-11-08T20:25:13.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yellowcake Games
+    url: https://yellowcakegames.com/
+    description: Two-person indie studio making small colourful games for PC and Nintendo Switch.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - Dashing Dodgems
+      - 'Stay Safe: Labyrinth of the Mad'
+    added_at: '2026-11-08T20:25:13.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CoolGames
+    url: https://www.coolgames.com/
+    description: HTML5 game developer and publisher making browser and cloud games, including Battleship for Netflix Games.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - web
+      - mobile
+    founded: 2009
+    notable:
+      - Battleship (Netflix Games)
+    social:
+      instagram: https://www.instagram.com/newcoolgames/
+      linkedin: https://www.linkedin.com/company/coolgames
+    added_at: '2026-11-08T20:25:13.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Enchanted Works
+    url: https://enchantedworks.nl/
+    description: Small game studio making Nomori, a narrative adventure released on Steam and Xbox in 2026.
+    hq:
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Nomori
+    social:
+      linkedin: https://www.linkedin.com/company/enchanted-works/
+    added_at: '2026-11-08T20:25:13.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Focuspoint Studios
+    url: https://focuspoint.games/
+    description: 'Game studio doing full-cycle development, co-development and console porting, including NASCAR: Arcade Rush.'
+    hq:
+      city: Assen
+      country: Netherlands
+    segments:
+      - co-dev
+      - simulation
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'NASCAR: Arcade Rush'
+      - NHRA
+      - Cyber Clutch
+    added_at: '2026-11-08T20:25:13.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lirio Games
+    url: https://www.liriogames.com/
+    description: Indie studio running the online horse game MY HORSEZ.
+    hq:
+      city: Apeldoorn
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    notable:
+      - MY HORSEZ
+    added_at: '2026-11-08T20:25:13.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Phure Studios
+    url: https://phurestudios.com/
+    description: Studio making mobile games and VR training simulations, such as VR Housekeeping for NHL Stenden Hotelschool.
+    hq:
+      city: Leeuwarden
+      country: Netherlands
+    segments:
+      - co-dev
+      - vr
+      - mobile
+    platforms:
+      - mobile
+      - vr
+    founded: 2009
+    notable:
+      - CatSpin
+      - VR Housekeeping
+    added_at: '2026-11-08T20:25:13.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Deloryan
+    url: https://studiodeloryan.com/
+    description: Studio making Horse Reality, a browser horse breeding game built around real coat genetics.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - web
+    notable:
+      - Horse Reality
+    added_at: '2026-11-08T20:25:13.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ChimpWorks
+    url: https://www.chimpworksgames.com/
+    description: Mobile game studio with 19 released iOS and Android games and over 350 million downloads.
+    hq:
+      city: Eindhoven
+      country: Netherlands
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/chimpworks/
+    added_at: '2026-11-08T20:25:13.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Denda Games
+    url: https://denda-corporate.com/
+    description: Game developer, porter and publisher bringing games to HTML5, PlayStation, Xbox and Nintendo Switch.
+    hq:
+      city: Hengelo
+      country: Netherlands
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - pc
+      - web
+    social:
+      instagram: https://www.instagram.com/dendagames
+    added_at: '2026-11-08T20:25:13.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: JoTo Games
+    url: https://joto.games/
+    description: Independent studio making free browser party games where the TV is the shared screen and phones are controllers.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - web
+    added_at: '2026-11-08T20:25:13.631Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gametje
+    url: https://gametje.com/
+    description: Small studio making multiplayer party games played from phones, smart TVs, laptops or Discord, such as Canvas Clash.
+    hq:
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    founded: 2024
+    notable:
+      - Canvas Clash
+    added_at: '2026-11-08T20:25:13.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BlewScreen
+    url: https://www.blewscreen.com/
+    description: Serious game studio designing and building learning games and gamification for clients since 2006.
+    hq:
+      city: Tilburg
+      country: Netherlands
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - pc
+      - web
+    founded: 2006
+    notable:
+      - 'Gulf of Aden: Task Force Somalia'
+      - Waterland Tycoon
+      - Wereld zonder Woorden
+      - GGz De Sleutel tot Herstel
+    social:
+      instagram: https://www.instagram.com/blewscreen_games/
+      linkedin: https://www.linkedin.com/company/blewscreen
+    added_at: '2026-11-08T20:25:13.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Knucklehead Studios
+    url: https://knucklehead-studios.com/
+    description: Studio making multiplayer VR games for arcades and location-based entertainment venues.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Cops vs Robbers
+      - Hunter VR
+      - Monkey Madness
+    added_at: '2026-11-08T20:25:13.634Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Savanna Developments
+    url: https://www.savannadevelopments.com/
+    description: Indie studio making AI-powered games, including Verbal Verdict on Steam.
+    hq:
+      city: Rotterdam
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Verbal Verdict
+    social:
+      instagram: https://www.instagram.com/savannadevelopments/
+      linkedin: https://www.linkedin.com/company/savanna-developments
+    added_at: '2026-11-08T20:25:13.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pro Mobile
+    url: https://pro-mobile.nl/
+    description: Indie studio making web and mobile puzzle games such as Smartle and Hex Sense.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Smartle
+      - Hex Sense
+      - Clean!
+    social:
+      linkedin: https://www.linkedin.com/company/pro-mobile-solutions/
+    added_at: '2026-11-08T20:25:13.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

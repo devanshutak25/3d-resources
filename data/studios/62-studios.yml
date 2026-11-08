@@ -1,0 +1,942 @@
+studios:
+  - name: Wardenlight Studio
+    url: https://wardenlight.com/
+    description: Visual development studio doing concept art, art direction and UI design for film and video game productions since 2013.
+    hq:
+      country: France
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+      - film
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/wardenlight_studio
+    added_at: '2026-11-08T20:25:13.680Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Loco Motion
+    url: https://loco-motion.fr/
+    description: Motion design and creative video production studio at La Plaine Images making animated films for brands and advertising.
+    hq:
+      city: Tourcoing
+      country: France
+    disciplines:
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/agence_locomotion
+      linkedin: https://www.linkedin.com/company/agence-locomotion
+      vimeo: https://www.vimeo.com/agencelocomotion
+    added_at: '2026-11-08T20:25:13.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: La Chouette Compagnie
+    url: https://www.chouetteco.com/
+    description: Develops and produces animated series for families, with a creative studio in Montreuil and a production studio in Angoulême.
+    hq:
+      city: Montreuil
+      country: France
+    offices:
+      - city: Angoulême
+        country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Dreamland
+    added_at: '2026-11-08T20:25:13.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Les Androïds Associés
+    url: https://www.androids.fr/
+    description: Paris previsualization company making previs, techvis and postvis for feature films and series since 2010.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - previs
+    markets:
+      - film
+      - episodic
+    founded: 2010
+    social:
+      linkedin: https://www.linkedin.com/company/les-andro-ds-associ-s
+    added_at: '2026-11-08T20:25:13.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zephyr Animation
+    url: https://zephyranimation.com/
+    description: Paris production company developing and producing character-driven animated series for international audiences.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2019
+    social:
+      linkedin: https://www.linkedin.com/company/zephyr-animation
+    added_at: '2026-11-08T20:25:13.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Umeshu Lovers
+    url: https://umeshulovers.com/
+    description: Toulouse visual development studio making concept art for film, animation and game studios, plus its own games.
+    hq:
+      city: Toulouse
+      country: France
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/umeshulovers/
+      linkedin: https://www.linkedin.com/company/umeshu-lovers/
+    added_at: '2026-11-08T20:25:13.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gameleon
+    url: https://gameleon-studio.fr/
+    description: Lyon game art outsourcing studio that also develops its own village-builder god game, Ornelia.
+    hq:
+      city: Lyon
+      country: France
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - Ornelia
+    added_at: '2026-11-08T20:25:13.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cats & Foxes
+    url: https://catsandfoxes.com/
+    description: Interactive studio near Nancy designing serious games and interactive experiences with healthcare teams, museums and educators.
+    hq:
+      city: Villers-lès-Nancy
+      country: France
+    disciplines:
+      - interactive
+      - xr
+    markets:
+      - medical-science
+      - brand
+    notable:
+      - ScenaCare
+    added_at: '2026-11-08T20:25:13.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bloc D
+    url: https://bloc-d.com/
+    description: Lyon creative studio making VFX, 3D animation, motion design, projection mapping and VR content for advertising and entertainment since 2010.
+    hq:
+      city: Lyon
+      country: France
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - experiential
+      - xr
+    markets:
+      - advertising
+      - brand
+      - film
+    founded: 2010
+    careers: https://bloc-d.com/jobs/
+    notable:
+      - Adidas 4DFWD
+    social:
+      instagram: https://www.instagram.com/bloc_d/
+      vimeo: https://vimeo.com/blocdstudio
+      linkedin: https://www.linkedin.com/company/2713812
+    added_at: '2026-11-08T20:25:13.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DUSK
+    url: https://www.duskvfx.fr/
+    description: Paris VFX studio, formerly IIW Studio, making visual effects for cinema, series and advertising since 2012.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/duskvfx.fr/
+      linkedin: https://www.linkedin.com/company/duskvfx
+    added_at: '2026-11-08T20:25:13.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Les Tontons Truqueurs
+    url: https://www.ltt-vfx.com/
+    description: Vendargues studio offering virtual production, green-screen and XR stages, motion capture and VFX post-production for TV and film.
+    hq:
+      city: Vendargues
+      country: France
+    disciplines:
+      - virtual-production
+      - vfx
+      - mocap
+    markets:
+      - episodic
+      - film
+    founded: 2018
+    notable:
+      - Un si grand soleil (France 2)
+    social:
+      instagram: https://www.instagram.com/ltt_vfx/
+      linkedin: https://www.linkedin.com/company/les-tontons-truqueurs/
+    added_at: '2026-11-08T20:25:13.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Noid Studio
+    url: https://www.noid-studio.com/
+    description: Independent Paris post-production studio making high-end visual effects and CG content for feature films and series.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/noid_studio
+      linkedin: https://www.linkedin.com/company/noid/
+    added_at: '2026-11-08T20:25:13.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AC3 Studio
+    url: https://ac3-studio.com/
+    description: Creative technology studio making projection mapping, immersive installations and interactive experiences for brands and cultural events.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Hong Kong
+        country: Hong Kong
+      - city: Ho Chi Minh City
+        country: Vietnam
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Gateway of India mapping (2026)
+    social:
+      instagram: https://www.instagram.com/ac3studio
+      linkedin: https://www.linkedin.com/company/ac3-studio/
+    added_at: '2026-11-08T20:25:13.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AV Extended
+    url: https://av-extended.com/
+    description: Multimedia studio creating monumental video mapping, light art, exhibitions and concert visuals on architecture.
+    hq:
+      country: France
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/avextended/
+      linkedin: https://www.linkedin.com/company/av-extended/
+    added_at: '2026-11-08T20:25:13.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Digiteyes
+    url: https://digiteyes.fr/
+    description: CGI and VFX studio making 3D packshots, product films and FOOH campaigns for luxury, beauty and automotive brands since 2014.
+    hq:
+      city: Saint-Ouen
+      country: France
+    disciplines:
+      - product-viz
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - brand
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/digiteyesvfx/
+      linkedin: https://www.linkedin.com/company/digiteyes
+    added_at: '2026-11-08T20:25:13.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BackLight
+    url: https://backlight.fr/
+    description: Paris immersive studio creating VR, AR and location-based entertainment experiences for entertainment brands and culture since 2008.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+      - episodic
+    founded: 2008
+    notable:
+      - Opéra Magique
+      - Mission Gulliverse (Gulli)
+    social:
+      linkedin: https://www.linkedin.com/company/backlight-
+    added_at: '2026-11-08T20:25:13.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Atelier Daruma
+    url: https://atelierdaruma.com/
+    description: Paris studio for collective location-based VR and immersive shows, with its own live motion capture and XR theater tech, since 2018.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - experiential
+      - mocap
+    markets:
+      - brand
+      - film
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/atelierdaruma/
+      linkedin: https://fr.linkedin.com/company/atelier-daruma
+    added_at: '2026-11-08T20:25:13.696Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flat Pixel
+    url: https://flatpixel.fr/
+    description: Paris augmented reality game studio making playful interactive AR content and filters for brands.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/flat_pixel
+      linkedin: https://fr.linkedin.com/company/flatpixel
+    added_at: '2026-11-08T20:25:13.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tchack
+    url: https://www.tchack.com/
+    description: Lille production company making animated features, shorts and animated documentaries, plus a kids slate.
+    hq:
+      city: Lille
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Jungle Rouge
+      - Inside Kaboul
+      - Le Grand Gaillard
+    added_at: '2026-11-08T20:25:13.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Airborn Studios
+    url: https://www.airborn-studios.com/
+    description: Berlin art studio doing 2D, 3D, level art and visual development for game developers.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    added_at: '2026-11-08T20:25:13.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fish Blowing Bubbles
+    url: https://www.fishblowing.com/
+    description: Munich video producer making image, product and trade-fair films with in-house 3D, animation and VFX for industrial clients.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - live-action
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    founded: 2000
+    social:
+      linkedin: https://www.linkedin.com/company/fishblowing/
+      instagram: https://www.instagram.com/fishblowingbubbles/
+      vimeo: https://vimeo.com/fishblowing
+    added_at: '2026-11-08T20:25:13.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flappers Film & VFX
+    url: https://www.flappers.film/
+    description: Hamburg production and post-production company for film and VFX.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - live-action
+      - vfx
+    markets:
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/flappersfilmandvfx/
+    added_at: '2026-11-08T20:25:13.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: POM POM Animation
+    url: https://pompom-animation.com/
+    description: Social impact animation studio co-producing 2D and stop-motion features such as Sidi Kaba and Heirloom.
+    hq:
+      city: Thale
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    notable:
+      - Sidi Kaba
+      - Heirloom
+    social:
+      instagram: https://www.instagram.com/pompom_animation_
+      linkedin: https://www.linkedin.com/company/pom-pom-animation
+    added_at: '2026-11-08T20:25:13.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Animauz
+    url: https://www.animauz.de/
+    description: Dresden studio producing hand-drawn, cut-out and stop-motion animation for shorts and commissioned films.
+    hq:
+      city: Dresden
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+      - brand
+    social:
+      instagram: https://www.instagram.com/studio_animauz/
+    added_at: '2026-11-08T20:25:13.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Rakete
+    url: https://www.studiorakete.de/
+    description: Hamburg animation studio co-producing and making 2D and 3D feature films, TV series and commercials.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/studiorakete/
+    added_at: '2026-11-08T20:25:13.704Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Super Black
+    url: https://superblack-vfx.com/
+    description: Creative studio for design, animation, CGI, VFX, grading and post for TV, advertising and film.
+    hq:
+      city: Oberhaching
+      country: Germany
+    disciplines:
+      - motion-design
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - episodic
+      - film
+    founded: 2020
+    social:
+      linkedin: https://www.linkedin.com/company/super-black-vfx
+      instagram: https://www.instagram.com/superblack_vfx/
+    added_at: '2026-11-08T20:25:13.705Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hahn Film
+    url: https://www.hahnfilm.com/
+    description: Berlin company developing and producing 2D and CGI animated children's series since 1980.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 1980
+    notable:
+      - Worry Eaters
+      - Mystery Museum
+    added_at: '2026-11-08T20:25:13.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Atelier Markgraph
+    url: https://www.markgraph.de/
+    description: Frankfurt studio designing analog-digital brand spaces, exhibitions and trade-fair experiences.
+    hq:
+      city: Frankfurt
+      country: Germany
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 1986
+    social:
+      linkedin: https://www.linkedin.com/company/atelier-markgraph/
+    added_at: '2026-11-08T20:25:13.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pirates 'n Paradise
+    url: https://piratesnparadise.de/
+    description: Düsseldorf post-production house for editing, compositing, motion graphics and 3D work on commercials.
+    hq:
+      city: Düsseldorf
+      country: Germany
+    offices:
+      - city: Meerbusch
+        country: Germany
+    disciplines:
+      - vfx
+      - motion-design
+      - cg
+    markets:
+      - advertising
+    added_at: '2026-11-08T20:25:13.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dock2Studios
+    url: https://www.dock2studios.de/
+    description: Lüneburg studio creating CGI, photo and film content and look development, with a focus on automotive clients.
+    hq:
+      city: Lüneburg
+      country: Germany
+    disciplines:
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/dock2studios/
+    added_at: '2026-11-08T20:25:13.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tag & Nacht Media
+    url: https://www.tagundnachtmedia.de/
+    description: Darmstadt film production and creative studio covering commercials, animation, VFX and grading.
+    hq:
+      city: Darmstadt
+      country: Germany
+    disciplines:
+      - live-action
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - music-video
+      - brand
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/tagundnachtmedia
+      vimeo: https://vimeo.com/tagundnachtmedia
+    added_at: '2026-11-08T20:25:13.710Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NMY
+    url: https://www.nmy.de/
+    description: Frankfurt studio building enterprise XR experiences and digital twins for B2B clients.
+    hq:
+      city: Frankfurt
+      country: Germany
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2006
+    social:
+      linkedin: https://www.linkedin.com/company/nmy-mixed-reality-communication-gmbh
+    added_at: '2026-11-08T20:25:13.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spreadfilms
+    url: https://spreadfilms.com/
+    description: Film agency producing image films, commercials, product films and explainers with in-house 3D and animation.
+    hq:
+      city: Traunstein
+      country: Germany
+    disciplines:
+      - live-action
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2008
+    social:
+      linkedin: https://www.linkedin.com/company/spreadfilms/
+      vimeo: https://vimeo.com/spreadfilms
+      instagram: https://www.instagram.com/spreadfilms.de/
+    added_at: '2026-11-08T20:25:13.712Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Wolke
+    url: https://studio-wolke.de/
+    description: Hamburg animation studio making films for TV, advertising and exhibitions, plus festival shorts.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Gelato
+      - Ummi und Zaki
+    added_at: '2026-11-08T20:25:13.713Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Jumping Spider
+    url: https://www.jumpingspider.studio/
+    description: Director-led film and animation production company run by independent filmmakers.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: https://www.instagram.com/jumpingspider.studio/
+    added_at: '2026-11-08T20:25:13.714Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: xkopp creative
+    url: https://xkopp.de/
+    description: Studio for animation, editing, design and art direction on documentaries, series and VR films.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Cologne
+        country: Germany
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - film
+      - episodic
+    social:
+      linkedin: https://www.linkedin.com/company/xkopp-creative
+    added_at: '2026-11-08T20:25:13.715Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PONG.Li Studios
+    url: https://pong.li/
+    description: Karlsruhe studio staging spaces, games and art installations across media for over 20 years.
+    hq:
+      city: Karlsruhe
+      country: Germany
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/pong-li-gmbh
+      instagram: https://www.instagram.com/pong.li_studios/
+    added_at: '2026-11-08T20:25:13.716Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frischvergiftung
+    url: https://www.frischvergiftung.de/
+    description: Stuttgart design studio creating digital experiences for screens and physical spaces.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - interactive
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/frischvergiftung/
+      vimeo: http://www.vimeo.com/Frischvergiftung
+    added_at: '2026-11-08T20:25:13.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: octomotion
+    url: https://www.octomotion.de/
+    description: 3D motion design studio making product animation and content for medtech, machinery and hightech companies.
+    hq:
+      city: Denkingen
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - motion-design
+    markets:
+      - advertising
+      - medical-science
+    social:
+      linkedin: https://www.linkedin.com/company/octomotion-gmbh/
+      instagram: https://www.instagram.com/octomotion.studio/
+      vimeo: https://vimeo.com/octomotion
+    added_at: '2026-11-08T20:25:13.718Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: UP Designstudio
+    url: https://www.updesignstudio.de/
+    description: Stuttgart design studio making 3D animation, industrial films and configurators for technical products.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - interactive
+    markets:
+      - brand
+      - advertising
+    founded: 1994
+    social:
+      linkedin: https://de.linkedin.com/company/updesignstudio
+      instagram: https://www.instagram.com/updesignstudio/
+    added_at: '2026-11-08T20:25:13.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: nhb studios
+    url: https://nhb.de/
+    description: Hamburg post-production studio making VFX-heavy commercials for filmmakers, agencies and brands.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/nhbstudios
+      vimeo: https://vimeo.com/nhbstudios
+    added_at: '2026-11-08T20:25:13.720Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Paper Plane Animation
+    url: https://paperplaneanimation.com/
+    description: Weimar studio making animated shorts, series and features with analog techniques.
+    hq:
+      city: Weimar
+      country: Germany
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/paperplaneanimation
+    added_at: '2026-11-08T20:25:13.721Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SilentFuture
+    url: https://silentfuture.de/
+    description: Wuppertal studio building interactive 3D maps, real-time visualisations, simulations, games and learning software.
+    hq:
+      city: Wuppertal
+      country: Germany
+    disciplines:
+      - interactive
+    markets:
+      - brand
+    founded: 2006
+    added_at: '2026-11-08T20:25:13.722Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The SPA Studios
+    url: https://thespastudios.com/
+    description: Feature animation studio that made the Netflix film Klaus and is developing the prehistoric feature Ember.
+    hq:
+      city: Las Rozas
+      country: Spain
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Klaus
+      - Ember
+    social:
+      instagram: https://www.instagram.com/thespastudios/
+      linkedin: https://www.linkedin.com/company/the-spa-studios/
+      vimeo: https://vimeo.com/thespastudios
+    added_at: '2026-11-08T20:25:13.723Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lightbox Animation Studios
+    url: https://lbox.es/
+    description: Animation studio and production company making CG feature films, commercials and the TV series Discover with Tad.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2008
+    careers: https://lbox.es/jobs/
+    notable:
+      - Tad the Lost Explorer
+      - Discover with Tad
+    added_at: '2026-11-08T20:25:13.724Z'
+  - name: Tomavision
+    url: https://www.tomavision.net/
+    description: Creative production company offering animation services for audiences of all ages.
+    hq:
+      city: Santa Cruz de Tenerife
+      country: Spain
+    offices:
+      - city: Barcelona
+        country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    social:
+      instagram: https://www.instagram.com/tomavisionstudio/
+      linkedin: https://www.linkedin.com/company/tomavision-studio/
+    added_at: '2026-11-08T20:25:13.725Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Most Wanted Studio
+    url: https://mostwantedstudio.com/
+    description: Audiovisual studio producing animated shorts and series, with animation and post-production services for clients.
+    hq:
+      city: Altafulla
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2007
+    notable:
+      - Marla y Los Guardianes del Tiempo
+      - Me, a Monster
+    social:
+      vimeo: https://vimeo.com/mostwantedstudio
+      linkedin: https://www.linkedin.com/company/mostwantedstudio
+      instagram: https://www.instagram.com/mws_tgn
+    added_at: '2026-11-08T20:25:13.726Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Paramotion Films
+    url: https://www.paramotionfilms.es/
+    description: Studio producing 2D, 3D and stop-motion animation, VFX and VR content, and running animation events and workshops.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+      - vfx
+      - xr
+    markets:
+      - advertising
+    social:
+      vimeo: https://vimeo.com/paramotionfilms
+      linkedin: https://www.linkedin.com/company/paramotion-films/
+      youtube: https://www.youtube.com/user/paramotionpro
+    added_at: '2026-11-08T20:25:13.727Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wise Blue Studios
+    url: https://www.wisebluestudios.com/
+    description: Animation studio producing series and shorts such as Hero Dad, Blue & Malone and MiBots.
+    hq:
+      city: Valencia
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Hero Dad
+      - Blue & Malone
+      - MiBots
+    social:
+      instagram: https://www.instagram.com/wisebluestudios/
+      linkedin: https://www.linkedin.com/company/wisebluestudios
+      vimeo: https://vimeo.com/wisebluestudios
+    added_at: '2026-11-08T20:25:13.728Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glow Animation
+    url: https://www.theglow.es/
+    description: Production company specialised in animation, motion graphics and VFX, behind the animated feature Buñuel en el laberinto de las tortugas.
+    hq:
+      city: Almendralejo
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - vfx
+    markets:
+      - film
+      - advertising
+    founded: 2010
+    notable:
+      - Buñuel en el laberinto de las tortugas
+    social:
+      instagram: https://www.instagram.com/theglowanimation/
+      vimeo: https://vimeo.com/theglow
+    added_at: '2026-11-08T20:25:13.729Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

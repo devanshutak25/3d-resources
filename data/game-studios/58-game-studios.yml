@@ -1,0 +1,866 @@
+studios:
+  - name: Headnought
+    url: https://headnought.com/
+    description: Mobile game studio making its own games and development work for other companies.
+    hq:
+      city: Lappeenranta
+      country: Finland
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/headnought/
+      linkedin: https://www.linkedin.com/company/headnought/
+    added_at: '2026-11-08T20:25:13.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: HypeHype
+    url: https://hypehype.com/
+    description: Mobile game creation platform and studio, creators of BADLAND and Rumble Stars, backed by Supercell.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - ugc
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - BADLAND
+      - Rumble Stars
+    social:
+      linkedin: https://www.linkedin.com/company/hypehypeinc
+    added_at: '2026-11-08T20:25:13.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Psyon Games
+    url: https://psyongames.com/
+    description: Applied game studio making research-based health games for awareness, diagnosis and therapy.
+    hq:
+      city: Jyväskylä
+      country: Finland
+    offices:
+      - city: Helsinki
+        country: Finland
+    segments:
+      - indie
+    notable:
+      - Antidote
+      - FULL ADHD
+    social:
+      instagram: https://www.instagram.com/psyon_games/
+      linkedin: https://www.linkedin.com/company/psyon-games/
+    added_at: '2026-11-08T20:25:13.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Phantom Gamelabs
+    url: https://phantomgamelabs.com/
+    description: Mobile developer of co-op action RPGs; Riftbusters launched globally in September 2025.
+    hq:
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Riftbusters
+    social:
+      linkedin: https://www.linkedin.com/company/phantom-gamelabs
+    added_at: '2026-11-08T20:25:13.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Traplight
+    url: https://www.traplightgames.com/
+    description: Mobile studio making physics racing and multiplayer games, plus brand collaborations and co-development.
+    hq:
+      country: Finland
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    social:
+      instagram: https://www.instagram.com/traplightgames/
+      linkedin: https://www.linkedin.com/company/traplight-ltd-/
+    added_at: '2026-11-08T20:25:13.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lightheart Entertainment
+    url: https://www.lightheart.games/
+    description: Mobile developer of arcade action shooters such as Mr. Autofire.
+    hq:
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Mr. Autofire
+      - Spanky's Zombie Slayer
+    social:
+      linkedin: https://www.linkedin.com/company/lightheartentertainment/
+    added_at: '2026-11-08T20:25:13.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Manic Nova Games
+    url: https://www.manicnovagames.com/
+    description: Small indie studio, maker of The Mighty Claw.
+    hq:
+      city: Turku
+      country: Finland
+    segments:
+      - indie
+    notable:
+      - The Mighty Claw
+    added_at: '2026-11-08T20:25:13.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VRKiwi
+    url: https://vrkiwi.org/
+    description: VR game developer and publisher, maker of the Cave Digger series.
+    hq:
+      city: Oulu
+      country: Finland
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    founded: 2014
+    notable:
+      - Cave Digger 2
+    added_at: '2026-11-08T20:25:13.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Seven Stars
+    url: https://www.sevenstars.games/
+    description: Mobile startup behind the merge puzzle game Merge Castaways.
+    hq:
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Merge Castaways
+    added_at: '2026-11-08T20:25:13.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Playsome Games
+    url: https://www.playsome.fi/
+    description: Small mobile team of veterans; its first title is the puzzle hero collector Friends & Dragons.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Friends & Dragons
+    added_at: '2026-11-08T20:25:13.696Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kitka Games
+    url: https://kitkagames.com/
+    description: 'Mobile developer focused on multiplayer games such as Battle Guys: Royale.'
+    hq:
+      city: Kajaani
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Battle Guys: Royale'
+    added_at: '2026-11-08T20:25:13.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Latchback Games
+    url: https://latchbackgames.com/
+    description: Mobile studio behind the roguelite card game Break the Beyond.
+    hq:
+      city: Lahti
+      country: Finland
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Break the Beyond
+    added_at: '2026-11-08T20:25:13.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Antiproto
+    url: https://antiproto.com/
+    description: Game and web development studio making PC survival and action games.
+    hq:
+      city: Lahti
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Prehistoric Hunt
+      - 'Damnation: City of Death'
+      - Crash Landed
+    added_at: '2026-11-08T20:25:13.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Still Running
+    url: https://stillrunning.fi/
+    description: 'Independent studio known for Morbid: The Seven Acolytes and Zombie Kill of the Week: Reborn.'
+    hq:
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - 'Morbid: The Seven Acolytes'
+      - 'Morbid: The Lords of Ire'
+      - 'Zombie Kill of the Week: Reborn'
+    added_at: '2026-11-08T20:25:13.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fuzzy House
+    url: https://www.fuzzyhouse.com/
+    description: Maker of digital toys and apps for preschoolers.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Mini Morfi
+      - Wonder Woollies
+      - Fuzzy House
+    social:
+      instagram: https://www.instagram.com/fuzzyhouse/
+    added_at: '2026-11-08T20:25:13.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Savannah Entertainment
+    url: https://savannah.dk/
+    description: Developer of games, apps and series for children.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Mis med de blå øjne
+      - Prinsessen og fyrtøjet
+    added_at: '2026-11-08T20:25:13.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Those Eyes
+    url: https://www.thoseeyes.dk/
+    description: Studio making video games, books and animation with a focus on play and humor.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cosmic Top Secret
+      - Mouse & Crane
+    social:
+      linkedin: https://www.linkedin.com/company/thoseeyes/
+    added_at: '2026-11-08T20:25:13.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kong Orange
+    url: https://www.kongorange.com/
+    description: Digital studio making games, comics and music experiences, including the stop-motion co-op game Out of Words.
+    hq:
+      city: Aarhus
+      country: Denmark
+    segments:
+      - indie
+    notable:
+      - Out of Words
+      - Heartbeats
+    added_at: '2026-11-08T20:25:13.704Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Niila Games
+    url: http://niila.io/
+    description: Independent studio known for the narrative game Stilstand.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Stilstand
+    social:
+      instagram: https://www.instagram.com/niilagames/
+    added_at: '2026-11-08T20:25:13.705Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Invisible Walls
+    url: https://www.invisiblewalls.co/
+    description: Studio making social multiplayer games and co-developing Deep Rock Galactic content with Ghost Ship Games.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Coffee Stain Group
+    notable:
+      - First Class Trouble
+      - 'Neighbors: Suburban Warfare'
+      - 'Aporia: Beyond the Valley'
+    added_at: '2026-11-08T20:25:13.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Octato
+    url: https://octato.dk/
+    description: Studio behind the puzzle platformer Airhead.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2018
+    notable:
+      - Airhead
+    added_at: '2026-11-08T20:25:13.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Funday Games
+    url: https://www.fundaygames.dk/
+    description: 'Developer of PC games including Deep Rock Galactic: Survivor and Northgard Battlegrounds.'
+    hq:
+      city: Aarhus
+      country: Denmark
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'Deep Rock Galactic: Survivor'
+      - Northgard Battlegrounds
+    added_at: '2026-11-08T20:25:13.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FlatPonies
+    url: https://www.flatponies.com/
+    description: Game studio in the VRUnicorns family making PC games such as Rebots.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Rebots
+      - AkiRobots
+      - Scratch The Cat
+    added_at: '2026-11-08T20:25:13.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Italic
+    url: https://www.midnightgirlgame.com/italic
+    description: Small indie company, maker of the 2D point-and-click adventure Midnight Girl.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - Midnight Girl
+    added_at: '2026-11-08T20:25:13.710Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Galdra Studios
+    url: https://galdrastudios.com/
+    description: Team focused on interactive storytelling, maker of the Arcadia Fallen visual novels.
+    hq:
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Arcadia Fallen
+      - Arcadia Fallen II
+    added_at: '2026-11-08T20:25:13.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Indoor Sunglasses
+    url: https://indoor-sunglasses.com/
+    description: Studio making exploration games built on player curiosity.
+    hq:
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Mind Diver
+      - Feed the Forest
+    added_at: '2026-11-08T20:25:13.712Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Professional Villains
+    url: https://professionalvillains.com/
+    description: Indie studio making horror and adventure games for PC.
+    hq:
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Security: The Horrible Nights'
+      - Anglerfish
+      - Unsound Love
+    added_at: '2026-11-08T20:25:13.713Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Teacup Games
+    url: https://teacupgames.com/
+    description: Five-person indie studio making adventure games for PC and consoles.
+    hq:
+      country: Denmark
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Hell Dive
+    added_at: '2026-11-08T20:25:13.714Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ugly Duckling Games
+    url: https://uglyducklinggames.com/
+    description: Developer of learning games for schools, including Drama Studio.
+    hq:
+      country: Denmark
+    segments:
+      - kids-edu
+    notable:
+      - Drama Studio
+    added_at: '2026-11-08T20:25:13.715Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MiniMo
+    url: https://minimo.dk/
+    description: 'Developer of casual family games such as the party game MiniMo: Crazy Chase.'
+    hq:
+      country: Denmark
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'MiniMo: Crazy Chase'
+      - 'MiniMo: Match to Catch'
+    added_at: '2026-11-08T20:25:13.716Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Endroad
+    url: https://www.the-endroad.com/
+    description: Independent Nantes game studio making action games, including licensed titles.
+    hq:
+      city: Nantes
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fallback (2019)
+      - 'UFO Robot Grendizer: The Feast of the Wolves'
+      - Court of the Dead
+    added_at: '2026-11-08T20:25:13.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ZDT Studio
+    url: https://zedrimetim.com/
+    description: Paris game studio behind the 3D platform adventure Darwin's Paradox!, starring an octopus.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://zedrimetim.com/careers
+    notable:
+      - Darwin's Paradox!
+    social:
+      instagram: https://www.instagram.com/zdt_paris/
+    added_at: '2026-11-08T20:25:13.718Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SciFunGames
+    url: https://scifungames.com/
+    description: Studio making video games built on real science, starting with the particle physics adventure Exographer.
+    hq:
+      country: France
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - console
+    notable:
+      - Exographer
+    social:
+      linkedin: https://www.linkedin.com/company/scifungames
+    added_at: '2026-11-08T20:25:13.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ludogram
+    url: https://ludogram.io/
+    description: Lille game studio making narrative, multiplayer and multiplatform games.
+    hq:
+      city: Lille
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Invokyr
+      - 'Ascenders: Beyond the Peak'
+    social:
+      instagram: https://www.instagram.com/LudogramGames
+      linkedin: https://www.linkedin.com/company/ludogram
+    added_at: '2026-11-08T20:25:13.720Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spooky Games
+    url: https://www.spooky.games/
+    description: Nantes indie studio making strategy and management games since 2017.
+    hq:
+      city: Nantes
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2017
+    notable:
+      - Sanctuaries
+      - Condor
+    social:
+      instagram: https://www.instagram.com/spookygames.studio/
+    added_at: '2026-11-08T20:25:13.721Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: I am a Dog Studio
+    url: https://www.cibogame.com/
+    description: Strasbourg indie studio behind the 2D adventure game Cosmic Holidays.
+    hq:
+      city: Strasbourg
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cosmic Holidays
+    social:
+      instagram: https://www.instagram.com/i_am_a_dog_studio/
+    added_at: '2026-11-08T20:25:13.722Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Les Crafteurs
+    url: https://www.les-crafteurs.com/
+    description: Lille indie studio of four creators, makers of the toaster sports game Toasterball.
+    hq:
+      city: Lille
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Toasterball
+    social:
+      instagram: https://www.instagram.com/studiocrafteurs
+    added_at: '2026-11-08T20:25:13.723Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lozange Lab
+    url: https://www.lozange-lab.com/
+    description: Metz studio making indie games and interactive installations since 2014.
+    hq:
+      city: Metz
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2014
+    notable:
+      - Rip Them Off
+      - Game Settings
+    social:
+      instagram: https://www.instagram.com/lozange.lab/
+    added_at: '2026-11-08T20:25:13.724Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lugludum
+    url: https://lugludum.com/
+    description: Lyon indie studio making games for PC, Steam Deck and the Playdate handheld.
+    hq:
+      city: Lyon
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Scrolling Enigma
+      - Crankstone
+    social:
+      linkedin: https://www.linkedin.com/company/lugludum
+    added_at: '2026-11-08T20:25:13.725Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Carpool Studio
+    url: https://www.carpoolstudio.com/
+    description: Paris game studio with a second site in Castelnau-le-Lez, developing competitive and co-op multiplayer games.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Castelnau-le-Lez
+        country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: https://www.linkedin.com/company/carpool-studio/jobs/
+    social:
+      instagram: https://www.instagram.com/carpoolstudio
+      linkedin: https://www.linkedin.com/company/carpool-studio
+    added_at: '2026-11-08T20:25:13.726Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Playrion
+    url: https://www.playrion.com/
+    description: Paris mobile game developer making aviation management and simulation games.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+      - pc
+    parent: Paradox Interactive
+    notable:
+      - Airlines Manager
+      - 'Airport Simulator: First Class'
+    social:
+      linkedin: https://www.linkedin.com/company/playrion
+    added_at: '2026-11-08T20:25:13.727Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PowerZ
+    url: https://powerz.tech/
+    description: Paris studio behind PowerZ, an ad-free 3D learning adventure game teaching math and STEM to kids aged 6 and up.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - 'PowerZ: The Learning Game'
+    added_at: '2026-11-08T20:25:13.728Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Two Buttons
+    url: https://twobuttons.games/
+    description: Toulouse indie studio founded in 2022, maker of the chess-inspired puzzle game Take the King!
+    hq:
+      city: Toulouse
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2022
+    notable:
+      - Take the King!
+    social:
+      linkedin: https://www.linkedin.com/company/twobuttons/
+    added_at: '2026-11-08T20:25:13.729Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wild Wits Games
+    url: https://wildwits.games/
+    description: Independent Rennes studio behind the narrative RPG Sovereign Tower.
+    hq:
+      city: Rennes
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Sovereign Tower (2026)
+    social:
+      instagram: https://www.instagram.com/wildwitsgames/
+      linkedin: https://www.linkedin.com/company/wild-wits-games/
+    added_at: '2026-11-08T20:25:13.730Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flying Oak Games
+    url: https://flying-oak.com/
+    description: Metz studio making action games with a focus on game feel since 2014.
+    hq:
+      city: Metz
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - ScourgeBringer
+      - Neurovoider
+    added_at: '2026-11-08T20:25:13.731Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kalank Games
+    url: https://kalank.games/
+    description: Independent game studio founded in 2017, developing its own games and co-developing projects for partners.
+    hq:
+      city: Gond-Pontouvre
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2017
+    social:
+      linkedin: https://www.linkedin.com/company/kalankgames/
+    added_at: '2026-11-08T20:25:13.732Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Runes Studio
+    url: https://runes-studio.com/
+    description: Game studio developing the action game Wardens of Avalon, published by The Arcade Crew.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    added_at: '2026-11-08T20:25:13.733Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hallucinations Studio
+    url: https://hallucinations-studio.com/
+    description: Lyon studio making VR and PC games and offering game and VR development services.
+    hq:
+      city: Lyon
+      country: France
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Crêpe Master
+      - Robots Haven
+    added_at: '2026-11-08T20:25:13.734Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Opal Games
+    url: https://opalgames.fr/
+    description: Independent studio founded in Paris in 2017 that designs, develops and publishes its own games and does work for hire.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - web
+    founded: 2017
+    added_at: '2026-11-08T20:25:13.735Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nextale Games
+    url: https://nextalegames.com/
+    description: Montpellier indie studio making story and strategy games, also offering development services.
+    hq:
+      city: Montpellier
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://nextalegames.com/home/careers/
+    social:
+      instagram: https://www.instagram.com/nextalegames/
+      linkedin: https://www.linkedin.com/company/nextale-games/
+    added_at: '2026-11-08T20:25:13.736Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

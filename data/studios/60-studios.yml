@@ -1,0 +1,902 @@
+studios:
+  - name: Avtoritet Studio
+    url: https://www.avtoritetstudio.com/
+    description: Full-cycle 2D animation studio producing series and shorts and taking service work on international animated features.
+    hq:
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    notable:
+      - Toto (series, Suspilne)
+      - Laskars (animation service for Millimages)
+      - What I Love (anthology)
+    added_at: '2026-11-08T20:25:13.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: and action
+    url: https://www.and-action.net/
+    description: Lviv creative studio mixing live-action, animation and generative AI to make promos, brand campaigns and explainers.
+    hq:
+      city: Lviv
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/andaction.agency/
+      vimeo: https://vimeo.com/andactionprod
+      behance: https://www.behance.net/andactionagency
+      linkedin: https://www.linkedin.com/company/and-action/
+    added_at: '2026-11-08T20:25:13.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Animayster
+    url: https://animayster.com/
+    description: Kyiv computer animation studio making CG animation, cinematics, mascots and VR360 content for brands and film projects.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - 3d-animation
+      - cg
+      - xr
+    markets:
+      - advertising
+      - brand
+      - film
+    added_at: '2026-11-08T20:25:13.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FixIt VFX
+    url: https://fixitvfx.com.ua/
+    description: Boutique Ukrainian post-production studio specialising in compositing and visual effects for film, TV and web projects.
+    hq:
+      country: Ukraine
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T20:25:13.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: M1X Studio
+    url: https://m1x.com/
+    description: CGI, VFX and animation house in Kyiv providing outsourced production for films, commercials, agencies and product owners.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    offices:
+      - city: Warsaw
+        country: Poland
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+      - outsourcing
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: https://www.instagram.com/m1x_studio/
+      vimeo: https://vimeo.com/m1x
+    added_at: '2026-11-08T20:25:13.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mriya Production
+    url: https://mriya.productions/
+    description: Kyiv virtual production and CG studio building real-time virtual worlds, XR and AR broadcast graphics for video, live shows and events.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Miami
+        country: United States
+    disciplines:
+      - virtual-production
+      - cg
+      - xr
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/mriyaproduction/
+      linkedin: https://www.linkedin.com/company/mriyaproduction
+    added_at: '2026-11-08T20:25:13.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ulysses Graphics
+    url: https://ulysses-graphics.com/
+    description: Kyiv game art production company founded in 2005, making 2D and 3D assets for AAA and other game titles.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    founded: 2005
+    social:
+      artstation: https://www.artstation.com/artist/ulysses-graphics
+    added_at: '2026-11-08T20:25:13.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: One Location
+    url: http://onelocation.studio/
+    description: Kyiv virtual production stage running LED-volume shoots with real-time environments for film and advertising.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/onelocation_vp_studio/
+      linkedin: https://www.linkedin.com/company/onelocation/
+    added_at: '2026-11-08T20:25:13.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: To Be Production
+    url: https://www.tobeproduction.com/
+    description: Kyiv production company offering motion-control rigs, virtual production, CG and VFX for commercials and video content.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    offices:
+      - city: Kraków
+        country: Poland
+    disciplines:
+      - virtual-production
+      - vfx
+      - cg
+      - live-action
+    markets:
+      - advertising
+    founded: 2014
+    social:
+      instagram: http://instagram.com/tobeproduction
+    added_at: '2026-11-08T20:25:13.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Galera
+    url: https://galera.agency/
+    description: Lviv animation studio making 2D explainers and motion graphics for tech companies and startups.
+    hq:
+      city: Lviv
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      behance: https://www.behance.net/agencygalera
+    added_at: '2026-11-08T20:25:13.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio KAPI
+    url: https://kapianimation.com/
+    description: Ukrainian animation studio producing films and series for children, often as international co-productions.
+    hq:
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T20:25:13.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kadrų Skyrius
+    url: https://www.kadruskyrius.lt/
+    description: Vilnius stop-motion animation studio making films and TV commercials.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - stop-motion
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-08T20:25:13.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tape
+    url: https://www.tape.eu/
+    description: Vilnius post-production and VFX studio working on advertising, film and TV since 2008, with an AI studio for digital avatars and compositing.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - vfx
+      - ai-production
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2008
+    social:
+      instagram: https://www.instagram.com/tapevilnius/
+      vimeo: https://vimeo.com/tape
+    added_at: '2026-11-08T20:25:13.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MADSTONE
+    url: https://www.madstone.eu/
+    description: Vilnius post-production studio offering VFX, colour grading and film restoration.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - advertising
+    social:
+      vimeo: https://vimeo.com/madstone
+    added_at: '2026-11-08T20:25:13.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BOP! Animation
+    url: http://bop.ee/
+    description: Tallinn animation and production studio making independent animated films plus commercial animation and TV show graphics.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - advertising
+      - episodic
+    social:
+      vimeo: https://vimeo.com/bopanimation
+    added_at: '2026-11-08T20:25:13.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fork Film
+    url: https://forkfilm.eu/
+    description: Tallinn animation studio founded in 2010, making stop-motion and hand-drawn films and animated content for all platforms.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2010
+    social:
+      vimeo: http://vimeo.com/user7103602
+    added_at: '2026-11-08T20:25:13.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Silmviburlane
+    url: http://silmviburlane.ee/
+    description: Tallinn film production company making animated films, documentaries and animated documentaries.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+    notable:
+      - Sewing Machine (animated documentary, 2024)
+      - Tales of a Toy Horse
+    added_at: '2026-11-08T20:25:13.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tolm
+    url: https://tolm.tv/
+    description: Two-person Tallinn motion design studio making hero films, opening titles, channel branding and explainers for agencies and brands.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/tolmtv/
+      behance: https://www.behance.net/tolmtv
+    added_at: '2026-11-08T20:25:13.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Underdogs
+    url: https://underdogs.ee/
+    description: Tallinn boutique studio handling direction, production, VFX and post for commercials, short films and animated shorts.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - film
+    social:
+      vimeo: https://vimeo.com/underdogs
+    added_at: '2026-11-08T20:25:13.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Plankfilm
+    url: https://plankfilm.ee/
+    description: Tartu production company making animation, films and video series, including science communication clips.
+    hq:
+      city: Tartu
+      country: Estonia
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - medical-science
+    social:
+      vimeo: http://vimeo.com/plankfilm
+    added_at: '2026-11-08T20:25:13.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fgfactory
+    url: https://fgfactory.com/
+    description: Game art and development outsourcing studio founded in 2010, making 2D and 3D art, animation and full games for mobile and PC clients.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    offices:
+      - city: Kharkiv
+        country: Ukraine
+      - city: Abu Dhabi
+        country: United Arab Emirates
+      - city: Melbourne
+        country: Australia
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - cg
+    markets:
+      - games
+    founded: 2010
+    social:
+      artstation: https://artstation.com/fgfactory
+      behance: https://www.behance.net/fgfactory
+      instagram: https://www.instagram.com/fgfactory.team/
+      linkedin: https://www.linkedin.com/company/fgfactory/
+    added_at: '2026-11-08T20:25:13.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ServReality
+    url: https://servreality.com/
+    description: Kyiv VR, AR and game development company founded in 2013, building XR apps and games for clients.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - xr
+      - outsourcing
+    markets:
+      - games
+      - brand
+    founded: 2013
+    social:
+      behance: https://www.behance.net/servreality
+      linkedin: https://www.linkedin.com/company/servreality/
+    added_at: '2026-11-08T20:25:13.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Alphanova
+    url: https://alphanovastudio.com/
+    description: Dnipro game development studio founded in 2019, offering co-development, porting, game art and 2D/3D animation for publishers and startups.
+    hq:
+      city: Dnipro
+      country: Ukraine
+    offices:
+      - city: Tallinn
+        country: Estonia
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+    founded: 2019
+    social:
+      linkedin: https://www.linkedin.com/company/alphanova-it/
+    added_at: '2026-11-08T20:25:13.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arrible
+    url: https://arrible.com/
+    description: Kyiv game development and art outsourcing studio making 2D and 3D art, animation, VFX and code for game clients.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - games
+    social:
+      artstation: https://www.artstation.com/arriblestudio
+      linkedin: https://www.linkedin.com/company/arrible-company/
+    added_at: '2026-11-08T20:25:13.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BidOn Studio
+    url: https://www.bidon-gs.com/
+    description: Cherkasy Unity studio building mobile games and VR/AR apps for clients since 2012.
+    hq:
+      city: Cherkasy
+      country: Ukraine
+    disciplines:
+      - xr
+      - outsourcing
+    markets:
+      - games
+      - brand
+    founded: 2012
+    social:
+      linkedin: https://www.linkedin.com/company/bidon-games
+    added_at: '2026-11-08T20:25:13.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nasty Rodent
+    url: https://nastyrodent.com/
+    description: Tallinn game art outsourcing studio making 3D characters, environments, props, concept art and UI for mobile, PC and console games.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    social:
+      artstation: https://www.artstation.com/nastyrodent
+      linkedin: https://www.linkedin.com/company/nasty-rodent/
+    added_at: '2026-11-08T20:25:13.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fantik Studio
+    url: https://fantik.studio/
+    description: Kyiv design studio founded in 2024, making brand identities, motion design and immersive 3D interactive websites for tech companies.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - interactive
+      - motion-design
+    markets:
+      - brand
+    founded: 2024
+    social:
+      behance: https://www.behance.net/fantikstudio
+      instagram: https://www.instagram.com/fantik_studio/
+      linkedin: https://www.linkedin.com/company/fantik-studio
+    added_at: '2026-11-08T20:25:13.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sinspired Studio
+    url: https://sinspiredstudio.com/
+    description: Game art studio making stylized 2D and 3D art, concept design, environments and Spine animation for game developers.
+    hq:
+      city: Tallinn
+      country: Estonia
+    offices:
+      - city: Lviv
+        country: Ukraine
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - cg
+    markets:
+      - games
+    social:
+      artstation: https://www.artstation.com/sinspired
+      behance: https://www.behance.net/sinspired
+      instagram: https://www.instagram.com/sinspired.studio/
+      linkedin: https://www.linkedin.com/company/sinspired
+    added_at: '2026-11-08T20:25:13.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Deltatime Studio
+    url: https://deltatimestudio.com/
+    description: Technical art and real-time VFX outsourcing studio for game developers.
+    hq:
+      city: Namur
+      country: Belgium
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - games
+    social:
+      linkedin: https://linkedin.com/company/deltatimestudio
+    added_at: '2026-11-08T20:25:13.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Soulforge Studios
+    url: https://www.soulforge-studios.com/en
+    description: 3D character studio modelling characters for video games and collectibles.
+    hq:
+      city: Villers-la-Ville
+      country: Belgium
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/soulforge.studios
+      linkedin: https://www.linkedin.com/company/soulforge-studios
+    added_at: '2026-11-08T20:25:13.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Poolpio
+    url: https://poolpio.com/
+    description: VR and 360-degree video production agency making immersive films and interactive stories.
+    hq:
+      city: Brussels
+      country: Belgium
+    disciplines:
+      - xr
+      - live-action
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/poolpio
+    added_at: '2026-11-08T20:25:13.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ActiveMe
+    url: https://www.activeme.be/
+    description: Creative studio building custom interactive VR, AR and MR experiences for brands.
+    hq:
+      city: Louvain-la-Neuve
+      country: Belgium
+    disciplines:
+      - xr
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2011
+    social:
+      instagram: https://www.instagram.com/activeme_labs/
+      linkedin: https://www.linkedin.com/company/activeme/
+    added_at: '2026-11-08T20:25:13.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AlterEyes
+    url: https://altereyes.com/
+    description: Builds virtual reality attractions and content for the location-based entertainment industry.
+    hq:
+      city: Hasselt
+      country: Belgium
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/altereyesxr
+    added_at: '2026-11-08T20:25:13.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hyper Vyper
+    url: https://hyper-vyper.com/
+    description: Gamification studio building gamified apps, VR and AR experiences and serious games.
+    hq:
+      country: Belgium
+    disciplines:
+      - interactive
+      - xr
+    social:
+      linkedin: https://www.linkedin.com/company/hyper-vyper/
+    added_at: '2026-11-08T20:25:13.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fireflies
+    url: https://www.fireflies.lu/
+    description: Interactive media production company making games, animation and VR, including work for hire.
+    hq:
+      country: Luxembourg
+    disciplines:
+      - 2d-animation
+      - xr
+      - interactive
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - Al Crepuscolo VR
+    social:
+      instagram: https://www.instagram.com/fireflieslu/
+      linkedin: https://www.linkedin.com/company/fireflies-lu
+      vimeo: https://vimeo.com/firefliestudios
+    added_at: '2026-11-08T20:25:13.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Virtual Rangers
+    url: https://virtual-rangers.com/en/
+    description: VR, AR and XR studio with more than 160 delivered projects for education, culture, marketing and industry.
+    hq:
+      city: Kockelscheuer
+      country: Luxembourg
+    disciplines:
+      - xr
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2017
+    notable:
+      - Expo 2025 Osaka Luxembourg Pavilion AR experience
+    social:
+      instagram: https://www.instagram.com/virtualrangers/
+      linkedin: https://www.linkedin.com/company/virtual-rangers
+    added_at: '2026-11-08T20:25:13.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SMACK
+    url: https://studiosmack.nl/
+    description: Artist collective creating animated CG worlds as artworks, installations and music videos.
+    hq:
+      country: Netherlands
+    disciplines:
+      - 3d-animation
+      - cg
+      - experiential
+    markets:
+      - music-video
+    founded: 2005
+    notable:
+      - Speculum (NGV collection)
+      - The Towers Project
+    added_at: '2026-11-08T20:25:13.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Silver Monkey Studio
+    url: https://silvermonkey.studio/
+    description: Game art and animation studio supporting 3D art, lighting, rigging, cinematics and VFX inside client pipelines.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - cinematics
+      - vfx
+    markets:
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/silvermonkeystudio/
+    added_at: '2026-11-08T20:25:13.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: House of Secrets
+    url: https://houseofsecrets.nl/
+    description: Studio for 3D animation, VFX and VR productions for museums, brands and music artists.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - 3d-animation
+      - xr
+      - vfx
+      - experiential
+    markets:
+      - brand
+      - music-video
+      - advertising
+    founded: 2004
+    notable:
+      - Muse Simulation Theory VR Experience
+      - KIN (VR)
+      - Pepsi VR Slope Challenge
+    added_at: '2026-11-08T20:25:13.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Silly Productions
+    url: https://www.silly-productions.com/
+    description: Animation studio making explainer videos, brand animation, animated film and VR content.
+    hq:
+      city: Apeldoorn
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T20:25:13.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: STARK Learning
+    url: https://www.starklearning.eu/
+    description: Studio building VR simulations and immersive training for technical and industrial teams.
+    hq:
+      city: Groningen
+      country: Netherlands
+    offices:
+      - city: Rotterdam
+        country: Netherlands
+    disciplines:
+      - xr
+    social:
+      linkedin: https://www.linkedin.com/company/stark-learning
+    added_at: '2026-11-08T20:25:13.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VR-Innovations
+    url: https://vr-innovations.nl/
+    description: VR studio developing custom training and simulation for organisations.
+    hq:
+      city: Zwolle
+      country: Netherlands
+    disciplines:
+      - xr
+    social:
+      instagram: https://www.instagram.com/vr_innovations/
+      linkedin: https://www.linkedin.com/company/vr-innovations
+    added_at: '2026-11-08T20:25:13.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ImproVive
+    url: https://improvive.com/en/
+    description: VR and AI developer building immersive applications for businesses, healthcare, education and culture.
+    hq:
+      city: Amersfoort
+      country: Netherlands
+    disciplines:
+      - xr
+    added_at: '2026-11-08T20:25:13.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blender Studio
+    url: https://studio.blender.org/
+    description: In-house animation studio of the Blender Institute, making open 3D short films such as Sprite Fright, Charge and Wing It!.
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    notable:
+      - Sprite Fright
+      - Charge
+      - Wing It!
+      - Singularity
+    added_at: '2026-11-08T20:25:13.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Creative Beards
+    url: https://www.creativebeards.com/en/
+    description: Animation studio producing explainer videos and animated content in many styles for companies.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/creativebeards/
+    added_at: '2026-11-08T20:25:13.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brocap Studio
+    url: https://brocap-studio.com/
+    description: Czech studio producing previs, mocap, animation and cinematics for games and film, and developing its own adventure game Hubert.
+    hq:
+      country: Czech Republic
+    disciplines:
+      - cinematics
+      - mocap
+      - previs
+      - 3d-animation
+    markets:
+      - games
+    notable:
+      - Hubert
+      - 'Mafia: The Old Country'
+      - Last Train Home
+    social:
+      linkedin: https://www.linkedin.com/company/brocap-studio
+    added_at: '2026-11-08T20:25:13.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CUB Animation
+    url: https://www.cubanimation.com/
+    description: Budapest 2D animation studio developing its own kids series and shorts and taking service work from development to delivery.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/cub-animation-studio
+      instagram: https://www.instagram.com/cubanimation/
+    added_at: '2026-11-08T20:25:13.626Z'
+  - name: Objektív Stúdió
+    url: https://objektivstudio.hu/
+    description: Budapest film company since 1997 doing shoots, post-production, commercials, 2D/3D animation and visual effects.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - live-action
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - film
+    founded: 1997
+    added_at: '2026-11-08T20:25:13.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Anima
+    url: http://animastudio.cz/
+    description: Czech animation studio founded in 1991, working in puppet, cut-out and clay animation for films, series and ads.
+    hq:
+      country: Czech Republic
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 1991
+    social:
+      vimeo: https://vimeo.com/animastudio
+    added_at: '2026-11-08T20:25:13.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DIVIZE
+    url: https://divize.art/
+    description: Prague animation studio blending Czech puppet animation with modern techniques for commercials, music videos and films.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - stop-motion
+    markets:
+      - advertising
+      - film
+      - music-video
+    notable:
+      - IKEA online ad
+      - 9 Million Colors (co-producer)
+    added_at: '2026-11-08T20:25:13.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

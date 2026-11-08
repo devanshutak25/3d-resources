@@ -1,0 +1,941 @@
+studios:
+  - name: YK Animation Studio
+    url: https://yk-animation.ch/en/
+    description: Animation studio making short films, explainers and commissioned animation for museums and festivals.
+    hq:
+      city: Bern
+      country: Switzerland
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - brand
+    notable:
+      - Naturhistorisches Museum Bern
+      - Landesmuseum Zürich
+      - Solothurner Filmtage trailer
+    social:
+      instagram: https://www.instagram.com/ykanimation
+    added_at: '2026-11-08T20:25:13.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PROJEKTIL
+    url: https://projektilart.com/
+    description: Immersive experience studio staging projection-mapped art and history shows in cultural venues across Europe.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    notable:
+      - Pixel Zoo
+      - EONARIUM
+    social:
+      instagram: https://www.instagram.com/projektilart/
+      linkedin: https://www.linkedin.com/company/projektilart/
+    added_at: '2026-11-08T20:25:13.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vienna Paint Studios
+    url: https://www.viennapaint.com/
+    description: Production studio with a 3D department, film and photo studios, making CGI, animation and retouching for advertising.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - cg
+      - 3d-animation
+      - product-viz
+      - live-action
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/vienna_paint_studios
+    added_at: '2026-11-08T20:25:13.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: tridimens
+    url: https://tridimens.ch/
+    description: 3D visualization studio making architectural and product renderings, animations and interactive 3D.
+    hq:
+      city: Lucerne
+      country: Switzerland
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+      - interactive
+    markets:
+      - real-estate
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/tridimens/
+      vimeo: https://vimeo.com/tridimens
+    added_at: '2026-11-08T20:25:13.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: screenpix motiongraphics
+    url: https://www.screenpix.ch/
+    description: Video, animation and post-production studio making logo animation, visualizations and commercials.
+    hq:
+      city: Lucerne
+      country: Switzerland
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Stadler Metro study
+      - OXESS 30 years
+    social:
+      instagram: https://instagram.com/screenpix_motiongraphics
+    added_at: '2026-11-08T20:25:13.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: threesixty.at
+    url: https://www.threesixty.at/
+    description: 3D visualization studio founded in 2010 making renderings, 360 tours and VR for real estate and industry.
+    hq:
+      city: Graz
+      country: Austria
+    disciplines:
+      - archviz
+      - xr
+      - interactive
+    markets:
+      - real-estate
+      - brand
+    founded: 2010
+    social:
+      instagram: https://www.instagram.com/threesixty.at/
+      linkedin: https://www.linkedin.com/company/threesixtyat/
+      vimeo: https://vimeo.com/threesixtyat
+    added_at: '2026-11-08T20:25:13.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FreshFX
+    url: https://www.freshfx.at/
+    description: 3D, motion and digital media production house making VFX, animation, AR and VR experiences and games for brands.
+    hq:
+      city: Salzburg
+      country: Austria
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - vfx
+      - xr
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Red Bull cartoon spots
+      - 'Audi #unraceable VR'
+      - Holoride Salzburg Experience
+    added_at: '2026-11-08T20:25:13.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Model Works
+    url: https://modelworks.studio/
+    description: Architectural presentation studio making CGI, verified photomontages, animation, virtual tours and scale models.
+    hq:
+      city: Blackrock
+      country: Ireland
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/model_works_studio/
+      linkedin: https://www.linkedin.com/company/model-works/
+    added_at: '2026-11-08T20:25:13.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: G-Net 3D
+    url: https://www.gnet.ie/
+    description: Visualisation studio making architectural CGI, animation, verified view imagery and 360 tours for architects and developers.
+    hq:
+      city: Cork
+      country: Ireland
+    offices:
+      - city: Dublin
+        country: Ireland
+    disciplines:
+      - archviz
+      - 3d-animation
+      - product-viz
+    markets:
+      - real-estate
+    social:
+      linkedin: https://www.linkedin.com/company/gnet-3d/
+    added_at: '2026-11-08T20:25:13.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Okoa Creative Studio
+    url: https://www.okoa.ch/
+    description: Creative studio making 3D visuals, animation and VFX for brand and advertising clients.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - cg
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/okoa.ch/
+      linkedin: https://www.linkedin.com/company/okoa-gmbh
+      vimeo: https://vimeo.com/okoa
+    added_at: '2026-11-08T20:25:13.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EFEX
+    url: https://www.efex.ch/
+    description: Design and animation studio making product animations, launch films and motion graphics for brands.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Ricola commercial
+      - Swisscom branding
+      - Saentis product animation
+    social:
+      instagram: https://www.instagram.com/efexgmbh/
+    added_at: '2026-11-08T20:25:13.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glass Knight
+    url: https://glassknightdigital.com/
+    description: 3D, VFX and motion design team working on film, TV, advertising and education projects.
+    hq:
+      country: Ireland
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-08T20:25:13.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vaudeville Studios
+    url: https://vdv.tv/
+    description: Creative studio making animation, motion design, illustration and show design for broadcasters and public bodies.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - brand
+      - episodic
+    notable:
+      - Alertswiss campaign
+      - Eurovision Song Contest show design (SRG)
+    social:
+      instagram: https://www.instagram.com/vaudeville_zurich/
+      vimeo: https://vimeo.com/vaudevillezurich
+    added_at: '2026-11-08T20:25:13.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GK-Render
+    url: https://gk-render.com/
+    description: 3D visualization studio making exterior and interior renderings, virtual tours and animation for real estate.
+    hq:
+      city: Graz
+      country: Austria
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/gk_render/
+      linkedin: https://www.linkedin.com/company/gkrender
+    added_at: '2026-11-08T20:25:13.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cine 3D
+    url: https://cine3d.ch/
+    description: Animation and scenography studio making short films, kids' series, commissioned spots, projection mapping and museum media.
+    hq:
+      country: Switzerland
+    disciplines:
+      - stop-motion
+      - experiential
+    markets:
+      - film
+      - episodic
+      - brand
+    notable:
+      - Le Renard et l'Oisille
+      - Max & Co
+      - Château de Gruyères museography
+    added_at: '2026-11-08T20:25:13.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pink Kong Studios
+    url: https://www.pinkkongstudios.ie/
+    description: Animation company founded in 2014 making 2D, 3D and VR content for kids' TV, short films and digital clients.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    markets:
+      - episodic
+      - film
+    founded: 2014
+    notable:
+      - Urban Tails
+      - Planet Park
+      - Aurora (VR short)
+    social:
+      instagram: http://instagram.com/pinkkongstudios
+      vimeo: https://vimeo.com/pinkkongstudios
+    added_at: '2026-11-08T20:25:13.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Le Colporteur
+    url: https://lecolporteur.com/
+    description: Motion design studio making animated explainer and communication videos for NGOs, hospitals and public bodies.
+    hq:
+      city: Geneva
+      country: Switzerland
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - medical-science
+    notable:
+      - WHO
+      - HUG (Geneva University Hospitals)
+      - Ville de Genève
+      - SRG
+    added_at: '2026-11-08T20:25:13.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Luma Film
+    url: http://www.lumafilm.hr/
+    description: Zagreb animation studio that produces and distributes auteur animated short films and runs animation workshops for children.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/lumafilmzagreb/
+      vimeo: https://vimeo.com/user7393628
+    added_at: '2026-11-08T20:25:13.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kreativni sindikat
+    url: https://kreativnisindikat.org/
+    description: Non-profit Zagreb production studio for auteur animated, experimental and hybrid documentary films.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/kreativnisindikat
+      vimeo: https://vimeo.com/kreativnisindikat
+    added_at: '2026-11-08T20:25:13.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aeon Production
+    url: https://aeonproduction.com/
+    description: Banja Luka storytelling studio making character animation, original series and interactive new-media projects.
+    hq:
+      city: Banja Luka
+      country: Bosnia and Herzegovina
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Misfits & Biscuits
+      - Hurikan
+    social:
+      instagram: https://www.instagram.com/aeon_production/
+      vimeo: https://vimeo.com/aeonproduction
+    added_at: '2026-11-08T20:25:13.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chase A Cloud
+    url: https://www.chaseacloud.com/
+    description: Sofia studio making 2D and 3D animation, game trailers, series and branded films for clients such as LEGO and National Geographic.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - cinematics
+      - live-action
+    markets:
+      - advertising
+      - brand
+      - games
+      - episodic
+    careers: https://www.chaseacloud.com/career
+    notable:
+      - LEGO Avengers
+      - 'Total War: Warhammer III'
+    social:
+      instagram: https://www.instagram.com/chaseacloud/
+    added_at: '2026-11-08T20:25:13.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: VÂNĂ
+    url: https://www.vana.ro/
+    description: Bucharest 2D animation studio making character-driven brand films, shorts and original series.
+    hq:
+      city: Bucharest
+      country: Romania
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+      - episodic
+    added_at: '2026-11-08T20:25:13.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Eye Collapse
+    url: https://www.eyecollapse.com/
+    description: Brașov 2D animation production house developing original animated shorts and series.
+    hq:
+      city: Brașov
+      country: Romania
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      linkedin: https://www.linkedin.com/company/eye-collapse/
+    added_at: '2026-11-08T20:25:13.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Talesgate
+    url: https://www.talesgate.com/
+    description: Belgrade animation production house making original animated films, co-productions and music videos.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - music-video
+    social:
+      instagram: https://www.instagram.com/_talesgate/
+    added_at: '2026-11-08T20:25:13.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zographic Films
+    url: https://zographic.com/
+    description: Sofia production company doing 3D animation, VFX and post-production for commercials, feature films and documentaries.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    offices:
+      - city: Vratsa
+        country: Bulgaria
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - film
+    careers: https://zographic.com/team#career
+    social:
+      linkedin: https://www.linkedin.com/company/zographic-films
+      instagram: https://www.instagram.com/zographic_films/
+    added_at: '2026-11-08T20:25:13.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 5th Degree
+    url: https://www.5th-degree.com/
+    description: Sofia post-production house offering concept design, 3D modeling and animation, VFX and colour grading.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-08T20:25:13.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ANIMADOCS
+    url: https://animadocs.com/
+    description: Sofia production house making animated documentaries, campaigns and series on social and human rights themes.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    offices:
+      - city: New York
+        country: United States
+      - city: Bordeaux
+        country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - I'm Every Woman
+      - Finding Home
+    social:
+      vimeo: http://vimeo.com/animadocs
+    added_at: '2026-11-08T20:25:13.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Origin Tales
+    url: https://origintales.com/
+    description: Novi Sad animation studio developing original animated TV series, live action and VR content.
+    hq:
+      city: Novi Sad
+      country: Serbia
+    disciplines:
+      - 2d-animation
+      - xr
+    markets:
+      - episodic
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/origintalesanimation/
+      linkedin: https://www.linkedin.com/company/origin-tales
+    added_at: '2026-11-08T20:25:13.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aerodrom
+    url: https://www.aerodrom.io/
+    description: Slovenian animation studio working on animated films, VFX, concept art and asset creation.
+    hq:
+      country: Slovenia
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/aerodrom.io/
+      linkedin: https://www.linkedin.com/company/aerodromlab
+    added_at: '2026-11-08T20:25:13.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pixels2Pixels
+    url: https://pixels2pixels.com/
+    description: Šabac creative technology studio building XR experiences, games, 3D design and web projects for brands.
+    hq:
+      city: Šabac
+      country: Serbia
+    disciplines:
+      - xr
+      - interactive
+      - cg
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/pixels2pixels
+      linkedin: https://linkedin.com/company/pixels2pixels
+    added_at: '2026-11-08T20:25:13.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AMC Studio
+    url: https://www.amcstudio.ro/
+    description: Bucharest outsourcing studio producing 2D and 3D game art and co-development for game publishers.
+    hq:
+      city: Bucharest
+      country: Romania
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    careers: https://www.amcstudio.ro/careers
+    social:
+      instagram: https://www.instagram.com/amc.studio.romania/
+      linkedin: https://www.linkedin.com/company/213538
+      artstation: https://www.artstation.com/amcrostudio
+    added_at: '2026-11-08T20:25:13.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamify Growth
+    url: https://www.gamify.ro/
+    description: Bucharest creative technology studio building gamified platforms, interactive walls, branded games and AI media for brands.
+    hq:
+      city: Bucharest
+      country: Romania
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+      - advertising
+    founded: 2011
+    added_at: '2026-11-08T20:25:13.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lynx and Bear
+    url: https://lynxnbear.com/
+    description: Belgrade creative production studio doing 3D, VFX, 2D animation, AI imagery and film production for brands.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - 3d-animation
+      - vfx
+      - 2d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    careers: https://lynxnbear.com/careers
+    added_at: '2026-11-08T20:25:13.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sirius Animation Studios
+    url: https://siriusanimationstudios.com/
+    description: Novi Sad studio making stylized 2D and 3D animated commercials, cartoons and game content for brands.
+    hq:
+      city: Novi Sad
+      country: Serbia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+      - games
+    added_at: '2026-11-08T20:25:13.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Celestial Design
+    url: https://www.celestial.rs/
+    description: Belgrade studio making 3D and 2D animation, game cinematics, motion graphics and websites for brands.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+      - cinematics
+    markets:
+      - advertising
+      - brand
+      - games
+    added_at: '2026-11-08T20:25:13.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cavaliers
+    url: https://cavaliers.studio/
+    description: Belgrade studio producing 3D motion graphics, B2B infographics and broadcast design.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - title-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T20:25:13.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: CODA Art Studio
+    url: https://codastudio.dev/
+    description: Belgrade outsourcing studio producing sci-fi concept art and 3D assets for PC, console and mobile games.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    added_at: '2026-11-08T20:25:13.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FourPlus Studio
+    url: https://studiofourplus.com/
+    description: Sofia design studio doing branding and motion design for clients worldwide.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - motion-design
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Photon
+    url: https://photon-graphics.com/
+    description: Sofia motion and design studio making 3D ads, product visualisations and 3D LED screen content.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - KitKat 3D LED screen
+      - Tesla visualisations
+    added_at: '2026-11-08T20:25:13.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ROBO LAB
+    url: https://robo.bg/
+    description: Sofia animation studio making 2D, 3D and stop-motion TV commercials, explainers and short films.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-08T20:25:13.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DreamTeam
+    url: https://www.dreamteamvideo.com/
+    description: Sofia studio producing AI-generated video ads, product videos, brand mascots and avatars.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T20:25:13.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: B-Lev Studio
+    url: https://b-lev.com/
+    description: Sofia studio producing architectural and product visualizations and presentations for architects and designers.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/b_levstudio/
+      behance: https://www.behance.net/b_lev
+    added_at: '2026-11-08T20:25:13.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: UFO Film Studios
+    url: https://ufofilmstudios.com/
+    description: Sofia film studio complex offering sound stages, an XR virtual production stage, animation and post-production for films, series and ads.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    disciplines:
+      - virtual-production
+      - vfx
+      - 3d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      vimeo: http://vimeo.com/ufofilmstudios
+    added_at: '2026-11-08T20:25:13.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: eptapus
+    url: https://www.eptapus.com/
+    description: Sofia 3D visualization studio making CGI product renderings, lifestyle scenes, custom 3D assets and animation.
+    hq:
+      city: Sofia
+      country: Bulgaria
+    offices:
+      - city: Athens
+        country: Greece
+    disciplines:
+      - product-viz
+      - cg
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    careers: https://www.eptapus.com/careers
+    social:
+      instagram: https://www.instagram.com/eptapus/
+    added_at: '2026-11-08T20:25:13.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Format 3D
+    url: https://format3d.hr/
+    description: Zagreb studio producing interior and exterior architectural visualizations, 3D animation, 360 virtual tours and product renders.
+    hq:
+      city: Zagreb
+      country: Croatia
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+      - city: Rosenheim
+        country: Germany
+    disciplines:
+      - archviz
+      - 3d-animation
+      - product-viz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/format.3d/
+      linkedin: https://www.linkedin.com/company/format-3d
+    added_at: '2026-11-08T20:25:13.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Solo Studio
+    url: https://solostudio.hr/
+    description: Zagreb experiential design studio creating spatial design, 3D visualization and production files for events, brand activations and retail.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - experiential
+      - cg
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/solostudiohr
+      linkedin: https://www.linkedin.com/company/solostudiohr
+    added_at: '2026-11-08T20:25:13.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SOLID
+    url: https://www.solid.ro/
+    description: Cluj-Napoca studio producing high-end architectural visualizations and animations for architects and developers.
+    hq:
+      city: Cluj-Napoca
+      country: Romania
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/solid.element/
+      linkedin: https://www.linkedin.com/company/solidelement
+    added_at: '2026-11-08T20:25:13.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: M1ARCH
+    url: https://m1arch.com/
+    description: Bucharest architectural rendering studio offering renders, animation, 360 tours and pixel-streamed interactive real estate tools.
+    hq:
+      city: Bucharest
+      country: Romania
+    disciplines:
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/m1_arch/
+      linkedin: https://www.linkedin.com/company/m1arch
+    added_at: '2026-11-08T20:25:13.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Patrudoizero Design
+    url: https://patrudoizero.ro/
+    description: Bucharest 3D rendering firm producing visualizations and animations of apartments, houses, retail and commercial spaces.
+    hq:
+      city: Bucharest
+      country: Romania
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/patrudoizero/
+      linkedin: https://www.linkedin.com/company/patrudoizero/
+    added_at: '2026-11-08T20:25:13.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LISENBART FILM
+    url: https://lisenbart.com/
+    description: Independent animation studio making commercials, game ads and original animated films for brands, agencies and game studios.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    offices:
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - games
+      - film
+    founded: 2006
+    social:
+      youtube: https://www.youtube.com/@lisenbartProduction
+    added_at: '2026-11-08T20:25:13.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

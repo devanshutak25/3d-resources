@@ -678,3 +678,295 @@ studios:
     added_at: '2026-11-06T14:26:06.046Z'
     url_status: ok
     url_last_verified: '2026-11-06'
+  - name: Forbidden Folds
+    url: https://forbiddenfolds.com/
+    description: Game and animation studio making its own games such as WHALIEN plus art, porting and programming work for other studios.
+    hq:
+      city: Salzburg
+      country: Austria
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - 'WHALIEN: Unexpected Guests'
+      - Spirit of the North 2 (porting support)
+    social:
+      instagram: https://www.instagram.com/forbiddenfolds
+      linkedin: https://www.linkedin.com/company/forbiddenfolds/
+    added_at: '2026-11-08T20:25:13.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: PH3 Games
+    url: https://games.ph3.at/
+    description: Engineering studio that builds PC ports, remasters and performance work for Japanese RPG publishers.
+    hq:
+      city: Innsbruck
+      country: Austria
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - 'The Legend of Heroes: Trails through Daybreak II (PC port)'
+      - 'The Legend of Heroes: Trails into Reverie (PC port)'
+      - 'Phantom Brave: The Hermuda Triangle Remastered (PC)'
+    added_at: '2026-11-08T20:25:13.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Monkeys With Jobs
+    url: https://monkeyswithjobs.com/
+    description: Indie studio founded in 2022 that makes Dyer Expedition, a puzzle adventure with Lovecraftian horror themes.
+    hq:
+      city: Ried im Innkreis
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    notable:
+      - Dyer Expedition
+    social:
+      instagram: https://instagram.com/monkeyswithjobs
+    added_at: '2026-11-08T20:25:13.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ovos
+    url: https://ovos.at/
+    description: Serious games and playful training studio that builds learning games and web apps for companies and public bodies.
+    hq:
+      city: Vienna
+      country: Austria
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - web
+      - mobile
+      - pc
+    social:
+      instagram: https://www.instagram.com/ovos_media
+      linkedin: https://www.linkedin.com/company/ovos-media
+      vimeo: https://vimeo.com/ovosmedia
+    added_at: '2026-11-08T20:25:13.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bandaloop Games
+    url: https://bandaloop.at/
+    description: Indie studio making narrative games such as Canvas of Thoughts and offering porting and development services.
+    hq:
+      city: Vienna
+      country: Austria
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Canvas of Thoughts
+    social:
+      instagram: https://www.instagram.com/bandaloopgames/
+    added_at: '2026-11-08T20:25:13.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Microbird Games
+    url: https://www.microbird-games.com/
+    description: Indie studio behind Dungeons of Hinterberg, an action RPG set in the Austrian Alps.
+    hq:
+      city: Vienna
+      country: Austria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dungeons of Hinterberg
+    social:
+      instagram: https://instagram.com/microbirdgames
+    added_at: '2026-11-08T20:25:13.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: We Cure Boredom
+    url: https://www.wecureboredom.com/
+    description: Indie studio founded in 2023 that makes casual PC games such as Cosmic Resistance.
+    hq:
+      city: Vienna
+      country: Austria
+    offices:
+      - city: Bucharest
+        country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    notable:
+      - Cosmic Resistance
+      - Void Tech
+    added_at: '2026-11-08T20:25:13.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zeppelin Studio
+    url: https://zeppelinstudio.net/
+    description: Game studio that co-develops console and PC titles for publishers and works on its own games.
+    hq:
+      city: Vienna
+      country: Austria
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'South Park: Snow Day!'
+      - Ski Challenge
+    added_at: '2026-11-08T20:25:13.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Amberbite Games
+    url: https://amberbite.games/
+    description: Small indie studio known for Idle Aquaria, a calm idle game about building an aquarium.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    notable:
+      - Idle Aquaria
+    social:
+      instagram: https://www.instagram.com/amberbitegames/
+    added_at: '2026-11-08T20:25:13.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dama Dama Games
+    url: https://damadamagames.com/
+    description: Indie studio founded in 2021 that made Tavernacle!, a multiplayer tavern management game.
+    hq:
+      city: Lausanne
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Tavernacle!
+    social:
+      instagram: https://www.instagram.com/damadamagames/
+    added_at: '2026-11-08T20:25:13.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hooded Traveler Games
+    url: https://hoodedtravelergames.com/
+    description: Indie studio making PC games such as the deckbuilder Roulette Dungeon and the puzzle game Aestik.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Roulette Dungeon
+      - Aestik
+    social:
+      instagram: https://www.instagram.com/hooded_traveler/
+    added_at: '2026-11-08T20:25:13.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Shirakumo Games
+    url: https://shirakumo.org/
+    description: Small indie team led from Zurich that made Kandria, a 2D action RPG set in a ruined open world.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Kandria
+    added_at: '2026-11-08T20:25:13.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: knit'n'purl game studio
+    url: https://www.knpgamestudio.com/
+    description: Indie studio that made the cozy game Pocket Oasis and is developing Roots of Fury.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pocket Oasis
+      - Roots of Fury
+    social:
+      instagram: https://www.instagram.com/knpgamestudio/
+      linkedin: https://www.linkedin.com/company/knit-n-purl-game-studio-llc/
+    added_at: '2026-11-08T20:25:13.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dreamhunt Studio
+    url: https://www.dreamhunt.com/
+    description: 'Game and gamification studio that made Unpetrified: Echoes of Nature and builds branded games for clients.'
+    hq:
+      city: Bern
+      country: Switzerland
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Unpetrified: Echoes of Nature'
+    social:
+      instagram: https://www.instagram.com/dreamhunt_studio/
+      linkedin: https://www.linkedin.com/company/dreamhunt-studio/
+    added_at: '2026-11-08T20:25:13.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Conradical Games
+    url: https://conradical.ch/
+    description: Independent studio that made Desktop Detective, published by Playsaurus.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Desktop Detective
+    social:
+      instagram: https://www.instagram.com/conradicalgames/
+    added_at: '2026-11-08T20:25:13.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: superswipe.games
+    url: https://superswipe.games/
+    description: Independent mobile games studio behind SumoVolley, a casual sports game for iOS and Android.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - SumoVolley
+    social:
+      instagram: https://www.instagram.com/superswipe.games
+      linkedin: https://www.linkedin.com/company/superswipe
+    added_at: '2026-11-08T20:25:13.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

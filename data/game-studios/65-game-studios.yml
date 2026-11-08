@@ -1,0 +1,623 @@
+studios:
+  - name: Glitchers
+    url: https://glitchers.com/
+    description: Edinburgh studio using games to gather data for cognitive health research and dementia diagnosis.
+    hq:
+      city: Edinburgh
+      country: United Kingdom
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2013
+    notable:
+      - Sea Hero Quest
+    added_at: '2026-11-08T20:25:14.037Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KeelWorks
+    url: https://www.keelworks.co.uk/
+    description: Edinburgh games developer also making 3D animation, cinematics and VFX for clients.
+    hq:
+      city: Edinburgh
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - 'CYGNI: All Guns Blazing'
+    social:
+      vimeo: http://vimeo.com/keelworks
+      linkedin: https://www.linkedin.com/company/keelworks
+    added_at: '2026-11-08T20:25:14.038Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tag Games
+    url: https://www.tag-games.com/
+    description: Dundee mobile and console game developer, part of Scopely.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+      - console
+    parent: Scopely
+    notable:
+      - Pocket Mortys
+      - Monster High
+      - Angry Birds Action!
+    social:
+      linkedin: https://www.linkedin.com/company/tag-games
+    added_at: '2026-11-08T20:25:14.039Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Team Terrible
+    url: https://www.teamterriblegames.com/
+    description: Dundee indie studio founded in 2021, maker of the horror game The Baby In Yellow.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - The Baby In Yellow
+    social:
+      instagram: https://www.instagram.com/teamterriblegames/
+      linkedin: https://www.linkedin.com/company/team-terrible/
+    added_at: '2026-11-08T20:25:14.040Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Amused Sloth
+    url: https://www.amusedsloth.com/
+    description: London studio founded in 2010 making casual games for mobile and PC.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    founded: 2010
+    added_at: '2026-11-08T20:25:14.041Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Triplevision Games
+    url: https://triplevisiongames.com/
+    description: Sheffield indie game studio behind Mable & The Wood and These Doomed Isles.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Mable & The Wood
+      - These Doomed Isles
+    added_at: '2026-11-08T20:25:14.042Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dink
+    url: https://dinkdevs.com/
+    description: Middlesbrough game studio that co-develops, prototypes and ships games with studios worldwide.
+    hq:
+      city: Middlesbrough
+      country: United Kingdom
+    segments:
+      - co-dev
+      - indie
+    social:
+      instagram: https://instagram.com/dinkdevs
+      linkedin: https://www.linkedin.com/company/dink-ltd/
+    added_at: '2026-11-08T20:25:14.043Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BetaJester
+    url: https://www.betajester.co.uk/
+    description: York studio developing VR, AR and video game projects, from prototypes to release, for clients and its own titles.
+    hq:
+      city: York
+      country: United Kingdom
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - vr
+      - pc
+    social:
+      linkedin: https://www.linkedin.com/company/betajester
+    added_at: '2026-11-08T20:25:14.044Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fat Kraken Studios
+    url: https://www.fatkrakenstudios.com/
+    description: Leeds co-development and work-for-hire game studio.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    segments:
+      - co-dev
+    added_at: '2026-11-08T20:25:14.045Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nellyvision
+    url: https://www.nellyvision.com/
+    description: Brighton software studio developing and publishing its own games and client games, including VR titles.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Rhythm of the Gods
+      - WordHerd
+    added_at: '2026-11-08T20:25:14.046Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: EM Studios
+    url: https://emstudios.co.uk/
+    description: Glasgow game development and art outsourcing studio.
+    hq:
+      city: Glasgow
+      country: United Kingdom
+    segments:
+      - co-dev
+    added_at: '2026-11-08T20:25:14.047Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Nyamyam
+    url: https://www.nyamyam.com/
+    description: Small independent game developer based in the UK and Taiwan, maker of Tengami and Astrologaster.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2010
+    notable:
+      - Tengami
+      - Astrologaster
+      - Spirit Ritual
+    added_at: '2026-11-08T20:25:14.048Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sigtrap Games
+    url: https://www.sigtrapgames.com/
+    description: UK indie studio making games since 2014, known for the zero-gravity roguelike Sublevel Zero.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - Sublevel Zero
+      - Thingy Paint
+    added_at: '2026-11-08T20:25:14.049Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wristwork
+    url: https://www.wristwork.com/
+    description: Experimental independent game studio in London that develops and publishes games for PC and mobile.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2022
+    notable:
+      - FACEMINER
+      - 'Pigeon: A Love Story'
+    added_at: '2026-11-08T20:25:14.050Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Villainous Games Studio
+    url: https://www.villainous.games/
+    description: Independent UK studio making horror games, including the Horror Stories anthology and Harvest Hunt.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Horror Stories: PLEASE COMPLY'
+      - 'Horror Stories: Welcome Home'
+      - Harvest Hunt
+    added_at: '2026-11-08T20:25:14.051Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Secret Games Company
+    url: https://www.secretgamescompany.com/
+    description: UK studio making short-session strategy and management games for PC and tabletop.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Ozymandias
+      - Bon Vivant
+      - 'Rise: Battle Lines'
+    added_at: '2026-11-08T20:25:14.052Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Semaeopus
+    url: https://www.semaeopus.com/
+    description: Independent UK studio founded in 2014, maker of the hacking stealth game Off Grid and serious games for learning.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - Off Grid
+    added_at: '2026-11-08T20:25:14.053Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Technology and Creativity
+    url: https://www.tandc.games/
+    description: Bristol studio making digital games, interactives and displays for clients and its own titles.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    segments:
+      - co-dev
+      - kids-edu
+    notable:
+      - 'Grace Hopper: Bug Rescue'
+    added_at: '2026-11-08T20:25:14.054Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bitmap Bureau
+    url: https://www.bitmapbureau.com/
+    description: UK studio making retro-style arcade action games for PC and consoles.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Terminator 2D: NO FATE'
+      - Final Vendetta
+      - Xeno Crisis
+      - Battle Axe
+    added_at: '2026-11-08T20:25:14.055Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blackstaff Games
+    url: http://www.blackstaffgames.com/
+    description: Belfast studio making games, 2D animation and interactive work for family audiences and partners.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    segments:
+      - kids-edu
+      - co-dev
+    notable:
+      - Safari Slides
+    added_at: '2026-11-08T20:25:14.056Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Firebolt Games
+    url: https://www.fireboltgames.com/
+    description: London developer of mobile games, Roblox experiences and AR toys.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - mobile
+      - ugc
+      - kids-edu
+    platforms:
+      - mobile
+    added_at: '2026-11-08T20:25:14.057Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Balloon Studios
+    url: https://www.balloonstudios.com/
+    description: UK indie studio making calm games set in historical worlds, maker of Botany Manor.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Botany Manor
+    added_at: '2026-11-08T20:25:14.058Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fusebox Games
+    url: https://www.fuseboxgames.com/
+    description: London developer of story-driven mobile games based on reality TV and romance.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T20:25:14.059Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Glowmade
+    url: https://www.glowmade.com/
+    description: Guildford game developer founded in 2015 by Lionhead alumni.
+    hq:
+      city: Guildford
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    added_at: '2026-11-08T20:25:14.060Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Puny Astronaut
+    url: https://www.punyastronaut.com/
+    description: Dundee indie studio behind Skye Tales, out on Switch, PlayStation and PC.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Skye Tales
+    social:
+      instagram: https://www.instagram.com/punyastronaut/
+    added_at: '2026-11-08T20:25:14.061Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Sharks Swim Backwards
+    url: https://www.ssbgames.com/
+    description: North East England developer making original games and offering co-development and game audio work for hire.
+    hq:
+      country: United Kingdom
+    segments:
+      - co-dev
+      - indie
+    social:
+      linkedin: https://www.linkedin.com/company/ssbgames/
+    added_at: '2026-11-08T20:25:14.062Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Iteration Games
+    url: https://www.iteration-games.com/
+    description: Small UK indie studio making multiplayer and strategy games, including Paper Pirates.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Paper Pirates
+      - An Elaborate History of Chess
+    added_at: '2026-11-08T20:25:14.063Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arctic Arcade
+    url: https://arcticarcade.net/
+    description: UK developer of HTML5 and PC games for clients and its own label, with 90+ titles made for partners.
+    hq:
+      country: United Kingdom
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - web
+      - pc
+    notable:
+      - Mini Putt Camelot
+      - The Adventures Of Zomboy
+    added_at: '2026-11-08T20:25:14.064Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Good Gate Media
+    url: https://www.goodgatemedia.com/
+    description: Film, TV and games studio making interactive live-action FMV games.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Complex
+      - Five Dates
+      - Ten Dates
+    added_at: '2026-11-08T20:25:14.065Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brain and Nerd
+    url: https://brainandnerd.com/
+    description: Northern Ireland indie studio founded in 2012, maker of the 4X space strategy game Predestination.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2012
+    notable:
+      - Predestination
+      - Odinheim
+    added_at: '2026-11-08T20:25:14.066Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fish Tin Games
+    url: https://www.fishtingames.com/
+    description: Dundee game developer behind The Zhukov Line, also offering work-for-hire development.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - The Zhukov Line
+    added_at: '2026-11-08T20:25:14.067Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bit Loom
+    url: https://www.trayracers.com/
+    description: Scottish indie studio behind the free-to-play racing game Tray Racers.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tray Racers
+    social:
+      instagram: http://instagram.com/trayracers
+    added_at: '2026-11-08T20:25:14.068Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: HandCircus
+    url: https://www.handcircus.com/
+    description: London independent games studio founded in 2008 by Simon Oliver, making inventive casual games.
+    hq:
+      city: London
+      country: United Kingdom
+    segments:
+      - indie
+      - mobile
+    founded: 2008
+    added_at: '2026-11-08T20:25:14.069Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Space Colony Studios
+    url: https://www.spacecolonystudios.com/
+    description: 'UK indie studio behind the pixel-art action adventure Stories from Sol: The Gun-Dog, released in 2025.'
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Stories from Sol: The Gun-Dog'
+    added_at: '2026-11-08T20:25:14.070Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Casual Arts
+    url: https://casual-arts.com/
+    description: UK developer of family-friendly hidden object and puzzle games for PC, Mac and mobile.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Christmas Wonderland
+      - 'Vacation Adventures: Park Ranger'
+      - 'Vacation Adventures: Cruise Director'
+    social:
+      linkedin: https://www.linkedin.com/company/1741582
+    added_at: '2026-11-08T20:25:14.071Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Great Detail
+    url: https://greatdetail.com/
+    description: Surrey studio behind the golf game Awesome Golf, building sports software tied to real-world technology.
+    hq:
+      city: Bagshot
+      country: United Kingdom
+    segments:
+      - simulation
+    notable:
+      - Awesome Golf
+    added_at: '2026-11-08T20:25:14.072Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Infinity27
+    url: https://infinity27.com/
+    description: UK game studio and Unreal Authorised Training Centre whose learners work on its own titles, including SAMSARA in Early Access.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - SAMSARA
+    added_at: '2026-11-08T20:25:14.073Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Antler Studios
+    url: https://www.antlerstudios.net/
+    description: UK indie studio behind The Wilds of Dacrima, released on Steam in May 2026.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Wilds of Dacrima
+    added_at: '2026-11-08T20:25:14.074Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tea Imp Games
+    url: https://www.teaimpgames.com/
+    description: UK independent studio making its own games and doing game design for partners on titles such as ZERO Sievert and Cantata.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - ZERO Sievert
+      - Cantata
+      - Thingamajigs
+    added_at: '2026-11-08T20:25:14.075Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

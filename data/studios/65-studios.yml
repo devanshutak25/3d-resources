@@ -1,0 +1,918 @@
+studios:
+  - name: Follow Film
+    url: https://followfilm.se/
+    description: Motion design studio making brand toolkits, motion systems and 3D animation for design studios and agencies.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T20:25:13.830Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LEE Film
+    url: https://leefilm.se/
+    description: Production company making 2D animated films and series for the youngest audiences.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2011
+    notable:
+      - The Ape Star
+      - Gordon & Paddy
+      - Dolores & Gunellen's World
+    added_at: '2026-11-08T20:25:13.831Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Chapel Films
+    url: https://www.thechapelfilms.com/
+    description: Production company and animation studio making animated and live-action commercials, title sequences and music videos.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - live-action
+      - title-design
+    markets:
+      - advertising
+      - music-video
+    founded: 2019
+    notable:
+      - Goldfrapp
+      - Tussilago
+    added_at: '2026-11-08T20:25:13.832Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Breach
+    url: https://breachvr.com/
+    description: XR studio making VR, MR and AR games, interactive experiences and 3D simulations for museums and businesses.
+    hq:
+      city: Trondheim
+      country: Norway
+    disciplines:
+      - xr
+      - interactive
+      - experiential
+    markets:
+      - brand
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/breachvr/
+    added_at: '2026-11-08T20:25:13.833Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Really Interactive
+    url: https://www.really-interactive.se/
+    description: AR and VR studio building immersive apps and offering co-development for game and mobile projects.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - xr
+      - outsourcing
+    markets:
+      - games
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/11027765/
+    added_at: '2026-11-08T20:25:13.834Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lighthouse VFX
+    url: https://www.lhvfx.com/
+    description: Animation and visual effects studio making CG films, commercials and immersive experiences for brands.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - 3d-animation
+      - vfx
+      - cg
+      - experiential
+    markets:
+      - advertising
+      - brand
+      - film
+    founded: 2008
+    notable:
+      - Ninja Dad
+      - 'Turkish Airlines: The Land That Rewrites History'
+      - Kristal Piksel 2026 ceremony animations
+    social:
+      instagram: https://instagram.com/lhvfx
+      linkedin: https://www.linkedin.com/company/lighthouse-visual-effects/
+      youtube: https://www.youtube.com/@lighthousevfx1513
+      x: https://x.com/lhvfx
+    added_at: '2026-11-08T20:25:13.835Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 1000 Volt
+    url: https://www.1000volt.com.tr/en/
+    description: Post-production house doing VFX, animation, colour grading and sound for Turkish films, series and commercials.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/1000volt/
+      linkedin: https://www.linkedin.com/company/1000-volt-post-production/
+    added_at: '2026-11-08T20:25:13.836Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Anima Istanbul
+    url: https://animaistanbul.com/
+    description: Film company producing commercials with an in-house VFX and animation department.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - vfx
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - film
+    notable:
+      - Bad Cat (Kötü Kedi Şerafettin)
+    social:
+      instagram: https://instagram.com/anima_istanbul
+      linkedin: https://tr.linkedin.com/company/anima-istanbul
+      vimeo: https://vimeo.com/animaistanbul
+    added_at: '2026-11-08T20:25:13.837Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Düşyeri
+    url: https://www.dusyeri.com/en
+    description: Cartoon studio behind the preschool series Pepee, now producing animated content for the kids app Uppy.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Pepee
+      - Uppy
+    social:
+      instagram: https://www.instagram.com/dusyeri
+      linkedin: https://www.linkedin.com/company/d-yeri-izgi-film-st-dyosu
+      x: https://twitter.com/dusyeri
+    added_at: '2026-11-08T20:25:13.838Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Render Studio
+    url: https://www.renderstudio.tv/
+    description: Architectural visualization studio making exterior and interior renders, animations and 360° virtual tours.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2011
+    added_at: '2026-11-08T20:25:13.839Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Project Istanbul
+    url: https://projectistanbul.com/
+    description: Creative company making projection mapping shows, immersive museum installations and digital art experiences.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - experiential
+      - motion-design
+      - vfx
+    markets:
+      - brand
+    founded: 2009
+    notable:
+      - Panorama 1453 History Museum 360° show
+      - World Cities Expo 2017 stage mapping
+    social:
+      instagram: https://www.instagram.com/projectistanbul
+      linkedin: https://tr.linkedin.com/company/projectistanbul
+    added_at: '2026-11-08T20:25:13.840Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ARLOOPA
+    url: https://www.arloopa.com/
+    description: AR and VR studio building WebAR, mobile AR apps and VR games for brands, plus its own AR app.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/arloopa/
+      linkedin: https://www.linkedin.com/company/arloopa/
+      youtube: https://www.youtube.com/@Arloopa
+      x: https://twitter.com/arloopa
+    added_at: '2026-11-08T20:25:13.841Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: INTAK
+    url: https://intak.tr/en
+    description: Web studio building browser-based 3D scenes and immersive websites for companies.
+    hq:
+      city: Ankara
+      country: Turkey
+    disciplines:
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.842Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Leopati
+    url: https://www.leopati.com/
+    description: AI video production studio making AI films, music videos, animation and visual effects for artists and brands.
+    hq:
+      city: Ankara
+      country: Turkey
+    disciplines:
+      - ai-production
+      - vfx
+    markets:
+      - music-video
+      - advertising
+      - film
+    notable:
+      - Killa Hakan AI music video
+    social:
+      instagram: https://www.instagram.com/leopati.agency/
+      linkedin: https://www.linkedin.com/company/leopati
+      behance: https://www.behance.net/leopati
+      youtube: https://www.youtube.com/@Leopati
+    added_at: '2026-11-08T20:25:13.843Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Resight Studio
+    url: https://resight.tv/
+    description: Boutique CG, video and VFX studio making commercials and game trailers for brands such as Nike, New Balance and Wargaming.
+    hq:
+      city: Tbilisi
+      country: Georgia
+    disciplines:
+      - cg
+      - vfx
+      - 3d-animation
+      - cinematics
+    markets:
+      - advertising
+      - games
+      - brand
+    notable:
+      - 'Vizor Games: Blood of Heroes trailer'
+      - New Balance
+      - Wargaming
+    social:
+      instagram: https://www.instagram.com/resightstudio/
+      linkedin: https://www.linkedin.com/company/resightstudio
+      vimeo: https://vimeo.com/resight
+      behance: https://www.behance.net/resight
+    added_at: '2026-11-08T20:25:13.844Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yans Media
+    url: https://www.yansmedia.com/
+    description: Explainer video studio making 2D animation and motion graphics for SaaS, startups and healthcare brands.
+    hq:
+      city: Yerevan
+      country: Armenia
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/yans_media
+      vimeo: https://vimeo.com/yansmedia
+      behance: https://www.behance.net/yansmedia
+    added_at: '2026-11-08T20:25:13.845Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Outpost VFX
+    url: https://www.outpost-vfx.com/
+    description: Visual effects studio for feature film and high-end episodic TV, working for studios and streamers.
+    hq:
+      city: Bournemouth
+      country: United Kingdom
+    offices:
+      - city: London
+        country: United Kingdom
+      - city: Montreal
+        country: Canada
+      - city: Mumbai
+        country: India
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/outpostvfx/
+      vimeo: https://vimeo.com/outpostvfx
+      linkedin: https://www.linkedin.com/company/9216616/
+    added_at: '2026-11-08T20:25:13.846Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flipbook Studio
+    url: https://www.flipbookstudio.co.uk/
+    description: Manchester VFX and animation studio making visual effects, creatures and 2D/3D animation for film, TV, advertising and games.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - The Worst Witch
+    social:
+      vimeo: https://vimeo.com/flipbookstudio
+      linkedin: https://www.linkedin.com/company/flipbook/
+    added_at: '2026-11-08T20:25:13.847Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Grizzle
+    url: https://grizzle.london/
+    description: Independent animation and motion design studio making 2D and 3D animation and VFX for film, TV, advertising and music videos.
+    hq:
+      city: London
+      country: United Kingdom
+    offices:
+      - city: Sheffield
+        country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - vfx
+    markets:
+      - advertising
+      - episodic
+      - music-video
+    social:
+      instagram: https://www.instagram.com/grizzlelondon/
+      linkedin: https://www.linkedin.com/company/grizzle
+      vimeo: https://www.vimeo.com/grizzle
+    added_at: '2026-11-08T20:25:13.848Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Carse & Waterman
+    url: https://carseandwaterman.com/
+    description: Animation studio making 2D and 3D animation, explainers and interactive media for healthcare, safety, heritage and business clients.
+    hq:
+      city: Stoke-on-Trent
+      country: United Kingdom
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - medical-science
+      - brand
+    social:
+      instagram: https://www.instagram.com/carsewaterman/
+      vimeo: https://vimeo.com/user4874810
+      linkedin: https://www.linkedin.com/company/carse-%26-waterman-productions-ltd
+    added_at: '2026-11-08T20:25:13.849Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Picl Animation
+    url: https://www.piclanimation.com/
+    description: Cardiff animation studio making animated films for health boards, government, broadcasters and educators.
+    hq:
+      city: Cardiff
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/piclanimation/
+    added_at: '2026-11-08T20:25:13.850Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Plastic Milk
+    url: https://www.plasticmilk.co.uk/
+    description: London animation studio making animated films and series for broadcasters, charities and brands.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - brand
+    social:
+      vimeo: https://vimeo.com/plasticmilk
+      instagram: https://www.instagram.com/plasticmilkanimation
+    added_at: '2026-11-08T20:25:13.851Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Plus3K
+    url: https://plus3k.tv/
+    description: Animation studio making character-driven series and content for TV, brands and organisations.
+    hq:
+      city: Carlisle
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://instagram.com/plus3kstudios
+      vimeo: https://vimeo.com/plus3k/
+      linkedin: https://www.linkedin.com/company/plus3k-studios/
+    added_at: '2026-11-08T20:25:13.852Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Primary VFX
+    url: https://primaryvfx.com/
+    description: Bristol visual effects studio working on high-end television and film.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/primaryvfx/
+      linkedin: https://www.linkedin.com/company/primaryvfx/
+    added_at: '2026-11-08T20:25:13.853Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Moonraker VFX
+    url: https://moonrakervfx.com/
+    description: Bristol VFX studio making visual effects for television plus immersive and original content.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - xr
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T20:25:13.854Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Red Star
+    url: https://www.redstar3d.com/
+    description: Sheffield animation studio producing animated content for feature films, TV and visitor attractions.
+    hq:
+      city: Sheffield
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - experiential
+    markets:
+      - film
+      - episodic
+    founded: 2004
+    social:
+      linkedin: https://www.linkedin.com/company/red-star-3d/
+    added_at: '2026-11-08T20:25:13.855Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Salamandra
+    url: https://www.salamandra.uk/
+    description: Animation and design studio making commercial animation and motion graphics for deep tech brands.
+    hq:
+      city: Eton
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      vimeo: https://vimeo.com/salamandrauk
+      instagram: https://www.instagram.com/salamandra.uk/
+    added_at: '2026-11-08T20:25:13.856Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spider Eye
+    url: https://www.spider-eye.com/
+    description: Cornwall animation company producing 2D, digital and CGI animation for TV and film.
+    hq:
+      city: Penzance
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1998
+    social:
+      vimeo: https://vimeo.com/spidereye
+      linkedin: https://www.linkedin.com/company/spidereye
+    added_at: '2026-11-08T20:25:13.857Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TPO VFX
+    url: https://tpovfx.com/
+    description: Artist-led VFX company in London delivering postvis and final visual effects for film and TV.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Belfast
+      - The Wheel of Time
+      - Wicked
+    social:
+      instagram: https://www.instagram.com/tpovfx/
+      linkedin: https://www.linkedin.com/company/tpovfx/
+    added_at: '2026-11-08T20:25:13.858Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Flying Colour Company
+    url: https://www.theflyingcolourcompany.com/
+    description: London VFX and post house doing bespoke 2D and 3D visual effects for TV and film.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-08T20:25:13.859Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Magic Dust VFX
+    url: https://www.magicdustvfx.com/
+    description: London visual effects studio working on film and TV.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-08T20:25:13.860Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kino Bino
+    url: https://www.kinobino.com/
+    description: Leicester animation studio making animated videos for education, healthcare, museums, explainers and short films.
+    hq:
+      city: Leicester
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - brand
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/kinobinostudio/
+      linkedin: https://www.linkedin.com/company/kino-bino
+    added_at: '2026-11-08T20:25:13.861Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: King Bee
+    url: https://www.kingbee.co.uk/
+    description: Animation studio at Elstree Studios making animated content for brands, broadcasters, education and games.
+    hq:
+      city: Borehamwood
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/kingbeeanimation/
+      linkedin: https://www.linkedin.com/company/king-bee-animation/
+    added_at: '2026-11-08T20:25:13.862Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Keyframe Studios
+    url: https://www.keyframestudios.co.uk/
+    description: Animation studio making 2D, CGI, motion graphics and interactive work for broadcast, brands and live events since 2009.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - interactive
+    markets:
+      - episodic
+      - advertising
+      - brand
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/keyframestudios/
+    added_at: '2026-11-08T20:25:13.863Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Acamar Films
+    url: https://www.acamarfilms.com/
+    description: Independent London studio producing the preschool animated series Bing and related content.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Bing
+    social:
+      linkedin: https://www.linkedin.com/company/acamarfilms
+    added_at: '2026-11-08T20:25:13.864Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ALT Animation
+    url: https://www.altanimation.com/
+    description: Northern Ireland animation studio producing original series and service work for a global audience.
+    hq:
+      city: Bangor
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2016
+    social:
+      instagram: https://www.instagram.com/altanimation/
+      linkedin: https://www.linkedin.com/company/alt-animation-ltd
+    added_at: '2026-11-08T20:25:13.865Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Armchair & Rocket
+    url: https://www.armchairandrocket.com/
+    description: Belfast studio mixing motion capture, puppetry, virtual production and stop-motion for broadcast, commercials, film and screen graphics.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - stop-motion
+      - virtual-production
+    markets:
+      - episodic
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/armchairandrocket
+    added_at: '2026-11-08T20:25:13.866Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brighton Zoo
+    url: https://www.brighton-zoo.co.uk/
+    description: Brighton studio from Blue Zoo and Plug-in Media making digital-first animation, live action and interactive content.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/brighton_zoo
+      linkedin: https://www.linkedin.com/company/brighton-zoo
+    added_at: '2026-11-08T20:25:13.867Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Healthcare Creative
+    url: https://www.healthcarecreative.co.uk/
+    description: Nottingham studio making 2D and 3D healthcare animations for the NHS, private health and charities.
+    hq:
+      city: Nottingham
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - medical-science
+    added_at: '2026-11-08T20:25:13.868Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Airship
+    url: https://www.goairship.uk/
+    description: Malvern art and technical-art studio of 100+ artists making characters, environments, props and animation for games.
+    hq:
+      city: Malvern
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/goairship/
+      linkedin: https://www.linkedin.com/company/goairship/
+    added_at: '2026-11-08T20:25:13.869Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Skyhook Games
+    url: https://skyhookgames.com/
+    description: Liverpool game development and art outsourcing studio working for game companies worldwide.
+    hq:
+      city: Liverpool
+      country: United Kingdom
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/skyhookgames/
+      linkedin: https://www.linkedin.com/company/skyhookgames/
+    added_at: '2026-11-08T20:25:13.870Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Reflex Arc
+    url: https://reflexarc.co.uk/
+    description: Leeds software studio building VR, AR and XR apps, simulations and creative tools for organisations, brands and artists.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/reflexarc
+      linkedin: https://www.linkedin.com/company/reflex-arc-ltd/
+    added_at: '2026-11-08T20:25:13.871Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: No Ghost
+    url: https://www.noghost.co.uk/
+    description: London immersive content studio making VR, interactive and animated experiences for brands and entertainment IP.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - brand
+      - episodic
+    added_at: '2026-11-08T20:25:13.872Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: plai
+    url: https://pl.ai/
+    description: London emerging-tech studio building AR and VR experiences for brands such as Nike and Christie's.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.873Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Helix
+    url: https://helixcreate.com/
+    description: Salford immersive content studio making 360 film, VR, projection mapping and LED content for museums and brands.
+    hq:
+      city: Salford
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - xr
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/helix-create/
+    added_at: '2026-11-08T20:25:13.874Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Pixel Workshop
+    url: https://thepixelworkshop.com/
+    description: Manchester property CGI studio making photoreal renders and animations for developers and agents since 2005.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/pixelworkshopcgi/
+      linkedin: https://www.linkedin.com/company/pixelworkshopcgi/
+    added_at: '2026-11-08T20:25:13.875Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: North Made Studio
+    url: https://northmadestudio.com/
+    description: Stockport CGI studio making architectural visualisations, animations and VR tours for property developers and architects.
+    hq:
+      city: Stockport
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/northmadestudio
+      linkedin: https://www.linkedin.com/company/north-made-studio-ltd
+    added_at: '2026-11-08T20:25:13.876Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Medi-Mation
+    url: https://www.medi-mation.com/
+    description: UK studio making medical animation and illustration for healthcare and pharma clients.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - medical-science
+    added_at: '2026-11-08T20:25:13.877Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Trunk Animation
+    url: https://trunk.me.uk/
+    description: London mixed-media animation production company making music videos, commercials and films.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - music-video
+      - advertising
+      - film
+    added_at: '2026-11-08T20:25:13.878Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Unusual Technologies
+    url: https://www.unusualtechnologies.com/
+    description: Brighton creative technology studio building VR experiences, apps, visual effects and interactive installations since 2018.
+    hq:
+      city: Brighton
+      country: United Kingdom
+    disciplines:
+      - xr
+      - interactive
+      - experiential
+    markets:
+      - brand
+      - medical-science
+    founded: 2018
+    added_at: '2026-11-08T20:25:13.879Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

@@ -1,0 +1,921 @@
+studios:
+  - name: The Tiny Digital Factory
+    url: https://tinydigitalfactory.com/
+    description: Mobile game developer and publisher since 2015, focused on motorsport management and racing games.
+    hq:
+      city: Lyon
+      country: France
+    offices:
+      - city: Montréal
+        country: Canada
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - GT Manager
+      - Revv Racing
+      - Shell Racing Legends
+    social:
+      instagram: https://www.instagram.com/thetinydigitalfactory/
+      linkedin: https://www.linkedin.com/company/tiny-digital-factory/
+    added_at: '2026-11-08T20:25:13.737Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Freya Games
+    url: https://freya-games.com/
+    description: Indie studio in Ariège making its own PC and mobile games since 2016 and providing outsourcing for other studios.
+    hq:
+      city: Mazères
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - web
+    founded: 2016
+    notable:
+      - 'Red Nose Guy: The LegenDairy Quest'
+      - Money Block
+    social:
+      instagram: https://www.instagram.com/freya_games/
+      linkedin: https://www.linkedin.com/company/freya-games/
+    added_at: '2026-11-08T20:25:13.738Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NoBrain Studio
+    url: https://www.nobrain-studio.com/
+    description: Clermont-Ferrand indie studio founded in 2020 making its own games plus serious games, VR experiences and simulations for clients.
+    hq:
+      city: Clermont-Ferrand
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - vr
+    founded: 2020
+    notable:
+      - The Last Viking
+    added_at: '2026-11-08T20:25:13.739Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Polycorne
+    url: https://polycorne.fr/
+    description: Annecy studio making city-building and traffic simulation games alongside software development.
+    hq:
+      city: Annecy
+      country: France
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Silicon City
+      - Rushhour
+    added_at: '2026-11-08T20:25:13.740Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DRAMA Studios
+    url: https://studiosdrama.com/
+    description: Independent Rennes studio founded in 2020, developing the bodycam-style shooter Unrecord.
+    hq:
+      city: Rennes
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Unrecord
+    social:
+      linkedin: https://fr.linkedin.com/company/drama-studios-linkedin
+    added_at: '2026-11-08T20:25:13.741Z'
+  - name: VD-dev Games
+    url: http://www.vd-dev.com/
+    description: 'French studio making racing games for mobile and PC, including Rise: Race The Future.'
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - 'Rise: Race The Future'
+    social:
+      instagram: https://www.instagram.com/vddevgames
+      vimeo: https://vimeo.com/vddevgames
+    added_at: '2026-11-08T20:25:13.742Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Coven
+    url: https://wearecoven.com/
+    description: Paris game studio making narrative, co-op horror, puzzle and VR games.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Los Angeles
+        country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    careers: https://wearecoven.com/jobs/
+    notable:
+      - Masters of Light
+      - 'Haunted: Escape the Dollhouse'
+      - Micromega
+    social:
+      instagram: https://www.instagram.com/wecoven/
+      linkedin: https://www.linkedin.com/company/wearecoven/
+    added_at: '2026-11-08T20:25:13.743Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ernestine
+    url: https://ernestine-games.fr/
+    description: Independent Strasbourg game studio founded in 2009, making its own games and game-creation workshops.
+    hq:
+      city: Strasbourg
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2009
+    notable:
+      - Castelet
+      - Apocalypsheim
+      - Une intéressante épopée de Monsieur PAF
+    added_at: '2026-11-08T20:25:13.744Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Holy Moka Games
+    url: https://holymokagames.com/
+    description: Independent Toulouse studio making original video games and serious games built for learning.
+    hq:
+      city: Toulouse
+      country: France
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    notable:
+      - Catching Spirits
+    added_at: '2026-11-08T20:25:13.745Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hot Chili Games
+    url: https://www.hotchiligames.com/
+    description: Montpellier indie studio behind the PC game Elypse.
+    hq:
+      city: Montpellier
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Elypse
+    added_at: '2026-11-08T20:25:13.746Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ikimasho Games
+    url: http://www.ikimasho.games/
+    description: Paris studio making VR action games, including Tiger Blade and Star Shaman.
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Tiger Blade
+      - Star Shaman
+    added_at: '2026-11-08T20:25:13.747Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mars Touch Studio
+    url: https://www.mars-touch-studio.com/
+    description: Marseille indie studio making action and exploration games for PC.
+    hq:
+      city: Marseille
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ninja Scroller
+      - Underwater Diving
+      - Grotto Escape
+    social:
+      instagram: https://www.instagram.com/marstouchstudio/
+    added_at: '2026-11-08T20:25:13.748Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ristretto Studios
+    url: https://ristretto-studios.com/
+    description: Mobile game studio making casual and hybrid-casual games with millions of downloads.
+    hq:
+      city: Villeparisis
+      country: France
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Life Bubble
+      - Hopscotch Run
+      - Combo Clash
+      - Pill Fortress
+    social:
+      linkedin: https://fr.linkedin.com/company/ristretto-studios
+    added_at: '2026-11-08T20:25:13.749Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tacty Studio
+    url: https://tactystudio.com/
+    description: Independent studio developing the off-road driving and exploration game Drive Beyond Horizons.
+    hq:
+      city: Saint-Jory
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Drive Beyond Horizons
+    social:
+      instagram: https://www.instagram.com/drivebeyondhorizons/
+    added_at: '2026-11-08T20:25:13.750Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Interactive 4D
+    url: https://interactive4d.com/
+    description: Nice studio designing and developing serious games and interactive e-learning tools for clients since 2010.
+    hq:
+      city: Nice
+      country: France
+    segments:
+      - co-dev
+      - simulation
+    platforms:
+      - pc
+      - web
+      - mobile
+    founded: 2010
+    social:
+      linkedin: https://www.linkedin.com/company/interactive-4d
+    added_at: '2026-11-08T20:25:13.751Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Two Frogs
+    url: https://www.twofrogs.games/
+    description: French studio behind Back2Back, a co-op mobile racing game for two players on two phones.
+    hq:
+      country: France
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Back2Back
+    social:
+      linkedin: https://www.linkedin.com/company/two-frogs/
+    added_at: '2026-11-08T20:25:13.752Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Manufacture 43
+    url: https://www.manufacture43.com/
+    description: Independent Bordeaux studio making action and arcade games, also offering development services.
+    hq:
+      city: Bordeaux
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Pawarumi
+      - Highway to Heal
+    social:
+      instagram: https://www.instagram.com/manufacture43
+      linkedin: https://www.linkedin.com/company/manufacture-43
+    added_at: '2026-11-08T20:25:13.753Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Beemoov
+    url: https://www.beemoov.com/
+    description: French studio making narrative browser and mobile games, including the dating sim Amour Sucré and the fantasy game Eldarya.
+    hq:
+      country: France
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - web
+      - mobile
+    careers: https://www.beemoov.com/recrutement
+    notable:
+      - Amour Sucré (MyCandyLove)
+      - Eldarya
+      - 'Amour Sucré: NewGen'
+    social:
+      instagram: https://www.instagram.com/beemoov
+    added_at: '2026-11-08T20:25:13.754Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Million Victories
+    url: https://millionvictories.com/
+    description: French mobile and PC studio behind the real-time strategy MMO Million Lords.
+    hq:
+      country: France
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Million Lords
+    social:
+      linkedin: https://www.linkedin.com/company/millionvictories
+    added_at: '2026-11-08T20:25:13.755Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Honikou Games
+    url: https://honikou.com/
+    description: Marseille studio that grew from mobile games to PC and console titles, with more than 42 million players.
+    hq:
+      city: Marseille
+      country: France
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    notable:
+      - Warchief
+      - Kraken Odyssey
+    added_at: '2026-11-08T20:25:13.756Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Piraknights Games
+    url: https://www.piraknights.com/
+    description: Studio in Savoie founded in 2022 by five industry veterans, developer of the management game Sintopia.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2022
+    careers: https://www.piraknights.com/careers
+    notable:
+      - Sintopia
+    added_at: '2026-11-08T20:25:13.757Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ROCKFISH Games
+    url: https://rockfishgames.com/
+    description: Independent Hamburg studio making the EVERSPACE space-action games for PC and consoles.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - EVERSPACE
+      - EVERSPACE 2
+    social:
+      linkedin: https://de.linkedin.com/company/rockfish-games-gmbh
+      youtube: https://www.youtube.com/c/ROCKFISHGames
+    added_at: '2026-11-08T20:25:13.758Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tiny Roar
+    url: https://www.tinyroar.de/
+    description: Hamburg indie studio making PC and console games such as XEL, Into the Emberlands and Lou's Lagoon.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - XEL
+      - Into the Emberlands
+      - Lou's Lagoon
+    social:
+      instagram: https://www.instagram.com/tinyroargames/
+    added_at: '2026-11-08T20:25:13.759Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Klang Games
+    url: https://www.klang-games.com/
+    description: Berlin studio developing large-scale online simulation games.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    social:
+      linkedin: https://www.linkedin.com/company/klang-games/
+      instagram: https://www.instagram.com/klanggames/
+    added_at: '2026-11-08T20:25:13.760Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Megagon Industries
+    url: https://megagonindustries.com/
+    description: Independent Berlin studio behind the Lonely Mountains series of downhill sports games.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - 'Lonely Mountains: Downhill'
+      - 'Lonely Mountains: Snow Riders'
+    added_at: '2026-11-08T20:25:13.761Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pixel Maniacs
+    url: https://pixel-maniacs.com/
+    description: Nuremberg indie studio making puzzle and party games, including the ChromaGun series.
+    hq:
+      city: Nuremberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - vr
+    notable:
+      - ChromaGun
+      - 'ChromaGun 2: Dye Hard'
+      - Can't Drive This
+    social:
+      instagram: https://www.instagram.com/pixel_maniacs/
+    added_at: '2026-11-08T20:25:13.762Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: tobspr Games
+    url: https://tobspr.io/
+    description: Remote studio and publisher making factory and automation games, known for shapez.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - shapez
+      - shapez 2
+    added_at: '2026-11-08T20:25:13.763Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Boxelware
+    url: https://boxelware.com/
+    description: Erlangen indie studio behind Avorion, a sandbox space game about building ships and empires.
+    hq:
+      city: Erlangen
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Avorion
+    social:
+      instagram: https://www.instagram.com/boxelware
+      youtube: https://www.youtube.com/@boxelware
+    added_at: '2026-11-08T20:25:13.764Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Just2D Interactive
+    url: https://just2d.com/
+    description: 'Magdeburg studio making pixel-art RPGs, known for Drova: Forsaken Kin.'
+    hq:
+      city: Magdeburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Drova: Forsaken Kin'
+    added_at: '2026-11-08T20:25:13.765Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Spellgarden Games
+    url: https://spellgardengames.com/
+    description: Queer and women-led indie studio making cozy management games such as Sticky Business and Thrifty Business.
+    hq:
+      city: Ludwigsburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Sticky Business
+      - Ritual of Raven
+      - Thrifty Business
+    social:
+      instagram: https://www.instagram.com/spellgardengames/
+      youtube: https://www.youtube.com/@spellgardengames
+    added_at: '2026-11-08T20:25:13.766Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Barrel Roll Games
+    url: https://barrelrollgames.com/
+    description: Indie studio behind Witch It, a multiplayer hide-and-seek action game.
+    hq:
+      city: Eilenstedt
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Witch It
+    added_at: '2026-11-08T20:25:13.767Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brainseed Factory
+    url: https://brainseed-factory.com/
+    description: Indie studio behind Typoman, a 2D word-puzzle platformer released on PC, consoles and mobile.
+    hq:
+      city: Wachtberg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Typoman
+    social:
+      instagram: https://instagram.com/brainseedfactory
+      youtube: https://www.youtube.com/brainseedfactory
+    added_at: '2026-11-08T20:25:13.768Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ColdFire Games
+    url: https://www.coldfiregames.com/
+    description: Karlsruhe mobile studio making idle management games such as Idle Bee Manager.
+    hq:
+      city: Karlsruhe
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Idle Bee Manager
+      - Idle Hiking Manager
+      - Idle Convention Manager
+    social:
+      instagram: https://www.instagram.com/coldfiregames
+      youtube: https://www.youtube.com/coldfiregames
+    added_at: '2026-11-08T20:25:13.769Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Crunchy Leaf Games
+    url: https://www.crunchyleafgames.com/
+    description: Berlin indie studio making action games such as Galactic Glitch and Crystal Clash.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Galactic Glitch
+      - Crystal Clash
+    added_at: '2026-11-08T20:25:13.770Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Curvature Games
+    url: https://curvaturegames.com/
+    description: Hamburg VR studio making location-based and home VR games such as The Amusement and Escape Quest.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - vr
+    platforms:
+      - vr
+    notable:
+      - The Amusement
+      - 'Escape Quest: Espionage Express'
+      - Frozen Factory
+    social:
+      instagram: https://www.instagram.com/curvature_games/
+    added_at: '2026-11-08T20:25:13.771Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dobiq Games
+    url: https://www.dobiq.com/
+    description: Berlin mobile studio making calm puzzle games with a focus on cultural heritage.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Tile Merge: Numbers and Tiles'
+    social:
+      linkedin: https://www.linkedin.com/company/dobiq
+      instagram: https://www.instagram.com/dobiqgames/
+    added_at: '2026-11-08T20:25:13.772Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Evil Grog Games
+    url: https://evilgrog.com/
+    description: Karlsruhe studio making mobile strategy games for Android and iOS.
+    hq:
+      city: Karlsruhe
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    notable:
+      - World Peace General 2017
+      - Idle Car Empire
+    added_at: '2026-11-08T20:25:13.773Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: GoraGames
+    url: https://gora.games/
+    description: Cologne studio building multiplayer Unreal Engine games and doing co-development, including GG-Party.
+    hq:
+      city: Cologne
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2012
+    notable:
+      - GG-Party
+    social:
+      instagram: https://www.instagram.com/goragames/
+      youtube: https://www.youtube.com/@GoraGames
+    added_at: '2026-11-08T20:25:13.774Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Konsole Game Labs
+    url: https://www.konsole.game/
+    description: Berlin studio making games for iPhone, Apple Watch and spatial devices driven by motion, sound and health data.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-08T20:25:13.775Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lionmoon
+    url: https://lionmoon.com/
+    description: Studio making long-running online browser games Tentlan and Anocris.
+    hq:
+      city: Speyer
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - web
+    notable:
+      - Tentlan
+      - Anocris
+    added_at: '2026-11-08T20:25:13.776Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: LITE Games
+    url: https://www.lite.games/
+    description: Bremen mobile studio making classic card, board and puzzle games for iOS and Android.
+    hq:
+      city: Bremen
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2014
+    social:
+      instagram: https://www.instagram.com/lite_games/
+    added_at: '2026-11-08T20:25:13.777Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lootzifr
+    url: https://lootzifr.com/
+    description: Berlin indie studio behind Battle Wizard Attack, a pixel-art action RPG.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Battle Wizard Attack
+    social:
+      instagram: https://www.instagram.com/lootzifr/
+      youtube: https://www.youtube.com/@lootzifr
+    added_at: '2026-11-08T20:25:13.778Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Marttalin Games
+    url: https://marttalin.de/
+    description: Three-person indie studio behind Summer Islands, a holiday resort business simulator.
+    hq:
+      city: Steinbach
+      country: Germany
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Summer Islands
+    social:
+      instagram: https://www.instagram.com/marttalingames/
+      youtube: https://www.youtube.com/@Marttalin
+    added_at: '2026-11-08T20:25:13.779Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MixUp
+    url: https://mixup.games/
+    description: Studio making management games such as Farm for your Life.
+    hq:
+      city: Tönisvorst
+      country: Germany
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Farm for your Life
+    added_at: '2026-11-08T20:25:13.780Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: b-interaktive
+    url: https://b-interaktive.com/
+    description: Dortmund studio behind Kniffel Dice Clubs, a real-time multiplayer dice game for mobile.
+    hq:
+      city: Dortmund
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Kniffel Dice Clubs
+    social:
+      instagram: https://www.instagram.com/binteraktive/
+      linkedin: https://www.linkedin.com/company/b-interaktive
+    added_at: '2026-11-08T20:25:13.781Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NightinGames
+    url: https://www.nightingames.com/
+    description: Bayreuth studio making horse and narrative games, including The Legend of Khiimori with Aesir Interactive.
+    hq:
+      city: Bayreuth
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - The Legend of Khiimori
+      - Dear Diary
+    social:
+      instagram: https://www.instagram.com/nightingames/
+      linkedin: https://www.linkedin.com/company/nightingames
+    added_at: '2026-11-08T20:25:13.782Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NUKKLEAR
+    url: https://www.nukklear.com/
+    description: Co-development studio doing work-for-hire, porting and UI/UX on titles such as Dune and Everspace 2, plus its own Neocron IP.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Neocron
+      - Super Meat Boy Forever (porting)
+      - Everspace 2 (UI/UX)
+    added_at: '2026-11-08T20:25:13.783Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pixelpogo
+    url: https://www.pixelpogo.com/
+    description: Small indie studio making high-bit pixel-art games, known for Super Catboy.
+    hq:
+      city: Bornheim
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Super Catboy
+    added_at: '2026-11-08T20:25:13.784Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Playata
+    url: https://www.playata.com/
+    description: Studio behind Hero Zero, a long-running browser game.
+    hq:
+      city: Barby
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Hero Zero
+    added_at: '2026-11-08T20:25:13.785Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: playzo
+    url: https://www.playzo.de/
+    description: Darmstadt studio running browser strategy and football manager games such as Desert Operations and Fussballcup.
+    hq:
+      city: Darmstadt
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    founded: 2004
+    notable:
+      - Desert Operations
+      - Fussballcup
+      - World of Crime
+    added_at: '2026-11-08T20:25:13.786Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

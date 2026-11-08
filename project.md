@@ -85,6 +85,7 @@ Secondary:
 │   ├── check-links.js         # External link scan; browser-UA retry; --only-missing / --status= / --dry-run.
 │   ├── recheck-unreachable.js, check-pricing-freshness.js, check-repo-staleness.js, watch-releases.js, freshness-digest.js
 │   ├── ingest-80lvl.js, ingest-gumroad.js, ingest-itch.js, ingest-youtube.js
+│   ├── import-studios.js      # Research agents' out-*.json -> dedupe/schema/style/live probe -> data/studios + data/game-studios (--dump/--probe/--write).
 │   ├── pass.js, auto-tag.js, audit-classification.js, dedupe-entries.js, dedupe-youtube.js,
 │   │   quality-scan.js, quarantine-low.js, export-csv.js
 │   └── mine-awesome.js, triage-candidates.js     # gitignored local tools
@@ -99,6 +100,7 @@ Secondary:
 │   ├── adr/0001-data-layout-is-public-interface.md, adr/0002-data-is-source-of-truth.md
 │   ├── plan.md, pub_plan.md, changes.md        # Historical plans (moved from root 2026-10-05).
 │   ├── plans/2026-09-15-review-fixes.md
+│   ├── playbooks/studio-discovery.md   # Region-by-country studio discovery method + agent brief template (reuse per region).
 │   └── deployment-issues.md, deployment-issues-resolved-spec.md
 │
 ├── memory/                    # Project memory (CLAUDE.md protocol). archive/ holds entries up to 2026-09-30.
@@ -194,6 +196,8 @@ outsourcing, cinematics), `/game-studios/` = game developers. A URL may live in 
 - validate.js: schema, unknown country, chunk cap, duplicate url (error), duplicate name (warning),
   em-dash/banned words in description (error).
 - check-links.js scans both studio directories with catalog entries (monthly).
+- Discovery method: `docs/playbooks/studio-discovery.md` (country agents + `scripts/import-studios.js`). Europe done
+  2026-11-09 (round 6); next regions: Americas, Asia-Pacific, Middle East + Africa.
 - Active studios only. Locations must be verified on the studio's own site or LinkedIn/press. The School of
   Motion ebook scrambles many locations (it put Blur Studio in Istanbul), so its HQs were never trusted alone.
 
@@ -368,14 +372,22 @@ left open, remove when done.
   Village) in §07. Houdini FX/simulations still 2 entries.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
-- `/studios/` 2,695 (97 countries) and `/game-studios/` 2,683 (96 countries) on 2026-11-06, after round 5
-  (event-sourced, +338 / +133). Disciplines: archviz 392, product viz 206, interactive 164, VP 103, mocap 65,
+- `/studios/` 3,075 (97 countries) and `/game-studios/` 3,238 (95 countries) on 2026-11-09, after round 6
+  (Europe country by country, +380 / +555). Round 5 (event-sourced, 2026-11-06) stood at 2,695 / 2,683. Disciplines: archviz 392, product viz 206, interactive 164, VP 103, mocap 65,
   AI production 46, scanning 33, previs 23; markets: real-estate 394, medical-science 58; games: simulation 101,
   kids-edu 65, UGC 41, VR 86, web 95. Japan production 175 (game 233).
 - Goal is every studio worldwide. Still thin: previs 23 (Previs Society site down, PLF/NVIZ/Nvizage dead), digital fashion 0
   (The Fabricant, DRESSX are software now), Live2D/VTuber rigging 3 (no Live2D discipline, tagged `2d-animation`),
-  Gulf archviz (Saudi/Qatar 0; round 5 found only Bahrain 1, Dubai 1). Countries under 20 (by HQ): 63 in /studios/, 60 in /game-studios/ (many are 1-2 row countries added
-  2026-11-06; small markets like Malta, Iceland, Bosnia, Moldova may never reach 20). 0 rows: Montenegro, Kosovo, Albania.
+  Gulf archviz (Saudi/Qatar 0; round 5 found only Bahrain 1, Dubai 1). Countries under 20 (by HQ): 56 in /studios/, 57 in /game-studios/ (many are 1-2 row countries added
+  2026-11-06; small markets like Malta, Iceland, Bosnia, Moldova may never reach 20). 0 rows: Montenegro, Albania (round 6
+  found nothing verifiable in Albania, Montenegro, North Macedonia, Kosovo).
+- Round 6 (2026-11-09, Europe): 14 country agents, both directories. Agent + main-session probe only; 167 of 935 rows are
+  country-only HQ, none have `size`, ~40% medium confidence (active on association membership or a recent grant).
+  Thin after round 6: Hungary games 10, Portugal games 14, Ireland games 14, Bulgaria games 14, Latvia 8/8, Greece, Slovenia,
+  Moldova/Belarus 0 new. Not mined: gamesmap.uk (login), TIGA shortlist (JS), HGDA (no list), Slovak Film Commission +
+  APAF + BGDA (unreachable/JS), Clutch (IP block). Leads left out: BlueTwelve (placeholder site), PortaPlay + Logic Artists
+  (cert errors), Kuju, Lo-Fi, Hunted Cow (403), LIGHT VFX, iGene, beloFX (HQ unclear). Nebula Studios HQ Lisbon vs Faro
+  (Portugal Film Commission PDF) unresolved: site is JS-only. Next: rest of world by country (Americas, Asia-Pacific, MEA).
 - Round 4 (+313 / +204), gap fill (2026-11-05) and country fill (2026-11-06) rows were verified by agents + a main-session
   HTTP probe only. The two runs overlapped on 134 studios; round 4 rows were kept and gained the new enum values.
   Weak spots: ~30 round-4 + ~240 gap/country-fill rows are country-only HQ; none of the new rows have `size` (LinkedIn
@@ -392,21 +404,22 @@ left open, remove when done.
   Festival years (classifier stopped API paging). Leads left out (HQ or site unverified): beloFX, 1920 (London VFX),
   Nash VFX, Mavericks VFX, WolfEye, Deck Nine (placeholder site), Slow Bros (.com parked), Shedworks, BlueTwelve.
 - Check status: The Mill and Mikros Animation (both hit by the Technicolor collapse, Feb 2025) still read `url_status: ok`.
-- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 1,588 of 2,683), so
+- Game studios: segments are rough. Europe rows default to `indie` without a headcount (indie 2,002 of 3,238), so
   mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
-  LOW-confidence segment fixes (no live source). Size only 267/2,683. 84 Russia-HQ Wikidata studios skipped
+  LOW-confidence segment fixes (no live source). Size only 267/3,238. 84 Russia-HQ Wikidata studios skipped
   (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
   Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
 - 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,
   but HQ/description not from site text (`notes:` says so).
-- `/studios/` founded 1,270/2,695, size 692/2,695 (2026-11-06). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+- `/studios/` founded 1,372/3,075, size 692/3,075 (2026-11-09). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".
 - Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
   Beauty and the Bit, Frogwares.
 - ~200 studios carry agent provenance in `notes:` (size from team page, city from Guild list, 403 sites).
-- Pages 64/64 KB gz (studios/game-studios, mostly JSON-LD ItemList); studios.json 500/420 KB gz (2026-11-06). Past ~3,000 per directory consider splitting the JSON (both now ~2,700).
+- Pages 74/77 KB gz (studios/game-studios, mostly JSON-LD ItemList); studios.json 575/513 KB gz (2026-11-09). Both directories
+  are now past ~3,000 (3,075 / 3,238): time to decide on splitting the JSON (per region or per batch) before the next round.
 - Not verified on a real phone (headless Chrome floors the viewport at 504 px).
 
 **Site / UX:**
@@ -443,6 +456,7 @@ left open, remove when done.
 
 - Domain vocab → `CONTEXT.md`.
 - Architecture decisions → `docs/adr/*`.
+- Studio discovery method (country-by-country agents) → `docs/playbooks/studio-discovery.md`.
 - Project rules → `CLAUDE.md` (and this file).
 - Data contract → `schema/entry.schema.json` + `schema/vocab.yml`.
 - Memory log → `memory/*`.

@@ -1,0 +1,934 @@
+studios:
+  - name: Blue Pulsar Games
+    url: https://bluepulsar.cz/
+    description: Prague indie studio making atmospheric games such as the abstract shooter 11th Dream and Lithium.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 11th Dream
+      - Lithium
+    added_at: '2026-11-08T20:25:13.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KUBI Games
+    url: https://kubi-games.com/
+    description: 'Brno indie studio behind the medieval action RPG 1428: Shadows over Silesia and Kubikon 3D.'
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - '1428: Shadows over Silesia'
+      - Kubikon 3D
+    social:
+      linkedin: https://www.linkedin.com/company/kubi-games
+      instagram: https://www.instagram.com/kubigamescz
+    added_at: '2026-11-08T20:25:13.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Wild Gentlemen
+    url: https://thewildgentlemen.com/
+    description: Budapest indie studio of about 23 people behind the noir adventure Chicken Police and its follow-ups.
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - 'Chicken Police: Paint it RED!'
+      - WILD Tactics
+    social:
+      linkedin: https://www.linkedin.com/company/the-wild-gentlemen
+    added_at: '2026-11-08T20:25:13.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Primal Game Studio
+    url: https://primalgs.com/
+    description: Budapest developer of the dark fantasy action RPG Mandragora, making PC and console games and offering co-development.
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    notable:
+      - 'Mandragora: Whispers of the Witch Tree'
+    social:
+      linkedin: https://www.linkedin.com/company/primal-game-studio
+    added_at: '2026-11-08T20:25:13.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Yigsoft
+    url: https://yigsoft.dev/
+    description: Budapest game development company working with CD PROJEKT RED on The Witcher 3 and Cyberpunk 2077 updates, ports and the REDmod tools.
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'The Witcher 3: Wild Hunt Complete Edition'
+      - 'Cyberpunk 2077: Phantom Liberty'
+      - Cyberpunk 2077 REDmod
+    added_at: '2026-11-08T20:25:13.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: About Fun
+    url: https://www.about-fun.com/
+    description: Prague mobile game studio behind the WarFriends PvP shooter, Tiny Miners and Mega Dead Pixel.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2011
+    notable:
+      - WarFriends
+      - Tiny Miners
+      - Mega Dead Pixel
+      - Cut and Hack
+    added_at: '2026-11-08T20:25:13.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: AppsGears
+    url: https://appsgears.com/
+    description: Ostrava indie studio making puzzle and adventure games for Nintendo Switch, PC and mobile, plus math apps for kids.
+    hq:
+      city: Ostrava
+      country: Czech Republic
+    segments:
+      - indie
+      - mobile
+      - kids-edu
+    platforms:
+      - console
+      - pc
+      - mobile
+    notable:
+      - King Jister 3
+      - 'Pixel Boy 2: The Castle Revenge'
+      - LeMrosh in the Lazy Kingdom
+    social:
+      instagram: https://instagram.com/AppsGears
+      linkedin: https://www.linkedin.com/company/AppsGears
+    added_at: '2026-11-08T20:25:13.643Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Beresnev Games
+    url: https://beresnev.games/
+    description: Prague mobile game studio making casual and hyper-casual titles such as Race Master 3D and Flippy Knife.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Race Master 3D
+      - Monster Demolition
+      - Flippy Knife
+    social:
+      instagram: https://www.instagram.com/beresnev.games/
+      linkedin: https://www.linkedin.com/company/beresnev-games/
+    added_at: '2026-11-08T20:25:13.644Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cinemax Games
+    url: https://cinemaxgames.com/
+    description: Independent Prague developer and publisher since 1998, behind Inquisitor, the Rytmik music apps and The Keep.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 1998
+    notable:
+      - Inquisitor
+      - Rytmik Ultimate
+      - The Keep
+      - Jim Is Moving Out!
+    added_at: '2026-11-08T20:25:13.645Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flyboys Games
+    url: https://www.flyboys.games/
+    description: Aviation game studio making airport management and flight games, best known for World of Airports.
+    hq:
+      city: Klášterec nad Ohří
+      country: Czech Republic
+    segments:
+      - simulation
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - World of Airports
+      - Flyboys
+      - Scrap It
+    social:
+      instagram: https://www.instagram.com/flyboys.games/
+    added_at: '2026-11-08T20:25:13.646Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Flying Rat Studio
+    url: https://www.flying-rat.studio/
+    description: Prague co-development team handling gameplay systems, optimization and console ports for other studios, and making its own game Pit Panic.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Pit Panic
+      - 'WRATH: Aeon of Ruin'
+      - The Last Oricru
+      - Darkest Dungeon II
+    social:
+      instagram: https://instagram.com/flyingrat.studio
+    added_at: '2026-11-08T20:25:13.647Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fuchs+Dachs
+    url: https://www.fuchsdachs.com/
+    description: Prague indie studio making story-driven premium games, co-creator of the cinematic platformer Ministry of Broadcast.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - Ministry of Broadcast
+    social:
+      instagram: https://instagram.com/fuchsdachs
+    added_at: '2026-11-08T20:25:13.648Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gamajun Games
+    url: http://gamajun-games.com/
+    description: Brno studio of industry veterans making its own games such as Street Power Football and working on projects for external clients.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Street Power Football
+      - 'The Lord of the Rings: Return to Moria'
+    social:
+      linkedin: https://www.linkedin.com/company/gamajun-games/
+    added_at: '2026-11-08T20:25:13.649Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Main Quest
+    url: https://www.mainquest.com/
+    description: Young Brno game studio, maker of the 3D platformer Shy Eye Labyrinth, now working on mobile games.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Shy Eye Labyrinth: The Incredible Mystery'
+    added_at: '2026-11-08T20:25:13.650Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: NOXGAMES
+    url: https://noxgames.com/
+    description: Brno mobile game studio with 150+ released titles across tower defense, strategy, RPG and action genres.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2005
+    notable:
+      - Puppet Soccer 2014
+    social:
+      instagram: https://www.instagram.com/nox_games/
+      linkedin: https://www.linkedin.com/company/noxgames-s-r-o
+    added_at: '2026-11-08T20:25:13.651Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Paper Bunker
+    url: https://paperbunker.cz/
+    description: Ostrava indie studio making games for mobile, PC, VR and console, including The Pillar, Splash Cars and Socket Fighters.
+    hq:
+      city: Ostrava
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    notable:
+      - The Pillar
+      - Splash Cars
+      - Socket Fighters
+    social:
+      instagram: https://instagram.com/paperbunkergames/
+    added_at: '2026-11-08T20:25:13.652Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zoemi Games
+    url: https://zoemigames.com/
+    description: Prague indie studio making handcrafted, story-driven games, starting with Subsequence.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Subsequence
+    added_at: '2026-11-08T20:25:13.653Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Leveland Studios
+    url: https://www.levelandstudios.com/
+    description: Brno studio doing gameplay systems and technical work for game teams, developing its own systems-driven IP and running GamesCrunch events.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    added_at: '2026-11-08T20:25:13.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lonely Troops
+    url: https://www.lonelytroops.com/
+    description: Two-person Slovak team behind the Hero of the Kingdom adventure RPG series and the Townopolis city sims.
+    hq:
+      city: Halič
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2004
+    notable:
+      - Hero of the Kingdom
+      - Hero of the Kingdom III
+      - 'Hero of the Kingdom: The Lost Tales 3'
+      - Townopolis
+    added_at: '2026-11-08T20:25:13.655Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Triple Hill Interactive
+    url: https://triple-hill.com/
+    description: Košice indie studio behind Die by the Blade, a one-hit-kill samurai sword fighting game.
+    hq:
+      city: Košice
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Die by the Blade
+    added_at: '2026-11-08T20:25:13.656Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cypronia
+    url: http://www.cypronia.com/
+    description: 'Michalovce indie developer, publisher and console porting house with 40+ released games such as Cube Life: Island Survival.'
+    hq:
+      city: Michalovce
+      country: Slovakia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Cube Life: Island Survival'
+      - 'State of War: Warmonger'
+      - Color Zen
+    social:
+      instagram: https://www.instagram.com/cypronia1/
+    added_at: '2026-11-08T20:25:13.657Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Black Deer Games
+    url: http://blackdeergames.com/
+    description: Prešov indie studio making PC and console games, known for Juro Janosik and the Viking strategy game Hordeguard.
+    hq:
+      city: Prešov
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - Juro Janosik
+      - The Legend of Janosik
+    social:
+      instagram: https://www.instagram.com/blackdeergames/
+      linkedin: https://www.linkedin.com/company/black-deer-games/
+    added_at: '2026-11-08T20:25:13.658Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Webnetic
+    url: https://webnetic.sk/
+    description: Slovak indie studio and publisher bringing small puzzle, arcade and horror games to Nintendo Switch, Xbox and Steam.
+    hq:
+      city: Turany
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Panic House: Awakening'
+    social:
+      instagram: https://www.instagram.com/webnetic_sk/
+    added_at: '2026-11-08T20:25:13.659Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rembrosoft
+    url: https://www.rembrosoft.com/
+    description: Košice indie studio making strategy games such as the colony builder Colonize, plus game art and tools work.
+    hq:
+      city: Košice
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2014
+    notable:
+      - Colonize
+    social:
+      linkedin: https://www.linkedin.com/company/rembrosoft
+    added_at: '2026-11-08T20:25:13.660Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Charged Monkey
+    url: https://chargedmonkey.com/
+    description: Mobile free-to-play game studio with offices in Prague and Bratislava, maker of What The Hen! and Train King Tycoon.
+    hq:
+      city: Prague
+      country: Czech Republic
+    offices:
+      - city: Bratislava
+        country: Slovakia
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - What The Hen!
+      - Train King Tycoon
+      - Pocket Necromancer
+    social:
+      instagram: https://instagram.com/chargedmonkeystudio
+    added_at: '2026-11-08T20:25:13.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Centurion Developments
+    url: https://centuriondevelopments.sk/
+    description: Slovak studio making turn-based tactics games, including the WWII title Forgotten but Unbroken and Ghost Justice.
+    hq:
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Forgotten but Unbroken
+    social:
+      instagram: https://www.instagram.com/centurion_developments_s.r.o
+      linkedin: https://www.linkedin.com/company/86255179
+    added_at: '2026-11-08T20:25:13.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zu Digital
+    url: https://zu.digital/
+    description: Hungarian game developer making mobile and PC games, edutainment titles and work-for-hire projects such as the Sine Mora mobile port.
+    hq:
+      country: Hungary
+    segments:
+      - mobile
+      - co-dev
+      - kids-edu
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - 'Eterna: Heroes Fall'
+      - Sine Mora (mobile)
+    added_at: '2026-11-08T20:25:13.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Terahype
+    url: https://terahype.com/
+    description: Independent Brno mobile game studio with 12 shipped mobile games, now running the tower defense game Boom Castle.
+    hq:
+      city: Brno
+      country: Czech Republic
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2022
+    notable:
+      - 'Boom Castle: Tower Defense TD'
+    social:
+      linkedin: https://www.linkedin.com/company/terahype
+    added_at: '2026-11-08T20:25:13.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Shader Mess
+    url: https://shadermess.com/
+    description: Two-person Prague indie studio behind the point-and-click adventure Whispers of Prague and the brick-breaker RPG Beyond The Space Wall.
+    hq:
+      city: Prague
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Whispers of Prague: The Executioner''s Last Cut'
+      - Beyond The Space Wall
+    social:
+      instagram: https://www.instagram.com/shadermess
+    added_at: '2026-11-08T20:25:13.665Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Amenti Studio
+    url: https://amentistudio.com/
+    description: Czech indie studio behind The Book of Aaru, a roguelite action game mixing Egyptian mythology with sci-fi.
+    hq:
+      city: Fryčovice
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Book of Aaru
+    social:
+      instagram: https://www.instagram.com/thebookofaaru.byamenti/
+      linkedin: https://www.linkedin.com/company/amenti-studio
+    added_at: '2026-11-08T20:25:13.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Troglodyte Studio
+    url: https://www.troglodytestudio.com/
+    description: 'Two-person Czech indie studio making unusual adventure games, including The Happies: Amber Falcon.'
+    hq:
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'The Happies: Amber Falcon'
+      - 'The Happies: Doomsday Stories'
+    added_at: '2026-11-08T20:25:13.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: SMARTcreative
+    url: https://smartcreative.cz/
+    description: Czech game studio making strategy and RPG games such as Tiny Pharaoh, Eternis Heroes and the dice roguelike Luck & Loot.
+    hq:
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Luck & Loot
+      - Tiny Pharaoh
+      - Eternis Heroes
+    social:
+      instagram: https://www.instagram.com/smartcreative.games/
+    added_at: '2026-11-08T20:25:13.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: All Hats
+    url: https://allhats.gg/
+    description: Studio building Roblox experiences, both original titles and custom branded games for IP holders.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - ugc
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/all-hats/
+    added_at: '2026-11-08T20:25:13.669Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Channel37
+    url: https://channel37.co/
+    description: Indie studio developing the survival game The Last Caretaker.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - The Last Caretaker
+    social:
+      linkedin: https://www.linkedin.com/company/wearechannel37/
+    added_at: '2026-11-08T20:25:13.670Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Critical Force
+    url: https://criticalforce.fi/
+    description: Mobile developer of online multiplayer shooters, best known for the tactical shooter Critical Ops.
+    hq:
+      city: Kajaani
+      country: Finland
+    offices:
+      - city: Helsinki
+        country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2012
+    notable:
+      - Critical Ops
+    social:
+      instagram: https://www.instagram.com/criticalforceofficial/
+      linkedin: https://www.linkedin.com/company/criticalforce
+    added_at: '2026-11-08T20:25:13.671Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DIRGA Games
+    url: https://dirgagames.com/
+    description: Five-person indie studio that made the PC game THYSIASTERY.
+    hq:
+      city: Espoo
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - THYSIASTERY
+    social:
+      linkedin: https://www.linkedin.com/company/dirgagames/
+    added_at: '2026-11-08T20:25:13.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hanki Games
+    url: https://hankigames.com/
+    description: Indie studio behind Sledders, a physics-based snowmobile game for PC and consoles.
+    hq:
+      city: Kuopio
+      country: Finland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    founded: 2023
+    notable:
+      - Sledders
+    added_at: '2026-11-08T20:25:13.673Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Horsefly Games
+    url: https://horsefly.games/
+    description: Indie studio making narrative and arcade games for PC and consoles.
+    hq:
+      city: Kaustinen
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2022
+    notable:
+      - Local News with Cliff Rockslide
+      - Hyperdrive Inn
+      - Stratogun
+      - Orbital Overdrive
+    social:
+      instagram: https://www.instagram.com/horseflygames/
+    added_at: '2026-11-08T20:25:13.674Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hyperkani
+    url: https://hyperkani.com/
+    description: Casual mobile game developer whose titles have over 200 million downloads.
+    hq:
+      city: Tampere
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Stunt Bike Extreme
+      - Bomber Friends
+    added_at: '2026-11-08T20:25:13.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mainstay Games
+    url: https://mainstaygames.com/
+    description: Boutique studio that embeds senior developers in partner teams on live games and new projects.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - co-dev
+    added_at: '2026-11-08T20:25:13.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MotionVolt Games
+    url: https://www.motionvolt.com/
+    description: Developer of ragdoll physics stunt games for mobile, Steam and browser.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - web
+    notable:
+      - Flip Master
+      - Flip Diving
+    social:
+      instagram: https://www.instagram.com/motionvoltgames/
+    added_at: '2026-11-08T20:25:13.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Normogames
+    url: https://normogames.com/
+    description: Small studio that has released three casual games since 2022.
+    hq:
+      city: Kotka
+      country: Finland
+    segments:
+      - indie
+    social:
+      instagram: https://instagram.com/normogames
+      linkedin: https://www.linkedin.com/company/normogames
+    added_at: '2026-11-08T20:25:13.678Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Platonic Partnership
+    url: https://www.platonicpartnership.com/
+    description: Narrative game studio with four original PC and console titles plus applied games for companies and the public sector.
+    hq:
+      city: Vaasa
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - Voltage High Society
+      - Bone Dust
+      - Good Mourning
+      - Lydia
+    social:
+      instagram: https://www.instagram.com/platonic_partnership/
+      linkedin: https://www.linkedin.com/company/platonic-partnership/
+    added_at: '2026-11-08T20:25:13.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Mainframe Industries
+    url: https://themainframe.com/en/
+    description: Venture-backed developer of Pax Dei, a social sandbox MMO.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - aa
+    platforms:
+      - pc
+    notable:
+      - Pax Dei
+    social:
+      linkedin: https://www.linkedin.com/company/mainframe-industries/
+    added_at: '2026-11-08T20:25:13.680Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: FakeFish
+    url: https://www.fakefishgames.com/
+    description: PC developer of around 20 people, maker of the submarine simulator Barotrauma.
+    hq:
+      city: Turku
+      country: Finland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2014
+    notable:
+      - Barotrauma
+    added_at: '2026-11-08T20:25:13.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Futureplay
+    url: https://www.futureplaygames.com/
+    description: Mobile game company that has released six games, including Merge Gardens.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2015
+    notable:
+      - Merge Gardens
+    social:
+      linkedin: https://www.linkedin.com/company/futureplay-games/
+    added_at: '2026-11-08T20:25:13.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kuuasema
+    url: https://www.kuuasema.com/
+    description: Cross-platform game developer offering full development, live ops and porting alongside its own titles.
+    hq:
+      city: Helsinki
+      country: Finland
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - console
+    founded: 2004
+    notable:
+      - Bike Unchained 3
+      - Offroad Unchained
+      - Cthulhu Keeper
+    social:
+      linkedin: https://www.linkedin.com/company/kuuasema
+    added_at: '2026-11-08T20:25:13.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kyy Games
+    url: https://www.kyygames.com/
+    description: Game developer with its own card and RPG titles plus development and art services for other studios.
+    hq:
+      city: Tampere
+      country: Finland
+    segments:
+      - indie
+      - co-dev
+    notable:
+      - 'Cabals: Magic & Battle Cards'
+      - 'Cabals: Card Blitz'
+      - Knights of Pen & Paper 2
+      - 'Rimelands: Hammer of Thor'
+    social:
+      linkedin: https://www.linkedin.com/company/kyy-games-ltd
+    added_at: '2026-11-08T20:25:13.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MiTale
+    url: https://www.mitalegames.com/
+    description: Indie developer and publisher offering co-development for IP holders and its own story-driven games.
+    hq:
+      city: Turku
+      country: Finland
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Willow Guard
+      - C.L.A.Y.
+      - 'My Best Friends: Pet Game'
+    social:
+      instagram: https://www.instagram.com/mitalegames/
+    added_at: '2026-11-08T20:25:13.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rusto Games
+    url: https://www.rustogames.com/
+    description: Team of veteran developers, together since 2011, building games from prototypes to full multiplatform productions.
+    hq:
+      city: Kajaani
+      country: Finland
+    segments:
+      - co-dev
+    added_at: '2026-11-08T20:25:13.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

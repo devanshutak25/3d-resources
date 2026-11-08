@@ -1,0 +1,897 @@
+studios:
+  - name: PixelAnt Games
+    url: https://pixelantgames.com/
+    description: Wrocław co-development, porting and remaster studio working on console and PC titles for major publishers.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Observer: System Redux (port)'
+      - 'Gears of War: Reloaded (co-dev)'
+      - 'Tomb Raider: Legacy of Atlantis (co-dev)'
+      - 'Cronos: The New Dawn (port)'
+    added_at: '2026-11-08T20:25:13.937Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Storymode
+    url: https://www.storymode.pro/
+    description: Warsaw co-development studio providing engineering, tech art and porting for AA and AAA Unreal and Unity games.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    added_at: '2026-11-08T20:25:13.938Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Filimundus
+    url: https://filimundus.se/
+    description: Game studio making mobile games for children with a focus on play-based learning.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    social:
+      instagram: http://www.instagram.com/filimundus
+    added_at: '2026-11-08T20:25:13.939Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Raketspel
+    url: https://raketspel.se/
+    description: Independent mobile game studio founded in 2000, maker of Dig This! and Cut This! puzzle games.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2000
+    notable:
+      - Dig This!
+      - Cut This!
+      - Retro Racing
+      - Pockit
+    added_at: '2026-11-08T20:25:13.940Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Refold
+    url: https://www.refold.io/
+    description: Game technology partner and studio doing engine, tools and co-development work, including Defold engine development.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    social:
+      linkedin: https://www.linkedin.com/company/refold-ab
+    added_at: '2026-11-08T20:25:13.941Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Short Circuit Studio
+    url: https://www.shortcircuitstudio.com/
+    description: Indie studio and small publisher, developer of the village-building strategy game TownsFolk.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - TownsFolk
+    added_at: '2026-11-08T20:25:13.942Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Turborilla
+    url: https://www.turborilla.com/
+    description: Mobile action-sports game studio behind the Mad Skills racing series.
+    hq:
+      city: Umeå
+      country: Sweden
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Mad Skills Motocross 3
+      - Mad Skills BMX 2
+      - Mad Skills Rallycross
+      - Mad Skills Snocross
+    social:
+      linkedin: https://www.linkedin.com/company/turborilla
+    added_at: '2026-11-08T20:25:13.943Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aurora Punks
+    url: https://www.aurorapunks.com/
+    description: Game studio doing co-development, console porting and release management for PC, console, VR and mobile.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+      - mobile
+    notable:
+      - Ooglians
+      - BlockEm
+    social:
+      linkedin: https://www.linkedin.com/company/aurora-punks/
+    added_at: '2026-11-08T20:25:13.944Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frame Break
+    url: https://framebreak.se/
+    description: Indie studio founded by Skövde University graduates, developer of the co-op farming game Lightyear Frontier.
+    hq:
+      city: Skövde
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - Lightyear Frontier
+    added_at: '2026-11-08T20:25:13.945Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Easy Trigger Games
+    url: https://easytrigger.com/
+    description: Indie studio founded in 2016, developer of the pixel-art arcade shooter Huntdown.
+    hq:
+      city: Trollhättan
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Huntdown
+      - 'Huntdown: Overtime'
+    added_at: '2026-11-08T20:25:13.946Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pathos Interactive
+    url: https://www.pathosinteractive.net/
+    description: Game studio founded in 2015, developer of the hotel management sim Hotel Architect.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - Hotel Architect
+    social:
+      linkedin: https://www.linkedin.com/company/pathos-interactive-ab/
+    added_at: '2026-11-08T20:25:13.947Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Aftnareld
+    url: https://www.aftnareld.com/
+    description: Small indie studio making co-op games, developer of Coridden.
+    hq:
+      city: Linköping
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Coridden
+    added_at: '2026-11-08T20:25:13.948Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Experiment 101
+    url: https://experiment101.com/
+    description: THQ Nordic-owned studio founded in 2015, developer of the open-world action RPG Biomutant.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: THQ Nordic
+    founded: 2015
+    notable:
+      - Biomutant
+    added_at: '2026-11-08T20:25:13.949Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Piktiv
+    url: https://piktiv.com/
+    description: Game technology consultancy doing porting, co-development and engine work for studios.
+    hq:
+      city: Skövde
+      country: Sweden
+    offices:
+      - city: Örebro
+        country: Sweden
+      - city: Gothenburg
+        country: Sweden
+      - city: Stockholm
+        country: Sweden
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    parent: Generate Group
+    social:
+      linkedin: https://www.linkedin.com/company/piktiv/
+    added_at: '2026-11-08T20:25:13.950Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chief Rebel
+    url: https://chiefrebel.com/
+    description: Studio making stylized multiplayer games, developer of the co-op dungeon game Fellowship.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://jobs.chiefrebel.com/
+    notable:
+      - Fellowship
+    social:
+      instagram: https://www.instagram.com/chiefrebelstudio/
+      linkedin: https://www.linkedin.com/company/chief-rebel/
+    added_at: '2026-11-08T20:25:13.951Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Arctic Hazard
+    url: https://www.arctichazard.com/
+    description: Independent game developer founded in 2010 by ex-Funcom staff, also offering development services for games and apps.
+    hq:
+      city: Vestby
+      country: Norway
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    founded: 2010
+    social:
+      linkedin: https://no.linkedin.com/company/arctic-hazard
+    added_at: '2026-11-08T20:25:13.952Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Gauntlet
+    url: https://studiogauntlet.com/
+    description: Two-person indie studio making local co-op party games and interactive installations.
+    hq:
+      city: Trondheim
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Bonkies
+      - A Bad Game of Football
+    social:
+      instagram: https://www.instagram.com/studiogauntlet/
+    added_at: '2026-11-08T20:25:13.953Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Gold Town Games
+    url: https://goldtowngames.com/en/
+    description: Mobile game studio making sports manager and multiplayer ice hockey games.
+    hq:
+      city: Skellefteå
+      country: Sweden
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Pocket Hockey
+    social:
+      instagram: https://www.instagram.com/goldtowngames/
+    added_at: '2026-11-08T20:25:13.954Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fula Fisken
+    url: https://fulafisken.se/
+    description: Game studio founded in 2010 making its own titles and work-for-hire games for publishers and brands.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - web
+      - mobile
+      - pc
+    founded: 2010
+    notable:
+      - 'Vampire: Prelude'
+      - 'Hearts of Iron: Warstories'
+      - Astroflux
+    added_at: '2026-11-08T20:25:13.955Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Ember Trail Games
+    url: https://www.embertrail.com/
+    description: Indie studio founded in 2017 as Bad Yolk Games, developer of the cozy management game Distant Bloom.
+    hq:
+      city: Uppsala
+      country: Sweden
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    parent: Kinda Brave
+    founded: 2017
+    notable:
+      - Distant Bloom
+      - Main Assembly
+    social:
+      instagram: https://www.instagram.com/embertrailgames/
+      linkedin: https://www.linkedin.com/company/ember-trail/
+    added_at: '2026-11-08T20:25:13.956Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Misc Games
+    url: https://www.miscgames.com/
+    description: Developer and publisher of commercial fishing and ship simulation games, founded in 2013.
+    hq:
+      city: Sandnes
+      country: Norway
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - 'Fishing: Barents Sea'
+      - 'Fishing: North Atlantic'
+      - Ships At Sea
+    social:
+      instagram: https://www.instagram.com/misc_games/
+      linkedin: https://www.linkedin.com/company/misc-games
+    added_at: '2026-11-08T20:25:13.957Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rock Pocket Games
+    url: https://rockpocket.games/
+    description: Independent studio making its own mobile, PC and console games and developing titles for clients since 2008.
+    hq:
+      city: Tønsberg
+      country: Norway
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - mobile
+      - pc
+      - console
+    social:
+      linkedin: http://www.linkedin.com/company/rock-pocket-games
+    added_at: '2026-11-08T20:25:13.958Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Raidho Games
+    url: https://www.raidhogames.com/
+    description: Indie studio developing Astride, a single and multiplayer horse riding simulation game.
+    hq:
+      city: Hamar
+      country: Norway
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Astride
+    added_at: '2026-11-08T20:25:13.959Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Polyblock Studio
+    url: https://www.polyblockstudio.com/
+    description: Small indie studio in the Hamar Game Collective, developer of the twin-stick tank brawler TANKNAROK.
+    hq:
+      city: Hamar
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - TANKNAROK
+    added_at: '2026-11-08T20:25:13.960Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: River End Games
+    url: https://riverendgames.com/
+    description: 'Game studio founded by industry veterans, developer of the isometric stealth game Eriksholm: The Stolen Dream.'
+    hq:
+      city: Gothenburg
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Eriksholm: The Stolen Dream'
+    added_at: '2026-11-08T20:25:13.961Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Tableflip Entertainment
+    url: https://tableflip.nu/
+    description: Studio run by game industry veterans doing console porting and co-development for international partners.
+    hq:
+      city: Visby
+      country: Sweden
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    added_at: '2026-11-08T20:25:13.962Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Section 9 Interactive
+    url: https://www.section9interactive.com/
+    description: Game studio behind End of Abyss, a horror adventure published by Epic Games Publishing.
+    hq:
+      city: Malmö
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - End of Abyss
+    added_at: '2026-11-08T20:25:13.963Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Clifftop Games
+    url: https://www.clifftopgames.com/
+    description: Indie developer of story-driven point-and-click mystery games.
+    hq:
+      city: Hedemora
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Kathy Rain
+      - 'Kathy Rain 2: Soothsayer'
+    added_at: '2026-11-08T20:25:13.964Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pugstorm
+    url: https://pugstorm.eu/
+    description: Game studio behind the co-op mining sandbox Core Keeper and the multiplayer game Kyora.
+    hq:
+      city: Linköping
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Core Keeper
+      - Kyora
+      - Radical Rabbit Stew
+    added_at: '2026-11-08T20:25:13.965Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lavapotion
+    url: https://www.lavapotion.com/
+    description: Strategy game studio, developer of the turn-based strategy game Songs of Conquest.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Coffee Stain
+    notable:
+      - Songs of Conquest
+      - Wielders of the Essence
+    added_at: '2026-11-08T20:25:13.966Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dashy Studios
+    url: https://www.dashystudios.com/
+    description: Game co-development studio offering engineering, design and backend work, including Minecraft projects for Mojang.
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - co-dev
+      - ugc
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Minecraft Vibrant Visuals
+    added_at: '2026-11-08T20:25:13.967Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Wishfully Studios
+    url: https://wishfully.se/
+    description: Indie studio behind the hand-painted puzzle adventure series Planet of Lana.
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Planet of Lana
+      - Planet of Lana II
+    added_at: '2026-11-08T20:25:13.968Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zcooly
+    url: https://zcooly.se/
+    description: Maker of learning games for children covering maths and emotional skills, for families and schools.
+    hq:
+      country: Sweden
+    segments:
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+    social:
+      instagram: https://www.instagram.com/zcooly/
+    added_at: '2026-11-08T20:25:13.969Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Housefire Games
+    url: https://housefiregames.com/
+    description: Indie game studio, developer of the strategy game Eclipsium.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Eclipsium
+    added_at: '2026-11-08T20:25:13.970Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Blue Scarab Entertainment
+    url: https://www.bluescarab.se/
+    description: 'Game studio making Equinox: Homecoming, an online horse-riding mystery game.'
+    hq:
+      city: Stockholm
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Equinox: Homecoming'
+    social:
+      instagram: https://www.instagram.com/bluescarabgames/
+      linkedin: https://www.linkedin.com/company/blue-scarab-entertainment/
+    added_at: '2026-11-08T20:25:13.971Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Malformation Games
+    url: https://www.malformation-games.com/
+    description: Indie studio making retro-styled action games, developer of the top-down shooter Ground Zero.
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Ground Zero
+    social:
+      instagram: http://instagram.com/malformationab
+    added_at: '2026-11-08T20:25:13.972Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Encircle Games
+    url: https://encirclegames.com/
+    description: Indie studio in the Hamar game cluster, developer of the party game Wigged Out.
+    hq:
+      city: Hamar
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Wigged Out
+    added_at: '2026-11-08T20:25:13.973Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Frostisen Studio
+    url: https://www.eydigard.com/
+    description: Indie studio behind Eydigard, a co-op action RPG built on Norwegian and Sámi folklore.
+    hq:
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Eydigard
+    social:
+      instagram: https://www.instagram.com/frostisenstudio/
+    added_at: '2026-11-08T20:25:13.974Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 3Dads Studios
+    url: https://3dads.no/
+    description: Indie game studio from Norway, maker of the physics driving game C.A.R.S. and the ocean survival game ADRIFT.
+    hq:
+      country: Norway
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2025
+    notable:
+      - C.A.R.S. - Creating A Ridiculous Shitshow
+    added_at: '2026-11-08T20:25:13.975Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rocky Road Games
+    url: https://www.rockyroad.io/
+    description: Mobile game studio founded by QuizUp creators, building a social gaming network and casual open-world mobile game.
+    hq:
+      city: Reykjavík
+      country: Iceland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2022
+    added_at: '2026-11-08T20:25:13.976Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Chronocle
+    url: https://www.chronocle.com/
+    description: Two-person indie studio, developer of the action game He is Coming and the idle game Dark Star.
+    hq:
+      city: Linköping
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - He is Coming
+      - Dark Star - Idle Galaxy
+    added_at: '2026-11-08T20:25:13.977Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brimstone
+    url: https://brimstone.games/
+    description: Distributed indie studio founded in 2016, developer of the multiplayer golf game Super Battle Golf.
+    hq:
+      country: Sweden
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Super Battle Golf
+      - Overthrown
+      - BANZAI ROYALE
+      - Lance A Lot
+    social:
+      instagram: https://www.instagram.com/brimstonedevs/
+    added_at: '2026-11-08T20:25:13.978Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Brickworks Games
+    url: https://brickworksgames.com/
+    description: Mobile and PC developer and publisher of RPG, survival and action games such as Grim Soul and Cyberika.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Grim Soul
+      - Cyberika
+      - Sublustrum
+    social:
+      instagram: https://www.instagram.com/brickworksgames/
+      linkedin: https://www.linkedin.com/company/brickworksgames
+      x: https://x.com/BrickworksGames
+    added_at: '2026-11-08T20:25:13.979Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ChillBase
+    url: https://chillbase.net/
+    description: Mobile developer of OneState RP, an open-world multiplayer roleplay game.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://chillbase.net/about/
+    notable:
+      - OneState RP
+    social:
+      instagram: https://www.instagram.com/chillbase_studio/
+      linkedin: https://www.linkedin.com/company/chillgaming-ltd/
+      youtube: https://www.youtube.com/@ChillBaseStudio/
+    added_at: '2026-11-08T20:25:13.980Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Cubic Games
+    url: https://cubicgames.com/
+    description: Mobile studio behind the pixel-art shooter Pixel Gun 3D, part of the GDEV group.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Yerevan
+        country: Armenia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    parent: GDEV
+    founded: 2013
+    notable:
+      - Pixel Gun 3D
+      - Pixel Gun 2
+      - Block City Wars
+    social:
+      instagram: https://www.instagram.com/cubicgames_team/
+      linkedin: https://www.linkedin.com/company/cubic-games-studio/
+    added_at: '2026-11-08T20:25:13.981Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Eschatology Entertainment
+    url: https://eschatology-entertainment.com/
+    description: PC and console developer of Guns of Eschaton, a hardcore shooter set in an apocalyptic world.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    founded: 2022
+    notable:
+      - Guns of Eschaton
+    social:
+      linkedin: https://www.linkedin.com/company/eschatology-entertainment
+    added_at: '2026-11-08T20:25:13.982Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Helio Games
+    url: https://heliogames.com/
+    description: Mobile developer of casual games with an 80-person team.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    social:
+      x: https://twitter.com/Helio__Games
+      linkedin: https://www.linkedin.com/company/66957392
+    added_at: '2026-11-08T20:25:13.983Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Holyday Studios
+    url: https://holydaygames.com/
+    description: Idle game developer and publisher behind Firestone Idle RPG, on PC, mobile and web.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - web
+    founded: 2015
+    notable:
+      - Firestone Idle RPG
+      - Holyday City Reloaded
+    social:
+      youtube: https://www.youtube.com/channel/UCXZ1LfmVrTgPLt-o-SJbghg
+    added_at: '2026-11-08T20:25:13.984Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Horns Up Games
+    url: https://hornsup.games/
+    description: Indie studio founded by Sabaton's bassist, making Lord of Metal, a heavy music festival management sim.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Lord of Metal
+    social:
+      linkedin: https://www.linkedin.com/company/horns-up-games
+    added_at: '2026-11-08T20:25:13.985Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Kitomy
+    url: https://kitomy.net/
+    description: Mobile developer and operator of the multiplayer bowling game Bowling Crew.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Bowling Crew
+    added_at: '2026-11-08T20:25:13.986Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'

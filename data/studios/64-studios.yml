@@ -1,0 +1,901 @@
+studios:
+  - name: BeeProduction
+    url: https://beeproduction.pl/
+    description: Video and animation production house making TV spots, 2D/3D animation and corporate films since 2010.
+    hq:
+      city: Warsaw
+      country: Poland
+    offices:
+      - city: Gliwice
+        country: Poland
+    disciplines:
+      - live-action
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2010
+    added_at: '2026-11-08T20:25:13.780Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Essential Studio
+    url: https://www.essentialstudio.com/
+    description: CG art and game-art studio producing cinematics, CG animation and 3D assets for game developers and brands.
+    hq:
+      city: Trzebnica
+      country: Poland
+    disciplines:
+      - cg
+      - cinematics
+      - 3d-animation
+      - outsourcing
+    markets:
+      - games
+      - advertising
+    added_at: '2026-11-08T20:25:13.781Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: XANF
+    url: https://xanf.pl/
+    description: Łódź VFX and animation studio handling VFX supervision, compositing, matte painting and titles for features and TV series.
+    hq:
+      city: Łódź
+      country: Poland
+    offices:
+      - city: Stuttgart
+        country: Germany
+    disciplines:
+      - vfx
+      - 2d-animation
+      - 3d-animation
+      - title-design
+    markets:
+      - film
+      - episodic
+    notable:
+      - Piekło Kobiet
+      - Ultraviolet
+      - '1983'
+    social:
+      instagram: https://www.instagram.com/xanf_visual_artists/
+    added_at: '2026-11-08T20:25:13.782Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Pickled Frames
+    url: https://pickledframes.com/
+    description: Kraków 2D character animation studio making commercials, brand videos and cartoons for clients such as EA and Pfizer.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+      - episodic
+    added_at: '2026-11-08T20:25:13.783Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dabarti
+    url: https://dabarti.com/
+    description: Białystok product CGI studio making 3D product visuals, animation and technical visualization for agencies and brands.
+    hq:
+      city: Białystok
+      country: Poland
+    disciplines:
+      - product-viz
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-08T20:25:13.784Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Veles Productions
+    url: https://www.velesproductions.com/
+    description: Warsaw creative studio with an LED virtual production stage, making films, ride films and broadcast graphics.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - virtual-production
+      - live-action
+      - experiential
+      - mocap
+    markets:
+      - advertising
+      - brand
+      - film
+    notable:
+      - NEXA
+      - Klatka
+    social:
+      instagram: https://www.instagram.com/velesproductions/
+      linkedin: https://www.linkedin.com/company/veles-productions/
+    added_at: '2026-11-08T20:25:13.785Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Picture Wizards
+    url: https://picture-wizards.com/
+    description: Kraków CG creature studio that models, grooms, rigs and animates CG animals for advertising and film studios.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - cg
+      - 3d-animation
+      - vfx
+      - outsourcing
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-08T20:25:13.786Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Zpost
+    url: https://zpost.pl/
+    description: Post-production studio doing commercial VFX, compositing and finishing for TV spots and series.
+    hq:
+      city: Konstancin-Jeziorna
+      country: Poland
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - L'Oréal Paris spots
+      - Pizza Hut spots
+      - Skazana 4 teaser
+    added_at: '2026-11-08T20:25:13.787Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Seven Bison
+    url: https://www.sevenbison.com/
+    description: Gdańsk video and animation studio making 3D, 2D and generative AI films for energy, tech, finance and health brands.
+    hq:
+      city: Gdańsk
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - ai-production
+    markets:
+      - brand
+      - advertising
+    social:
+      vimeo: https://vimeo.com/user194589697
+    added_at: '2026-11-08T20:25:13.788Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: MOLOT
+    url: https://molot.studio/
+    description: Archviz studio producing exterior and interior renderings and 3D architectural animation for architects and developers.
+    hq:
+      city: Warsaw
+      country: Poland
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/molotstudio/
+    added_at: '2026-11-08T20:25:13.789Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Vivid Vision
+    url: https://www.vivid-vision.net/
+    description: Wrocław archviz studio producing exterior and interior renderings and animations for architects and real estate developers.
+    hq:
+      city: Wrocław
+      country: Poland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2017
+    added_at: '2026-11-08T20:25:13.790Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Odyssey Crew
+    url: https://odysseycrew.com/
+    description: Wrocław studio building interactive 3D site models, 3D apartments and web configurators for residential developers.
+    hq:
+      city: Wrocław
+      country: Poland
+    disciplines:
+      - interactive
+      - archviz
+    markets:
+      - real-estate
+    notable:
+      - Marvipol Hotel Chmielna 78
+    added_at: '2026-11-08T20:25:13.791Z'
+  - name: 3D Estate
+    url: https://3destate.pl/
+    description: Studio producing interactive 3D site models and virtual apartment walkthroughs for residential developers.
+    hq:
+      city: Mikołów
+      country: Poland
+    offices:
+      - city: Warsaw
+        country: Poland
+      - city: London
+        country: United Kingdom
+      - city: Madrid
+        country: Spain
+    disciplines:
+      - interactive
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-08T20:25:13.792Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rendart
+    url: https://rendart.pl/
+    description: Zabrze studio making 3D renderings, animations, virtual tours and sales websites for residential developers.
+    hq:
+      city: Zabrze
+      country: Poland
+    disciplines:
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+    added_at: '2026-11-08T20:25:13.793Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Render Art Studio
+    url: https://renderartstudio.com/
+    description: Warsaw archviz studio making exterior and interior renderings and animations for architects, developers and urban planners.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2017
+    added_at: '2026-11-08T20:25:13.794Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Hi Poly Studio
+    url: https://hipolystudio.com/
+    description: Kraków 3D studio making photorealistic exterior, interior, furniture and product visualizations.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    added_at: '2026-11-08T20:25:13.795Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Visequence
+    url: https://visequence.com/
+    description: Gdańsk archviz studio creating photorealistic exterior and interior renderings for architects, designers and developers.
+    hq:
+      city: Gdańsk
+      country: Poland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2019
+    added_at: '2026-11-08T20:25:13.796Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: DAAKO
+    url: https://daako.pl/
+    description: Warsaw archviz studio making renderings, aerial views, animations and interactive apartment selectors for developers and architects.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - archviz
+      - interactive
+      - 3d-animation
+    markets:
+      - real-estate
+    notable:
+      - Baltic Power
+      - SKYCITY Gdynia
+      - Edinburgh Green
+    added_at: '2026-11-08T20:25:13.797Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Prographers
+    url: https://prographers.com/
+    description: Studio building real-time 3D configurators, AR/VR apps and digital twins in Unity, Unreal and Three.js.
+    hq:
+      city: Józefów
+      country: Poland
+    disciplines:
+      - interactive
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-08T20:25:13.798Z'
+  - name: Resimo
+    url: https://resimo.com/
+    description: Warsaw studio producing interactive 3D sales applications and walkthroughs for residential developers.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - interactive
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-08T20:25:13.799Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Giant Lazer
+    url: https://giantlazer.com/
+    description: Wrocław developer of VR and AR applications, training simulators and VR games for business, education and industry.
+    hq:
+      city: Wrocław
+      country: Poland
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - medical-science
+    notable:
+      - Lazer Anatomy VR
+      - Trash Rage VR
+    added_at: '2026-11-08T20:25:13.800Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: 4Experience
+    url: https://4experience.co/
+    description: Bielsko-Biała studio developing VR, AR, WebXR and 3D training apps for industry, healthcare, defense and education.
+    hq:
+      city: Bielsko-Biała
+      country: Poland
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - medical-science
+    social:
+      linkedin: https://www.linkedin.com/company/4experience/
+    added_at: '2026-11-08T20:25:13.801Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rabid Rat
+    url: https://rabidrat.pl/
+    description: Poznań 3D animation studio producing character-driven commercials and brand films since 2018.
+    hq:
+      city: Poznań
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/rabidrat/
+      behance: https://www.behance.net/rabidrat
+    added_at: '2026-11-08T20:25:13.802Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ORKA
+    url: https://orkafilm.pl/
+    description: Warsaw post-production studio offering 3D animation, VFX, colour grading and production services for brands, agencies and film.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-08T20:25:13.803Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Fixafilm
+    url: https://www.fixafilm.pl/
+    description: Warsaw image post-production studio doing VFX, film scanning, restoration and remastering for features and series since 2012.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2012
+    added_at: '2026-11-08T20:25:13.804Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Black Photon
+    url: https://www.blackphoton.pl/
+    description: Warsaw post-production studio providing editorial, VFX, colour grading and mastering for feature films and TV.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/black.photon.studio/
+    added_at: '2026-11-08T20:25:13.805Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Luminator
+    url: https://www.luminator.pl/
+    description: Wrocław multimedia studio producing 3D animation, VR/AR apps, holograms, projection mapping and 360 films for brands and museums.
+    hq:
+      city: Wrocław
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - xr
+      - experiential
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T20:25:13.806Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Panopticon Films
+    url: https://www.panopticon-films.com/en
+    description: Kraków film and 3D animation studio producing commercials, product films, CGI integration and documentaries.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - live-action
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+      - film
+    founded: 2012
+    added_at: '2026-11-08T20:25:13.807Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Outrun Studio
+    url: https://outrun-studio.com/
+    description: Sopot visualization studio making exterior, interior and 360 renderings, architectural animations and product visuals.
+    hq:
+      city: Sopot
+      country: Poland
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://instagram.com/outrun_studio/
+    added_at: '2026-11-08T20:25:13.808Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: KOLA Studio
+    url: https://en.kolastudio.com/
+    description: Kraków archviz studio producing photorealistic architectural and interior visualizations and 3D floor plans for developers.
+    hq:
+      city: Kraków
+      country: Poland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/kola_studio/
+      linkedin: https://www.linkedin.com/company/kola-studio/
+    added_at: '2026-11-08T20:25:13.809Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio Filmów Rysunkowych
+    url: https://sfr.pl/
+    description: Bielsko-Biała 2D animation studio, home of Reksio and Bolek and Lolek, producing children's series and shorts.
+    hq:
+      city: Bielsko-Biała
+      country: Poland
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 1956
+    notable:
+      - Reksio
+      - Bolek i Lolek
+      - Baczne Oczka
+      - Kocia Szajka
+    added_at: '2026-11-08T20:25:13.810Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: TV Studio Filmów Animowanych
+    url: http://tvsfa.com/
+    description: Poznań animation studio producing short and medium-length animated films and series, mainly for children.
+    hq:
+      city: Poznań
+      country: Poland
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 1980
+    notable:
+      - Opowiadania z piaskownicy
+      - Wielkie zmartwienie
+      - Brak
+    added_at: '2026-11-08T20:25:13.811Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Lionsharp Studios
+    url: https://lionsharpstudios.com/
+    description: Warsaw art studio providing vehicle 3D modelling and vehicle concept art to game developers.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    founded: 2017
+    added_at: '2026-11-08T20:25:13.812Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: The Hungry Beast
+    url: https://thehungrybeast.com/
+    description: Warsaw creative studio making game trailers, cinematic reveals, 3D animation and key art for game publishers.
+    hq:
+      city: Warsaw
+      country: Poland
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - cinematics
+      - 3d-animation
+      - motion-design
+    markets:
+      - games
+    notable:
+      - Ghostrunner 2 launch trailer
+      - 'Wuchang: Fallen Feathers trailer'
+      - 'Styx: Blades of Greed reveal trailer'
+      - 'Total War: WARHAMMER 40,000 logo animation'
+    social:
+      instagram: https://www.instagram.com/feedthehungrybeast/
+      vimeo: https://vimeo.com/thehungrybeast
+      linkedin: https://www.linkedin.com/company/the-hungry-beast/
+    added_at: '2026-11-08T20:25:13.813Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Marmolada Films
+    url: https://marmoladafilms.com/
+    description: Polish producer of auteur puppet and 2D animated shorts and features, plus live-action films.
+    hq:
+      country: Poland
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+    founded: 2022
+    notable:
+      - The Pool or Death of a Goldfish
+      - T.M.
+      - JOY
+      - NINA
+    added_at: '2026-11-08T20:25:13.814Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Swiss International
+    url: https://swiss.se/
+    description: VFX and animation studio doing 3D, compositing and colour for advertising, film, TV and music videos.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - film
+      - music-video
+    notable:
+      - Volvo EX60
+    social:
+      vimeo: https://vimeo.com/swissinternational
+      instagram: https://www.instagram.com/swissinternationalab
+      linkedin: https://www.linkedin.com/company/swiss-international
+    added_at: '2026-11-08T20:25:13.815Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Acecat VFX
+    url: https://acecat.se/
+    description: VFX and 3D animation studio making product films, commercials and TV work.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    social:
+      instagram: https://instagram.com/acecatvfx/
+    added_at: '2026-11-08T20:25:13.816Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Filmgate VFX
+    url: https://www.filmgatevfx.com/
+    description: VFX company founded in 2006 delivering visual effects for feature films, TV series and commercials.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2006
+    notable:
+      - Slow Horses
+    social:
+      instagram: https://www.instagram.com/filmgatevfx/
+      linkedin: https://se.linkedin.com/company/filmgate-ab
+    added_at: '2026-11-08T20:25:13.817Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Dupp Film
+    url: https://dupp.se/
+    description: VFX boutique doing supervision, previs and visual effects for Scandinavian and international feature films.
+    hq:
+      city: Karlsborg
+      country: Sweden
+    disciplines:
+      - vfx
+      - previs
+    markets:
+      - film
+    notable:
+      - The Apprentice
+      - The Girl with the Needle
+      - Holy Spider
+    social:
+      instagram: https://www.instagram.com/dupp_film/
+      linkedin: https://www.linkedin.com/company/dupp-film/
+    added_at: '2026-11-08T20:25:13.818Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Apparat Filmproduktion
+    url: https://www.apparatfilm.se/
+    description: Animation studio making 2D, stop-motion, CGI and mixed-media films for documentaries and commissioned work.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - 3d-animation
+    markets:
+      - brand
+      - film
+    notable:
+      - I Was a Winner
+      - Toca Boca
+      - IKEA
+    added_at: '2026-11-08T20:25:13.819Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: BCD Film
+    url: https://www.bcdfilm.se/
+    description: Production company making 2D animation, live action and documentary for young and international audiences.
+    hq:
+      city: Malmö
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/bcdfilm/
+    added_at: '2026-11-08T20:25:13.820Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Thundercode
+    url: https://thundercode.se/
+    description: Motion design studio creating concert visuals, show content and moving images for artists and brands.
+    hq:
+      country: Sweden
+    disciplines:
+      - motion-design
+      - experiential
+    markets:
+      - music-video
+      - brand
+    social:
+      vimeo: https://vimeo.com/thundercode
+      instagram: https://www.instagram.com/thundercode_se
+    added_at: '2026-11-08T20:25:13.821Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Stardust Effects
+    url: https://stardusteffects.com/
+    description: VFX studio creating visual effects for film, television and commercials.
+    hq:
+      city: Oslo
+      country: Norway
+    offices:
+      - city: Athens
+        country: Greece
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://stardusteffects.com/jobs/
+    notable:
+      - Blücher
+    social:
+      instagram: https://www.instagram.com/stardusteffects/
+      linkedin: https://www.linkedin.com/company/stardust-effects
+    added_at: '2026-11-08T20:25:13.822Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Rebel Unit
+    url: https://www.rebelunit.no/
+    description: Creative post studio doing VFX supervision, visual effects and colour grading for film and TV.
+    hq:
+      city: Bergen
+      country: Norway
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Masters of the Universe
+    social:
+      instagram: https://www.instagram.com/rebelunitstudio/
+      linkedin: https://no.linkedin.com/company/rebel-unit-as
+    added_at: '2026-11-08T20:25:13.823Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: ADP Animasjonsdepartementet
+    url: https://www.dept.no/
+    description: Animation production company making animated commercials, campaigns and films in 2D, 3D and stop motion.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - film
+    notable:
+      - IKEA Second Hand
+    social:
+      vimeo: https://vimeo.com/departementet
+      instagram: https://www.instagram.com/animasjonsdepartementet/
+    added_at: '2026-11-08T20:25:13.824Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Animer
+    url: https://animer.no/
+    description: Animation studio making explainer and training films for public sector, health, industry and education clients.
+    hq:
+      country: Norway
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - medical-science
+    founded: 2016
+    added_at: '2026-11-08T20:25:13.825Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Bivrost Film
+    url: https://www.bivrostfilm.com/
+    description: Production company making animated series, animated documentaries and films for children and young people.
+    hq:
+      country: Norway
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - film
+    founded: 2000
+    notable:
+      - My Favorite War
+      - My Body Belongs to Me
+      - Classmates
+    added_at: '2026-11-08T20:25:13.826Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Compass Films
+    url: https://www.compassfilms.is/
+    description: Film and TV production company producing features, shorts and animated series, co-owner of Animation Studio Iceland.
+    hq:
+      city: Reykjavík
+      country: Iceland
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    notable:
+      - Ormhildur the Brave
+      - Chasing Birds
+    added_at: '2026-11-08T20:25:13.827Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Studio3D
+    url: https://studio3d.se/
+    description: 3D visualization studio making architectural and product renders, sun studies and digital sales tools for property developers.
+    hq:
+      city: Stockholm
+      country: Sweden
+    offices:
+      - city: Oslo
+        country: Norway
+    disciplines:
+      - archviz
+      - product-viz
+      - interactive
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/studio3d_se/
+      linkedin: https://www.linkedin.com/company/studio3d
+    added_at: '2026-11-08T20:25:13.828Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
+  - name: Visuals By Nor
+    url: https://visualsbynor.com/
+    description: 3D visualization and animation agency making product images and campaign visuals for brands.
+    hq:
+      city: Gävle
+      country: Sweden
+    disciplines:
+      - product-viz
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-08T20:25:13.829Z'
+    url_status: ok
+    url_last_verified: '2026-11-08'
