@@ -112,3 +112,9 @@ Architectural / structural decisions w/ rationale + date.
 - Rows with no evidence of work in ~2 years dropped even when an event lists them (Cartel Cartoon, Dawn Digital). A recent award win counts as activity (Form&Fun, 2025 Auggie).
 - Casino in a client-work title (Frost FX "Olympic Casino" ad) or a street name is not spam; injected outbound casino links are (Peekaboo Animation, rejected three rounds now).
 - 2026-11-06: Freshness branches whose PR could not be opened get merged by hand: latest month only (each run re-scans every repo, so it supersedes older ones), then old branches are deleted. Conflicts are usually "main appended entries after the chunk's last entry" vs "branch added flags to that entry": branch lines first, then main's appended block.
+
+## 2026-11-08: PR #48-#51 triage
+- Consumer social/photo-filter AI apps are out of scope even when AI-generative (#50 ReelBoop dance/outfit video templates, #51 StylMorph photo-to-comic). Catalog = pro 3D/VFX/motion/game-art tools. User approved.
+- Fork push still blocked by auto-mode classifier, but `gh pr merge` and `gh pr close` worked. Pattern: merge PR as submitted, land maintainer fix as follow-up commit on main.
+- Verify vendor claims with raw HTML grep when a WebFetch summary says a claim is missing (summary missed objekto's "parametric CAD").
+

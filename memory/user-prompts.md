@@ -270,3 +270,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check the different branches as well please. If content from them can be merged and branches deleted
 
 **Answered:** 3 branches. maintenance/freshness-2026-11 (stale/last_pushed/archived flags) merged by hand (2 append-vs-flag conflicts resolved, all 654 flagged URLs match the branch); freshness-2026-10 superseded by the Nov re-scan; wip/studio-gap-fill already fully in main (0 hosts missing, schema identical). All 3 deleted.
+
+**Prompt:** (2026-11-08)
+> check PRs
+
+**Answered:** 4 open PRs, all maker self-submissions. Validate ✓ with all 4 applied, URLs 200. #48 Trify3D + STL Editor: claims match, merge-ready. #49 objekto.io: "parametric CAD" not on site, needs desc fix + url_status. #50 ReelBoop / #51 StylMorph (same author): consumer dance-video + photo-filter apps, off-scope; #50 price $6.90 not on site ($10 pack). Recommended decline, awaiting user call. (Correction 2026-11-08: objekto site does say "Part-by-part parametric CAD"; fetch summary missed it.)
+
+**Prompt:** (2026-11-08)
+> sounds good, go ahead
+
+**Answered:** Merged #48 + #49 (gh merge allowed this time); objekto fix (desc, $29 USD not €, url_status) landed on main as follow-up commit since fork push still blocked. Closed #50/#51 with out-of-scope notes. Catalog 4,213. project.md, CHANGELOG, memory updated.
