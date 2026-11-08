@@ -113,6 +113,29 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: Imagera
+    url: https://imagera.ai
+    added_at: '2026-11-08T20:00:00Z'
+    description: Web studio that runs many image and video models side by side; Character IDs keep one face, product or place consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video with music and voice-over.
+    license: Paid
+    entry_type: tool
+    pricing: Credit-based subscription plans; the credit price is shown before each run
+    tags:
+      tech:
+        - ai-generative
+        - subscription
+      workflow:
+        - storyboard
+        - previs
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Video
+      - Consistent Characters
+    best_for: Keeping one character or product consistent across AI video shots
   - name: Pika H3 Flex
     url: https://huggingface.co/Pika-Labs/Pika-H3-Flex
     description: Post-trained MiniMax H3 video model from Pika that generates video with synced audio in six steps and takes up to 12 reference inputs; native 480p/768p.
