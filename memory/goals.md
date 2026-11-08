@@ -10,10 +10,11 @@ Project-level goals and intent for 3d_resources.
 - 2026-10-05: Keep the catalog link-healthy: monthly link-check triage (5 unreachable left, see project.md §11).
 - 2026-10-05: Unblock the freshness workflow (GitHub "Allow Actions to create PRs" setting). Oct/Nov flags merged by hand 2026-11-06.
 - 2026-10-05: Launch track (pub_plan Part 2): social preview, awesome-list PRs, community posts, newsletters, GSC.
-- 2026-10-05: Continue web discovery phases (assets, tutorials/learning, AI/ML workflows) after software + tools.
+- 2026-10-05: Continue web discovery phases. 2026-11-09 news-driven batch +548 (catalog 4,761). Next: bot-walled gaps (SpaceMouse, Neat Video, aescripts), Houdini FX (2).
 - 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v6 at 2,695 + 2,683 game studios (2026-11-06, round 5 event-sourced). Next: size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (23), JS-only award sites (CICLOPE, AICP, Clio, Promax) with a headless browser.
 
 ## Done
+- 2026-11-09: News-driven discovery: +548 catalog entries, 26 updates (renames, price/licence changes, HitFilm + Unreal Marketplace deprecated). Committed + pushed.
 - 2026-11-08: Merged PRs #48 Trify3D + STL Editor, #49 objekto.io (fixed on main); closed #50 ReelBoop, #51 StylMorph (out of scope).
 - 2026-11-06: Round 5, event-sourced studio discovery: +338 studios, +133 game studios from festival/award/conference credits. Uncommitted at time of writing.
 - 2026-11-06: Country fill: +225 studios, +299 game studios across 112 under-20 country lists; 19 country lists crossed 20. Uncommitted at time of writing.

@@ -118,3 +118,10 @@ Architectural / structural decisions w/ rationale + date.
 - Fork push still blocked by auto-mode classifier, but `gh pr merge` and `gh pr close` worked. Pattern: merge PR as submitted, land maintainer fix as follow-up commit on main.
 - Verify vendor claims with raw HTML grep when a WebFetch summary says a claim is missing (summary missed objekto's "parametric CAD").
 
+
+## 2026-11-09: News-driven discovery
+- News is a lead source only; entries are the resources (tools, models, libraries, hardware), never articles. Funding/roadmap/rumour/waitlist items skipped.
+- Open-weights models under custom community licences (MiniMax H3, LTX-2.x, FLUX, Stability, Tencent) -> license `Free`, limit stated in `pricing`. Research-only / CC BY-NC weights -> `Free NC`. LTX-2 moved Open Source -> Free on that rule.
+- Model version bumps on an existing entry = rename in place (FLUX.2 -> FLUX 3, Meshy v4 -> Meshy 7), not a new entry. Separate open-weights release of a paid web app = new entry (Hi3D v1.0).
+- `Mixed` licence kept for aggregates (marketplaces, datasets, code+weights split); BSL source-available backends -> Freemium (SpacetimeDB).
+- Weakly sourced deprecations (redirect only, no closure notice) are not applied; left to the monthly link check (Quixel Bridge).

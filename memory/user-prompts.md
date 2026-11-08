@@ -280,3 +280,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > sounds good, go ahead
 
 **Answered:** Merged #48 + #49 (gh merge allowed this time); objekto fix (desc, $29 USD not €, url_status) landed on main as follow-up commit since fork push still blocked. Closed #50/#51 with out-of-scope notes. Catalog 4,213. project.md, CHANGELOG, memory updated.
+
+**Prompt:** (2026-11-08)
+> look up news. From the last few months 3d, gamedev, art, ai, everything we can find. Let's flesh our the resources side of things please
+
+**Answered:** 8 news-slice agents (AI gen, DCC/render, gamedev, VFX/motion, art/design, research/splats, assets/learning, hardware/XR), Jul-Nov 2026 news as leads. +548 entries (4,213 -> 4,761), 26 existing entries updated (renames, free/price changes, 2 deprecations). Validate/test/build ✓. Not committed.
+
+**Prompt:** (2026-11-09)
+> Yes please
+
+**Answered:** Committed news batch (data + project.md + CHANGELOG) and memory log separately, pushed to origin/main.
