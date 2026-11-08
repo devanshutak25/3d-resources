@@ -681,3 +681,13 @@ entries:
       - Open Source
       - Nodes
     best_for: Batch AI upscaling
+  - name: StylMorph
+    url: https://stylmorph.com/
+    added_at: '2026-11-08T08:30:01Z'
+    description: AI photo-to-comic, cartoon and game-art transformations, with one free image and credit packs.
+    license: Freemium
+    entry_type: software
+    pricing: One free image, then one-time credit packs from US$6.99; no subscription
+    tags:
+      platform: [web]
+      tech: [ai-generative]
