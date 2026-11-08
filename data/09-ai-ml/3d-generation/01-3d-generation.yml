@@ -288,10 +288,10 @@ entries:
     added_at: '2026-11-02T18:36:11.581Z'
   - name: objekto.io
     url: https://objekto.io/en
-    description: Web service that designs a multi-part, print-ready 3D model as parametric CAD from a text prompt, photo or sketch, with printability checks, an exploded view and an assembly guide, and can have the parts 3D printed and delivered in France.
+    description: Web service that turns a text prompt, photo or sketch into a multi-part parametric CAD model checked for 3D printing, with an assembly guide and optional print-and-ship (France only).
     license: Freemium
     entry_type: tool
-    pricing: 2,000 free credits at signup, plans from €29/mo
+    pricing: 2,000 free credits at signup, plans from $29/mo
     tags:
       workflow:
         - modeling
@@ -305,4 +305,6 @@ entries:
     readme_tags:
       - CAD
       - 3D Print
+    url_status: ok
+    url_last_verified: '2026-11-08'
     added_at: '2026-11-08T08:21:25.000Z'
