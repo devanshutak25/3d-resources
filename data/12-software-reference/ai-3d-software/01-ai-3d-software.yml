@@ -770,3 +770,32 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.303Z'
+  - name: Trify3D
+    url: https://trify3d.com/
+    description: Web app that runs Tripo3D, Meshy and Rodin side by side on the same text or image input and exports GLB, glTF, OBJ and STL.
+    pricing: 50 free credits, paid plans
+    license: Freemium
+    entry_type: software
+    best_for: Comparing AI 3D engines on one input
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - product-viz
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - pbr
+        - glb
+    readme_tags:
+      - Multi-Engine
+      - GLB
+    url_status: ok
+    url_last_verified: '2026-11-07'
+    added_at: '2026-11-07T09:03:11Z'
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
