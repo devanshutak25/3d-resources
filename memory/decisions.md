@@ -125,3 +125,11 @@ Architectural / structural decisions w/ rationale + date.
 - Model version bumps on an existing entry = rename in place (FLUX.2 -> FLUX 3, Meshy v4 -> Meshy 7), not a new entry. Separate open-weights release of a paid web app = new entry (Hi3D v1.0).
 - `Mixed` licence kept for aggregates (marketplaces, datasets, code+weights split); BSL source-available backends -> Freemium (SpacetimeDB).
 - Weakly sourced deprecations (redirect only, no closure notice) are not applied; left to the monthly link check (Quixel Bridge).
+
+## 2026-11-09: Studio round 6, Europe by country
+- Studios whose work-for-hire lists casino/lottery/eInstant as a main line are excluded like gambling studios (Moido Games: Veikkaus lottery games; Aniway: Casino + eInstant). One casino-themed game title or a casino ad client is fine (ColdFire Idle Casino Manager, Tamasenco Casino Heist, Frameworks Novibet ad).
+- Anti-AI-scraping copyright text on a studio site is not spam (eXiin); hidden off-screen casino links are (KOTOC, Actrio, Insomne).
+- Site that only works over http: store the http URL (Luma Film, Blackstaff Games); schema allows it.
+- Location rows of a listed studio are not new rows (Hangar 13 Brighton); the parent row's `offices` carries the city.
+- Azerbaijan + Faroe Islands added to COUNTRY_REGION as europe (with Armenia/Georgia).
+- 2026-11-09: Studio discovery method saved as docs/playbooks/studio-discovery.md + tracked scripts/import-studios.js (user: store the method, run other regions in future sessions). Scratchpad copies were lost per session before.

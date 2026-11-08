@@ -284,9 +284,24 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 **Prompt:** (2026-11-08)
 > look up news. From the last few months 3d, gamedev, art, ai, everything we can find. Let's flesh our the resources side of things please
 
-**Answered:** 8 news-slice agents (AI gen, DCC/render, gamedev, VFX/motion, art/design, research/splats, assets/learning, hardware/XR), Jul-Nov 2026 news as leads. +548 entries (4,213 -> 4,761), 26 existing entries updated (renames, free/price changes, 2 deprecations). Validate/test/build ✓. Not committed.
+**Answered:** 8 news-slice agents (AI gen, DCC/render, gamedev, VFX/motion, art/design, research/splats, assets/learning, hardware/XR), Jul-Nov 2026 news as leads. +548 entries (4,213 -> 4,761), 26 existing entries updated (renames, free/price changes, 2 deprecations). Validate/test/build ✓. Committed later same day.
 
 **Prompt:** (2026-11-09)
 > Yes please
 
 **Answered:** Committed news batch (data + project.md + CHANGELOG) and memory log separately, pushed to origin/main.
+
+**Prompt:** (2026-11-09)
+> let's look for more studios. Starting with europe, make country-wise agents to find please
+
+**Answered:** Round 6: 14 country agents across Europe, both directories. 945 raw -> 935 written (+380 studios -> 3,075, +555 game studios -> 3,238). Dropped casino-injected/gambling/placeholder rows. Azerbaijan + Faroe Islands added to COUNTRY_REGION. Validate/test/build ✓. Not committed.
+
+**Prompt:** (2026-11-09)
+> store this method in memory for future sessions. Will do for different regions in future sessions
+
+**Answered:** Method saved: docs/playbooks/studio-discovery.md (steps, review checklist, lessons, agent brief template), importer promoted to tracked scripts/import-studios.js (--dump/--probe/--write). Pointers in project.md (§3, §4b, §14) + memory (preferences, tools, decisions, goals).
+
+**Prompt:** (2026-11-09)
+> commit and push
+
+**Answered:** Committed round 6 data + importer/playbook + docs (feat) and memory log (docs), pushed to origin/main.

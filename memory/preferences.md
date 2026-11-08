@@ -13,3 +13,4 @@ User working style + collab rules.
 - 2026-10-05: For discovery/add tasks user said "don't wait for me, use your judgement, add as many as you can find". Add verified + deduped items directly; still stop between phases.
 - 2026-10-31: For UI work the user wants a localhost server running in-session to test (_site on :8080).
 - 2026-11-03: Never send the user's email/personal identifiers to external services (agents included). Put this in every research-agent brief.
+- 2026-11-09: Studio discovery = country-wise agents, one region per session (Europe done 2026-11-09; user will run other regions in later sessions). Method: docs/playbooks/studio-discovery.md.
