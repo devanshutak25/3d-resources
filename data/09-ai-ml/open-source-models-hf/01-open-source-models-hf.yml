@@ -234,3 +234,272 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.335Z'
+  - name: HyperFlow H3 Flash
+    url: https://github.com/Video-Rebirth/hyperflow-h3-flash
+    description: Compressed 14B few-step version of MiniMax H3 for joint video and audio generation in 4 to 8 steps, shipped as INT8 and GGUF weights.
+    pricing: Free (code Apache 2.0; weights MiniMax H3 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Text-to-Video
+      - Quantized
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.389Z'
+  - name: P-JiT 21K (Linum)
+    url: https://github.com/Linum-AI/pjit-21k
+    description: 2B pixel-space text-to-image model (Pyramid-JiT) trained for about $21K, released with Apache 2.0 weights and training code as a low-cost baseline.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Image
+      - Apache 2.0
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.395Z'
+  - name: TerrainSR
+    url: https://huggingface.co/joe-gibbs/terrainsr
+    description: Super-resolution model that adds realistic detail to low-resolution terrain heightmaps; trained on 100 m to 10 m pairs without built-up areas.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - procedural
+    readme_tags:
+      - Heightmap
+      - Upscaling
+    dual_listed_in:
+      - game-development/game-dev-ai-procedural
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.408Z'
+  - name: mere.run
+    url: https://mere.run/
+    description: Local-first runtime and CLI for macOS and Linux that runs open image, video, speech, music and SFX models, with LoRA training and an OpenAI-compatible API.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - generalist
+      platform:
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Local AI
+      - CLI
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.413Z'
+  - name: Sapiens2 (Meta)
+    url: https://github.com/facebookresearch/sapiens2
+    description: Meta's 1K-resolution human vision models for pose, body-part segmentation, surface normals, pointmaps and soft-alpha human matting.
+    pricing: Free (Sapiens2 License, use restrictions)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - roto
+        - mocap
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+    readme_tags:
+      - Human Matting
+      - Normals
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.418Z'
+  - name: FastVideo
+    url: https://github.com/hao-ai-lab/FastVideo
+    description: Inference and post-training framework that speeds up open video diffusion models with sparse attention, distillation and FP4/FP8 quantized checkpoints.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Video Inference
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.420Z'
+  - name: Diffusers (Hugging Face)
+    url: https://github.com/huggingface/diffusers
+    description: Python library of pretrained diffusion pipelines for image, video and audio generation, used by most open model releases for inference and training.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Python Library
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.427Z'
+  - name: kohya_ss
+    url: https://github.com/bmaltais/kohya_ss
+    description: Gradio GUI for the kohya training scripts to train LoRA, DreamBooth and fine-tunes of Stable Diffusion and FLUX models.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+        - mac
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - LoRA Training
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.428Z'
+  - name: AI Toolkit (Ostris)
+    url: https://github.com/ostris/ai-toolkit
+    description: Training toolkit with a web UI for LoRA and fine-tunes of image and video diffusion models such as FLUX, Qwen-Image and Wan.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - LoRA Training
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.429Z'
+  - name: DepthCrafter (Tencent)
+    url: https://github.com/Tencent/DepthCrafter
+    description: Video depth model that generates temporally consistent long depth sequences for open-world footage, useful for relighting and comp passes.
+    pricing: Free for research and education only
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - compositing
+        - match-move
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+    readme_tags:
+      - Video Depth
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.442Z'
+  - name: StableNormal
+    url: https://github.com/Stable-X/StableNormal
+    description: Diffusion-based monocular normal estimator that produces stable, sharp surface normal maps from single images.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+        - compositing
+      output:
+        - film-vfx
+        - games
+      platform:
+        - linux
+      skill:
+        - advanced
+    readme_tags:
+      - Normal Estimation
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.443Z'

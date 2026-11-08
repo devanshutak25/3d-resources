@@ -160,3 +160,158 @@ entries:
         - web
       skill:
         - advanced
+  - name: The Art of Photography (Ted Forbes)
+    url: https://www.youtube.com/@theartofphotography
+    description: Ted Forbes's YouTube channel on photography history, famous photographers, composition and technique.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.491Z'
+  - name: CameraSim
+    url: https://camerasim.com/
+    description: Free interactive camera simulators for learning photography in the browser, including a 3D version.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Exposure Sim
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.492Z'
+  - name: set.a.light 3D
+    url: https://www.elixxier.com/
+    description: Virtual photo studio for planning and testing lighting setups and cameras; exports lighting diagrams and storyboards.
+    pricing: Paid; free demo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - lighting
+        - previs
+      output:
+        - generalist
+        - film-vfx
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Lighting Planner
+    dual_listed_in:
+      - art-design-visual-storytelling/cinematography-camera
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.493Z'
+  - name: Digital Photography School
+    url: https://digital-photography-school.com/
+    description: Free photography tutorials on exposure, portrait and landscape technique, gear and post-processing in Lightroom, Photoshop and GIMP.
+    pricing: Free articles; paid courses
+    license: Free
+    entry_type: tutorial
+    tags:
+      workflow:
+        - reference
+        - lighting
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.514Z'
+  - name: Magnum Photos
+    url: https://www.magnumphotos.com/
+    description: Photo agency site with portfolios from Magnum photographers plus Theory and Practice features on visual literacy and documentary work.
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.515Z'
+  - name: LightWindow
+    url: https://www.lightwindow.app/
+    description: Web planner for photographers showing golden and blue hour, sunrise and sunset bearings, sun elevation and moon times per city.
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Golden Hour
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.519Z'
+  - name: DOF Simulator
+    url: https://dofsimulator.net/en/
+    description: Depth of field calculator that simulates background blur and bokeh on a photo for any camera, lens, aperture and distance combo.
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Bokeh Sim
+    dual_listed_in:
+      - art-design-visual-storytelling/cinematography-camera
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.537Z'
+  - name: Online Lighting Diagram Creator
+    url: https://www.lightingdiagrams.com/
+    description: Drag-and-drop editor for photography lighting diagrams that exports the finished setup.
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Lighting Diagrams
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.538Z'

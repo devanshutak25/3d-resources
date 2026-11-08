@@ -1,10 +1,10 @@
 entries:
-  - name: Blenderkit
-    url: https://www.blenderkit.com/
+  - name: Blendkit
+    url: https://www.blendkit.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Blender asset library and add-on that lets you search and drop models, materials and HDRIs into a scene from inside Blender.
+    description: Asset library with add-ons for Blender, Godot, Maya, Rhino and Unreal to search and drop models, materials and HDRIs into a scene. Formerly BlenderKit.
     entry_type: marketplace
-    license: Paid
+    license: Freemium
     tags:
       output:
         - generalist
@@ -15,8 +15,7 @@ entries:
     readme_tags:
       - Blender
       - In-app
-    url_last_verified: '2026-11-01'
-    url_status: ok
+    pricing: Free tier; Full $17.90/mo
   - name: Orbolt
     url: https://www.orbolt.com/
     added_at: '2026-04-16T19:59:30.000Z'

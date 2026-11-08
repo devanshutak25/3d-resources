@@ -535,3 +535,117 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.635Z'
+  - name: GodotHub
+    url: https://github.com/RykoTheDev/GodotHub
+    description: Desktop launcher for Godot that installs and switches engine versions per project, with templates, Git tools and export helpers.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - godot
+    readme_tags:
+      - Launcher
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.686Z'
+  - name: GATE
+    url: https://github.com/Blade67/GATE
+    description: GDScript superset for Godot 4.7+ that adds structs, generics, traits and null safety, compiling down to plain .gd files.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - GDScript
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.689Z'
+  - name: GDStudio
+    url: https://gdstudio.dev/
+    description: Closed-source alternative editor for Godot 4.6/4.7 projects with multi-scene tabs, split panes and full-pane resource workspaces; free beta.
+    pricing: Free (beta)
+    license: Free
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - Editor
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.698Z'
+  - name: Godot XR Tools
+    url: https://github.com/GodotVR/godot-xr-tools
+    description: Add-on of support scenes and scripts for building AR and VR games in Godot across XR interfaces.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - godot
+        - xr
+    readme_tags:
+      - VR
+    dual_listed_in:
+      - game-development/xr-ar-vr
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.717Z'
+  - name: 'GDGS: Godot Gaussian Splatting'
+    url: https://github.com/ReconWorldLab/godot-gaussian-splatting
+    description: Godot plugin that renders 3D Gaussian splats in real time, with compute and raster backends and relighting from scene lights via a baked proxy.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - godot
+        - real-time
+    readme_tags:
+      - Godot
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.799Z'

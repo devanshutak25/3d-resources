@@ -474,3 +474,58 @@ entries:
     url_status: ok
     stale: true
     last_pushed: '2018-10-29'
+  - name: Media Plane
+    url: https://www.gizmify.ca/mediaplane
+    description: Maya plugin that plays and scrubs video reference on an in-scene plane and adds a nonlinear editor for cutting reference sequences or animatics.
+    pricing: Free non-commercial; from $14
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - reference
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - maya
+    readme_tags:
+      - Video Reference
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.617Z'
+  - name: Kiosk Library
+    url: https://kiosk-library.com/
+    description: Visual asset library that indexes texture, model and HDRI folders and exports assets with renderer-ready materials to Houdini, Blender, Maya, Cinema 4D and Unreal.
+    pricing: Free; Pro $56.20; Studio $147.95 (3 seats)
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - look-dev
+        - texturing
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - houdini
+        - maya
+        - cinema-4d
+        - unreal
+    readme_tags:
+      - Asset Manager
+    dual_listed_in:
+      - software-reference/pipeline-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.658Z'

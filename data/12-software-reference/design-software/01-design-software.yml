@@ -165,7 +165,7 @@ entries:
   - name: Affinity
     url: https://affinity.studio/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Unified vector, photo, and layout app. Free, by Canva.
+    description: Unified vector, photo, layout and sketch app for Windows, macOS and iPad. Free, by Canva; AI tools need Canva Pro.
     license: Free
     entry_type: software
     best_for: Illustration, photo editing, page layout
@@ -295,7 +295,7 @@ entries:
   - name: Pixelmator
     url: https://www.apple.com/pixelmator-pro/
     added_at: '2026-04-16T21:37:07.000Z'
-    description: Full-featured image editing app for the Mac.
+    description: Image editor for Mac and iPad. One-time Mac purchase or part of Apple Creator Studio.
     license: Paid
     entry_type: software
     best_for: Mac image editing
@@ -306,11 +306,13 @@ entries:
         - generalist
       platform:
         - mac
+        - ipad
     readme_tags:
       - Mac-native
       - Image Editor
     url_last_verified: '2026-11-01'
     url_status: ok
+    pricing: $49.99 one-time (Mac) or Apple Creator Studio $12.99/mo
   - name: PixiEditor
     url: https://pixieditor.net/
     added_at: '2026-04-16T21:37:07.000Z'
@@ -658,3 +660,336 @@ entries:
       - Photo Stylize
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Adobe Fresco
+    url: https://www.adobe.com/products/fresco.html
+    description: Free drawing and painting app with live raster brushes that blend like oils and watercolor, vector brushes, and frame-by-frame animation.
+    pricing: Free
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+        - animation
+      output:
+        - illustration
+      platform:
+        - ipad
+        - ios
+        - win
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Live Brushes
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.461Z'
+  - name: MyPaint
+    url: https://www.mypaint.app/
+    description: Open-source raster painting and sketching app with a configurable brush engine and a distraction-free canvas; built for pen tablets.
+    pricing: Free (GPL-2.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - opensource-alt
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.462Z'
+  - name: ArtRage Vitae
+    url: https://www.artrage.com/
+    description: Natural-media painting app that emulates oils, watercolor, pencil and crayon with canvas texture and color blending.
+    pricing: $80 desktop; $4.99 mobile
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - ios
+        - android
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Natural Media
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.463Z'
+  - name: Corel Painter
+    url: https://www.painterartist.com/en/product/painter/
+    description: Digital painting app built around Natural-Media brush emulation, with photo-art and auto-painting tools for illustrators and concept artists.
+    pricing: Subscription or upgrade licence
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - subscription
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.464Z'
+  - name: Concepts
+    url: https://concepts.app/
+    description: Infinite-canvas sketching app where every stroke stays editable vector, used to sketch, plan and share ideas.
+    pricing: Free tier; Pro $4.99/mo or $29.99/yr
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - product-viz
+      platform:
+        - ipad
+        - ios
+        - win
+        - android
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Vector Sketching
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.465Z'
+  - name: Linearity Curve
+    url: https://www.linearity.io/curve/
+    description: Vector design app (formerly Vectornator) for illustration, typography and print export on Mac and iPad, with cloud sync.
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - mac
+        - ipad
+        - ios
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Vector
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.466Z'
+  - name: CorelDRAW Graphics Suite
+    url: https://www.coreldraw.com/en/product/coreldraw/
+    description: Vector illustration, page layout and photo editing suite (CorelDRAW, PHOTO-PAINT, Font Manager, CorelDRAW Web) sold as subscription or one-time licence.
+    pricing: Subscription or perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - perpetual
+        - subscription
+    readme_tags:
+      - Vector
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.467Z'
+  - name: Scribus
+    url: https://www.scribus.net/
+    description: Open-source desktop publishing app for page layout; open alternative to InDesign.
+    pricing: Free (GPL-2.0+)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - illustration
+      skill:
+        - intermediate
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Page Layout
+    dual_listed_in:
+      - art-design-visual-storytelling/design-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.468Z'
+  - name: Paintstorm Studio
+    url: https://www.paintstormstudio.com/
+    description: Digital painting app for illustration and concept work, sold as a one-time licence with free lifetime updates.
+    pricing: $49.99 perpetual (often discounted)
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+        - ipad
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - perpetual
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.469Z'
+  - name: Drawpile
+    url: https://drawpile.net/
+    description: Open-source collaborative drawing app where several people sketch, paint and animate on one shared canvas; desktop, Android and browser.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+        - android
+        - web
+      skill:
+        - beginner
+      tech:
+        - collaborative
+    readme_tags:
+      - Multiplayer Canvas
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.470Z'
+  - name: RawTherapee
+    url: https://www.rawtherapee.com/
+    description: Open-source raw photo developer for Windows, macOS and Linux that processes raw files from a wide range of cameras.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+        - color-grading
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Raw Photo
+    dual_listed_in:
+      - art-design-visual-storytelling/photography
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.473Z'
+  - name: digiKam
+    url: https://www.digikam.org/
+    description: Open-source photo manager and editor with AI tagging, face recognition and batch processing for large photo libraries.
+    pricing: Free (GPL-2.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Photo Library
+    dual_listed_in:
+      - art-design-visual-storytelling/photography
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.474Z'
+  - name: Method Draw
+    url: https://editor.method.ac/
+    description: Open-source SVG vector editor that runs in the browser with no sign-up.
+    pricing: Free
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - SVG Editor
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.503Z'
+  - name: MediBang Paint
+    url: https://medibangpaint.com/en/pc/
+    description: Free painting and manga app with panel tools, halftone layers, cloud fonts and brushes; Premium unlocks extra materials.
+    pricing: Free; Premium subscription
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Manga Tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.506Z'

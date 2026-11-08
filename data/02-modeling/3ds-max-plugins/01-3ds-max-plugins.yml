@@ -153,3 +153,341 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:35:14.956Z'
+  - name: Pulldownit
+    url: https://www.pulldownit.com/
+    description: Voronoi shattering and rigid body dynamics plugin for 3ds Max and Maya, aimed at destruction effects and large rigid body simulations.
+    pricing: €290/yr (3ds Max node-locked); Max+Maya bundle €420/yr
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - physics
+        - maya
+        - subscription
+    readme_tags:
+      - Destruction
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.613Z'
+  - name: glTF 3ds Max Plugin (Khronos)
+    url: https://github.com/KhronosGroup/glTF-3ds-Max-Plugin
+    description: Khronos-sponsored glTF 2.0 and GLB importer/exporter for 3ds Max 2020-2027 with PBR material, animation, light and instancing extensions; formerly an $80 plugin.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+        - xr
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - glb
+        - pbr
+    readme_tags:
+      - glTF
+    dual_listed_in:
+      - tools-pipeline-utilities/conversion-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.619Z'
+  - name: TenPix Cloth
+    url: https://10pixstudio.com/tools/tenpix-cloth/
+    description: 'GPU cloth simulator for 3ds Max 2024-2027 built as modifiers: layered garments, pins, seams, tearing, weight maps and Alembic caching on NVIDIA RTX cards.'
+    pricing: $150 perpetual (launch, $200 regular); free demo
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+      output:
+        - film-vfx
+        - fashion
+        - games
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - gpu
+        - physics
+        - perpetual
+    readme_tags:
+      - Cloth Sim
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.626Z'
+  - name: UV Unfoldr
+    url: https://sargisstg.gumroad.com/l/uv-unfoldr
+    description: 'Maya-style UV editor for 3ds Max 2022-2027 on top of Unwrap UVW: unfold and optimize brushes, straighten shells, shape-aware packer and texel density tools.'
+    pricing: $39
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - UV Editor
+    dual_listed_in:
+      - tools-pipeline-utilities/uv-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.627Z'
+  - name: MarkingForge
+    url: https://forgeplugins.tech/markingforge/
+    description: Maya-style marking menus, gesture dials and hotbox for 3ds Max 2025-2027, with a menu editor, custom MAXScript commands and studio deploy script.
+    pricing: $29 perpetual (individual)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+        - archviz
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - perpetual
+    readme_tags:
+      - Marking Menus
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.628Z'
+  - name: Sculpt Mesh (3ds Max)
+    url: https://docs.ml-tools.ro/sculptmesh/
+    description: Multiresolution sculpting and texture painting object for 3ds Max with 26 brushes, masks, layers, voxel remesh, quad retopology and map baking.
+    pricing: $80 non-commercial; $120 commercial
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - Sculpting
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.629Z'
+  - name: ValTerra
+    url: https://getvalterra.com/
+    description: 3ds Max plugin that imports Google Photorealistic 3D Tiles or OpenStreetMap city and terrain context, places the sun by date and location, and matches cameras to drone photos.
+    pricing: Free Lite tier; $169 perpetual (founders)
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - lighting
+        - match-move
+      output:
+        - archviz
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - perpetual
+    readme_tags:
+      - Site Context
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.630Z'
+  - name: FoldFlow
+    url: https://fold-flow.com/
+    description: 3ds Max plugin for painting procedural cloth folds, wrinkles and stitching interactively in the viewport without simulation; transfers folds between meshes.
+    pricing: $49; free trial
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - fashion
+        - film-vfx
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - procedural
+    readme_tags:
+      - Cloth Folds
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.631Z'
+  - name: Thinkbox MX Community Builds
+    url: https://www.frogsinspace.at/?p=3926
+    description: Free community builds of Krakatoa MX, Frost MX, XMesh MX and Stoke MX for 3ds Max 2018-2027, compiled from source code AWS Thinkbox published.
+    pricing: Free (donations optional)
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - fx
+        - rendering
+        - simulation
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+      skill:
+        - advanced
+    readme_tags:
+      - Krakatoa
+      - Particles
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.632Z'
+  - name: Ghost Pencil Pro
+    url: https://mostafa3609.github.io/Ghost_Pencil-Pro/
+    description: Grease Pencil-style 2D/3D drawing and frame-by-frame animation object for 3ds Max 2024-2027, with layers, tablet pressure and 13 stroke modifiers.
+    pricing: $25 (2 seats)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - storyboard
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - 2D in 3D
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.633Z'
+  - name: Project Manager (Kstudio)
+    url: https://3d-kstudio.com/product/project-manager/
+    description: On-device asset browser for 3ds Max that auto-classifies models, materials, textures, IES lights and proxies, with text and image similarity search.
+    pricing: $60; free demo
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - archviz
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - Asset Browser
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.634Z'
+  - name: PBR Generator (3ds Max)
+    url: https://kileonid.gumroad.com/l/wpdeeo
+    description: 3ds Max 2020+ script that bakes procedural V-Ray or Physical Material node networks into texture packs and rebuilds them as render-ready PBR shaders.
+    pricing: $19; studio $119
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - archviz
+        - games
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - pbr
+    readme_tags:
+      - Material Baking
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.657Z'
+  - name: ColorEdge (iToo)
+    url: https://www.itoosoft.com/freeplugins/coloredge
+    description: Free procedural 3ds Max texture map from iToo that draws a two-color gradient along mesh edges to blend materials where surfaces meet, such as roads and terrain.
+    pricing: Free (commercial use)
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - texturing
+        - look-dev
+      output:
+        - archviz
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - procedural
+    readme_tags:
+      - Edge Blend
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.669Z'
+  - name: Ripple Pro
+    url: https://ldotchopz.gumroad.com/l/RipplePro
+    description: Water-surface modifier for 3ds Max 2024-2027 with deterministic procedural ripples and a height-field wave solver for wakes and rain from points, splines or particles.
+    pricing: $25 individual; studio from $119
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - archviz
+        - motion-graphics
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - procedural
+    readme_tags:
+      - Water Ripples
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.673Z'

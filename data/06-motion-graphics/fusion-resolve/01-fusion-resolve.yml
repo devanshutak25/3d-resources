@@ -228,3 +228,109 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.458Z'
+  - name: Instancer 2D (noVFX)
+    url: https://novfx.de/shop/instancer2d/
+    description: GPU OFX plugin for Resolve and Fusion that scatters thousands of image, text or footage instances with 12 distribution modes, per-instance fields, motion blur and bokeh.
+    pricing: Indie €149 perpetual; Studio €349; watermarked demo free
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+        - perpetual
+    readme_tags:
+      - OFX
+      - Instancing
+    dual_listed_in:
+      - motion-graphics-video/motion-graphics-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.888Z'
+  - name: Krokodove
+    url: https://www.komkomdoorn.com/krokodove/
+    description: 'Long-running toolset of procedural Fusion and Resolve nodes: image processing, warps, shape and pattern generators, 3D instancing and modifiers; bundled with Resolve 21.'
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+        - procedural
+    readme_tags:
+      - Fusion
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.900Z'
+  - name: Paperwolf Plugins
+    url: https://studio.paperwolf.it/en/
+    description: Nine stylised OFX effects for DaVinci Resolve (datamosh, glyph rebuild, dithering, camcorder looks, tracking overlays, depth graphics, handheld shake).
+    pricing: Full suite €179
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - color-grading
+      output:
+        - motion-graphics
+      platform:
+        - mac
+    readme_tags:
+      - OFX
+      - Resolve
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.901Z'
+  - name: Puppet Pin (Tangenten)
+    url: https://tangenten.gumroad.com/l/PuppetPinTool
+    description: Fusion node for Resolve that builds a mesh from a cutout and poses it with up to 48 pins, IK/FK chains and wind, wiggle and spring deformers.
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - motion-graphics
+    readme_tags:
+      - Puppet Warp
+      - Fusion
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.902Z'
+  - name: InPaint Fusion Macro (Fixed in Post)
+    url: https://www.fixedinpost.com/store/p/inpaint-fusion-studio-macro
+    description: Free Fusion macro for paint-outs that fills a matted area from surrounding edge pixels and restores grain and texture from the plate; also on Reactor.
+    pricing: Free
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - roto
+      output:
+        - film-vfx
+    readme_tags:
+      - Cleanup
+      - Fusion
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.905Z'

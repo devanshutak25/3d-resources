@@ -150,3 +150,115 @@ entries:
         - blender-addon
     stale: true
     last_pushed: '2023-10-10'
+  - name: Unibuilder
+    url: https://www.unibuilder.dev/
+    description: ProBuilder-style in-editor 3D level modeling plugin for Godot 4.7+ in pure GDScript, with parametric shapes, mesh ops, UV editor and glTF export.
+    pricing: $24.99 per seat
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - Blockout
+    dual_listed_in:
+      - game-development/godot-plugins
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.688Z'
+  - name: Scopa
+    url: https://github.com/radiatoryang/scopa
+    description: Unity importer for Quake MAP, Half-Life RMF and Source VMF levels plus WAD textures, with FGD export to TrenchBroom; early development.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - unity-plugin
+        - unity
+    readme_tags:
+      - TrenchBroom
+      - Quake Maps
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.699Z'
+  - name: HammUEr
+    url: https://nte.itch.io/hammuer
+    description: Unreal plugin that imports Hammer VMF, Doom 3 and idTech MAP levels as meshes, with builds for UE 4.25 to 5.8; in maintenance mode.
+    pricing: $42
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - unreal-plugin
+        - unreal
+    readme_tags:
+      - Hammer
+      - TrenchBroom
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.700Z'
+  - name: Anvil Level Design
+    url: https://github.com/alexjhetherington/anvil-level-design
+    description: TrenchBroom-inspired Blender add-on for level blockout with texture application, UV lock, hotspot mapping, box and cut tools, and glTF export.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - uv
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - Blockout
+      - Hotspot UVs
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.701Z'
+  - name: The Level Design Book
+    url: https://book.leveldesignbook.com/
+    description: Free online book on 3D level design covering process, critical level studies, editors and teaching notes; CC BY-NC-SA, still in progress.
+    pricing: Free
+    license: Free NC
+    entry_type: book
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Level Design
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.731Z'

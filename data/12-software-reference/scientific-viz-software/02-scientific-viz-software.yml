@@ -37,3 +37,167 @@ entries:
       - Open Source
       - HPC
     best_for: Large simulation visualization
+  - name: GeoLibre
+    url: https://geolibre.app/
+    description: Cloud-native GIS for viewing and analyzing geospatial data in the browser, on desktop, mobile and in Jupyter, with a Cesium globe that renders Gaussian splat tilesets.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+      output:
+        - scientific-viz
+        - archviz
+      platform:
+        - web
+        - win
+        - mac
+        - ios
+        - android
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - opensource-alt
+    readme_tags:
+      - GIS
+      - 3D Tiles
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.858Z'
+  - name: OHIF Viewer
+    url: https://ohif.org/
+    description: Open-source, zero-footprint web viewer for DICOM medical imaging, with an extension system and an oncology lesion tracker.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+      output:
+        - medical
+        - scientific-viz
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - DICOM
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.859Z'
+  - name: NiiVue
+    url: https://github.com/niivue/niivue
+    description: WebGL2 medical image viewer that loads more than 30 volume and mesh formats directly in the browser.
+    pricing: Free (BSD-2-Clause)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+      output:
+        - medical
+        - scientific-viz
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    readme_tags:
+      - Neuroimaging
+      - WebGL
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.860Z'
+  - name: Neuroglancer
+    url: https://github.com/google/neuroglancer
+    description: Google WebGL viewer for large volumetric datasets, with segmentation overlays and multi-resolution meshes streamed in the browser.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+      output:
+        - scientific-viz
+        - medical
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - real-time
+    readme_tags:
+      - Volumes
+      - WebGL
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.861Z'
+  - name: vedo
+    url: https://vedo.embl.es/
+    description: Python module built on VTK and NumPy for analyzing and visualizing 3D meshes, point clouds, images and volumetric data.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+        - creative-coding
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+    readme_tags:
+      - Python
+      - VTK
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.862Z'
+  - name: trame (Kitware)
+    url: https://kitware.github.io/trame/
+    description: Kitware Python framework for building interactive web apps with VTK and ParaView 3D visualization, written entirely in Python.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+        - creative-coding
+      output:
+        - scientific-viz
+      platform:
+        - web
+      skill:
+        - advanced
+    readme_tags:
+      - Python
+      - VTK
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.863Z'
+  - name: brainrender
+    url: https://github.com/brainglobe/brainrender
+    description: BrainGlobe Python package that renders neuroanatomical data in 3D atlas space.
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - scientific-viz
+        - medical
+      skill:
+        - intermediate
+    readme_tags:
+      - Neuroscience
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.864Z'

@@ -38,3 +38,47 @@ entries:
         - linux
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Antilatency
+    url: https://antilatency.com/
+    description: Inside-out IMU plus optical tracking system for VR, virtual production camera tracking and mocap, with multi-target tracking over areas up to 100x100 m.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - match-move
+        - mocap
+      output:
+        - film-vfx
+        - broadcast
+        - xr
+      skill:
+        - advanced
+      tech:
+        - real-time
+    readme_tags:
+      - Camera Tracking
+      - Inside-Out
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.766Z'
+  - name: ASC StEM3 (LED Volume Test Material)
+    url: https://theasc.com/stem3/
+    description: 'Free test kit from the ASC for evaluating LED volumes before an ICVFX shoot: Unreal Engine environments, 2D driving plates, test elements and a reference short.'
+    pricing: Free
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - unreal
+        - real-time
+    readme_tags:
+      - ICVFX
+      - Test Material
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.881Z'

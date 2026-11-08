@@ -1,0 +1,218 @@
+entries:
+  - name: EdenLive (VAST)
+    url: https://github.com/VAST-AI-Research/EdenLive
+    description: Open-source real-time generative renderer that turns rough visuals or any visual reference into detailed video at 24+ fps; 5B and 14B weights on Hugging Face.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - real-time
+        - gpu
+    readme_tags:
+      - Generative Rendering
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.396Z'
+  - name: LTX-2.5 Alpha Gen IC-LoRA
+    url: https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Alpha-Gen
+    description: IC-LoRA for LTX-2.5 that turns an RGB video into a frame-aligned grayscale alpha matte without green screen, masks or prompts; up to 1920x1088, 145 frames.
+    pricing: Free weights (LTX-2.x Community License; paid above $10M revenue)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - linux
+        - win
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Video Matting
+      - IC-LoRA
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.401Z'
+  - name: MultiMatte (Feyn)
+    url: https://huggingface.co/feyninc/multimatte
+    description: Promptable matting model, a SAM 3 fine-tune that returns a soft alpha matte for any object named in text; trained with the open NoBg library.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+        - product-viz
+      platform:
+        - linux
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Matting
+      - Background Removal
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.404Z'
+  - name: Slapshot
+    url: https://slapshot.ai/
+    description: Web VFX toolkit that uses AI for roto mattes, camera solves with point clouds, depth maps and motion vectors on footage up to 8K; also ships as Comfy nodes.
+    pricing: Free tier (2K, 100 frames); from $9/mo
+    license: Freemium
+    entry_type: service
+    tags:
+      workflow:
+        - roto
+        - match-move
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - web
+        - cloud
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Roto
+      - Camera Tracking
+    dual_listed_in:
+      - ai-ml-for-cg/comfyui-ecosystem
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.414Z'
+  - name: SUPIR
+    url: https://github.com/Fanghua-Yu/SUPIR
+    description: SDXL-based image restoration and upscaling model that rebuilds photo-real detail on degraded images, guided by a multimodal captioner.
+    pricing: Free for non-commercial use; commercial license required
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - illustration
+      platform:
+        - linux
+        - win
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Upscaling
+      - Restoration
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.441Z'
+  - name: UniRelight (NVIDIA)
+    url: https://github.com/nv-tlabs/UniRelight
+    description: Video relighting model built on Cosmos that jointly decomposes scene intrinsics and relights a clip with consistent shadows, reflections and transparency.
+    pricing: Free for non-commercial use (NVIDIA license)
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Relighting
+      - Delighting
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.445Z'
+  - name: Relit-LiVE
+    url: https://github.com/zhuxing0/Relit-LiVE
+    description: SIGGRAPH 2026 video relighting model that generates a relit clip together with an aligned environment video, without needing camera poses.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Relighting
+      - SIGGRAPH 2026
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.446Z'
+  - name: GR3EN
+    url: https://github.com/xyxingx/gr3en
+    description: SIGGRAPH 2026 method that relights room-scale 3D reconstructions to new lighting by distilling a video relighting diffusion model into the scene.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+      output:
+        - archviz
+        - xr
+      platform:
+        - linux
+        - web
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Relighting
+      - SIGGRAPH 2026
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.447Z'

@@ -148,3 +148,171 @@ entries:
         - web
       tech:
         - physics
+  - name: Box3D
+    url: https://github.com/erincatto/box3d
+    description: C17 3D rigid-body physics engine from the Box2D author with continuous collision, a multithreaded SIMD solver and cross-platform determinism.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      skill:
+        - advanced
+      tech:
+        - physics
+        - real-time
+    readme_tags:
+      - C17
+      - Deterministic
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.675Z'
+  - name: NVIDIA PhysX
+    url: https://github.com/NVIDIA-Omniverse/PhysX
+    description: NVIDIA's open-source real-time physics SDK, shipped with the Blast destruction and Flow fluid and fire SDKs.
+    pricing: Free (BSD-3)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - physics
+        - gpu
+        - real-time
+    readme_tags:
+      - Destruction
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.724Z'
+  - name: Bullet Physics
+    url: https://github.com/bulletphysics/bullet3
+    description: C++ real-time collision detection and multiphysics SDK with PyBullet bindings, used in games, VFX and robotics.
+    pricing: Free (zlib)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - physics
+        - real-time
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.725Z'
+  - name: BEPUphysics v2
+    url: https://github.com/bepu/bepuphysics2
+    description: Pure C# 3D real-time physics library targeting .NET 8.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - physics
+        - real-time
+    readme_tags:
+      - C#
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.726Z'
+  - name: Avian
+    url: https://github.com/avianphysics/avian
+    description: ECS-driven 2D and 3D physics engine for the Bevy game engine.
+    pricing: Free (MIT/Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - physics
+    readme_tags:
+      - Bevy
+      - Rust
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.727Z'
+  - name: Havok Physics
+    url: https://www.havok.com/havok-physics/
+    description: Commercial rigid-body physics SDK with ragdolls, character controllers and deterministic results; offers a drop-in Unreal plugin and a Babylon.js build.
+    license: Paid
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - physics
+        - unreal-plugin
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.728Z'
+  - name: ReactPhysics3D
+    url: https://github.com/DanielChappuis/reactphysics3d
+    description: Open-source C++ 3D physics engine library for simulations and games.
+    pricing: Free (zlib)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - physics
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.729Z'
+  - name: Matter.js
+    url: https://brm.io/matter-js/
+    description: 2D rigid-body physics engine for JavaScript with compound bodies, constraints, sleeping and static bodies.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - physics
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.730Z'

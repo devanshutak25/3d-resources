@@ -24,3 +24,53 @@ entries:
       - Free + Paid
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Hipflask
+    url: https://www.hipflask.how/
+    description: Structured Houdini courses by Fraser Shiers, from a free Core Essentials collection to paid Geometry Essentials modules.
+    pricing: Free core course; modules $59.99 to $99.99
+    license: Freemium
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+        - fx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - houdini
+        - procedural
+    readme_tags:
+      - Houdini Courses
+      - Free Intro
+    dual_listed_in:
+      - modeling-sculpting-texturing/houdini-getting-started
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.555Z'
+  - name: VFX Campus (The VFX School)
+    url: https://thevfxschool.com/
+    description: Closed online VFX school whose Houdini FX course library is free to stream or torrent with no account until 2027-03-01.
+    pricing: Free until 2027-03-01
+    license: Free
+    entry_type: tutorial
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - houdini
+    readme_tags:
+      - Houdini FX
+      - Free Archive
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.556Z'

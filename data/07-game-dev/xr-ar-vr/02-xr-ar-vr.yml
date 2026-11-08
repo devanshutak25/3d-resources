@@ -1,0 +1,188 @@
+entries:
+  - name: Meta XR Operator
+    url: https://developers.meta.com/horizon/documentation/unity/meta-xr-operator/
+    description: Experimental OpenXR API layer in the Meta XR Core SDK that lets MCP-compatible AI agents launch, screenshot, drive and test Unity VR apps in the XR Simulator or on Quest.
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+        - vr
+      skill:
+        - advanced
+      tech:
+        - xr
+        - mcp
+        - unity
+    readme_tags:
+      - AI Testing
+      - MCP
+    year: 2026
+    added_at: '2026-11-08T19:03:24.786Z'
+  - name: Meta XR Simulator
+    url: https://developers.meta.com/horizon/documentation/unity/xrsim-intro/
+    description: Desktop OpenXR runtime that simulates Quest headsets with synthetic rooms, passthrough and scene data, multiplayer clients and session record/replay, so apps run without a headset.
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - Quest
+      - Simulator
+    added_at: '2026-11-08T19:03:24.787Z'
+  - name: Meta XR All-in-One SDK (Unity)
+    url: https://developers.meta.com/horizon/documentation/unity/unity-package-manager/
+    description: Bundled Unity packages from Meta for Quest VR and MR development, replacing the deprecated Oculus Integration and including the Mixed Reality Utility Kit.
+    entry_type: plugin
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - unity
+        - unity-plugin
+    readme_tags:
+      - Quest
+      - Unity
+    dual_listed_in:
+      - game-development/unity-engine-resources
+    added_at: '2026-11-08T19:03:24.788Z'
+  - name: NorthStar (Meta Unity Showcase)
+    url: https://github.com/oculus-samples/Unity-NorthStar
+    description: MIT-licensed Quest VR showcase project in Unity 6 with an ocean system, rope physics, time-of-day lighting, Application Spacewarp URP fork, and hand and body tracking.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: reference
+    tags:
+      workflow:
+        - rendering
+        - simulation
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - android
+        - vr
+      skill:
+        - advanced
+      tech:
+        - xr
+        - unity
+        - real-time
+    readme_tags:
+      - Sample Project
+      - Quest
+    dual_listed_in:
+      - game-development/unity-engine-resources
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.789Z'
+  - name: Spectacles Developers (Snap)
+    url: https://developers.snap.com/spectacles/home
+    description: 'Snap''s developer hub for Spectacles AR glasses: Lens Studio, Spectacles Interaction Kit, UI and Sync kits, WebXR support, samples and design guides.'
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - xr
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - AR Glasses
+      - Lens Studio
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.790Z'
+  - name: MindAR
+    url: https://github.com/hiukim/mind-ar-js
+    description: MIT-licensed JavaScript web AR library for image and face tracking, with A-Frame and three.js integrations.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - WebAR
+      - Face Tracking
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.794Z'
+  - name: Niantic Spatial SDK
+    url: https://www.nianticspatial.com/
+    description: Developer platform for vision-based positioning (VPS) and reconstructing real places from phone, 360, LiDAR and drone captures; team and enterprise plans.
+    license: Paid
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - ios
+        - android
+      skill:
+        - advanced
+      tech:
+        - xr
+        - gaussian-splatting
+    readme_tags:
+      - VPS
+      - Geospatial AR
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.795Z'
+  - name: Mattercraft (Zappar)
+    url: https://zap.works/mattercraft/
+    description: Browser-based visual editor built on three.js for world, face and image-tracked WebAR, WebXR headset scenes and 3D websites, with one-click Zapworks hosting.
+    pricing: Free trial; paid plans
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - xr
+        - motion-graphics
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - xr
+        - glb
+    readme_tags:
+      - WebAR
+      - No-Code
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.796Z'

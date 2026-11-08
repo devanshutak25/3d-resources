@@ -75,3 +75,302 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: unreachable
     deprecated: true
+  - name: P-H3-Image (Pruna)
+    url: https://huggingface.co/PrunaAI/P-H3-Image
+    description: Text-to-image and editing model built on MiniMax H3 that renders 8 MP images in 8 steps and edits with up to 8 input images; ComfyUI files fit 21 GB VRAM.
+    pricing: Free weights (MiniMax H3 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - linux
+        - win
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Image
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.390Z'
+  - name: FLUX 3 Image Klein
+    url: https://huggingface.co/black-forest-labs/flux-3-image-klein
+    description: 5.6B open-weights image model from Black Forest Labs for text-to-image and instruction editing with up to 10 references, bounding-box layout and native 4K.
+    pricing: Free weights (FLUX Kommunity License; commercial output under $5M revenue)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Image
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.391Z'
+  - name: Qwen-Image 2.1
+    url: https://huggingface.co/Qwen/Qwen-Image-2.1
+    description: Open-weights text-to-image and image editing model with a 7B generator and native transparent (RGBA) output; runs in ComfyUI.
+    pricing: Free for research (Qwen Research License)
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Image
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.392Z'
+  - name: MOSS-Image
+    url: https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base
+    description: Apache 2.0 text-to-image model family (Base and SFT) from OpenMOSS that takes natural-language prompts, tag lists or JSON layouts for text and object placement.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Image
+      - Apache 2.0
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.393Z'
+  - name: Krea 2
+    url: https://huggingface.co/krea/Krea-2-Raw
+    description: 12B open-weights text-to-image diffusion transformer from Krea, released as a Raw base checkpoint for fine-tuning and a distilled Turbo checkpoint.
+    pricing: Free weights (Krea 2 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Image
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.394Z'
+  - name: FIBO 2.0 (Bria)
+    url: https://huggingface.co/briaai/Fibo-2.0-dev
+    description: 8B text-to-image and editing model trained only on licensed data, driven by structured JSON prompts for lighting, camera and composition.
+    pricing: Free weights (CC BY-NC 4.0); commercial via Bria
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - product-viz
+        - generalist
+      platform:
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Licensed Data
+      - Text-to-Image
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.421Z'
+  - name: Fooocus
+    url: https://github.com/lllyasviel/Fooocus
+    description: Offline SDXL image generator with a Midjourney-style prompt-first interface, inpainting and image prompts; now in bug-fix-only LTS.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+        - mac
+      skill:
+        - beginner
+      tech:
+        - ai-generative
+    readme_tags:
+      - SDXL
+      - Local AI
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.423Z'
+  - name: Stable Diffusion WebUI Forge
+    url: https://github.com/lllyasviel/stable-diffusion-webui-forge
+    description: Fork of the AUTOMATIC1111 web UI with faster memory handling and support for newer models such as FLUX.
+    pricing: Free (AGPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Web UI
+      - Local AI
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.424Z'
+  - name: SwarmUI
+    url: https://github.com/mcmonkeyprojects/SwarmUI
+    description: Modular image and video generation web UI that runs ComfyUI as its backend, with a simple generate tab plus full access to node workflows.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Web UI
+      - ComfyUI Backend
+    dual_listed_in:
+      - ai-ml-for-cg/comfyui-ecosystem
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.425Z'
+  - name: Stable Diffusion WebUI (AUTOMATIC1111)
+    url: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+    description: Original browser UI for Stable Diffusion with txt2img, img2img, inpainting and a large extension ecosystem; runs on 4 GB+ GPUs.
+    pricing: Free (AGPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - linux
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Web UI
+      - Stable Diffusion
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.426Z'
+  - name: DiT360 (Insta360)
+    url: https://github.com/Insta360-Research-Team/DiT360
+    description: Panoramic image generator trained on perspective and 360 data that outputs high-resolution equirectangular images with clean seams, usable as environment maps.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+        - concept
+      output:
+        - xr
+        - archviz
+        - games
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - 360 Panorama
+    dual_listed_in:
+      - ai-ml-for-cg/texture-material-generation
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.451Z'

@@ -393,8 +393,8 @@ entries:
     url: https://www.reallusion.com/iclone/
     added_at: '2026-05-05T11:50:37.000Z'
     description: Real-time character animation and cinematic creation; pairs with Character Creator.
-    pricing: $59/mo or $199/yr (perpetual $599)
-    license: Paid
+    pricing: Free Personal tier; $59/mo, $199/yr or $599 perpetual
+    license: Freemium
     entry_type: software
     best_for: Real-time previs, indie cinematics
     tags:
@@ -938,3 +938,58 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.617Z'
+  - name: Silo
+    url: https://nevercenter.com/silo/
+    description: Polygon and subdivision modeler with live LSCM UV unwrapping, a topology brush and GoZ link; ships with the Unreal-based Milo renderer.
+    pricing: $159 perpetual (1 yr updates)
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - retopo
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - perpetual
+    readme_tags:
+      - Poly Modeling
+    dual_listed_in:
+      - software-reference/retopo-uv-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.614Z'
+  - name: ArcGIS CityEngine
+    url: https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview
+    description: Esri's rule-based procedural city generator for urban planning, VFX and games; builds cities from GIS or synthetic data and exports FBX, Alembic and USD.
+    pricing: Via ArcGIS Professional, from $2,200/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - film-vfx
+        - games
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - procedural
+        - usd
+        - subscription
+    readme_tags:
+      - Procedural Cities
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.653Z'

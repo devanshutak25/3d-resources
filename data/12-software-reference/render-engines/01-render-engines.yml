@@ -861,3 +861,141 @@ entries:
       - Paid
       - SketchUp
     best_for: Archviz rendering
+  - name: Maverick Render
+    url: https://maverickrender.com/
+    description: CUDA GPU renderer for product visualization; Studio imports CAD and 3D models for drag-and-drop materials, lights and turntables, Indie targets Substance/ZBrush artists.
+    pricing: 30-day trial
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - product-viz
+        - automotive
+      skill:
+        - beginner
+      tech:
+        - gpu
+        - path-tracing
+    readme_tags:
+      - Product Viz
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.620Z'
+  - name: Felix Render
+    url: https://www.felixrender.com/home
+    description: Cloud real-time ray-traced rendering service for architects and designers, working on heavy scenes from any laptop browser.
+    pricing: Free tier; Pro €30/mo
+    license: Freemium
+    entry_type: service
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+      platform:
+        - web
+        - cloud
+      skill:
+        - beginner
+      tech:
+        - ray-tracing
+        - cloud-render
+        - real-time
+    readme_tags:
+      - Cloud Archviz
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.621Z'
+  - name: Typhoon (OpenUSD reference renderer)
+    url: https://github.com/NVIDIA-Omniverse/OpenUSD/tree/typhoon/main
+    description: NVIDIA's proposed OpenUSD reference path tracer, built on the hdEmbree Hydra delegate, giving a spec-faithful baseline for validating USD lighting and materials.
+    pricing: Free
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - usd
+        - path-tracing
+        - offline
+    readme_tags:
+      - Hydra
+      - Reference
+    dual_listed_in:
+      - tools-pipeline-utilities/usd
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.646Z'
+  - name: Gatling
+    url: https://github.com/pablode/gatling
+    description: Vulkan GPU path tracer exposed as an OpenUSD Hydra render delegate, supporting MaterialX, MDL, UsdPreviewSurface and OpenPBR, with a headless USD renderer.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - usd
+        - gpu
+        - path-tracing
+    readme_tags:
+      - Hydra
+      - MaterialX
+    dual_listed_in:
+      - tools-pipeline-utilities/usd
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.655Z'
+  - name: Flair (Artineering)
+    url: https://artineering.io/software/flair
+    description: Real-time stylized NPR renderer for Maya 2023-2027 for art-directing watercolor, toon and painterly looks, rendering AOVs and EXRs for compositing; Unreal version coming.
+    pricing: Free (1280x800, watermark); Indie/Studio subscription or perpetual
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+        - look-dev
+      output:
+        - film-vfx
+        - illustration
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - maya
+        - real-time
+        - gpu
+    readme_tags:
+      - NPR
+      - Stylized
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.666Z'

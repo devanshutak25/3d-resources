@@ -294,3 +294,192 @@ entries:
         - web
       tech:
         - houdini
+  - name: Konstantin Magnus (Patreon)
+    url: https://www.patreon.com/konstantinmagnus
+    description: Patreon with 250+ Houdini learning resources and project files on procedural modeling.
+    pricing: From EUR 5/mo
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - houdini
+        - procedural
+    readme_tags:
+      - Houdini
+      - Project Files
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.573Z'
+  - name: SouthernShotty (Patreon)
+    url: https://www.patreon.com/southernshotty
+    description: Patreon of a professional motion designer with Blender tutorial extras and project files.
+    pricing: From $2/mo
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - rigging
+        - animation
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Blender
+      - Rigs
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.574Z'
+  - name: Smeaf (Patreon)
+    url: https://www.patreon.com/smeaf
+    description: Patreon tied to the Smeaf channel with Blender animation extras and tutorial files.
+    pricing: From A$4.50/mo
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - animation
+        - simulation
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Blender
+      - Project Files
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.575Z'
+  - name: Ian Hubert (Patreon)
+    url: https://www.patreon.com/IanHubert
+    description: Patreon of the filmmaker and VFX artist behind Lazy Tutorials, with Blender VFX extras and behind-the-scenes posts.
+    pricing: From $3/mo
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - compositing
+        - modeling
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Blender VFX
+      - Project Files
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.576Z'
+  - name: Polyfjord (Patreon)
+    url: https://www.patreon.com/polyfjord
+    description: Patreon tied to the Polyfjord channel with tutorial extras and digital art.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Blender
+      - Project Files
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.577Z'
+  - name: Ryan King Art (Patreon)
+    url: https://www.patreon.com/ryankingart
+    description: Patreon with Blender tutorials, materials, geometry nodes setups and 3D model downloads.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - material-authoring
+        - modeling
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - node-based
+    readme_tags:
+      - Blender
+      - Materials
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.578Z'
+  - name: Joey Carlino (Patreon)
+    url: https://www.patreon.com/joeycarlino
+    description: Patreon tied to Joey Carlino's channel with Blender tutorial extras and animation work.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - node-based
+        - procedural
+    readme_tags:
+      - Geometry Nodes
+      - Project Files
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.579Z'
+  - name: erindale.xyz (Patreon)
+    url: https://www.patreon.com/erindale
+    description: Patreon with Blender tutorials and geometry nodes content from erindale.xyz.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - node-based
+        - procedural
+    readme_tags:
+      - Geometry Nodes
+      - Blender
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.580Z'
+  - name: Product Design Online (Patreon)
+    url: https://www.patreon.com/productdesignonline
+    description: Kevin Kennedy's Patreon with Autodesk Fusion tutorial files and extras for hobbyists.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Fusion
+      - Project Files
+    dual_listed_in:
+      - modeling-sculpting-texturing/fusion-360-learning
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.581Z'

@@ -83,3 +83,43 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.394Z'
+  - name: Envato Free Files
+    url: https://elements.envato.com/free
+    description: Free pick of 12 hand-selected Envato Elements files spanning stock video, video templates, music, fonts and graphics.
+    pricing: Free
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Free Picks
+      - Stock Media
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.592Z'
+  - name: GameFromScratch Free Asset Round-Ups
+    url: https://gamefromscratch.com/
+    description: Game-dev news site that posts recurring round-ups of free Fab, Unity Asset Store and bundle-store asset giveaways with claim windows.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unreal
+        - unity
+    readme_tags:
+      - Giveaway Tracker
+      - Game Dev News
+    dual_listed_in:
+      - game-development/game-dev-communities
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.593Z'

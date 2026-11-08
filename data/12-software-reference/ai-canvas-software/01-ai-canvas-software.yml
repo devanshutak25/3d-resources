@@ -19,10 +19,10 @@ entries:
       - Multi-model
     url_last_verified: '2026-11-01'
     url_status: ok
-  - name: Weavy
-    url: https://weavy.ai/
+  - name: Figma Weave
+    url: https://weave.figma.com/
     added_at: '2026-06-14T22:09:48.000Z'
-    description: Node canvas with pro editing for compositing, matte, and relighting. Acquired by Figma.
+    description: Node canvas with pro editing for compositing, matte, and relighting. Formerly Weavy, now part of Figma.
     license: Freemium
     entry_type: software
     best_for: Node canvas plus editing
@@ -37,8 +37,6 @@ entries:
     readme_tags:
       - Node Canvas
       - Pro Editing
-    url_last_verified: '2026-11-01'
-    url_status: redirect
     notes: Domain no longer resolves.
     deprecated: true
   - name: Higgsfield Canvas
@@ -188,3 +186,30 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.306Z'
+  - name: Fuser
+    url: https://fuser.studio/
+    description: Web node canvas that chains 300+ image, video, audio and 3D models plus LLMs into reusable recipes and apps, with multiplayer editing for studio teams.
+    pricing: Free tier (1K images, 720p video); from $5/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+        - storyboard
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - node-based
+        - collaborative
+    readme_tags:
+      - Node Canvas
+      - Multi-Model
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.444Z'

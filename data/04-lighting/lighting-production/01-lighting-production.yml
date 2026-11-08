@@ -32,3 +32,26 @@ entries:
         - lighting
       platform:
         - web
+  - name: Open Light
+    url: https://www.borjarama.com/tools
+    description: Standalone app that generates procedural 32-bit HDR light textures (softboxes, Kino Flos, gobos, Lee/Rosco gels) and exports EXR in ACEScg or sRGB Linear.
+    pricing: Free (beta)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - lighting
+      output:
+        - film-vfx
+        - product-viz
+      platform:
+        - win
+      tech:
+        - procedural
+    readme_tags:
+      - HDR Light Textures
+      - ACEScg
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.878Z'

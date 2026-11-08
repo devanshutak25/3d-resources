@@ -25,10 +25,10 @@ entries:
       - Full Post Pipeline
     url_last_verified: '2026-11-01'
     url_status: ok
-  - name: Premiere Pro
+  - name: Adobe Premiere
     url: https://www.adobe.com/products/premiere.html
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Industry-standard NLE from Adobe.
+    description: Industry-standard NLE from Adobe. Called Premiere Pro until 2026.
     license: Paid
     entry_type: software
     best_for: Broadcast, film editing
@@ -332,7 +332,7 @@ entries:
   - name: HitFilm
     url: https://fxhome.com/product/hitfilm
     added_at: '2026-05-22T16:39:01.000Z'
-    description: Artlist-owned editor + VFX combo. Free tier plus Pro paid version.
+    description: Artlist-owned editor + VFX combo. Discontinued in Feb 2025.
     pricing: Free / $7.99/mo Pro
     license: Freemium
     entry_type: software
@@ -1032,3 +1032,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.471Z'
+  - name: ARRI Film Lab
+    url: https://revisionfx.com/products/arrifilmlab/
+    description: OFX plugin from ARRI and RE:Vision Effects that emulates film grain, halation, colour response and gate weave (8 to 65 mm) on any camera's footage in LogC or ACES pipelines.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - color-grading
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+    readme_tags:
+      - Film Emulation
+      - OFX
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.922Z'

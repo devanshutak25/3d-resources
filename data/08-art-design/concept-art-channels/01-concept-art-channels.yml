@@ -83,3 +83,158 @@ entries:
         - web
       tech:
         - opensource-alt
+  - name: FZDSCHOOL (Feng Zhu)
+    url: https://www.youtube.com/@FZDSCHOOL
+    description: Feng Zhu's YouTube channel of concept design tutorials and industry talks for game and film artists.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Concept Design
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.483Z'
+  - name: Ahmed Aldoori
+    url: https://www.youtube.com/@AhmedAldoori
+    description: Concept artist's YouTube channel of digital painting tutorials, process videos and sketchbook breakdowns.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.484Z'
+  - name: Scott Robertson
+    url: https://www.youtube.com/@ScottRobertsonDesign
+    description: Lectures and tutorials on perspective, industrial design sketching and rendering from the author of How to Draw and How to Render.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - product-viz
+        - automotive
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Perspective
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.485Z'
+  - name: James Gurney
+    url: https://www.youtube.com/@JamesGurney
+    description: Dinotopia creator's channel of practical drawing and painting tips and techniques.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.486Z'
+  - name: Sycra
+    url: https://www.youtube.com/@sycra
+    description: Art education channel with drawing and painting lessons, studies and critiques.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.487Z'
+  - name: Kienan Lafferty
+    url: https://www.youtube.com/@KienanLafferty
+    description: Weekly art tutorials, from beginner fundamentals to professional tips and tricks.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.488Z'
+  - name: Aaron Rutten
+    url: https://www.youtube.com/@AaronRutten
+    description: Digital art channel with drawing tablet and pen display reviews, painting software tutorials and workflow advice.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Tablet Reviews
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.489Z'
+  - name: Draw like a Sir
+    url: https://www.youtube.com/@DrawlikeaSir
+    description: Drawing tutorial channel aimed at beginners and hobbyists, with lessons on fundamentals and drawing tools.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.490Z'

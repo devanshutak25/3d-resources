@@ -246,7 +246,7 @@ entries:
   - name: Quixel Megascans
     url: https://quixel.com/megascans/home
     added_at: '2026-04-19T17:15:03.000Z'
-    description: World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).
+    description: Photogrammetry library of 23,000+ scanned 3D assets, surfaces and plants, free on Fab since Nov 2026.
     license: Free
     entry_type: software
     best_for: Photogrammetry asset library
@@ -262,6 +262,7 @@ entries:
       - Epic Games
     dual_listed_in:
       - tools-pipeline-utilities/photogrammetry-scanning
+    pricing: Free on Fab
   - name: 3DF Zephyr Free
     url: https://www.3dflow.net/3df-zephyr-free/
     added_at: '2026-04-19T17:15:03.000Z'
@@ -367,3 +368,171 @@ entries:
       - Paid
       - Drone
     best_for: Drone survey reconstruction
+  - name: Spirula Studio
+    url: https://github.com/harry7557558/spirula-studio
+    description: Single-binary 3D Gaussian Splatting trainer that goes from photos or video to splats and textured meshes, with built-in SfM and 360 camera support on any Vulkan GPU.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - gpu
+        - opensource-alt
+    readme_tags:
+      - Vulkan
+      - Open Source
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.798Z'
+  - name: CorbeauSplat
+    url: https://github.com/freddewitt/CorbeauSplat
+    description: Apple Silicon macOS app that automates the splat pipeline from video or photos through alignment, training and viewing in one GUI.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - mac
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    readme_tags:
+      - macOS
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.803Z'
+  - name: 360 Gaussian Pro
+    url: https://www.360gaussianpro.com/
+    description: Windows app that turns Insta360, DJI Osmo 360 and flat footage into Postshot and 3DGS-ready reconstructions, with masking and no command line; free 14-frame trial.
+    pricing: €149 perpetual; €89/yr
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - perpetual
+    readme_tags:
+      - 360 Video
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.813Z'
+  - name: LuluSplat
+    url: https://liquiduslabs.com/lulusplat/
+    description: On-device app that turns photos, video, 360 clips and lidar scans into Gaussian splats on Mac (Metal), Windows and Linux (Vulkan); no account or uploads.
+    pricing: Free (direct download); paid via app stores
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - mac
+        - win
+        - linux
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+    readme_tags:
+      - On-Device
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.819Z'
+  - name: Artec Twins
+    url: https://www.artec3d.com/3d-software/artec-twins
+    description: 'Windows 11 software for large-scale scan data: billion-point datasets, multi-source fusion, geometry-first reconstruction and Gaussian splat output.'
+    pricing: Annual subscription
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - archviz
+        - film-vfx
+      platform:
+        - win
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - subscription
+    readme_tags:
+      - Lidar
+      - 3DGS
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.866Z'
+  - name: SpAItial (Echo-3)
+    url: https://spaitial.ai/
+    description: iOS capture app running the Echo-3 world model, which turns phone scans into real-scale 3D Gaussian splat environments with clean geometry.
+    pricing: Subscription; first month free
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - archviz
+        - generalist
+      platform:
+        - ios
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - iPhone Capture
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.867Z'

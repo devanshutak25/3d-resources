@@ -174,3 +174,126 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.651Z'
+  - name: htn_planner
+    url: https://github.com/urosidoki/htn_planner
+    description: Ahead-of-time compiled HTN planner and C++ SDK for game AI from an ex-Guerrilla developer, with a domain language, editor, language server and hot reload.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+    readme_tags:
+      - Game AI
+      - HTN
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.687Z'
+  - name: Terrain Studio (ProceduralTerrains)
+    url: https://github.com/ZyFou/ProceduralTerrains
+    description: Browser terrain generator on Three.js with tile, infinite and planet modes; exports GLB/OBJ meshes, height and splat maps, and Unity, Unreal and Godot presets.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - procedural
+        - glb
+    readme_tags:
+      - Terrain
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.697Z'
+  - name: Game AI Pro
+    url: https://www.gameaipro.com/
+    description: 'Book series on game AI techniques with every chapter free as PDF: behavior trees, utility AI, pathfinding and tactics.'
+    pricing: Free
+    license: Free
+    entry_type: book
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - advanced
+    readme_tags:
+      - Game AI
+    dual_listed_in:
+      - game-development/game-design-theory
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.732Z'
+  - name: Recast & Detour
+    url: https://github.com/recastnavigation/recastnavigation
+    description: 'Navigation-mesh toolset for games: Recast builds navmeshes, Detour runs pathfinding queries and DetourCrowd handles agent avoidance and crowds.'
+    pricing: Free (zlib)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    readme_tags:
+      - Navmesh
+      - Pathfinding
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.738Z'
+  - name: DeBroglie
+    url: https://github.com/BorisTheBrave/DeBroglie
+    description: C# Wave Function Collapse library with backtracking, non-local constraints, and 2D, hex and 3D voxel tile support.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - procedural
+    readme_tags:
+      - WFC
+      - C#
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.739Z'
+  - name: Gaea (Godot)
+    url: https://github.com/gaea-godot/gaea
+    description: Node-graph procedural generation add-on for Godot 4 that builds 2D and 3D worlds from chained, customizable generator nodes.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - procedural
+        - node-based
+        - godot
+    readme_tags:
+      - Procgen
+    dual_listed_in:
+      - game-development/godot-plugins
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.740Z'

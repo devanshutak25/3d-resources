@@ -99,3 +99,79 @@ entries:
       - Pipeline
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Cartoon Brew
+    url: https://www.cartoonbrew.com/
+    description: Animation industry news site covering features, TV, shorts, VFX, tools, business and anime, with a free twice-weekly newsletter.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Animation News
+    dual_listed_in:
+      - art-design-visual-storytelling/animation-principles
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.526Z'
+  - name: GDC State of the Game Industry 2026
+    url: https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/
+    description: Annual GDC survey report of 2,300+ game developers on layoffs, generative AI use, unionization and platform priorities; free download behind a form.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Industry Report
+      - Survey
+    dual_listed_in:
+      - learning-community-industry/salary-career-data
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.539Z'
+  - name: Game Industry Library
+    url: https://gameindustrylibrary.com/
+    description: Searchable archive of games-industry reports, market data, earnings filings and conference decks, with source links for cited numbers.
+    pricing: Free to read; some premium items
+    license: Freemium
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Industry Reports
+      - Market Data
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.540Z'
+  - name: XDS Insights Report 2026
+    url: https://xdsummit.com/xds-insights-report-download/
+    description: Free report from the External Development Summit on game co-development and outsourcing practices, based on 250+ professionals; 10 languages.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Industry Report
+      - Outsourcing
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.601Z'

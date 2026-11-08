@@ -173,11 +173,11 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
-  - name: LTX-2 (Lightricks)
-    url: https://github.com/Lightricks/LTX-Video
+  - name: LTX-2.5 (Lightricks)
+    url: https://github.com/Lightricks/LTX-2
     added_at: '2026-04-16T19:59:30.000Z'
     description: Fast open video model. LTX-2 Fast ranks top-3 in the arena.
-    license: Open Source
+    license: Free
     entry_type: software
     best_for: Fast open-source video gen
     tags:
@@ -191,10 +191,9 @@ entries:
     readme_tags:
       - Open Source
       - Fast
-    url_last_verified: '2026-11-01'
-    url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
+    pricing: Free weights (LTX-2.x Community License; paid above $10M revenue)
   - name: Vidu
     url: https://www.vidu.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -293,7 +292,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/video-generation
-  - name: Seedance 2.0 (ByteDance)
+  - name: Seedance 2.5 (ByteDance)
     url: https://seed.bytedance.com/
     added_at: '2026-06-14T22:09:48.000Z'
     description: High raw quality video gen with audio. Tops the Artificial Analysis ranking.
@@ -725,3 +724,34 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-05'
     pricing_last_verified: '2026-11-05'
+  - name: MiniMax H3
+    url: https://huggingface.co/MiniMaxAI/MiniMax-H3
+    description: Open-weights omni-modal model that generates 4 to 15 s video with 32 kHz stereo audio from text, image, video and audio references; 768p native, 2K via refiner pass.
+    pricing: Free weights (MiniMax H3 Community License; excludes EU, UK, US, Korea)
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - concept
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+        - cloud
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Text-to-Video
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.384Z'

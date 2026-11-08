@@ -40,3 +40,53 @@ entries:
       - Structured Courses
     url_last_verified: '2026-11-01'
     url_status: redirect
+  - name: Noseman (Athanasios Pozantzis)
+    url: https://www.youtube.com/@noseman
+    description: Cinema 4D tips on MoGraph, Scene Nodes and advanced distributions.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - animation
+        - modeling
+      output:
+        - motion-graphics
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - cinema-4d
+        - node-based
+    readme_tags:
+      - Scene Nodes
+      - MoGraph
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.571Z'
+  - name: Rocket Lasso (YouTube)
+    url: https://www.youtube.com/@RocketLasso
+    description: Cinema 4D channel with Rocket Lasso Live problem-solving streams and release feature breakdowns.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - animation
+        - fx
+      output:
+        - motion-graphics
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Livestreams
+      - C4D
+    dual_listed_in:
+      - learning-community-industry/youtube-motion-c4d
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.572Z'

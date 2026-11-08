@@ -299,3 +299,58 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.342Z'
+  - name: Reallusion AI Studio
+    url: https://ai.reallusion.com/ai-studio/
+    description: Windows app that renders AI images and video guided by iClone and Character Creator scenes, with motion control, camera previs, consistent AI actors and lip sync.
+    pricing: Free app with starter AI points; AI Plan subscription
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - rendering
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - 3D-Guided AI
+      - Previs
+    dual_listed_in:
+      - ai-ml-for-cg/video-generation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.456Z'
+  - name: Griptape (Foundry)
+    url: https://www.foundry.com/products/griptape
+    description: Node-based AI workflow platform from Foundry that chains image and video models; drives AI steps inside Nuke 18 via a Griptape node and links to DCCs over MCP.
+    pricing: Free non-commercial; Pro $40/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+      tech:
+        - node-based
+        - ai-generative
+        - mcp
+    readme_tags:
+      - AI Workflows
+    dual_listed_in:
+      - vfx-compositing-virtual-production/tech-art
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.883Z'

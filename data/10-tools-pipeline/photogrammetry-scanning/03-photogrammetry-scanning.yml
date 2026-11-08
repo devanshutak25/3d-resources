@@ -556,3 +556,220 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.587Z'
+  - name: Shining 3D EinScan
+    url: https://www.einscan.com/
+    description: Handheld and desktop structured-light and laser 3D scanners (Rigil, Libre, H2, SP V2) with EXScan capture and EXModel reverse-engineering software.
+    pricing: Quote on request
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - product-viz
+        - games
+        - film-vfx
+      skill:
+        - intermediate
+      tech:
+        - photogrammetry
+    readme_tags:
+      - 3D Scanner
+      - Structured Light
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.767Z'
+  - name: Einstar
+    url: https://www.einstar.com/
+    description: Entry-level 3D scanners from Shining 3D (Einstar 2, Vega, Rockit, EZ GO mobile); EXStar Hub 2.0 adds 3D Gaussian Splatting output.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - product-viz
+        - games
+        - generalist
+      skill:
+        - beginner
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - 3D Scanner
+      - Budget
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.768Z'
+  - name: XGRIDS Lixel
+    url: https://www.xgrids.com/
+    description: Handheld LiDAR spatial scanners (Lixel L3, L2 Pro, K2, K1) and PortalCam that output point clouds, meshes and Gaussian splats in one pass; LCC plugin for Unreal.
+    pricing: Quote on request
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - reference
+        - modeling
+      output:
+        - archviz
+        - film-vfx
+        - games
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+    readme_tags:
+      - LiDAR
+      - Gaussian Splats
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.769Z'
+  - name: OpenScan
+    url: https://www.openscan.eu/
+    description: Open-source DIY photogrammetry scanner kits (Mini, Classic) using Pi cameras or DSLRs, with a free OpenScan Cloud processing pipeline.
+    pricing: Kits from €232
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - product-viz
+        - generalist
+      skill:
+        - intermediate
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Open Source
+      - DIY
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.770Z'
+  - name: Creality 3D Scanners
+    url: https://store.creality.com/collections/scanners
+    description: Consumer and prosumer handheld scanners, from CR-Scan Ferret Pro and Otter to Raptor and the blue-laser Sermoon P1S and X1.
+    pricing: ~$359 to $5,999
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - product-viz
+        - generalist
+      skill:
+        - beginner
+      tech:
+        - photogrammetry
+    readme_tags:
+      - 3D Scanner
+      - Budget
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.792Z'
+  - name: Clear Angle Studios
+    url: https://www.clearanglestudios.co.uk/
+    description: 'VFX scanning service: 204-camera body rigs, photometric head and FACS scans, 4D capture, LiDAR sets and props; now owns DI4D tracking tech as TopoTrack.'
+    license: Paid
+    entry_type: service
+    tags:
+      workflow:
+        - reference
+        - modeling
+        - face-capture
+      output:
+        - film-vfx
+        - games
+      skill:
+        - advanced
+      tech:
+        - photogrammetry
+    readme_tags:
+      - Scanning Service
+      - LiDAR
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.793Z'
+  - name: ColmapView
+    url: https://colmapview.github.io/
+    description: 'Browser viewer for COLMAP reconstructions: drag and drop to inspect point clouds, camera frustums and image matches, align and scale scenes, export PLY.'
+    pricing: Free (AGPL-3.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - match-move
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - photogrammetry
+        - gaussian-splatting
+    readme_tags:
+      - COLMAP
+      - Browser
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.812Z'
+  - name: TOPODRONE Pocket 3D
+    url: https://topodrone.com/product/lidar/slamlidar/pocket-3d/
+    description: Handheld 700 g SLAM lidar scanner that outputs colored point clouds, panoramas and 3DGS models when paired with a 360 camera.
+    pricing: $1,999
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - reference
+        - modeling
+      output:
+        - archviz
+        - film-vfx
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Lidar Scanner
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.823Z'
+  - name: XGRIDS Lixel L3
+    url: https://www.xgrids.com/intl/lixell3
+    description: Handheld lidar scanner rated at 5 mm relative accuracy that captures point clouds, 3DGS and meshes for survey, digital twin and film work.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - reference
+        - modeling
+      output:
+        - archviz
+        - film-vfx
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Lidar Scanner
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.824Z'

@@ -244,3 +244,61 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.580Z'
+  - name: NKZ Retopia
+    url: https://superhivemarket.com/products/retopia
+    description: Blender 4.5+ retopology add-on for drawing quad grids, strips, contour rings and tubes directly over sculpts or scans, with a relax brush and sculpt-prep tools for AI meshes.
+    pricing: $29.99 (GPL-3.0 code)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - retopo
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - Retopo
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.663Z'
+  - name: Nitro Retopo
+    url: https://superhivemarket.com/products/nitro-retopo
+    description: Blender 5.2 add-on that splits, repairs and retopologizes dense sculpt, scan or AI meshes by drawing patches, then auto-unwraps the new mesh.
+    pricing: $25 (GPL)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - retopo
+        - uv
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - Retopo
+      - AI Mesh Cleanup
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.664Z'

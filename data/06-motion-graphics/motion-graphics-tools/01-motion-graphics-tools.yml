@@ -782,3 +782,199 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.522Z'
+  - name: DitherFactory
+    url: https://lacimatools.com/ditherfactory
+    description: After Effects effect with 27 dithering algorithms (error diffusion, Bayer, halftone) and keyframeable colour reduction, no Photoshop round trip.
+    pricing: $14.99 perpetual
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - After Effects
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.891Z'
+  - name: Expression Alchemist
+    url: https://www.expressionalchemist.com/
+    description: After Effects extension for building expressions as a node graph that compiles to native JavaScript expressions.
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      tech:
+        - node-based
+    readme_tags:
+      - Expressions
+    dual_listed_in:
+      - motion-graphics-video/after-effects-learning
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.894Z'
+  - name: Vizibeat
+    url: https://vizibeat.com/
+    description: Unreal Engine 5 plugin that drives lights, cameras, materials and particles from audio, MIDI, OSC or DMX through a procedural motion graph; aimed at concert and music-video visuals.
+    pricing: Free Lite tier (watermarked); paid seats
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - event-experiential
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - unreal-plugin
+        - real-time
+        - procedural
+    readme_tags:
+      - Audio-Reactive
+      - Unreal
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.903Z'
+  - name: Motion Dock (Motion Fun)
+    url: https://motionfun.net/motion-dock
+    description: Free After Effects panel that docks 28 Motion Fun tools (Petals, AEbar, Picky and 20 utilities for renaming, parenting, keyframes, counters and renders) in one layout.
+    pricing: Free
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+    readme_tags:
+      - After Effects
+      - Panel
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.911Z'
+  - name: Plainly
+    url: https://www.plainlyvideos.com/
+    description: 'Cloud service that turns After Effects templates into data-driven video: marks dynamic layers, pulls rows from CSV, API or integrations and renders variations in the cloud.'
+    pricing: Plans by render minutes; 14-day trial
+    license: Paid
+    entry_type: service
+    tags:
+      workflow:
+        - rendering
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+        - cloud
+      tech:
+        - subscription
+    readme_tags:
+      - Template Automation
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.912Z'
+  - name: Code Runner 2 (Jake In Motion)
+    url: https://www.jakeinmotion.com/code-runner
+    description: Free After Effects panel of custom buttons that run scripts, expressions, presets, menu commands and eases, organised in shareable collections.
+    pricing: Free (mailing-list download)
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - After Effects
+      - Panel
+    dual_listed_in:
+      - motion-graphics-video/after-effects-learning
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.913Z'
+  - name: MatterAE
+    url: https://www.matterae.com
+    description: 'Real-time 2D physics panel for After Effects: tweak gravity, bounce and weight during playback, add animated colliders, then bake to editable keyframes.'
+    pricing: Free Lite (3 s bake); Pro $35 one-time
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - simulation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - physics
+    readme_tags:
+      - After Effects
+      - Physics
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.914Z'
+  - name: VKO Shader (VKO1)
+    url: https://temperamento.net/vko1/VKO1-AfterEffects.html
+    description: Native After Effects effect with 91 GPU shaders, a thumbnail browser and custom GLSL support; parameters keyframe or react to comp audio and BPM.
+    pricing: From $54.99
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    readme_tags:
+      - After Effects
+      - GLSL
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.915Z'
+  - name: Citron (Animator NOW)
+    url: https://animatornow.com/citron/
+    description: 'Maya-style graph editor panel for After Effects: edit many property curves at once with tangent handles, lattice cage, speed graph and exact value entry.'
+    pricing: $69 perpetual
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - perpetual
+    readme_tags:
+      - After Effects
+      - Graph Editor
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.916Z'

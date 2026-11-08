@@ -518,3 +518,29 @@ entries:
       - Open Source
       - Rust
     best_for: Parametric parts with MCP automation
+  - name: IngeTrazo
+    url: https://ingetrazo.com/en/
+    description: Open-source push/pull 3D modeler for architecture and engineering, a SketchUp alternative with terrain import, scaled PDF sheets, DWG/SKP import and IFC export.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+        - mcp
+    readme_tags:
+      - SketchUp Alt
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.640Z'

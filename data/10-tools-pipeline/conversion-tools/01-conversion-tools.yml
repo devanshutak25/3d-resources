@@ -800,3 +800,23 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-07'
     added_at: '2026-11-07T09:03:11Z'
+  - name: FabRapid 3D
+    url: https://3d-tools.fabrapid.com/
+    description: Browser-based 3D converter, compressor and viewer that processes files locally; reads 71 formats including STEP, STL, FBX and GLB and exports 23.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - STEP to Mesh
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.612Z'

@@ -1,0 +1,101 @@
+entries:
+  - name: The Gnomon Workshop
+    url: https://www.thegnomonworkshop.com/
+    description: Subscription library of 350+ video workshops by industry artists on concept art, modeling, texturing, animation, FX and compositing.
+    pricing: $57/mo or $41.58/mo billed annually
+    license: Paid
+    entry_type: tutorial
+    tags:
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - subscription
+    readme_tags:
+      - Video Workshops
+      - Industry Pros
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.554Z'
+  - name: Coloso
+    url: https://coloso.global/en
+    description: Course marketplace with recorded classes on illustration, 3D, VFX, game art and animation; English, Korean and Japanese sites.
+    pricing: Per-course purchase
+    license: Paid
+    entry_type: tutorial
+    tags:
+      output:
+        - games
+        - illustration
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Artist Courses
+      - Multilingual
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.589Z'
+  - name: AnimSchool
+    url: https://animschool.edu/
+    description: Accredited online school with live classes in 3D character animation and a character program covering modeling and rigging.
+    pricing: Per-term tuition
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - animation
+        - rigging
+        - modeling
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - maya
+    readme_tags:
+      - Online School
+      - Character Animation
+    dual_listed_in:
+      - animation-rigging/animation-learning-channels
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.590Z'
+  - name: iAnimate
+    url: https://www.ianimate.net/
+    description: 'Online animation workshops in 11-week terms with live sessions: a 6-stage feature track and a games track with Unreal cinematics.'
+    pricing: From $999 per workshop
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+        - advanced
+    readme_tags:
+      - Animation Workshops
+      - Mentored
+    dual_listed_in:
+      - animation-rigging/animation-learning-channels
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.591Z'

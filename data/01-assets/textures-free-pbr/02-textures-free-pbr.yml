@@ -201,3 +201,23 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.329Z'
+  - name: SketchUp Texture Club
+    url: https://www.sketchuptextureclub.com/
+    description: Archviz library of free tileable textures, 3D models and material packs, with an optional supporter membership.
+    license: Freemium
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - Tileable Textures
+      - Archviz
+    dual_listed_in:
+      - assets-libraries/model-libraries-arch-furniture
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.604Z'

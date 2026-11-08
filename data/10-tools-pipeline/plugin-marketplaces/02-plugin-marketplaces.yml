@@ -14,3 +14,73 @@ entries:
         - web
       tech:
         - blender-addon
+  - name: MaxPkg
+    url: https://maxpkg.dev/
+    description: Free in-app package manager for 3ds Max 2022+ that finds, installs, updates and removes free and paid scripts from a curated catalog.
+    pricing: Free manager; packages vary
+    license: Free
+    entry_type: marketplace
+    tags:
+      output:
+        - generalist
+        - archviz
+      platform:
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - 3ds Max Scripts
+    dual_listed_in:
+      - modeling-sculpting-texturing/3ds-max-plugins
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.635Z'
+  - name: Max Teapot
+    url: https://maxteapot.com/
+    description: Independent curated catalog of about 590 3ds Max plugins and scripts with tags, compatibility notes and development status; developers can submit tools.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - generalist
+        - archviz
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Plugin Directory
+    dual_listed_in:
+      - modeling-sculpting-texturing/3ds-max-plugins
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.636Z'
+  - name: MotionVFX
+    url: https://www.motionvfx.com/
+    description: 'Plugin and template vendor mainly for Final Cut Pro (also Resolve, Premiere, After Effects): AI roto, 3D tracking, film looks, titles and transitions; joining Apple Creator Studio.'
+    pricing: Subscription; 14-day trial
+    license: Paid
+    entry_type: marketplace
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - mac
+        - win
+      tech:
+        - subscription
+    readme_tags:
+      - Final Cut Pro
+      - Templates
+    dual_listed_in:
+      - motion-graphics-video/after-effects-learning
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.897Z'

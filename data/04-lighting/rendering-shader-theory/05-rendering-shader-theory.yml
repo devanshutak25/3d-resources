@@ -472,3 +472,89 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.645Z'
+  - name: OpenPBR BSDF (Adobe)
+    url: https://github.com/adobe/openpbr-bsdf
+    description: Adobe's single-header reference implementation of the OpenPBR 1.1.1 BSDF from its Eclair renderer, with evaluate/sample/PDF code that targets C++, GLSL, CUDA, MSL or Slang.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - material-authoring
+      output:
+        - film-vfx
+        - games
+      skill:
+        - advanced
+      tech:
+        - pbr
+        - path-tracing
+    readme_tags:
+      - OpenPBR
+    dual_listed_in:
+      - tools-pipeline-utilities/pipeline-standards
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.645Z'
+  - name: Dr.Jit
+    url: https://github.com/mitsuba-renderer/drjit
+    description: Just-in-time compiler for ordinary and differentiable array code, built as the foundation of Mitsuba 3; emits fused CUDA, Metal or LLVM CPU kernels.
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - path-tracing
+    readme_tags:
+      - Differentiable Rendering
+      - Python
+    dual_listed_in:
+      - ai-ml-for-cg/ml-for-cg
+    year: 2022
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.856Z'
+  - name: Slang Shading Language
+    url: https://github.com/shader-slang/slang
+    description: Khronos-hosted shading language with modules, generics and automatic differentiation that compiles to D3D12, Vulkan, Metal and CUDA targets.
+    pricing: Free (Apache-2.0 with LLVM exception)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - material-authoring
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - real-time
+    readme_tags:
+      - Shaders
+      - Autodiff
+    dual_listed_in:
+      - ai-ml-for-cg/ml-for-cg
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.857Z'

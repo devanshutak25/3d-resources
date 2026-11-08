@@ -283,3 +283,78 @@ entries:
       - Print Canon
     url_last_verified: '2026-11-01'
     url_status: unreachable
+  - name: VFX Voice
+    url: https://www.vfxvoice.com/
+    description: Visual Effects Society magazine covering VFX in film, TV, games and commercials; quarterly issues plus web-only articles.
+    license: Freemium
+    entry_type: reference
+    tags:
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Magazine
+      - VES
+    dual_listed_in:
+      - learning-community-industry/communities-forums
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.548Z'
+  - name: VES On-Set VFX Data Collection and Usage Guide
+    url: https://ves-on-set-data.org/
+    description: 'Visual Effects Society guide to on-set VFX data: capture methods for each data set, who uses it, directory structure and reference docs; free PDF and web version.'
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - match-move
+        - compositing
+      output:
+        - film-vfx
+      skill:
+        - intermediate
+    readme_tags:
+      - On-Set Data
+      - VES
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.898Z'
+  - name: Fixed in Post
+    url: https://www.fixedinpost.com/
+    description: On-demand VFX and compositing lessons for film and TV, focused on Fusion, with downloadable project assets and free Fusion macros.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - compositing
+        - roto
+      output:
+        - film-vfx
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Fusion
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.904Z'
+  - name: Digital Production
+    url: https://digitalproduction.com/
+    description: VFX, post and animation trade magazine (English and German) with daily news on compositing plugins, Resolve/Fusion tools, Nuke releases and production breakdowns.
+    pricing: Free online
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - motion-graphics
+    readme_tags:
+      - VFX News
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.909Z'

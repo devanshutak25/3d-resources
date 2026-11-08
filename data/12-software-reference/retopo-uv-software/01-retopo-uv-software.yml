@@ -68,6 +68,7 @@ entries:
         - linux
     dual_listed_in:
       - tools-pipeline-utilities/retopology-mesh-tools
+    pricing: Free (MIT)
   - name: RizomUV
     url: https://www.rizomuv.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -208,7 +209,7 @@ entries:
   - name: Cozy Blanket
     url: https://cozyblanket.app/
     added_at: '2026-05-22T16:39:01.000Z'
-    description: iPad sculpt-to-retopo app. Clay sculpt plus auto-quad retopology for game/film topology, from Naam.
+    description: iPad sculpt-to-retopo app, unlisted from the App Store in Nov 2026. Succeeded by CozyBlanket Pro.
     pricing: ~$80 perpetual
     license: Paid
     entry_type: software
@@ -375,3 +376,120 @@ entries:
       - Scans
     best_for: Scan topology transfer
     pricing_last_verified: '2026-10-05'
+  - name: Unwrella-IO
+    url: https://www.unwrella.com/unwrella-io/
+    description: Standalone automatic UV unwrapper with hard-surface, organic and mosaic modes, UV packing, texel density and UDIM tools; Unwrella plugins cover 3ds Max and Maya.
+    pricing: €199 perpetual; Max/Maya plugin €149
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - perpetual
+    readme_tags:
+      - Auto UV
+    dual_listed_in:
+      - tools-pipeline-utilities/uv-tools
+      - modeling-sculpting-texturing/3ds-max-plugins
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.605Z'
+  - name: CozyBlanket Pro
+    url: https://sparseal.com/cozyblanket-pro/
+    description: 'Retopology, UV and baking app: draw topology guides and AI predicts patches, AI-suggested seams, GPU packing and normal/AO bakes with UDIMs.'
+    pricing: Free demo; iPad $89.99 one-time; desktop indie $90 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - retopo
+        - uv
+      output:
+        - games
+        - film-vfx
+      platform:
+        - ipad
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - perpetual
+    readme_tags:
+      - Retopo
+      - iPad
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.623Z'
+  - name: Alpaca3D
+    url: https://alpaca3d.app/
+    description: Free standalone retopology, UV unwrap/pack and high-to-low baking app (normal, AO, curvature, thickness) with optional Blender and Maya bridges.
+    pricing: Free; Pro $10 one-time (planned)
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - retopo
+        - uv
+        - texturing
+      output:
+        - games
+      platform:
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - Retopo
+      - Baking
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+      - tools-pipeline-utilities/uv-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.639Z'
+  - name: InstaLOD
+    url: https://instalod.com/
+    description: 'Mesh optimization suite: polygon reduction, quad remeshing, CAD-to-mesh, auto UVs and baking, with batch pipeline tools and plugins for Max, Maya, Blender, C4D, Unity and Unreal.'
+    pricing: Free Pioneer (<$100k revenue, attribution); Studio $99/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - retopo
+        - uv
+        - texturing
+      output:
+        - games
+        - automotive
+        - xr
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - unreal-plugin
+        - unity-plugin
+        - subscription
+    readme_tags:
+      - LOD
+      - Decimation
+    dual_listed_in:
+      - tools-pipeline-utilities/retopology-mesh-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.652Z'

@@ -448,3 +448,110 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.286Z'
+  - name: Kimodo (NVIDIA)
+    url: https://github.com/nv-tlabs/kimodo
+    description: Kinematic motion diffusion model trained on 700 hours of optical mocap that generates human and robot animation from text plus keyframe and path constraints.
+    pricing: Free (Apache 2.0 code; NVIDIA Open Model License weights)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Motion
+      - Open Weights
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.453Z'
+  - name: ARDY (NVIDIA)
+    url: https://github.com/nv-tlabs/ardy
+    description: SIGGRAPH 2026 autoregressive motion diffusion model for interactive character animation with live text prompts, waypoints and keyframe constraints.
+    pricing: Free (Apache 2.0 code; NVIDIA Open Model Agreement weights)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - real-time
+    readme_tags:
+      - Interactive Motion
+      - SIGGRAPH 2026
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.454Z'
+  - name: Animatica Choreographer
+    url: https://animatica.ai/choreographer
+    description: Free plugin for Blender, MotionBuilder and 3ds Max that generates editable in-between keyframes on your rig from text, key poses or waypoints, using NVIDIA Kimodo.
+    pricing: Free plugin, 10 generations/mo; Pro $200/yr
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - cloud
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - blender-addon
+    readme_tags:
+      - AI Inbetweening
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.455Z'
+  - name: AccuFACE 2 (Reallusion)
+    url: https://www.reallusion.com/iclone/motion-capture/accuface.html
+    description: iClone 8 plugin that tracks facial performance from a webcam or video clip with an AI model and retargets it to CC5 HD characters, with lip tracking and expression curves.
+    pricing: $299 list; 30-day trial
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - face-capture
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+    readme_tags:
+      - Facial Mocap
+      - Webcam
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.885Z'

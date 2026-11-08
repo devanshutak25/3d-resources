@@ -111,3 +111,31 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.630Z'
+  - name: UV Flex
+    url: https://superhivemarket.com/products/uv-flex/
+    description: Blender UV Editor toolkit for splitting, merging, reshaping and spline-deforming UV islands after unwrapping, with falloff and 2D IK modes.
+    pricing: $20 (GPL)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - uv
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - UV Editing
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.670Z'

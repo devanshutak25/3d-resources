@@ -596,3 +596,100 @@ entries:
       - Paid
       - Foundry
     best_for: LED wall playback
+  - name: VirtuCamera 2
+    url: https://virtucamera.com/
+    description: Phone app that streams 6DoF camera motion over Wi-Fi to Blender, Maya, Houdini, Cinema 4D, 3ds Max and Nuke and records it as camera keyframes.
+    pricing: $19.99 perpetual; Pro from $9.99/mo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - animation
+        - mocap
+      output:
+        - film-vfx
+        - games
+      platform:
+        - ios
+        - android
+      tech:
+        - real-time
+    readme_tags:
+      - Virtual Camera
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.880Z'
+  - name: ARRI LUKA
+    url: https://arri.com/luka
+    description: Unreal Engine plugin for lighting and camera previs with virtual ARRI fixtures and cameras, lens controls and LiveLink twinning with physical ARRI cameras for LED walls.
+    pricing: Trial licence available
+    entry_type: plugin
+    tags:
+      workflow:
+        - previs
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - unreal-plugin
+        - real-time
+    readme_tags:
+      - Lighting Previs
+      - ICVFX
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+      - lighting-rendering-shaders/lighting-production
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.899Z'
+  - name: PIXERA (AV Stumpfl)
+    url: https://pixera.one/
+    description: Media server software and hardware for real-time playback, compositing and 3D projection mapping, used on LED stages and live shows.
+    pricing: Free Creator demo licence; paid licences
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - projection-mapping
+        - compositing
+      output:
+        - event-experiential
+        - broadcast
+        - film-vfx
+      tech:
+        - real-time
+    readme_tags:
+      - Media Server
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.917Z'
+  - name: Glassbox DragonFly
+    url: https://glassboxtech.com/
+    description: Virtual camera system for Unreal Engine from Glassbox, sold alongside BeeHive stage content management and Live Client facial animation.
+    pricing: Trial available
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - animation
+      output:
+        - film-vfx
+        - games
+      tech:
+        - unreal-plugin
+        - real-time
+    readme_tags:
+      - Virtual Camera
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.918Z'

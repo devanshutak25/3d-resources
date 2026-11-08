@@ -96,3 +96,86 @@ entries:
       - learning-community-industry/inspiration-showcase
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Composition (Arthur Wesley Dow)
+    url: https://www.gutenberg.org/ebooks/45410
+    description: Public-domain book of exercises in line, notan (dark-light) and color that shaped design teaching; free ebook on Project Gutenberg.
+    pricing: Free
+    license: Free
+    entry_type: book
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Public Domain
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.509Z'
+  - name: Pictorial Composition (Henry Rankin Poore)
+    url: https://www.gutenberg.org/ebooks/26638
+    description: Public-domain guide to picture composition and the critical judgment of paintings; free ebook on Project Gutenberg.
+    pricing: Free
+    license: Free
+    entry_type: book
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Public Domain
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.510Z'
+  - name: Pixar in a Box
+    url: https://www.khanacademy.org/computing/pixar
+    description: Free Pixar and Khan Academy lessons showing how math, science and the arts are used in Pixar's filmmaking.
+    pricing: Free
+    license: Free
+    entry_type: tutorial
+    tags:
+      workflow:
+        - storyboard
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Storytelling
+    dual_listed_in:
+      - art-design-visual-storytelling/animation-principles
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.511Z'
+  - name: Nerdwriter1
+    url: https://www.youtube.com/@NerdWriter1
+    description: Video essay series on art and culture, often analysing how films and paintings build meaning visually.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.512Z'

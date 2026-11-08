@@ -755,3 +755,124 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:35:14.948Z'
+  - name: Modeler for Houdini
+    url: https://alexeyvanzhula.gumroad.com/l/btsuc
+    description: Interactive polygon, subdivision and retopology toolkit that makes Houdini model like a conventional DCC; PolyPen, Booleans, Bezier Deform and tool search.
+    pricing: $100 individual; $500 studio
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - retopo
+      output:
+        - games
+        - film-vfx
+      skill:
+        - intermediate
+      tech:
+        - houdini-addon
+    readme_tags:
+      - Hard Surface
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.615Z'
+  - name: Golaem for Houdini
+    url: https://github.com/Autodesk/GolaemForHoudini
+    description: Autodesk plugin that loads Golaem crowd simulation caches procedurally in Houdini without baking geometry; open-sourced in 2026.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - rendering
+      output:
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - houdini-addon
+        - procedural
+    readme_tags:
+      - Crowds
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.624Z'
+  - name: Procedural Canvas for Houdini
+    url: https://alexanderklymak.com/tools/procedural-canvas/
+    description: Reference board inside Houdini 20.5+ that stores images, notes, sketches, VEX snippets and viewport snapshots in the .hip file, with frames and F5 slides.
+    pricing: $20 one-time
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - houdini-addon
+    readme_tags:
+      - Ref Board
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.637Z'
+  - name: Fibric Toolset
+    url: https://www.fibrictoolset.com/
+    description: Curve-based procedural clothing system for Houdini that builds knitted and woven fabric with stitches, fuzz and damage, plus a Husk procedural that tears and burns cloth at render time.
+    pricing: $59 Indie; $159 Core
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - look-dev
+      output:
+        - film-vfx
+        - fashion
+      skill:
+        - advanced
+      tech:
+        - houdini-addon
+        - procedural
+    readme_tags:
+      - Procedural Cloth
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.638Z'
+  - name: Gaussian Splat Cleanup HDA (NodeConnector)
+    url: https://nodeconnector.gumroad.com/l/mrdwo
+    description: Free Houdini SOP that cleans raw 3D Gaussian splats before baking by removing duplicates, floaters, low-alpha noise and orientation outliers.
+    pricing: Free
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - film-vfx
+        - generalist
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - houdini-addon
+        - houdini
+    readme_tags:
+      - Houdini 22
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.877Z'

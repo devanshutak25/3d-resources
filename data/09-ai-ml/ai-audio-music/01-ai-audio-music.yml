@@ -35,3 +35,328 @@ entries:
         - web
       skill:
         - intermediate
+  - name: YuE2
+    url: https://huggingface.co/m-a-p/YuE2-3B
+    description: Open music generation model that turns lyrics and a style prompt into a full song with vocals, then lets you edit melody and chords through a score.
+    pricing: Free (CC BY-NC 4.0)
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Music Generation
+      - Open Weights
+    dual_listed_in:
+      - software-reference/ai-audio-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.409Z'
+  - name: MiniMax Music 3
+    url: https://huggingface.co/MiniMaxAI/MiniMax-Music3
+    description: Open-weights song generator that writes full tracks up to five minutes with vocals from lyrics and a music description; 32 kHz stereo, ComfyUI support.
+    pricing: Free weights (custom license; authorization above $20M revenue)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Music Generation
+      - Open Weights
+    dual_listed_in:
+      - software-reference/ai-audio-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.410Z'
+  - name: Fish Audio Drama 3
+    url: https://huggingface.co/fishaudio/drama-3
+    description: Open-weights text-to-speech model for multi-character scenes, with up to 16 speakers per script, voice cloning and natural-language delivery control.
+    pricing: Free weights (Fish Audio license)
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Speech
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.411Z'
+  - name: NVIDIA RE-USE
+    url: https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE
+    description: 9.6M-parameter multilingual speech enhancement model that removes noise, reverb, clipping and codec artifacts from dialogue recordings.
+    pricing: Free (OpenMDW 1.1)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - linux
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - Speech Enhancement
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.412Z'
+  - name: Woosh (Sony AI)
+    url: https://github.com/SonyResearch/Woosh
+    description: Sony AI sound effect foundation models with open weights for text-to-audio and video-to-audio SFX generation; ComfyUI node available.
+    pricing: Free (CC BY-NC 4.0 weights)
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+        - win
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Sound Effects
+      - Video-to-Audio
+    dual_listed_in:
+      - software-reference/ai-audio-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.415Z'
+  - name: Stable Audio 3 (open weights)
+    url: https://huggingface.co/stabilityai/stable-audio-3-small-sfx
+    description: Stability AI text-to-audio family with open small and medium weights; the 0.6B Small SFX model generates sound effects in seconds on consumer hardware.
+    pricing: Free weights (Stability AI Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+        - motion-graphics
+      platform:
+        - mac
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Sound Effects
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.416Z'
+  - name: VoiceStudio
+    url: https://voicestudio.sh/
+    description: Open-source local voice app for cloning, voice design, video dubbing, transcription and narration in 646 languages, with a local API and MCP server.
+    pricing: Free (AGPL-3.0); optional Pro commercial license
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - ai-generative
+        - mcp
+    readme_tags:
+      - Voice Cloning
+      - Local AI
+    dual_listed_in:
+      - software-reference/ai-audio-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.419Z'
+  - name: ACE-Step
+    url: https://github.com/ace-step/ACE-Step
+    description: Open music generation foundation model that makes full songs with vocals from lyrics and tags in many languages; supports LoRA training and editing.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Music Generation
+      - Apache 2.0
+    dual_listed_in:
+      - software-reference/ai-audio-software
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.431Z'
+  - name: Kokoro TTS
+    url: https://github.com/hexgrad/kokoro
+    description: 82M-parameter open-weight text-to-speech model and pip library that gives fast, light voiceover for temp tracks and prototypes.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Speech
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.432Z'
+  - name: Chatterbox (Resemble AI)
+    url: https://github.com/resemble-ai/chatterbox
+    description: Open 0.5B text-to-speech family with zero-shot voice cloning; Multilingual V3 covers many languages with single-language finetunes.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Voice Cloning
+      - Text-to-Speech
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.433Z'
+  - name: Ultimate Vocal Remover (UVR)
+    url: https://github.com/Anjok07/ultimatevocalremovergui
+    description: Desktop GUI that splits songs into vocals, drums, bass and other stems with neural models such as MDX-Net and Demucs.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - film-vfx
+        - motion-graphics
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    readme_tags:
+      - Stem Separation
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.434Z'
+  - name: AuK (Tencent)
+    url: https://github.com/Tencent-Hunyuan/AuK
+    description: 1.5B open speech generation and editing model for zero-shot and instruction-based TTS plus content, acoustic and paralinguistic edits of recorded dialogue.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Text-to-Speech
+      - Speech Editing
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.459Z'

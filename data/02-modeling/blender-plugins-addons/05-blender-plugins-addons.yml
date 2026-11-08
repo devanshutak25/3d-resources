@@ -636,3 +636,387 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.639Z'
+  - name: Animatica Marionette
+    url: https://animatica.ai/marionette
+    description: Blender add-on that poses characters by dragging hands, feet or hips while a local pose model moves the body; edits motion with trails and smoothing brushes.
+    pricing: $59 perpetual (indie)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - perpetual
+    readme_tags:
+      - Posing
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.609Z'
+  - name: MetaWrap
+    url: https://www.metawrap.ai/
+    description: Blender add-on suite that wraps scanned, sculpted or AI heads and bodies onto MetaHuman topology, transfers textures, adds grooms and pushes results to Unreal.
+    pricing: $158 one-time
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - retopo
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - unreal
+    readme_tags:
+      - MetaHuman
+    dual_listed_in:
+      - game-development/unreal-engine-resources
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.610Z'
+  - name: Ichno
+    url: https://extensions.blender.org/add-ons/ichno/
+    description: 'Blender extension that generates technical drawings in one click: orthographic, isometric and section views with dimensions, title block and bill of materials as PDF/SVG.'
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - archviz
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - blender-addon
+    readme_tags:
+      - Technical Drawings
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.611Z'
+  - name: Physical Atmosphere²
+    url: https://superhivemarket.com/products/physical-atmosphere
+    description: Blender add-on for spectral physically based skies with multiple scattering, ozone, aerosols, volumetric clouds, stars and eclipses in Cycles and Eevee.
+    pricing: $118
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - lighting
+        - look-dev
+      output:
+        - archviz
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - Sky System
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.618Z'
+  - name: Modeling Toolkit (3DRedBox)
+    url: https://www.3dredboxstudio.com/product/modeling-toolkit
+    description: Blender 4.2+ add-on with 3ds Max-style parametric splines, Substance Modeler-like SDF blending, non-destructive cutters, FFD, sweep and conform tools.
+    pricing: $18 personal; $85 studio
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - product-viz
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - SDF Modeling
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.641Z'
+  - name: Hurricane (BeFX)
+    url: https://superhivemarket.com/products/hurricane
+    description: XPBD-based multiphysics solver for Blender 5.1+ that simulates fluids, cloth, soft bodies and granular sand in one coupled system with Geometry Nodes secondaries.
+    pricing: $98 individual
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - physics
+    readme_tags:
+      - Multiphysics
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.642Z'
+  - name: 'Sculptools: Layers'
+    url: https://extensions.blender.org/add-ons/sculptools-layers/
+    description: Blender 4.5+ extension that adds a non-destructive layer stack to Sculpt Mode, so sculpt passes can be toggled and blended.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - sculpting
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - Sculpt Layers
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.648Z'
+  - name: Devil Designer
+    url: https://extensions.blender.org/add-ons/devil-designer/
+    description: Blender 5.2+ extension for drafting, sewing and draping garment patterns, a free in-Blender take on pattern-based clothing tools.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - simulation
+      output:
+        - fashion
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - opensource-alt
+    readme_tags:
+      - Garments
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.649Z'
+  - name: Mat-Baker
+    url: https://extensions.blender.org/add-ons/mat-baker/
+    description: Blender extension that reads the node network feeding a Principled BSDF and bakes procedural materials into a PBR texture pack folder with Cycles.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - blender-addon
+        - pbr
+    readme_tags:
+      - Baking
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.650Z'
+  - name: Edit Layers
+    url: https://extensions.blender.org/add-ons/edit-layers/
+    description: Blender 5.0+ extension that records mesh edits, including extrude, bevel and subdivide, as a non-destructive layer stack you can toggle, reorder and branch.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - Non-Destructive
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.656Z'
+  - name: Fusion to Blender Bridge
+    url: https://github.com/inspace9018/fusion-to-blender-bridge
+    description: Paired Fusion 360 and Blender add-ons that re-sync CAD geometry over a local link while keeping Blender materials, modifiers, light links and marked edges.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - look-dev
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+    readme_tags:
+      - CAD Bridge
+    dual_listed_in:
+      - tools-pipeline-utilities/conversion-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.659Z'
+  - name: Fumaris
+    url: https://venousfx.gumroad.com/l/sszyf
+    description: Vulkan GPU smoke and fire solver for Blender 5.2+ with live viewport preview while simulating, Geometry Nodes emitters and OpenVDB output.
+    pricing: $39
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - linux
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - gpu
+    readme_tags:
+      - Pyro
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.662Z'
+  - name: Softie Collision System
+    url: https://superhivemarket.com/products/softie-collision-system
+    description: Geometry Nodes collision and soft deformation setup for Blender 5.1+ with self-collision and variable hardness, plus an experimental XPBD simulation mode.
+    pricing: $9.99 (GPL)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - simulation
+        - sculpting
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - node-based
+    readme_tags:
+      - Soft Collisions
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.674Z'
+  - name: VRM Add-on for Blender
+    url: https://github.com/saturday06/VRM-Addon-for-Blender
+    description: Blender add-on for importing, exporting and editing VRM avatars, with a Python API; supports Blender 2.93 to 5.2.
+    pricing: Free (MIT/GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - modeling
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - glb
+    readme_tags:
+      - VRM
+      - Avatars
+    dual_listed_in:
+      - game-development/xr-ar-vr
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.783Z'

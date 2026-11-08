@@ -575,3 +575,52 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.649Z'
+  - name: CHCNAV CoViewer
+    url: https://geospatial.chcnav.com/products/chcnav-coviewer
+    description: Free Windows desktop viewer for 3D Gaussian Splatting models in PLY, 3D Tiles and CHCNAV HSC formats, built for review and offline presentation.
+    pricing: Free
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - 3DGS Viewer
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.816Z'
+  - name: Kino Transcode
+    url: https://kino.ai/tools/transcode
+    description: Free in-browser converter that opens BRAW, R3D, ProRes and DNxHR files locally (nothing uploaded) and exports H.264 MP4 or ProRes MOV.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - BRAW
+      - R3D
+    dual_listed_in:
+      - software-reference/video-editing-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.923Z'

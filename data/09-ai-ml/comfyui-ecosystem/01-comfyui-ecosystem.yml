@@ -371,3 +371,215 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.464Z'
+  - name: ComfyUI NVIDIA VFX Nodes
+    url: https://github.com/Comfy-Org/ComfyUI_Nvidia_VFX_Nodes
+    description: 'ComfyUI nodes for NVIDIA RTX Video: up to 4x video super resolution, 2x to 16x frame generation and SDR-to-HDR (HLG/PQ) conversion on RTX GPUs.'
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - node-based
+        - gpu
+    readme_tags:
+      - Video Upscaling
+      - RTX
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.405Z'
+  - name: Comfy MCP
+    url: https://github.com/Comfy-Org/comfy-mcp
+    description: Official local MCP server that lets Claude Code, Cursor and other agents install models and nodes, build workflows and run batches on a local ComfyUI.
+    pricing: Free (AGPL-3.0 or commercial license)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - concept
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - mcp
+        - node-based
+    readme_tags:
+      - MCP
+      - ComfyUI
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.406Z'
+  - name: ComfyUI-WanVideoWrapper
+    url: https://github.com/kijai/ComfyUI-WanVideoWrapper
+    description: Kijai's ComfyUI wrapper nodes for Wan video models and related variants, with block swapping and LoRA handling for low-VRAM GPUs.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - previs
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - Wan
+      - Video Nodes
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.435Z'
+  - name: ComfyUI IPAdapter Plus
+    url: https://github.com/cubiq/ComfyUI_IPAdapter_plus
+    description: ComfyUI nodes for IPAdapter image-prompt models that transfer style, composition or a face from reference images; maintenance-only since 2025.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - node-based
+        - ai-generative
+    readme_tags:
+      - Image Prompt
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.436Z'
+  - name: ComfyUI Impact Pack
+    url: https://github.com/ltdrdata/ComfyUI-Impact-Pack
+    description: ComfyUI node pack with detectors, detailers, SAM masking and upscaler pipes for fixing faces, hands and regions in generated images.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - concept
+        - compositing
+      output:
+        - illustration
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - node-based
+    readme_tags:
+      - Detailer
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.437Z'
+  - name: ComfyUI-KJNodes
+    url: https://github.com/kijai/ComfyUI-KJNodes
+    description: Kijai's collection of utility, masking, model optimization and quality-of-life nodes for ComfyUI with minimal dependencies.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - node-based
+    readme_tags:
+      - Utility Nodes
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.438Z'
+  - name: ComfyUI-VideoHelperSuite
+    url: https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
+    description: ComfyUI nodes to load videos and image sequences and combine frames into video files with ffmpeg; standard in video workflows.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - node-based
+    readme_tags:
+      - Video IO
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.439Z'
+  - name: ComfyUI ControlNet Auxiliary Preprocessors
+    url: https://github.com/Fannovel16/comfyui_controlnet_aux
+    description: ComfyUI nodes that extract depth, normal, pose, lineart and edge maps from images to drive ControlNet and other conditioning.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - concept
+        - previs
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - node-based
+    readme_tags:
+      - ControlNet
+      - Preprocessors
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.440Z'

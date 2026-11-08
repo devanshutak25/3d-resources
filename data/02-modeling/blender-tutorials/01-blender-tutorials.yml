@@ -189,3 +189,30 @@ entries:
         - intermediate
       tech:
         - blender
+  - name: Blender Studio Training
+    url: https://studio.blender.org/training/
+    description: Courses, workshops and production lessons from the Blender Studio team on rigging, geometry nodes, shading, lighting and animation.
+    pricing: Some free; full access with Blender Studio subscription
+    license: Freemium
+    entry_type: tutorial
+    tags:
+      workflow:
+        - rigging
+        - animation
+        - lighting
+        - material-authoring
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - node-based
+    readme_tags:
+      - Official
+      - Production Lessons
+    dual_listed_in:
+      - learning-community-industry/paid-tutorial-platforms
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.584Z'

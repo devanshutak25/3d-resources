@@ -113,3 +113,305 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: Pika H3 Flex
+    url: https://huggingface.co/Pika-Labs/Pika-H3-Flex
+    description: Post-trained MiniMax H3 video model from Pika that generates video with synced audio in six steps and takes up to 12 reference inputs; native 480p/768p.
+    pricing: Free weights (MiniMax H3 Community License); 1080p to 4K via paid Pika API
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - previs
+        - concept
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Image-to-Video
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.385Z'
+  - name: Viggle Remake
+    url: https://huggingface.co/Viggle/Viggle-Remake
+    description: Open-weights video-to-video model on MiniMax H3 that recasts people and edits objects, backgrounds, weather and light in existing footage; ships with an MCP agent.
+    pricing: Free weights (MiniMax H3 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - mcp
+    readme_tags:
+      - Video-to-Video
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.386Z'
+  - name: Meridian (Viggle)
+    url: https://huggingface.co/Viggle/Meridian
+    description: Geometry-guided video model that re-films a recorded event from a new camera path, with slow motion or frozen time; also makes camera moves from one image.
+    pricing: Free weights (MiniMax H3 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - previs
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Novel View Video
+      - Open Weights
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.387Z'
+  - name: Open-H3-Regenerate-2K (NVIDIA)
+    url: https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K
+    description: Three-step MiniMax H3 refinement pass that regenerates 768p H3 video drafts at 2560x1440; open replacement for the closed H3-Regenerate-2K API.
+    pricing: Free weights (MiniMax H3 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Video Upscaling
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.388Z'
+  - name: LTX-2.5 Creative Lab (IC-LoRAs)
+    url: https://huggingface.co/collections/Lightricks/ltx-25-creative-lab
+    description: 'Lightricks collection of LTX-2.5 IC-LoRAs for VFX tasks: layout-to-render from 3D blockouts, SDR-to-HDR, water simulation, detail refine and pixel upscaling.'
+    pricing: Free weights (LTX-2.x Community License; paid above $10M revenue)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - compositing
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - linux
+        - win
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - IC-LoRA
+      - VFX
+    dual_listed_in:
+      - ai-ml-for-cg/ai-assisted-cg-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.402Z'
+  - name: AInVFX Fluid IC-LoRA
+    url: https://huggingface.co/AInVFX/ainvfx-fluid
+    description: IC-LoRA for LTX-2.5 that replaces flat color blobs painted on keyframes with animated smoke, fire, explosions, water, dust or clouds.
+    pricing: Free weights (LTX-2.x Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+        - win
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - FX Generation
+      - IC-LoRA
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.403Z'
+  - name: Kandinsky S2V
+    url: https://github.com/kandinskylab/kandinsky-s2v
+    description: Speech-to-video model that animates the whole figure in a reference frame to match a speech track; Pro, Lite and 16-step distilled checkpoints.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - face-capture
+      output:
+        - broadcast
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Speech-to-Video
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.407Z'
+  - name: FramePack
+    url: https://github.com/lllyasviel/FramePack
+    description: Next-frame-prediction video diffusion structure and desktop app that generates long image-to-video clips progressively with 13B models on laptop GPUs.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - previs
+      output:
+        - motion-graphics
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    readme_tags:
+      - Image-to-Video
+      - Local AI
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.430Z'
+  - name: Wan-Animate-2
+    url: https://github.com/Wan-Video/Wan-Animate-2
+    description: Apache 2.0 character animation model from the Wan team that animates a reference character image from a driving video while keeping identity.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - mocap
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Character Animation
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.457Z'
+  - name: Hy-Nomas (Tencent)
+    url: https://github.com/Tencent-Hunyuan/Hy-Nomas
+    description: Interactive video world model that generates a scene segment by segment from text instructions and camera control, letting you add objects or change style mid-stream.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - previs
+        - concept
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - World Model
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/open-source-models-hf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.458Z'
+  - name: MiniMax-H3-Fun ControlNet Union
+    url: https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0
+    description: ControlNet for MiniMax H3 that steers video generation with canny, depth, HED, MLSD, pose, scribble, layout or gray maps, e.g. from 3D render passes.
+    pricing: Free weights (MiniMax H3 Community License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - previs
+        - rendering
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - ControlNet
+      - Video
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.460Z'

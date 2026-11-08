@@ -243,3 +243,45 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.468Z'
+  - name: zwischendrin HDRIs
+    url: https://zwischendrin.com/en/browse/hdri
+    description: Paid HDRI packs in .hdr and .exr at 6K to 11.5K, sold individually or bundled.
+    pricing: EUR 5.99 to 24.99 per pack
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - web
+    readme_tags:
+      - HDRI Packs
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.552Z'
+  - name: DOSCH Design
+    url: https://www.doschdesign.com/
+    description: Shop for HDRI collections, hand-modeled CAD-accurate 3D models and textures; also a KeyShot reseller.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - lighting
+        - modeling
+      output:
+        - product-viz
+        - archviz
+        - automotive
+      platform:
+        - web
+    readme_tags:
+      - HDRI Collections
+      - 3D Models
+    dual_listed_in:
+      - assets-libraries/model-libraries-specialized
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.553Z'

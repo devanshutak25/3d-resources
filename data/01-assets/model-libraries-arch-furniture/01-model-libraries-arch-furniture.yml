@@ -265,3 +265,58 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.384Z'
+  - name: Archibase Planet
+    url: https://archibase.co/
+    description: Long-running archviz site with free furniture and interior 3D models, textures and a daily-updated model feed.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - Furniture Models
+      - Free
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.583Z'
+  - name: BIMsmith
+    url: https://bimsmith.com/
+    description: Free platform for configuring and downloading manufacturer building products as Revit, AutoCAD and SketchUp files from hundreds of brands.
+    pricing: Free
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - BIM Objects
+      - Manufacturer Data
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.602Z'
+  - name: RevitCity
+    url: https://www.revitcity.com/
+    description: Community download library of 23,000+ user-made Revit families and objects, with gallery and forums.
+    license: Free
+    entry_type: community
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - Revit Families
+      - Community
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.603Z'

@@ -468,3 +468,101 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.572Z'
+  - name: TopMod 3D
+    url: https://amaximal.com/topmodduo/
+    description: Topological mesh modeler that keeps shapes as one closed manifold surface, with faceting, stress analysis and fabrication export; runs in browser, iOS and as a Rhino 8 plugin.
+    pricing: Free
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+        - jewelry
+      platform:
+        - web
+        - ios
+        - ipad
+      skill:
+        - intermediate
+      tech:
+        - procedural
+    readme_tags:
+      - Topological Modeling
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.607Z'
+  - name: ByHand
+    url: https://truongcgartist.gumroad.com/l/byhand
+    description: Free Godot-based digital sculpting app with clay, move and inflate brushes, remesh, HDRI lighting and OBJ/glTF import-export; free for commercial work.
+    pricing: Free (donations optional)
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - sculpting
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - Sculpting
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.608Z'
+  - name: Sisir
+    url: https://sisir.sisir-hairtool.workers.dev/
+    description: Free standalone guide-based hair grooming tool with procedural modifiers, hair cards and a GPU preview renderer; exports PLY guides and Alembic hair.
+    pricing: Free
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - look-dev
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - Hair Grooming
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.622Z'
+  - name: Open Brush
+    url: https://openbrush.app/
+    description: Free, community-led successor to Tilt Brush for room-scale 3D painting in VR; available for Quest and on Steam, Viveport and itch.io.
+    pricing: Free
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+        - modeling
+      output:
+        - xr
+        - illustration
+      platform:
+        - vr
+        - win
+      skill:
+        - beginner
+      tech:
+        - xr
+    readme_tags:
+      - VR Painting
+      - Tilt Brush
+    dual_listed_in:
+      - game-development/xr-ar-vr
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.785Z'

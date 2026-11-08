@@ -308,3 +308,135 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T08:21:25.000Z'
+  - name: Idol (Speridlabs)
+    url: https://huggingface.co/speridlabs/idol
+    description: Image-to-3D model that turns one picture of an object into a Gaussian splat of up to 1M Gaussians as standard 3DGS .ply; 7.2 GB VRAM, under 2 s.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+        - win
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - gaussian-splatting
+    readme_tags:
+      - Image-to-3D
+      - Gaussian Splatting
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.397Z'
+  - name: HairDeck
+    url: https://github.com/hyz317/HairDeck
+    description: Generates stylized hair cards with per-card UVs, colors and spring-bone chains from a single character image; exports GLB and VRM 0.x avatars.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+        - rigging
+      output:
+        - games
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - glb
+    readme_tags:
+      - Hair Cards
+      - Image-to-3D
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.398Z'
+  - name: UniForge3D
+    url: https://github.com/xibushu/UniForge3D
+    description: Generates complete 3D assets from sparse, unposed multi-view photos by joining reconstruction and generation in one anchor-guided latent space.
+    pricing: Free (code MIT; weights CC BY-NC 4.0)
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Multi-View to 3D
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.399Z'
+  - name: Hi3D v1.0 (open weights)
+    url: https://github.com/hi3d-official/Hi3Dv1.0
+    description: Open-weights mesh refiner built on Sparc3D that upgrades a coarse mesh to high-resolution geometry (up to 1536^3 grid) guided by a reference image.
+    pricing: Free weights (Hi3D Open License; separate license above 200K MAU or $1M/mo)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+        - sculpting
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Mesh Refinement
+      - Open Weights
+    dual_listed_in:
+      - software-reference/ai-3d-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.400Z'
+  - name: LocalMesh Engine
+    url: https://github.com/Quentincls/localmesh-engine
+    description: Offline pipeline that turns one photo, or four sides of a subject, into a textured GLB on a single 8 GB NVIDIA GPU; built on TRELLIS.2 with photo texture projection.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - product-viz
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - glb
+        - gpu
+    readme_tags:
+      - Image-to-3D
+      - Open Weights
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.827Z'

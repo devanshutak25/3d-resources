@@ -257,7 +257,7 @@ entries:
   - name: Autograph
     url: https://www.maxon.net/en/autograph
     added_at: '2026-04-19T19:42:59.000Z'
-    description: USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for individuals incl. commercial use. Originally Left Angle, now Maxon.
+    description: USD-based motion graphics, compositing, and VFX (After Effects alternative). Free for everyone incl. studios. Originally Left Angle, now Maxon.
     license: Free
     entry_type: software
     best_for: 2D/3D motion design and compositing
@@ -280,11 +280,12 @@ entries:
       - Free Commercial
     url_last_verified: '2026-11-01'
     url_status: ok
+    pricing: Free
   - name: Cavalry
     url: https://cavalry.studio/en/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Procedural 2D motion design (After Effects alternative). Free tier available.
-    license: Freemium
+    description: Procedural 2D motion design (After Effects alternative). Free for individuals, now run by Canva.
+    license: Free
     entry_type: software
     best_for: Data-driven motion graphics
     tags:
@@ -304,6 +305,7 @@ entries:
       - Data-Driven
     url_last_verified: '2026-11-01'
     url_status: ok
+    pricing: Free (Canva account); enterprise via Canva
   - name: Spine (Esoteric Software)
     url: https://esotericsoftware.com/
     added_at: '2026-04-16T20:54:45.000Z'

@@ -331,3 +331,229 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.494Z'
+  - name: Procreate Dreams
+    url: https://procreate.com/dreams
+    description: iPad 2D animation app with flipbook drawing, keyframes and audio/video import; one-time purchase, no subscription.
+    pricing: $12.99 one-time
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - storyboard
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - ipad
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - perpetual
+    readme_tags:
+      - iPad Animation
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.475Z'
+  - name: RoughAnimator
+    url: https://www.roughanimator.com/
+    description: Hand-drawn frame-by-frame animation app with onion skin, unlimited layers, audio import for lip sync and video import for rotoscoping.
+    pricing: $7.99 per platform
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - ipad
+        - android
+        - mac
+        - win
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Frame-by-Frame
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.476Z'
+  - name: Looom
+    url: https://www.iorama.studio/looom
+    description: iPad and iPhone flipbook animation app with BPM-based timing and SVG vector output that imports into Animate and After Effects.
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - illustration
+      platform:
+        - ipad
+        - ios
+      skill:
+        - beginner
+    readme_tags:
+      - Flipbook
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.477Z'
+  - name: Adobe Animate
+    url: https://www.adobe.com/products/animate.html
+    description: Adobe's 2D vector and frame-by-frame animation app for cartoons, banners, games and web interactives; exports HTML5 Canvas and SVG; maintenance mode (fixes only) since Feb 2026.
+    pricing: $22.99/mo
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+        - games
+        - broadcast
+      skill:
+        - intermediate
+      tech:
+        - subscription
+    readme_tags:
+      - Vector Animation
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.478Z'
+  - name: Dragonframe
+    url: https://www.dragonframe.com/
+    description: Stop-motion animation software for Mac, Windows and Linux, used by major film studios and independent filmmakers.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Stop Motion
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.479Z'
+  - name: FlipaClip
+    url: https://flipaclip.com/
+    description: Free frame-by-frame 2D animation app for phones and tablets, aimed at beginners through to professionals.
+    pricing: Free download
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+      platform:
+        - ios
+        - ipad
+        - android
+      skill:
+        - beginner
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.480Z'
+  - name: ToonSquid
+    url: https://toonsquid.com/
+    description: iPad animation studio combining hand-drawn frames, keyframing, vector shapes, IK bones, masking and camera moves; no ads or subscription.
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - ipad
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.481Z'
+  - name: CACANi
+    url: https://cacani.sg/
+    description: 2D animation app focused on automatic inbetweening and assisted cleanup, with vector drawing and paint tools; Windows only.
+    pricing: Paid; free trial
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - win
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Auto Inbetweening
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.482Z'
+  - name: SkelForm
+    url: https://skelform.org/
+    description: 2D skeletal animation editor with IK, mesh deformation, styles and PSD import; exports sheets and video and offers runtimes for game integration.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Skeletal 2D
+      - Spine Alternative
+    dual_listed_in:
+      - game-development/game-dev-sprite-vfx
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.693Z'
+  - name: Adobe Character Animator
+    url: https://www.adobe.com/products/character-animator.html
+    description: 'Performance-driven 2D puppet animation: webcam face and body tracking, automatic lip sync, keyboard triggers and livestreaming; free Starter mode.'
+    pricing: Free Starter; full in Creative Cloud Pro
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - face-capture
+      output:
+        - broadcast
+        - illustration
+      platform:
+        - win
+        - mac
+    readme_tags:
+      - Puppet Animation
+      - Lip Sync
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.931Z'

@@ -290,3 +290,28 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.467Z'
+  - name: Chroma Space
+    url: https://colgart.com/chromaspace.html
+    description: Photoshop color picker plugin that previews the chosen color on a lit 3D sphere, cube or face to show highlight, shadow and bounce before painting.
+    pricing: $29 Basic; $49 Pro; $349 Studio (one-time)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - concept
+        - lighting
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - perpetual
+    readme_tags:
+      - 3D Color Picker
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.518Z'

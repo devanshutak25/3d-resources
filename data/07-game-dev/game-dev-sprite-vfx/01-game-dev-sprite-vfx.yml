@@ -581,3 +581,26 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-05'
     pricing_last_verified: '2026-11-05'
+  - name: SpriteLoop
+    url: https://balkanramgames.itch.io/spriteloop
+    description: Cut-out 2D animation tool that rigs PNG parts with skins and variants, exporting spritesheets, PNG sequences, GIF and WebP; early alpha.
+    pricing: Free (name your price)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    readme_tags:
+      - Cut-out Animation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.690Z'

@@ -69,3 +69,107 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-06'
     added_at: '2026-11-05T21:43:45.762Z'
+  - name: PBRFusion 4
+    url: https://huggingface.co/NightRaven109/PBRFusion4
+    description: Diffusion model that generates normal and depth maps from baked or photo textures for PBR materials; needs 8 GB VRAM, with a ComfyUI node.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - pbr
+    readme_tags:
+      - Image-to-PBR
+      - ComfyUI
+    dual_listed_in:
+      - ai-ml-for-cg/comfyui-ecosystem
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.417Z'
+  - name: TEXGen
+    url: https://github.com/CVMI-Lab/TEXGen
+    description: Feed-forward diffusion model that generates albedo texture maps directly in a mesh's UV space; SIGGRAPH Asia 2024 best paper honorable mention.
+    pricing: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - UV Texturing
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.448Z'
+  - name: DreamMat
+    url: https://github.com/zzzyuqing/DreamMat
+    description: SIGGRAPH 2024 method that generates PBR materials for a mesh from a text prompt using geometry- and light-aware diffusion models.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - pbr
+    readme_tags:
+      - Text-to-PBR
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.449Z'
+  - name: Material Palette
+    url: https://github.com/astra-vision/MaterialPalette
+    description: Extracts a palette of PBR materials (albedo, normals, roughness) from regions of a single real-world photo; CVPR 2024, Inria.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+        - archviz
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - pbr
+    readme_tags:
+      - Photo-to-PBR
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.450Z'

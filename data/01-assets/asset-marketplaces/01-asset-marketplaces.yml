@@ -52,6 +52,7 @@ entries:
       - Games
     url_last_verified: '2026-11-01'
     url_status: ok
+    deprecated: true
   - name: Blender Market
     url: https://superhivemarket.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -215,3 +216,36 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.474Z'
+  - name: BOOTH
+    url: https://booth.pm/en
+    description: pixiv's creator marketplace; its 3D section is a major source of VRChat avatars, clothing and VRoid assets.
+    license: Mixed
+    entry_type: marketplace
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - web
+    readme_tags:
+      - VRChat Avatars
+      - Japan
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.587Z'
+  - name: Jinxxy
+    url: https://jinxxy.com/
+    description: 'Creator marketplace for VR and VTubing goods: avatars, clothing, worlds, scripts and tools.'
+    license: Mixed
+    entry_type: marketplace
+    tags:
+      output:
+        - xr
+      platform:
+        - web
+    readme_tags:
+      - VR Avatars
+      - VTubing
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.588Z'

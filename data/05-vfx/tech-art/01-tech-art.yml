@@ -212,3 +212,179 @@ entries:
         - linux
     stale: true
     last_pushed: '2019-04-13'
+  - name: ZibraGDS
+    url: https://www.zibra.ai/zibragds
+    description: Unreal Engine plugin that compresses animated geometry caches (destruction, cloth, liquids) by roughly 80 to 92% and plays them back in real time.
+    pricing: Personal $49/yr; Indie $149/yr; free for education
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - fx
+        - simulation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      tech:
+        - unreal-plugin
+        - real-time
+        - subscription
+    readme_tags:
+      - Geometry Cache
+      - Unreal
+    dual_listed_in:
+      - game-development/unreal-engine-resources
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.879Z'
+  - name: Open Test Patterns
+    url: https://github.com/jdvandenberg/Open-Test-Patterns
+    description: Open-source generator of colour-accurate test patterns (SMPTE bars, ColorChecker, PQ steps, zone plates) exported as EXR, DPX, TIFF or PNG; web app, CLI or Docker.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - color-grading
+        - compositing
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+        - linux
+    readme_tags:
+      - Test Patterns
+      - HDR QC
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.889Z'
+  - name: Tech-Artists.Org
+    url: https://www.tech-artists.org/
+    description: Long-running forum for technical artists with boards for rigging, coding, tools, VFX, Maya and pipelines, plus job listings.
+    entry_type: community
+    tags:
+      workflow:
+        - rigging
+        - fx
+      output:
+        - games
+        - film-vfx
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Forum
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.924Z'
+  - name: Harry Alisavakis (Technically Art)
+    url: https://halisavakis.com/
+    description: Tech artist blog with shader breakdowns (Shaderquest, Shader bits) and the Technically Art newsletter archive of real-time tech art finds.
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - material-authoring
+        - fx
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - unity
+    readme_tags:
+      - Shaders
+      - Newsletter
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.925Z'
+  - name: Ronja's Tutorials
+    url: https://www.ronja-tutorials.com/
+    description: Written Unity HLSL shader tutorials from basics to noise, signed distance fields, outlines, post-processing and compute shaders.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - games
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - unity
+        - real-time
+    readme_tags:
+      - Shaders
+      - Unity
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.926Z'
+  - name: Daniel Ilett
+    url: https://danielilett.com/
+    description: Unity Shader Graph and Godot visual shader tutorials, game-effect recreations and tech art breakdowns, plus shader assets for sale.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - material-authoring
+        - fx
+      output:
+        - games
+      skill:
+        - beginner
+        - intermediate
+      tech:
+        - unity
+        - godot
+        - real-time
+    readme_tags:
+      - Shader Graph
+      - Godot
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.927Z'
+  - name: Node Mailer (Nuke)
+    url: https://www.nukepedia.com/tools/python/import-export/node-mailer-easy-node-sharing-over-the-local/
+    description: Nuke plugin for sending nodes to other artists on the local network with automatic discovery and a received-node history; no server or shared drive needed.
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - collaborative
+    readme_tags:
+      - Nuke
+      - Pipeline
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.929Z'
+  - name: No More Manual Retime (Nuke)
+    url: https://www.nukepedia.com/tools/python/misc/no-more-manual-retime-auto-retime-matching/
+    description: Free Nuke tool that matches an editorial retime to its plate from picture or burned-in timecode and rebuilds it as TimeWarp, Reformat and Transform nodes with a QC branch.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - film-vfx
+    readme_tags:
+      - Nuke
+      - Retime
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.930Z'

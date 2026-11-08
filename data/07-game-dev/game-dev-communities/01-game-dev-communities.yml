@@ -215,3 +215,22 @@ entries:
         - games
       platform:
         - web
+  - name: Game Dev Digest
+    url: https://gamedevdigest.com/
+    description: Free weekly newsletter of Unity game-dev articles, tips, assets and videos; formerly Unity3d Report.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - unity
+    readme_tags:
+      - Newsletter
+      - Unity
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.595Z'

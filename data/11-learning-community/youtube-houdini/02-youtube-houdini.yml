@@ -281,3 +281,25 @@ entries:
         - houdini
       platform:
         - web
+  - name: Konstantin Magnus
+    url: https://www.youtube.com/@KonstantinMagnus
+    description: Houdini tutorials on procedural modeling, curves, volumes and geometry processing.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+      tech:
+        - houdini
+        - procedural
+    readme_tags:
+      - Procedural Modeling
+      - VEX
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.567Z'

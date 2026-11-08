@@ -126,3 +126,283 @@ entries:
         - web
       skill:
         - beginner
+  - name: fVDB
+    url: https://github.com/openvdb/fvdb-core
+    description: PyTorch library of sparse voxel data structures and GPU operators built on NanoVDB, for 3D deep learning, graphics, robotics and large-domain spatial work.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+        - rendering
+      output:
+        - generalist
+        - scientific-viz
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gpu
+    readme_tags:
+      - OpenVDB
+      - PyTorch
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.848Z'
+  - name: NeRFICG
+    url: https://github.com/nerficg-project/nerficg
+    description: PyTorch framework from TU Braunschweig for implementing radiance field and view synthesis methods, with a GUI for interactive rendering; needs an NVIDIA GPU.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - linux
+        - win
+      skill:
+        - advanced
+      tech:
+        - nerf
+        - gaussian-splatting
+        - gpu
+    readme_tags:
+      - PyTorch
+      - Radiance Fields
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.849Z'
+  - name: Nerfstudio
+    url: https://github.com/nerfstudio-project/nerfstudio
+    description: Modular PyTorch framework for building, training and inspecting NeRF methods, with an interactive viewer and shared components across methods.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - nerf
+        - gpu
+    readme_tags:
+      - NeRF
+      - PyTorch
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2022
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.850Z'
+  - name: Kaolin (NVIDIA)
+    url: https://github.com/NVIDIAGameWorks/kaolin
+    description: 'NVIDIA PyTorch library of GPU modules for 3D deep learning: differentiable rendering, mesh and point cloud ops, Gaussian splat I/O and Simplicits physics.'
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - simulation
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - gaussian-splatting
+        - physics
+        - usd
+    readme_tags:
+      - PyTorch
+      - NVIDIA
+    year: 2019
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.851Z'
+  - name: NVIDIA Warp
+    url: https://github.com/NVIDIA/warp
+    description: Python framework that JIT-compiles Python functions into differentiable CPU or GPU kernels for simulation, robotics, geometry processing and machine learning.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - generalist
+        - scientific-viz
+      platform:
+        - win
+        - linux
+        - mac
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - physics
+    readme_tags:
+      - Python
+      - Differentiable
+    year: 2022
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.852Z'
+  - name: nvdiffrast
+    url: https://github.com/NVlabs/nvdiffrast
+    description: NVIDIA PyTorch library of high-performance rasterization primitives for differentiable rendering of meshes.
+    pricing: Free (NVIDIA Source Code License, 1-Way Commercial)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - texturing
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - gpu
+    readme_tags:
+      - Differentiable Rendering
+    year: 2020
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.853Z'
+  - name: tiny-cuda-nn
+    url: https://github.com/NVlabs/tiny-cuda-nn
+    description: Small C++/CUDA framework for training and querying neural networks, with fully fused MLPs and the multiresolution hash encoding behind instant-ngp.
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - nerf
+    readme_tags:
+      - CUDA
+      - Neural Fields
+    year: 2021
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.854Z'
+  - name: Viser
+    url: https://viser.studio/
+    description: Python library for web-based 3D visualization with GUI widgets, scene picking, transform gizmos and camera control, from the Nerfstudio team.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+        - creative-coding
+      output:
+        - generalist
+        - scientific-viz
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    readme_tags:
+      - Python
+      - Web Viewer
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.871Z'
+  - name: Objaverse-XL
+    url: https://github.com/allenai/objaverse-xl
+    description: Allen AI dataset of more than 10 million 3D objects with scripts for downloading and processing, widely used to train 3D generative models.
+    pricing: Free (scripts Apache-2.0; objects carry their own licenses)
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Dataset
+      - 10M Objects
+    year: 2023
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.873Z'
+  - name: RTX Neural Texture Compression SDK
+    url: https://github.com/NVIDIA-RTX/RTXNTC
+    description: NVIDIA beta SDK that compresses a material's full PBR texture set into latents plus a small neural decoder that runs on the GPU at render time.
+    pricing: Free (NVIDIA RTX SDKs License)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - texturing
+        - rendering
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - pbr
+        - gpu
+        - real-time
+    readme_tags:
+      - Neural Rendering
+      - NVIDIA
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.874Z'
+  - name: RTX Neural Shading SDK
+    url: https://github.com/NVIDIA-RTX/RTXNS
+    description: NVIDIA SDK with Slang samples for training small neural networks and running them inside shaders through DirectX or Vulkan cooperative vectors.
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+        - material-authoring
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - real-time
+    readme_tags:
+      - Neural Shaders
+      - Slang
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.875Z'

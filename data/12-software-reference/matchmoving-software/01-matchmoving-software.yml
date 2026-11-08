@@ -10,7 +10,7 @@ entries:
       output:
         - film-vfx
       workflow:
-        - fx
+        - match-move
       platform:
         - win
         - mac
@@ -22,6 +22,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - tools-pipeline-utilities/matchmoving-tracking
+    pricing: Solo £899 outright or £35/wk rent-to-own; free demo mode
   - name: SynthEyes
     url: https://borisfx.com/products/syntheyes/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -115,3 +116,57 @@ entries:
       - Blender
     best_for: Object and camera tracking
     pricing_last_verified: '2026-10-05'
+  - name: Omniscient
+    url: https://omniscient-app.com/
+    description: iPhone app that records camera tracks and LiDAR scans on set and doubles as a virtual camera; exports ABC, USD and FBX with plugins for Blender, Cinema 4D, Unreal and Unity.
+    pricing: Free tier (HD); paid plans for 4K
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - match-move
+        - previs
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - ios
+      tech:
+        - usd
+    readme_tags:
+      - Camera Tracking
+      - LiDAR
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.887Z'
+  - name: GeoTracker for Houdini (KeenTools)
+    url: https://keentools.io/products/geotracker-for-houdini
+    description: 'Houdini SOP plugin for geometry-based object and camera tracking: fits 3D models or LiDAR scans to footage, works in OBJ and Solaris, outputs colliders for FX.'
+    pricing: Freelancer $19.99/mo; Studio $699/yr; 15-day trial
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - match-move
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - houdini-addon
+        - subscription
+    readme_tags:
+      - Object Tracking
+      - Houdini
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+      - modeling-sculpting-texturing/houdini-plugins-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.921Z'

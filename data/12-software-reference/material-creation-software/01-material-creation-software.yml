@@ -446,3 +446,108 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.575Z'
+  - name: Wafer
+    url: https://sparseal.com/wafer/
+    description: 3D texture painting app for stylized, hand-painted and NPR assets, with layers, masks, PBR channel painting and pattern-guided strokes.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - illustration
+      platform:
+        - ipad
+        - win
+      skill:
+        - intermediate
+    readme_tags:
+      - Hand-Painted
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.606Z'
+  - name: Material Creator
+    url: https://www.bitethebytes.com/products/material-creator
+    description: Node-based procedural material authoring app from the World Creator team; 281 nodes, up to 10 PBR channels, runs .sbsar files and rebuilds .sbs graphs.
+    pricing: Perpetual or yearly subscription
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - node-based
+        - procedural
+        - pbr
+        - mcp
+    readme_tags:
+      - Designer Alt
+    dual_listed_in:
+      - modeling-sculpting-texturing/material-creation-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.644Z'
+  - name: Matelume
+    url: https://matelume.com/
+    description: Windows app that turns flat swatches, catalogue photos or artwork into true-scale PBR materials for fabric, marble, wood veneer and wall finishes, with Blender and 3ds Max bridges.
+    pricing: $15/mo or $150/yr; 14-day trial
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - archviz
+        - product-viz
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - pbr
+        - subscription
+    readme_tags:
+      - Interior Materials
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.651Z'
+  - name: MechaPaint
+    url: https://mechapaint.com/
+    description: Standalone 3D painting app with full PBR channels, weathering, fur and scale generators, scan repair and quad remesh; exports FBX, GLB, OBJ and STL.
+    pricing: $79 perpetual (1 yr updates); watermarked free version
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - texturing
+        - retopo
+      output:
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+      tech:
+        - pbr
+        - perpetual
+    readme_tags:
+      - 3D Painting
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.667Z'

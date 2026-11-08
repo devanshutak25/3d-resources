@@ -77,3 +77,99 @@ entries:
       tech:
         - opensource-alt
         - godot
+  - name: Godot Git Plugin
+    url: https://github.com/godotengine/godot-git-plugin
+    description: Official GDExtension that adds Git version control to the Godot editor through libgit2.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+      tech:
+        - godot
+        - collaborative
+    readme_tags:
+      - Git
+    dual_listed_in:
+      - game-development/game-dev-version-control
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.703Z'
+  - name: Godot Asset Library
+    url: https://godotengine.org/asset-library/asset
+    description: Official community catalog of 5,000+ free Godot add-ons, scripts, shaders, templates and demos, filterable by engine version and license.
+    pricing: Free
+    license: Free
+    entry_type: asset-source
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - godot
+    readme_tags:
+      - Add-ons
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.710Z'
+  - name: Godot Demo Projects
+    url: https://github.com/godotengine/godot-demo-projects
+    description: Official repository of demo and template projects for Godot, with branches matching each engine version.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+      tech:
+        - godot
+    readme_tags:
+      - Samples
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.711Z'
+  - name: godot-cpp (GDExtension)
+    url: https://github.com/godotengine/godot-cpp
+    description: Official C++ bindings for Godot's GDExtension API, used to write native extensions compiled as shared libraries; targets Godot 4.3+.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - godot
+    readme_tags:
+      - C++
+      - GDExtension
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.712Z'
+  - name: Godot Showcase
+    url: https://godotengine.org/showcase/
+    description: Official gallery of games and tools made with Godot, filterable by platform, with yearly showreel videos.
+    pricing: Free
+    license: Free
+    entry_type: inspiration
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - godot
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.713Z'

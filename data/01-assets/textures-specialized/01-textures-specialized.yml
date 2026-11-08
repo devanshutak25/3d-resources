@@ -198,3 +198,47 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.462Z'
+  - name: Mari Texture Library
+    url: https://community.foundry.com/mari-texture-library
+    description: Foundry community library of 120+ free Mari Smart Materials, masks, textures up to 8K, brushes and HDRIs from studio texture artists; BSD-3 licence.
+    pricing: Free (BSD-3); free Foundry account
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+        - look-dev
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - pbr
+    readme_tags:
+      - Smart Materials
+      - Mari
+    dual_listed_in:
+      - assets-libraries/software-specific-libraries
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.551Z'
+  - name: USGS EarthExplorer
+    url: https://earthexplorer.usgs.gov/
+    description: US Geological Survey portal for searching and downloading satellite scenes and elevation data for terrain and planet textures; login required.
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+        - modeling
+      output:
+        - scientific-viz
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Satellite Imagery
+      - Elevation Data
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.599Z'

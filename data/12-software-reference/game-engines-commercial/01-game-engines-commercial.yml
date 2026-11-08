@@ -72,6 +72,7 @@ entries:
       - Indie Proven
     url_last_verified: '2026-11-01'
     url_status: redirect
+    pricing: Free non-commercial; GMRT commercial exports free from 2027-01-01; consoles need Enterprise
   - name: Construct 3
     url: https://www.construct.net/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -299,3 +300,26 @@ entries:
       - Free
       - Luau
     best_for: Roblox game creation
+  - name: Action Game Maker
+    url: https://store.steampowered.com/app/2987180/ACTION_GAME_MAKER/
+    description: No-code 2D action game maker from Gotcha Gotcha Games built on Godot, with visual state scripting and export to desktop, web and mobile; royalty-free.
+    license: Paid
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+      tech:
+        - godot
+    readme_tags:
+      - No-Code
+      - 2D
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.694Z'

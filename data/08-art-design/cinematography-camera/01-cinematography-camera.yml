@@ -225,3 +225,116 @@ entries:
         - web
       skill:
         - beginner
+  - name: Film Riot
+    url: https://www.youtube.com/@filmriot
+    description: Filmmaking how-to channel from the Connolly brothers on camera work, lighting, practical and digital effects and short-film production.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - lighting
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.494Z'
+  - name: Filmmaker IQ
+    url: https://www.youtube.com/@FilmmakerIQ
+    description: Film education channel on the history, science and technique of filmmaking.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.495Z'
+  - name: ShotOnWhat?
+    url: https://shotonwhat.com/
+    description: Catalog of films and TV shows listing the cameras, lenses, formats, color and VFX vendors used on each production.
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Camera Database
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.496Z'
+  - name: Cadrage
+    url: https://www.cadrage.app/
+    description: Director's viewfinder app for iPhone and iPad that previews framing for real camera and lens combos, incl. anamorphic, and exports PDF shot lists.
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - ios
+        - ipad
+      skill:
+        - intermediate
+    readme_tags:
+      - Viewfinder
+    dual_listed_in:
+      - art-design-visual-storytelling/pre-production-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.498Z'
+  - name: Cinematography Mailing List (CML)
+    url: https://cinematography.net/
+    description: Long-running cinematographer community with topic lists on lenses, lighting and grip, raw/log workflows, plus reference pages and camera tests.
+    entry_type: community
+    tags:
+      workflow:
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Since 1996
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.516Z'
+  - name: CineD
+    url: https://www.cined.com/
+    description: Digital cinema camera site with news, reviews and lab tests measuring dynamic range, rolling shutter and exposure latitude.
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Camera Lab Tests
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.517Z'

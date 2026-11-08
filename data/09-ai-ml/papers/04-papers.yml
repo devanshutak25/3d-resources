@@ -468,3 +468,482 @@ entries:
       workflow:
         - lighting
     year: 1997
+  - name: 'See-through: Single-image Layer Decomposition for Anime Characters'
+    url: https://arxiv.org/abs/2602.03749
+    description: SIGGRAPH 2026 paper with code that splits one anime illustration into inpainted, semantically separate layers with drawing order, ready for 2.5D rigging.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - illustration
+        - motion-graphics
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+    readme_tags:
+      - SIGGRAPH 2026
+      - Code
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.830Z'
+  - name: 'InfiniteDiffusion: Open-World Terrain Generation'
+    url: https://xandergos.github.io/terrain-diffusion/
+    description: 'SIGGRAPH 2026 paper with code: training-free diffusion sampling that generates infinite, seed-consistent terrain with the realism of a diffusion model and the extent of procedural noise.'
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+        - procedural
+    readme_tags:
+      - SIGGRAPH 2026
+      - Terrain
+    dual_listed_in:
+      - game-development/game-dev-ai-procedural
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.831Z'
+  - name: 'AniGen: Unified S³ Fields for Animatable 3D Asset Generation'
+    url: https://yihua7.github.io/AniGen_web/
+    description: SIGGRAPH 2026 paper from VAST with code that generates animation-ready 3D assets, with skeleton and skinning, from a single image.
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+        - rigging
+        - skinning
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+    readme_tags:
+      - SIGGRAPH 2026
+      - Image-to-3D
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.832Z'
+  - name: Gaussian Point Splatting
+    url: https://jorisar.nl/gaussian_point_splatting/
+    description: SIGGRAPH 2026 paper with code that renders hundreds of millions of Gaussians in real time by splatting stochastic points without sorting.
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gaussian-splatting
+        - real-time
+    readme_tags:
+      - SIGGRAPH 2026
+      - 3DGS
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.833Z'
+  - name: 'SegviGen: Repurposing 3D Generative Model for Part Segmentation'
+    url: https://fenghora.github.io/SegviGen-Page/
+    description: SIGGRAPH 2026 journal paper with code that reuses a TRELLIS-style 3D generative model to segment meshes into parts.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+    readme_tags:
+      - SIGGRAPH 2026
+      - Part Segmentation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.834Z'
+  - name: 'SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM'
+    url: https://simart-mllm.github.io/
+    description: SIGGRAPH 2026 paper from ByteDance Seed with code that uses a multimodal LLM to turn a single static mesh into an articulated, simulation-ready asset.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - rigging
+        - simulation
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+        - physics
+    readme_tags:
+      - SIGGRAPH 2026
+      - Articulation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.835Z'
+  - name: 'MeshFlow: Mesh Generation with Equivariant Flow Matching'
+    url: https://qiisun.github.io/MeshFlow/
+    description: SIGGRAPH 2026 paper with PyTorch code that generates triangle meshes directly as triangle soups with equivariant flow matching, skipping autoregressive token sequences.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+    readme_tags:
+      - SIGGRAPH 2026
+      - Mesh Generation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.836Z'
+  - name: 'A LoD of Gaussians: Out-of-Core Training and Rendering for Ultra-Large Scenes'
+    url: https://felixwindisch.github.io/ALoDOfGaussians/
+    description: SIGGRAPH 2026 paper with code that trains and renders city-scale Gaussian splat scenes without chunking by streaming a level-of-detail hierarchy from external memory.
+    entry_type: paper
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gaussian-splatting
+    readme_tags:
+      - SIGGRAPH 2026
+      - LOD
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.837Z'
+  - name: Faster 3D Gaussian Splatting Convergence via Structure-Aware Densification
+    url: https://vcai.mpi-inf.mpg.de/projects/SAD-GS/
+    description: SIGGRAPH 2026 paper from MPI Informatics with code that uses multiscale image structure to guide anisotropic densification, so 3DGS training converges faster.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gaussian-splatting
+    readme_tags:
+      - SIGGRAPH 2026
+      - 3DGS
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.838Z'
+  - name: Dual Contouring of Signed Distance Data
+    url: https://gatc.cs.columbia.edu/projects/dual-contouring-of-signed-distance-data.html
+    description: SIGGRAPH 2026 paper with code that extracts polygon meshes with sharp features from sampled SDF grids alone, no gradients or training needed.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+        - retopo
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+    readme_tags:
+      - SIGGRAPH 2026
+      - SDF
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.839Z'
+  - name: 'ReSTCV: Spatio-Temporal Control Variates with ReSTIR for Real-Time Rendering'
+    url: https://hercier.github.io/restcv/
+    description: SIGGRAPH 2026 paper with code that combines ReSTIR sample reuse with spatio-temporal control variates to cut noise and color flicker in real-time path tracing.
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - paper
+        - path-tracing
+        - real-time
+    readme_tags:
+      - SIGGRAPH 2026
+      - ReSTIR
+    dual_listed_in:
+      - lighting-rendering-shaders/rendering-shader-theory
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.840Z'
+  - name: 'The Antipodal Method: Fast 3D Generalized Winding Numbers'
+    url: https://cedricmartens.com/publications/antipodal_wn
+    description: SIGGRAPH 2026 paper with code for computing generalized winding numbers on meshes and parametric surfaces, up to 22x faster than precise CPU methods.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gpu
+    readme_tags:
+      - SIGGRAPH 2026
+      - Geometry
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.841Z'
+  - name: Locality-Aware Automatic Differentiation on the GPU for Mesh-Based Computations
+    url: https://arxiv.org/abs/2509.00406
+    description: 'SIGGRAPH 2026 paper whose code ships in RXMesh: GPU autodiff for triangle-mesh energies that builds sparse Jacobians and Hessians in registers and shared memory.'
+    pricing: Free (BSD-2-Clause)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - simulation
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gpu
+    readme_tags:
+      - SIGGRAPH 2026
+      - RXMesh
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.842Z'
+  - name: Gaussian Light Transport
+    url: https://patrick-attimont.com/projects/gaussian-light-transport/
+    description: SIGGRAPH Asia 2026 paper with code that fits global illumination as a mixture of 13D Gaussians, training in minutes and rendering in milliseconds from any view.
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - lighting
+        - rendering
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - real-time
+    readme_tags:
+      - SIGGRAPH Asia 2026
+      - Global Illumination
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.843Z'
+  - name: 'MLP Splatting: Object-Centric Neural Fields'
+    url: https://www.shinjeongkim.com/mlp-splatting/
+    description: ECCV 2026 paper from Imperial College London with code that represents scenes with a small set of object-centric MLP primitives instead of Gaussians, for view synthesis and decomposition.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - nerf
+        - gaussian-splatting
+    readme_tags:
+      - ECCV 2026
+      - Neural Fields
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.844Z'
+  - name: 'SwitchSplat: Learning Discrete Object States from Casually Captured Scenes'
+    url: https://arxiv.org/abs/2610.24812
+    description: Paper with code that learns switchable object states (doors open or shut, moved objects) from casual captures, so splat scenes can be recombined into new configurations.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - xr
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gaussian-splatting
+    readme_tags:
+      - 3DGS
+      - Code
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.845Z'
+  - name: 'SplatLab: Autonomous Scientific Discovery for 3DGS Research'
+    url: https://seemandharjain.com/splatlab/
+    description: NeurIPS 2026 paper with code for an agent system that reproduces 3DGS baselines, trains new variants on GPUs and drafts papers with every number tied to a logged run.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gaussian-splatting
+    readme_tags:
+      - NeurIPS 2026
+      - Agents
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.846Z'
+  - name: 'InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis'
+    url: https://arxiv.org/abs/2608.02437
+    description: 'Paper from ZJU 3DV with code: feed-forward model that builds a renderable Gaussian splat scene from one image and holds structure under large camera moves.'
+    entry_type: paper
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - paper
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - Image-to-3DGS
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.847Z'
+  - name: 'Heat Kernel Textures: the Geodesic Gaussians That Do Not Splat'
+    url: https://circle-group.github.io/research/HeatKernelTextures
+    description: 'ECCV 2026 best paper with code: UV-free mesh textures built from anisotropic heat kernels on the surface, removing seams and wasted UV space and fitting into a PBR renderer.'
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: paper
+    tags:
+      workflow:
+        - texturing
+        - uv
+      output:
+        - generalist
+        - games
+      skill:
+        - advanced
+      tech:
+        - paper
+        - pbr
+    readme_tags:
+      - ECCV 2026
+      - UV-Free
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.870Z'
+  - name: 'RigMo: Unifying Rig and Motion Learning for Generative Animation'
+    url: https://github.com/haoz19/RigMo
+    description: CVPR 2026 paper with training code that learns Gaussian-bone rigs and motion jointly from raw deforming mesh sequences, no ground-truth skeletons needed.
+    pricing: Free (CC BY-NC 4.0)
+    license: Free NC
+    entry_type: paper
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - paper
+        - ai-generative
+    readme_tags:
+      - Auto-Rigging
+      - CVPR 2026
+    dual_listed_in:
+      - animation-rigging/ai-motion-capture
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.920Z'

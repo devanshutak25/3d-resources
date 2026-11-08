@@ -719,3 +719,101 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.343Z'
+  - name: ActionForge
+    url: https://actionforge.app/
+    description: Browser-based Mixamo alternative that auto-rigs GLB/FBX characters, layers and retimes clips, and exports with Unreal, Mixamo and Reallusion skeletons; CC0 library.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - rigging
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - glb
+    readme_tags:
+      - Mixamo Alternative
+      - Retargeting
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.737Z'
+  - name: KeyFlow
+    url: https://keyflow.tools/
+    description: Free set of 25+ Maya animation tools (tweening, pose library, space switching, baking) plus KeyFlow Studio, a standalone shot review app with A/B compare and annotation.
+    pricing: Free
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+      tech:
+        - maya
+    readme_tags:
+      - Maya
+      - Animation Tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.884Z'
+  - name: Character Control Rig (Poly Hammer)
+    url: https://www.polyhammer.com/character-control-rig-addon
+    description: Blender add-on that builds IK/FK control rigs for MetaHuman characters, retargets marketplace and mocap clips, and exports body and face animation back to Unreal.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - unreal
+        - perpetual
+    readme_tags:
+      - MetaHuman
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.886Z'
+  - name: Mansur Rig
+    url: https://github.com/asaf-b/Mansur-Rig
+    description: Modular Maya rig builder on a dedicated C++ node library by ex-MPC rigging TD Assaf Ben Zur; free since v3.0 with no licence server, rigs usable commercially.
+    pricing: Free (MIT repo; compiled C++ nodes)
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - rigging
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+      tech:
+        - maya
+    readme_tags:
+      - Maya
+      - Auto-Rig
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.919Z'

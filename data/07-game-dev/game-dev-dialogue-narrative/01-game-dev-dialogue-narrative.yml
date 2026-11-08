@@ -96,3 +96,105 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+  - name: Arcweave
+    url: https://arcweave.com/
+    description: Browser-based collaborative tool for branching game narrative with in-app playtesting, open-source Unity, Unreal and Godot plugins, REST API and MCP server.
+    pricing: Free tier (non-commercial); Pro $15/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - collaborative
+        - mcp
+    readme_tags:
+      - Narrative Design
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.705Z'
+  - name: Inky
+    url: https://github.com/inkle/inky
+    description: Desktop IDE from inkle for writing interactive narrative in the ink scripting language.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    readme_tags:
+      - ink
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.706Z'
+  - name: Narrat
+    url: https://narrat.dev/
+    description: Narrative game engine for RPGs and visual novels with a simple script language, skill checks, inventory, quests and web or PC export.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - web
+        - win
+      skill:
+        - beginner
+    readme_tags:
+      - Visual Novel
+      - Narrative RPG
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.707Z'
+  - name: Dialogue System for Unity (Pixel Crushers)
+    url: https://www.pixelcrushers.com/dialogue-system/
+    description: Unity dialogue framework with node editor, barks, cutscene sequencer, quests and save system; imports articy, Ink, Yarn, Twine and Chat Mapper.
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - unity-plugin
+        - unity
+    readme_tags:
+      - Dialogue
+      - Quests
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.708Z'
+  - name: ChatMapper
+    url: https://www.chatmapper.com/
+    description: Browser and desktop tool for designing and testing branching conversations with Lua simulation; exports JSON, Yarn and Unity XML.
+    pricing: Free (3 projects); Creator $19/mo
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - collaborative
+    readme_tags:
+      - Branching Dialogue
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.709Z'

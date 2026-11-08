@@ -93,3 +93,145 @@ entries:
         - illustration
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: WikiArt
+    url: https://www.wikiart.org/
+    description: Visual art encyclopedia browsable by artist, movement, school, genre, style and medium, with chronology and advanced search.
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Art History
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.507Z'
+  - name: Google Arts & Culture
+    url: https://artsandculture.google.com/
+    description: Google's portal to partner museum collections with high-zoom artwork views, browsable by artist, medium, art movement and era.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.508Z'
+  - name: PoseMy.Art
+    url: https://posemy.art/
+    description: Browser 3D figure poser for drawing reference with IK posing, hand library, props, premade poses and OpenPose, depth or OBJ export.
+    pricing: Free; Pro $15/mo, $150/yr or $99.99 lifetime
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Pose Reference
+    dual_listed_in:
+      - art-design-visual-storytelling/drawing-painting-3d
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.528Z'
+  - name: DesignDoll
+    url: https://terawell.net/en/
+    description: Windows sketch-doll app for posing and morphing 3D figures, building compositions and exporting reference images; free, $79 Pro adds OBJ export.
+    pricing: Free; Pro $79 one-time
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+        - concept
+      output:
+        - illustration
+      platform:
+        - win
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Pose Reference
+    dual_listed_in:
+      - art-design-visual-storytelling/drawing-painting-3d
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.529Z'
+  - name: Magic Poser
+    url: https://magicposer.com/
+    description: '3D pose reference app: drag control points to pose morphable figures, add props and lights, use premade poses and export OBJ.'
+    entry_type: software
+    tags:
+      workflow:
+        - reference
+        - concept
+      output:
+        - illustration
+      skill:
+        - beginner
+    readme_tags:
+      - Pose Reference
+    dual_listed_in:
+      - art-design-visual-storytelling/drawing-painting-3d
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.530Z'
+  - name: Living Lines Library
+    url: https://livlily.blogspot.com/
+    description: Archive blog of drawings from classic animated films, organised by artist incl. Disney's Nine Old Men.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+        - animation
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Animation Drawings
+    dual_listed_in:
+      - art-design-visual-storytelling/animation-principles
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.531Z'
+  - name: Lines and Colors
+    url: https://www.linesandcolors.com/
+    description: Art blog running since 2005 on painting, drawing, illustration, comics, concept art and art history.
+    pricing: Free
+    license: Free
+    entry_type: inspiration
+    tags:
+      workflow:
+        - reference
+      output:
+        - illustration
+      platform:
+        - web
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.533Z'

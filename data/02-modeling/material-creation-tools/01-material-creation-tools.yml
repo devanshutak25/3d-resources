@@ -306,3 +306,29 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.643Z'
+  - name: Physics Scatter
+    url: https://giladbaruch3d.gitbook.io/physicsscatter
+    description: Substance 3D Designer node that drops your OBJ/FBX meshes into a Jolt rigid-body pile and bakes it into tileable height, normal, color and ID maps up to 8K.
+    pricing: From $39 one-time
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - physics
+        - pbr
+    readme_tags:
+      - Substance Designer
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.661Z'

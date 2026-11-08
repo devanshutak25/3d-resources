@@ -629,3 +629,96 @@ entries:
         - sculpting
       platform:
         - web
+  - name: The Rookies
+    url: https://www.therookies.co/
+    description: Portfolio community for emerging artists in games, film and animation; runs the annual Rookie Awards and publishes school rankings.
+    license: Free
+    entry_type: community
+    tags:
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Student Showcase
+      - School Rankings
+    dual_listed_in:
+      - learning-community-industry/salary-career-data
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.545Z'
+  - name: CGPress
+    url: https://cgpress.org/
+    description: Independent CG news site covering software releases, renderers, hardware and games, with reviews and interviews.
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - News
+      - CG
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.546Z'
+  - name: Game Developer
+    url: https://www.gamedeveloper.com/
+    description: Informa-run trade site with game-industry news, deep dives and interviews on art, audio, design, programming and business.
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - News
+      - Games
+    dual_listed_in:
+      - learning-community-industry/industry-trends
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.547Z'
+  - name: CG Garage Podcast
+    url: https://cggarage.com/
+    description: Long-running CG and VFX interview podcast hosted by Chris Nichols and Daniel Thron, running since 2014.
+    pricing: Free
+    license: Free
+    entry_type: channel
+    tags:
+      output:
+        - film-vfx
+        - archviz
+      platform:
+        - web
+    readme_tags:
+      - Podcast
+      - Interviews
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.594Z'
+  - name: ProVideo Coalition
+    url: https://www.provideocoalition.com/
+    description: 'Video production and post news site: Premiere and Resolve tips, a monthly After Effects Portal roundup of new plugins and scripts, camera and Mac hardware reviews.'
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - broadcast
+        - motion-graphics
+    readme_tags:
+      - Post News
+    dual_listed_in:
+      - motion-graphics-video/after-effects-learning
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.910Z'

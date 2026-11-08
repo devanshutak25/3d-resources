@@ -50,3 +50,51 @@ entries:
         - web
       tech:
         - godot
+  - name: Godot Foundation
+    url: https://godot.foundation/
+    description: Dutch non-profit that funds Godot through the Development Fund, hiring engine developers and paying for hosting and event presence.
+    license: Free
+    entry_type: community
+    tags:
+      output:
+        - games
+      tech:
+        - godot
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.714Z'
+  - name: GodotCon
+    url: https://conference.godotengine.org/
+    description: Official Godot conference series held in Europe, the US and Japan, with talk recordings from past events.
+    license: Free
+    entry_type: community
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - Conference
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.715Z'
+  - name: GodotFest
+    url: https://godotfest.com/
+    description: Annual two-day Munich conference for professional Godot developers with talks, showcases and panels, run with the Godot Foundation.
+    pricing: Tickets from €199
+    license: Paid
+    entry_type: community
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - Conference
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.716Z'

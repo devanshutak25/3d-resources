@@ -203,3 +203,69 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.404Z'
+  - name: Netflix Open Content
+    url: https://opencontent.netflix.com/
+    description: Free Netflix test titles with HDR masters, EXR and camera-original files, IMF packages and Atmos audio; CC BY 4.0.
+    pricing: Free (CC BY 4.0)
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - compositing
+        - color-grading
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - HDR Test Footage
+      - CC BY
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.549Z'
+  - name: Hollywood Camera Work Tracking Plates
+    url: https://www.hollywoodcamerawork.com/tracking-plates.html
+    description: About 60 free HD plates for practicing planar tracking, matchmoving, object removal, crowd replication and keying.
+    pricing: Free
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - match-move
+        - compositing
+        - roto
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Practice Plates
+      - Tracking
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.550Z'
+  - name: ARRI Camera Sample Footage
+    url: https://www.arri.com/en/learn-help/learn-help-camera-system/camera-sample-footage-reference-image
+    description: Downloadable ALEXA and AMIRA sample clips in ARRIRAW, ARRICORE and ProRes, plus EXR reference images for workflow and look tests.
+    pricing: Free
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - color-grading
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Camera RAW
+      - Test Footage
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.586Z'

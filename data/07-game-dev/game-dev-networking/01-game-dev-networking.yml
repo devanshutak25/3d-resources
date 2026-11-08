@@ -229,3 +229,23 @@ entries:
         - win
         - mac
         - linux
+  - name: SpacetimeDB
+    url: https://spacetimedb.com/
+    description: Relational database that runs server logic in Rust, C# or TypeScript with real-time client sync; Unity and Unreal SDKs, powers BitCraft Online.
+    license: Freemium
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - cloud
+      skill:
+        - advanced
+      tech:
+        - real-time
+    readme_tags:
+      - MMO Backend
+      - BSL 1.1
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.736Z'

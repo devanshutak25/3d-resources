@@ -419,3 +419,53 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.583Z'
+  - name: TrueNAS Community Edition
+    url: https://www.truenas.com/truenas-community-edition/
+    description: Free OpenZFS-based NAS operating system for building studio file servers with snapshots, replication and SMB shares on your own hardware.
+    pricing: Free
+    license: Free
+    entry_type: software
+    tags:
+      output:
+        - generalist
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - opensource-alt
+    readme_tags:
+      - NAS
+      - ZFS
+    dual_listed_in:
+      - tools-pipeline-utilities/misc-3d-utilities
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.773Z'
+  - name: LucidLink
+    url: https://www.lucidlink.com/
+    description: Cloud file streaming that mounts a shared filespace as a local drive so remote teams edit video, VFX and 3D files without syncing.
+    pricing: 30-day trial; paid plans
+    license: Paid
+    entry_type: service
+    tags:
+      output:
+        - film-vfx
+        - broadcast
+        - games
+      platform:
+        - win
+        - mac
+        - cloud
+      skill:
+        - intermediate
+      tech:
+        - collaborative
+        - subscription
+    readme_tags:
+      - Cloud Storage
+      - Remote Teams
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.774Z'

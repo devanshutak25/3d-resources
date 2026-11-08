@@ -569,3 +569,27 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:35:14.929Z'
+  - name: Unity CLI
+    url: https://docs.unity.com/en-us/unity-cli/use-unity-cli
+    description: Standalone terminal binary for installing Unity editors and modules, creating projects and CI sign-in without Unity Hub; drives a live editor via the Unity Pipeline package.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - unity
+    readme_tags:
+      - CLI
+      - CI
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.702Z'

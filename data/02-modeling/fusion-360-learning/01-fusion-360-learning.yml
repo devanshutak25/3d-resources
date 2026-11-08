@@ -21,3 +21,64 @@ entries:
         - web
       tech:
         - fusion-360
+  - name: Product Design Online
+    url: https://www.youtube.com/@ProductDesignOnline
+    description: Kevin Kennedy's Autodesk Fusion tutorials for beginners, including a yearly Learn Fusion in 30 Days series.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Fusion
+      - 30-Day Course
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.568Z'
+  - name: Autodesk Fusion (YouTube)
+    url: https://www.youtube.com/@adskFusion
+    description: Official Autodesk Fusion channel with monthly what's-new updates, tutorials and design-to-build project series.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Fusion
+      - Official
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.569Z'
+  - name: NYC CNC
+    url: https://www.youtube.com/@NYCCNC
+    description: 'Fusion CAM and CNC machining channel: toolpaths, fixturing, shop automation and CAD-to-part workflows.'
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Fusion CAM
+      - CNC
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.570Z'

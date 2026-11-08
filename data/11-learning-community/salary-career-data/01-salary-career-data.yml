@@ -41,3 +41,73 @@ entries:
     tags:
       platform:
         - web
+  - name: Video Game Layoffs Tracker
+    url: https://videogamelayoffs.com/
+    description: Running table of game-industry layoffs and studio closures by date, headcount and parent company, with source links and yearly totals.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Layoffs
+      - Career Data
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.541Z'
+  - name: Hitmarker
+    url: https://hitmarker.net/
+    description: Job board for games, esports and media roles, with pay shown on some listings and career advice by seniority.
+    pricing: Free for job seekers
+    license: Free
+    entry_type: community
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Job Board
+      - Games
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.542Z'
+  - name: Big Games Industry Employment Survey (InGame Job)
+    url: https://ingamejob.com/en/games-industry-employment-survey/2025
+    description: Annual independent survey of European game-industry workers on salaries, layoffs, career moves and burnout; free report download.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Salary Data
+      - Survey
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.543Z'
+  - name: Motion Design Salaries in 2026 (School of Motion)
+    url: https://www.schoolofmotion.com/blog/motion-design-salaries-in-2026-your-complete-guide-to-what-you-can-earn-and-how-to-earn-more
+    description: 'Salary guide for motion designers: pay by level and region from BLS, Glassdoor and others, plus community-sourced freelance day rates.'
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - motion-graphics
+      platform:
+        - web
+    readme_tags:
+      - Salary Data
+      - Freelance Rates
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.544Z'

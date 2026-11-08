@@ -42,3 +42,92 @@ entries:
       - Apache 2.0
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: FMOD GDExtension
+    url: https://github.com/utopia-rise/fmod-gdextension
+    description: GDExtension bindings that integrate the FMOD Studio API into Godot 4.6 and later.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - FMOD
+    dual_listed_in:
+      - game-development/godot-plugins
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.718Z'
+  - name: Wwise Godot Integration
+    url: https://github.com/alessandrofama/wwise-godot-integration
+    description: Integration of Audiokinetic Wwise for Godot covering Windows, macOS, Linux, Android, iOS and experimental web.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - android
+        - ios
+      skill:
+        - intermediate
+      tech:
+        - godot
+    readme_tags:
+      - Wwise
+    dual_listed_in:
+      - game-development/godot-plugins
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.719Z'
+  - name: SoLoud
+    url: https://github.com/jarikomppa/soloud
+    description: Portable C/C++ audio engine for games, free under the zlib/libpng license.
+    pricing: Free (zlib)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      skill:
+        - advanced
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.720Z'
+  - name: miniaudio
+    url: https://miniaud.io/
+    description: Single-file C/C++ audio playback and capture library with node-graph mixing, streaming resource manager and 3D spatialization for desktop, mobile and web.
+    pricing: Free (public domain or MIT-0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - ios
+        - android
+        - web
+      skill:
+        - advanced
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.721Z'

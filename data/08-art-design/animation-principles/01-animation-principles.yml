@@ -127,3 +127,62 @@ entries:
         - web
       skill:
         - beginner
+  - name: Animation Obsessive
+    url: https://animationobsessive.substack.com/
+    description: Newsletter on the best animation from around the world, part investigation and part treasure hunt into its history and craft.
+    entry_type: reference
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+    readme_tags:
+      - Newsletter
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.513Z'
+  - name: 11 Second Club
+    url: https://www.11secondclub.com/
+    description: Free monthly character animation competition built around a shared audio clip; winners get an Animation Mentor critique.
+    pricing: Free
+    license: Free
+    entry_type: community
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Monthly Challenge
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.525Z'
+  - name: Deja View (Andreas Deja)
+    url: https://andreasdeja.blogspot.com/
+    description: Disney animator Andreas Deja's blog sharing rough animation drawings, character layouts and studio history with notes on how scenes were built.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - animation
+        - reference
+      output:
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.532Z'

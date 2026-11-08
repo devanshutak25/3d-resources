@@ -756,3 +756,233 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.613Z'
+  - name: CGE Sculpt
+    url: https://cgelementary.gumroad.com/l/CGESculpt
+    description: GPU sculpting plugin inside Maya with multires and sculpt layers, cloth and pose brushes, trim tools, radial symmetry and an SDF system.
+    pricing: $98 edu; $144 indie; $348 studio
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - sculpting
+      output:
+        - film-vfx
+        - games
+      skill:
+        - intermediate
+      tech:
+        - maya
+        - gpu
+    readme_tags:
+      - Maya Sculpting
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.643Z'
+  - name: Wacom Cintiq Pro
+    url: https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro
+    description: 4K 120Hz pen displays in 17, 22 and 27 inch sizes with the battery-free Pro Pen 3 (8,192 pressure levels, 60° tilt); Windows, macOS and Linux.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+    readme_tags:
+      - Pen Display
+      - Wacom
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.756Z'
+  - name: Wacom Intuos Pro
+    url: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro
+    description: Screenless pen tablet in S, M and L sizes with Pro Pen 3, ExpressKeys and dials, USB-C or Bluetooth; 2025 refresh.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+    readme_tags:
+      - Pen Tablet
+      - Wacom
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.757Z'
+  - name: Huion Kamvas Pen Displays
+    url: https://www.huion.com/pen_display/
+    description: Pen display range from 12 to 27 inches, including the Kamvas Pro 27 (144Hz) and Kamvas Gen 3 models, plus Kamvas standalone tablets.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      skill:
+        - beginner
+    readme_tags:
+      - Pen Display
+      - Budget
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.758Z'
+  - name: XPPen Artist Pro Series
+    url: https://www.xp-pen.com/series/artist-pro-series-drawing-display.html
+    description: Pen displays from 12 to 27 inches with X3 Pro styli (16K pressure levels); Gen 2 line includes 4K 120Hz and 165Hz models.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      skill:
+        - beginner
+    readme_tags:
+      - Pen Display
+      - Budget
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.759Z'
+  - name: Xencelabs
+    url: https://www.xencelabs.com/
+    description: Pen displays (16 inch 4K OLED, 24 inch with Calman Ready), two-pen pen tablets and the Quick Keys shortcut remote.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+        - concept
+      output:
+        - generalist
+        - illustration
+      skill:
+        - intermediate
+    readme_tags:
+      - Pen Display
+      - Pen Tablet
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.760Z'
+  - name: NVIDIA RTX PRO Blackwell GPUs
+    url: https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/
+    description: Workstation GPU line for rendering and VFX, from RTX PRO 2000 (16 GB) to RTX PRO 6000 (96 GB ECC GDDR7) with 4th-gen RT cores.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - rendering
+        - simulation
+      output:
+        - film-vfx
+        - archviz
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - ray-tracing
+    readme_tags:
+      - Workstation GPU
+      - NVIDIA
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.771Z'
+  - name: Puget Systems
+    url: https://www.pugetsystems.com/
+    description: Custom workstation builder for VFX, rendering and game dev; Puget Labs publishes hardware test articles and the PugetBench benchmarks.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - rendering
+        - editing
+      output:
+        - film-vfx
+        - games
+        - generalist
+      skill:
+        - intermediate
+      tech:
+        - gpu
+    readme_tags:
+      - Workstations
+      - Benchmarks
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.772Z'
+  - name: Calibrite
+    url: https://calibrite.com/
+    description: Display colorimeters (Display Pro HL, Plus HL, 123), ColorChecker targets and PROFILER software for calibrating artist monitors.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - color-grading
+        - look-dev
+      output:
+        - generalist
+        - film-vfx
+      skill:
+        - intermediate
+    readme_tags:
+      - Color Calibration
+    dual_listed_in:
+      - art-design-visual-storytelling/color-theory-tools
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.780Z'
+  - name: trimesh
+    url: https://github.com/mikedh/trimesh
+    description: Python library for loading, processing and exporting triangle meshes, a common building block in 3D and ML pipelines.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - intermediate
+      tech:
+        - glb
+    readme_tags:
+      - Python
+    dual_listed_in:
+      - ai-ml-for-cg/ml-for-cg
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.872Z'

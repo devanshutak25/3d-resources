@@ -257,3 +257,53 @@ entries:
       - Open Source
       - Pipeline
     best_for: DCC asset system integration
+  - name: SPZ (Gaussian Splat Format)
+    url: https://github.com/nianticlabs/spz
+    description: Open file format and library for 3D Gaussian splats from Niantic, about 10x smaller than the equivalent PLY with little visible quality loss.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+        - xr
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - File Format
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.868Z'
+  - name: KHR_gaussian_splatting (glTF)
+    url: https://github.com/KhronosGroup/glTF/tree/main/extensions/2.0/Khronos/KHR_gaussian_splatting
+    description: Ratified Khronos glTF 2.0 extension for storing 3D Gaussian splats in glTF, written with Cesium, Niantic Spatial, Esri, NVIDIA, Autodesk and others.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+        - xr
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - glb
+    readme_tags:
+      - glTF
+      - Khronos
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.869Z'

@@ -44,7 +44,7 @@ entries:
     url_status: ok
     dual_listed_in:
       - ai-ml-for-cg/image-generation
-  - name: FLUX.2 (Black Forest Labs)
+  - name: FLUX 3 (Black Forest Labs)
     url: https://bfl.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Open-weight photorealism with Kontext editing.
@@ -681,3 +681,33 @@ entries:
       - Open Source
       - Nodes
     best_for: Batch AI upscaling
+  - name: Invoke (InvokeAI)
+    url: https://github.com/invoke-ai/InvokeAI
+    description: Open-source image generation app with a layered canvas, inpainting and node workflows for Stable Diffusion, FLUX and Qwen-Image models.
+    pricing: Free (Apache 2.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - games
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - node-based
+    readme_tags:
+      - Canvas
+      - Local AI
+    dual_listed_in:
+      - ai-ml-for-cg/image-generation
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.422Z'

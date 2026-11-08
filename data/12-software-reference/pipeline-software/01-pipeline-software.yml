@@ -778,6 +778,9 @@ entries:
       - Multi-Host
     url_last_verified: '2026-11-01'
     url_status: ok
+    dual_listed_in:
+      - modeling-sculpting-texturing/cinema-4d-plugins
+      - modeling-sculpting-texturing/3ds-max-plugins
   - name: Massive
     url: https://www.massivesoftware.com/
     added_at: '2026-05-05T11:50:37.000Z'

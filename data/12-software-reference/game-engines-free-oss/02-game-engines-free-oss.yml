@@ -278,3 +278,304 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.550Z'
+  - name: Carbon (Fenris Creations)
+    url: https://fenris.com/carbon
+    description: Modular game engine framework behind EVE Online; open-sourced pieces include the C++ core, Python scheduler, IO, resources and a Wwise audio clustering plugin.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - real-time
+    readme_tags:
+      - EVE Online
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.676Z'
+  - name: Esoterica Engine
+    url: https://github.com/BobbyAnguelov/Esoterica
+    description: C++ prototype engine framework for Windows with a bindless DX12 renderer, animation graph and ragdoll editors, and Box3D physics; a base for custom engines.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - win
+      skill:
+        - advanced
+      tech:
+        - real-time
+        - physics
+    readme_tags:
+      - C++
+      - DX12
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.677Z'
+  - name: BRUTAL
+    url: https://github.com/ahwootech/BRUTAL
+    description: Low-level C# (.NET 10) game framework from RocketWerkz with Vulkan, Jolt, Box2D and FMOD bindings; no editor or renderer, the base of RimWorld's new engine.
+    pricing: Free (MIT-based, attribution required)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - real-time
+    readme_tags:
+      - C#
+      - Vulkan
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.678Z'
+  - name: Flutter Scene
+    url: https://fscene.dev/
+    description: Real-time 3D engine for Flutter built on Flutter GPU, with PBR, physics, particles, Gaussian splats and a desktop editor exposing an MCP server.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+        - ios
+        - android
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - pbr
+        - gaussian-splatting
+        - mcp
+    readme_tags:
+      - Flutter
+      - Dart
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.680Z'
+  - name: Prowl
+    url: https://github.com/ProwlEngine/Prowl
+    description: C# 3D engine on .NET 10 with a Unity-style editor, node shader graph, Vulkan renderer and Jitter physics; in 1.0 preview.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - pbr
+        - node-based
+    readme_tags:
+      - C#
+      - Unity-like Editor
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.681Z'
+  - name: VOID
+    url: https://github.com/Shmellyorc/Void
+    description: Modular 2D game framework for .NET with an XNA-style API, SDL3 platform layer, OpenGL renderer, pathfinding and LDtk level import.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+    readme_tags:
+      - C#
+      - 2D
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.682Z'
+  - name: CNA
+    url: https://github.com/openeggbert/cna
+    description: C++23 reimplementation of the XNA 4.0 API on SDL3 with SDL_GPU, OpenGL, WebGPU and DX9 backends; work in progress that runs most XNA samples.
+    pricing: Free (Ms-PL)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+        - android
+        - ios
+      skill:
+        - advanced
+      tech:
+        - webgpu
+    readme_tags:
+      - C++
+      - XNA
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.683Z'
+  - name: Sedulous Engine
+    url: https://github.com/SedulousWorks/SedulousEngine
+    description: 3D engine and editor written in the Beef language with Vulkan/D3D12 rendering, Jolt physics, WebGPU web export and an MCP host for AI agents.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+        - web
+      skill:
+        - advanced
+      tech:
+        - real-time
+        - pbr
+        - webgpu
+        - mcp
+    readme_tags:
+      - Beef
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.684Z'
+  - name: Doriax Engine
+    url: https://www.doriax.org/
+    description: ECS-based 2D/3D engine with a visual editor, Lua and C++ scripting, and exports to desktop, mobile and HTML5; formerly Supernova Engine.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - android
+        - ios
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - pbr
+    readme_tags:
+      - Lua
+      - ECS
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.685Z'
+  - name: Pyxel
+    url: https://github.com/kitao/pyxel
+    description: Retro game engine for Python with built-in image, tilemap and sound editors, PICO-8-style constraints and WebAssembly builds.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - games
+      skill:
+        - beginner
+    readme_tags:
+      - Python
+      - Pixel Art
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.691Z'
+  - name: Parin
+    url: https://github.com/Kapendev/parin
+    description: 2D game engine for the D language with pixel-perfect physics, a dialogue system, tile maps and web export; sits between raylib and Godot in scope.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - D Language
+      - 2D
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.692Z'
+  - name: 'Poseidon Engine (Arma: Cold War Assault source)'
+    url: https://github.com/BohemiaInteractive/CWR
+    description: 'Open-sourced code of Bohemia''s Poseidon engine and Arma: Cold War Assault, modernized to C++20 with 64-bit Windows and Linux builds.'
+    pricing: Free (GPL-3.0+)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+    readme_tags:
+      - Engine Source
+      - C++
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.695Z'
+  - name: VCS Game Maker
+    url: https://haroldo-ok.itch.io/vcs-game-maker
+    description: 'Browser-based no-code Atari 2600 game maker: Blockly blocks compile to batari Basic ROMs that run in a built-in emulator.'
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Atari 2600
+      - No-Code
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.696Z'

@@ -354,3 +354,53 @@ entries:
       - Open Source
       - USD
     best_for: Format conversion in USD
+  - name: Golaem for USD
+    url: https://github.com/Autodesk/GolaemForUSD
+    description: USD file format plugin and Hydra generative procedural that load Golaem crowd caches via dynamic payloads, keeping shading variation without baked geometry.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - rendering
+      output:
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - usd
+        - procedural
+    readme_tags:
+      - Crowds
+      - Hydra
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.625Z'
+  - name: USD Web View
+    url: https://github.com/usd-wg/usd-wg-webview
+    description: 'ASWF USD Working Group browser viewer that parses USD/USDZ in WASM and renders with Three.js: variants, payloads, MaterialX, USDLux lights, skinning and Gaussian splats.'
+    pricing: Free (BSD-3-Clause)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - generalist
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - usd
+        - webgpu
+        - gaussian-splatting
+    readme_tags:
+      - USD Viewer
+    dual_listed_in:
+      - software-reference/viewers-file-utilities
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.654Z'

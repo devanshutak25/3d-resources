@@ -872,3 +872,130 @@ entries:
       - Maya Molecular
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Schoolism
+    url: https://www.schoolism.com/
+    description: Online art school with video courses taught by working industry illustrators and concept artists.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - games
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+        - advanced
+    dual_listed_in:
+      - art-design-visual-storytelling/concept-art-channels
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.520Z'
+  - name: New Masters Academy
+    url: https://nma.art/
+    description: Online art academy, established 2011, offering video art lessons.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.521Z'
+  - name: Brainstorm School
+    url: https://www.brainstormschool.com/
+    description: Online concept art school that trains artists toward professional work in games and film.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - concept
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+        - advanced
+    dual_listed_in:
+      - art-design-visual-storytelling/concept-art-channels
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.522Z'
+  - name: 21 Draw
+    url: https://www.21-draw.com/
+    description: Drawing video courses and how-to-draw books made by working artists.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.523Z'
+  - name: SVSLearn
+    url: https://www.svslearn.com/
+    description: 'School of Visual Storytelling: courses, workshops and weekly livestreams for picture book and graphic novel illustrators.'
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - concept
+        - storyboard
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Picture Books
+    dual_listed_in:
+      - art-design-visual-storytelling/composition-visual-storytelling
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.524Z'
+  - name: Bloop Animation
+    url: https://www.bloopanimation.com/
+    description: Animation courses for 2D, 3D and stop motion (Toon Boom Harmony, Clip Studio, Dragonframe, Maya, Blender, iPad) plus a free blog and beginner guide.
+    pricing: Per course or All-Access Pass
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - animation
+        - storyboard
+      output:
+        - film-vfx
+        - broadcast
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    dual_listed_in:
+      - art-design-visual-storytelling/animation-principles
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.527Z'

@@ -813,3 +813,122 @@ entries:
       - Tutorials
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Polyfjord
+    url: https://www.youtube.com/@Polyfjord
+    description: Blender tutorials, project breakdowns and livestreams covering VFX, modeling and stylized scenes.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+        - compositing
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Blender
+      - VFX
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.561Z'
+  - name: Ryan King Art
+    url: https://www.youtube.com/@RyanKingArt
+    description: Frequent beginner-friendly Blender tutorials on materials, geometry nodes, food and product scenes.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+        - material-authoring
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Blender
+      - Beginner
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.562Z'
+  - name: Josh Gambrell (Blender Bros)
+    url: https://www.youtube.com/@JoshGambrell
+    description: 'Blender modeling channel from Josh of Blender Bros: hard-surface workflows, floaters and texturing tricks.'
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Hard Surface
+      - Blender
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.563Z'
+  - name: Joey Carlino
+    url: https://www.youtube.com/@JoeyCarlino
+    description: Geometry nodes and procedural Blender tutorials, plus custom tools such as a draw-to-model add-on.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+        - animation
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - node-based
+        - procedural
+    readme_tags:
+      - Geometry Nodes
+      - Blender
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.564Z'
+  - name: Smeaf
+    url: https://www.youtube.com/@Smeaf
+    description: Blender animation and simulation tutorials with learning-strategy videos for self-taught artists.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - animation
+        - simulation
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Blender
+      - Animation
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.565Z'
+  - name: Kaizen
+    url: https://www.youtube.com/@KaizenTutorials
+    description: Blender rendering, materials and workflow videos plus interviews with working VFX and 3D artists.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - rendering
+        - material-authoring
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Blender
+      - Rendering
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.566Z'

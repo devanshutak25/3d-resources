@@ -457,7 +457,7 @@ entries:
     best_for: Photoreal landscape renders
     pricing_last_verified: '2026-10-05'
   - name: World Creator
-    url: https://www.world-creator.com/
+    url: https://www.bitethebytes.com/products/world-creator
     description: GPU terrain generator with erosion, water and snow simulation, scattering and a path tracer.
     license: Paid
     entry_type: software
@@ -470,16 +470,16 @@ entries:
         - film-vfx
       platform:
         - win
+        - mac
       tech:
         - procedural
         - gpu
     added_at: '2026-10-05T08:51:07.116Z'
-    url_last_verified: '2026-11-01'
-    url_status: redirect
     readme_tags:
       - Paid
       - GPU
     best_for: Terrain generation
+    pricing: Individual $149 perpetual or $99/yr
   - name: Instant Terra
     url: https://www.wysilab.com/
     description: Node-based terrain generator with real-time preview, erosion and Unreal and Houdini plugins.

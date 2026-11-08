@@ -10,7 +10,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **4,213 entries, 105 deprecated** across 12 sections / 150 subsections (2026-11-08). Public copy uses `catalog.publicCountLabel()` ("4,100+" on 2026-11-06), never a hardcoded number.
+- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **4,761 entries, 106 deprecated** across 12 sections / 150 subsections (2026-11-09). Public copy uses `catalog.publicCountLabel()` ("4,600+" on 2026-11-09), never a hardcoded number.
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
@@ -360,6 +360,12 @@ left open, remove when done.
 - 2026-11-03 discovery batch (+367 entries, +188 studios) was verified by the finding agents only; the next
   monthly link run is its first independent check. Fab, aescripts, Shadertoy, Printables, Pond5 block bots (unverified, not added).
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
+- 2026-11-09 news batch (+548, see CHANGELOG): agent-verified + main-session probe only. ~21 software/tool rows have
+  no licence (not stated on page); several AI model `pricing` strings carry custom weights-licence limits; YouTube
+  channel descriptions partly from About text. Gaps agents could not fetch (bot walls): 3Dconnexion SpaceMouse, Neat
+  Video, AMD Radeon PRO, Steam Frame, aescripts/Toolfarm tools, Pond5/Artgrid. Quixel Bridge URL now redirects to
+  quixel.com (deprecate if confirmed). Possible dead: Unreal Marketplace product pages (Medieval Houses, Japanese
+  Village) in §07. Houdini FX/simulations still 2 entries.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
 - `/studios/` 2,695 (97 countries) and `/game-studios/` 2,683 (96 countries) on 2026-11-06, after round 5

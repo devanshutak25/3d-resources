@@ -19,3 +19,52 @@ entries:
         - linux
       tech:
         - opensource-alt
+  - name: Lore (Epic Games)
+    url: https://github.com/EpicGames/lore
+    description: Open-source version control system from Epic, built for large binary game assets with chunked storage, sparse workspaces and fast branches; pre-1.0.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - collaborative
+        - unreal
+    readme_tags:
+      - Version Control
+      - Rust
+    dual_listed_in:
+      - software-reference/pipeline-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.679Z'
+  - name: UEGitPlugin (Project Borealis)
+    url: https://github.com/ProjectBorealis/UEGitPlugin
+    description: Refactored Git LFS source control plugin for Unreal with multithreaded file locking and lock owners shown on asset icons.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - unreal-plugin
+        - unreal
+        - collaborative
+    readme_tags:
+      - Git LFS
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.704Z'

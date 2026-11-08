@@ -124,3 +124,105 @@ entries:
         - web
       skill:
         - advanced
+  - name: KernType
+    url: https://type.method.ac/
+    description: 'Browser letter-spacing game from Method of Action: kern words by eye and get a score out of 100.'
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Kerning Game
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.500Z'
+  - name: ShapeType
+    url: https://shape.method.ac/
+    description: Browser game from Method of Action for practising how letterforms are shaped.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.501Z'
+  - name: Google Fonts Knowledge
+    url: https://fonts.google.com/knowledge
+    description: Free typography learning library from Google Fonts with lessons and a glossary.
+    pricing: Free
+    license: Free
+    entry_type: tutorial
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.504Z'
+  - name: Typescale
+    url: https://typescale.com/
+    description: Web tool for building modular type scales from a base size and ratio, previewing them in sample layouts and generating CSS.
+    license: Freemium
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Type Scale
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.505Z'
+  - name: Fontjoy
+    url: https://fontjoy.com/
+    description: Font pairing generator that suggests and previews font combinations in one click.
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Font Pairing
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.534Z'
+  - name: The Elements of Typographic Style Applied to the Web
+    url: http://webtypography.net/
+    description: Practical guide applying the rules of the classic book The Elements of Typographic Style to web pages built with HTML and CSS.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.535Z'
+  - name: FontDrop!
+    url: https://fontdrop.info/
+    description: Drag-and-drop browser viewer for font files that shows the glyph set and font details; supports variable fonts.
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Font Inspector
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.536Z'

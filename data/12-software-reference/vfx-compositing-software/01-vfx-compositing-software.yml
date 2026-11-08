@@ -989,3 +989,138 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.459Z'
+  - name: ReelSmart Motion Blur
+    url: https://revisionfx.com/products/rsmb/
+    description: Plugin that adds motion blur by tracking every pixel; runs in After Effects, Nuke, Resolve, Fusion, Premiere Pro, Flame and other hosts.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - motion-graphics
+    readme_tags:
+      - Motion Blur
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.882Z'
+  - name: Higx Optics
+    url: https://higx.net/optics/
+    description: GPU bokeh and depth-of-field plugin that ray-traces light through real multi-element lens designs; one licence covers Nuke, After Effects and Resolve Studio.
+    pricing: Indie $149/yr; Single $249/yr; Site $1,490/yr
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+        - ray-tracing
+    readme_tags:
+      - Bokeh
+      - Lens Simulation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.892Z'
+  - name: ZEISS CinCraft LensCore
+    url: https://www.zeiss.com/photonics-and-optics/en/cinematography/cincraft/lenscore.html
+    description: Nuke plugin that applies physically based digital lens profiles (bokeh, focus breathing, distortion, chromatic aberration) to CG and plates; ships with ZEISS Aatma and Supreme Prime lenses.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      tech:
+        - gpu
+        - ray-tracing
+    readme_tags:
+      - Lens Simulation
+      - Nuke
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.893Z'
+  - name: ONYX AI Matte
+    url: https://onyxofx.com/
+    description: OFX plugin that extracts and tracks mattes from box, point, text or mask prompts (SAM3) with VitMatte edge refinement; runs in Nuke, Resolve, Fusion, Flame and Natron.
+    pricing: One-time lifetime licence
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - roto
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - gpu
+        - perpetual
+    readme_tags:
+      - AI Roto
+      - OFX
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.895Z'
+  - name: Volumetric Noise (Compositing Academy)
+    url: https://www.compositingacademy.com/volumetric-noise
+    description: Nuke plugin that raymarches procedural 3D noise into fog, smoke and cloud volumes with a directional light, depth or P-pass occlusion and motion blur.
+    pricing: $99 solo perpetual; studio tiers up to $4,500
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx
+      platform:
+        - win
+        - linux
+        - mac
+      tech:
+        - procedural
+        - gpu
+        - perpetual
+    readme_tags:
+      - Nuke
+      - Volumetrics
+    dual_listed_in:
+      - vfx-compositing-virtual-production/tech-art
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.896Z'
+  - name: DespillMadness
+    url: https://www.nukepedia.com/tools/gizmos/keyer/despillmadness/
+    description: Nuke gizmo bundling several despill algorithms with fine-tuning controls and spill matte export; one of Nukepedia's most downloaded keying tools.
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+    readme_tags:
+      - Nuke
+      - Despill
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.928Z'

@@ -383,7 +383,7 @@ entries:
       - Nuke
     best_for: Splats in compositing
   - name: KIRI Gaussian Splatting for After Effects
-    url: https://kiriinnov.gumroad.com/l/GaussianSplattingPluginbyKIRIEngine
+    url: https://github.com/Kiri-Innovation/Gaussian-Splatting-plugin-by-KIRI-Engine
     description: Free After Effects plugin to import, crop and stylize 3DGS PLY scans.
     license: Open Source
     entry_type: plugin
@@ -398,12 +398,11 @@ entries:
       tech:
         - gaussian-splatting
     added_at: '2026-10-05T08:51:07.443Z'
-    url_last_verified: '2026-11-01'
-    url_status: ok
     readme_tags:
       - Free
       - After Effects
     best_for: Splat scans in After Effects
+    pricing: Free (MIT)
   - name: 3DGS Render (KIRI)
     url: https://www.kiriengine.app/3d-tools/3dgs-render
     description: Blender add-on for viewing, editing and animating Gaussian splats.
@@ -962,3 +961,166 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.600Z'
+  - name: Unity Gaussian Splatting (aras-p)
+    url: https://github.com/aras-p/UnityGaussianSplatting
+    description: Unity package that imports and renders 3D Gaussian splats from PLY or SPZ files; needs D3D12, Metal or Vulkan.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+        - xr
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - unity-plugin
+        - unity
+        - real-time
+    readme_tags:
+      - Unity
+      - SPZ
+    dual_listed_in:
+      - game-development/unity-engine-resources
+    year: 2023
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.797Z'
+  - name: MLSLabsRenderer-Pro
+    url: https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE
+    description: Unreal Engine 5 plugin for 3D Gaussian splats and 4D volumetric video, with Sequencer playback and a custom non-Niagara renderer for millions of splats.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - film-vfx
+        - xr
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+        - unreal
+        - real-time
+    readme_tags:
+      - Unreal Engine
+      - 4DGS
+    dual_listed_in:
+      - game-development/unreal-engine-resources
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.800Z'
+  - name: Vulkan Gaussian Splatting (nvpro-samples)
+    url: https://github.com/nvpro-samples/vk_gaussian_splatting
+    description: NVIDIA Vulkan testbed and viewer that compares rasterized, ray-traced and hybrid pipelines for drawing 3D Gaussian splats; views models, does not train them.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - ray-tracing
+        - real-time
+        - gpu
+    readme_tags:
+      - Vulkan
+      - NVIDIA
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.801Z'
+  - name: VRChat Gaussian Splatting
+    url: https://github.com/MichaelMoroz/VRChatGaussianSplatting
+    description: 'Unity toolkit for Gaussian splats in VRChat worlds: Udon runtime sorting, PLY and SPZ importer, LOD pyramid and an in-world gallery.'
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - xr
+        - games
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - unity
+        - xr
+        - real-time
+    readme_tags:
+      - VRChat
+    dual_listed_in:
+      - game-development/xr-ar-vr
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.802Z'
+  - name: Carveout
+    url: https://github.com/smallfly/Carveout
+    description: Finds and labels objects inside trained Gaussian splat scenes with SAM 3 segmentation, then exports per-object PLY subsets and bounding boxes.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Segmentation
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.804Z'
+  - name: Gauss Cannon
+    url: https://github.com/warpgatelabs/gauss-cannon
+    description: Blender add-on that places cameras over a helper mesh and exports COLMAP cameras, point clouds, depth and normal maps for training splats from CG scenes.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    readme_tags:
+      - Blender
+      - COLMAP
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.805Z'

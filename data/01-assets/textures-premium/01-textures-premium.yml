@@ -25,8 +25,8 @@ entries:
   - name: Quixel Megascans + Bridge
     url: https://quixel.com/
     added_at: '2026-04-16T19:59:30.000Z'
-    description: Scanned materials and import plugin. Free with Unreal Engine.
-    license: Freemium
+    description: Scanned materials library and import plugin. Library free on Fab since Nov 2026.
+    license: Free
     entry_type: asset-source
     tags:
       tech:
@@ -44,6 +44,7 @@ entries:
       - Free with UE
     url_last_verified: '2026-11-01'
     url_status: ok
+    pricing: Free on Fab
   - name: Texture Box
     url: https://texturebox.com/
     added_at: '2026-04-16T19:59:30.000Z'
@@ -89,3 +90,24 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.463Z'
+  - name: GameTextures
+    url: https://www.gametextures.com/
+    description: Subscription library of 4K Substance-powered PBR materials and assets for game engines, with download quotas that roll over.
+    pricing: From $11.20/mo (NC); commercial from $15.20/mo
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - pbr
+        - subscription
+    readme_tags:
+      - PBR Materials
+      - Game-Ready
+    added_at: '2026-11-08T19:03:24.582Z'

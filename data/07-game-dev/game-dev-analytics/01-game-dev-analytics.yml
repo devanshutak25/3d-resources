@@ -15,3 +15,45 @@ entries:
         - games
       platform:
         - web
+  - name: Talo
+    url: https://trytalo.com/
+    description: Open-source, self-hostable game backend for Godot and Unity with event analytics, stats, leaderboards, cloud saves and live config.
+    pricing: Free self-hosted; cloud free to 10k players, from $24.99/mo
+    license: Open Source
+    entry_type: service
+    tags:
+      output:
+        - games
+      platform:
+        - cloud
+      skill:
+        - intermediate
+      tech:
+        - godot
+        - unity
+    readme_tags:
+      - Backend
+      - Leaderboards
+    dual_listed_in:
+      - game-development/game-dev-networking
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.722Z'
+  - name: PlaytestCloud
+    url: https://www.playtestcloud.com/
+    description: Remote playtesting service that recruits target players and records gameplay, voice and surveys for mobile, PC and Steam builds.
+    pricing: Free trial; from €1,025/mo (annual)
+    license: Paid
+    entry_type: service
+    tags:
+      output:
+        - games
+      platform:
+        - cloud
+      skill:
+        - intermediate
+    readme_tags:
+      - Playtesting
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.723Z'

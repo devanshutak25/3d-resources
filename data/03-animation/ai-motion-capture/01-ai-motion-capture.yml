@@ -102,3 +102,263 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.283Z'
+  - name: SlimeVR
+    url: https://slimevr.dev/
+    description: Open-source IMU full-body trackers that need no base stations; stream to SteamVR, VRChat, OSC and VMC, and record BVH for Blender.
+    pricing: Trackers from $219
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - mocap
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - linux
+        - mac
+        - android
+        - vr
+      skill:
+        - beginner
+    readme_tags:
+      - Open Source
+      - Full-Body Tracking
+    dual_listed_in:
+      - game-development/xr-ar-vr
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.755Z'
+  - name: Noitom Perception Neuron
+    url: https://www.noitom.com/
+    description: 'Inertial mocap lineup with anti-magnetic sensors: wireless PN 3 and PN Studio with finger capture, wired PN Link, and optical-inertial PN Hybrid.'
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      skill:
+        - intermediate
+    readme_tags:
+      - Inertial Mocap
+      - Noitom
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.761Z'
+  - name: Qualisys
+    url: https://www.qualisys.com/
+    description: Optical mocap cameras (Arqus, Miqus) and Qualisys Track Manager, with markerless tracking in QTM and plugins for Maya, MotionBuilder, Unity and Unreal.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+        - scientific-viz
+      skill:
+        - advanced
+    readme_tags:
+      - Optical Mocap
+      - Markerless
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.762Z'
+  - name: CapturyLive
+    url: https://captury.com/
+    description: Turnkey markerless multi-camera mocap system that tracks body, fingers and face of several performers live and streams to Unity and Unreal.
+    pricing: Quote on request
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - mocap
+        - face-capture
+      output:
+        - games
+        - film-vfx
+        - event-experiential
+      skill:
+        - advanced
+      tech:
+        - real-time
+    readme_tags:
+      - Markerless
+      - Multi-Person
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.763Z'
+  - name: Rokoko Smartgloves
+    url: https://www.rokoko.com/products/smartgloves
+    description: Wireless finger and wrist mocap gloves (Smartgloves II) using IMU plus EMF sensor fusion at 250 Hz; plugins for Blender, Maya, Unreal, Unity and Houdini.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      skill:
+        - intermediate
+      tech:
+        - blender-addon
+        - unreal-plugin
+        - unity-plugin
+    readme_tags:
+      - Hand Mocap
+      - Rokoko
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.764Z'
+  - name: Rokoko Headrig
+    url: https://www.rokoko.com/products/headrig
+    description: Adjustable head mount that holds a TrueDepth iPhone for face capture with Rokoko Face Capture or Live Link Face and MetaHuman Animator.
+    pricing: $295
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - face-capture
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - ios
+      skill:
+        - beginner
+    readme_tags:
+      - Face Capture
+      - Head-Mounted
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.765Z'
+  - name: VSeeFace
+    url: https://www.vseeface.icu/
+    description: Free Windows app that drives VRM avatars from webcam face tracking, iPhone ARKit perfect sync or Leap Motion hands, with VMC protocol send and receive.
+    pricing: Free
+    license: Free
+    entry_type: software
+    tags:
+      workflow:
+        - face-capture
+        - animation
+      output:
+        - broadcast
+        - xr
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - real-time
+    readme_tags:
+      - VTuber
+      - Face Tracking
+    dual_listed_in:
+      - software-reference/ai-motion-capture-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.784Z'
+  - name: MOVIN TRACIN
+    url: https://www.movin3d.com/
+    description: Single-device LiDAR markerless mocap unit with on-device AI that streams live 3D motion through MOVIN Studio; Stage version tracks multiple performers.
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - event-experiential
+        - broadcast
+      skill:
+        - beginner
+      tech:
+        - ai-generative
+        - real-time
+    readme_tags:
+      - LiDAR
+      - Markerless
+    dual_listed_in:
+      - software-reference/virtual-production-software
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.791Z'
+  - name: GEM (NVIDIA, formerly GENMO)
+    url: https://github.com/NVlabs/GENMO
+    description: NVIDIA research model that both estimates SMPL body motion from monocular video or webcam and generates motion from text, audio or music; outputs world-space SMPL parameters.
+    pricing: Free (NVIDIA OneWay Noncommercial)
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - mocap
+        - animation
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+        - gpu
+    readme_tags:
+      - Video Mocap
+      - Text-to-Motion
+    dual_listed_in:
+      - software-reference/ai-motion-capture-software
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.906Z'
+  - name: GEM-X (NVIDIA)
+    url: https://github.com/NVlabs/gem-x
+    description: 'NVIDIA whole-body monocular capture: body and hand pose from images plus camera- and world-space body motion from video, on the SOMA body model.'
+    pricing: Free (Apache-2.0 code; weights under own terms)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - mocap
+      output:
+        - games
+        - film-vfx
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gpu
+    readme_tags:
+      - Video Mocap
+      - Hand Pose
+    dual_listed_in:
+      - software-reference/ai-motion-capture-software
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.907Z'

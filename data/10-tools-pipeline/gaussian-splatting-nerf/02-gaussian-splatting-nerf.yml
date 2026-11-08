@@ -1,0 +1,497 @@
+entries:
+  - name: StarLightGS
+    url: https://github.com/CoSTAR-National-Lab/starlightgs
+    description: Unreal Engine 5.7+ plugin that writes Gaussian splats into the GBuffer so engine lights relight them; companion trainer is non-commercial.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - lighting
+        - rendering
+      output:
+        - film-vfx
+        - games
+      platform:
+        - win
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+        - unreal
+    readme_tags:
+      - Unreal Engine
+      - Relighting
+    dual_listed_in:
+      - game-development/unreal-engine-resources
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.806Z'
+  - name: Gaussian Splat Patch
+    url: https://github.com/timfennell/blender-splat-patch
+    description: Blender 5.3 extension for retouching splat scans with erase, clone stamp and healing brushes, plus mesh-to-splat conversion.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - generalist
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    readme_tags:
+      - Blender 5.3
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.807Z'
+  - name: OGC 3D Tiles for Blender (Iconem)
+    url: https://github.com/Iconem/blender_ogc3dtiles
+    description: Blender add-on that streams OGC 3D Tiles into the viewport through cesium-native, including meshes, point clouds and Gaussian splat tilesets.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - scientific-viz
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    readme_tags:
+      - 3D Tiles
+      - Blender
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.808Z'
+  - name: 3D Tiles RendererJS 3DGS Plugin
+    url: https://github.com/WilliamLiu-1997/3D-Tiles-RendererJS-3DGS-Plugin
+    description: Plugin for the NASA-AMMOS 3d-tiles-renderer library that streams Gaussian splat 3D Tiles into Three.js scenes over WebGPU or WebGL2.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - scientific-viz
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - webgpu
+        - real-time
+    readme_tags:
+      - Three.js
+      - 3D Tiles
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.809Z'
+  - name: Gaussian Splat to Blender Nodes
+    url: https://github.com/gokayfem/gaussian-splat-to-blender-nodes
+    description: Agent skill and toolkit that rebuilds Gaussian splats as editable Blender Geometry Nodes meshes with Shader Node materials.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+        - material-authoring
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - node-based
+        - procedural
+    readme_tags:
+      - Blender
+      - Agent Skill
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.810Z'
+  - name: SuperSplat for Blender
+    url: https://github.com/playcanvas/supersplat-blender-extension
+    description: PlayCanvas extension that imports SuperSplat scenes into Blender 5.3+ by link and publishes your own splats to superspl.at.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    readme_tags:
+      - Blender
+      - PlayCanvas
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.811Z'
+  - name: Splat2Mesh (Arcana)
+    url: https://arcana-mfg.com/splat2mesh/
+    description: Windows 11 app that converts 3D Gaussian Splatting PLY scans into usable 3D meshes; free for personal and non-commercial use.
+    pricing: Free (non-commercial); commercial license on request
+    license: Free NC
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - win
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Splat to Mesh
+    dual_listed_in:
+      - tools-pipeline-utilities/conversion-tools
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.814Z'
+  - name: Multi Splat (Captures Studio)
+    url: https://www.captures.studio/multi-splat
+    description: Free browser tool that aligns two Gaussian splat captures by matching points, compares them with a split-screen seam and renders 4D timelapses to MP4.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - archviz
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Browser
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.815Z'
+  - name: FreeGaussian
+    url: https://www.freegaussian.ai/
+    description: Cloud service that turns 360 video (Insta360 or Antigravity .insv, MP4) or photos into Gaussian splats with no local GPU or install.
+    pricing: Free tier
+    license: Freemium
+    entry_type: service
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+        - cloud
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - 360 Video
+      - Cloud
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.817Z'
+  - name: Rhino Gaussian Splatting
+    url: https://www.food4rhino.com/en/app/rhino-gaussian-splatting
+    description: Rhino 8 plugin to import, view, crop, edit and convert 3D Gaussian Splatting datasets and point clouds, with KSplat export.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+    readme_tags:
+      - Rhino
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.820Z'
+  - name: Splatypus
+    url: https://www.food4rhino.com/en/app/splatypus
+    description: Grasshopper components for Rhino 8 that run photogrammetry and Gaussian splat training through FFmpeg, COLMAP and Brush.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - node-based
+    readme_tags:
+      - Grasshopper
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.821Z'
+  - name: WallGS Pro
+    url: https://www.fab.com/listings/3e8a8fa7-38f5-4825-b714-3eb121fd9993
+    description: Unreal Engine 5 Gaussian splat renderer with relighting, 4D splat playback, Lumen reflections and an Android Vulkan path for Quest headsets.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+        - lighting
+      output:
+        - games
+        - xr
+      platform:
+        - win
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+        - unreal
+        - real-time
+    readme_tags:
+      - Unreal Engine
+      - Fab
+    dual_listed_in:
+      - game-development/unreal-engine-resources
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.822Z'
+  - name: Splat Stage
+    url: https://superhivemarket.com/products/splat-stage
+    description: 'Beta Blender 5.3 add-on for Gaussian splat shots: crop captures, keep full-density previews, shape the look and reuse shot backgrounds.'
+    pricing: $39
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+        - compositing
+      output:
+        - film-vfx
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - blender-addon
+    readme_tags:
+      - Blender 5.3
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.825Z'
+  - name: Splat.js (Arrival.Space)
+    url: https://arrival.space/splat-js
+    description: Browser tool that solves camera poses from overlapping photos and trains a Gaussian splat locally on your GPU, exporting standard PLY; no upload or account.
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - webgpu
+    readme_tags:
+      - Browser
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.826Z'
+  - name: Marble x Nuke
+    url: https://github.com/NXStorm/Marble-x-Nuke
+    description: Nuke 17+ integration for the World Labs Marble API that generates AI 3D worlds and shows their Gaussian splats in Nuke's 3D viewport.
+    pricing: Free (MIT); Marble API billed separately
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - previs
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    readme_tags:
+      - Nuke
+      - World Labs
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.828Z'
+  - name: GaussianSplatting.jl
+    url: https://github.com/JuliaNeuralGraphics/GaussianSplatting.jl
+    description: 3D Gaussian Splatting training and real-time rendering written in pure Julia.
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - gpu
+    readme_tags:
+      - Julia
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.829Z'
+  - name: 3DGRUT (NVIDIA)
+    url: https://github.com/nv-tlabs/3dgrut
+    description: 'NVIDIA reference code for 3D Gaussian Ray Tracing and 3DGUT: ray-traced Gaussian particles, and rasterized splats that handle distorted cameras and time-dependent effects.'
+    pricing: Free (Apache-2.0)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - linux
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - ray-tracing
+        - gpu
+    readme_tags:
+      - Ray Tracing
+      - NVIDIA
+    dual_listed_in:
+      - ai-ml-for-cg/ml-for-cg
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.855Z'
+  - name: Teleport (Varjo)
+    url: https://teleport.varjo.com/
+    description: Cloud reconstruction platform that turns camera, drone and 360 captures into Gaussian splat scenes, with an iOS capture app, API and embeddable renderer.
+    pricing: Pay per capture, from $30
+    license: Paid
+    entry_type: service
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+        - xr
+      platform:
+        - cloud
+        - web
+        - ios
+        - win
+        - vr
+      skill:
+        - beginner
+      tech:
+        - gaussian-splatting
+        - photogrammetry
+        - cloud-render
+    readme_tags:
+      - Cloud
+      - API
+    dual_listed_in:
+      - tools-pipeline-utilities/photogrammetry-scanning
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.865Z'
+  - name: Aholo Viewer
+    url: https://aholojs.dev/
+    description: TypeScript web renderer from Manycore Tech for 3DGS and meshes that streams chunked LOD to show city-scale scenes of over a billion splats in the browser.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - rendering
+      output:
+        - archviz
+        - generalist
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - real-time
+    readme_tags:
+      - Web Viewer
+      - LOD
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.876Z'

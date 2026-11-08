@@ -445,3 +445,19 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.454Z'
+  - name: The Bézier Game
+    url: https://bezier.method.ac/
+    description: Free browser game from Method of Action for practising the pen tool and Bézier curves.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Pen Tool
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.502Z'

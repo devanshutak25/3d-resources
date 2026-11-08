@@ -1,5 +1,5 @@
 entries:
-  - name: Meshy v4
+  - name: Meshy 7
     url: https://www.meshy.ai/
     added_at: '2026-04-16T19:59:30.000Z'
     description: Production-reliable, improved topology and PBR textures.
@@ -799,3 +799,30 @@ entries:
     added_at: '2026-11-07T09:03:11Z'
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
+  - name: Hunyuan3D-Omni (Tencent)
+    url: https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni
+    description: Controllable 3D generation model on Hunyuan3D 2.1 that takes bounding boxes, skeletal poses, point clouds or voxels as extra conditions.
+    pricing: Free weights (Tencent community license; excludes EU, UK, South Korea)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - generalist
+      platform:
+        - linux
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    readme_tags:
+      - Controllable 3D
+      - Open Weights
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.452Z'

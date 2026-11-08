@@ -35,3 +35,61 @@ entries:
         - web
     stale: true
     last_pushed: '2015-09-29'
+  - name: Game Design and Development with Unity (Michigan State, Coursera)
+    url: https://www.coursera.org/specializations/game-design-and-development
+    description: Beginner five-course Coursera specialization from Michigan State University on game design and C# development in Unity 2020.
+    pricing: Coursera subscription; financial aid available
+    license: Paid
+    entry_type: tutorial
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - unity
+    readme_tags:
+      - Unity
+      - Course
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.733Z'
+  - name: 'MIT OCW: Game Design (CMS.608)'
+    url: https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/
+    description: Free MIT OpenCourseWare course on designing and playtesting non-digital games, with readings, audio lectures, assignments and student work.
+    pricing: Free (CC BY-NC-SA)
+    license: Free NC
+    entry_type: tutorial
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+    readme_tags:
+      - Game Design
+      - University
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.734Z'
+  - name: Handmade Hero
+    url: https://guide.handmadehero.org/
+    description: Retired 667-day video series building a complete game in C from scratch with no engine; episode guide covers Win32, renderers, SIMD, assets and debug tools.
+    license: Free
+    entry_type: tutorial
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - advanced
+    readme_tags:
+      - C
+      - No Engine
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.735Z'

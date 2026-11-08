@@ -96,3 +96,22 @@ entries:
         - houdini
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: SideFX Learning Paths
+    url: https://www.sidefx.com/learn/learning-paths/
+    description: Hub of curated SideFX lesson sequences grouped by discipline, starting with the Foundations path for new Houdini users.
+    pricing: Free
+    license: Free
+    entry_type: tutorial
+    tags:
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - houdini
+    readme_tags:
+      - Official
+      - Learning Paths
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.600Z'

@@ -17,3 +17,25 @@ entries:
       - Motion Design
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Jake In Motion (Jake Bartlett)
+    url: https://www.youtube.com/@JakeInMotion
+    description: 'Motion design channel by educator Jake Bartlett: After Effects, Rive and Figma animation tutorials, with free presets, rigs and sample projects on his site.'
+    pricing: Free (paid courses on site)
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - After Effects
+      - YouTube
+    dual_listed_in:
+      - motion-graphics-video/after-effects-learning
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.908Z'

@@ -552,3 +552,46 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.465Z'
+  - name: Free To Use Sounds
+    url: https://www.freetousesounds.com/
+    description: 'Field-recording SFX libraries from 30+ destinations: nature, cities, rain, underwater and binaural ambiences; royalty-free for commercial use.'
+    pricing: Paid packs; All In One bundle
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - film-vfx
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Field Recordings
+      - Ambiences
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.597Z'
+  - name: Soundstripe
+    url: https://www.soundstripe.com/
+    description: Subscription or per-song licensing for 120k+ human-made music tracks, 100k+ sound effects and stock video.
+    pricing: Subscription or single-song license
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+        - editing
+      output:
+        - broadcast
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - subscription
+    readme_tags:
+      - Music Licensing
+      - SFX
+    dual_listed_in:
+      - assets-libraries/stock-footage
+    added_at: '2026-11-08T19:03:24.598Z'

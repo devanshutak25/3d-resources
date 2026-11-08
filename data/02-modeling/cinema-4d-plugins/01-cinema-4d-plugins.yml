@@ -173,3 +173,204 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:35:14.953Z'
+  - name: NeXus (Insydium)
+    url: https://insydium.ltd/products/nexus/
+    description: 'Vulkan GPU particle and simulation framework for Cinema 4D and Blender: liquids, fire, smoke, grains and a multi-material MPM solver.'
+    pricing: £140 perpetual
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+        - fx
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - gpu
+        - cinema-4d
+        - blender-addon
+        - perpetual
+    readme_tags:
+      - GPU Sims
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.616Z'
+  - name: C4Dzone Plugins
+    url: https://www.c4dzone.com/en/shop/plug-ins-17/
+    description: 'Shop of low-cost parametric archviz plugins for Cinema 4D: Ceiling Builder, FloorGen 2, TileWall Pro, Stair Builder, Rail and Fence, Interior Builder, Easy Ivy.'
+    pricing: €5-35 per plugin
+    license: Paid
+    entry_type: marketplace
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      skill:
+        - beginner
+      tech:
+        - cinema-4d
+        - procedural
+    readme_tags:
+      - Archviz
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.647Z'
+  - name: WireTools (Cataclysm VFX)
+    url: https://cataclysm-vfx.com/plugins
+    description: 'Gesture-based wiring for the Cinema 4D Redshift node editor: draw connections, fan outputs, cut wires with a stroke; sold alongside Smart Split, Redshift SMC and XCommander.'
+    pricing: From $39 one-time
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - look-dev
+        - material-authoring
+      output:
+        - motion-graphics
+        - product-viz
+      platform:
+        - win
+      skill:
+        - intermediate
+      tech:
+        - cinema-4d
+        - node-based
+    readme_tags:
+      - Redshift Nodes
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.660Z'
+  - name: 3D Printer Simulator (C4D)
+    url: https://lukasthorup.gumroad.com/l/c4d-3d-printer-simulator
+    description: Free Cinema 4D 2023+ plugin that turns polygon models into layer-by-layer FDM print animations with print lines, infill, supports and a moving print head rig.
+    pricing: Free (pay what you want)
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - fx
+      output:
+        - motion-graphics
+        - product-viz
+      skill:
+        - beginner
+      tech:
+        - cinema-4d
+        - procedural
+    readme_tags:
+      - 3D Print FX
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.665Z'
+  - name: EDGY
+    url: https://corneliusdammrich.gumroad.com/l/edgy
+    description: 'Cinema 4D and Blender plugin that cuts real geometric wear into watertight meshes: chips, cracked corners, craters, fractures and buildup, maskable with Fields or vertex groups.'
+    pricing: $15 (both hosts)
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      output:
+        - motion-graphics
+        - games
+        - film-vfx
+      platform:
+        - win
+        - mac
+      skill:
+        - beginner
+      tech:
+        - cinema-4d
+        - blender-addon
+        - procedural
+    readme_tags:
+      - Damage
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.668Z'
+  - name: KeyTool Pro (Animoore)
+    url: https://animoore.studio/articles/keytool-pro-v1-for-cinema4d
+    description: Free Cinema 4D keyframe utility with bounce, elastic and ease presets, copy/paste ease, reverse, align, offset and randomize tools for selected keys.
+    pricing: Free
+    license: Free
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      skill:
+        - beginner
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Keyframes
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.671Z'
+  - name: CameraMatch AutoSetup
+    url: https://jamiecardoso-mentalray.blogspot.com/2026/07/camera-match-autosetup-3d-script-for.html
+    description: Photomontage camera matcher for Cinema 4D, Blender, SketchUp and 3ds Max that detects vanishing lines in a photo and builds an aligned physical camera with matched resolution.
+    pricing: From $99 (5-seat studio); 7-day trial
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - match-move
+      output:
+        - archviz
+      skill:
+        - beginner
+      tech:
+        - cinema-4d
+    readme_tags:
+      - Photomatch
+    dual_listed_in:
+      - tools-pipeline-utilities/matchmoving-tracking
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.672Z'
+  - name: Gausser
+    url: https://aescripts.com/gausser/
+    description: Cinema 4D 2026+ plugin to import, relight, animate and render Gaussian splats with Fields, effectors, deformers and cloners; can emit native C4D particles.
+    pricing: $24.99
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - rendering
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - cinema-4d
+    readme_tags:
+      - Cinema 4D
+    dual_listed_in:
+      - tools-pipeline-utilities/gaussian-splatting-nerf
+    year: 2026
+    added_at: '2026-11-08T19:03:24.818Z'

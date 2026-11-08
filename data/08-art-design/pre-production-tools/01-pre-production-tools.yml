@@ -657,3 +657,121 @@ entries:
       - Clip Search
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Trelby
+    url: https://www.trelby.org/
+    description: Free open-source screenwriting app that enforces standard script format and pagination, with reports, script compare and format import/export.
+    pricing: Free (GPL)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - storyboard
+      output:
+        - film-vfx
+      skill:
+        - beginner
+      tech:
+        - opensource-alt
+    readme_tags:
+      - Screenwriting
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.471Z'
+  - name: Story Architect (STARC)
+    url: https://starc.app/
+    description: Open-source screenwriting app with script editor, corkboard, mind maps, character profiles and series support; free version plus paid tiers.
+    pricing: Free version; paid licences
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - storyboard
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - ios
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Screenwriting
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.472Z'
+  - name: Shot Designer
+    url: https://www.hollywoodcamerawork.com/shot-designer.html
+    description: Camera blocking app that links overhead diagrams, shot lists, animated previews and storyboards; free for one scene, Pro €19.99.
+    pricing: Free (1 scene); Pro €19.99
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - storyboard
+      output:
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - ios
+        - android
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Blocking
+    dual_listed_in:
+      - art-design-visual-storytelling/cinematography-camera
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.497Z'
+  - name: Previs Pro
+    url: https://www.previspro.com/
+    description: 3D storyboard and previs app for Mac, iPad and iPhone with real sensor formats, AR virtual camera, LiDAR sets, animatics and script import.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - storyboard
+      output:
+        - film-vfx
+      platform:
+        - mac
+        - ipad
+        - ios
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - 3D Storyboards
+    dual_listed_in:
+      - art-design-visual-storytelling/cinematography-camera
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.499Z'
+  - name: KaveLight
+    url: https://kavelight.com/
+    description: Mac previs app for planning film lighting, blocking and framing with real fixture data (ARRI, Aputure), 36 camera bodies and a path-traced camera monitor.
+    pricing: $24.95/mo; $249/yr; $819 perpetual
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - previs
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - mac
+      tech:
+        - path-tracing
+    readme_tags:
+      - Lighting Previs
+    dual_listed_in:
+      - lighting-rendering-shaders/lighting-production
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.890Z'

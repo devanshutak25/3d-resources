@@ -68,13 +68,11 @@ entries:
         - web
       tech:
         - xr
-  - name: Rendering | Oculus Developers
-    url: https://developer.oculus.com/resources/bp-rendering/
+  - name: Rendering Best Practices (Meta VR Developers)
+    url: https://developers.meta.com/vr/resources/bp-rendering/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Oculus rendering best-practices guide.
+    description: Meta (Oculus) VR rendering best-practices guide.
     entry_type: reference
-    url_last_verified: '2026-11-01'
-    url_status: redirect
     tags:
       workflow:
         - rendering
@@ -272,7 +270,7 @@ entries:
   - name: Ultraleap
     url: https://www.ultraleap.com/
     added_at: '2026-04-19T17:15:03.000Z'
-    description: Hand-tracking hardware and SDK (formerly Ultrahaptics and Leap Motion).
+    description: Hand-tracking hardware and SDK (formerly Ultrahaptics and Leap Motion). Company entered administration in Oct 2026.
     entry_type: hardware
     license: Paid
     url_last_verified: '2026-11-01'
@@ -446,10 +444,10 @@ entries:
       - Niantic
     url_last_verified: '2026-11-01'
     url_status: ok
-  - name: Mozilla Hubs
-    url: https://hubs.mozilla.com/
+  - name: Hubs (Hubs Foundation)
+    url: https://hubsfoundation.org/
     added_at: '2026-05-22T16:48:26.000Z'
-    description: Open-source social VR rooms in the browser. Forked and maintained by community after Mozilla sunset.
+    description: Open-source social VR rooms in the browser, maintained by the community Hubs Foundation after Mozilla's sunset; self-host via Hubs Community Edition.
     license: Open Source
     entry_type: software
     best_for: Social VR, virtual events, meetings
@@ -467,8 +465,6 @@ entries:
     readme_tags:
       - WebXR
       - Social
-    url_last_verified: '2026-11-01'
-    url_status: redirect
     notes: Mozilla Hubs shut down (2024).
     deprecated: true
   - name: Bino
@@ -545,3 +541,504 @@ entries:
       - Freemium
       - VR
     best_for: XR scene prototyping
+  - name: OpenXR
+    url: https://www.khronos.org/openxr/
+    description: Royalty-free Khronos API standard for cross-device VR and AR apps; runtimes from Meta, Google, Valve, Pico, HTC and others, with support in Unity, Unreal, Godot and Blender.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - linux
+        - android
+        - vr
+      skill:
+        - advanced
+      tech:
+        - xr
+        - real-time
+    readme_tags:
+      - Open Standard
+      - Khronos
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.741Z'
+  - name: Monado
+    url: https://monado.freedesktop.org/
+    description: Open-source OpenXR runtime with VR hardware drivers for Linux, plus Android and simulated-device support on Windows.
+    pricing: Free
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - xr
+      platform:
+        - linux
+        - android
+        - win
+      skill:
+        - advanced
+      tech:
+        - xr
+        - opensource-alt
+    readme_tags:
+      - OpenXR Runtime
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.742Z'
+  - name: Meta Spatial SDK
+    url: https://developers.meta.com/horizon/develop/spatial-sdk
+    description: Native Android framework for building mixed reality apps for Quest headsets and Meta VR glasses, paired with the Meta Spatial Editor scene tool.
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - Horizon OS
+      - Android
+    added_at: '2026-11-08T19:03:24.743Z'
+  - name: Immersive Web SDK (Meta)
+    url: https://iwsdk.dev/
+    description: Three.js-based WebXR framework from Meta with an ECS, spatial UI, grab and locomotion systems, and desktop emulation of VR input.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - web
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - real-time
+    readme_tags:
+      - WebXR
+      - Three.js
+    year: 2025
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.744Z'
+  - name: Android XR for Developers
+    url: https://developer.android.com/develop/xr
+    description: 'Google developer hub for Android XR headsets and glasses: Jetpack XR SDK (core libraries in beta), ARCore for Jetpack XR, emulator, and Unity, Unreal, Godot, OpenXR and WebXR paths.'
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - xr
+      platform:
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - Android XR
+      - Jetpack XR
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.745Z'
+  - name: XR Interaction Toolkit (Unity)
+    url: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.7/manual/index.html
+    description: 'Unity package for VR and AR interactions: interactors, grab, locomotion, haptics, XR UI input, and a simulator for testing without a headset.'
+    pricing: Free
+    license: Free
+    entry_type: plugin
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - unity
+        - unity-plugin
+    readme_tags:
+      - Unity
+      - Interaction
+    dual_listed_in:
+      - game-development/unity-engine-resources
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.746Z'
+  - name: Unity PolySpatial for visionOS
+    url: https://docs.unity.com/en-us/engine/current/manual/platform-specific/vision-os
+    description: Package set for building windowed, mixed reality and fully immersive Apple Vision Pro apps in Unity; MR and VR modes need Unity Pro or higher.
+    pricing: Requires Unity Pro for MR/VR
+    license: Paid
+    entry_type: plugin
+    tags:
+      output:
+        - xr
+      platform:
+        - mac
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - unity
+    readme_tags:
+      - visionOS
+      - Unity
+    dual_listed_in:
+      - game-development/unity-engine-resources
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.747Z'
+  - name: visionOS Developer (Apple)
+    url: https://developer.apple.com/visionos/
+    description: 'Apple''s developer hub for Vision Pro: SwiftUI windows and volumes, RealityKit, ARKit, Reality Composer Pro, Unity support, docs and sample code.'
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - xr
+      platform:
+        - mac
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - visionOS
+      - Apple
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.748Z'
+  - name: ARCore
+    url: https://developers.google.com/ar
+    description: 'Google''s AR SDK for Android, iOS, Unity and WebXR: motion tracking, depth, light estimation, Geospatial API and cloud anchors.'
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - android
+        - ios
+        - web
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - AR
+      - Google
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.749Z'
+  - name: StereoKit
+    url: https://stereokit.net/
+    description: MIT-licensed C# library for XR apps on any OpenXR platform, including Quest, HoloLens 2, SteamVR, Varjo and Monado.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - win
+        - linux
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - C#
+      - OpenXR
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.750Z'
+  - name: Godot OpenXR Vendors
+    url: https://github.com/GodotVR/godot_openxr_vendors
+    description: GDExtension plugin that adds vendor OpenXR extensions to Godot 4 for Android XR, Meta Quest and Pico devices.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - godot
+    readme_tags:
+      - Godot
+      - OpenXR
+    dual_listed_in:
+      - game-development/godot-plugins
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.751Z'
+  - name: '@react-three/xr'
+    url: https://github.com/pmndrs/xr
+    description: WebXR library for React Three Fiber that adds VR and AR sessions, controllers, hand tracking, teleport, hit test and anchors to R3F scenes.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - web
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - real-time
+    readme_tags:
+      - WebXR
+      - React
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.752Z'
+  - name: MRTK3 (Mixed Reality Toolkit)
+    url: https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity
+    description: Community-run Unity toolkit for mixed reality UI and interaction, built on XR Interaction Toolkit and OpenXR; targets Android XR, Quest, HoloLens 2 and Magic Leap 2.
+    pricing: Free (BSD-3)
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - xr
+      platform:
+        - win
+        - android
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - unity
+        - unity-plugin
+    readme_tags:
+      - Unity
+      - Mixed Reality
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.753Z'
+  - name: ALVR
+    url: https://github.com/alvr-org/ALVR
+    description: Open-source app that streams SteamVR games from a Windows or Linux PC to Quest, Pico, Vive Focus or Vision Pro headsets over Wi-Fi.
+    pricing: Free (MIT)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - linux
+        - vr
+      skill:
+        - beginner
+      tech:
+        - xr
+        - opensource-alt
+    readme_tags:
+      - PC VR Streaming
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.754Z'
+  - name: Meta VR Developer Hub
+    url: https://developers.meta.com/horizon/documentation/unity/ts-odh
+    description: 'Desktop app for Quest development (formerly Meta Quest Developer Hub): deploy builds, cast, capture logs and Perfetto traces, analyze performance and upload to the Store.'
+    entry_type: tool
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - Quest
+      - Debugging
+    added_at: '2026-11-08T19:03:24.775Z'
+  - name: WebXR Device API
+    url: https://immersive-web.github.io/webxr/
+    description: W3C Immersive Web spec that lets web pages access VR and AR headsets, controllers and sensors; the API under A-Frame, Babylon.js and three.js XR.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      output:
+        - xr
+      platform:
+        - web
+        - vr
+      skill:
+        - advanced
+      tech:
+        - xr
+    readme_tags:
+      - WebXR
+      - W3C Spec
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.776Z'
+  - name: WiVRn
+    url: https://github.com/WiVRn/WiVRn
+    description: GPL-3.0 OpenXR streaming app that sends VR from a Linux PC to Quest, Pico, Vive Focus and Galaxy XR headsets.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - xr
+        - games
+      platform:
+        - linux
+        - vr
+      skill:
+        - intermediate
+      tech:
+        - xr
+        - opensource-alt
+    readme_tags:
+      - Linux VR
+      - Streaming
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.777Z'
+  - name: Spatial (Mike Swanson)
+    url: https://blog.mikeswanson.com/spatial
+    description: Free macOS command-line tool that converts MV-HEVC spatial video and photos to and from side-by-side, over/under and per-eye formats for Vision Pro and Quest.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - editing
+      output:
+        - xr
+      platform:
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - xr
+    readme_tags:
+      - Spatial Video
+      - MV-HEVC
+    year: 2024
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.778Z'
+  - name: Blackmagic URSA Cine Immersive
+    url: https://www.blackmagicdesign.com/products/blackmagicursacineimmersive
+    description: 'Stereo 180° cinema camera for Apple Immersive Video: dual 8K sensors at 8160x7200 per eye, 90 fps, Blackmagic RAW, finished in DaVinci Resolve Studio.'
+    pricing: $30,375 (kit)
+    license: Paid
+    entry_type: hardware
+    tags:
+      workflow:
+        - editing
+        - color-grading
+      output:
+        - xr
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - xr
+    readme_tags:
+      - Immersive Video
+      - Camera
+    dual_listed_in:
+      - vfx-compositing-virtual-production/virtual-production
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.779Z'
+  - name: VRChat Creator Docs
+    url: https://creators.vrchat.com/
+    description: Official VRChat documentation for building avatars and worlds in Unity, with the Creator Companion, SDK packages and UdonSharp.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - rigging
+        - modeling
+      output:
+        - xr
+        - games
+      platform:
+        - win
+        - vr
+      skill:
+        - beginner
+      tech:
+        - unity
+        - xr
+    readme_tags:
+      - VRChat
+      - Avatars
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.781Z'
+  - name: VRM
+    url: https://vrm.dev/en/
+    description: glTF-based 3D humanoid avatar file format from the VRM Consortium, with UniVRM for Unity; used by VTuber and social VR apps.
+    pricing: Free
+    license: Free
+    entry_type: reference
+    tags:
+      workflow:
+        - rigging
+      output:
+        - xr
+        - games
+      skill:
+        - intermediate
+      tech:
+        - glb
+        - unity
+    readme_tags:
+      - Avatar Format
+      - glTF
+    dual_listed_in:
+      - tools-pipeline-utilities/pipeline-standards
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.782Z'

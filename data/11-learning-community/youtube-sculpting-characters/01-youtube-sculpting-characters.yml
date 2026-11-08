@@ -197,3 +197,82 @@ entries:
         - generalist
       platform:
         - web
+  - name: Maxon ZBrush
+    url: https://www.youtube.com/@MaxonZBrush
+    description: Official ZBrush channel with artist livestreams, ZBrush and Chill sessions and creature-design series.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - ZBrush
+      - Official
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.557Z'
+  - name: Follygon
+    url: https://www.youtube.com/@Follygon
+    description: Character and creature sculpting channel, including daily Sculptober pieces.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+      skill:
+        - intermediate
+    readme_tags:
+      - Character Sculpting
+      - Stylized
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.558Z'
+  - name: Abe Leal 3D
+    url: https://www.youtube.com/@AbeLeal3D
+    description: Sculpting streams, workshops and artist interviews focused on character and creature work.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - sculpting
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    readme_tags:
+      - Sculpting
+      - Livestreams
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.559Z'
+  - name: Keos Masons
+    url: https://www.youtube.com/@KeosMasons
+    description: Character studio channel by Cedric Seaut and Marco Plouffe showing sculpting, Substance texturing and 3D-print prep for collectibles.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - sculpting
+        - texturing
+      output:
+        - games
+        - film-vfx
+      platform:
+        - web
+      skill:
+        - intermediate
+        - advanced
+    readme_tags:
+      - Character Design
+      - Collectibles
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.560Z'

@@ -258,3 +258,52 @@ entries:
     tags:
       platform:
         - web
+  - name: Singularity Production Files (Blender Studio)
+    url: https://studio.blender.org/films/singularity/
+    description: Production assets, frames and encodes from Blender Studio's 2026 painterly space short, released under CC BY.
+    pricing: Blender Studio subscription
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+        - look-dev
+        - animation
+        - lighting
+      output:
+        - film-vfx
+      platform:
+        - web
+    readme_tags:
+      - Open Movie
+      - CC BY
+    year: 2026
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.585Z'
+  - name: Poly Haven Asset Browser
+    url: https://superhivemarket.com/products/poly-haven-asset-browser
+    description: Blender add-on that puts Poly Haven's HDRIs, materials and models in the Asset Browser with auto-updates; slated to go free at 5,000 patrons.
+    pricing: $49, or with $5/mo Poly Haven Patreon
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - lighting
+        - texturing
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - cc0
+        - pbr
+    readme_tags:
+      - Blender
+      - Official
+    dual_listed_in:
+      - modeling-sculpting-texturing/blender-plugins-addons
+    url_status: ok
+    url_last_verified: '2026-11-08'
+    added_at: '2026-11-08T19:03:24.596Z'
