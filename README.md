@@ -163,7 +163,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(7 items)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
 - [Image Generation](#image-generation) <span class="toc-count">(23 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
 - [Video Generation](#video-generation) <span class="toc-count">(40 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
-- [3D Generation](#3d-generation) <span class="toc-count">(41 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
+- [3D Generation](#3d-generation) <span class="toc-count">(42 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
 - [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(11 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
 - [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(61 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
@@ -186,7 +186,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
 - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(56 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
-- [Conversion Tools](#conversion-tools) <span class="toc-count">(46 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
+- [Conversion Tools](#conversion-tools) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
 - [Pipeline Standards](#pipeline-standards) <span class="toc-count">(13 items)</span><br><small class="toc-desc">Interchange formats and standards.</small>
 - [Pipeline Overview](#pipeline-overview) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Industry-to-software quick reference.</small>
 
@@ -236,7 +236,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Software Reference: Legacy & Defunct](#software-reference-legacy--defunct) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.</small>
 - [AI Image & Texture Generation Software](#ai-image--texture-generation-software) <span class="toc-count">(30 items)</span><br><small class="toc-desc">AI image generation and AI texture/material generation tools.</small>
 - [AI Video Generation Software](#ai-video-generation-software) <span class="toc-count">(33 items)</span><br><small class="toc-desc">AI text-to-video and image-to-video generation tools.</small>
-- [AI 3D Generation Software](#ai-3d-generation-software) <span class="toc-count">(32 items)</span><br><small class="toc-desc">AI text-to-3D, image-to-3D, and 3D-asset generation tools.</small>
+- [AI 3D Generation Software](#ai-3d-generation-software) <span class="toc-count">(33 items)</span><br><small class="toc-desc">AI text-to-3D, image-to-3D, and 3D-asset generation tools.</small>
 - [AI Audio & Music Generation Software](#ai-audio--music-generation-software) <span class="toc-count">(12 items)</span><br><small class="toc-desc">AI music, voice, and SFX generation tools.</small>
 - [AI Motion Capture Software](#ai-motion-capture-software) <span class="toc-count">(20 items)</span><br><small class="toc-desc">Markerless and AI-driven motion capture and pose estimation tools.</small>
 - [AI-Assisted CG Software](#ai-assisted-cg-software) <span class="toc-count">(13 items)</span><br><small class="toc-desc">AI upscaling, cleanup, generative assist, and AI-powered DCC features.</small>
@@ -3769,6 +3769,7 @@ AI tools for generating 3D models from text or images.
 | [Stability SPAR3D](https://stability.ai/) | Open-source single-image 3D reconstruction.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> |  | Open source | Stability AI · Open Source | Single-image open-source 3D |
 | [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) | StepFun open model that generates textured 3D assets from images in separate geometry and texture stages.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> |  | Open source | Open Source · Image to 3D | Textured asset generation |
 | [TRELLIS.2 (Microsoft)](https://huggingface.co/microsoft/TRELLIS.2-4B) | Full PBR materials, complex topologies.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> |  | Open source | Microsoft · PBR + Open Source | PBR AI 3D (open source) |
+| [Trify3D](https://trify3d.com/) | Web app that runs Tripo3D, Meshy and Rodin side by side on the same text or image input and exports GLB, glTF, OBJ and STL.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> | 50 free credits, paid plans | Free tier | Multi-Engine · GLB | Comparing AI 3D engines on one input |
 | [Tripo v3.0](https://www.tripo3d.ai/) | Sculpture-level precision, clean quad topology.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> |  | Free tier | Clean Quads · Sculpt-level | Clean topology AI 3D |
 | [TripoSG](https://github.com/VAST-AI-Research/TripoSG) | VAST open image-to-3D shape model built on rectified flow.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> |  | Open source | Open Source · Image to 3D | Image to 3D shapes |
 | [TripoSR](https://github.com/VAST-AI-Research/TripoSR) | Tripo/Stability collab. Fast open-source image-to-3D.<br><small class="see-also">See also: <a href="#ai-3d-generation-software">Software Reference → AI 3D Generation Software</a></small> |  | Open source | Open Source · Fast | Fast open-source image→3D |
@@ -4227,6 +4228,7 @@ Research papers on ML for CG, generative 3D, neural rendering, and related topic
 | [Stability SPAR3D](https://stability.ai/) | Open-source single-image 3D reconstruction. |  | Open source | Stability AI · Open Source | Single-image open-source 3D |
 | [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) | StepFun open model that generates textured 3D assets from images in separate geometry and texture stages. |  | Open source | Open Source · Image to 3D | Textured asset generation |
 | [TRELLIS.2 (Microsoft)](https://huggingface.co/microsoft/TRELLIS.2-4B) | Full PBR materials, complex topologies. |  | Open source | Microsoft · PBR + Open Source | PBR AI 3D (open source) |
+| [Trify3D](https://trify3d.com/) | Web app that runs Tripo3D, Meshy and Rodin side by side on the same text or image input and exports GLB, glTF, OBJ and STL. | 50 free credits, paid plans | Free tier | Multi-Engine · GLB | Comparing AI 3D engines on one input |
 | [Tripo v3.0](https://www.tripo3d.ai/) | Sculpture-level precision, clean quad topology. |  | Free tier | Clean Quads · Sculpt-level | Clean topology AI 3D |
 | [TripoSG](https://github.com/VAST-AI-Research/TripoSG) | VAST open image-to-3D shape model built on rectified flow. |  | Open source | Open Source · Image to 3D | Image to 3D shapes |
 | [TripoSR](https://github.com/VAST-AI-Research/TripoSR) | Tripo/Stability collab. Fast open-source image-to-3D. |  | Open source | Open Source · Fast | Fast open-source image→3D |
@@ -4801,6 +4803,7 @@ Format conversion across image, video, audio, and 3D.
 - [spark.js (Ludicon)](https://ludicon.com/sparkjs) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. JavaScript library that transcodes WebP, AVIF or JXL textures to GPU-native compressed formats at runtime on WebGPU.
 - [Squoosh](https://squoosh.app/). Google. AVIF/WebP/JPEG XL image compression.
 - [TinyPNG](https://tinypng.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Lossy PNG/JPEG compression.
+- [Trify3D STL Editor](https://trify3d.com/tools/stl-editor/). Browser tool that views, repairs and converts STL files, exporting STL, 3MF or PLY, with optional AI image-to-STL generation.
 - [VERT.sh](https://vert.sh/). General-purpose online converter.
 
 ### Pipeline Standards
@@ -6461,6 +6464,7 @@ AI text-to-3D, image-to-3D, and 3D-asset generation tools.
 | [Stability SPAR3D](https://stability.ai/) | Open-source single-image 3D reconstruction.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> |  | Open source | Stability AI · Open Source | Single-image open-source 3D |
 | [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) | StepFun open model that generates textured 3D assets from images in separate geometry and texture stages.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> |  | Open source | Open Source · Image to 3D | Textured asset generation |
 | [TRELLIS.2 (Microsoft)](https://huggingface.co/microsoft/TRELLIS.2-4B) | Full PBR materials, complex topologies.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> |  | Open source | Microsoft · PBR + Open Source | PBR AI 3D (open source) |
+| [Trify3D](https://trify3d.com/) | Web app that runs Tripo3D, Meshy and Rodin side by side on the same text or image input and exports GLB, glTF, OBJ and STL.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> | 50 free credits, paid plans | Free tier | Multi-Engine · GLB | Comparing AI 3D engines on one input |
 | [Tripo v3.0](https://www.tripo3d.ai/) | Sculpture-level precision, clean quad topology.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> |  | Free tier | Clean Quads · Sculpt-level | Clean topology AI 3D |
 | [TripoSG](https://github.com/VAST-AI-Research/TripoSG) | VAST open image-to-3D shape model built on rectified flow.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> |  | Open source | Open Source · Image to 3D | Image to 3D shapes |
 | [TripoSR](https://github.com/VAST-AI-Research/TripoSR) | Tripo/Stability collab. Fast open-source image-to-3D.<br><small class="see-also">See also: <a href="#3d-generation">AI & Machine Learning for CG → 3D Generation</a></small> |  | Open source | Open Source · Fast | Fast open-source image→3D |
