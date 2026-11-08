@@ -113,3 +113,13 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: ReelBoop
+    url: https://reelboop.com/
+    added_at: '2026-11-08T08:27:00Z'
+    description: Paid AI tool that turns photos into dance, outfit-change, duet and product videos.
+    license: Paid
+    entry_type: software
+    pricing: Credits from US$6.90 one-time or US$9.90/month; no free video trial
+    tags:
+      platform: [web]
+      tech: [ai-generative]
