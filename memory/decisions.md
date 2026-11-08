@@ -133,3 +133,11 @@ Architectural / structural decisions w/ rationale + date.
 - Location rows of a listed studio are not new rows (Hangar 13 Brighton); the parent row's `offices` carries the city.
 - Azerbaijan + Faroe Islands added to COUNTRY_REGION as europe (with Armenia/Georgia).
 - 2026-11-09: Studio discovery method saved as docs/playbooks/studio-discovery.md + tracked scripts/import-studios.js (user: store the method, run other regions in future sessions). Scratchpad copies were lost per session before.
+
+## 2026-11-09: Studio round 7, Asia-Pacific by country
+- Central Asia (Kazakhstan, Uzbekistan) maps to `asia-pacific` in COUNTRY_REGION (lookup table). Macau was added then removed (its only lead, 4DMacau, 404s); add it back when a row needs it.
+- Studio `url` with no own site: Steam `/developer/<name>` page or own itch.io subdomain OK (Saibot precedent); Steam `/search/?developer=` URLs, Linktree, Behance, Instagram not (user-added exceptions keep a note).
+- Social-casino card-game studios fall under the gambling rule even when the row predates it: Octro (Teen Patti, rummy, poker) removed. Casino-themed titles among many casual games are fine (SAT-BOX).
+- Same studio under two hosts (2-10.cn + en.2-10.cn): merge into the older row, union disciplines/markets.
+- `scripts/import-studios.js`: force.txt now also clears `dupe name+country` (distinct companies with normalised-equal names); host dupes still block.
+- Research agents: public web only. No connected user services (Tracxn etc.), no extracting API keys/tokens from page bundles. Added to the playbook brief.

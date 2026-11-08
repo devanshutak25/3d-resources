@@ -305,3 +305,18 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > commit and push
 
 **Answered:** Committed round 6 data + importer/playbook + docs (feat) and memory log (docs), pushed to origin/main.
+
+**Prompt:** (2026-11-09)
+> studio-discovery.md for asia and australia please
+
+**Answered:** Round 7, Asia-Pacific by country: 13 agents, both directories. 722 raw -> 712 written (+362 studios -> 3,436, +350 game studios -> 3,587, net of 2 removals). Kazakhstan + Uzbekistan added to COUNTRY_REGION. Fixed 5 existing cities, merged Two Ten into 2:10 AM, removed Octro (social casino). Playbook updated (public-web-only rule, Steam URL rule, force clears name clashes). Validate/test/build ✓. Not committed.
+
+**Prompt:** (2026-11-09)
+> is it stuck?
+
+**Answered:** No. Round done; Australia agent had an idle background child (no writes since 03:03), stopped it. SEA agent already ended. Import (03:44) complete.
+
+**Prompt:** (2026-11-09)
+> commit it please, and push
+
+**Answered:** Committed round 7 data + importer/studios.js + docs (feat) and memory log (docs), pushed to origin/main.
