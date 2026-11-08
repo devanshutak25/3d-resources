@@ -163,7 +163,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Machine Learning for CG](#machine-learning-for-cg) <span class="toc-count">(7 items)</span><br><small class="toc-desc">ML fundamentals and courses for CG artists.</small>
 - [Image Generation](#image-generation) <span class="toc-count">(23 items)</span><br><small class="toc-desc">text-to-image models and platforms.</small>
 - [Video Generation](#video-generation) <span class="toc-count">(40 items)</span><br><small class="toc-desc">AI video generation platforms and models.</small>
-- [3D Generation](#3d-generation) <span class="toc-count">(42 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
+- [3D Generation](#3d-generation) <span class="toc-count">(43 items)</span><br><small class="toc-desc">AI tools for generating 3D models from text or images.</small>
 - [Texture & Material Generation](#texture--material-generation) <span class="toc-count">(11 items)</span><br><small class="toc-desc">AI-generated PBR textures and materials.</small>
 - [ComfyUI Ecosystem](#comfyui-ecosystem) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Node-based AI generation. ComfyUI and its ecosystem.</small>
 - [AI-Assisted CG Tools](#ai-assisted-cg-tools) <span class="toc-count">(61 items)</span><br><small class="toc-desc">AI tools that augment traditional CG workflows.</small>
@@ -3783,6 +3783,7 @@ AI tools for generating 3D models from text or images.
 - [KeenFace](https://keenface.ai/) <span class="lic-pill lic-paid">Paid</span>. Photo-to-3D-head service. Turns a few face photos into a MetaHuman-compatible GLB with 4K PBR maps and 51 fitted ARKit blendshapes, via web Studio or REST API.
 - [LHM (Large Animatable Human Model)](https://github.com/aigc3d/LHM). Model that reconstructs an animatable 3D human from a single image in seconds, with ComfyUI nodes for motion extraction and video-driven animation. ICCV 2025.
 - [NativeBlend CLI](https://github.com/addy999/nativeblend-cli). AI CLI to generate and edit low-poly 3D game assets in Blender from text prompts.
+- [objekto.io](https://objekto.io/en) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Web service that designs a multi-part, print-ready 3D model as parametric CAD from a text prompt, photo or sketch, with printability checks, an exploded view and an assembly guide, and can have the parts 3D printed and delivered in France.
 - [PartCrafter](https://github.com/wgsxm/PartCrafter). Image-to-3D model that generates an object as several separate part meshes from a single RGB image in one pass. NeurIPS 2025.
 - [Pixal3D](https://github.com/TencentARC/Pixal3D). Single-image to 3D asset generation via pixel-feature back-projection. Outputs geometry and PBR textures.
 - [Pixel3DMM](https://github.com/SimonGiebenhain/pixel3dmm) <span class="lic-pill lic-nc" title="Free for non-commercial use only">Free, non-commercial</span>. Single-image 3D face reconstruction that predicts screen-space priors and fits a FLAME head model to them.
