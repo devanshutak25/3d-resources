@@ -18,7 +18,6 @@ const SITE_DIR = path.join(__dirname, '..', '_site');
 const FIRST = 48;
 const BUILD_YEAR = new Date().getFullYear();
 const SUGGEST_URL = `${REPO_URL}/issues/new?template=suggest-studio.yml`;
-const SOM_URL = 'https://schoolofmotion.com/landing-page/500-studios';
 // [label, MDI icon or text mark]. MDI has no Behance or current X logo, so those get text marks.
 const SOCIAL = {
   instagram: ['Instagram', 'mdi-instagram'], linkedin: ['LinkedIn', 'mdi-linkedin'], vimeo: ['Vimeo', 'mdi-vimeo'],
@@ -30,7 +29,7 @@ const PAGES = [
     kind: 'studios', games: false, crumb: 'Studios', h1: 'Studios directory',
     pageTitle: 'Studios directory: animation, VFX, motion and arch viz studios · 3D Resources',
     what: 'animation, VFX, motion design, CG and arch viz studios',
-    credit: `Missing one? <a href="${SUGGEST_URL}">Suggest a studio</a>. Game developers have their own <a href="/game-studios/">game studios directory</a>. Started from School of Motion's <a href="${SOM_URL}" rel="noopener">500 Studios</a> (Vol. 1).`,
+    credit: `Missing one? <a href="${SUGGEST_URL}">Suggest a studio</a>. Game developers have their own <a href="/game-studios/">game studios directory</a>.`,
     next: ['/game-studios/', 'Game studios']
   },
   {

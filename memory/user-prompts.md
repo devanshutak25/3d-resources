@@ -340,3 +340,4 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > fix and then push!
 
 **Answered:** Read "fix" as the open US city-format item: stripped state suffixes from 249 US hq/office cities ("Los Angeles, CA" -> "Los Angeles"). Validate/test/build ✓. Committed round 9 (feat) + memory (docs), pushed.
+
