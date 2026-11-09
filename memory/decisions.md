@@ -147,3 +147,12 @@ Architectural / structural decisions w/ rationale + date.
 - A site with an NFT/Web3 section counts under the crypto rule (Chroma Pixel Games). Early access = released; Steam "Coming soon" + ~10 unverified staff = below bar (Ivalice).
 - Paraguay -> americas; Benin, Madagascar, Rwanda, Togo -> middle-east-africa (COUNTRY_REGION lookup).
 - Region scope "South America + Africa" left out Central America, Caribbean and the Middle East (Gulf, Levant, Israel, Iran): next rounds.
+
+## 2026-11-09: Studio round 9, North America + Europe second pass
+- "North America" read as US + Canada + Mexico + Central America + Caribbean. "Europe once more" = second pass per cluster, aimed at sources and gaps round 6 missed.
+- El Salvador, Honduras, Jamaica, Trinidad and Tobago -> americas; Albania -> europe (COUNTRY_REGION lookup).
+- Fixed shifted url/careers in 15 game-studio rows (2026-11-02 import, Storm8..Magic Tavern). Orphan URLs (Brass Lion, Hidden Variable) not turned into rows: unverified.
+- Unreachable-by-script but well-documented studio may be added with a `notes:` line saying why (WayForward: TLS refuses curl/Node, HQ from Wikipedia). Placeholder/unreachable without other sources still dropped (Deck Nine).
+- Studio offering online-casino design as a service line falls under the gambling rule (PUNCHev); a single casino client or casino-themed game title does not.
+- Same studio, two hosts, two countries (Soda Den): keep the own-site row, merge notable, drop the game-site row.
+- US city format: plain city everywhere. Stripped state suffixes from 249 values (user: "fix and then push"). Portland OR/ME etc. now read the same; accepted.

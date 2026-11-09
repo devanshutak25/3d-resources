@@ -330,3 +330,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > yes, do it
 
 **Answered:** Committed round 8 data + COUNTRY_REGION + docs (feat) and memory log (docs), pushed to origin/main.
+
+**Prompt:** (2026-11-09)
+> studio-discovery.md for north america, and europe once more
+
+**Answered:** Round 9: 14 agents (7 North America incl. Mexico/Central America/Caribbean, 7 Europe second pass), both directories. 912 raw -> 903 net (+413 studios -> 4,043, +490 game studios -> 4,202). Fixed 15 game-studio rows with shifted URLs (2026-11-02 import). Dropped casino-linked/unreachable rows, merged Soda Den dupe. 5 countries added to COUNTRY_REGION. Validate/test/build ✓. Not committed.
+
+**Prompt:** (2026-11-09)
+> fix and then push!
+
+**Answered:** Read "fix" as the open US city-format item: stripped state suffixes from 249 US hq/office cities ("Los Angeles, CA" -> "Los Angeles"). Validate/test/build ✓. Committed round 9 (feat) + memory (docs), pushed.
