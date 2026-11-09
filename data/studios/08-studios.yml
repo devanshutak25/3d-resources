@@ -3,7 +3,7 @@ studios:
     url: https://www.shinestudio.com/
     description: Los Angeles design and production studio making title sequences, motion graphics and live action for film, TV and ads.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -73,7 +73,7 @@ studios:
     url: https://www.siblingrivalry.com/
     description: New York creative company handling branding, marketing and production, including NBC's Milan Cortina 2026 Olympics package.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -163,7 +163,7 @@ studios:
     url: https://slanted.studio/
     description: Brooklyn mixed-media studio led by Michelle Higa Fox combining 2D, 3D, stop motion and creative code.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - 2d-animation
@@ -335,7 +335,7 @@ studios:
     url: https://www.sosolimited.com/
     description: Boston studio building interactive installations, data visualizations and digital experiences across screens and physical spaces.
     hq:
-      city: Boston, MA
+      city: Boston
       country: United States
     disciplines:
       - experiential
@@ -356,7 +356,7 @@ studios:
     url: https://www.spillt.com/
     description: Denver motion and branding studio making entertainment campaigns, award-show branding and brand motion systems.
     hq:
-      city: Denver, CO
+      city: Denver
       country: United States
     disciplines:
       - motion-design
@@ -419,7 +419,7 @@ studios:
     url: https://spruce.tv/
     description: Los Angeles studio mixing animation, VFX and live action for brands, agencies, music videos and documentary packages.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -469,7 +469,7 @@ studios:
     url: https://statedesign.tv/
     description: Los Angeles design and animation studio making title design, cel and 3D animation and brand work for entertainment and tech clients.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -495,10 +495,10 @@ studios:
     url: https://www.steelworks.studio/
     description: CGI, motion and post-production studio with teams in Los Angeles and London serving brands and agencies.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: London
         country: United Kingdom
@@ -1005,12 +1005,12 @@ studios:
     url: https://www.stylocreative.com/
     description: Huntington Beach studio making CGI product worlds, motion design and brand systems for fashion and beauty brands.
     hq:
-      city: Huntington Beach, CA
+      city: Huntington Beach
       country: United States
     offices:
-      - city: Salt Lake City, UT
+      - city: Salt Lake City
         country: United States
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - product-viz
@@ -1057,7 +1057,7 @@ studios:
     url: https://www.super-dope.tv/
     description: Portland design and animation studio making character-led 2D, 3D and mixed media work for brands.
     hq:
-      city: Portland, OR
+      city: Portland
       country: United States
     disciplines:
       - 2d-animation

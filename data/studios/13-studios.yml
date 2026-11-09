@@ -181,7 +181,7 @@ studios:
     url: https://www.brazenanimation.com/
     description: Dallas animation studio making game trailers and animated content for publishers and brands.
     hq:
-      city: Dallas, TX
+      city: Dallas
       country: United States
     disciplines:
       - 3d-animation
@@ -207,7 +207,7 @@ studios:
     url: https://www.brainzoostudios.com/
     description: Los Angeles animation studio making game cinematics, with keyframe, motion capture and facial capture services.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - cinematics
@@ -285,7 +285,7 @@ studios:
         country: India
       - city: Bengaluru
         country: India
-      - city: Seattle, WA
+      - city: Seattle
         country: United States
       - city: London
         country: United Kingdom
@@ -343,7 +343,7 @@ studios:
       city: Kyiv
       country: Ukraine
     offices:
-      - city: San Francisco, CA
+      - city: San Francisco
         country: United States
     disciplines:
       - outsourcing
@@ -396,7 +396,7 @@ studios:
     url: https://www.liquiddevelopment.com/
     description: Portland game art outsourcing studio for concept, character, environment and key art.
     hq:
-      city: Portland, OR
+      city: Portland
       country: United States
     disciplines:
       - outsourcing
@@ -418,7 +418,7 @@ studios:
     url: https://sperasoft.com/
     description: Game co-development studio providing engineering, art and live ops support, part of Keywords Studios.
     hq:
-      city: Burbank, CA
+      city: Burbank
       country: United States
     offices:
       - city: Abu Dhabi

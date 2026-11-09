@@ -1,0 +1,835 @@
+studios:
+  - name: Trickster Studio
+    url: https://www.tricksterstudio.com/
+    description: Mexican animation studio doing 2D and 3D animation, character design, specialized renders and interactive pieces for brands.
+    hq:
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cofradía Studio
+    url: https://www.cofradiastudio.com/
+    description: Monterrey studio making 2D and 3D motion design, animated infographics and corporate video, including pharma launch films.
+    hq:
+      city: Monterrey
+      country: Mexico
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - medical-science
+    added_at: '2026-11-09T02:47:52.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3DStudioMexico
+    url: https://www.3dstudiomexico.com/
+    description: Mexico City studio making 3D animation, product renders, VFX, AR/VR and AI video for advertising.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - vfx
+      - xr
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Luciérnaga Studio
+    url: https://luciernagastudio.com/
+    description: Monterrey production house doing post-production, 3D animation and VR/AR experiences for TV ads, events and real estate.
+    hq:
+      city: Monterrey
+      country: Mexico
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - brand
+      - real-estate
+    added_at: '2026-11-09T02:47:52.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: No Budget Animation
+    url: https://nobudgetanimation.com/
+    description: Mexican animation studio developing original stories and producing animation for clients since 2012.
+    hq:
+      country: Mexico
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2012
+    added_at: '2026-11-09T02:47:52.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mana-T Studios
+    url: https://www.manatstudios.com/
+    description: Puerto Rico animation studio making 2D and 3D animated content and original characters, plus production services for clients.
+    hq:
+      country: Puerto Rico
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mesh Archviz Studio
+    url: https://mesharchviz.com/
+    description: Mexico City archviz studio making photoreal renders and animations for architects and real estate developers.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2018
+    added_at: '2026-11-09T02:47:52.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Croma Viz Studio
+    url: https://cromavizstudio.com/
+    description: Monterrey archviz studio making photoreal exterior and interior renders, virtual tours and BIM models for architects and developers.
+    hq:
+      city: Monterrey
+      country: Mexico
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ICE Studio
+    url: https://www.icevfx.com/
+    description: Digital VFX and animation studio in Mexico City producing visual effects and CG shots.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-09T02:47:52.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Maxia Studio
+    url: https://maxiastudio.com/
+    description: Mexico City studio doing VFX, compositing, rotoscoping, CGI, motion graphics and 2D animation for brands and production companies.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - vfx
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-09T02:47:52.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Videns Studio
+    url: https://vidensmedia.com/
+    description: Guadalajara studio doing 3D animation, VFX and post-production for US agencies and Mexican brands, including Hershey's campaigns.
+    hq:
+      city: Guadalajara
+      country: Mexico
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sueter Studio
+    url: https://www.sueterstudio.com/
+    description: Costa Rican studio doing 2D animation, character design, motion graphics and original IP for cultural institutions and brands.
+    hq:
+      country: Costa Rica
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 2Dnutz
+    url: https://2dnutz.com/
+    description: Mexican studio doing character design, rigging, animation, storyboards and VR/AR content for games and transmedia projects.
+    hq:
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - outsourcing
+      - xr
+    markets:
+      - games
+      - episodic
+    added_at: '2026-11-09T02:47:52.503Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Casa Cocuyo
+    url: https://www.casacocuyo.com/
+    description: Mexican 2D animation and illustration studio making hand-crafted original shorts and commercial work for brands such as Kellogg's, BBVA and Riot.
+    hq:
+      country: Mexico
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Canu Arts
+    url: https://www.canuarts.com/
+    description: Heredia studio building interactive brand experiences, advergames, simulators and avatar-based systems for companies and institutions since 2009.
+    hq:
+      city: Heredia
+      country: Costa Rica
+    disciplines:
+      - interactive
+    markets:
+      - brand
+    founded: 2009
+    notable:
+      - La Leyenda de los LIV (Tosty advergame saga)
+    added_at: '2026-11-09T02:47:52.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Casiopea
+    url: https://casiopea.mx/
+    description: Mexico City animation studio doing motion graphics, stop-motion and hand-drawn animation for documentaries, museums and campaigns.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - motion-design
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - advertising
+    notable:
+      - Home Is Somewhere Else
+      - The River Knows Our Name
+      - Song of the Last Lacandon
+    added_at: '2026-11-09T02:47:52.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Jugando en Serio
+    url: https://jugandoenserio.com/
+    description: Mexico City animation studio doing animation, character design, visual development, storyboards and animatics for shorts and TV.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.507Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Surpreeze
+    url: https://www.surpreeze.dk/
+    description: Boutique VFX studio making CG and compositing for commercials and brand films.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/surpreeze
+      linkedin: https://dk.linkedin.com/company/surpreeze
+    added_at: '2026-11-09T02:47:52.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sunday Studio
+    url: https://www.sundaystudio.com/
+    description: Production house making commercials, VFX, product visualisation and character animation. Founded in 2005 as Sunday Animation Studio.
+    hq:
+      city: Aarhus
+      country: Denmark
+    disciplines:
+      - vfx
+      - 3d-animation
+      - product-viz
+    markets:
+      - advertising
+      - film
+    founded: 2005
+    added_at: '2026-11-09T02:47:52.509Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lucky Creatives
+    url: https://www.luckycreatives.com/
+    description: CGI studio making photoreal 3D product content and brand visuals.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - cg
+      - product-viz
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/luckycreatives
+      linkedin: https://www.linkedin.com/company/luckycreatives
+    added_at: '2026-11-09T02:47:52.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: RR3D
+    url: https://www.rr3d.dk/
+    description: Rosbjerg & Reimers 3D makes 3D animation, visualisation and VR sales tools for industry and property.
+    hq:
+      city: Herning
+      country: Denmark
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - xr
+    markets:
+      - brand
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/rr3d_dk
+      linkedin: https://www.linkedin.com/company/rr3d
+    added_at: '2026-11-09T02:47:52.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Relay Studio
+    url: https://relay.studio/
+    description: Design and animation practice making motion design and brand animation.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/relay.studio
+    added_at: '2026-11-09T02:47:52.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ikonoform
+    url: https://ikonoform.com/
+    description: 3D visualisation studio making architectural and interior renderings for residential and commercial projects.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OYA Copenhagen
+    url: https://oyacopenhagen.com/
+    description: Creative studio producing animation, live action and audio for cross-media stories.
+    hq:
+      city: Copenhagen
+      country: Denmark
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - brand
+      - episodic
+    added_at: '2026-11-09T02:47:52.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bobby Digital Studios
+    url: https://www.bobby.se/
+    description: Digital content studio making interactive experiences, film, 3D and VFX for brands.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - interactive
+      - cg
+      - vfx
+    markets:
+      - brand
+      - advertising
+    social:
+      vimeo: https://vimeo.com/bobbydigitalstudios
+      linkedin: https://www.linkedin.com/company/bobbydigitalstudios
+    added_at: '2026-11-09T02:47:52.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Milford
+    url: https://www.milford.se/
+    description: Character animation studio making trailers, commercials and key art for game studios and agencies.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - cinematics
+    markets:
+      - games
+      - advertising
+    social:
+      instagram: https://www.instagram.com/milford_animation_studios
+      linkedin: https://www.linkedin.com/company/milford-film-&-animation
+    added_at: '2026-11-09T02:47:52.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Brickland
+    url: https://brickland.se/
+    description: CGI and VFX studio making 3D product visualisation and brand films.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - cg
+      - product-viz
+      - vfx
+    markets:
+      - brand
+      - advertising
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/brickland.se
+      linkedin: https://www.linkedin.com/company/brickland-sweden
+    added_at: '2026-11-09T02:47:52.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Magoo
+    url: https://www.magoo.se/
+    description: Creative production studio doing animation, VFX, game capture, sound and film for brands and game publishers.
+    hq:
+      city: Söderhamn
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - games
+    social:
+      vimeo: https://vimeo.com/magoofilm
+      linkedin: https://se.linkedin.com/company/magoo-3d-studios
+    added_at: '2026-11-09T02:47:52.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Svep Studios
+    url: https://www.svepstudios.se/
+    description: Creative studio for games making trailers, cinematics, key art and motion for studios and publishers.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - cinematics
+      - motion-design
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://instagram.com/SvepStudios
+      linkedin: https://www.linkedin.com/company/svepstudios
+    added_at: '2026-11-09T02:47:52.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Oh No Gravity
+    url: https://www.ohnogravity.se/
+    description: Animation studio making design-led animated films for brands. Part of the Mojna agency network.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    offices:
+      - city: Stockholm
+        country: Sweden
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/ohnogravity
+      linkedin: https://se.linkedin.com/company/ohnogravity
+    added_at: '2026-11-09T02:47:52.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DBY
+    url: https://www.dby.se/
+    description: Production company making animated and live-action films for brands.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mindbender
+    url: https://mindbender.com/
+    description: Animation studio making commercials, game trailers, character design and AR/VR content.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - xr
+    markets:
+      - advertising
+      - games
+    founded: 2006
+    social:
+      vimeo: https://vimeo.com/meindbender
+    added_at: '2026-11-09T02:47:52.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Big Rooster Studio
+    url: https://www.bigrooster.se/
+    description: Studio making 3D animation, product visualisation, VFX and motion graphics.
+    hq:
+      city: Västerås
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/bigrooster.se
+      linkedin: https://www.linkedin.com/company/bigrooster
+      vimeo: https://vimeo.com/user104618889
+    added_at: '2026-11-09T02:47:52.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Monkey in Silk
+    url: https://www.monkeyinsilk.se/
+    description: 3D visualisation studio making interior and architectural images for property and furniture clients.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/monkey_in_silk
+      linkedin: https://www.linkedin.com/company/monkey-in-silk
+    added_at: '2026-11-09T02:47:52.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: TMRW
+    url: https://tmrw.inc/
+    description: Architectural visualisation studio making images and films for architects and developers.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      linkedin: https://www.linkedin.com/company/tomorrow-ab
+    added_at: '2026-11-09T02:47:52.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Virtuell Design
+    url: https://www.virtuelldesign.se/
+    description: 3D visualisation and engineering firm making product animation, AR/VR and interactive 3D for industry.
+    hq:
+      city: Helsingborg
+      country: Sweden
+    offices:
+      - city: Gothenburg
+        country: Sweden
+    disciplines:
+      - product-viz
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    founded: 2001
+    social:
+      linkedin: https://www.linkedin.com/company/virtuelldesign
+    added_at: '2026-11-09T02:47:52.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bildinstitutet
+    url: https://www.bildinstitutet.se/
+    description: Retouch and 3D studio making CGI product and campaign images.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/bildinstitutet
+      vimeo: https://vimeo.com/bildinstitutet
+    added_at: '2026-11-09T02:47:52.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Visulent
+    url: https://visulent.se/
+    description: Architectural visualisation studio making 3D images and films for architects and developers.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/visulent
+      linkedin: https://se.linkedin.com/company/visulent
+    added_at: '2026-11-09T02:47:52.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3dVision Interactive Agency
+    url: https://www.3dvision.se/
+    description: 3D agency making photoreal visualisation, animation, AR and VR experiences.
+    hq:
+      city: Karlskrona
+      country: Sweden
+    offices:
+      - city: Växjö
+        country: Sweden
+    disciplines:
+      - product-viz
+      - 3d-animation
+      - xr
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/3dvision-ab
+    added_at: '2026-11-09T02:47:52.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: CLAY studio
+    url: https://claystudio.se/
+    description: Experience design studio building immersive installations and exhibitions for museums and brands.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Skoog
+    url: https://www.studioskoog.com/
+    description: Content studio specialised in virtual production for commercials and film.
+    hq:
+      city: Trollhättan
+      country: Sweden
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-09T02:47:52.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Redloop
+    url: https://redloop.se/
+    description: Film production company making commercials, corporate film, 3D, motion graphics and post.
+    hq:
+      city: Malmö
+      country: Sweden
+    disciplines:
+      - live-action
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Green Wall Designs
+    url: https://greenwall.se/
+    description: Creative studio making screen content and show visuals for concert tours and live broadcasts.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - music-video
+      - brand
+    notable:
+      - Ghost Skeletà world tour
+    social:
+      instagram: https://www.instagram.com/greenwalldesigns
+      linkedin: https://www.linkedin.com/company/green-wall-designs-ab
+    added_at: '2026-11-09T02:47:52.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ritualen
+    url: https://www.ritualen.com/
+    description: Boutique animation studio making in-game and cinematic animation for game studios.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - outsourcing
+      - cinematics
+    markets:
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/ritualen-ab
+    added_at: '2026-11-09T02:47:52.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Racecar
+    url: https://www.racecar.no/
+    description: Motion design and storytelling studio making animated films for brands.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      vimeo: https://vimeo.com/racecar
+      instagram: https://www.instagram.com/racecar_design
+      linkedin: https://www.linkedin.com/company/racecar-a-s
+    added_at: '2026-11-09T02:47:52.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Firegrader
+    url: https://firegrader.com/
+    description: CGI and visualisation studio making images, films and 3D animation for architecture, interiors, products and maritime.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - archviz
+      - cg
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    social:
+      vimeo: https://vimeo.com/firegrader
+    added_at: '2026-11-09T02:47:52.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tilnærmet Lik
+    url: https://www.tilnaermetlik.no/
+    description: Small production house making animated films, illustration and print.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      vimeo: https://vimeo.com/tnl
+    added_at: '2026-11-09T02:47:52.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Broomstick
+    url: https://broomstick.no/
+    description: Studio making VR/AR, interactive experiences, 3D animation and film.
+    hq:
+      city: Vennesla
+      country: Norway
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/broomstick.no
+      linkedin: https://www.linkedin.com/company/broomstick
+    added_at: '2026-11-09T02:47:52.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Concept Illustration & Animation
+    url: https://www.ciaas.no/
+    description: 3D animation and visualisation studio for offshore drilling, energy and industrial products.
+    hq:
+      city: Sola
+      country: Norway
+    disciplines:
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Windriver
+    url: https://www.windriver.no/
+    description: Studio making 3D visualisation, photography and animation for property and architecture.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

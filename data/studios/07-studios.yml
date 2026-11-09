@@ -3,7 +3,7 @@ studios:
     url: https://picturemill.com/
     description: Los Angeles title sequence studio making opening credits for film and prestige TV, part of Canyon Design Group.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -125,7 +125,7 @@ studios:
     url: https://plainsofyonder.com/
     description: Seattle studio of directors Katrina Crawford and Mark Bashore making title sequences, brand films and installations.
     hq:
-      city: Seattle, WA
+      city: Seattle
       country: United States
     disciplines:
       - title-design
@@ -148,7 +148,7 @@ studios:
       city: Warsaw
       country: Poland
     offices:
-      - city: Manhattan Beach, CA
+      - city: Manhattan Beach
         country: United States
       - city: Las Palmas de Gran Canaria
         country: Spain
@@ -181,7 +181,7 @@ studios:
     url: https://www.playardstudios.com/
     description: Miami Beach virtual production studio running Unreal Engine LED volumes, previs and in-camera VFX for film and TV.
     hq:
-      city: Miami Beach, FL
+      city: Miami Beach
       country: United States
     disciplines:
       - virtual-production
@@ -323,7 +323,7 @@ studios:
     url: https://popclutch.openroad.la/
     description: Burbank studio making entertainment branding, show packaging and on-air graphics for networks and streamers.
     hq:
-      city: Burbank, CA
+      city: Burbank
       country: United States
     disciplines:
       - title-design
@@ -399,7 +399,7 @@ studios:
     url: https://preymaker.com/
     description: New York creative studio making VFX, real-time animation and AR/VR work on a cloud-based pipeline for advertisers.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - vfx
@@ -445,7 +445,7 @@ studios:
     url: https://psyop.com/
     description: New York artist-led studio collective making character animation, mixed media, design and VFX for games, sports and brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - 3d-animation
@@ -489,7 +489,7 @@ studios:
     url: https://quietman.com/
     description: New York production and effects house making VFX, matte painting, design and live-action spots, including Super Bowl ads.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - vfx
@@ -559,7 +559,7 @@ studios:
     url: https://raxo.co/
     description: New York agency making design, animation and web work for music, fashion and entertainment brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -585,7 +585,7 @@ studios:
     url: https://redpaperheart.com/
     description: Brooklyn art and design studio where designers and coders build interactive installations and data-driven experiences.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - experiential
@@ -655,7 +655,7 @@ studios:
     url: https://www.republicstudios.tv/
     description: New York and Shanghai animation studio making motion design for advertising, broadcast, film and interactive projects.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     offices:
       - city: Shanghai
@@ -741,7 +741,7 @@ studios:
     url: https://www.rival.la/
     description: Los Angeles design studio building visual identities and motion work for brands across media.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -826,7 +826,7 @@ studios:
     url: https://roger.tv/
     description: Los Angeles creative studio working across animation, design and live action for campaigns and network rebrands.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - 3d-animation
@@ -853,7 +853,7 @@ studios:
     url: https://roofstudio.tv/
     description: Brooklyn studio making 3D animation, VFX and stop motion for brand commercials.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - cg
@@ -954,7 +954,7 @@ studios:
     url: https://www.sarofsky.com/
     description: Chicago studio making main title sequences, motion design, VFX and finishing for TV, streamers and brands.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - title-design
@@ -982,7 +982,7 @@ studios:
     url: https://www.scandimotion.com/
     description: Los Angeles design studio making entertainment marketing and brand motion graphics with a Nordic minimalist style.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -1015,7 +1015,7 @@ studios:
     url: https://helloscholar.com/
     description: Los Angeles creative production company mixing 2D, 3D, live action and VFX for brand commercials.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - 2d-animation
@@ -1042,7 +1042,7 @@ studios:
     url: https://www.scissorfilms.com/
     description: Burbank virtual production studio offering LED volume shoots, VFX, editorial and color for brands, games and artists.
     hq:
-      city: Burbank, CA
+      city: Burbank
       country: United States
     disciplines:
       - virtual-production

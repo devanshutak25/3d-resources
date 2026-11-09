@@ -1,0 +1,816 @@
+studios:
+  - name: MediaCity Games
+    url: https://www.mediacitygames.com/
+    description: Honduran game studio behind the Crimson Manor puzzle adventure series for PC, PlayStation and Xbox.
+    hq:
+      country: Honduras
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - The Inheritance of Crimson Manor
+      - Escape from Crimson Manor
+      - Atomic Escape
+    added_at: '2026-11-09T02:47:52.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Amano
+    url: https://amano.games/
+    description: Two-person Mexican game studio making Playdate games such as Devils on the Moon Pinball and Pullfrog Deluxe.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Devils On The Moon Pinball
+      - CatchaDiablos
+      - Pullfrog Deluxe
+    added_at: '2026-11-09T02:47:52.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: JGG Log Studio
+    url: https://jgglogstudio.com/
+    description: Indie game studio in Costa Rica that made the action game Blood Sins for PC and Mac.
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Blood Sins
+    added_at: '2026-11-09T02:47:52.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BitAll Force
+    url: https://www.bitallforce.com/
+    description: Mexico City indie studio making Dark Tales from México, a survival horror series built on Mexican folk tales and handmade sculptures.
+    hq:
+      city: Mexico City
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Dark Tales from México: Prelude'
+    social:
+      instagram: https://www.instagram.com/bitallforce/
+    added_at: '2026-11-09T02:47:52.507Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: We The Force Studios
+    url: https://wetheforcestudios.com/
+    description: Saltillo game studio that made the action platformer Randall and now builds gamified training products for manufacturers.
+    hq:
+      city: Saltillo
+      country: Mexico
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Randall
+    added_at: '2026-11-09T02:47:52.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Navegante
+    url: https://www.navegante-entertainment.com/
+    description: 'Mexican game studio that made the hand-drawn adventure Greak: Memories of Azur for Team17 and is developing Greak 2.'
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Greak: Memories of Azur'
+      - 'Greak 2: Alliance of the Storms'
+    added_at: '2026-11-09T02:47:52.509Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OUTRISE studios
+    url: https://outrisestudios.com/
+    description: Mexican studio working in film, advertising and interactive media that made the PC game Donut Riders.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Donut Riders
+    added_at: '2026-11-09T02:47:52.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NeverEnding Games
+    url: https://neverendingames.com/
+    description: Mexican mobile game studio that has shipped more than 60 casual games since 2014, including Hamster Rush and My Mini Hospital.
+    hq:
+      country: Mexico
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2014
+    notable:
+      - Hamster Rush
+      - My Mini Hospital
+      - Idle Critters
+      - Guess It
+    added_at: '2026-11-09T02:47:52.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 2think design studio
+    url: https://2think.itch.io/
+    description: Mexican indie studio that co-developed Pato Box with Bromio and Glory Hunters with Ogre Pixel.
+    hq:
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Glory Hunters
+      - Pato Box
+      - IKHOS
+    added_at: '2026-11-09T02:47:52.512Z'
+  - name: JV Interactive
+    url: https://www.jvinteractivecr.com/
+    description: Small independent game studio in Costa Rica making mobile puzzle, arcade and educational games such as Pr3tty Sudoku.
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Pr3tty Sudoku
+      - 'HoneyBee: Back To Home'
+      - TapTapTok Multiplication
+    social:
+      instagram: https://www.instagram.com/jvinteractivecr/
+    added_at: '2026-11-09T02:47:52.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AVW Atse Virtual World
+    url: https://www.atsevw.com/
+    description: Costa Rican studio making VR experiences, advergames and arcade games for brands and events, plus the Xbox game Roll Maze.
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+      - co-dev
+      - vr
+    platforms:
+      - console
+      - vr
+      - pc
+    notable:
+      - Roll Maze
+      - Calaveritas
+    added_at: '2026-11-09T02:47:52.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hongoneon
+    url: https://hongoneon.com/
+    description: 'Costa Rican indie game studio behind the light-based platformer Oscuro: Blossom''s Glow and the cozy builder The Birdsong Tree.'
+    hq:
+      country: Costa Rica
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Oscuro: Blossom''s Glow'
+      - The Birdsong Tree
+    added_at: '2026-11-09T02:47:52.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Exir Games
+    url: https://exir.games/
+    description: Mixed reality game studio behind Banners & Bastions, a tabletop tactics roguelite on Meta Quest and PICO.
+    hq:
+      country: Finland
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    notable:
+      - Banners & Bastions
+    social:
+      instagram: https://www.instagram.com/exirgamestudio
+      linkedin: https://www.linkedin.com/company/exirgamestudio
+    added_at: '2026-11-09T02:47:52.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3Hills Gaming Studio
+    url: https://3hills.io/
+    description: Montenegrin game studio making mobile and PC games, spun off from the IT company Amplitudo.
+    hq:
+      country: Montenegro
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2021
+    added_at: '2026-11-09T02:47:52.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cool Bears
+    url: https://cool-bears.com/
+    description: Indie game studio in Baku with 20+ mobile and web titles, including Truck Wars and Boxing Physics.
+    hq:
+      city: Baku
+      country: Azerbaijan
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2018
+    notable:
+      - 'Truck Wars: Mech Arena'
+      - Boxing Physics
+      - Hexo Brain
+      - Pirate Heroes
+    added_at: '2026-11-09T02:47:52.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Demagog Studio
+    url: https://demagogstudio.com/
+    description: 'Belgrade indie studio behind the narrative games Golf Club: Nostalgia and Highwater.'
+    hq:
+      city: Belgrade
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Golf Club: Nostalgia'
+      - Highwater
+      - The Cub
+    added_at: '2026-11-09T02:47:52.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Digital Arrow
+    url: https://www.digital-arrow.com/
+    description: 'Independent PC and console developer in Novi Sad, credited on Titan Quest: Eternal Embers and Aquanox Deep Descent.'
+    hq:
+      city: Novi Sad
+      country: Serbia
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Titan Quest: Eternal Embers'
+      - Aquanox Deep Descent
+    added_at: '2026-11-09T02:47:52.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Entropy Games
+    url: https://entropy-games.com/
+    description: Mobile game developer in Yerevan making the idle space battler Stellar Wind Idle.
+    hq:
+      city: Yerevan
+      country: Armenia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Stellar Wind Idle
+    added_at: '2026-11-09T02:47:52.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Half Sword Games
+    url: https://halfswordgames.com/
+    description: Small Georgia-based studio making Half Sword, a physics-driven medieval combat game in Unreal Engine 5.
+    hq:
+      country: Georgia
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    notable:
+      - Half Sword
+    added_at: '2026-11-09T02:47:52.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Neskin Games
+    url: https://www.neskin.games/
+    description: Casual mobile game studio in Limassol making merge-3 games such as Robin Hood Legends and Gemcrafter.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2011
+    notable:
+      - Robin Hood Legends
+      - Gemcrafter
+    added_at: '2026-11-09T02:47:52.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Peaksel
+    url: https://peaksel.com/
+    description: Mobile game developer and publisher in Niš making virtual pet, coloring, math and escape games.
+    hq:
+      city: Niš
+      country: Serbia
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - '100 Doors Game: Escape from School'
+    added_at: '2026-11-09T02:47:52.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pet Project Games
+    url: https://www.petprojectgames.com/
+    description: Belgrade studio making the Unreal Engine co-op horror shooter RIPOUT.
+    hq:
+      city: Belgrade
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - RIPOUT
+    added_at: '2026-11-09T02:47:52.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Prime Games
+    url: https://www.primegames.bg/en/
+    description: Solo indie studio in Plovdiv making story-driven RPGs and gamebook adaptations.
+    hq:
+      city: Plovdiv
+      country: Bulgaria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Fabled Lands
+    added_at: '2026-11-09T02:47:52.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Stuck In Attic
+    url: https://gibbousgame.com/
+    description: Independent game studio in Transylvania, Romania, behind the comedy point-and-click adventure Gibbous.
+    hq:
+      country: Romania
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Gibbous: A Cthulhu Adventure'
+    added_at: '2026-11-09T02:47:52.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Superverse Industries
+    url: https://indus3.org/
+    description: Belgrade game developer and publisher making indie arcade games for PC and mobile.
+    hq:
+      city: Belgrade
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2002
+    notable:
+      - SUPERVERSE
+      - MONSTA
+      - Table Football XL
+    added_at: '2026-11-09T02:47:52.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Undead Fox
+    url: https://www.undeadfox.com/
+    description: Small Montenegro-based developer of PC games, including the 2024 release Dark Lord.
+    hq:
+      country: Montenegro
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Dark Lord
+    added_at: '2026-11-09T02:47:52.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Aratog Games
+    url: https://aratog.com/
+    description: 'Game developer in Odesa making its own PC and mobile games, including the sci-fi MMORTS Astro Lords: Oort Cloud.'
+    hq:
+      city: Odesa
+      country: Ukraine
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Astro Lords: Oort Cloud'
+      - Hungry Mouth
+    added_at: '2026-11-09T02:47:52.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AurumDust
+    url: https://aurumdust.com/
+    description: Cyprus-headquartered remote team behind the Ash of Gods tactical RPG series.
+    hq:
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2016
+    notable:
+      - 'Ash of Gods: Redemption'
+      - 'Ash of Gods: The Way'
+      - 'Ash of Gods: Tactics'
+    added_at: '2026-11-09T02:47:52.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DEUSCRAFT
+    url: https://www.deuscraft.com/
+    description: Casual game developer in Limassol with 40+ PC time management, match-3 and hidden object games and its own mobile titles.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    added_at: '2026-11-09T02:47:52.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Domini Games
+    url: https://dominigames.com/
+    description: Hidden object adventure game developer in Limassol releasing PC and mobile titles.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    added_at: '2026-11-09T02:47:52.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fair Pixel
+    url: https://www.fairpixel.com/
+    description: 'Ukrainian indie team behind the story-driven sci-fi adventure Erra: Exordium.'
+    hq:
+      country: Ukraine
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Erra: Exordium'
+    added_at: '2026-11-09T02:47:52.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fractured Byte
+    url: https://fracturedbyte.com/
+    description: Dnipro studio doing console ports and co-development, including the Switch port of Borderlands Legendary Collection.
+    hq:
+      city: Dnipro
+      country: Ukraine
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+    founded: 2017
+    notable:
+      - Borderlands Legendary Collection (Switch port)
+    added_at: '2026-11-09T02:47:52.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Happy! Game Company
+    url: https://www.happygamecompany.com/
+    description: Hyper-casual mobile game studio in Izmir that also runs pre-publishing and training for local developers.
+    hq:
+      city: Izmir
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hologryph
+    url: https://www.hologryph.com/
+    description: Lviv game studio that co-developed Secret Neighbor and worked on Party Hard 2.
+    hq:
+      city: Lviv
+      country: Ukraine
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Secret Neighbor
+      - Party Hard 2
+    added_at: '2026-11-09T02:47:52.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Madpoly Games
+    url: https://www.madpolygames.com/
+    description: Mobile puzzle game studio in Izmir, maker of Bottle Dealer.
+    hq:
+      city: Izmir
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2024
+    notable:
+      - Bottle Dealer
+    added_at: '2026-11-09T02:47:52.538Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Permanent Way
+    url: https://permanentwaygames.com/
+    description: Istanbul indie game and animation studio adapting old myths into games and animated features.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - The Legend of Baboo
+      - Blood of Mehran
+      - The Legend of Sepehr
+    added_at: '2026-11-09T02:47:52.539Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pixofun
+    url: https://www.pixofun.com/
+    description: Serious games studio in Ankara making game-based learning and training tools.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+      - web
+    added_at: '2026-11-09T02:47:52.540Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pushka Studios
+    url: https://www.pushkastudios.com/
+    description: Co-development and porting studio registered in Nicosia, working on games for publishers and developers.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    added_at: '2026-11-09T02:47:52.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Loop Games
+    url: https://loopgames.net/
+    description: Mobile game studio in Ankara whose games have 100M+ downloads.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MildMania
+    url: https://www.mildmania.com/
+    description: Indie mobile game studio in Ankara known for Darklings and Rop.
+    hq:
+      city: Ankara
+      country: Turkey
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Darklings
+      - Rop
+    added_at: '2026-11-09T02:47:52.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fire Brick Games
+    url: https://firebrick.games/
+    description: Independent game studio in Istanbul releasing unconventional PC games such as One Last Hand and King's Well.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - One Last Hand
+      - King's Well
+    added_at: '2026-11-09T02:47:52.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Laps Games
+    url: https://www.lapsgames.com/
+    description: Independent Turkish studio making settlement and colony sims, including Land of the Vikings.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Land of the Vikings
+    added_at: '2026-11-09T02:47:52.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: KAMAi MEDIA
+    url: https://www.kamaikamai.com/
+    description: Game and VR studio in Bitola making video games, simulations, 3D reconstructions and AR/VR projects.
+    hq:
+      city: Bitola
+      country: North Macedonia
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    added_at: '2026-11-09T02:47:52.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GravityCode
+    url: https://gravity-code.com/
+    description: Mobile game developer and publisher in Niš making virtual pet, simulation and interactive story games.
+    hq:
+      city: Niš
+      country: Serbia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Dangerous Lies: Love Game'
+    added_at: '2026-11-09T02:47:52.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Stygian Software
+    url: https://www.stygiansoftware.com/
+    description: Small Belgrade indie company making old-school turn-based isometric RPGs, best known for Underrail.
+    hq:
+      city: Belgrade
+      country: Serbia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Underrail
+    added_at: '2026-11-09T02:47:52.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Red Brix Wall
+    url: https://redbrixwall.com/en/
+    description: 'Mobile game developer registered in Nicosia, maker of the tactical RPG Battle Arena: Heroes Adventure.'
+    hq:
+      city: Nicosia
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Battle Arena: Heroes Adventure'
+    added_at: '2026-11-09T02:47:52.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hot Siberians
+    url: https://hotsiberians.com/
+    description: Mobile tycoon game developer registered in Limassol, maker of Zombie Hospital and Army Tycoon.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - Zombie Hospital
+      - Army Tycoon
+      - Rewild Tycoon
+    added_at: '2026-11-09T02:47:52.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Upperpik Games
+    url: https://upperpik.com/
+    description: Mobile game studio founded in Adana, maker of Hair Challenge with 250M+ downloads.
+    hq:
+      city: Adana
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2018
+    notable:
+      - Hair Challenge
+    added_at: '2026-11-09T02:47:52.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wolves Interactive
+    url: https://www.wolvesinteractive.com/
+    description: Mobile racing and arcade game studio at Yildiz Teknopark in Istanbul, maker of Turns and Racing Go.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2016
+    notable:
+      - Turns
+      - Racing Go
+      - Motor Tour
+      - The Little Punks
+    added_at: '2026-11-09T02:47:52.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: TrueMyth Games
+    url: https://www.truemythgames.com/
+    description: Mobile game studio in Limassol that also runs the browser game platforms Paixnidia.com and Tavli.net.
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    added_at: '2026-11-09T02:47:52.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

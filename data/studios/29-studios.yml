@@ -466,7 +466,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - experiential
@@ -521,7 +521,7 @@ studios:
     url: https://www.strangeloop.tv/
     description: Visual content studio making concert visuals, broadcast content, music videos and VR.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -539,7 +539,7 @@ studios:
     url: https://www.secretlevel.co/
     description: AI-native production studio founded by Jason Zada, mixing generative models with After Effects and Nuke.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - cg
@@ -672,7 +672,7 @@ studios:
     url: https://www.idearocketanimation.com/
     description: New York animated explainer studio making product and brand videos for tech, health and finance clients.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - 2d-animation
@@ -763,7 +763,7 @@ studios:
     url: https://rockpaperreality.com/
     description: San Francisco AR and mixed reality studio making lenses, apps and XR experiences for brands.
     hq:
-      city: San Francisco, CA
+      city: San Francisco
       country: United States
     disciplines:
       - xr
@@ -778,7 +778,7 @@ studios:
     url: https://www.triggerxr.com/
     description: Los Angeles XR studio making AR lenses, mixed reality apps and immersive experiences for entertainment brands.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - xr
@@ -932,7 +932,7 @@ studios:
     url: https://www.fern.team/
     description: Animation and motion design studio with teams in Atlanta and Tokyo.
     hq:
-      city: Atlanta, GA
+      city: Atlanta
       country: United States
     offices:
       - city: Tokyo

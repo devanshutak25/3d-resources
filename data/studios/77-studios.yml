@@ -530,3 +530,442 @@ studios:
     added_at: '2026-11-09T00:44:05.537Z'
     url_status: ok
     url_last_verified: '2026-11-09'
+  - name: Globacore
+    url: https://www.globacore.com/
+    description: Mississauga interactive studio building VR experiences, multi-touch walls and branded games for events and trade shows.
+    hq:
+      city: Mississauga
+      country: Canada
+    disciplines:
+      - interactive
+      - xr
+      - experiential
+    markets:
+      - brand
+      - advertising
+    careers: https://www.globacore.com/careers
+    notable:
+      - Lexus 4 Player VR Racing
+      - VW 4Motion All-wheel Drive VR
+    added_at: '2026-11-09T02:47:52.318Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: KOVR
+    url: https://www.kovr.ca/
+    description: Edmonton VR studio, founded in 2016 as part of KO Group, building custom VR training and education experiences.
+    hq:
+      city: Edmonton
+      country: Canada
+    disciplines:
+      - xr
+    markets:
+      - brand
+    founded: 2016
+    social:
+      linkedin: https://www.linkedin.com/company/kovryeg
+    added_at: '2026-11-09T02:47:52.319Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Melcher Studios
+    url: https://www.melcher.ca/
+    description: Regina studio with offices in Saskatoon and Calgary building custom VR, AR and mixed-reality training and interactive resources.
+    hq:
+      city: Regina
+      country: Canada
+    offices:
+      - city: Saskatoon
+        country: Canada
+      - city: Calgary
+        country: Canada
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2009
+    careers: https://melcher.ca/careers.html
+    social:
+      instagram: https://www.instagram.com/melcherstudios
+    added_at: '2026-11-09T02:47:52.320Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lofty Sky Entertainment
+    url: https://loftysky.com/
+    description: Toronto studio producing animated documentaries, VR experiences, TV and games, including the animated feature Eternal Spring.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - xr
+    markets:
+      - film
+      - episodic
+      - games
+    notable:
+      - Eternal Spring
+      - Sky of Tides
+    added_at: '2026-11-09T02:47:52.321Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tuatara
+    url: https://tuataragames.com/
+    description: Vancouver team of real-time VFX artists providing effects for games such as Fortnite and 2XKO, also developing its own games.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - games
+    careers: https://tuataragames.com/careers
+    notable:
+      - Fortnite
+      - 2XKO
+      - Invincible VS
+    added_at: '2026-11-09T02:47:52.322Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ZenFri
+    url: https://zenfri.ca/
+    description: Winnipeg XR studio making AR tours, mixed-reality learning apps, interactive narratives and kids games since 2010.
+    hq:
+      city: Winnipeg
+      country: Canada
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2010
+    careers: https://zenfri.ca/careers/
+    notable:
+      - Turtle Island Skate Jam
+      - FluentXR
+      - In Plain Sight
+    social:
+      instagram: https://www.instagram.com/zenfri
+    added_at: '2026-11-09T02:47:52.323Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Secret Location
+    url: https://secretlocation.com/
+    description: Toronto studio designing custom games, interactive installations and immersive rooms for brands, venues and events.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Mythos
+    added_at: '2026-11-09T02:47:52.324Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hololabs Studio
+    url: https://hololabs.org/
+    description: Victoria studio engineering real-time interactive media, mixed-reality rides and gamified attractions for theme parks.
+    hq:
+      city: Victoria
+      country: Canada
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    notable:
+      - 'Mario Kart: Bowser''s Challenge'
+    social:
+      instagram: https://www.instagram.com/hololabs.studio
+      linkedin: https://www.linkedin.com/company/hololabs
+    added_at: '2026-11-09T02:47:52.325Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: E.D. Films
+    url: https://www.edfilms.net/
+    description: Montreal animation studio making illustrated animation for films, domes, VR/XR experiences, installations and games.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+      - experiential
+    markets:
+      - film
+      - games
+    social:
+      instagram: https://www.instagram.com/e.d.films
+      vimeo: https://vimeo.com/edfilmsmtl
+    added_at: '2026-11-09T02:47:52.326Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: couleur.tv
+    url: https://couleur.tv/
+    description: Montreal studio making motion design, animation, TV packaging and immersive experiences for broadcasters and brands.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - title-design
+      - experiential
+    markets:
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/couleur.tv
+      linkedin: https://www.linkedin.com/company/couleur.tv
+      vimeo: https://vimeo.com/user3868729
+    added_at: '2026-11-09T02:47:52.327Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Baillat Studio
+    url: https://baillatstudio.com/
+    description: Montreal design studio making motion design, 2D and 3D animation and CGI for ad campaigns, events and immersive shows.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+      - experiential
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Moment Factory
+      - Cirque du Soleil
+      - MUTEK
+    social:
+      instagram: https://www.instagram.com/baillat_studio
+      vimeo: https://vimeo.com/user38435259
+    added_at: '2026-11-09T02:47:52.328Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: LUZ Studio
+    url: https://luzstudio.com/
+    description: Montreal show design studio making stage video content and lighting design for concerts, tours and live events.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - brand
+    founded: 2005
+    social:
+      instagram: https://www.instagram.com/luzstudio_mtl
+      vimeo: https://vimeo.com/luzstudio
+    added_at: '2026-11-09T02:47:52.329Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ottomata
+    url: https://ottomata.com/
+    description: Montreal experiential design studio building interactive installations with architectural mapping, lasers and motion tracking.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Bacardi Japan
+      - Bombay Sapphire
+      - Montreal Museum of Fine Arts
+    social:
+      instagram: https://www.instagram.com/ottomata.studio
+    added_at: '2026-11-09T02:47:52.330Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: TRANSVERSAL
+    url: https://www.transversal.works/
+    description: Montreal studio making immersive and interactive installations, architectural projections and brand activations.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2022
+    notable:
+      - Partenariat du Quartier des spectacles
+      - Musée national de l'Histoire du Québec
+    social:
+      vimeo: https://vimeo.com/transversalworks
+    added_at: '2026-11-09T02:47:52.331Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Eden Creative Studio
+    url: https://www.edencreative.ca/
+    description: Montreal studio making live shows, art installations and projection-based interactive play rooms.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/edencreativestudio
+      linkedin: https://www.linkedin.com/company/eden-creative-productions
+    added_at: '2026-11-09T02:47:52.332Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GSM Studios
+    url: https://www.gsmstudios.world/
+    description: Montreal experience design group producing immersive exhibitions and attractions for museums and cultural sites.
+    hq:
+      city: Montreal
+      country: Canada
+    offices:
+      - city: Paris
+        country: France
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 1958
+    notable:
+      - Exploria
+      - MEM, Centre des mémoires montréalaises
+      - Nanualuk, Northern Expedition
+    social:
+      instagram: https://www.instagram.com/gsmstudios.world
+      linkedin: https://www.linkedin.com/company/gsmstudiosworld
+    added_at: '2026-11-09T02:47:52.333Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Neek Studio
+    url: https://neek.studio/
+    description: Montreal studio making narrative AR, VR and interactive installation experiences.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - xr
+      - interactive
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/neekstudio_
+    added_at: '2026-11-09T02:47:52.334Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Above The Void
+    url: https://www.abovethevoid.com/
+    description: Montreal studio making generative AI films and music videos.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - ai-production
+    markets:
+      - music-video
+      - advertising
+    founded: 2022
+    social:
+      instagram: https://www.instagram.com/abovethevoidmtl
+      linkedin: https://www.linkedin.com/company/above-the-void
+      vimeo: https://vimeo.com/user202943261
+    added_at: '2026-11-09T02:47:52.335Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Multicolore
+    url: https://multicolore.ca/
+    description: Montreal events studio designing and producing immersive experiences, projections and festival activations.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    careers: https://multicolore.ca/en/careers
+    social:
+      instagram: https://www.instagram.com/multicolore.officiel
+    added_at: '2026-11-09T02:47:52.336Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: TKNL
+    url: https://www.tknl.com/
+    description: Montreal studio creating immersive experiences, attractions and hybrid events, with a broadcast studio in Brossard.
+    hq:
+      city: Montreal
+      country: Canada
+    offices:
+      - city: Brossard
+        country: Canada
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/tknl.spark.imagination
+    added_at: '2026-11-09T02:47:52.337Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bain de minuit
+    url: https://baindeminuit.ca/
+    description: Montreal multimedia studio making immersive installations and digital experiences.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/baindeminuitstudios
+    added_at: '2026-11-09T02:47:52.338Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mirari
+    url: https://mirari.art/
+    description: Montreal studio designing and producing immersive environments and experiences for brands, expos and public spaces.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 2015
+    social:
+      instagram: https://instagram.com/mirari.mtl
+      linkedin: https://linkedin.com/company/mirari-mtl
+    added_at: '2026-11-09T02:47:52.339Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Arcane Technologies
+    url: https://arcanetech.io/
+    description: Québec City studio building VR, AR and real-time 3D applications for training, retail, construction and events.
+    hq:
+      city: Québec City
+      country: Canada
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    careers: https://arcanetech.io/careers/
+    social:
+      instagram: https://www.instagram.com/arcane_technologies
+      linkedin: https://www.linkedin.com/company/arcane-technologies
+    added_at: '2026-11-09T02:47:52.340Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

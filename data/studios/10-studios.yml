@@ -45,7 +45,7 @@ studios:
       city: Buenos Aires
       country: Argentina
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - motion-design
@@ -94,7 +94,7 @@ studios:
     url: https://www.weareversus.tv/
     description: Creative and production studio of directors, designers and animators making original work for brands, agencies and entertainment.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -118,7 +118,7 @@ studios:
     url: https://vesselstudios.com/
     description: Medical animation studio making 3D mechanism-of-action films, illustration and patient education for pharma brands.
     hq:
-      city: Atlanta, GA
+      city: Atlanta
       country: United States
     disciplines:
       - 3d-animation
@@ -164,7 +164,7 @@ studios:
     url: https://www.volvoxlabs.com/
     description: Brooklyn new media art studio making immersive installations, kinetic sculptures and interactive brand experiences.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - experiential
@@ -277,10 +277,10 @@ studios:
     url: https://weareroyale.com/
     description: Design-driven production company in Los Angeles and Seattle making game trailers, cinematics and branded content.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: Seattle, WA
+      - city: Seattle
         country: United States
     disciplines:
       - cinematics
@@ -307,7 +307,7 @@ studios:
     url: https://www.wrad.work/
     description: Columbus interactive animation studio making Rive and Spline motion for web, apps and product interfaces.
     hq:
-      city: Columbus, OH
+      city: Columbus
       country: United States
     disciplines:
       - 2d-animation
@@ -573,7 +573,7 @@ studios:
     url: https://www.yeahhaus.com/
     description: Ferndale, Michigan production studio making 2D, 3D, stop-motion and live action work for commercials and short films.
     hq:
-      city: Ferndale, MI
+      city: Ferndale
       country: United States
     disciplines:
       - 2d-animation
@@ -669,7 +669,7 @@ studios:
     url: https://www.yuco.com/
     description: Hollywood studio led by founder Garson Yu, making film title sequences, VR work and architectural projection mapping.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -741,7 +741,7 @@ studios:
     url: https://www.zerovfx.com/
     description: Boston VFX studio with a Montréal hub doing compositing, environments and set extensions for features, episodics and ads.
     hq:
-      city: Boston, MA
+      city: Boston
       country: United States
     offices:
       - city: Montreal
@@ -764,12 +764,12 @@ studios:
     url: https://www.zoicstudios.com/
     description: Los Angeles VFX studio with a New York team making creatures and environments for TV, film and ads.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     offices:
       - city: Vancouver
         country: Canada
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - vfx
@@ -795,7 +795,7 @@ studios:
       city: São Paulo
       country: Brazil
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
       - city: Lisbon
         country: Portugal
@@ -1183,7 +1183,7 @@ studios:
         country: United States
       - city: New York
         country: United States
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
       - city: London
         country: United Kingdom

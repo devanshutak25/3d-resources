@@ -1,0 +1,883 @@
+studios:
+  - name: LISTO
+    url: https://listo.at/
+    description: Full-service post-production house for film, TV and commercials covering grading, VFX, titles and audio post.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cinegrell
+    url: https://cinegrell.ch/
+    description: Film equipment rental and post-production house offering grading, VFX, graphics and restoration for Swiss productions.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    careers: https://cinegrell.ch/jobs/
+    social:
+      instagram: https://www.instagram.com/cinegrell/
+    added_at: '2026-11-09T02:47:52.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mainworks
+    url: https://www.mainworksstudio.com/
+    description: Production company making full CGI and hybrid CG and photography images, motion and 360s, mostly for car brands and agencies.
+    hq:
+      city: Frankfurt
+      country: Germany
+    offices:
+      - city: Hamburg
+        country: Germany
+    disciplines:
+      - cg
+      - product-viz
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2001
+    notable:
+      - Opel goes Formula E
+      - Range Rover Sport
+      - Mercedes-Benz
+    social:
+      instagram: https://www.instagram.com/mainworks.de/
+    added_at: '2026-11-09T02:47:52.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: CHROMATIC
+    url: https://www.chromatic.work/
+    description: Visualization studio doing CGI, AI imagery and high-end post-production for photography and brand campaigns.
+    hq:
+      city: Tangstedt
+      country: Germany
+    offices:
+      - city: Pforzheim
+        country: Germany
+    disciplines:
+      - cg
+      - product-viz
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/chromatic.work
+      linkedin: https://www.linkedin.com/company/chromaticwork/
+    added_at: '2026-11-09T02:47:52.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Milla & Partner
+    url: https://www.milla.de/
+    description: Spatial experience studio designing and producing exhibitions, brand spaces and media installations, part of Jung von Matt.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Atelier Brückner
+    url: https://www.atelier-brueckner.com/
+    description: Scenography studio of about 140 people designing narrative architecture, museum exhibitions and brand spaces with media installations.
+    hq:
+      city: Stuttgart
+      country: Germany
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NeoNext
+    url: https://neonext.de/
+    description: Berlin studio, formerly Triad Berlin, creating multimedia exhibitions, brand spaces and events.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: phase7 performing.arts
+    url: https://phase7.de/
+    description: Berlin company producing media art installations, large-scale light and stage shows and an AI opera for festivals and capitals of culture.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Bodø 2024 European Capital of Culture
+      - Plovdiv 2019
+      - chasing waterfalls (AI opera)
+    added_at: '2026-11-09T02:47:52.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Steiner Sarnen Schweiz
+    url: https://steinersarnen.ch/
+    description: Experience design studio creating brand worlds, museum exhibitions and tourism attractions.
+    hq:
+      city: Sarnen
+      country: Switzerland
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PatientZero Games
+    url: https://patientzero-games.com/
+    description: Develops VR, AR and 3D apps, immersive trainings and digital twins for companies.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tokkun Studio
+    url: https://tokkunstudio.com/
+    description: Game art outsourcing and co-development studio making 2D/3D art, animation, VFX and trailers for console and PC publishers.
+    hq:
+      city: Reims
+      country: France
+    offices:
+      - city: Kyoto
+        country: Japan
+    disciplines:
+      - outsourcing
+      - 3d-animation
+      - 2d-animation
+      - cinematics
+    markets:
+      - games
+    founded: 2014
+    added_at: '2026-11-09T02:47:52.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Les Fées Spéciales
+    url: https://les-fees-speciales.coop/
+    description: Cooperative 2D and 3D animation studio in Montpellier making films, series, documentaries and museum pieces with Blender.
+    hq:
+      city: Montpellier
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    careers: https://les-fees-speciales.coop/contact/recrutement/
+    social:
+      vimeo: https://vimeo.com/lesfees
+    added_at: '2026-11-09T02:47:52.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Toer
+    url: https://studiotoer.com/
+    description: Light art studio making interactive light installations for festivals, museums and public spaces.
+    hq:
+      city: Eindhoven
+      country: Netherlands
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2011
+    notable:
+      - Firefly Field
+      - Fish are Jumping
+      - Flock of Light
+    added_at: '2026-11-09T02:47:52.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: FOST
+    url: https://fost.studio/
+    description: 2D animation studio in Paris and Angoulême providing animation services for feature films, TV series and web productions.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Angoulême
+        country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2018
+    added_at: '2026-11-09T02:47:52.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wizz
+    url: https://wizz.fr/
+    description: Animation and design production company representing directors for commercials, music videos and game trailers.
+    hq:
+      city: Clichy
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+      - games
+    notable:
+      - Marvel Cosmic Invasion
+      - Intermarché
+      - Valorant Champions Tour 25
+    added_at: '2026-11-09T02:47:52.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Normaal
+    url: https://normaal.fr/
+    description: Animation studio producing kids TV series such as Barbapapa, Kat & Cats and Woolly Woolly, with a studio in Angoulême.
+    hq:
+      city: Paris
+      country: France
+    offices:
+      - city: Angoulême
+        country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    notable:
+      - Barbapapa
+      - Kat & Cats
+      - Woolly Woolly
+      - Filip & Fairy
+    added_at: '2026-11-09T02:47:52.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Timescope
+    url: https://www.timescope.com/
+    description: Paris company making immersive VR journeys through the history of Paris, shown in kiosks and venues at city landmarks.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - xr
+      - experiential
+    social:
+      instagram: https://www.instagram.com/timescopevr/
+      linkedin: https://www.linkedin.com/company/timescope-co/
+    added_at: '2026-11-09T02:47:52.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Monobanda
+    url: https://monobanda.eu/
+    description: Utrecht play studio making interactive installations and games that connect the body, physical space and virtual worlds.
+    hq:
+      city: Utrecht
+      country: Netherlands
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - games
+      - brand
+    social:
+      instagram: http://instagram.com/monobanda.play
+      vimeo: http://vimeo.com/monobanda
+      linkedin: https://www.linkedin.com/company/monobanda/
+    added_at: '2026-11-09T02:47:52.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Waooh!
+    url: https://www.waooh.be/
+    description: 2D animation studio at the Pôle Image de Liège providing animation services for cinema and TV series such as Migali.
+    hq:
+      city: Liège
+      country: Belgium
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2010
+    notable:
+      - Migali
+      - Billy, the Cowboy Hamster
+    social:
+      linkedin: https://www.linkedin.com/company/waooh-2d-animation-studio/
+    added_at: '2026-11-09T02:47:52.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Aromates Studio
+    url: https://aromates.be/
+    description: Liège 2D, 3D, VFX and hybrid animation studio working on feature films and series such as In Waves.
+    hq:
+      city: Liège
+      country: Belgium
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - In Waves
+      - KO Party
+    social:
+      linkedin: https://www.linkedin.com/company/aromates-studio/
+    added_at: '2026-11-09T02:47:52.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 4DR Studios
+    url: https://www.4drstudios.com/
+    description: Eindhoven volumetric video studio capturing people in 3D for AR, VR and real-time productions.
+    hq:
+      city: Eindhoven
+      country: Netherlands
+    disciplines:
+      - scanning
+      - xr
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/4drstudios/
+      linkedin: https://www.linkedin.com/company/4dr-studios/
+    added_at: '2026-11-09T02:47:52.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lukkien
+    url: https://lukkien.com/
+    description: Creative production company in Ede with photo, film and virtual production studios making visual content for brands since 1972.
+    hq:
+      city: Ede
+      country: Netherlands
+    disciplines:
+      - virtual-production
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Flow
+    url: https://www.flow-postproduction.com/
+    description: Boutique image post-production studio doing color grading, visual effects, animation, motion graphics and titles.
+    hq:
+      city: Antwerp
+      country: Belgium
+    offices:
+      - city: Oosterhout
+        country: Netherlands
+    disciplines:
+      - vfx
+      - motion-design
+      - title-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Les Astronautes
+    url: https://lesastronautes.fr/
+    description: Animation production company and studio in Bourg-lès-Valence making 2D films and series and animation services for other producers.
+    hq:
+      city: Bourg-lès-Valence
+      country: France
+    offices:
+      - city: Avignon
+        country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      linkedin: https://www.linkedin.com/company/les-astronautes/
+    added_at: '2026-11-09T02:47:52.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Archi Graphi
+    url: https://archi-graphi.fr/
+    description: Lyon architectural visualization studio making 3D images, films and communication material for architects, builders and developers.
+    hq:
+      city: Lyon
+      country: France
+    offices:
+      - city: Paris
+        country: France
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Valentinstudio
+    url: https://www.valentinstudio.com/
+    description: Lyon architectural visualization studio making 3D stills, animated films and virtual tours for luxury real estate and hotels.
+    hq:
+      city: Lyon
+      country: France
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/valentinstudio3d/
+      linkedin: https://www.linkedin.com/company/valentinstudio/
+    added_at: '2026-11-09T02:47:52.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dark Euphoria
+    url: https://www.dark-euphoria.com/
+    description: Marseille art, science and technology production company making VR and immersive works with artists, such as Limits VR.
+    hq:
+      city: Marseille
+      country: France
+    offices:
+      - city: Montpellier
+        country: France
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - film
+    notable:
+      - Limits VR
+      - SILA
+    social:
+      instagram: https://www.instagram.com/dark.euphoria.13/
+      linkedin: https://www.linkedin.com/company/dark-euphoria/
+    added_at: '2026-11-09T02:47:52.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Possibly Pixels
+    url: https://possiblypixels.com/
+    description: Dendermonde multimedia studio making games and interactive media for web, mobile and PC, for clients and its own titles.
+    hq:
+      city: Dendermonde
+      country: Belgium
+    disciplines:
+      - interactive
+    markets:
+      - games
+      - brand
+    notable:
+      - 'Kingfisher: An Autism Tale'
+    added_at: '2026-11-09T02:47:52.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Les Affranchis
+    url: https://www.studiolesaffranchis.fr/
+    description: 2D animation studio in Toulouse and Lille making short films, series and features for French producers.
+    hq:
+      city: Toulouse
+      country: France
+    offices:
+      - city: Lille
+        country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    founded: 2017
+    added_at: '2026-11-09T02:47:52.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Crabs Studio
+    url: https://www.crabs-studio.com/
+    description: Montpellier 3D animation studio handling layout to final animation for studios and producers across series, ads and games.
+    hq:
+      city: Montpellier
+      country: France
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - advertising
+      - games
+    notable:
+      - A Mouse Called Julian
+      - Fabledom
+      - Naheulbeuk
+    social:
+      instagram: https://www.instagram.com/crabs.studio/
+      linkedin: https://www.linkedin.com/company/crabs-studio/
+    added_at: '2026-11-09T02:47:52.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Godo Studio
+    url: https://godostudio.fr/
+    description: Perpignan animation studio making original projects and animation services for French and international producers.
+    hq:
+      city: Perpignan
+      country: France
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2022
+    added_at: '2026-11-09T02:47:52.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Karlab
+    url: https://www.karlab.fr/
+    description: CG character studio making sculpts, modeling, look dev, fur, rigging and facial setups for animated features.
+    hq:
+      city: Paris
+      country: France
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    notable:
+      - Belfort & Lupin
+      - Angelo dans la Forêt mystérieuse
+    social:
+      vimeo: https://vimeo.com/karlabparis
+      instagram: https://www.instagram.com/karlab_insta/
+      linkedin: https://www.linkedin.com/company/karlab/
+    added_at: '2026-11-09T02:47:52.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: La Ménagerie
+    url: https://www.lamenagerie.com/
+    description: Tournefeuille stop-motion and hand-drawn animation studio, now making the feature Le Roman de Renart, plus workshops and exhibitions.
+    hq:
+      city: Tournefeuille
+      country: France
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+    founded: 2000
+    notable:
+      - Le Roman de Renart
+    social:
+      instagram: https://www.instagram.com/la_menagerie_studio/
+    added_at: '2026-11-09T02:47:52.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Motionorama
+    url: https://motionorama.com/
+    description: Motion design studio making main titles, logos, VFX and 2D/3D animation for French TV channels and streamers.
+    hq:
+      country: France
+    disciplines:
+      - motion-design
+      - title-design
+      - vfx
+    markets:
+      - episodic
+      - brand
+    notable:
+      - Ghosts (Disney+)
+      - Karma (France TV)
+      - 1939-1945 et le monde bascule
+    social:
+      instagram: https://www.instagram.com/motionorama/
+      linkedin: https://www.linkedin.com/company/motionorama
+    added_at: '2026-11-09T02:47:52.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nobody Studio
+    url: https://nobody-studio.com/
+    description: Outsourcing studio doing previs, modeling, lighting, real-time and compositing for game and animation studios.
+    hq:
+      country: France
+    disciplines:
+      - outsourcing
+      - previs
+      - cinematics
+    markets:
+      - games
+      - film
+    notable:
+      - id Software in-game cinematics
+      - Blur Studio lighting
+      - Bethesda real-time lighting
+    social:
+      instagram: https://www.instagram.com/thenobodystudio/
+      linkedin: https://www.linkedin.com/company/nobodystudio/
+    added_at: '2026-11-09T02:47:52.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: The Beast Makers
+    url: https://fr.thebeastmakers.com/
+    description: Character and creature studio in Lattes doing modeling, rigging, muscle FX and animation for film and series productions.
+    hq:
+      city: Lattes
+      country: France
+    disciplines:
+      - 3d-animation
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    social:
+      vimeo: https://vimeo.com/user99001321
+      linkedin: https://www.linkedin.com/company/18700000
+    added_at: '2026-11-09T02:47:52.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: The Stonebot Studio
+    url: https://www.thestonebot.com/
+    description: Game art and 2D animation outsourcing studio in El Salvador that also made the PC game Stereo Aereo.
+    hq:
+      country: El Salvador
+    disciplines:
+      - outsourcing
+      - 2d-animation
+    markets:
+      - games
+    notable:
+      - Stereo Aereo
+    added_at: '2026-11-09T02:47:52.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Journey Animation Studio
+    url: https://www.journeyanimation.com/
+    description: Animation studio in San José making 2D and 3D animation for marketers, independent filmmakers and game developers.
+    hq:
+      city: San José
+      country: Costa Rica
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+      - games
+    founded: 2016
+    added_at: '2026-11-09T02:47:52.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Inmersys
+    url: https://inmersys.com/
+    description: Mexico City studio building virtual reality and immersive experiences for companies and brand events.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: WOW Emotions
+    url: https://www.wowemotions.com/
+    description: Costa Rica studio designing immersive showrooms, interactive websites, training simulators and AI video for companies.
+    hq:
+      city: San José
+      country: Costa Rica
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Full Circle Animation Studio
+    url: https://www.fullcircleanimation.com/
+    description: Animation studio in Trincity doing 2D, 3D, stop-motion, motion graphics and VFX work for Caribbean and international clients.
+    hq:
+      city: Trincity
+      country: Trinidad and Tobago
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+      - motion-design
+      - vfx
+    markets:
+      - advertising
+      - episodic
+    founded: 2013
+    added_at: '2026-11-09T02:47:52.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Imagine Toon
+    url: https://imaginetoon.com/
+    description: Kingston animation studio making animated commercials and explainer videos for businesses, schools and health providers.
+    hq:
+      city: Kingston
+      country: Jamaica
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wave Animation Studio
+    url: https://waveanimation.studio/
+    description: Jamaican animation studio developing original animated films and IP through a remote hub of local artists.
+    hq:
+      country: Jamaica
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    added_at: '2026-11-09T02:47:52.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Chaman Animation Studio
+    url: https://chamananimation.com/
+    description: Mexico City animation studio producing 2D and 3D animation and VFX for brands, games and film, including the series Kikin'.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - games
+      - episodic
+    notable:
+      - Kikin'
+      - Carlitos Chupacabra
+    added_at: '2026-11-09T02:47:52.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lomas Post
+    url: https://lomaspost.com/
+    description: Mexico City post-production house doing Flame and Nuke VFX, Baselight color, animation and audio post for film, series and ads since 1994.
+    hq:
+      city: Mexico City
+      country: Mexico
+    offices:
+      - city: Denver
+        country: United States
+    disciplines:
+      - vfx
+      - 2d-animation
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 1994
+    added_at: '2026-11-09T02:47:52.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mamot Studio
+    url: https://www.mamotstudio.com/
+    description: Audiovisual and digital animation producer in Cuautitlán making animated and video content for brands.
+    hq:
+      city: Cuautitlán
+      country: Mexico
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: muv mx
+    url: https://muv.mx/
+    description: Mexico City creative studio making interactive art, immersive installations and XR experiences.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - experiential
+      - interactive
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Memoma Studio
+    url: https://memoma.tv/
+    description: Mexican motion design studio making explainer videos, campaigns and short films for brands.
+    hq:
+      country: Mexico
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sociedad Fantasma
+    url: https://sociedadfantasma.com/
+    description: Mexican remote animation studio making short-form motion design and illustrated animation for advertising, music and broadcast clients.
+    hq:
+      country: Mexico
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - music-video
+    added_at: '2026-11-09T02:47:52.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Poligonic
+    url: https://www.poligonic.com/
+    description: Mexico City animation and motion graphics studio making explainer and commercial videos for startups, tech companies and NGOs.
+    hq:
+      city: Mexico City
+      country: Mexico
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.490Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

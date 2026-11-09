@@ -1,8 +1,9 @@
 # Playbook: studio discovery by country (both directories)
 
 Used for round 6 (Europe, 2026-11-09: 14 agents, 945 raw -> 935 added) and round 7 (Asia-Pacific, 2026-11-09:
-13 agents, 722 raw -> 712 added) and round 8 (South America + Africa, 2026-11-09: 12 agents, 328 raw -> 319 added).
-Still to run: North + Central America + Caribbean, Middle East (regions = `COUNTRY_REGION` in `scripts/lib/studios.js`).
+13 agents, 722 raw -> 712 added), round 8 (South America + Africa, 2026-11-09: 12 agents, 328 raw -> 319 added) and
+round 9 (North America + Europe second pass, 2026-11-09: 14 agents, 912 raw -> 903 added).
+Still to run: Middle East (regions = `COUNTRY_REGION` in `scripts/lib/studios.js`); US long tail (gamedevmap CSV).
 Rules for what a studio is live in `project.md` §4b; this file is the how.
 
 ## Steps
@@ -99,6 +100,21 @@ curl -sL -m 25 -A "3d-resources-research/1.0" "$URL" | sed -E 's/<script[^>]*>.*
   private-folder rule. One agent tried an API found in a JS bundle again (permission system denied).
 - Read NFT/Web3 menus and "early access" carefully: an "NFT home" page = crypto rule (drop); a game in early access counts
   as released; a Steam "Coming soon" game with a ~10-person team does not pass the bar.
+- Round 9 (North America + Europe second pass): the best game-studio source by far is gamedevmap.com's raw CSV
+  (`/cmsdata/gamedevmapdata.csv`, has an "Updated By" email column: agents must drop it). One agent per region only takes
+  ~80 rows from it; ~1,000 US-west and ~500 Canadian names were still unlisted. Next US/Canada round: split the CSV by
+  state/province across agents. Other good sources: Bundestag Drucksache 20/12258 (German games-funding recipients),
+  VTFF + Produktionsallianz members, Pro Helvetia SwissGames, CNC FAJV results, belgiangamesindustry.com, Film Fund
+  Luxembourg, Madrid Film Office directory, DeVuego ES ranking, AVFX (Italy), HAVC OData API (Croatia), KIPA, Xn Québec
+  REST API, animationdirectory.ca REST API, RDV Canada (Telefilm) API, BCTQ, LA 411, Dexigner US pages, Post New York
+  Alliance, AICP member API, ASODEV (Costa Rica), Pixelatl showroom API, RevenueBase category pages (leads only).
+- A second pass on a region still yields ~60-75 rows per slice (Europe round 9: 458 rows from 7 agents), mostly game
+  studios: production sources with a city are scarce. Ask for production weighting explicitly; agents still drift.
+- `existing.tsv` reflects data errors too: a block of shifted URLs (fixed 2026-11-09) made agents skip real studios as
+  "already listed". When agents report a host that doesn't match its name, check the neighbours in the chunk file.
+- Agents sometimes paste two URLs into `url` (site + Steam): the importer rejects it as a schema error; trim to the site.
+- Same studio across rounds under two hosts and two countries (Soda Den: sodaden.com Argentina vs rootsofpacha.com US):
+  validate.js only warns on the name. Check every new duplicate-name warning.
 
 ## Agent brief (copy to `$R/BRIEF.md`, fill in `$R`)
 
@@ -234,6 +250,11 @@ site names the city. Social links only when the handle matches the studio (no pe
   response exposes credentials or personal data, delete it from your folder and say so in your final message.
 - If your sandbox has no network, say so in your final message and list only studios you are highly
   confident about from memory, flagged `"_confidence": "low"`, with `_src` empty. The maintainer will probe them.
+
+### URL rule (HARD)
+`url` must be the studio's own site, its own game site, a Steam `/developer/<name>` page that stays on that page
+(some redirect to `/search/?developer=`: not allowed), or its own itch.io subdomain. One URL only. Never YouTube,
+Facebook, Instagram, Linktree, Behance or LinkedIn. Keep every helper script and download inside `$R/work-<slice>/`.
 
 ### Final message
 Under 150 words: count written (by kind and country), file path, which sources gave the most leads, anything

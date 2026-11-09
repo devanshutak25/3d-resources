@@ -64,10 +64,10 @@ studios:
     url: https://www.moves.com/
     description: Performance capture and animation studio with stages in Los Angeles and Austin, serving games, film and TV.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: Austin, TX
+      - city: Austin
         country: United States
     disciplines:
       - mocap
@@ -97,7 +97,7 @@ studios:
       city: Vancouver
       country: Canada
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - mocap
@@ -210,7 +210,7 @@ studios:
     hq:
       country: United States
     offices:
-      - city: Miami, FL
+      - city: Miami
         country: United States
       - city: New York
         country: United States
@@ -280,7 +280,7 @@ studios:
     url: https://www.kilograph.com/
     description: Narrative and creative agency making visualizations, campaign films, brand identity and interactive experiences for civic, infrastructure and commercial projects.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
       - city: Barcelona
@@ -304,12 +304,12 @@ studios:
     url: https://neoscape.com/
     description: Creative agency for real estate and architecture offering renderings, film, animation, digital twins, VR, branding and web.
     hq:
-      city: Boston, MA
+      city: Boston
       country: United States
     offices:
       - city: New York
         country: United States
-      - city: Chicago, IL
+      - city: Chicago
         country: United States
     disciplines:
       - archviz
@@ -595,7 +595,7 @@ studios:
     offices:
       - city: New York
         country: United States
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: Mexico City
         country: Mexico
@@ -654,7 +654,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: Portland, OR
+      - city: Portland
         country: United States
       - city: Milan
         country: Italy
@@ -770,7 +770,7 @@ studios:
     url: https://www.arxcreative.com/
     description: Real estate visualization studio, formerly ArX Solutions, making renderings, animation, films, interactive apps and VR for developers.
     hq:
-      city: Miami, FL
+      city: Miami
       country: United States
     offices:
       - city: Madrid
@@ -802,9 +802,9 @@ studios:
     offices:
       - city: London
         country: United Kingdom
-      - city: Miami, FL
+      - city: Miami
         country: United States
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: Dubai
         country: United Arab Emirates
@@ -865,7 +865,7 @@ studios:
     offices:
       - city: New York
         country: United States
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: Stuttgart
         country: Germany
@@ -1061,7 +1061,7 @@ studios:
       city: Prague
       country: Czech Republic
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - product-viz

@@ -50,7 +50,7 @@ studios:
     url: https://www.herostudios.tv/
     description: New York motion design and animation studio making character-led campaigns, explainers and large deliverable systems for global brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - 2d-animation
@@ -132,7 +132,7 @@ studios:
     url: https://hooland.co/
     description: New York film and design studio making character-led motion branding, commercials and social content for startups and brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -150,7 +150,7 @@ studios:
     url: https://www.hellohornet.com/
     description: New York studio with a roster of directors making character animation, motion design and live action for global brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - 2d-animation
@@ -176,7 +176,7 @@ studios:
     url: https://huntergatherer.net/
     description: Design agency making branding, illustration, animation and experience design, including stop-motion work for The New York Times Magazine.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - motion-design
@@ -224,10 +224,10 @@ studios:
     url: https://www.iggyvee.com/
     description: Charleston motion design studio making commercial work for enterprise brands, with an experimental arm called The Lab.
     hq:
-      city: Charleston, SC
+      city: Charleston
       country: United States
     offices:
-      - city: Charlottesville, VA
+      - city: Charlottesville
         country: United States
     disciplines:
       - motion-design
@@ -245,7 +245,7 @@ studios:
     url: https://imaginaryforces.com/
     description: Los Angeles design studio and agency making film and TV title sequences, brand identity, installations and live action.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -271,7 +271,7 @@ studios:
     url: https://www.immerse.studio/
     description: Venice, CA creative technology studio making projection mapping, volumetric LED, interactive installations and real-time content for events.
     hq:
-      city: Venice, CA
+      city: Venice
       country: United States
     disciplines:
       - experiential
@@ -331,10 +331,10 @@ studios:
     url: https://www.ingenuitystudios.com/
     description: Los Angeles VFX company, part of Streamland Media, working on features, episodic TV, commercials and music videos.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
       - city: Toronto
         country: Canada
@@ -492,7 +492,7 @@ studios:
         country: United Kingdom
       - city: Madrid
         country: Spain
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - 2d-animation
@@ -533,7 +533,7 @@ studios:
     url: https://www.jvarta.com/
     description: Los Angeles design and motion studio making photoreal CGI product animation and social content for footwear, watch and electronics brands.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - product-viz
@@ -554,7 +554,7 @@ studios:
     url: https://www.kaleida.studio/
     description: Brooklyn animation and motion graphics company led by Julie Gratz, making documentary graphics, commercials and AR art exhibitions.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - 2d-animation
@@ -688,7 +688,7 @@ studios:
     url: https://www.kill2birds.tv/
     description: El Segundo studio making entertainment marketing campaigns, from anamorphic DOOH to launch spots, for streamers and networks.
     hq:
-      city: El Segundo, CA
+      city: El Segundo
       country: United States
     disciplines:
       - motion-design
@@ -817,7 +817,7 @@ studios:
     url: https://www.laika.com/
     description: Stop-motion feature film studio outside Portland, Oregon, behind Coraline, Kubo and the Two Strings and Missing Link.
     hq:
-      city: Hillsboro, OR
+      city: Hillsboro
       country: United States
     disciplines:
       - stop-motion
@@ -841,7 +841,7 @@ studios:
     url: https://www.lassostud.io/
     description: Nashville creative studio making branding, illustration and character animation for clients across industries.
     hq:
-      city: Nashville, TN
+      city: Nashville
       country: United States
     disciplines:
       - motion-design
@@ -858,7 +858,7 @@ studios:
     url: https://www.laundry.studio/
     description: Los Angeles studio led by four directors making animation, motion design, branding and live action, including OOH and Sphere work.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -930,7 +930,7 @@ studios:
     url: https://leftchannel.com/
     description: Columbus motion design and brand experience studio making motion branding, brand films and experiential installations.
     hq:
-      city: Columbus, OH
+      city: Columbus
       country: United States
     disciplines:
       - motion-design
@@ -1005,7 +1005,7 @@ studios:
     url: https://lobo.cx/
     description: Animation studio in New York and São Paulo making ad campaigns for agencies and brands, with a roster of directors.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     offices:
       - city: São Paulo
@@ -1062,10 +1062,10 @@ studios:
     url: https://logan.tv/
     description: Content studio in Los Angeles and New York combining design, animation, VFX and live action for brands and title sequences.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - motion-design

@@ -72,8 +72,9 @@ const COUNTRY_REGION = {
   'Colombia': 'americas', 'Costa Rica': 'americas', 'Dominican Republic': 'americas', 'Ecuador': 'americas', 'Mexico': 'americas',
   'Peru': 'americas', 'Puerto Rico': 'americas', 'United States': 'americas', 'Uruguay': 'americas',
   'Bolivia': 'americas', 'Guatemala': 'americas', 'Panama': 'americas', 'Paraguay': 'americas', 'Venezuela': 'americas',
+  'El Salvador': 'americas', 'Honduras': 'americas', 'Jamaica': 'americas', 'Trinidad and Tobago': 'americas',
 
-  'Armenia': 'europe', 'Austria': 'europe', 'Azerbaijan': 'europe', 'Belarus': 'europe', 'Belgium': 'europe',
+  'Albania': 'europe', 'Armenia': 'europe', 'Austria': 'europe', 'Azerbaijan': 'europe', 'Belarus': 'europe', 'Belgium': 'europe',
   'Faroe Islands': 'europe',
   'Bosnia and Herzegovina': 'europe', 'Bulgaria': 'europe', 'Croatia': 'europe', 'Cyprus': 'europe',
   'Czech Republic': 'europe', 'Denmark': 'europe', 'Estonia': 'europe', 'Finland': 'europe',

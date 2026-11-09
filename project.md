@@ -197,8 +197,10 @@ outsourcing, cinematics), `/game-studios/` = game developers. A URL may live in 
   em-dash/banned words in description (error).
 - check-links.js scans both studio directories with catalog entries (monthly).
 - Discovery method: `docs/playbooks/studio-discovery.md` (country agents + `scripts/import-studios.js`). Europe done
-  2026-11-09 (round 6), Asia-Pacific done 2026-11-09 (round 7), South America + Africa done 2026-11-09 (round 8);
-  next regions: North + Central America + Caribbean, Middle East (Gulf, Levant, Israel, Iran).
+  2026-11-09 (round 6), Asia-Pacific done 2026-11-09 (round 7), South America + Africa done 2026-11-09 (round 8),
+  North America + Central America + Caribbean and a Europe second pass done 2026-11-09 (round 9);
+  next region: Middle East (Gulf, Levant, Israel, Iran). The US long tail is still large (gamedevmap CSV, §11).
+- City names are plain ("Los Angeles", not "Los Angeles, CA"); US state suffixes were stripped on 2026-11-09 (249 values).
 - Active studios only. Locations must be verified on the studio's own site or LinkedIn/press. The School of
   Motion ebook scrambles many locations (it put Blur Studio in Istanbul), so its HQs were never trusted alone.
 
@@ -373,10 +375,27 @@ left open, remove when done.
   Village) in §07. Houdini FX/simulations still 2 entries.
 
 **Studio directories (built 2026-10-31, split 2026-11-03, see §4b + CHANGELOG):**
-- `/studios/` 3,630 (104 countries) and `/game-studios/` 3,712 (100 countries) on 2026-11-09, after round 8
-  (South America + Africa, +194 / +125). Round 7 (Asia-Pacific) stood at 3,436 / 3,587, round 6 (Europe) at 3,075 / 3,238. Disciplines: archviz 461, product viz 238,
+- `/studios/` 4,043 (108 countries) and `/game-studios/` 4,202 (106 countries) on 2026-11-09, after round 9
+  (North America + Europe second pass, +413 / +490). Round 8 (South America + Africa) stood at 3,630 / 3,712, round 7
+  (Asia-Pacific) at 3,436 / 3,587, round 6 (Europe) at 3,075 / 3,238. Disciplines: archviz 461, product viz 238,
   interactive 251, VP 123, mocap 79, AI production 66, scanning 38, previs 29; games: simulation 166, kids-edu 114, UGC 50,
   VR 116. Japan 289 / 314, India 199 / 98, Australia 122 / 119, Korea 59 / 112, China 43 / 93.
+- Round 9 (2026-11-09, North America + Central America + Caribbean, Europe second pass): 14 agents, both directories.
+  Agent + main-session probe only; 155 of 903 rows are country-only HQ, none have `size`, 425 medium + 9 low confidence.
+  United States 567 / 447, Canada 176 / 229, Mexico 47 / 35, UK 365 / 323, Germany 176 / 222, France 177 / 174. First rows
+  for Jamaica, El Salvador, Honduras, Trinidad and Tobago, Montenegro, Albania. The US long tail is far from done:
+  gamedevmap.com's CSV (`/cmsdata/gamedevmapdata.csv`) still holds ~1,000 unlisted US-west and ~500 Canadian names
+  (agents took the first ~80 each). US production stayed thin (Reel-Scout state directories, Clutch, ProductionHub,
+  AdForum bot-walled; New Mexico directory needs a token). Leads left out: Cyber Group Studios + Machine Molle (TLS
+  handshake fails), Method Animation (DNS), TeamTO ("Coming Soon" page), Float4 (HTTP 500), Deck Nine (unreachable,
+  placeholder in round 5), Craneballs/Polyslash/Cherrypick (DNS), Puppetworks (resolves now, unverified), Brass Lion
+  Entertainment + Hidden Variable (orphan URLs from the shift fix below), Kuju (redirects to Curve Games), Dual Effect.
+  Dropped: Punch Punk Games (casino link), PUNCHev (online casino design line), Ydraw (casino spam injected). WayForward
+  added with a `notes:` line (site refuses scripted TLS; HQ from Wikipedia). Soda Den (rootsofpacha.com, US) merged into
+  the round 8 Argentina row.
+- Fixed 2026-11-09: 15 game-studio rows from the 2026-11-02 import (14-game-studios.yml Storm8 to 15-game-studios.yml
+  Magic Tavern) had url + careers shifted one row down (Stoic pointed at newworldinteractive.com). Neighbour-match scan
+  found no other shifted block in either directory.
 - Round 8 (2026-11-09, South America + Africa): 12 agents, both directories. Agent + main-session probe only; 100 of 319
   rows are country-only HQ, none have `size`, ~180 medium + 15 low confidence. Brazil 121 / 154, Argentina 60 / 38, Colombia
   40 / 20, Chile 35 / 21, South Africa 48 / 24, Nigeria 23 / 11. Thin after round 8: Egypt 13 / 10 (agent found 4; QLever 429
@@ -431,19 +450,19 @@ left open, remove when done.
 - Check status: The Mill and Mikros Animation (both hit by the Technicolor collapse, Feb 2025) still read `url_status: ok`.
 - Game studios: segments are rough. Rows default to `indie` without a headcount (indie 2,208 of 3,587), so
   mid-size studios are under-tiered; long-tail `notable` + socials come from Wikidata. 45 migrated rows had
-  LOW-confidence segment fixes (no live source). Size only 267/3,712. 84 Russia-HQ Wikidata studios skipped
+  LOW-confidence segment fixes (no live source). Size only 267/4,202. 84 Russia-HQ Wikidata studios skipped
   (Russia not in COUNTRY_REGION; ask before adding). ~50 East Asia/Europe rows carry `notes:` for geo-blocked or
   Cloudflare sites. Gambling/casino, pachinko, adult VN and crypto studios excluded.
 - 31 motion-niche studios (2026-11-03) were picked by an agent without network: sites live-checked by curl + title,
   but HQ/description not from site text (`notes:` says so).
-- `/studios/` founded 1,551/3,630, size 692/3,630 (2026-11-09, round 8). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
+- `/studios/` founded 1,649/4,043, size 692/4,043 (2026-11-09, round 9). The 2026-11-03 agents could not read LinkedIn, so most new rows lack size. The 2026-10-31 enrichment hit the session WebSearch cap (200, refills
   ~100/h) early; most rows were filled from LinkedIn/Wikipedia/site fetches. Second pass on rows without
   founded/size when search is available. LinkedIn size bands are self-reported and sometimes stale
   (Pentagram mid, Steelworks boutique); rule is still "use the band".
 - Skipped for now, add by hand if a working URL turns up: 88 Pictures (domain for sale), Les' Copaque, Ánima Estudios (restructuring). Older skips: Sila Sveta,
   Beauty and the Bit, Frogwares.
 - ~200 studios carry agent provenance in `notes:` (size from team page, city from Guild list, 403 sites).
-- studios.json 670/589 KB gz (2026-11-09, round 8; was 633/568). Both directories are past ~3,600 (3,630 / 3,712):
+- studios.json 736/661 KB gz (2026-11-09, round 9; was 670/589). Both directories are past 4,000 (4,043 / 4,202):
   decide on splitting the JSON (per region or per batch) before the next round.
 - Not verified on a real phone (headless Chrome floors the viewport at 504 px).
 

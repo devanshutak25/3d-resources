@@ -1,0 +1,674 @@
+studios:
+  - name: MASARY Studios
+    url: https://www.masarystudios.com/
+    description: Artist collective making site-specific installations with projection, light, sound and interactivity for public spaces.
+    hq:
+      city: Boston
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+    added_at: '2026-11-09T02:47:52.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blue Pixel 3D
+    url: https://www.bluepixel3d.com/
+    description: Architectural visualization studio making photoreal 3D renderings and animations for architects, builders and developers.
+    hq:
+      city: Foxborough
+      country: United States
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2017
+    added_at: '2026-11-09T02:47:52.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: The DVI Group
+    url: https://www.thedvigroup.com/
+    description: Film and video production company making corporate and brand video with in-house motion graphics, VFX and animation.
+    hq:
+      city: Atlanta
+      country: United States
+    disciplines:
+      - live-action
+      - motion-design
+      - vfx
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Solid Light
+    url: https://solidlight-inc.com/
+    description: Experience design and build firm making museum exhibits, media and interactive installations for civic, corporate and cultural destinations.
+    hq:
+      city: Louisville
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tiny Inventions
+    url: https://www.tinyinventions.com/main/
+    description: Independent two-director animation studio making mixed-media short films, a feature and commissioned work.
+    hq:
+      city: Providence
+      country: United States
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+      - advertising
+    notable:
+      - Negative Space (Oscar-nominated short)
+      - Porcelain Birds
+      - Cartoon Physics
+    social:
+      instagram: https://www.instagram.com/tinyinventions
+      vimeo: http://www.vimeo.com/tinyinventions
+    added_at: '2026-11-09T02:47:52.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Janimation
+    url: https://www.janimation.com/
+    description: Animation and VFX studio making 2D and 3D animation, motion graphics, visual effects and VR content for brands and agencies.
+    hq:
+      city: Dallas
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/janimationinc
+      linkedin: https://www.linkedin.com/company/janimation
+    added_at: '2026-11-09T02:47:52.696Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mechanism Digital
+    url: https://www.mechanismdigital.com/
+    description: Digital studio doing VFX, CG animation, titles and design for film, TV spots, healthcare and corporate communications.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+      - title-design
+    markets:
+      - film
+      - advertising
+      - medical-science
+    founded: 1996
+    added_at: '2026-11-09T02:47:52.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Utopic
+    url: https://www.utopic.net/
+    description: Commercial post house doing editorial, 2D and 3D motion graphics, color and finishing for national advertising.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - motion-design
+      - vfx
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/utopic_chi
+      linkedin: https://www.linkedin.com/company/utopic
+    added_at: '2026-11-09T02:47:52.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Drive Thru
+    url: https://www.drivethrutv.com/
+    description: Production and post house doing live-action production, editorial and visual effects for advertising agencies and brands.
+    hq:
+      city: Minneapolis
+      country: United States
+    disciplines:
+      - vfx
+      - live-action
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Daily Planet Productions
+    url: https://www.dailyplanetltd.com/
+    description: Production company with in-house directors, editors and a GFX/VFX team making commercials and branded content.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - live-action
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: cause+effect
+    url: https://causeffect.tv/
+    description: Creative studio of directors, designers and editors making campaigns, key art and motion design for streamers, networks and brands.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - episodic
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/causeffect.tv
+    added_at: '2026-11-09T02:47:52.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Moey
+    url: https://moeyinc.com/
+    description: Design-build studio making museum exhibits and interactive experiences, from concept and media production to programming and fabrication.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Monadnock
+    url: https://monadnock.org/
+    description: Museum media studio doing media master planning, design and production of films and interactives for museums and visitor centers.
+    hq:
+      city: Hatfield
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+    added_at: '2026-11-09T02:47:52.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Exit 73 Studios
+    url: http://www.exit73studios.com/
+    description: 2D frame-by-frame animation studio making pilots, commercials and game cut scenes for networks and brands.
+    hq:
+      city: Riverhead
+      country: United States
+    disciplines:
+      - 2d-animation
+      - cinematics
+    markets:
+      - episodic
+      - advertising
+      - games
+    notable:
+      - OK KO Let's Play Heroes cut scenes
+      - 'StoryBots: Answer Time'
+      - General Mills cereal spots
+    added_at: '2026-11-09T02:47:52.704Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Buzzco Associates
+    url: https://buzzco.nyc/
+    description: Independent 2D animation studio making commercials, Sesame Street segments and short films.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - advertising
+      - episodic
+      - film
+    notable:
+      - Sesame Street segments
+      - MTV Top of the Hour
+    added_at: '2026-11-09T02:47:52.705Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Green Grass Studios
+    url: https://greengrassstudios.com/
+    description: Architectural visualization studio making renderings, animations and marketing imagery for real estate developments.
+    hq:
+      country: United States
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.706Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spiffy Pictures
+    url: https://spiffypictures.com/
+    description: Kids and family production company making animated and live-action puppet series for PBS KIDS, Nickelodeon and Disney.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+    notable:
+      - Nature Cat
+      - Donkey Hodie
+      - Carl the Collector
+      - Jack's Big Music Show
+    added_at: '2026-11-09T02:47:52.707Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lumen and Forge
+    url: https://lumenandforge.com/
+    description: Immersive experience studio doing projection mapping, 360 dome projection and in-house 3D content for brand activations and live events.
+    hq:
+      city: Las Vegas
+      country: United States
+    disciplines:
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+    notable:
+      - Nike and Air Jordan building projection, 2023 NBA All-Star Game
+    added_at: '2026-11-09T02:47:52.708Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: FlickerLab
+    url: https://www.flickerlab.com/
+    description: Animation and production studio making motion graphics, animation, live action and post for brands, networks and entertainment companies.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - episodic
+      - brand
+    founded: 1999
+    added_at: '2026-11-09T02:47:52.709Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Happy Trails Animation
+    url: https://www.happytrailsanimation.com/
+    description: Animation studio making 2D and 3D animated spots, films and promotional content for companies and organizations.
+    hq:
+      city: Portland
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.710Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HiFi 3D
+    url: https://www.hifi3d.com/
+    description: Boutique VFX and 3D animation studio doing visual effects for film and TV and CG animated mascots for brands.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.711Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cromo3D
+    url: https://cromo3d.com/
+    description: Architectural visualization studio making photoreal exterior, interior and landscape renderings for architects, developers and brands.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2014
+    added_at: '2026-11-09T02:47:52.712Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Houses in Motion
+    url: https://housesinmotion.tv/
+    description: Mixed-media design and animation studio with in-house fabrication, making promos, toolkits and spots for networks and brands.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+      - brand
+    notable:
+      - Nickelodeon Nickmas promo
+      - Sesame Street Mecha Builders promo
+    added_at: '2026-11-09T02:47:52.713Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spacejunk
+    url: https://www.spacejunk.com/
+    description: Creative studio making animation and live-action content for brands, sports and entertainment clients.
+    hq:
+      city: Columbus
+      country: United States
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.714Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio2a
+    url: https://www.studio2a.co/
+    description: 3D rendering studio making architectural and product renderings and animations for architects, designers and manufacturers.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    added_at: '2026-11-09T02:47:52.715Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Thornberg & Forester
+    url: https://thornbergandforester.com/
+    description: Design and animation studio making brand films, network branding and show packaging for media and corporate clients.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - episodic
+      - brand
+      - advertising
+    notable:
+      - Spectrum Entertainment branding
+      - ATP Tour 2026 identity film
+    added_at: '2026-11-09T02:47:52.716Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Two Animators!
+    url: https://twoanimators.com/
+    description: 2D animation studio making animated series, explainer videos, commercials and shorts.
+    hq:
+      city: Hamilton
+      country: United States
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.717Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: UVPH
+    url: https://uvph.com/
+    description: Design and production company doing live-action direction, editorial and 2D/3D animation for brands and networks.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.718Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Patten Studio
+    url: https://www.pattenstudio.com/
+    description: Studio that designs and fabricates interactive art installations and experiences for brands and public spaces.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.719Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pixeldust Studios
+    url: https://pixeldust.tv/
+    description: Animation and video production studio making animated content, interactive and XR work for healthcare, government and broadcast clients.
+    hq:
+      city: Washington
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - xr
+    markets:
+      - medical-science
+      - brand
+      - advertising
+    founded: 2004
+    added_at: '2026-11-09T02:47:52.720Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gone Virtual Studios
+    url: https://www.gonevirtual.com/
+    description: Architectural visualization studio making 3D renderings, animations, VR tours and capital campaign videos for architects, churches and developers.
+    hq:
+      city: Lubbock
+      country: United States
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.721Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dress Code
+    url: https://dresscodeny.com/
+    description: Creative production studio with a roster of directors making animated and live-action brand content and campaigns.
+    hq:
+      city: Brooklyn
+      country: United States
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.722Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Inphantry
+    url: https://www.inphantry.com/
+    description: Experiential design studio making immersive brand experiences, creative technology and live activations.
+    hq:
+      city: Boston
+      country: United States
+    offices:
+      - city: San Jose
+        country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.723Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animatic Media
+    url: https://www.animaticmedia.com/
+    description: Animatics and AI video production studio making animatics, boardomatics, AI commercials and animation for agencies and brands.
+    hq:
+      country: United States
+    disciplines:
+      - ai-production
+      - 2d-animation
+      - previs
+    markets:
+      - advertising
+    founded: 1997
+    added_at: '2026-11-09T02:47:52.724Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: CRASH+SUES
+    url: https://www.crash-sues.com/
+    description: Independent creative content studio doing video production, animation, motion design and VFX for brands.
+    hq:
+      city: Arden Hills
+      country: United States
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.725Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: E1 Studios
+    url: https://www.e1studios.com/
+    description: Production studio making broadcast spots, 3D cinematics, online content and 2D test commercials for agencies.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - previs
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.726Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hyperquake
+    url: https://hyperquake.com/
+    description: Experiential and immersive experience studio designing brand experiences and installations, merged with Brooklyn studio Potion.
+    hq:
+      city: Cincinnati
+      country: United States
+    offices:
+      - city: Brooklyn
+        country: United States
+      - city: Portland
+        country: United States
+      - city: Salt Lake City
+        country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.727Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Subset Studio
+    url: https://subset.studio/
+    description: Design-led VFX and CG studio making product CG, title work and commercial VFX for tech, sports and consumer brands.
+    hq:
+      country: United States
+    offices:
+      - city: Austin
+        country: United States
+      - city: New York
+        country: United States
+      - city: Santa Monica
+        country: United States
+      - city: London
+        country: United Kingdom
+      - city: Tokyo
+        country: Japan
+    disciplines:
+      - vfx
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Google Pixel 9 CG
+      - Spectrum Invincible CG
+      - Callaway Apex Irons CG
+    added_at: '2026-11-09T02:47:52.728Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dimensional Innovations
+    url: https://dimin.com/
+    description: Employee-owned experience design, technology and fabrication firm building interactive spaces for brands, sports teams and institutions.
+    hq:
+      city: Kansas City
+      country: United States
+    offices:
+      - city: Atlanta
+        country: United States
+      - city: Chicago
+        country: United States
+      - city: Denver
+        country: United States
+      - city: Los Angeles
+        country: United States
+      - city: Minneapolis
+        country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.729Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Belle & Wissell
+    url: https://bwco.info/
+    description: Design and technology studio making interactive media installations for museums, universities and brands in public spaces.
+    hq:
+      city: Seattle
+      country: United States
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+    founded: 2003
+    added_at: '2026-11-09T02:47:52.730Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

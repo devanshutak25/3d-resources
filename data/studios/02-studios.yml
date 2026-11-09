@@ -23,7 +23,7 @@ studios:
     url: https://www.brandnewschool.com/
     description: New York design-led studio making motion design and brand work, from strategy and concept through production.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -73,7 +73,7 @@ studios:
     url: https://buck.co/
     description: Global creative company with studios in five cities, making animation, design systems and experiential work for brands.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -181,7 +181,7 @@ studios:
     url: https://heycarbon.com/
     description: New York creative studio, sister to Whitehouse Post, doing VFX, motion graphics, character animation, color and live action.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - vfx
@@ -203,7 +203,7 @@ studios:
     url: https://www.cartandhorse.studio/
     description: Detroit design and motion studio making 3D animation, real-time interactive work and virtual production.
     hq:
-      city: Detroit, MI
+      city: Detroit
       country: United States
     disciplines:
       - motion-design
@@ -264,7 +264,7 @@ studios:
     url: https://charlieco.tv/
     description: Culver City production studio making show opens, seasonal branding and campaigns for sports and entertainment networks.
     hq:
-      city: Culver City, CA
+      city: Culver City
       country: United States
     disciplines:
       - motion-design
@@ -287,7 +287,7 @@ studios:
     url: https://chromosphere-la.com/
     description: Los Angeles design and animation studio making hybrid 2D/3D series, VR and interactive projects.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - 2d-animation
@@ -347,7 +347,7 @@ studios:
     url: https://coatofarms.tv/
     description: West Virginia filmmaking and design studio handling direction, animation, editing, color and sound for brands.
     hq:
-      city: Helvetia, WV
+      city: Helvetia
       country: United States
     disciplines:
       - motion-design
@@ -374,11 +374,11 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
-      - city: Santa Monica, CA
+      - city: Santa Monica
         country: United States
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - motion-design
@@ -532,7 +532,7 @@ studios:
     url: https://wearecream.com/
     description: Richmond, Virginia motion design studio making title sequences, promos and branded content for streamers and brands.
     hq:
-      city: Richmond, VA
+      city: Richmond
       country: United States
     disciplines:
       - motion-design
@@ -621,7 +621,7 @@ studios:
     url: https://www.cuttersstudios.com/
     description: Chicago production and post company with editorial, VFX, finishing, audio and production divisions for brands and agencies.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - vfx
@@ -707,7 +707,7 @@ studios:
       city: Kyiv
       country: Ukraine
     offices:
-      - city: Miami, FL
+      - city: Miami
         country: United States
     disciplines:
       - 2d-animation
@@ -733,7 +733,7 @@ studios:
     url: https://www.dashstudio.net/
     description: Motion design and animation studio behind the Dash Bash festival, making brand work for clients like J.P. Morgan and Red Hat.
     hq:
-      city: Raleigh, NC
+      city: Raleigh
       country: United States
     disciplines:
       - motion-design
@@ -756,7 +756,7 @@ studios:
     url: https://www.deepsky.tv/
     description: Portland production studio making 2D and 3D animation, live action, VFX and product visuals for brands and entertainment.
     hq:
-      city: Portland, OR
+      city: Portland
       country: United States
     disciplines:
       - 2d-animation
@@ -786,7 +786,7 @@ studios:
     url: https://demoduck.com/
     description: Chicago video studio making animated explainers, commercials and product videos in 2D and 3D for education, health and B2B.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - 2d-animation
@@ -834,7 +834,7 @@ studios:
     url: https://digitaldomain.com/
     description: Los Angeles VFX studio making effects for films, series, ads and games, plus real-time digital humans.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - vfx
@@ -862,10 +862,10 @@ studios:
     url: https://www.thisisdk.com/
     description: Los Angeles creative studio, part of Sid Lee, making TV main titles, brand work and immersive spaces.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: Seattle, WA
+      - city: Seattle
         country: United States
     disciplines:
       - title-design
@@ -1026,10 +1026,10 @@ studios:
     url: https://drivestudio.com/
     description: El Segundo broadcast design studio making network branding, sports packages, insert graphics and Unreal set design.
     hq:
-      city: El Segundo, CA
+      city: El Segundo
       country: United States
     offices:
-      - city: Nashville, TN
+      - city: Nashville
         country: United States
     disciplines:
       - motion-design

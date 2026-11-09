@@ -248,3 +248,662 @@ studios:
     added_at: '2026-11-09T00:44:05.468Z'
     url_status: ok
     url_last_verified: '2026-11-09'
+  - name: 13AM Games
+    url: https://www.13amgames.com/
+    description: Toronto indie studio behind the party platformer Runbow, released on PC and consoles.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Runbow
+      - Pirate Pop Plus
+    added_at: '2026-11-09T02:47:52.318Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 270sims
+    url: https://270sims.com/
+    description: Developer of political strategy and election simulation games for PC.
+    hq:
+      country: Canada
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - President Infinity 2024
+      - President Forever 2028
+      - Elections Forever
+      - A More Perfect Union
+    added_at: '2026-11-09T02:47:52.319Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Alblune
+    url: https://alblune.com/
+    description: Montreal two-person studio making cozy games about rodents for PC and consoles.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - The Spirit and the Mouse
+      - 'Squeakross: Home Squeak Home'
+    social:
+      instagram: http://instagram.com/alblune
+    added_at: '2026-11-09T02:47:52.320Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Apparition Games
+    url: https://apparitiongames.com/
+    description: Oakville indie studio run by two brothers, maker of the pinball adventure Pinball Spire and the rhythm puzzler Micron.
+    hq:
+      city: Oakville
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2011
+    notable:
+      - Pinball Spire
+      - Micron
+    added_at: '2026-11-09T02:47:52.321Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Artifice Studio
+    url: https://www.artificestudio.com/
+    description: 'Canadian indie studio behind the folk-tale action game Sang-Froid: Tales of Werewolves and Legends of the Round Table.'
+    hq:
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Sang-Froid: Tales of Werewolves'
+      - Legends of the Round Table
+      - Conflicks
+    added_at: '2026-11-09T02:47:52.322Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bacon Bandit Games
+    url: https://www.baconbanditgames.com/
+    description: Winnipeg indie studio making casual word and digging games for PC, consoles and mobile.
+    hq:
+      city: Winnipeg
+      country: Canada
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2012
+    notable:
+      - 'Letter Quest: Grimm''s Journey Remastered'
+      - Tap Tap Dig 2
+      - Mr. Ghost's Journey
+    added_at: '2026-11-09T02:47:52.323Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BancyCo
+    url: https://www.bancy.co/
+    description: Toronto two-person studio making story-rich adventure and horror games.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Home
+      - Alone With You
+      - Worse Than Death
+      - Neo Harbor Rescue Squad
+    social:
+      instagram: https://www.instagram.com/bancyco
+    added_at: '2026-11-09T02:47:52.324Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BattleGoat Studios
+    url: https://www.battlegoat.com/
+    description: Canadian developer of the Supreme Ruler grand strategy series.
+    hq:
+      country: Canada
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Supreme Ruler 2030
+      - Supreme Ruler Ultimate
+    added_at: '2026-11-09T02:47:52.325Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BKOM Studios
+    url: https://www.bkom.com/
+    description: Quebec City studio making mobile, PC and console games and co-developing titles for publishers.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    parent: Aonic
+    careers: https://jobs.bkom.com/jobs/Careers
+    added_at: '2026-11-09T02:47:52.326Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Borealys Games
+    url: https://borealysgames.com/
+    description: Montreal indie studio of 25+ people, developer of the spell-crafting action game Mages of Mystralia.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2014
+    notable:
+      - Mages of Mystralia
+    social:
+      instagram: https://www.instagram.com/borealysgames
+      linkedin: https://www.linkedin.com/company/jeux-borealys
+    added_at: '2026-11-09T02:47:52.327Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Caldera Interactive
+    url: https://calderainteractive.com/
+    description: Edmonton bilingual indie studio making wholesome games, including the tower-defense action game The Rabbit Haul.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - The Rabbit Haul
+    social:
+      instagram: https://www.instagram.com/calderainteractive
+    added_at: '2026-11-09T02:47:52.328Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Chainsawesome Games
+    url: https://www.chainsawesomegames.com/
+    description: Quebec City indie studio known for the party brawler series Knight Squad.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    notable:
+      - Knight Squad
+      - Knight Squad 2
+      - BeatBlasters III
+    added_at: '2026-11-09T02:47:52.329Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: City From Naught
+    url: https://www.cityfromnaught.com/
+    description: Toronto indie studio making narrative and AI-driven games, including the Keyword series and Brave New Wonders.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2019
+    notable:
+      - 'Keyword: A Spider''s Thread'
+      - Brave New Wonders
+    added_at: '2026-11-09T02:47:52.330Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Clever Plays
+    url: https://clever-plays.com/
+    description: 'Montreal studio behind the co-op spy puzzler Operation: Tango and action game Leap of Fate.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Operation: Tango'
+      - Leap of Fate
+      - Happy Bastards
+    social:
+      linkedin: https://www.linkedin.com/company/clever-plays-studio
+    added_at: '2026-11-09T02:47:52.331Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Crimson Herring Studios
+    url: https://www.crimsonherring.com/
+    description: Edmonton narrative RPG studio of 20+ developers, maker of the steampunk cRPG Sovereign Syndicate.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    careers: https://www.crimsonherring.com/careers/
+    notable:
+      - Sovereign Syndicate
+    added_at: '2026-11-09T02:47:52.332Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dragon Slumber
+    url: https://www.dragonslumber.com/
+    description: Quebec City indie studio making space and sci-fi adventure games such as Aethernaut and Arelite Core.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Aethernaut
+      - Arelite Core
+      - Astral Traveler
+    added_at: '2026-11-09T02:47:52.333Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Evil Objective
+    url: http://evilobjective.com/
+    description: Calgary indie developer of the Big Tower Tiny Square platformer series.
+    hq:
+      city: Calgary
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+      - mobile
+    notable:
+      - Big Tower Tiny Square
+      - Big Tower Tiny Square 2
+      - Big NEON Tower VS Tiny Square
+    added_at: '2026-11-09T02:47:52.334Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Falling Squirrel Games
+    url: https://www.fallingsquirrel.com/
+    description: 'St. Catharines studio behind The Vale: Shadow of the Crown, an audio-first adventure game.'
+    hq:
+      city: St. Catharines
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'The Vale: Shadow of the Crown'
+    added_at: '2026-11-09T02:47:52.335Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Game Hive
+    url: https://www.gamehive.com/
+    description: Toronto mobile studio behind the idle RPG Tap Titans 2 and the Beat the Boss series.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2009
+    notable:
+      - Tap Titans 2
+      - Beat the Boss 4
+      - Battle Run
+      - Tap Tycoon
+    added_at: '2026-11-09T02:47:52.336Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gasket Games
+    url: https://www.gasketgames.com/
+    description: 'Vancouver studio making connected games, developer of Warhammer Age of Sigmar: Storm Ground.'
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2018
+    careers: https://gasketgames.bamboohr.com/jobs/
+    notable:
+      - 'Warhammer Age of Sigmar: Storm Ground'
+    added_at: '2026-11-09T02:47:52.337Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Highdive
+    url: https://highdivegames.com/en
+    description: Montreal development studio of NetEase Games ThunderFire making emotion-driven multiplayer games.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+    parent: NetEase Games
+    careers: https://highdivegames.com/en/careers
+    notable:
+      - Blood Message
+    social:
+      instagram: https://www.instagram.com/highdivegames
+      linkedin: https://www.linkedin.com/company/highdivegames
+    added_at: '2026-11-09T02:47:52.338Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Impossible
+    url: https://impossible.dev/
+    description: Montreal indie studio of about a dozen people, maker of the painting adventure game Été.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - Été
+    social:
+      instagram: https://www.instagram.com/impossible_dev
+    added_at: '2026-11-09T02:47:52.339Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: IronOak Games
+    url: https://ironoakgames.com/
+    description: Vancouver studio of the Curve Games group, developer of the tabletop-style roguelike RPG For The King II.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    parent: Curve Games
+    careers: https://ironoakgames.com/careers/
+    notable:
+      - For The King II
+      - For The King
+    social:
+      instagram: https://www.instagram.com/ironoakgames
+    added_at: '2026-11-09T02:47:52.340Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Itzy Interactive
+    url: https://itzyinteractive.com/
+    description: Edmonton indie developer that moved from mobile games to PC and console titles.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Mad Devils
+      - 'Weird O''s: Chaos Royale'
+    social:
+      instagram: https://www.instagram.com/itzyinteractive
+      linkedin: https://www.linkedin.com/company/itzy-interactive
+    added_at: '2026-11-09T02:47:52.341Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Jamhammer Games
+    url: https://jamhammer.ca/
+    description: Toronto two-founder indie studio behind the twin-stick action game Shwip.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - Shwip
+    social:
+      instagram: https://instagram.com/jamhammergames
+    added_at: '2026-11-09T02:47:52.342Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Journey Bound Games
+    url: https://www.pathofgiants.com/
+    description: Vancouver indie studio behind the co-op puzzle game Path of Giants for PC, Switch and mobile.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Path of Giants
+    social:
+      instagram: http://instagram.com/journeyboundgames
+    added_at: '2026-11-09T02:47:52.343Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Juicy Beast
+    url: https://www.juicybeast.com/
+    description: Montreal studio of six friends making colorful action games since 2009, with over 10 released titles.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2009
+    notable:
+      - Knightmare Tower
+      - Deviled Dice
+    social:
+      instagram: https://www.instagram.com/juicybeast
+    added_at: '2026-11-09T02:47:52.344Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: k-Critical
+    url: https://k-critical.com/
+    description: Edmonton indie studio with a three-person core team, maker of the strategy game Command Deck.
+    hq:
+      city: Edmonton
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Command Deck
+    added_at: '2026-11-09T02:47:52.345Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Koolhaus Games
+    url: https://koolhausgames.com/
+    description: Vancouver work-for-hire studio developing desktop, console and mobile games for publishers, with 22 releases.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    careers: https://koolhausgames.com/career/
+    added_at: '2026-11-09T02:47:52.346Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: KRAFTON Montréal
+    url: https://kraftonmontreal.com/
+    description: Montreal studio of KRAFTON working on new game projects with a hybrid team.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - aa
+    platforms:
+      - pc
+    parent: KRAFTON
+    careers: https://kraftonmontreal.com/
+    added_at: '2026-11-09T02:47:52.347Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: LBC Studios
+    url: https://lbcstudios.ca/
+    description: Vancouver mobile studio and publisher of 40+ people making free-to-play growing sims such as Hempire and Brewtopia.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2015
+    careers: https://lbcstudios.ca/careers/
+    notable:
+      - Hempire
+      - Brewtopia
+      - Shroomtopia
+      - Tasty Buds
+    social:
+      instagram: https://www.instagram.com/lbcstudiosca
+      linkedin: https://www.linkedin.com/company/lbcstudios
+    added_at: '2026-11-09T02:47:52.348Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lithic Entertainment
+    url: https://www.lithicentertainment.com/
+    description: Small Toronto team behind the peaceful town-building adventure Dwarrows.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Dwarrows
+    added_at: '2026-11-09T02:47:52.349Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Massive Corporation Game Studios
+    url: https://massivecorp.ca/
+    description: Regina studio making original games, educational products and custom game work for clients.
+    hq:
+      city: Regina
+      country: Canada
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    founded: 2018
+    notable:
+      - Brandin's Buttons
+      - Cheese Runner
+    added_at: '2026-11-09T02:47:52.350Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Metric Empire
+    url: https://www.metricempire.com/
+    description: Montreal independent studio making highly replayable games, including Battle Shapers.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Battle Shapers
+    social:
+      linkedin: http://www.linkedin.com/company/MetricEmpire
+    added_at: '2026-11-09T02:47:52.351Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Milkbag Games
+    url: https://milkbag.me/
+    description: Southern Ontario two-person studio behind the racing game FutureGrind and the mobile hit Disco Zoo.
+    hq:
+      country: Canada
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2012
+    notable:
+      - FutureGrind
+      - Disco Zoo
+      - SantaCraft
+      - Potion Pipeline
+    added_at: '2026-11-09T02:47:52.352Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mooncube Games
+    url: https://mooncubegames.com/
+    description: 'Montreal indie studio behind the cozy focus app game Spirit City: Lofi Sessions.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Spirit City: Lofi Sessions'
+    added_at: '2026-11-09T02:47:52.353Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

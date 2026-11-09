@@ -1,0 +1,954 @@
+studios:
+  - name: Silent Cartoons
+    url: https://www.silentcartoons.co/
+    description: Prague animation studio making animated stories, feature films and TV series.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.391Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Vision Graphics
+    url: https://visiongraphics.eu/
+    description: Budapest architectural visualization studio since 1996 making stills, animation, 360 tours and VR.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+    markets:
+      - real-estate
+    founded: 1996
+    added_at: '2026-11-09T02:47:52.392Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animatiqua
+    url: https://animatiqua.com/
+    description: Budapest animation studio making 3D animation for documentaries and commercials.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: https://www.instagram.com/animatiqua
+      linkedin: https://www.linkedin.com/company/animatiqua
+      vimeo: https://vimeo.com/animatiqua
+    added_at: '2026-11-09T02:47:52.393Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ImageBar
+    url: https://www.imagebar.hu/
+    description: Budapest studio making AI film, AI photography and product imagery for brands.
+    hq:
+      city: Budapest
+      country: Hungary
+    disciplines:
+      - ai-production
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/imagebarstudio
+    added_at: '2026-11-09T02:47:52.394Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: KAZstudio
+    url: https://kazstudio.pl/
+    description: Gdynia stop-motion studio founded in 2013, part of the Trefl group, making animated series and films.
+    hq:
+      city: Gdynia
+      country: Poland
+    disciplines:
+      - stop-motion
+    markets:
+      - episodic
+      - film
+    founded: 2013
+    added_at: '2026-11-09T02:47:52.395Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: KeyStory
+    url: https://keystory.pl/
+    description: Poznań film and animation production team making 2D and 3D animated commercials and brand films.
+    hq:
+      city: Poznań
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.396Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Artcore
+    url: https://www.artcore.pl/
+    description: Warsaw creative production, post-production and animation studio making 2D and 3D ads.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/artcore.pl
+      vimeo: https://vimeo.com/artcoreanimationstudio
+    added_at: '2026-11-09T02:47:52.397Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OnShott Studio
+    url: https://onshott.studio/
+    description: Warsaw post-production and animation studio since 2013 making 2D and 3D animated films, commercials and VFX.
+    hq:
+      city: Warsaw
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - advertising
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/onshott.studio
+    added_at: '2026-11-09T02:47:52.398Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Imaginary Pixels
+    url: https://imaginary-pixels.com/
+    description: Gliwice VFX company doing compositing, green screen and VFX outsourcing for films and TV series.
+    hq:
+      city: Gliwice
+      country: Poland
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.399Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Brojka
+    url: https://brojka.hr/
+    description: Zagreb creative production studio making video, 2D and 3D animation and interactive experiences.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/brojkapro
+    added_at: '2026-11-09T02:47:52.400Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Moglo
+    url: https://moglo.hr/
+    description: Zagreb video content studio making 2D and 3D animation, production and post for brands such as Jamnica and Porsche Digital.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Jamnica
+      - Porsche Digital Croatia
+    social:
+      instagram: https://www.instagram.com/moglohr
+      linkedin: https://www.linkedin.com/company/moglo
+    added_at: '2026-11-09T02:47:52.401Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Momentum Studio
+    url: https://momentum-studio.com/
+    description: Zagreb studio founded in 2009 doing VFX, mixed media and broadcast design for series, films and brands.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - vfx
+      - motion-design
+      - title-design
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2009
+    social:
+      vimeo: https://vimeo.com/momentumstudio
+    added_at: '2026-11-09T02:47:52.402Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: willbe studio
+    url: https://willbe.studio/
+    description: Bratislava graphics studio focused on real estate, making architectural visualization for developers.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/willbe.studio
+      linkedin: https://www.linkedin.com/company/willbe-studio
+    added_at: '2026-11-09T02:47:52.403Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Prague Based
+    url: https://www.praguebased.com/
+    description: Prague architectural visualization and CGI studio making stills and animations for architects and developers.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/praguebased
+      linkedin: https://www.linkedin.com/company/praguebased
+    added_at: '2026-11-09T02:47:52.404Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: VRModelFactory
+    url: https://vrmodelfactory.com/
+    description: Prague studio building interactive 3D and AR product apps and configurators since 2020.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - interactive
+      - xr
+      - product-viz
+    markets:
+      - brand
+    founded: 2020
+    social:
+      instagram: https://www.instagram.com/vrmodelfactory
+      linkedin: https://www.linkedin.com/company/vrmodelfactory-s-r-o
+    added_at: '2026-11-09T02:47:52.405Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lemonade Studio
+    url: https://www.lemonadestudio.us/
+    description: Rzeszów studio since 2011 making 3D visualizations, animation and video production, with an office in Las Vegas.
+    hq:
+      city: Rzeszów
+      country: Poland
+    offices:
+      - city: Las Vegas
+        country: United States
+    disciplines:
+      - 3d-animation
+      - cg
+      - live-action
+    markets:
+      - advertising
+      - brand
+    founded: 2011
+    social:
+      instagram: https://instagram.com/lemonadecrew
+      linkedin: https://www.linkedin.com/company/lemonade-studio
+    added_at: '2026-11-09T02:47:52.406Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Modii3D
+    url: https://modii3d.com/
+    description: Gliwice studio making 3D animations, visualizations, VR apps and 3D presentations for industry and products.
+    hq:
+      city: Gliwice
+      country: Poland
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - xr
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/modii3d-sp--z-o-o-
+    added_at: '2026-11-09T02:47:52.407Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NuFrame
+    url: https://www.nuframe.si/
+    description: Ljubljana production and post-production company doing animation, motion graphics and VFX for films and ads.
+    hq:
+      city: Ljubljana
+      country: Slovenia
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - vfx
+    markets:
+      - film
+      - advertising
+    founded: 2008
+    social:
+      instagram: https://www.instagram.com/nuframestudio
+      vimeo: https://vimeo.com/nuframe
+    added_at: '2026-11-09T02:47:52.408Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Poster
+    url: https://poster.hr/
+    description: Zagreb studio doing VFX with on-set supervision for features, shorts and commercials, plus animation.
+    hq:
+      city: Zagreb
+      country: Croatia
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-09T02:47:52.409Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animoline
+    url: https://www.animoline.sk/
+    description: Bratislava animation studio founded in 1992 making 2D and 3D animated series, films and commercials.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 1992
+    notable:
+      - Jurošík
+      - Rytier Malíček
+      - Zvedavá Sýkorka
+    social:
+      vimeo: https://vimeo.com/user140073407
+    added_at: '2026-11-09T02:47:52.410Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Mirage
+    url: https://www.mirage.cz/
+    description: Prague effects studio doing practical SFX, VFX, mock-ups, 3D printing and Phantom high-speed work for film and ads.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - advertising
+    social:
+      vimeo: https://vimeo.com/user85332987
+    added_at: '2026-11-09T02:47:52.411Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Goldfinchmotion
+    url: https://goldfinchmotion.com/
+    description: Czech motion design studio doing animation, art direction and production for brands.
+    hq:
+      country: Czech Republic
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/goldfinchmotion
+    added_at: '2026-11-09T02:47:52.412Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mist Visual
+    url: https://www.mistvisual.pl/
+    description: Polish 2D and 3D animation studio making motion design and animated videos for brands.
+    hq:
+      country: Poland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/mist_visual
+      vimeo: https://vimeo.com/mistvisual
+    added_at: '2026-11-09T02:47:52.413Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Overhead
+    url: https://www.overhead4d.com/
+    description: Slovak studio doing 3D scanning, aerial capture, 3D models, visualizations and VR, AR and touch apps for heritage and real estate.
+    hq:
+      country: Slovakia
+    disciplines:
+      - scanning
+      - archviz
+      - xr
+      - interactive
+    markets:
+      - real-estate
+      - brand
+    notable:
+      - Domica cave VR tour
+      - Shipwreck MARS touch app
+      - Spiš castle 3D scan
+    social:
+      instagram: https://www.instagram.com/overhead4d
+      linkedin: https://www.linkedin.com/company/overhead4d
+    added_at: '2026-11-09T02:47:52.414Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: guessWho FX
+    url: https://www.guesswhofx.com/
+    description: VFX studio combining compositing and AI-assisted workflows for feature films, series and commercials.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/guesswho_fx/
+      linkedin: https://www.linkedin.com/company/guesswho-fx/
+    added_at: '2026-11-09T02:47:52.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: LUGUNDTRUG
+    url: https://lugundtrug.net/
+    description: Full-service VFX studio for feature films, television and advertising.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Cologne
+        country: Germany
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2007
+    careers: https://lugundtrug.net/jobs.html
+    social:
+      instagram: https://www.instagram.com/lugundtrug_vfx/
+      vimeo: https://vimeo.com/lugundtrug
+      linkedin: https://www.linkedin.com/company/lugundtrug
+    added_at: '2026-11-09T02:47:52.416Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: LUMATIC
+    url: https://lumatic.xyz/
+    description: Character animation and visual effects studio for feature films and series, with its own original projects.
+    hq:
+      city: Berlin
+      country: Germany
+    offices:
+      - city: Munich
+        country: Germany
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://instagram.com/LUMATIC.xyz
+    added_at: '2026-11-09T02:47:52.417Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Optical Art
+    url: https://www.opticalart.de/
+    description: Post-production house for cinema and TV with in-house VFX, title design, grading and editing.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - vfx
+      - title-design
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/optical.art.hh/
+    added_at: '2026-11-09T02:47:52.418Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Imagestorm
+    url: https://imagestorm.de/
+    description: Media studio producing 3D, motion, VFX and film content plus VR and interactive apps for brands and broadcasters.
+    hq:
+      city: Ludwigsburg
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - vfx
+      - xr
+    markets:
+      - advertising
+      - brand
+      - episodic
+    founded: 2007
+    social:
+      instagram: https://www.instagram.com/imagestorm/
+      vimeo: https://vimeo.com/imagestorm
+      linkedin: https://de.linkedin.com/company/imagestorm-gmbh
+    added_at: '2026-11-09T02:47:52.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: acameo
+    url: https://www.acameo.de/
+    description: Studio building physical and digital experience spaces with 3D, AR, VR and web media for museums and brands.
+    hq:
+      city: Tübingen
+      country: Germany
+    disciplines:
+      - xr
+      - experiential
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NUMENA
+    url: https://www.numena.de/
+    description: Studio making digital twins, interactive applications and immersive experiences for planning and research clients.
+    hq:
+      city: Tuttlingen
+      country: Germany
+    disciplines:
+      - interactive
+      - xr
+    markets:
+      - brand
+      - real-estate
+    social:
+      linkedin: https://www.linkedin.com/company/numena/
+    added_at: '2026-11-09T02:47:52.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animationsfabrik
+    url: https://animationsfabrik.de/
+    description: 2D and 3D animation studio making characters, explainer films, VFX and feature animation for advertising, TV and cinema.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - film
+      - episodic
+      - brand
+    founded: 2000
+    social:
+      instagram: https://www.instagram.com/animationsfabrik/
+      linkedin: https://www.linkedin.com/company/animationsfabrik-gmbh/
+    added_at: '2026-11-09T02:47:52.422Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pixable Studios
+    url: https://pixablestudios.com/
+    description: 3D content studio making VFX for feature films, fulldome and immersive films, industrial AR/VR and animated original IP.
+    hq:
+      city: Dresden
+      country: Germany
+    disciplines:
+      - 3d-animation
+      - vfx
+      - experiential
+      - xr
+    markets:
+      - film
+      - brand
+    careers: https://pixablestudios.com/careers/
+    notable:
+      - Das geheime Stockwerk (VFX)
+      - Finisterra (co-producer, VFX)
+      - KIRA (fulldome)
+    social:
+      instagram: https://instagram.com/pixable_studios.gmbh
+      linkedin: https://www.linkedin.com/company/pixable-studios-gmbh/
+    added_at: '2026-11-09T02:47:52.423Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: visual distractions
+    url: https://vd-fx.com/
+    description: VFX studio for commercials and features covering CGI, motion control, stop motion and in-camera effects, with its own shooting stage.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - vfx
+      - cg
+      - stop-motion
+    markets:
+      - advertising
+      - film
+      - music-video
+    founded: 2006
+    notable:
+      - Lea and the Tree of Dreams (teaser)
+      - 'Audi: The Journey'
+      - 'Aggregat: Brigade (music video)'
+    added_at: '2026-11-09T02:47:52.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Virgin Lands
+    url: https://www.virgin-lands.com/
+    description: 3D agency making photoreal product images, animations, virtual showrooms and VR/AR apps for industrial companies.
+    hq:
+      city: Rimpar
+      country: Germany
+    disciplines:
+      - product-viz
+      - 3d-animation
+      - xr
+      - interactive
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: INFECTED
+    url: https://infected.digital/
+    description: Post-production studio for VFX, CGI, 3D animation and AI-driven films, mostly for automotive and brand commercials.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    founded: 1984
+    careers: https://infected.digital/career/
+    notable:
+      - 'Porsche: 75y Motor'
+      - Volkswagen ID. ERA teaser
+      - 'Hyundai: Night Fishing'
+    social:
+      instagram: https://www.instagram.com/infected.connected/
+    added_at: '2026-11-09T02:47:52.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Replayboys
+    url: https://www.replayboys.studio/
+    description: Digital production studio for VFX, animation and AI-driven commercials for brands such as ALDI, Mercedes and Telekom.
+    hq:
+      city: Hamburg
+      country: Germany
+    disciplines:
+      - vfx
+      - ai-production
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+    founded: 2021
+    notable:
+      - ALDI
+      - Mercedes
+      - Telekom
+    added_at: '2026-11-09T02:47:52.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NFP Animation Film
+    url: https://nfpanimation.de/
+    description: Animation studio producing the ZDF Mainzelmännchen spots plus animated series and films for TV and digital use.
+    hq:
+      city: Wiesbaden
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 1989
+    notable:
+      - Mainzelmännchen
+    added_at: '2026-11-09T02:47:52.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Uber Eck
+    url: https://ubereck.com/
+    description: Design and animation studio making 2D and 3D animated films, title sequences, video installations and AR filters for brands.
+    hq:
+      city: Munich
+      country: Germany
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - TOCA ME opening titles
+      - Kayak Premium Ice Cream 3D campaign
+      - Between Two Niles
+    social:
+      instagram: https://www.instagram.com/uber_eck/
+      vimeo: https://vimeo.com/ubereck
+      linkedin: https://www.linkedin.com/company/uber-eck
+    added_at: '2026-11-09T02:47:52.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spellwork
+    url: https://spellwork.studio/
+    description: VFX and AI studio producing visual effects and AI-generated imagery for commercials and films.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - vfx
+      - ai-production
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-09T02:47:52.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: relticc
+    url: https://relticc.com/
+    description: Builds interactive 3D product visualizations as web apps for marketing and sales of premium products.
+    hq:
+      city: Kaiserslautern
+      country: Germany
+    disciplines:
+      - interactive
+      - product-viz
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ht-vis
+    url: https://www.ht-vis.at/
+    description: Architectural visualization studio run by two architects, making renderings, product visuals and animations for developers and competitions.
+    hq:
+      city: Graz
+      country: Austria
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+    added_at: '2026-11-09T02:47:52.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Syntax Motion
+    url: https://www.syntaxmotion.com/
+    description: AI video agency producing generative AI commercials, product videos and brand films, plus hybrid live-action productions.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/syntax_motion
+      linkedin: https://www.linkedin.com/company/syntax-motion/
+    added_at: '2026-11-09T02:47:52.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: facts and fiction
+    url: https://www.factsfiction.de/
+    description: Designs and produces exhibitions, world expo pavilions, brand events and digital mediation tools for museums and companies.
+    hq:
+      city: Cologne
+      country: Germany
+    offices:
+      - city: Berlin
+        country: Germany
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    careers: https://www.factsfiction.de/de/jobs
+    social:
+      instagram: https://www.instagram.com/factsandfiction/
+      linkedin: https://de.linkedin.com/company/factsandfiction
+    added_at: '2026-11-09T02:47:52.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Friendly Fire
+    url: https://www.friendlyfire.at/
+    description: 3D concept house making product visualizations, real-time configurators, CG brand films and virtual production since 2004.
+    hq:
+      city: Vienna
+      country: Austria
+    disciplines:
+      - product-viz
+      - cg
+      - virtual-production
+      - interactive
+    markets:
+      - advertising
+      - brand
+    founded: 2004
+    social:
+      instagram: https://www.instagram.com/friendlyfire_productions/
+      linkedin: https://www.linkedin.com/company/friendly-fire-communications-gmbh/
+    added_at: '2026-11-09T02:47:52.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dome Visual
+    url: https://www.dome-visual.ch/
+    description: Architecture and real estate visualization studio making renderings, animations, VR tours and product images.
+    hq:
+      city: Zug
+      country: Switzerland
+    disciplines:
+      - archviz
+      - 3d-animation
+      - xr
+      - product-viz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/dome_visual/
+      linkedin: https://www.linkedin.com/company/dome-visual/
+    added_at: '2026-11-09T02:47:52.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: immerge
+    url: https://www.immerge.studio/
+    description: 3D animation studio producing product animations, CG ads and AI-assisted content for brands.
+    hq:
+      city: Zurich
+      country: Switzerland
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/immerge-studio/
+    added_at: '2026-11-09T02:47:52.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Videodesign
+    url: https://videodesign.com/
+    description: Explainer video studio making 2D, 3D, isometric and whiteboard animations for banks, insurers, health and public clients since 2012.
+    hq:
+      city: Lucerne
+      country: Switzerland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    founded: 2012
+    careers: https://videodesign.com/de-ch/jobs/
+    social:
+      instagram: https://www.instagram.com/videodesigncom/
+      vimeo: https://vimeo.com/videodesigncom
+      linkedin: https://www.linkedin.com/company/videodesign
+    added_at: '2026-11-09T02:47:52.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3D Agentur Berlin
+    url: https://www.3d-agentur-berlin.de/
+    description: 3D studio making architectural, interior, technical, medical and product visualizations, configurators and VR content.
+    hq:
+      city: Berlin
+      country: Germany
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+      - xr
+    markets:
+      - real-estate
+      - brand
+      - medical-science
+    added_at: '2026-11-09T02:47:52.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DAS WERK
+    url: https://www.daswerk.com/
+    description: Post-production network doing motion graphics, CGI, VFX and AI-assisted image work for car, beauty and food commercials.
+    hq:
+      country: Germany
+    offices:
+      - city: Hamburg
+        country: Germany
+      - city: Berlin
+        country: Germany
+      - city: Düsseldorf
+        country: Germany
+      - city: Cologne
+        country: Germany
+      - city: Frankfurt
+        country: Germany
+      - city: Munich
+        country: Germany
+    disciplines:
+      - vfx
+      - motion-design
+      - cg
+      - ai-production
+    markets:
+      - advertising
+      - episodic
+      - film
+    careers: https://www.daswerk.com/jobs/
+    social:
+      instagram: https://www.instagram.com/daswerk_/
+      vimeo: https://vimeo.com/daswerk
+    added_at: '2026-11-09T02:47:52.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

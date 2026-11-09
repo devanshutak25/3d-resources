@@ -6,7 +6,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - vfx
@@ -32,7 +32,7 @@ studios:
     url: https://www.thisiselevation.com/
     description: Atlanta creative company doing brand identity, animation and experiential design, plus editorial and sound.
     hq:
-      city: Atlanta, GA
+      city: Atlanta
       country: United States
     disciplines:
       - motion-design
@@ -58,7 +58,7 @@ studios:
     url: https://epipheo.com/
     description: Cincinnati explainer video studio making 2D and 3D animation and live action for B2B, consumer and nonprofit clients.
     hq:
-      city: Cincinnati, OH
+      city: Cincinnati
       country: United States
     disciplines:
       - 2d-animation
@@ -238,7 +238,7 @@ studios:
     url: https://wearefevr.com/
     description: New York motion graphics studio making kinetic type, 2D animation and mixed-media brand films.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -265,7 +265,7 @@ studios:
     url: https://www.filmograph.tv/
     description: Los Angeles production studio making film and TV main titles, entertainment branding, live action and VFX.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -319,7 +319,7 @@ studios:
     url: https://www.fireflydroneshows.com/
     description: Michigan company designing, building and flying U.S.-made drones for custom light shows at events and festivals.
     hq:
-      city: Detroit, MI
+      city: Detroit
       country: United States
     disciplines:
       - experiential
@@ -339,7 +339,7 @@ studios:
     url: https://www.firstfight.tv/
     description: Detroit creative studio and production house making animation, motion graphics and 3D for brands.
     hq:
-      city: Detroit, MI
+      city: Detroit
       country: United States
     disciplines:
       - motion-design
@@ -363,7 +363,7 @@ studios:
     url: https://fix.studio/
     description: New York design collective building motion, brand systems and interfaces for media, sports and fitness brands.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - motion-design
@@ -411,7 +411,7 @@ studios:
     url: https://wearefleshandbones.com/
     description: Los Angeles mixed-media production company combining animation and live action for commercials, titles and music videos.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - live-action
@@ -565,7 +565,7 @@ studios:
     url: https://www.frame48.com/
     description: 3D motion design studio in Culver City making product animation and digital asset libraries for brands and agencies.
     hq:
-      city: Culver City, CA
+      city: Culver City
       country: United States
     disciplines:
       - product-viz
@@ -707,7 +707,7 @@ studios:
     url: https://fullnelson.studio/
     description: Chicago motion design practice of Jerry Nelson, making brand films, title sequences and 2D/3D motion systems for agencies and brands.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - motion-design
@@ -728,7 +728,7 @@ studios:
     url: https://www.fuseanimation.com/
     description: Minneapolis 3D studio making photoreal product images and animation, plus AR, VR and interactive work, for brands and startups.
     hq:
-      city: Minneapolis, MN
+      city: Minneapolis
       country: United States
     disciplines:
       - product-viz
@@ -753,7 +753,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: Sydney
         country: Australia
@@ -780,7 +780,7 @@ studios:
     url: https://fuzzco.com/
     description: Independent creative studio doing brand identity, web and motion for tech companies such as Figma, Notion and AssemblyAI.
     hq:
-      city: Charleston, SC
+      city: Charleston
       country: United States
     disciplines:
       - motion-design
@@ -829,7 +829,7 @@ studios:
     url: https://www.garbanzo.studio/
     description: Senior-led NYC animation studio making 2D/3D commercials, photoreal product video, broadcast design and VFX for agencies and brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -853,7 +853,7 @@ studios:
     url: https://gasket.tv/
     description: Minneapolis creative agency and content studio making character animation, live action and AR/VR content for marketers.
     hq:
-      city: Minneapolis, MN
+      city: Minneapolis
       country: United States
     disciplines:
       - 3d-animation
@@ -961,7 +961,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - 2d-animation
@@ -1053,7 +1053,7 @@ studios:
     url: https://gretelny.com/
     description: Independent Brooklyn branding and design studio making visual identities, motion and experience design for cultural institutions.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - motion-design
@@ -1094,7 +1094,7 @@ studios:
     url: https://grif.studio/
     description: Creative studio of director Shane Griffin, making art, design and product launch films for tech, auto and fashion brands.
     hq:
-      city: Miami, FL
+      city: Miami
       country: United States
     disciplines:
       - motion-design
@@ -1133,7 +1133,7 @@ studios:
     url: https://www.gunslingerdigital.com/
     description: Los Angeles design and VFX studio making motion graphics and effects for TV, film and branded content.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - vfx
@@ -1176,7 +1176,7 @@ studios:
     url: https://madeinhaus.com/
     description: Los Angeles agency making brand films, interactive experiences and digital campaigns, and a production partner for Netflix.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design

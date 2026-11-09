@@ -191,7 +191,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - 3d-animation
@@ -1071,7 +1071,7 @@ studios:
       city: Melbourne
       country: Australia
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: Dublin
         country: Ireland

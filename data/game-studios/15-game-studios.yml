@@ -1,6 +1,6 @@
 studios:
   - name: Playdek
-    url: https://re-logic.com/
+    url: https://www.playdekgames.com/
     description: Studio that adapts tabletop card and board games to digital.
     hq:
       city: Carlsbad
@@ -19,7 +19,7 @@ studios:
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Metalhead Software
-    url: https://www.playdekgames.com/
+    url: https://www.ea.com/ea-studios/metalhead
     description: EA studio in Victoria behind the Super Mega Baseball series.
     hq:
       city: Victoria
@@ -38,8 +38,9 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
+    careers: https://www.ea.com/ea-studios/metalhead/careers
   - name: Capital Games
-    url: https://www.ea.com/ea-studios/metalhead
+    url: https://www.ea.com/ea-studios/capital-games
     description: 'EA mobile studio behind Star Wars: Galaxy of Heroes.'
     hq:
       city: Sacramento
@@ -53,12 +54,12 @@ studios:
     notable:
       - 'Star Wars: Galaxy of Heroes'
     founded: 2012
-    careers: https://www.ea.com/ea-studios/metalhead/careers
+    careers: https://www.ea.com/studios/capital-games/careers
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Extremely OK Games
-    url: https://www.ea.com/ea-studios/capital-games
+    url: https://exok.com/
     description: Indie studio of the Celeste and TowerFall developers.
     hq:
       city: Vancouver
@@ -72,12 +73,11 @@ studios:
       - Celeste
       - TowerFall
     founded: 2018
-    careers: https://www.ea.com/studios/capital-games/careers
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: New World Interactive
-    url: https://exok.com/
+    url: https://newworldinteractive.com/
     description: Tactical shooter studio behind the Insurgency series.
     hq:
       city: Denver
@@ -97,7 +97,7 @@ studios:
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Stoic
-    url: https://newworldinteractive.com/
+    url: https://stoicstudio.com/
     description: Studio of former BioWare developers, maker of The Banner Saga trilogy.
     hq:
       city: Austin
@@ -117,7 +117,7 @@ studios:
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Pixelberry Studios
-    url: https://stoicstudio.com/
+    url: https://www.pixelberrystudios.com/
     description: 'Mobile studio behind the interactive story app Choices: Stories You Play.'
     hq:
       city: Mountain View
@@ -134,8 +134,9 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
+    careers: https://www.pixelberrystudios.com/careers
   - name: MobilityWare
-    url: https://www.pixelberrystudios.com/
+    url: https://www.mobilityware.com/
     description: Mobile developer of card and puzzle games led by Solitaire.
     hq:
       city: Irvine
@@ -150,12 +151,12 @@ studios:
       - Spider Solitaire
       - FreeCell
     founded: 2008
-    careers: https://www.pixelberrystudios.com/careers
+    careers: https://www.mobilityware.com/mobilityware-careers/benefits/
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Magic Tavern
-    url: https://www.mobilityware.com/
+    url: https://www.magictavern.com/
     description: Mobile studio behind the makeover puzzle game Project Makeover.
     hq:
       country: United States
@@ -166,7 +167,6 @@ studios:
     notable:
       - Project Makeover
     founded: 2013
-    careers: https://www.mobilityware.com/mobilityware-careers/benefits/
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'

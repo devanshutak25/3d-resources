@@ -1,0 +1,915 @@
+studios:
+  - name: Northern Forge Studios
+    url: https://northernforge.com/
+    description: Ottawa mobile studio behind the location-based RPG Orna, launched in 2018.
+    hq:
+      city: Ottawa
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Orna: The GPS RPG'
+    added_at: '2026-11-09T02:47:52.354Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nvizzio Creations
+    url: https://nvizzio.com/
+    description: Montreal studio developing its own and partner games, including RollerCoaster Tycoon Touch and Tower Dominion.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    careers: https://nvizzio.com/careers/
+    notable:
+      - RollerCoaster Tycoon Touch
+      - Tower Dominion
+    social:
+      linkedin: https://www.linkedin.com/company/nvizzio-creations-inc-
+    added_at: '2026-11-09T02:47:52.355Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: orangutan matter
+    url: https://orangutanmatter.com/
+    description: Toronto indie studio behind the hand-painted puzzle platformer Unleaving.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Unleaving
+    social:
+      instagram: https://www.instagram.com/orangutanmatter
+    added_at: '2026-11-09T02:47:52.356Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ossian Studios
+    url: https://www.ossianstudios.com/
+    description: Vancouver independent developer of story-driven RPGs, founded in 2003.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2003
+    notable:
+      - The Shadow Sun
+      - 'Neverwinter Nights: Darkness over Daggerford'
+    added_at: '2026-11-09T02:47:52.357Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Outerminds
+    url: https://outerminds.com/
+    description: 'Montreal studio of 30+ people behind PewDiePie: Legend of the Brofist and PewDiePie''s Tuber Simulator.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2014
+    notable:
+      - 'PewDiePie: Legend of the Brofist'
+      - PewDiePie's Tuber Simulator
+    social:
+      instagram: https://www.instagram.com/outerminds
+    added_at: '2026-11-09T02:47:52.358Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Thorium
+    url: https://undermine.game/
+    description: Vancouver two-person studio behind the action roguelike UnderMine and its sequel.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - UnderMine
+      - UnderMine 2
+    social:
+      instagram: http://instagram.com/undermine_game
+    added_at: '2026-11-09T02:47:52.359Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Visai Studios
+    url: https://venbagame.com/
+    description: Small Toronto studio telling intimate stories through game mechanics, maker of the cooking narrative game Venba.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Venba
+    added_at: '2026-11-09T02:47:52.360Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Trepang Studios
+    url: https://www.trepang2.com/
+    description: Vancouver indie studio behind the first-person shooter Trepang2, published by Team17.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2016
+    notable:
+      - Trepang2
+    added_at: '2026-11-09T02:47:52.361Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Winterpixel Games
+    url: https://www.winterpixel.com/
+    description: Saskatoon studio from the Noodlecake founders making online multiplayer games for mobile and PC.
+    hq:
+      city: Saskatoon
+      country: Canada
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Rocket Bot Royale
+      - Goober Dash
+    added_at: '2026-11-09T02:47:52.362Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: WoodRunner Games
+    url: https://woodrunnergames.com/
+    description: Montreal indie studio of 14 full-time developers working on the hand-drawn adventure Croak.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Croak
+    social:
+      instagram: https://www.instagram.com/woodrunnergames
+    added_at: '2026-11-09T02:47:52.363Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Siege Camp
+    url: https://www.siegecamp.com/
+    description: Toronto studio behind Foxhole, a persistent online war game where thousands of players fight one campaign.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://www.siegecamp.com/careers
+    notable:
+      - Foxhole
+    social:
+      instagram: https://www.instagram.com/siegecamp
+    added_at: '2026-11-09T02:47:52.364Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Smartly Dressed Games
+    url: https://www.smartlydressedgames.com/
+    description: Calgary indie studio behind the free-to-play survival sandbox Unturned.
+    hq:
+      city: Calgary
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Unturned
+    added_at: '2026-11-09T02:47:52.365Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Signal Space Lab
+    url: https://www.signalspacelab.com/
+    description: Montreal independent game, XR and production studio making tactics and narrative games.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    founded: 2015
+    notable:
+      - Every Day We Fight
+      - Human Within
+    social:
+      instagram: https://www.instagram.com/signalspacelab
+    added_at: '2026-11-09T02:47:52.366Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sillysoft
+    url: https://sillysoft.net/
+    description: Vancouver indie studio making strategy and mind games such as the Risk-style Lux Delux.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2002
+    notable:
+      - Lux Delux
+      - Lux Alliance
+    added_at: '2026-11-09T02:47:52.367Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Silverstring Media
+    url: https://silverstringmedia.com/
+    description: 'Vancouver narrative studio making original games and story services, maker of Glitchhikers: The Spaces Between.'
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - 'Glitchhikers: The Spaces Between'
+      - Greenhearth Necromancer
+    added_at: '2026-11-09T02:47:52.368Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sinn Studio
+    url: https://www.sinnstudio.com/
+    description: Toronto XR studio making physics-based VR combat games such as Swordsman VR.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    founded: 2017
+    careers: https://www.sinnstudio.com/careers
+    notable:
+      - Swordsman VR
+    social:
+      instagram: https://www.instagram.com/sinnstudio
+      linkedin: https://www.linkedin.com/company/sinnstudio
+    added_at: '2026-11-09T02:47:52.369Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sleeping Giant Interactive
+    url: https://www.sleepinggiantgames.com/
+    description: Toronto team making off-beat games and offering co-development, maker of Par for the Dungeon.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Par for the Dungeon
+      - Farm Punks
+    added_at: '2026-11-09T02:47:52.370Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Squido Studio
+    url: https://www.squidostudio.com/
+    description: Montreal VR game studio behind No More Rainbows, which started out making educational mobile games.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - vr
+      - kids-edu
+    platforms:
+      - vr
+      - mobile
+    careers: https://www.squidostudio.com/jobs
+    notable:
+      - No More Rainbows
+      - DigiGods
+    added_at: '2026-11-09T02:47:52.371Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sticky Brain Studios
+    url: https://www.stickybrainstudios.com/
+    description: Toronto studio of about a dozen people making accessible games and apps for kids and families, plus service work.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+    founded: 2013
+    notable:
+      - Rooster
+    social:
+      instagram: https://www.instagram.com/stickybrainstudios
+    added_at: '2026-11-09T02:47:52.372Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Swordmonkey Studios
+    url: https://swordmonkey.com/
+    description: Alberta full-service game development partner building games and interactive software for clients.
+    hq:
+      city: St. Albert
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    social:
+      linkedin: https://www.linkedin.com/company/swordmonkey-studios-inc
+    added_at: '2026-11-09T02:47:52.373Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Threeclipse
+    url: https://threeclipse.com/
+    description: Montreal independent studio that pairs emerging developers with veterans, with two games shipped.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Yes, No, Goodbye
+      - Sharkarama
+      - Crown & Applause
+    social:
+      linkedin: https://www.linkedin.com/company/threeclipse
+    added_at: '2026-11-09T02:47:52.374Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tobafeu Studio
+    url: https://tobafeustudio.com/en/
+    description: Saguenay indie studio making multiplayer party and action games, formerly Totema Studio.
+    hq:
+      city: Saguenay
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Royal Vermin
+    added_at: '2026-11-09T02:47:52.375Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Triple Boris
+    url: https://www.tripleboris.com/
+    description: Mid-size independent studio making games, gamification projects and outsourced game work.
+    hq:
+      city: Varennes
+      country: Canada
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    careers: https://www.tripleboris.com/carriere/
+    social:
+      linkedin: https://www.linkedin.com/company/tripleboris
+    added_at: '2026-11-09T02:47:52.376Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Red Iron Labs
+    url: https://www.redironlabs.com/
+    description: Calgary virtual reality game and training content company, founded in 2016 as a game studio.
+    hq:
+      city: Calgary
+      country: Canada
+    segments:
+      - vr
+    platforms:
+      - vr
+      - pc
+    founded: 2016
+    careers: https://www.redironlabs.com/careers/
+    notable:
+      - VectorWars VR
+      - Muffin Fight
+      - You Can Pet The Dog VR
+    social:
+      linkedin: https://www.linkedin.com/company/redironlabs
+    added_at: '2026-11-09T02:47:52.377Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Red Meat Games
+    url: https://redmeat.games/
+    description: Indie studio with offices in Cambridge and Halifax making mobile, PC, console and VR games, including Bring to Light.
+    hq:
+      city: Cambridge
+      country: Canada
+    offices:
+      - city: Halifax
+        country: Canada
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    founded: 2013
+    notable:
+      - Bring to Light
+    social:
+      linkedin: https://www.linkedin.com/company/red-meat-games
+      instagram: https://www.instagram.com/redmeatgames
+    added_at: '2026-11-09T02:47:52.378Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PixelNAUTS
+    url: https://www.pixelnauts.ca/
+    description: St. Catharines game studio making its own games and art services, maker of Lost Orbit.
+    hq:
+      city: St. Catharines
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2010
+    notable:
+      - Lost Orbit
+      - Rocket Rumble
+    social:
+      instagram: https://www.instagram.com/pixelnauts
+    added_at: '2026-11-09T02:47:52.379Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sour Circuit Studios
+    url: https://sourcircuit.com/
+    description: Saskatoon studio behind the deckbuilder Shuffles 'n Scuffles.
+    hq:
+      city: Saskatoon
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2025
+    notable:
+      - Shuffles 'n Scuffles
+    social:
+      instagram: https://www.instagram.com/SourCircuitStudios
+    added_at: '2026-11-09T02:47:52.380Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rocket Adrift
+    url: https://rocketadriftgames.neocities.org/
+    description: Toronto worker co-op studio making horror and narrative games such as Psychroma and Raptor Boyfriend.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Psychroma
+      - 'Raptor Boyfriend: A High School Romance'
+    added_at: '2026-11-09T02:47:52.381Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Exponential Games
+    url: https://exponentialgamesinc.com/
+    description: Vancouver studio making physics-driven simulation games for PC and Xbox, such as Lumberjack Simulator.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - console
+    notable:
+      - Lumberjack Simulator
+      - Unsheltered
+    added_at: '2026-11-09T02:47:52.382Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Euphoric Brothers
+    url: https://www.euphoricbrothers.com/
+    description: Ottawa studio behind the Garten of Banban horror game series.
+    hq:
+      city: Ottawa
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Garten of Banban
+    added_at: '2026-11-09T02:47:52.383Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Reframe Games
+    url: https://reframegames.com/
+    description: Fredericton game and outsourcing studio building games for social impact, maker of GUIDE and Toxic Dream.
+    hq:
+      city: Fredericton
+      country: Canada
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 2016
+    notable:
+      - GUIDE
+      - Toxic Dream
+    added_at: '2026-11-09T02:47:52.384Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blindspot Games
+    url: https://www.blindspot-games.com/
+    description: 'Montreal studio founded by two industry veterans, developer of Infinity: HexaDome Tactics.'
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Infinity: HexaDome Tactics'
+    social:
+      linkedin: https://www.linkedin.com/company/blindspotstudio
+    added_at: '2026-11-09T02:47:52.385Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Joydrop
+    url: https://www.joydrop.co/
+    description: London, Ontario studio offering console porting, co-development and QA since 2014, and making its own games.
+    hq:
+      city: London
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    founded: 2014
+    added_at: '2026-11-09T02:47:52.386Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Umanaïa
+    url: https://www.umanaia.com/
+    description: Montreal game development studio backed by Virtuos, working on projects with major publishers.
+    hq:
+      city: Montreal
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+    parent: Virtuos
+    social:
+      linkedin: https://www.linkedin.com/company/umanaia
+    added_at: '2026-11-09T02:47:52.387Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Massive Damage
+    url: https://massivedamagestudios.com/
+    description: 'Toronto independent studio behind the sci-fi strategy game Halcyon 6 and the monster-hunting RPG Fera: The Sundered Tribes.'
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2010
+    careers: https://massivedamagestudios.com/jobs/
+    notable:
+      - 'Halcyon 6: Starbase Commander'
+      - 'Fera: The Sundered Tribes'
+    social:
+      instagram: https://www.instagram.com/massivedamagegames
+    added_at: '2026-11-09T02:47:52.388Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Black Tabby Games
+    url: https://blacktabbygames.com/
+    description: Two-person narrative horror studio behind Slay the Princess and the episodic visual novel Scarlet Hollow.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Slay the Princess
+      - Scarlet Hollow
+    added_at: '2026-11-09T02:47:52.389Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Red Nexus Games
+    url: https://www.rednexus.games/
+    description: British Columbia indie studio founded by Dylan Gedig, developer and publisher of the pachinko roguelike Peglin.
+    hq:
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2016
+    notable:
+      - Peglin
+      - Fowl Damage
+      - Friday Night Bullet Arena
+    added_at: '2026-11-09T02:47:52.390Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Isto Inc.
+    url: https://www.istoinc.com/
+    description: 'Three-person Canadian indie team behind the automation survival game Atrio: The Dark Wild and Get To Work.'
+    hq:
+      city: Calgary
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2018
+    careers: https://www.istoinc.com/careers
+    notable:
+      - 'Atrio: The Dark Wild'
+      - Get To Work
+      - Disjoint
+    added_at: '2026-11-09T02:47:52.391Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Shifty Eye Games
+    url: https://shiftyeyegames.com/
+    description: Canadian studio and publisher that shipped four Apple Arcade editions of games such as SteamWorld Heist and Mini Metro.
+    hq:
+      city: Calgary
+      country: Canada
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2019
+    added_at: '2026-11-09T02:47:52.392Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sarbakan
+    url: https://sarbakanstudio.com/en/
+    description: Quebec City full-service studio making branded and original games since 1998, with over 1000 titles including arcade games.
+    hq:
+      city: Quebec City
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    founded: 1998
+    social:
+      linkedin: https://www.linkedin.com/company/sarbakan
+    added_at: '2026-11-09T02:47:52.393Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: RAC7
+    url: https://sneakysasquatch.com/
+    description: Two-person Vancouver studio behind the Apple Arcade game Sneaky Sasquatch, acquired by Apple in 2025.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    parent: Apple
+    notable:
+      - Sneaky Sasquatch
+      - Splitter Critters
+    added_at: '2026-11-09T02:47:52.394Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Freebird Games
+    url: https://freebirdgames.com/
+    description: Canadian indie studio founded by Kan Gao in 2008, maker of the narrative adventure series To the Moon.
+    hq:
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2008
+    notable:
+      - To the Moon
+      - Finding Paradise
+      - Impostor Factory
+      - Just a To the Moon Series Beach Episode
+    added_at: '2026-11-09T02:47:52.395Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Vblank Entertainment
+    url: https://www.vblank.com/
+    description: 'Canadian studio behind the open-world parody games Retro City Rampage and Shakedown: Hawaii.'
+    hq:
+      country: Canada
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2007
+    notable:
+      - 'Shakedown: Hawaii'
+      - Retro City Rampage
+    added_at: '2026-11-09T02:47:52.396Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cozy Bee Games
+    url: https://cozybeegames.com/
+    description: Canadian studio founded in 2021 making cozy farming and life sims for PC, such as Alchemy Story and Capybara Spa.
+    hq:
+      country: Canada
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Alchemy Story
+      - Capybara Spa
+      - The Ranch of Rivershine
+      - Bunny Park
+    added_at: '2026-11-09T02:47:52.397Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Metanaut
+    url: https://metanautlabs.com/
+    description: Vancouver VR, AR and MR studio making the physics puzzle game Gadgeteer and VR content for schools.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - vr
+      - kids-edu
+    platforms:
+      - vr
+    founded: 2015
+    careers: https://metanautlabs.com/careers
+    notable:
+      - Gadgeteer
+    added_at: '2026-11-09T02:47:52.398Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nightmarket Games
+    url: https://nightmarket.games/
+    description: Vancouver mobile studio, formerly Epic Story Interactive, making story-driven mobile games since 2017.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2017
+    careers: https://nightmarket.games/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/nightmarketgames
+    added_at: '2026-11-09T02:47:52.399Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fluffy Dog Studio
+    url: https://www.fluffydogstudio.com/
+    description: Vancouver indie studio with a second office in Los Angeles, making story-filled casual games such as a mahjong word search hybrid.
+    hq:
+      city: Vancouver
+      country: Canada
+    offices:
+      - city: Los Angeles
+        country: United States
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    careers: https://www.fluffydogstudio.com/careers
+    social:
+      instagram: https://www.instagram.com/fluffydogstudio
+      linkedin: https://www.linkedin.com/company/fluffy-dog-studio
+    added_at: '2026-11-09T02:47:52.400Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Game Pill
+    url: https://gamepill.com/
+    description: Toronto-area game studio offering prototyping, co-development, simulation and live ops for clients.
+    hq:
+      city: Toronto
+      country: Canada
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - console
+    careers: https://gamepill.com/career/
+    social:
+      instagram: https://www.instagram.com/gamepillofficial
+    added_at: '2026-11-09T02:47:52.401Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Interdimensional Games
+    url: https://www.idgi1.ca/
+    description: British Columbia R&D game studio founded in 2006, maker of the Consortium series and interactive novel Whispers From The Rift.
+    hq:
+      country: Canada
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    founded: 2006
+    notable:
+      - Consortium
+      - Consortium VR
+      - Whispers From The Rift
+    added_at: '2026-11-09T02:47:52.402Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Charm Games
+    url: https://www.charmgames.com/
+    description: Vancouver independent studio behind the VR puzzle games FORM and Twilight Path, now making the non-VR adventure The Orphaned House.
+    hq:
+      city: Vancouver
+      country: Canada
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+      - pc
+    notable:
+      - FORM
+      - Twilight Path
+      - The Orphaned House
+    social:
+      instagram: https://www.instagram.com/charmgames
+    added_at: '2026-11-09T02:47:52.403Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

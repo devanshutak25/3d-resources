@@ -1,0 +1,880 @@
+studios:
+  - name: CREO
+    url: https://creo.ca/
+    description: Montreal studio creating museum exhibitions, immersive shows and interactive science-education experiences.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - medical-science
+    added_at: '2026-11-09T02:47:52.341Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SCINTILLA
+    url: https://scintillaxp.com/
+    description: Montreal creative studio making cinema and XR projects.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - xr
+    markets:
+      - film
+    added_at: '2026-11-09T02:47:52.342Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Supply & Demand
+    url: https://supply-demand.ca/
+    description: Montreal studio creating narrative multimedia experiences, projection shows and live events for attractions and IP holders.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/supply_and_demand_studio
+      linkedin: https://www.linkedin.com/company/supply-demand-group
+    added_at: '2026-11-09T02:47:52.343Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: L'Atelier Animation
+    url: https://latelieranimation.com/
+    description: Montreal CG animation studio making animated feature films, part of Cinesite since 2022.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    careers: https://latelieranimation.com/fr/carriere/
+    notable:
+      - Ballerina (Leap!)
+    social:
+      instagram: https://www.instagram.com/latelieranimation
+    added_at: '2026-11-09T02:47:52.344Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Singing Frog
+    url: https://www.singingfrogstudio.com/
+    description: Montreal studio providing 2D and 3D animation services, from storyboard to compositing, for feature films and TV series.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - previs
+    markets:
+      - film
+      - episodic
+    founded: 2008
+    careers: https://www.singingfrogstudio.com/carriere
+    added_at: '2026-11-09T02:47:52.345Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Artifex Animation Studios
+    url: https://www.aastudios.ca/
+    description: Montreal VFX and 3D animation studio making effects for film and TV, plus 3D environments for science documentaries.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: http://www.instagram.com/aa_studios_mtl
+      linkedin: https://www.linkedin.com/company/artifex-animation-studios
+    added_at: '2026-11-09T02:47:52.346Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: See Creature Productions
+    url: https://www.seecreature.ca/
+    description: Montreal stop-motion animation studio making ads, short films and animated sequences for documentaries.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - stop-motion
+    markets:
+      - advertising
+      - film
+    social:
+      instagram: https://www.instagram.com/seecreature_anim
+      linkedin: https://www.linkedin.com/company/see-creature-animation
+    added_at: '2026-11-09T02:47:52.347Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bon Jam Animation
+    url: https://www.bonjam.ca/
+    description: Montreal animation studio making custom animation for digital media, productions and advertising.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/bonjam.ca
+      linkedin: https://www.linkedin.com/company/bon-jam-animation
+      vimeo: https://vimeo.com/user175884199
+    added_at: '2026-11-09T02:47:52.348Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Colegram
+    url: https://www.colegram.com/
+    description: Montreal studio making animation and story content, including immersive shows such as Sweet Folie with OASIS immersion.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Sweet Folie (OASIS immersion)
+    added_at: '2026-11-09T02:47:52.349Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Doberman Pictures
+    url: https://www.dobermanpictures.ca/
+    description: Vancouver animation studio handling storyboards, pre-production, direction and post for 2D and CG broadcast and streaming series.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    careers: https://www.dobermanpictures.ca/careers/
+    social:
+      instagram: https://www.instagram.com/doberman_studio
+      linkedin: https://www.linkedin.com/company/doberman-pictures
+    added_at: '2026-11-09T02:47:52.350Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dainty Productions
+    url: https://daintyproductions.com/
+    description: Ottawa animation studio doing storyboards, animatics and 2D animation for other studios' shows, plus web games, apps and original IP.
+    hq:
+      city: Ottawa
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - interactive
+    markets:
+      - episodic
+      - games
+    founded: 2006
+    notable:
+      - Ottawa International Animation Festival NAC facade animation
+    social:
+      instagram: http://instagram.com/daintyproductions
+    added_at: '2026-11-09T02:47:52.351Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Switch VFX & Animation
+    url: https://www.switchent.com/
+    description: Toronto boutique studio making VFX and animated content for film, TV and streaming.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/switchvfxandanimation
+      linkedin: https://www.linkedin.com/company/switch-vfx-and-animation
+    added_at: '2026-11-09T02:47:52.352Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: JED Lab
+    url: https://www.jedlab.com/
+    description: Montreal production company making ad campaigns and branded video with live action, VFX, 3D and AI visuals, with a Toronto office.
+    hq:
+      city: Montreal
+      country: Canada
+    offices:
+      - city: Toronto
+        country: Canada
+    disciplines:
+      - live-action
+      - vfx
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    careers: https://www.jedlab.com/careers
+    social:
+      instagram: https://www.instagram.com/jedlabmedia
+      linkedin: https://www.linkedin.com/company/jedlabmedia
+    added_at: '2026-11-09T02:47:52.353Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Yowza! Animation
+    url: https://yowzaanimation.com/
+    description: Toronto animation studio providing classical, tradigital 2D and 2D/3D hybrid animation for feature films and TV series.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    founded: 1996
+    careers: https://yowzaanimation.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/yowza-animation
+    added_at: '2026-11-09T02:47:52.354Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: VOLTA
+    url: https://www.volta.ca/
+    description: Québec City art studio, part of Keywords Studios, making 2D and 3D concept art and models for video games, film and toys.
+    hq:
+      city: Québec City
+      country: Canada
+    offices:
+      - city: Montreal
+        country: Canada
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    founded: 2006
+    careers: https://www.volta.ca/careers/
+    social:
+      instagram: https://www.instagram.com/voltacreations
+      linkedin: https://www.linkedin.com/company/volta
+    added_at: '2026-11-09T02:47:52.355Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: The Clayman
+    url: https://theclayman.com/
+    description: Vancouver stop-motion and claymation studio making ads and educational animation since 1999, also running animation workshops.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - stop-motion
+      - 3d-animation
+    markets:
+      - advertising
+    founded: 1999
+    social:
+      instagram: https://www.instagram.com/the.clayman
+    added_at: '2026-11-09T02:47:52.356Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Solis Animation
+    url: https://www.solisanimation.com/
+    description: Canadian animation studio combining hand-drawn 2D animation with 3D environments for series, films and clients since 2010.
+    hq:
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2010
+    social:
+      instagram: https://instagram.com/solisanimation
+    added_at: '2026-11-09T02:47:52.357Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Solid Green
+    url: https://www.solidgreen.net/
+    description: Calgary studio doing VFX compositing, set extensions, show packages and 2D/3D animation for film, TV and broadcast.
+    hq:
+      city: Calgary
+      country: Canada
+    disciplines:
+      - vfx
+      - title-design
+      - motion-design
+    markets:
+      - film
+      - episodic
+    social:
+      vimeo: https://vimeo.com/user10142667
+    added_at: '2026-11-09T02:47:52.358Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Smiley Guy Studios
+    url: http://smileyguystudios.com/
+    description: Toronto animation and digital media studio making original and client animated TV, film and interactive projects since 1998.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+    founded: 1998
+    notable:
+      - Odd Job Jack
+      - The Dating Guy
+      - Corner Gas Animated
+    added_at: '2026-11-09T02:47:52.359Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Scarab Digital
+    url: https://scarabdigital.com/
+    description: Vancouver virtual production studio providing LED stage setups, real-time CG environments, previs, playback and motion graphics.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - virtual-production
+      - previs
+      - motion-design
+    markets:
+      - film
+      - episodic
+    careers: https://scarabdigital.com/careers/
+    social:
+      instagram: https://www.instagram.com/scarabdigital
+      linkedin: https://www.linkedin.com/company/scarab-digital-studios
+    added_at: '2026-11-09T02:47:52.360Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pulp Studios
+    url: https://www.pulpstudios.ca/
+    description: Edmonton boutique studio making animation, motion graphics, illustration and design.
+    hq:
+      city: Edmonton
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+    social:
+      instagram: http://instagram.com/pulpstudiosinc
+      linkedin: http://www.linkedin.com/company/pulp-studios-inc-
+      vimeo: http://vimeo.com/pulpstudios
+    added_at: '2026-11-09T02:47:52.361Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ON Animation Studios
+    url: https://www.onanimationstudios.com/
+    description: Montreal CG animation studio of ON Kids & Family, making animated feature films since 2015.
+    hq:
+      city: Montreal
+      country: Canada
+    offices:
+      - city: Paris
+        country: France
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    founded: 2015
+    careers: https://www.onanimationstudios.com/#section-emplois
+    notable:
+      - The Little Prince
+      - 'Playmobil: The Movie'
+      - Little Jules Verne
+    social:
+      instagram: https://www.instagram.com/onasmtl
+      linkedin: https://www.linkedin.com/company/on-animation-studio
+    added_at: '2026-11-09T02:47:52.362Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Meditating Bunny Studio
+    url: https://www.meditatingbunny.com/
+    description: Vancouver boutique animation and documentary studio founded in 2001, also publishing children's books.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    founded: 2001
+    notable:
+      - One Big Hapa Family
+      - Mixed Match
+    social:
+      instagram: http://www.instagram.com/meditatingbunny
+    added_at: '2026-11-09T02:47:52.363Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Loogaroo
+    url: https://www.loogaroo.com/
+    description: Miramichi animation studio providing 2D animation services for web, TV, feature film and games.
+    hq:
+      city: Miramichi
+      country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - games
+    social:
+      vimeo: https://vimeo.com/user1523621
+    added_at: '2026-11-09T02:47:52.364Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Little Blackstone Studios
+    url: https://www.littleblackstone.ca/
+    description: Toronto boutique animation studio making 2D and 3D animation for film, TV, games and VR since 2009.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/littleblackstone
+      linkedin: https://www.linkedin.com/company/little-blackstone-studios
+    added_at: '2026-11-09T02:47:52.365Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Jesters Animation
+    url: https://www.jestersanimation.com/
+    description: Vancouver independent 2D animation studio making shorts, commercials, music videos and broadcast animation.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    notable:
+      - Rick and Morty Babies intro (Adult Swim)
+    social:
+      instagram: https://www.instagram.com/jestersanimation
+      linkedin: https://www.linkedin.com/company/jester-coyote-animation
+    added_at: '2026-11-09T02:47:52.366Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: iMakerXR
+    url: https://www.imakerxr.com/
+    description: Vancouver studio making industrial 3D animation, digital twins and VR/AR training for mining, energy and manufacturing.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - xr
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/imakerxr
+      linkedin: https://www.linkedin.com/company/imakerxr
+      vimeo: https://vimeo.com/imakerxr
+    added_at: '2026-11-09T02:47:52.367Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HHA Animation
+    url: http://www.hhanimation.com/
+    description: Atlantic Canada service studio producing 2D and 3D animation for TV cartoons, from storyboard to post.
+    hq:
+      city: Halifax
+      country: Canada
+    offices:
+      - city: Hamilton
+        country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-09T02:47:52.368Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Handmade Creative
+    url: https://www.handmadecreative.ca/
+    description: Montreal 3D animation and motion design studio making explainer and ad videos for advertising and healthcare clients.
+    hq:
+      city: Montreal
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - medical-science
+    added_at: '2026-11-09T02:47:52.369Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Creamy Animation
+    url: https://creamyanimation.com/
+    description: Vancouver studio making animated explainer, product and marketing videos in 2D, 3D and motion graphics for SaaS firms and nonprofits.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.370Z'
+  - name: Chuck Gammage Animation
+    url: https://www.cganim.com/
+    description: Toronto boutique 2D animation studio designing characters and backgrounds for animated TV series.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-09T02:47:52.371Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Big Jump Entertainment
+    url: https://bigjumpent.com/
+    description: Ottawa 2D hybrid animation studio producing original and service cartoons, from pitch packages to delivery.
+    hq:
+      city: Ottawa
+      country: Canada
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-09T02:47:52.372Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ambient Media
+    url: https://www.ambientmedia.ca/
+    description: Calgary interactive media firm building apps, XR, multimedia exhibits and 3D animation since 2003.
+    hq:
+      city: Calgary
+      country: Canada
+    disciplines:
+      - interactive
+      - xr
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2003
+    added_at: '2026-11-09T02:47:52.373Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Unstandard Studio
+    url: https://www.unstandardstudio.com/
+    description: Québec City 3D animation studio making VR experiences, stylized short films and VFX.
+    hq:
+      city: Québec City
+      country: Canada
+    disciplines:
+      - 3d-animation
+      - xr
+      - vfx
+    markets:
+      - film
+    added_at: '2026-11-09T02:47:52.374Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Valente Productions
+    url: https://valenteproductions.ca/
+    description: Toronto immersive studio building real-time XR training simulations and serious games for critical care, humanitarian and hazardous work.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - medical-science
+    founded: 2017
+    social:
+      instagram: https://www.instagram.com/valenteproduction
+      linkedin: https://www.linkedin.com/company/valente-productions
+    added_at: '2026-11-09T02:47:52.375Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AVARA Media
+    url: https://www.avaramedia.com/
+    description: Toronto studio making augmented reality experiences about environmental and climate issues.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - xr
+    markets:
+      - medical-science
+    social:
+      instagram: https://www.instagram.com/avaramediainc
+    added_at: '2026-11-09T02:47:52.376Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bioimmersive
+    url: https://www.bioimmersivedesign.com/
+    description: Toronto studio and lab developing VR and immersive experiences for environmental and social-cause organizations.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: http://instagram.com/bioimmersive
+      linkedin: https://www.linkedin.com/company/bioimmersive
+    added_at: '2026-11-09T02:47:52.377Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: That Animation Company
+    url: https://thatanimationcompany.com/
+    description: Halifax animation studio launched in 2025 by industry veterans, with a commercial division serving healthcare, government and tech clients.
+    hq:
+      city: Halifax
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+    founded: 2025
+    added_at: '2026-11-09T02:47:52.378Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Island of Misfits
+    url: https://www.iom-media.com/
+    description: Halifax studio making animated content and custom interactive interfaces.
+    hq:
+      city: Halifax
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+      - advertising
+    careers: https://www.iom-media.com/careers/
+    social:
+      instagram: https://www.instagram.com/iom.media
+      linkedin: https://www.linkedin.com/company/iom-media-ventures
+    added_at: '2026-11-09T02:47:52.379Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wind Sun Sky Entertainment
+    url: https://windsunsky.com/
+    description: Vancouver animation studio making 2D, 3D and real-time animation, games and virtual events for brands and audiences.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+      - brand
+      - games
+    social:
+      instagram: https://www.instagram.com/windsunskyent
+    added_at: '2026-11-09T02:47:52.380Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Next Pixel Entertainment
+    url: https://www.nxtpxl.com/
+    description: Vancouver animation studio creating original animated films, preschool series and story worlds, with teams in New Delhi, Nice and Beijing.
+    hq:
+      city: Vancouver
+      country: Canada
+    offices:
+      - city: New Delhi
+        country: India
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    careers: https://www.nxtpxl.com/jobs
+    added_at: '2026-11-09T02:47:52.381Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mystic House Animation
+    url: https://mystichouse.ca/
+    description: Toronto 2D and 3D animation studio making original kids and family content and providing animation services to co-producers.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/mystichouse.studio
+      linkedin: https://www.linkedin.com/company/mystichouse
+    added_at: '2026-11-09T02:47:52.382Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Azar Animation Studio
+    url: https://www.azaranimation.com/
+    description: North Vancouver CG animation studio producing 3D animation for TV series, commercials and features since 2010.
+    hq:
+      city: North Vancouver
+      country: Canada
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+      - film
+    founded: 2010
+    careers: https://www.azaranimation.com/career
+    social:
+      instagram: https://www.instagram.com/azaranimation
+    added_at: '2026-11-09T02:47:52.383Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Final Version 2
+    url: https://www.finalversion2.com/
+    description: Vancouver boutique post-production studio doing motion design and finishing for documentary and fiction projects.
+    hq:
+      city: Vancouver
+      country: Canada
+    disciplines:
+      - motion-design
+    markets:
+      - film
+    added_at: '2026-11-09T02:47:52.384Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gazelle Studios
+    url: https://gazellestudios.ca/
+    description: Toronto film production studio combining puppets, model miniatures and animation, maker of the preschool series Go Togo.
+    hq:
+      city: Toronto
+      country: Canada
+    disciplines:
+      - stop-motion
+      - vfx
+      - live-action
+    markets:
+      - episodic
+    notable:
+      - Go Togo (CBC Kids)
+    social:
+      instagram: https://www.instagram.com/gazellestudiosinc
+      vimeo: https://vimeo.com/gazellestudios
+    added_at: '2026-11-09T02:47:52.385Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: LUX VFX
+    url: https://www.luxvfx.com/
+    description: Squamish VFX studio doing compositing, face replacement, de-aging and upscaling for film and TV.
+    hq:
+      city: Squamish
+      country: Canada
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    social:
+      linkedin: https://www.linkedin.com/company/lux-visual-effects
+    added_at: '2026-11-09T02:47:52.386Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Horák
+    url: https://studiohorak.com/
+    description: Prague studio making architectural and product visualizations, animations and VR for developers and brands.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+      - xr
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/studiohorak1995
+      linkedin: https://www.linkedin.com/company/studio-horak
+    added_at: '2026-11-09T02:47:52.387Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ZAN studio
+    url: https://www.zanstudio.cz/
+    description: Prague architectural visualization studio making 3D stills and animations for architects and developers.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/zan_studio
+      linkedin: https://www.linkedin.com/company/zanstudio
+    added_at: '2026-11-09T02:47:52.388Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dousek-Zaborsky
+    url: https://www.dousek-zaborsky.com/
+    description: Czech studio making architectural CGI and 3D visualizations for architects and residential developers.
+    hq:
+      city: Prague
+      country: Czech Republic
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/dousek_zaborsky
+    added_at: '2026-11-09T02:47:52.389Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Motionhouse
+    url: https://www.motionhouse.cz/
+    description: Brno motion design studio making animation and illustration for ads, film and TV.
+    hq:
+      city: Brno
+      country: Czech Republic
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/motionhousecz
+      vimeo: https://vimeo.com/motionhouse
+    added_at: '2026-11-09T02:47:52.390Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

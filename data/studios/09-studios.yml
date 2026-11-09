@@ -3,7 +3,7 @@ studios:
     url: https://www.taikostudios.com/
     description: Animation studio in Los Angeles and Wuhan handling content development, character design and full production for brands and entertainment.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - 3d-animation
@@ -156,7 +156,7 @@ studios:
     offices:
       - city: Barcelona
         country: Spain
-      - city: San Francisco, CA
+      - city: San Francisco
         country: United States
     disciplines:
       - vfx
@@ -208,7 +208,7 @@ studios:
     url: https://www.thecollectedworks.com/
     description: Independent design studio in New York and New Orleans making brand identities, motion, 3D and UI design.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -228,7 +228,7 @@ studios:
     url: https://www.thecolonie.com/
     description: Woman-owned Chicago post studio doing motion design, VFX and editorial for commercials, branded and unscripted content.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - motion-design
@@ -250,7 +250,7 @@ studios:
     url: https://thefamousgroup.com/
     description: Los Angeles creative technology company making mixed reality, motion graphics and fan experiences for live sports and events.
     hq:
-      city: Culver City, CA
+      city: Culver City
       country: United States
     disciplines:
       - experiential
@@ -296,7 +296,7 @@ studios:
     url: https://thefurrow.tv/
     description: Lexington animation studio assembling custom creative teams for brand campaigns across many styles.
     hq:
-      city: Lexington, KY
+      city: Lexington
       country: United States
     disciplines:
       - 2d-animation
@@ -324,9 +324,9 @@ studios:
     offices:
       - city: Toronto
         country: Canada
-      - city: Chicago, IL
+      - city: Chicago
         country: United States
-      - city: Culver City, CA
+      - city: Culver City
         country: United States
     disciplines:
       - motion-design
@@ -483,7 +483,7 @@ studios:
     url: https://thinkmojo.com/
     description: San Francisco video and motion studio making product explainers and campaign videos for tech brands.
     hq:
-      city: San Francisco, CA
+      city: San Francisco
       country: United States
     disciplines:
       - motion-design
@@ -636,7 +636,7 @@ studios:
     url: https://toast.tv/
     description: Brooklyn studio making stylized 3D animation, motion graphics and AR effects for brands.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - cg
@@ -771,7 +771,7 @@ studios:
     url: https://www.tonos.studio/
     description: Chicago creative studio making motion design, branding and narrative experiences for entertainment and brands.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - motion-design
@@ -793,7 +793,7 @@ studios:
     url: https://toolofna.com/
     description: Santa Monica production company pairing a director roster with in-house technologists for branded films, AI work and immersive experiences.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     disciplines:
       - live-action
@@ -866,7 +866,7 @@ studios:
     url: https://www.trollback.com/
     description: New York branding and design studio building motion-led identity systems for broadcast, digital and experiential use.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -951,7 +951,7 @@ studios:
     url: https://twofresh.tv/
     description: Los Angeles artist-run studio making animation, design and compositing for entertainment and sports brands.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -999,7 +999,7 @@ studios:
     url: https://www.ultratype.tv/
     description: New York kinetic typography studio making animated type and motion graphics for brand campaigns.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -1042,9 +1042,9 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
       - city: Berlin
         country: Germany
@@ -1116,7 +1116,7 @@ studios:
     url: https://unsaidstudio.com/
     description: New York design and motion company making 3D animation and motion graphics for consumer and tech brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -1161,7 +1161,7 @@ studios:
     url: https://untitledarmy.com/
     description: Brooklyn motion design studio making stylized character-led 3D animation for clients and personal projects.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - 3d-animation

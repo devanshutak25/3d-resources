@@ -1,0 +1,891 @@
+studios:
+  - name: Emergo Entertainment
+    url: https://emergo-entertainment.com/
+    description: Bayreuth studio making its own games such as Train Jumble plus interactive 3D visualization and AR apps for clients.
+    hq:
+      city: Bayreuth
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Train Jumble
+      - Fireside
+    added_at: '2026-11-09T02:47:52.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: FDG Entertainment
+    url: https://www.fdg-entertainment.com/
+    description: Bavarian games producer and publisher behind Banana Kong and console releases such as Oceanhorn 2 and Monster Boy.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - console
+      - pc
+    careers: https://www.fdg-entertainment.com/
+    notable:
+      - Banana Kong
+      - Banana Kong 2
+      - Oceanhorn 2
+      - Monster Boy and the Cursed Kingdom
+    added_at: '2026-11-09T02:47:52.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fourexo Entertainment
+    url: https://fourexo.com/
+    description: Dresden studio making the city builder Highrise City plus VR projects and apps.
+    hq:
+      city: Dresden
+      country: Germany
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Highrise City
+      - 'Survivor of Egypt: The Ancient Lands'
+    added_at: '2026-11-09T02:47:52.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Krakentanz Interactive
+    url: https://krakentanz.com/
+    description: Berlin studio making games, interactive experiences and procedural creative-coding projects in 2D, 3D and VR.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Say
+    added_at: '2026-11-09T02:47:52.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: McPeppergames
+    url: https://mcpeppergames.com/
+    description: Mobile developer of casual games such as Color Fence, Mr. Robinson and Amazing Car Wash.
+    hq:
+      city: Münnerstadt
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Color Fence
+      - Mr. Robinson
+      - Amazing Car Wash
+    added_at: '2026-11-09T02:47:52.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Overhype Studios
+    url: https://overhypestudios.com/
+    description: Hamburg indie studio behind the tactical mercenary RPG Battle Brothers and the tactics game MENACE.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Battle Brothers
+      - MENACE
+    added_at: '2026-11-09T02:47:52.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Secret Item Games
+    url: https://www.secret-item-games.com/
+    description: Game developer, console porting service and indie publisher in one, active since 2014.
+    hq:
+      city: Lünen
+      country: Germany
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - console
+      - pc
+    founded: 2014
+    added_at: '2026-11-09T02:47:52.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SenAm Games
+    url: https://www.senam-games.com/
+    description: 'Munich indie studio behind the noir interactive graphic novel Hauma: A Detective Noir Story.'
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Hauma: A Detective Noir Story'
+    added_at: '2026-11-09T02:47:52.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spaces of Play
+    url: https://spacesofplay.com/
+    description: Berlin indie studio making exploration and co-op games such as Future Unfolding and Spaceship Troubles.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Future Unfolding
+      - Spaceship Troubles
+      - Spirits
+    added_at: '2026-11-09T02:47:52.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Starberry Games
+    url: https://www.starberry.games/
+    description: Berlin mobile studio behind the merge puzzle game Merge Mayor.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://www.starberry.games/
+    notable:
+      - Merge Mayor
+    added_at: '2026-11-09T02:47:52.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: winterworks
+    url: https://winterworks.de/
+    description: Developer of trading sims like Kaufmannsgilde, kids puzzle apps and contract work such as Turrican Anthology.
+    hq:
+      city: St. Leon-Rot
+      country: Germany
+    segments:
+      - co-dev
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - Kaufmannsgilde
+      - Spediteur
+      - Farm World
+      - Turrican Anthology
+    added_at: '2026-11-09T02:47:52.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: simulogics
+    url: https://simulogics.games/
+    description: Independent developer of browser-based simulation MMOs for expert players.
+    hq:
+      city: Kitzingen
+      country: Germany
+    segments:
+      - simulation
+      - indie
+    platforms:
+      - web
+    added_at: '2026-11-09T02:47:52.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SDP Games
+    url: https://www.sdpgames.com/
+    description: Casual game developer and publisher making mobile and PC titles such as Sculpt People and DIY Stylist.
+    hq:
+      city: Villeurbanne
+      country: France
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    founded: 2005
+    notable:
+      - Sculpt People
+      - DIY Stylist
+      - Fit 3D
+      - Melissa K and the Heart of Gold
+    social:
+      instagram: https://www.instagram.com/sdpgames/
+      linkedin: https://www.linkedin.com/company/102346238/
+    added_at: '2026-11-09T02:47:52.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Virtual Regatta
+    url: https://www.virtualregatta.com/
+    description: Online sailing simulation game played in real time alongside offshore races such as the Route du Rhum.
+    hq:
+      city: Villeneuve-d'Ascq
+      country: France
+    segments:
+      - simulation
+    platforms:
+      - web
+      - mobile
+    notable:
+      - Virtual Regatta Offshore
+      - Virtual Regatta Inshore
+    social:
+      instagram: https://www.instagram.com/virtualregatta/
+      linkedin: https://www.linkedin.com/company/virtual-regatta-sas/
+    added_at: '2026-11-09T02:47:52.467Z'
+  - name: Extra Nice
+    url: https://www.extra-nice.net/
+    description: Small game studio in Leeuwarden making digital and analog games, including Noble and Nomori Boxes.
+    hq:
+      city: Leeuwarden
+      country: Netherlands
+    segments:
+      - indie
+    platforms:
+      - pc
+    careers: https://www.extra-nice.net/careers
+    notable:
+      - Noble
+      - 'Nomori Boxes: Lost Fragments'
+      - The Abandoned Planet
+    added_at: '2026-11-09T02:47:52.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Better Than Life
+    url: https://betterthanlife.io/
+    description: 'Amsterdam VR and AR studio making Kayak VR: Mirage and other virtual reality titles.'
+    hq:
+      city: Amsterdam
+      country: Netherlands
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - 'Kayak VR: Mirage'
+      - Meditation VR
+    social:
+      instagram: https://www.instagram.com/betterthanlife.io/
+    added_at: '2026-11-09T02:47:52.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hibernian Workshop
+    url: https://www.hibernian-workshop.com/
+    description: Indie studio making 2D action games such as Astral Ascent and Dark Devotion for PC and consoles.
+    hq:
+      city: Soyaux
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Astral Ascent
+      - Dark Devotion
+      - Fallen Fates
+    social:
+      instagram: https://www.instagram.com/hibernian_workshop/
+    added_at: '2026-11-09T02:47:52.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Saltitude
+    url: https://www.saltitude.fr/
+    description: Toulouse indie studio making action roguelites, including Chiki-Chiki and Little Prince Tyger.
+    hq:
+      city: Toulouse
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Chiki-Chiki
+      - Little Prince Tyger
+    social:
+      instagram: https://www.instagram.com/saltitude_games/
+      linkedin: https://www.linkedin.com/company/saltitude-games/
+    added_at: '2026-11-09T02:47:52.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dowino
+    url: https://www.dowino.com/
+    description: Serious game studio making learning games, apps and the audio game A Blind Legend.
+    hq:
+      city: Villeurbanne
+      country: France
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - mobile
+      - pc
+      - web
+    notable:
+      - A Blind Legend
+    social:
+      instagram: https://www.instagram.com/dowino_o/
+      linkedin: https://www.linkedin.com/company/dowino/
+    added_at: '2026-11-09T02:47:52.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sleepy Mill Studio
+    url: https://sleepymillstudio.com/
+    description: Small French indie studio that made the deckbuilding roguelite Drop Duchy.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Drop Duchy
+    added_at: '2026-11-09T02:47:52.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tempete Studio
+    url: https://www.tempete.studio/
+    description: Poitiers indie studio that made Dixit World, a video game adaptation of the board game, and Lost in Tandem.
+    hq:
+      city: Poitiers
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Dixit World
+      - Lost in Tandem
+    social:
+      instagram: https://www.instagram.com/tempetestudio
+    added_at: '2026-11-09T02:47:52.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Aniki Games
+    url: https://www.anikigames.com/
+    description: 'Small indie studio making management and tycoon games for PC, including The Executive: Movie Industry Tycoon.'
+    hq:
+      country: France
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - 'The Executive: Movie Industry Tycoon'
+    social:
+      linkedin: https://www.linkedin.com/company/aniki-games/
+    added_at: '2026-11-09T02:47:52.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sine Coda
+    url: https://www.sinecoda.com/
+    description: French indie studio making the ghost-hunting game Paragnosia and the arcade shooter PathBlasters.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2024
+    notable:
+      - Paragnosia
+      - 'Paragnosia: Museum'
+      - PathBlasters
+    added_at: '2026-11-09T02:47:52.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ramage Games
+    url: https://ramage.games/
+    description: Small French indie team that made the puzzle game One Move Away, published by Playstack.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - One Move Away
+    social:
+      linkedin: https://www.linkedin.com/company/105837931
+    added_at: '2026-11-09T02:47:52.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Holy Cap
+    url: https://www.holycapstudio.com/
+    description: Four-person French indie studio that made Promenade, a 2D collectathon platformer.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Promenade
+    social:
+      instagram: https://www.instagram.com/holycap.studio/
+    added_at: '2026-11-09T02:47:52.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Homo Ludens
+    url: https://homoludens.games/
+    description: 'Paris indie studio making management games such as Blooming Business: Casino and Dungeons & Dragons: Long Rest Tavern.'
+    hq:
+      city: Paris
+      country: France
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - 'Blooming Business: Casino'
+      - 'Dungeons & Dragons: Long Rest Tavern'
+    added_at: '2026-11-09T02:47:52.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Irregular Shapes
+    url: https://irregular-shapes.com/
+    description: 'French indie studio making story-driven city builders, starting with City Tales: Medieval Era.'
+    hq:
+      country: France
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - 'City Tales: Medieval Era'
+    social:
+      instagram: https://www.instagram.com/irrshapes/
+      linkedin: https://www.linkedin.com/company/irregular-shapes/
+    added_at: '2026-11-09T02:47:52.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mantis Games
+    url: https://mantis.games/
+    description: Ghent indie studio making its own games such as Deck of Haunts and Neon Coliseum, plus game development services for clients.
+    hq:
+      city: Ghent
+      country: Belgium
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Deck of Haunts
+      - Neon Coliseum
+      - Trolley Gold
+    social:
+      instagram: https://www.instagram.com/mantisgamesbe/
+      linkedin: https://www.linkedin.com/company/mantis-games-be/
+    added_at: '2026-11-09T02:47:52.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Polygoat
+    url: https://www.polygoat.com/
+    description: 'Independent game studio in Peer making Care Bears: To The Rescue and VR/AR apps, plus client work.'
+    hq:
+      city: Peer
+      country: Belgium
+    segments:
+      - indie
+      - kids-edu
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - vr
+      - mobile
+    founded: 2017
+    notable:
+      - 'Care Bears: To The Rescue'
+      - ComaChronic VR
+    social:
+      instagram: http://www.instagram.com/polygoatstudio/
+    added_at: '2026-11-09T02:47:52.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pajama Llama Games
+    url: https://www.pajamallama.be/
+    description: Belgian indie studio that made Flotsam, a town builder set on a flooded world.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Flotsam
+    added_at: '2026-11-09T02:47:52.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bolt Blaster Games
+    url: https://boltblastergames.com/
+    description: Belgian indie studio that made the co-op roguelite The Spell Brigade and GAZZLERS.
+    hq:
+      country: Belgium
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Spell Brigade
+      - GAZZLERS
+    added_at: '2026-11-09T02:47:52.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Iconik
+    url: https://kingpong-vr.com/
+    description: La Ciotat studio that made KING PONG, a VR table tennis game nominated at Laval Virtual.
+    hq:
+      city: La Ciotat
+      country: France
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - KING PONG
+    social:
+      instagram: https://www.instagram.com/iconik.hybridmedia/
+      linkedin: https://www.linkedin.com/company/iconikgg
+    added_at: '2026-11-09T02:47:52.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gaman Games
+    url: https://www.gaman.games/
+    description: Studio in Saint-Hilaire-de-Riez making ethical games, including the co-op game Moonwakers and its board game version.
+    hq:
+      city: Saint-Hilaire-de-Riez
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Moonwakers
+    added_at: '2026-11-09T02:47:52.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blue Ramen Studios
+    url: https://blueramen.fr/
+    description: Studio in Saint-Denis, La Réunion, making narrative games and interactive experiences, co-developer of The Merlies.
+    hq:
+      city: Saint-Denis
+      country: France
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - The Merlies
+    social:
+      instagram: https://www.instagram.com/blueramenstudios/
+      linkedin: https://re.linkedin.com/company/blue-ramen-studios
+    added_at: '2026-11-09T02:47:52.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Radar
+    url: https://thisisradar.com/
+    description: Differdange game studio making games based on animated IPs, retro indie games and advergames, including Unplayable and Glitch World.
+    hq:
+      city: Differdange
+      country: Luxembourg
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Unplayable
+      - Glitch World
+      - Shadow Dash
+    added_at: '2026-11-09T02:47:52.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Leikir Studio
+    url: https://store.steampowered.com/developer/leikirstudio
+    description: French studio that developed Metal Slug Tactics, Rogue Lords and Synergy for PC and consoles.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Metal Slug Tactics
+      - Rogue Lords
+      - Synergy
+      - Isbarah
+    added_at: '2026-11-09T02:47:52.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wild Sheep Studio
+    url: https://store.steampowered.com/developer/wildsheepstudio
+    description: French indie studio behind Adorable Adventures, published by PQube.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Adorable Adventures
+    added_at: '2026-11-09T02:47:52.490Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mad Mango Games
+    url: https://store.steampowered.com/developer/madmangogames
+    description: French indie studio that made the party game Job Joust and the strategy game Knightica.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Job Joust
+      - Knightica
+      - Divine Draw
+    added_at: '2026-11-09T02:47:52.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tin Can Studio
+    url: https://store.steampowered.com/developer/tincanstudio
+    description: French indie studio making space-themed games, including the survival puzzle game Tin Can and Space Chaos.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tin Can
+      - Space Chaos
+    added_at: '2026-11-09T02:47:52.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Exalted Studio
+    url: https://exaltedstudio.com/
+    description: French studio that made Big Helmet Heroes, a 3D co-op beat 'em up for PC and consoles.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Big Helmet Heroes
+    social:
+      instagram: https://www.instagram.com/bighelmetheroes/
+    added_at: '2026-11-09T02:47:52.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Damnatio Games
+    url: https://damnatiogames.com/
+    description: Bordeaux indie studio making genre-blending games, including the online multiplayer game Heat & Run and Teamcrafter.
+    hq:
+      city: Bordeaux
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Heat & Run
+      - Teamcrafter
+    social:
+      instagram: https://www.instagram.com/damnatiogames
+      linkedin: https://www.linkedin.com/company/damnatio-games/
+    added_at: '2026-11-09T02:47:52.494Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Demon Max
+    url: https://demonmax.fr/
+    description: French indie studio that made Guilty as Sock!, an online party game set in a courtroom of socks.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Guilty as Sock!
+      - Too Deep To Quit
+    added_at: '2026-11-09T02:47:52.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PUNKCAKE Délicieux
+    url: https://punkcake.club/
+    description: French indie studio making small arcade and puzzle games such as Shotgun King, Stray Shot and Super Algebrawl.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Shotgun King
+      - Stray Shot
+      - Super Algebrawl
+      - Hexle
+    added_at: '2026-11-09T02:47:52.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Seed by Seed
+    url: https://store.steampowered.com/developer/seedbyseed
+    description: French indie studio that made the co-op adventure Baladins, Jump the Track and Pile Up! Box by Box.
+    hq:
+      country: France
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Baladins
+      - Jump the Track
+      - Pile Up! Box by Box
+    added_at: '2026-11-09T02:47:52.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bearboy Studios
+    url: https://www.bearboystudios.com/
+    description: Indie game studio in Tepic making PC games, including The OrangeRice and James is Bananas.
+    hq:
+      city: Tepic
+      country: Mexico
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The OrangeRice
+      - James is Bananas
+    added_at: '2026-11-09T02:47:52.498Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spritewrench
+    url: https://spritewrench.com/
+    description: One-person game studio in Kingston that made the PC game Duppy Detective Tashia.
+    hq:
+      city: Kingston
+      country: Jamaica
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Duppy Detective Tashia
+    added_at: '2026-11-09T02:47:52.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gunstone Studios
+    url: https://www.gunstone-studios.com/
+    description: Game development and porting studio in El Salvador that builds and ports console, PC and mobile games for other studios.
+    hq:
+      country: El Salvador
+    segments:
+      - co-dev
+    platforms:
+      - console
+      - pc
+      - mobile
+    added_at: '2026-11-09T02:47:52.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GameCoder Studios
+    url: https://gamecoderstudios.com/
+    description: Mexican game studio doing co-development, console porting and 3D art outsourcing, plus its own titles.
+    hq:
+      country: Mexico
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+      - web
+    founded: 2012
+    careers: https://gamecoderstudios.com/careers/
+    notable:
+      - Forgotten Runiverse
+      - Nickelodeon All-Star Brawl
+      - 'Kena: Bridge of Spirits'
+    social:
+      linkedin: https://www.linkedin.com/company/gamecoder-studios/
+      instagram: https://www.instagram.com/gamecoder_studios/
+    added_at: '2026-11-09T02:47:52.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: WashaWasha
+    url: https://www.washawasha.com/
+    description: Mexico City game studio making educational games and advergames, including the El Chavo learning games and Huggies titles.
+    hq:
+      city: Mexico City
+      country: Mexico
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+      - web
+    founded: 2012
+    notable:
+      - Aprende a Programar con el Chavo
+      - Explora con el Chavo
+      - La Granja Huggies
+    added_at: '2026-11-09T02:47:52.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Matrixcore Studio
+    url: https://www.matrixcorestudio.com/
+    description: Small game team in Tijuana making mobile and PC games such as Out of Boombox and Choco Kitties.
+    hq:
+      city: Tijuana
+      country: Mexico
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Out of Boombox
+      - Choco Kitties
+    social:
+      instagram: https://www.instagram.com/matrixcorestudio/
+    added_at: '2026-11-09T02:47:52.503Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

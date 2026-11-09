@@ -706,7 +706,7 @@ studios:
     url: https://www.fabraz.com/
     description: Indie studio behind Demon Turf and Slime-san.
     hq:
-      city: New York City
+      city: New York
       country: United States
     segments:
       - indie
@@ -897,7 +897,7 @@ studios:
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Storm8
-    url: https://brasslionentertainment.com/
+    url: https://www.storm8.com/
     description: Mobile studio behind Home Design Makeover and Food Street.
     hq:
       city: Redwood City
@@ -915,8 +915,9 @@ studios:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
+    careers: https://www.storm8.com/careers/index.html
   - name: Spacetime Studios
-    url: https://www.storm8.com/
+    url: https://www.spacetimestudios.com/
     description: Austin mobile MMO studio behind Arcane Legends and Pocket Legends.
     hq:
       city: Austin
@@ -931,12 +932,12 @@ studios:
       - Arcane Legends
       - Dark Legends
     founded: 2005
-    careers: https://www.storm8.com/careers/index.html
+    careers: http://www.spacetimestudios.com/content.php?119-Jobs
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Darkpaw Games
-    url: https://www.spacetimestudios.com/
+    url: https://www.darkpawgames.com/home/
     description: Daybreak studio that runs the EverQuest and EverQuest II MMORPGs.
     hq:
       city: San Diego
@@ -950,12 +951,11 @@ studios:
       - EverQuest
       - EverQuest II
     founded: 2020
-    careers: http://www.spacetimestudios.com/content.php?119-Jobs
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Dimensional Ink Games
-    url: https://www.darkpawgames.com/home/
+    url: https://www.dimensionalink.com/
     description: Daybreak studio that runs DC Universe Online.
     hq:
       city: Austin
@@ -973,7 +973,7 @@ studios:
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Chromatic Games
-    url: https://www.hiddenvariable.com/
+    url: https://chromatic.games/
     description: Studio behind the Dungeon Defenders tower defense series.
     hq:
       city: Gainesville
@@ -987,12 +987,12 @@ studios:
       - Dungeon Defenders II
       - 'Dungeon Defenders: Awakened'
     founded: 2009
-    careers: https://www.hiddenvariable.com/careers/
+    careers: https://chromatic.games/careers/
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'
   - name: Re-Logic
-    url: https://chromatic.games/
+    url: https://re-logic.com/
     description: Indie studio behind the sandbox game Terraria.
     hq:
       country: United States
@@ -1005,7 +1005,6 @@ studios:
     notable:
       - Terraria
     founded: 2011
-    careers: https://chromatic.games/careers/
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T20:32:58.780Z'

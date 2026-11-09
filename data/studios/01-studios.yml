@@ -101,12 +101,12 @@ studios:
     url: https://www.1stavemachine.com/
     description: New York production studio mixing live action, animation and AI work for brand campaigns, with a roster of directors and digital creators.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     offices:
       - city: London
         country: United Kingdom
-      - city: Malibu, CA
+      - city: Malibu
         country: United States
       - city: Buenos Aires
         country: Argentina
@@ -295,7 +295,7 @@ studios:
     url: https://am.tv/
     description: Los Angeles design studio led by Imaginary Forces alumni, making film and TV titles, broadcast design, live action and VFX.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -316,7 +316,7 @@ studios:
     url: https://www.almostgold.com/
     description: Chicago commercial production company handling live action, VFX, motion design, editorial and color for agencies and brands.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - live-action
@@ -335,7 +335,7 @@ studios:
     url: https://www.alreadybeenchewed.tv/
     description: 3D design and motion studio in Wylie, Texas, making product films and live experiences for brands like Nike, Tiffany & Co. and ESPN.
     hq:
-      city: Wylie, TX
+      city: Wylie
       country: United States
     disciplines:
       - cg
@@ -427,7 +427,7 @@ studios:
     url: https://and-or.co/
     description: Brooklyn motion design studio making title sequences, documentary graphics and branded films.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - motion-design
@@ -493,7 +493,7 @@ studios:
     url: https://animagic.io/
     description: Animation studio in Lewes, Delaware, making characters and story-led films for brands, ad agencies, game studios and entertainment.
     hq:
-      city: Lewes, DE
+      city: Lewes
       country: United States
     disciplines:
       - 2d-animation
@@ -533,9 +533,9 @@ studios:
     offices:
       - city: Perth
         country: Australia
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - title-design
@@ -575,10 +575,10 @@ studios:
     url: https://arc-creative.us/
     description: Los Angeles and New York VFX studio run by former leads of The Mill, making commercials for Chanel, Nike, Meta and Microsoft.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
     disciplines:
       - vfx
@@ -603,7 +603,7 @@ studios:
     url: https://artcamp.io/
     description: New York multidisciplinary studio mixing hand-made techniques with new tech to make motion design and animation for brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -661,7 +661,7 @@ studios:
     url: https://artifactdesign.com/
     description: Atlanta motion graphics studio making 2D, 3D and VFX content for TV networks and ad agencies.
     hq:
-      city: Atlanta, GA
+      city: Atlanta
       country: United States
     disciplines:
       - motion-design
@@ -681,7 +681,7 @@ studios:
     url: https://astral-studio.com/
     description: Brooklyn motion graphics and branding studio making broadcast packages, show graphics and documentary titles.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - motion-design
@@ -704,10 +704,10 @@ studios:
     url: https://ataboystudios.com/
     description: New York production company working in 2D, 3D, stop motion, live action and VFX for brand commercials.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     offices:
-      - city: Brookline, MA
+      - city: Brookline
         country: United States
     disciplines:
       - 2d-animation
@@ -797,7 +797,7 @@ studios:
     url: https://www.bentimagelab.com/
     description: Portland animation studio mixing stop-motion, puppets, strata-cut, CG and live action for commercials.
     hq:
-      city: Portland, OR
+      city: Portland
       country: United States
     disciplines:
       - stop-motion
@@ -823,7 +823,7 @@ studios:
     url: https://www.bgstr.com/
     description: New York studio making broadcast branding, promos and series graphics for TV networks, streamers, sports and news.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -849,10 +849,10 @@ studios:
     url: https://www.thisisbien.com/
     description: Minority-owned motion design and animation studio in Los Angeles, Raleigh-Durham and Barcelona, focused on inclusive brand work.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: Raleigh, NC
+      - city: Raleigh
         country: United States
       - city: Barcelona
         country: Spain
@@ -871,7 +871,7 @@ studios:
     url: https://bigfilmdesign.com/
     description: New York design house making film title sequences and VFX, led by title designer Randy Balsmeyer.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - title-design
@@ -890,7 +890,7 @@ studios:
     url: https://www.bigobjectstudio.com/
     description: Stop-motion production studio making puppets, miniature sets, practical effects and tabletop work for commercials and social.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - stop-motion
@@ -905,7 +905,7 @@ studios:
     url: https://www.bigspaceship.com/
     description: Independent New York creative agency working across strategy, design, technology and social campaigns for brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -970,7 +970,7 @@ studios:
     url: https://blackmath.com/
     description: Boston design and technology studio making identity, 2D and 3D content and creative tech for brands like Meta and Reebok.
     hq:
-      city: Boston, MA
+      city: Boston
       country: United States
     disciplines:
       - motion-design
@@ -1015,7 +1015,7 @@ studios:
     url: https://blockandtackle.tv/
     description: Long Island City motion design studio working in 2D, 3D and traditional animation with strong type and graphic design.
     hq:
-      city: Queens, NY
+      city: Queens
       country: United States
     disciplines:
       - motion-design
@@ -1096,7 +1096,7 @@ studios:
     url: https://blur.com/
     description: CG studio making game trailers, cinematics and animated series episodes for major game franchises and streamers.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - cinematics
@@ -1120,7 +1120,7 @@ studios:
     url: https://www.boma.studio/
     description: Motion design and VFX studio making music videos, stadium screen content, UI and commercial finishing for brands and sports teams.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design

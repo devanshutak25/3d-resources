@@ -59,7 +59,7 @@ studios:
       city: Toronto
       country: Canada
     offices:
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
     disciplines:
       - vfx
@@ -104,7 +104,7 @@ studios:
     url: https://www.botvfx.com/
     description: VFX company with a US base in Atlanta and production studios across India, working on film and episodic series.
     hq:
-      city: Atlanta, GA
+      city: Atlanta
       country: United States
     offices:
       - city: Chennai
@@ -139,7 +139,7 @@ studios:
       city: Los Angeles
       country: United States
     offices:
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
       - city: London
         country: United Kingdom
@@ -206,7 +206,7 @@ studios:
       city: Los Angeles
       country: United States
     offices:
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
       - city: Glasgow
         country: United Kingdom
@@ -242,7 +242,7 @@ studios:
       city: Los Angeles
       country: United States
     offices:
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
       - city: Vancouver
         country: Canada
@@ -370,10 +370,10 @@ studios:
     url: https://www.stargatestudios.net/
     description: VFX and virtual production company founded by cinematographer Sam Nicholson, working on film, TV and commercials.
     hq:
-      city: South Pasadena, CA
+      city: South Pasadena
       country: United States
     offices:
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
       - city: New York
         country: United States
@@ -997,7 +997,7 @@ studios:
     url: https://www.pixar.com/
     description: Disney-owned CG feature animation studio in Emeryville, California, making theatrical films and streaming series.
     hq:
-      city: Emeryville, CA
+      city: Emeryville
       country: United States
     disciplines:
       - 3d-animation
@@ -1023,7 +1023,7 @@ studios:
     url: https://disneyanimation.com/
     description: Disney's feature animation studio in Burbank and Vancouver, making CG theatrical films and Disney+ series.
     hq:
-      city: Burbank, CA
+      city: Burbank
       country: United States
     offices:
       - city: Vancouver
@@ -1052,7 +1052,7 @@ studios:
     url: https://www.dreamworks.com/
     description: NBCUniversal-owned studio in Glendale, California, making CG feature films and animated series.
     hq:
-      city: Glendale, CA
+      city: Glendale
       country: United States
     disciplines:
       - 3d-animation
@@ -1074,7 +1074,7 @@ studios:
     url: https://www.illumination.com/
     description: Universal-backed producer of CG family features, with animation production at its own Paris studio.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     offices:
       - city: Paris
@@ -1123,7 +1123,7 @@ studios:
     url: https://www.sonypicturesanimation.com/
     description: Sony's feature animation division in Culver City, developing CG films produced with Imageworks.
     hq:
-      city: Culver City, CA
+      city: Culver City
       country: United States
     disciplines:
       - 3d-animation
@@ -1148,7 +1148,7 @@ studios:
     url: https://www.skydanceanimation.com/
     description: Feature and series animation studio with teams in Los Angeles and Madrid, making CG films for streaming and theatrical release.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
       - city: Madrid
@@ -1172,10 +1172,10 @@ studios:
     url: https://titmouse.net/
     description: Independent studio making 2D and CG animated series, features and shorts for adult and kids audiences.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: New York, NY
+      - city: New York
         country: United States
       - city: Vancouver
         country: Canada
@@ -1206,12 +1206,12 @@ studios:
     url: https://www.reelfx.com/
     description: Animation studio producing CG feature films and series for studios and streamers.
     hq:
-      city: Dallas, TX
+      city: Dallas
       country: United States
     offices:
       - city: Montreal
         country: Canada
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - 3d-animation
@@ -1237,10 +1237,10 @@ studios:
     url: https://www.bentoboxent.com/
     description: Fox-owned animation studio producing primetime 2D comedy series.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: Atlanta, GA
+      - city: Atlanta
         country: United States
       - city: Toronto
         country: Canada
@@ -1266,10 +1266,10 @@ studios:
     url: https://www.shadowmachine.com/
     description: Stop-motion and 2D animation studio producing series and features for TV, streaming and film.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     offices:
-      - city: Portland, OR
+      - city: Portland
         country: United States
     disciplines:
       - stop-motion
@@ -1294,7 +1294,7 @@ studios:
     url: https://www.tonkohouse.com/
     description: Independent animation studio founded by former Pixar art directors, making original films, series and books.
     hq:
-      city: Berkeley, CA
+      city: Berkeley
       country: United States
     disciplines:
       - 3d-animation

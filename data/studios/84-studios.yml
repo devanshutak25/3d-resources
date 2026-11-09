@@ -1,0 +1,927 @@
+studios:
+  - name: Baked Studios
+    url: https://www.wearebaked.com/
+    description: Boutique VFX and design studio for commercials, with a Culver City base and a New York office.
+    hq:
+      city: Culver City
+      country: United States
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/bakedstudios/
+      linkedin: https://www.linkedin.com/company/bakedstudios
+      vimeo: https://vimeo.com/wearebaked
+    added_at: '2026-11-09T02:47:52.641Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Engine Room Hollywood
+    url: https://www.engineroomhollywood.com/
+    description: VFX, live action and motion graphics house delivering episodic and feature shots for studios and streamers.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - motion-design
+      - live-action
+    markets:
+      - episodic
+      - film
+    founded: 2001
+    notable:
+      - Warner Bros.
+      - NBC
+      - Netflix
+      - Amazon
+    social:
+      instagram: https://www.instagram.com/engineroomhollywood/
+    added_at: '2026-11-09T02:47:52.642Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bubba's LA
+    url: https://www.bubbas.la/
+    description: Small motion design and CGI studio making 2D/3D animation, VFX, tabletop and motion-control work, plus title design.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - title-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/bubbas_la/
+      linkedin: https://www.linkedin.com/company/bubbasla
+    added_at: '2026-11-09T02:47:52.643Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Monkeyhead
+    url: https://www.monkeyhead.com/
+    description: Motion design house doing 2D/3D mograph, design, character animation for brands and networks.
+    hq:
+      city: Long Beach
+      country: United States
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - advertising
+      - episodic
+    social:
+      instagram: https://www.instagram.com/monkeyheadla
+      vimeo: https://vimeo.com/monkeyhead
+    added_at: '2026-11-09T02:47:52.644Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: STEAMStage
+    url: https://steamstage.com/
+    description: Virtual production LED stage in Santa Monica for commercials and branded content.
+    hq:
+      city: Santa Monica
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/steamcreative
+      linkedin: https://www.linkedin.com/company/steamcreative
+    added_at: '2026-11-09T02:47:52.645Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Eleven43
+    url: https://studioeleven43.com/
+    description: Production facility with VP, LED and XR stages for film, TV and commercials.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - advertising
+      - episodic
+    social:
+      instagram: https://www.instagram.com/studio_eleven43
+    added_at: '2026-11-09T02:47:52.646Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: CGLA Studios
+    url: https://www.cgla.tv/
+    description: Live broadcast graphics and real-time AR production for entertainment and sports TV, built in Unreal, Zero Density and Pixotope.
+    hq:
+      city: North Hollywood
+      country: United States
+    disciplines:
+      - motion-design
+      - virtual-production
+      - xr
+    markets:
+      - episodic
+    notable:
+      - Oscars
+      - Met Gala
+      - Dancing with the Stars
+      - Star Search (Netflix)
+    social:
+      instagram: http://instagram.com/cglastudios
+      linkedin: https://www.linkedin.com/company/15888182/
+    added_at: '2026-11-09T02:47:52.647Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Khaos Digital
+    url: https://www.khaosdigital.com/
+    description: On-set screen graphics, video and animation playback for TV and film productions.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-09T02:47:52.648Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rocket Science Motion Capture Studios
+    url: https://rocketsciencemotioncapture.com/
+    description: Motion and performance capture studio with LED virtual sets, serving film and video game productions.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - mocap
+      - virtual-production
+    markets:
+      - film
+      - games
+    added_at: '2026-11-09T02:47:52.649Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: At The Post
+    url: https://www.atthepost.net/
+    description: VFX studio working on commercials, music videos and broadcast specials.
+    hq:
+      city: Redondo Beach
+      country: United States
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - music-video
+    added_at: '2026-11-09T02:47:52.650Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Antifreeze
+    url: https://www.antifreezeanimation.com/
+    description: Scientific and genomics visualization studio making 3D animation for life-science companies such as Illumina.
+    hq:
+      city: Portland
+      country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - medical-science
+    notable:
+      - Illumina
+    added_at: '2026-11-09T02:47:52.651Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pridgeon Design Group
+    url: https://www.pridgeondesign.com/
+    description: 3D and medical animation studio making illustrations and marketing videos for healthcare, industrial and commercial clients.
+    hq:
+      city: Boston
+      country: United States
+    disciplines:
+      - 3d-animation
+    markets:
+      - medical-science
+      - brand
+    added_at: '2026-11-09T02:47:52.652Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Digital Frontier FX
+    url: https://www.digitalfrontierfx.com/
+    description: VFX studio for features, episodic and commercials with an on-site Vicon mocap stage, previs, virtual production and scanning.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - mocap
+      - previs
+      - virtual-production
+      - scanning
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2013
+    social:
+      linkedin: https://www.linkedin.com/company/digital-frontier-fx
+      vimeo: https://vimeo.com/dffx
+    added_at: '2026-11-09T02:47:52.653Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Motive Creative
+    url: https://www.motivecreative.com/
+    description: Entertainment marketing studio with in-house 3D, main titles, motion graphics, EPK production and finishing.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: THG Creative
+    url: https://thgcreative.com/
+    description: Themed experience design firm, formerly The Hettema Group, creating attractions, observation decks and museums.
+    hq:
+      city: Pasadena
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - One World Observatory
+      - Top of the Rock
+      - High Roller Las Vegas
+    social:
+      instagram: https://www.instagram.com/experiencethg/
+      linkedin: https://www.linkedin.com/company/experiencethg/
+    added_at: '2026-11-09T02:47:52.655Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Storyland Studios
+    url: https://www.storylandstudios.com/
+    description: Theme park and immersive experience design firm working on attractions, brand booths and family venues.
+    hq:
+      city: Corona
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - YoStar booth at Anime Expo 2023
+      - Bethany Children's Health Center
+    social:
+      instagram: https://www.instagram.com/storylandstudios/
+      linkedin: https://www.linkedin.com/company/storyland-studios
+    added_at: '2026-11-09T02:47:52.656Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mark Woollen & Associates
+    url: https://mwatrailers.com/
+    description: Trailer and entertainment marketing house with in-house 2D/3D design, motion graphics and main title sequences.
+    hq:
+      city: Santa Monica
+      country: United States
+    disciplines:
+      - motion-design
+      - title-design
+    markets:
+      - film
+      - episodic
+    careers: https://mwatrailers.com/connect/
+    notable:
+      - Supergirl
+      - The Mosquito Bowl
+      - Behemoth!
+    added_at: '2026-11-09T02:47:52.657Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Concept Arts
+    url: https://conceptarts.com/
+    description: Entertainment creative agency making key art, AV, 2D/3D animation and social content for studios and brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - brand
+    notable:
+      - Glass Onion
+      - Marvel 10-year campaign
+      - Virgin Galactic
+    added_at: '2026-11-09T02:47:52.658Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lidar Guys
+    url: https://www.lidarguys.com/
+    description: Ground-based lidar and photogrammetry capture company scanning sets and locations for VFX and AEC projects.
+    hq:
+      city: Albuquerque
+      country: United States
+    offices:
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - scanning
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.659Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Seismic Productions
+    url: https://seismicproductions.com/
+    description: Creative marketing company producing trailers, TV spots and campaign content for film and TV studios.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.660Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sans Strings Studio
+    url: https://sansstrings.studio/
+    description: Real-time transmedia studio making animated series, social content, branded work and games with live performance and game-engine pipelines.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - 3d-animation
+      - interactive
+    markets:
+      - episodic
+      - games
+      - brand
+    social:
+      instagram: https://www.instagram.com/sansstrings/
+      linkedin: https://www.linkedin.com/company/sans-strings-studio
+    added_at: '2026-11-09T02:47:52.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spiffy
+    url: https://www.spiffy.la/
+    description: VFX, finishing and broadcast design studio for agencies, production companies, networks and editorial houses.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - vfx
+      - motion-design
+      - title-design
+    markets:
+      - advertising
+      - episodic
+    social:
+      instagram: https://www.instagram.com/spiffy_la/
+      linkedin: http://www.linkedin.com/company/spiffy
+    added_at: '2026-11-09T02:47:52.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Motion City Films
+    url: https://motioncity.com/
+    description: Creative studio making custom 3D animation, 2D motion graphics, explainers and data visualization for film, TV and brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sphere Studios
+    url: https://www.spherestudios.com/
+    description: Content studio producing immersive films, concert visuals and brand shows built for the Sphere venue canvases.
+    hq:
+      city: Burbank
+      country: United States
+    disciplines:
+      - experiential
+      - vfx
+    markets:
+      - film
+      - brand
+    notable:
+      - The Wizard of Oz at Sphere
+      - 'Backstreet Boys: Into The Millennium'
+      - Lenovo Tech World @ CES
+      - Sphere of Fear
+    added_at: '2026-11-09T02:47:52.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Refuge
+    url: https://www.refugevfx.com/
+    description: VFX studio for film and television known for photoreal characters, creatures and digital environments.
+    hq:
+      city: Portland
+      country: United States
+    offices:
+      - city: Vancouver
+        country: Canada
+      - city: Los Angeles
+        country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.665Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mocean
+    url: https://www.moceanla.com/
+    description: Entertainment and brand creative agency with in-house AV, motion graphics, key art and finishing for studios, brands and games.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - games
+      - brand
+    careers: https://recruiting.paylocity.com/recruiting/jobs/All/8acecc3f-c3a0-4353-9753-388382a92934/MOCEAN
+    social:
+      instagram: https://www.instagram.com/moceanla/
+      linkedin: https://www.linkedin.com/company/moceanla/
+    added_at: '2026-11-09T02:47:52.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Theory Studios
+    url: https://www.theorystudios.com/
+    description: Unreal and XR studio making VR training, themed attraction media, game cinematics and VFX, active since 2013.
+    hq:
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+      - vfx
+      - experiential
+    markets:
+      - games
+      - episodic
+      - brand
+    founded: 2013
+    notable:
+      - Wave Warrior VR (US Marine Corps)
+      - Bourne Stuntacular
+      - The Man in the High Castle VFX
+      - 'Transformers: Fall of Cybertron cinematics'
+    social:
+      instagram: https://www.instagram.com/theorystudiosinc/
+      linkedin: https://www.linkedin.com/company/theorystudios/
+    added_at: '2026-11-09T02:47:52.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lex and Otis Studios
+    url: https://www.lexandotis.com/
+    description: Animation studio and production company adapting comics, games and novels into animated series, led by director Jay Oliva.
+    hq:
+      country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+    notable:
+      - 'RAID: Call of the Arbiter'
+      - Cradle animated series
+    social:
+      instagram: https://www.instagram.com/lexandotis/
+    added_at: '2026-11-09T02:47:52.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rogue Initiative Studios
+    url: https://rogueinitiative.com/
+    description: Entertainment studio building original IP across games, animation, live action and real-time simulations.
+    hq:
+      country: United States
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - live-action
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/therogueinitiative/
+      linkedin: https://www.linkedin.com/company/rogue-initiative/
+    added_at: '2026-11-09T02:47:52.669Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Genre.ai
+    url: https://www.genre.ai/
+    description: AI production studio making cinematic ads and branded short films for consumer brands.
+    hq:
+      country: United States
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    notable:
+      - 'Nectar: Out of Work Nightmares (2026)'
+      - 'DreamCloud: Dream Better Dreams (2026)'
+    added_at: '2026-11-09T02:47:52.670Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Zimmerman Visual
+    url: https://www.zimmermanvisual.com/
+    description: Architectural visualization studio making renderings and marketing imagery for architects and developers.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    notable:
+      - Jakarta Mall (Grimshaw & AO)
+      - Claremont South Village
+      - ASAI Architecture in Perspective 37 Award of Excellence
+    social:
+      instagram: https://www.instagram.com/zimmerman_visual
+    added_at: '2026-11-09T02:47:52.671Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Theia Interactive
+    url: https://theia.io/
+    description: Unreal Engine studio building digital twins, virtual showrooms, product configurators and training simulations for enterprise brands.
+    hq:
+      country: United States
+    disciplines:
+      - interactive
+      - xr
+      - product-viz
+    markets:
+      - brand
+    founded: 2014
+    careers: https://theia.io/careers
+    social:
+      instagram: https://www.instagram.com/theiainteractive/
+      linkedin: https://www.linkedin.com/company/theiainteractive
+    added_at: '2026-11-09T02:47:52.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ARwall
+    url: https://arwall.co/
+    description: Virtual production company offering VP supervision, LED XR stage installation and in-house real-time stage tools.
+    hq:
+      country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: http://instagram.com/arwallco
+      linkedin: https://www.linkedin.com/company/arwallco
+    added_at: '2026-11-09T02:47:52.673Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Legacy Entertainment
+    url: https://www.legacyentertainment.com/
+    description: Entertainment design and production firm creating theme parks, resorts and location-based attractions since 2002.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    founded: 2002
+    notable:
+      - Studio City Macau
+      - Lotte Parade
+    social:
+      instagram: https://www.instagram.com/legacyentstudio/
+      linkedin: https://www.linkedin.com/company/legacyentertainment/
+    added_at: '2026-11-09T02:47:52.674Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PSBL
+    url: https://possibleproductions.com/
+    description: Concert visuals and live event production studio creating tour screen content and stage visuals for touring artists.
+    hq:
+      city: Los Angeles
+      country: United States
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - experiential
+      - motion-design
+    markets:
+      - music-video
+      - brand
+    notable:
+      - Lady Gaga tour visuals
+      - Ariana Grande
+      - Justin Bieber
+      - Childish Gambino
+    social:
+      instagram: https://www.instagram.com/psbl.co
+      linkedin: https://www.linkedin.com/company/psbl-co
+    added_at: '2026-11-09T02:47:52.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pixis
+    url: https://pixisdrones.com/
+    description: Drone light show company staging branded shows for sports teams, agencies and major events.
+    hq:
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Ice Cube show at Santa Monica Pier
+      - NY Giants 100th Season Fan Fest
+      - NFL
+      - NBA
+    social:
+      instagram: https://www.instagram.com/pixisdrones
+    added_at: '2026-11-09T02:47:52.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Twisted Media
+    url: https://twistedmedia.com/
+    description: Creative collective making playback graphics, FUI and screen VFX for film and TV, with its own playback software.
+    hq:
+      country: United States
+    disciplines:
+      - motion-design
+      - vfx
+    markets:
+      - episodic
+      - film
+    notable:
+      - Westworld
+      - Ozark
+      - 'Independence Day: Resurgence'
+      - Chicago Med
+    added_at: '2026-11-09T02:47:52.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: bully! entertainment
+    url: https://bullyentertainment.com/
+    description: Baltimore production studio building XR experiences, apps and interactive brand activations, with a London office.
+    hq:
+      city: Baltimore
+      country: United States
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - xr
+      - experiential
+      - interactive
+    markets:
+      - brand
+      - advertising
+    careers: https://bullyentertainment.com/careers/
+    social:
+      linkedin: https://www.linkedin.com/company/bully-entertainment
+    added_at: '2026-11-09T02:47:52.678Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Top Right Corner
+    url: https://www.toprightcorner.com/
+    description: New Orleans immersive content studio creating VR, AR and mixed reality projects for studios, educators and government clients.
+    hq:
+      city: New Orleans
+      country: United States
+    offices:
+      - city: Dallas
+        country: United States
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - film
+    careers: https://www.toprightcorner.com/careers
+    added_at: '2026-11-09T02:47:52.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lucid Dream
+    url: https://luciddreamvr.com/
+    description: Durham studio making scientific animation, patient education and VR training and simulation for life science companies.
+    hq:
+      city: Durham
+      country: United States
+    disciplines:
+      - 3d-animation
+      - xr
+      - interactive
+    markets:
+      - medical-science
+    social:
+      linkedin: http://linkedin.com/company/luciddreamvr
+      x: http://twitter.com/luciddreamvr
+      instagram: https://www.instagram.com/luciddreamvr
+    added_at: '2026-11-09T02:47:52.680Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Night Kitchen Interactive
+    url: https://www.whatscookin.com/
+    description: Philadelphia studio designing interactive exhibits, digital interpretive media and online learning for museums and cultural organizations since 1997.
+    hq:
+      city: Philadelphia
+      country: United States
+    disciplines:
+      - interactive
+      - experiential
+    markets:
+      - brand
+    founded: 1997
+    careers: https://www.whatscookin.com/careers/
+    social:
+      x: https://twitter.com/nightkitchen
+      instagram: https://www.instagram.com/nightkitcheninteractive/
+    added_at: '2026-11-09T02:47:52.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fair Worlds
+    url: https://www.fairworlds.com/
+    description: Austin and Seattle immersive studio building AR and VR apps, 3D configurators, 3D animation and live event experiences for brands.
+    hq:
+      city: Austin
+      country: United States
+    offices:
+      - city: Seattle
+        country: United States
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/fair-worlds
+      instagram: https://www.instagram.com/fairworlds
+    added_at: '2026-11-09T02:47:52.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Balti Virtual
+    url: https://www.baltivirtual.com/
+    description: Baltimore full-service AR and VR studio building immersive experiences for clients.
+    hq:
+      city: Baltimore
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    social:
+      x: https://www.twitter.com/BaltiVirtual
+      instagram: https://www.instagram.com/baltivirtual/
+      linkedin: https://www.linkedin.com/company/balti-virtual/
+    added_at: '2026-11-09T02:47:52.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Beaudry Interactive
+    url: https://www.binteractive.com/
+    description: Experiential design and production company making technology-driven attractions for theme parks, museums, live shows and brands.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2006
+    added_at: '2026-11-09T02:47:52.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Specular Theory
+    url: https://www.speculartheory.com/
+    description: Immersive technology studio founded in 2013 that creates VR, AR and MR experiences for brands and retailers.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    founded: 2013
+    added_at: '2026-11-09T02:47:52.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PulseJet Studios
+    url: https://www.pulsejetstudios.com/
+    description: Spatial computing studio producing XR concert films, 360 live event captures and walkable 3D scans.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - xr
+      - scanning
+    markets:
+      - music-video
+      - brand
+    notable:
+      - 'Björk: Vulnicura VR'
+      - Joshua Tree Music Festival
+      - Grace Cathedral 3D capture
+    added_at: '2026-11-09T02:47:52.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Paracosma
+    url: https://www.paracosma.com/
+    description: AR and VR studio founded in 2016 that builds immersive training and visualization apps, with a sales office in Tokyo and a development center in Kathmandu.
+    hq:
+      city: San Francisco
+      country: United States
+    offices:
+      - city: Tokyo
+        country: Japan
+      - city: Kathmandu
+        country: Nepal
+    disciplines:
+      - xr
+      - interactive
+    founded: 2016
+    added_at: '2026-11-09T02:47:52.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cadence Effects
+    url: https://www.cadence-effects.com/
+    description: Midsized visual effects company making invisible VFX for feature films and television.
+    hq:
+      city: New Lebanon
+      country: United States
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    careers: https://www.cadence-effects.com/join-our-team
+    social:
+      instagram: https://www.instagram.com/cadenceeffects
+      linkedin: https://www.linkedin.com/company/cadence-effects
+    added_at: '2026-11-09T02:47:52.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: New York Capture
+    url: https://newyorkcapture.com/
+    description: 3D scanning studio doing photogrammetry, structured light, LiDAR and Gaussian splat capture for film, VFX, art and preservation.
+    hq:
+      city: New York
+      country: United States
+    disciplines:
+      - scanning
+    markets:
+      - film
+    added_at: '2026-11-09T02:47:52.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Chicago Projection Mapping
+    url: https://www.chicagoprojectionmapping.com/
+    description: 3D projection mapping studio making content and live projection shows for buildings, stages and events.
+    hq:
+      city: Chicago
+      country: United States
+    disciplines:
+      - experiential
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2012
+    added_at: '2026-11-09T02:47:52.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

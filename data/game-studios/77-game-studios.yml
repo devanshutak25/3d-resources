@@ -1,0 +1,858 @@
+studios:
+  - name: Live Motion Games
+    url: https://livemotiongames.com/
+    description: Warsaw game developer of simulators such as Builder Simulator and Chornobyl Liquidators, with a second office in Katowice.
+    hq:
+      city: Warsaw
+      country: Poland
+    offices:
+      - city: Katowice
+        country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Builder Simulator
+      - Chornobyl Liquidators
+    added_at: '2026-11-09T02:47:52.404Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Frozen Way
+    url: https://frozenwaygames.com/
+    description: Kraków game developer and publisher of simulation games, co-developer of Builder Simulator and Chornobyl Liquidators.
+    hq:
+      city: Kraków
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Builder Simulator
+      - Chornobyl Liquidators
+    social:
+      instagram: https://www.instagram.com/frozen_way_games
+      linkedin: https://www.linkedin.com/company/frozenway
+    added_at: '2026-11-09T02:47:52.405Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MoaCube
+    url: https://moacube.com/
+    description: Warsaw indie collective behind the visual novel Cinders and the strategy game Bonfire.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2011
+    notable:
+      - Cinders
+      - Bonfire
+    added_at: '2026-11-09T02:47:52.406Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MythicOwl
+    url: https://www.mythicowl.com/
+    description: Warsaw indie studio making relaxed puzzle and strategy games, including Planetiles.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Planetiles
+    added_at: '2026-11-09T02:47:52.407Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OhNoo Studio
+    url: https://www.ohnoo.com/
+    description: Polish indie studio making hand-drawn dark point-and-click adventures such as Tormentum and TSIOQUE.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2011
+    notable:
+      - 'Tormentum: Dark Sorrow'
+      - TSIOQUE
+    social:
+      instagram: https://www.instagram.com/ohnoostudio
+    added_at: '2026-11-09T02:47:52.408Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Raba Games
+    url: https://rabagames.com/
+    description: Zielona Góra Unity team making its own VR games and building games for hire.
+    hq:
+      city: Zielona Góra
+      country: Poland
+    segments:
+      - co-dev
+      - vr
+    platforms:
+      - pc
+      - vr
+    added_at: '2026-11-09T02:47:52.409Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Vixa Games
+    url: https://vixagames.com/
+    description: Gdańsk indie studio founded in 2016, developer of the survival horror Edge of Sanity.
+    hq:
+      city: Gdańsk
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2016
+    notable:
+      - Edge of Sanity
+    added_at: '2026-11-09T02:47:52.410Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ChaosForge
+    url: https://chaosforge.org/
+    description: Wrocław roguelike developer behind DRL and Jupiter Hell, built on its own engine.
+    hq:
+      city: Wrocław
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Jupiter Hell
+      - Jupiter Hell Classic
+      - DRL
+    added_at: '2026-11-09T02:47:52.411Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Demolish Games
+    url: https://demolish-games.com/
+    description: Warsaw developer and publisher of demolition and building simulators, including the Demolish & Build series.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - Demolish & Build 3
+    added_at: '2026-11-09T02:47:52.412Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GameLoad
+    url: https://gameload.gg/
+    description: Polish indie studio behind the life sim Your Story, now building TerraStorm with its players.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Your Story
+    added_at: '2026-11-09T02:47:52.413Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Terad Games
+    url: https://astrocolony.com/
+    description: Polish indie studio behind the space colony builder Astro Colony.
+    hq:
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Astro Colony
+    added_at: '2026-11-09T02:47:52.414Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spirit Games Studio
+    url: https://spiritgamesstudio.com.pl/
+    description: Warsaw studio making horror adventure games, co-developer of Puppet House.
+    hq:
+      city: Warsaw
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Puppet House
+    added_at: '2026-11-09T02:47:52.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Slavic Magic
+    url: https://manorlords.com/
+    description: Small Polish studio behind the medieval city builder Manor Lords, published by Hooded Horse.
+    hq:
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Manor Lords
+    social:
+      instagram: https://www.instagram.com/manorlords_game
+    added_at: '2026-11-09T02:47:52.416Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Crimson Pine Games
+    url: https://www.crimsonpine.com/
+    description: Gliwice mobile studio making casual puzzle and coloring games such as April Jigsaw and Diamond Painting.
+    hq:
+      city: Gliwice
+      country: Poland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - April Jigsaw
+      - April Coloring
+      - Diamond Painting
+    social:
+      instagram: https://www.instagram.com/crimsonpinegames
+      linkedin: https://www.linkedin.com/company/crimson-pine-studios
+    added_at: '2026-11-09T02:47:52.417Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mad Cookies Studio
+    url: https://madcookies.games/
+    description: Bratislava indie studio behind Cardbob and the tactics game Fogpiercer published by Hooded Horse.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cardbob
+      - Fogpiercer
+    social:
+      instagram: https://www.instagram.com/madcookies.games
+    added_at: '2026-11-09T02:47:52.418Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tinysoft
+    url: https://www.tinysoft.sk/
+    description: Trenčín mobile game developer founded in 2010 with 50+ released titles, including Magic War Legends.
+    hq:
+      city: Trenčín
+      country: Slovakia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2010
+    notable:
+      - Magic War Legends
+      - Tic Tac Toe Glow
+    added_at: '2026-11-09T02:47:52.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PowerPlay Manager
+    url: https://ppm.powerplaymanager.com/en/
+    description: Bratislava developer of PowerPlay Manager, a free online sports management game, plus browser duel games.
+    hq:
+      city: Bratislava
+      country: Slovakia
+    segments:
+      - simulation
+    platforms:
+      - web
+      - mobile
+    notable:
+      - PowerPlay Manager
+      - Army Duel
+      - Tennis Duel
+    added_at: '2026-11-09T02:47:52.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Save Sloth Studios
+    url: https://www.saveslothgames.com/
+    description: Small Hungarian indie collective making short 2D games such as A Most Extraordinary Gnome and Black Well Devil.
+    hq:
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - A Most Extraordinary Gnome
+    social:
+      instagram: https://www.instagram.com/saveslothstudios
+    added_at: '2026-11-09T02:47:52.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kite Games
+    url: https://www.kite-games.com/
+    description: Budapest strategy game developer behind Sudden Strike 4, The Valiant and Sudden Strike 5.
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Sudden Strike 4
+      - The Valiant
+      - Sudden Strike 5
+    social:
+      linkedin: https://www.linkedin.com/company/kite-games
+    added_at: '2026-11-09T02:47:52.422Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Game In A Bottle
+    url: https://www.gameinabottle.com/
+    description: Hungarian studio behind the GemCraft tower defense series.
+    hq:
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+      - web
+    notable:
+      - 'GemCraft: Frostborn Wrath'
+      - 'GemCraft: Chasing Shadows'
+    added_at: '2026-11-09T02:47:52.423Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ActaLogic
+    url: https://www.actalogic.com/
+    description: 'Ljubljana studio making strategy and action games for PC, consoles and phones, such as Hypernova: Escape from Hadea.'
+    hq:
+      city: Ljubljana
+      country: Slovenia
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Hypernova: Escape from Hadea'
+    social:
+      instagram: https://www.instagram.com/actalogic
+      linkedin: https://www.linkedin.com/company/actalogic
+    added_at: '2026-11-09T02:47:52.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Yeti Ate My Breakfast
+    url: https://yetiatemybreakfast.com/
+    description: Small Croatian indie studio making casual PC games such as Mahjong Worlds.
+    hq:
+      country: Croatia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Mahjong Worlds
+    added_at: '2026-11-09T02:47:52.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: UMEO Studios
+    url: https://www.umeo.pl/
+    description: Toruń studio making large open-world simulation games, developer of Farmer's Dynasty and Farmer's Dynasty 2.
+    hq:
+      city: Toruń
+      country: Poland
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    notable:
+      - Farmer's Dynasty
+      - Farmer's Dynasty 2
+    added_at: '2026-11-09T02:47:52.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rage Quit Games
+    url: https://ragequitgames.com/
+    description: 'Kraków developer of mobile and PC games, including Evil Lands and Tomorrow: Online Survival.'
+    hq:
+      city: Kraków
+      country: Poland
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Evil Lands
+      - 'Tomorrow: Online Survival'
+    added_at: '2026-11-09T02:47:52.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MuHa Games
+    url: http://muhagames.com/
+    description: Polish studio behind the Thea strategy games and the Master of Magic remake, now working on Project Afterfall.
+    hq:
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Thea: The Awakening'
+      - 'Thea 2: The Shattering'
+      - Master of Magic
+      - Project Afterfall
+    added_at: '2026-11-09T02:47:52.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Poetic
+    url: https://www.sacredfiregame.com/
+    description: Slovak indie studio developing Sacred Fire, a story RPG about emotions and choices, published by Iceberg Interactive.
+    hq:
+      country: Slovakia
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Sacred Fire: A Role Playing Game'
+    added_at: '2026-11-09T02:47:52.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Paperash Studio
+    url: https://paperash.com/
+    description: Czech indie studio making games from handmade paper art, developer of Dark Train and Black Skylands.
+    hq:
+      country: Czech Republic
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Dark Train
+      - Black Skylands
+    added_at: '2026-11-09T02:47:52.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dawn of Play
+    url: https://www.dawnofplay.com/
+    description: Ljubljana mobile studio of 8 behind Dream of Pixels and I Can Paint, also doing co-development and porting.
+    hq:
+      city: Ljubljana
+      country: Slovenia
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    founded: 2010
+    notable:
+      - Dream of Pixels
+      - I Can Paint
+    added_at: '2026-11-09T02:47:52.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Balcony Softworks
+    url: https://balconyteam.com/
+    description: 'Budapest indie studio founded in 2013, developer of the open-world RPG Balrum and Deepest Chamber: Resurrection.'
+    hq:
+      city: Budapest
+      country: Hungary
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Balrum
+      - 'Deepest Chamber: Resurrection'
+    added_at: '2026-11-09T02:47:52.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Byte Barrel
+    url: https://bytebarrel.com/
+    description: Gdańsk indie developer founded in 2017, behind the comic-style shooters Forgive Me Father and Forgive Me Father 2.
+    hq:
+      city: Gdańsk
+      country: Poland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2017
+    notable:
+      - Forgive Me Father
+      - Forgive Me Father 2
+    added_at: '2026-11-09T02:47:52.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gamesture
+    url: https://gamesture.com/
+    description: 'Polish mobile game developer running live RPG and strategy games such as Mafia Rivals: Grand Wars.'
+    hq:
+      country: Poland
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Mafia Rivals: Grand Wars'
+    added_at: '2026-11-09T02:47:52.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Binary Impact
+    url: https://www.binaryimpact.de/
+    description: Unity developer making its own PC games such as Beam and Parking World, plus contract 3D and software work.
+    hq:
+      city: Niederelbert
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Beam
+      - Parking World
+    social:
+      instagram: https://www.instagram.com/binaryimpact/
+      linkedin: https://www.linkedin.com/company/binaryimpact/
+    added_at: '2026-11-09T02:47:52.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Diplodocus Games
+    url: https://diplodocus-games.de/
+    description: Small label developing and porting retro-style platformers and puzzle games for Switch and PC.
+    hq:
+      city: Hagen
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Regina & Mac
+      - 'Commander Keen in Keen Dreams: Definitive Edition'
+      - Logic Puzzle Collection
+      - Toree 3D (Switch)
+    added_at: '2026-11-09T02:47:52.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Umlaut Games
+    url: https://umlautgames.com/
+    description: Zurich indie studio founded by ZHdK graduates, maker of the physics game Limbs.
+    hq:
+      city: Zurich
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2023
+    notable:
+      - Limbs
+    added_at: '2026-11-09T02:47:52.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MonkeyFactory Media
+    url: https://monkeyfactory.ch/
+    description: Swiss indie developer and publishing label making story-driven games such as Wild Planet and Dreadcore.
+    hq:
+      country: Switzerland
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Wild Planet
+      - 'Insomnia: Chapter One (publisher)'
+      - 'DREADCORE: Locked Unit'
+    added_at: '2026-11-09T02:47:52.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NG.DEV.TEAM
+    url: https://ngdevteam.com/
+    description: Small developer of 2D shoot 'em ups for Neo Geo, Dreamcast, Switch and other consoles.
+    hq:
+      city: Hannover
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - Gunvein
+      - Fast Striker
+      - Razion
+      - Kraut Buster
+    added_at: '2026-11-09T02:47:52.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Alchemical Works
+    url: https://www.alchemical-works.com/
+    description: Independent studio at Gutenberg Digital Hub making systems-heavy games, starting with BattleJuice Alchemist.
+    hq:
+      city: Mainz
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - BattleJuice Alchemist
+    social:
+      instagram: https://www.instagram.com/alchemicalworks/
+    added_at: '2026-11-09T02:47:52.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ION LANDS
+    url: https://store.steampowered.com/developer/ionlands
+    description: German indie studio behind the cyberpunk delivery-driver game Cloudpunk and the city builder Nivalis Nights.
+    hq:
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Cloudpunk
+      - 'Cloudpunk: City of Ghosts'
+      - Nivalis Nights
+      - Phoning Home
+    added_at: '2026-11-09T02:47:52.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Grimlore Games
+    url: https://grimloregames.com/
+    description: THQ Nordic studio developing the SpellForce 3 series and Titan Quest II for PC and consoles.
+    hq:
+      city: Munich
+      country: Germany
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+    parent: THQ Nordic
+    founded: 2013
+    careers: https://grimloregames.com/jobs/
+    notable:
+      - SpellForce 3
+      - 'SpellForce 3: Fallen God'
+      - 'SpellForce 3: Reforced'
+      - Titan Quest II
+    added_at: '2026-11-09T02:47:52.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lotum
+    url: https://lotum.com/
+    description: Mobile developer of social word and quiz games such as 4 Pics 1 Word, Quiz Planet and Word Blitz.
+    hq:
+      city: Bad Nauheim
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 4 Pics 1 Word
+      - Quiz Planet
+      - Word Blitz
+    added_at: '2026-11-09T02:47:52.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Neopoly
+    url: https://neopoly.de/
+    description: Owner-run studio developing multiplayer online games and gamification experiences for web, mobile and live events since 1998.
+    hq:
+      city: Bochum
+      country: Germany
+    segments:
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    founded: 1998
+    careers: https://neopoly.de/jobs
+    social:
+      linkedin: https://www.linkedin.com/company/neopoly-gmbh
+    added_at: '2026-11-09T02:47:52.444Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Argonwood
+    url: https://argonwood.com/
+    description: Indie studio behind the turn-based medieval strategy game Rising Lords for PC, Xbox and Switch.
+    hq:
+      city: Neunkirchen-Seelscheid
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Rising Lords
+    added_at: '2026-11-09T02:47:52.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AsgardSoft
+    url: https://asgardsoft.com/
+    description: Mobile developer of puzzle, word, jump-and-run and adventure games with more than 25 million downloads.
+    hq:
+      city: Görlitz
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bad Monkee
+    url: https://badmonkee.de/
+    description: Mobile game studio using AI-driven workflows to build casual idle, racing and builder games.
+    hq:
+      city: Hamburg
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://badmonkee.de/en/
+    notable:
+      - 'Tiny Landlord: Idle City Sim'
+      - 'Speed Island: Fun Racer'
+      - Tiny Dungeon Warriors
+    added_at: '2026-11-09T02:47:52.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cubidoo
+    url: https://cubidoo.de/
+    description: Indie studio making playful mobile games for children and families such as Lily & Leo and Cubimals.
+    hq:
+      city: Hürth
+      country: Germany
+    segments:
+      - kids-edu
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Lily & Leo
+      - Cubimals
+      - I am OK
+    added_at: '2026-11-09T02:47:52.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DEFICIT Games
+    url: https://deficit.games/
+    description: Lower Franconia studio making VR games and experiences since 2017, known for VR Skater.
+    hq:
+      city: Wiesentheid
+      country: Germany
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    founded: 2017
+    notable:
+      - VR Skater
+    added_at: '2026-11-09T02:47:52.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Digidiced
+    url: https://digidiced.com/
+    description: Berlin studio developing digital versions of tabletop board games for PC and mobile.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    added_at: '2026-11-09T02:47:52.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Direfang
+    url: https://direfang.com/
+    description: Indie studio making co-op fantasy games, including the city builder Stonedeep and the upcoming Timberquest.
+    hq:
+      city: Eberbach
+      country: Germany
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Stonedeep
+      - Timberquest
+    added_at: '2026-11-09T02:47:52.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dutyfarm
+    url: https://www.dutyfarm.com/
+    description: Develops branded browser and event games, advent calendars and trade-fair games for brands and agencies.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - co-dev
+    platforms:
+      - web
+      - mobile
+    added_at: '2026-11-09T02:47:52.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Edkon Games
+    url: https://edkongames.com/
+    description: Berlin mobile developer of online multiplayer shooters such as Modern Ops and Fire Strike.
+    hq:
+      city: Berlin
+      country: Germany
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://edkongames.com/
+    notable:
+      - Modern Ops
+      - Fire Strike
+      - 'World War 2: Battle Combat'
+      - Crime Revolt
+    added_at: '2026-11-09T02:47:52.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

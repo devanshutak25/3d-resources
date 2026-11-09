@@ -84,7 +84,7 @@ studios:
     url: https://sprout.cc/
     description: Boston design and innovation agency offering product rendering and CGI alongside product, packaging and brand design.
     hq:
-      city: Boston, MA
+      city: Boston
       country: United States
     disciplines:
       - product-viz
@@ -379,7 +379,7 @@ studios:
     url: https://www.groovejones.com/
     description: Dallas studio building AR, VR, WebGL and AI experiences and apps for brands.
     hq:
-      city: Dallas, TX
+      city: Dallas
       country: United States
     disciplines:
       - xr
@@ -795,7 +795,7 @@ studios:
     url: https://localprojects.com/
     description: New York exhibition and media design firm creating interactive experiences for museums and public spaces.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - experiential
@@ -817,7 +817,7 @@ studios:
     url: https://www.bluecadet.com/
     description: Philadelphia experience design studio building interactive exhibits, media installations and digital products for museums and brands.
     hq:
-      city: Philadelphia, PA
+      city: Philadelphia
       country: United States
     disciplines:
       - experiential
@@ -1015,7 +1015,7 @@ studios:
     url: https://prologue.com/
     description: Venice, California design studio making main titles, film and TV graphics, commercials and experiential work.
     hq:
-      city: Venice, CA
+      city: Venice
       country: United States
     disciplines:
       - title-design

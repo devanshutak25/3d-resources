@@ -1,0 +1,871 @@
+studios:
+  - name: Vizbo
+    url: https://www.vizbo.no/
+    description: Visualisation studio making photoreal 3D images of property projects before construction.
+    hq:
+      city: Kristiansand
+      country: Norway
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/vizbo.no
+      linkedin: https://www.linkedin.com/company/vizbo
+    added_at: '2026-11-09T02:47:52.541Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Helmet
+    url: https://helmet.no/
+    description: Film production and visual effects studio.
+    hq:
+      city: Trondheim
+      country: Norway
+    disciplines:
+      - vfx
+      - live-action
+    markets:
+      - film
+      - advertising
+    social:
+      instagram: https://www.instagram.com/helmetfilmsvfx
+      linkedin: https://no.linkedin.com/company/helmet-films-visual-effects
+    added_at: '2026-11-09T02:47:52.542Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Netron
+    url: https://netron.no/
+    description: Studio making immersive digital installations and exhibitions for museums and brands since 2002.
+    hq:
+      city: Fredrikstad
+      country: Norway
+    offices:
+      - city: Oslo
+        country: Norway
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    founded: 2002
+    added_at: '2026-11-09T02:47:52.543Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Vanite
+    url: https://vanite.fi/
+    description: Artist-driven animation studio making 3D, 2D and VFX work.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - games
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/vaniteofficial
+    added_at: '2026-11-09T02:47:52.544Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Király
+    url: https://www.kiraly.tv/
+    description: Animation and VFX studio making commercials and brand films.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+    social:
+      instagram: https://www.instagram.com/kiraly.tv
+    added_at: '2026-11-09T02:47:52.545Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Outo
+    url: https://outo.fi/
+    description: Animation studio making animated films for companies and public organisations.
+    hq:
+      city: Oulu
+      country: Finland
+    offices:
+      - city: Helsinki
+        country: Finland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/studioouto
+      linkedin: https://www.linkedin.com/company/studioouto
+      vimeo: https://vimeo.com/studioouto
+    added_at: '2026-11-09T02:47:52.546Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BTQ
+    url: https://www.btq.fi/
+    description: Motion-first creative studio making animation and visual identity work for brands.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/btqstudio
+      linkedin: https://fi.linkedin.com/company/btqstudio
+    added_at: '2026-11-09T02:47:52.547Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kuvakerronta
+    url: https://www.kuvakerronta.com/
+    description: Animation studio making 2D and 3D explainer and marketing videos.
+    hq:
+      country: Finland
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/kuvakerronta
+      linkedin: https://www.linkedin.com/company/kuvakerronta
+    added_at: '2026-11-09T02:47:52.548Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: POF Visuals
+    url: https://pofvisuals.fi/
+    description: 3D visualisation studio making renderings for property projects and game models.
+    hq:
+      city: Tampere
+      country: Finland
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/pofvisuals
+      linkedin: https://fi.linkedin.com/company/pofvisuals
+    added_at: '2026-11-09T02:47:52.549Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: FLC Helsinki
+    url: https://flchelsinki.com/
+    description: Post-production studio doing retouching, 3D and CGI for photography and campaigns.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - cg
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.550Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lamp Factory
+    url: https://www.lamp-factory.com/
+    description: xR studio doing streaming and virtual production with Unreal Engine.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - virtual-production
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.551Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Toast
+    url: https://toast.fi/
+    description: 'Post-production house finishing commercials: VFX, compositing, 3D, grading and online.'
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.552Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3D Taito
+    url: https://3dtaito.fi/
+    description: Visualisation company making architectural renderings and 3D images for property developers and builders.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/3dtaitooy
+    added_at: '2026-11-09T02:47:52.553Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Go Visual
+    url: https://www.govisual.fi/
+    description: Visualisation studio making renderings of new-build homes, properties and public projects for marketing.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      linkedin: https://www.linkedin.com/company/go-visual-oy
+    added_at: '2026-11-09T02:47:52.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sonagraf
+    url: https://sonagraf.com/
+    description: Real-time 3D visualisation studio making photoreal CG for industrial clients in Finland and Japan.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - product-viz
+      - interactive
+      - cg
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Valobello
+    url: https://www.valobello.fi/
+    description: Architectural illustration studio making renderings for residential design and developers.
+    hq:
+      city: Espoo
+      country: Finland
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/valobelloillustration
+      linkedin: https://www.linkedin.com/company/valobello
+    added_at: '2026-11-09T02:47:52.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Auden Studio
+    url: https://www.audenstudio.com/
+    description: Creative studio making conceptual 3D images and digital sets for brands.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - cg
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lightstone Productions
+    url: https://www.lightstonevfx.com/
+    description: Visual media studio making 3D motion graphics, DOOH and FOOH spots and hybrid productions.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - motion-design
+      - cg
+      - vfx
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/lightstone.productions
+      linkedin: https://www.linkedin.com/company/lightstoneproductions
+    added_at: '2026-11-09T02:47:52.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Stereoscape
+    url: https://stereoscape.com/
+    description: Creative studio making interactive 3D, AR and VR product communication for marketing and training.
+    hq:
+      city: Helsinki
+      country: Finland
+    disciplines:
+      - interactive
+      - xr
+      - product-viz
+    markets:
+      - brand
+    social:
+      linkedin: https://linkedin.com/company/stereoscape
+      instagram: https://www.instagram.com/stereoscape
+    added_at: '2026-11-09T02:47:52.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Circa Entertainment
+    url: https://www.circaentertainment.com/
+    description: Animation studio making 3D animated shorts, game cinematics, gameplay animation and VFX.
+    hq:
+      city: Tallinn
+      country: Estonia
+    offices:
+      - city: Warsaw
+        country: Poland
+    disciplines:
+      - 3d-animation
+      - cinematics
+      - vfx
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/circavfx
+      linkedin: https://www.linkedin.com/company/circa-entertainment
+    added_at: '2026-11-09T02:47:52.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Evoke Studios
+    url: https://evokestudios.io/
+    description: Creative studio making show visuals, real-time content and virtual production for tours, exhibitions and brands.
+    hq:
+      city: Tallinn
+      country: Estonia
+    disciplines:
+      - experiential
+      - virtual-production
+      - motion-design
+    markets:
+      - music-video
+      - brand
+    founded: 2019
+    social:
+      vimeo: https://vimeo.com/evokestudiosou
+      instagram: https://www.instagram.com/evokestudiosou
+    added_at: '2026-11-09T02:47:52.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Shade
+    url: https://www.shadestudio.lv/
+    description: Animation studio making motion graphics, animated video and event visuals for brands.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - experiential
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/shadestudio
+      linkedin: https://www.linkedin.com/company/shadestudio
+    added_at: '2026-11-09T02:47:52.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: KSTUDIO
+    url: https://kstudio.lv/
+    description: Creative production studio making ads, trailers, playables and explainers for games and apps since 2018.
+    hq:
+      city: Jūrmala
+      country: Latvia
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - cinematics
+    markets:
+      - games
+      - advertising
+    founded: 2018
+    careers: https://kstudio.lv/careers
+    social:
+      instagram: https://www.instagram.com/kstudio.lv
+      linkedin: https://www.linkedin.com/company/kstudiolv
+    added_at: '2026-11-09T02:47:52.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: jauda.tv
+    url: https://jauda.tv/
+    description: Animation studio making campaign films, character worlds and OOH motion for brands.
+    hq:
+      city: Riga
+      country: Latvia
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      vimeo: https://vimeo.com/jauda
+      instagram: https://www.instagram.com/jauda.tv
+    added_at: '2026-11-09T02:47:52.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Noisy Owls
+    url: https://noisyowls.com/
+    description: Digital art studio making high-end visualisations, animations and interactive 3D.
+    hq:
+      city: Vilnius
+      country: Lithuania
+    disciplines:
+      - archviz
+      - 3d-animation
+      - interactive
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/noisyowls
+    added_at: '2026-11-09T02:47:52.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Explainers.lt
+    url: https://explainers.lt/
+    description: Studio making animated explainer, promo and tutorial videos for businesses.
+    hq:
+      country: Lithuania
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Motion Grinder
+    url: https://www.motiongrinder.com/
+    description: Animation studio doing facial and body animation, performance capture and head-mounted camera services for games and film.
+    hq:
+      city: Uppsala
+      country: Sweden
+    disciplines:
+      - 3d-animation
+      - mocap
+      - outsourcing
+    markets:
+      - games
+      - film
+    founded: 2013
+    social:
+      instagram: https://www.instagram.com/motiongrinder
+      linkedin: https://www.linkedin.com/company/motiongrinder
+    added_at: '2026-11-09T02:47:52.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Engage Studios
+    url: https://engagestudios.com/
+    description: CGI studio making product visualisation, films and digital tools for brands such as Scania, Volvo and Thule.
+    hq:
+      city: Gothenburg
+      country: Sweden
+    disciplines:
+      - product-viz
+      - cg
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    founded: 2009
+    social:
+      instagram: https://www.instagram.com/engage_studios_sweden
+      linkedin: https://www.linkedin.com/company/engage-studios-gbg
+    added_at: '2026-11-09T02:47:52.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DVA
+    url: https://dva.studio/
+    description: Creative technology studio building interactive digital experiences and campaigns for brands.
+    hq:
+      city: Stockholm
+      country: Sweden
+    disciplines:
+      - interactive
+      - xr
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lani Pixels
+    url: https://lanipixels.com/
+    description: Independent animation studio making 3D character animation, film and real-time 3D for clients such as LEGO and DR.
+    hq:
+      country: Denmark
+    disciplines:
+      - 3d-animation
+      - vfx
+      - interactive
+    markets:
+      - brand
+      - episodic
+    notable:
+      - The LEGO Story
+      - Fortidens hemmeligheder (DR)
+    added_at: '2026-11-09T02:47:52.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Xvision
+    url: https://xvision.no/
+    description: Studio making 3D visualisation, animation, virtual production and interactive VR/AR content.
+    hq:
+      city: Oslo
+      country: Norway
+    disciplines:
+      - 3d-animation
+      - virtual-production
+      - xr
+    markets:
+      - brand
+    social:
+      linkedin: https://www.linkedin.com/company/xvision
+    added_at: '2026-11-09T02:47:52.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Oladesign
+    url: https://www.oladesign.fi/
+    description: Studio making 3D visualisation and architectural renderings alongside graphic design.
+    hq:
+      country: Finland
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+      - brand
+    social:
+      instagram: https://www.instagram.com/oladesignfi
+      linkedin: https://www.linkedin.com/company/oladesign-fi
+    added_at: '2026-11-09T02:47:52.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animafilm Studio
+    url: https://www.animafilm.studio/
+    description: Hand-drawn 2D animation studio in Baku making animated shorts, a TV series and commissioned films.
+    hq:
+      city: Baku
+      country: Azerbaijan
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Izzy and Piti
+      - Porridge Monster
+      - Nargiz
+    social:
+      instagram: https://www.instagram.com/animafilm.studio/
+    added_at: '2026-11-09T02:47:52.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Székelyföldi Legendárium
+    url: https://legendarium.ro/
+    description: Animation studio in Szeklerland producing children's cartoon series and short films based on regional legends.
+    hq:
+      country: Romania
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2012
+    notable:
+      - A varázspatkó (The Magic Horseshoe)
+    social:
+      instagram: https://www.instagram.com/legendarium.ro/
+    added_at: '2026-11-09T02:47:52.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Meristem Film
+    url: https://meristemfilm.com/
+    description: Independent animation studio making auteur shorts, children's content and mixed-media animated films.
+    hq:
+      country: Bulgaria
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Furrow
+      - Sisi the Shuttlecock
+      - The Girl Without Arms
+      - Syzygy
+    added_at: '2026-11-09T02:47:52.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ginko Visuals
+    url: https://ginkovis.com/
+    description: Archviz studio in Lviv making exterior and interior renderings, animations, 3D floor plans and interactive VR.
+    hq:
+      city: Lviv
+      country: Ukraine
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/ginko.visuals/
+      linkedin: https://www.linkedin.com/company/ginkovis/
+    added_at: '2026-11-09T02:47:52.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Moonhauzen
+    url: http://moonhauzen.com/
+    description: 3D animation studio in Lviv making character-led promo animation, interactive apps and illustration for brands.
+    hq:
+      city: Lviv
+      country: Ukraine
+    disciplines:
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Samsung Ukraine holiday film
+      - Oschadbank app promo
+    social:
+      instagram: https://www.instagram.com/moonhauzen_animation
+    added_at: '2026-11-09T02:47:52.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cre8pics Studio
+    url: https://www.cre8pics.com/
+    description: B2B game art outsourcing studio making 2D art, 2D animation and UI for mobile and online games.
+    hq:
+      city: Nicosia
+      country: Cyprus
+    disciplines:
+      - outsourcing
+      - 2d-animation
+    markets:
+      - games
+    added_at: '2026-11-09T02:47:52.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Digitoons Animation Studio
+    url: https://www.digitoons.com.tr/
+    description: Independent animation studio in Istanbul making original animated feature films.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    notable:
+      - Square Heads (Kare Kafalar, 2025)
+    added_at: '2026-11-09T02:47:52.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Antevasin
+    url: https://www.antevasin.rs/
+    description: Belgrade studio making architectural, interior and product visualizations and short CGI animations.
+    hq:
+      city: Belgrade
+      country: Serbia
+    disciplines:
+      - archviz
+      - product-viz
+    markets:
+      - real-estate
+    notable:
+      - BW Diva, Belgrade Waterfront
+    social:
+      instagram: https://www.instagram.com/antevasin.archviz
+      linkedin: https://www.linkedin.com/company/antevasin
+      vimeo: https://www.vimeo.com/Antevasin
+    added_at: '2026-11-09T02:47:52.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Trick Makers
+    url: https://trickmakersstudio.com/
+    description: VFX studio in Tbilisi doing visual effects, on-set supervision and previs for feature films, commercials and games.
+    hq:
+      city: Tbilisi
+      country: Georgia
+    disciplines:
+      - vfx
+      - previs
+    markets:
+      - film
+      - advertising
+      - games
+    founded: 2019
+    notable:
+      - The Other Me
+    social:
+      linkedin: https://www.linkedin.com/company/trickmakers/
+    added_at: '2026-11-09T02:47:52.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nongravital
+    url: https://nongravital.com/
+    description: Istanbul 3D and immersive studio making CGI campaigns for the Las Vegas Sphere, LED-volume worlds and 360-degree museum rooms.
+    hq:
+      city: Istanbul
+      country: Turkey
+    disciplines:
+      - cg
+      - 3d-animation
+      - experiential
+      - virtual-production
+    markets:
+      - advertising
+      - brand
+    founded: 2020
+    notable:
+      - Las Vegas Sphere campaigns
+      - Riyadh Air LED-volume worlds
+      - Ephesus Experience Museum
+    added_at: '2026-11-09T02:47:52.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: QSTUDIO
+    url: https://www.qstudio.com.ua/en
+    description: Kyiv production studio making commercials, 2D and 3D animation and photo content for brands.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wingingstones Animation
+    url: https://wingingstones.com/
+    description: 2D and 3D animation and motion design studio in Gyumri making explainer videos and AI-assisted video for brands.
+    hq:
+      city: Gyumri
+      country: Armenia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2018
+    added_at: '2026-11-09T02:47:52.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Emitter
+    url: https://emitter.tv/
+    description: Bucharest studio for CGI, VFX and art direction on commercials for European brands.
+    hq:
+      city: Bucharest
+      country: Romania
+    offices:
+      - city: Southsea
+        country: United Kingdom
+    disciplines:
+      - cg
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - Lenor
+      - FIBA
+      - Ursus
+      - PPC
+    added_at: '2026-11-09T02:47:52.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: INX Films
+    url: https://www.inxfilms.com/
+    description: Video studio making motion graphics, animation and video production for brands in the US and Europe.
+    hq:
+      country: Romania
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MULTEO.BiZ
+    url: https://www.multeo.biz/
+    description: Animation studio in Dnipro producing 2D animated series and commissioned animated content.
+    hq:
+      city: Dnipro
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kimonos Animation Studio
+    url: https://www.kimonosartcenter.com/kimonosanimation
+    description: Animation studio in Paphos with 2D, stop-motion and 3D facilities, producing its own and commissioned animated films.
+    hq:
+      city: Paphos
+      country: Cyprus
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - 3d-animation
+    markets:
+      - film
+    added_at: '2026-11-09T02:47:52.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OX Visual
+    url: https://oxvisual.com/
+    description: Architectural visualization studio in Kyiv making stills, animations and VR experiences for developers and architects.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/oxvisual/
+    added_at: '2026-11-09T02:47:52.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AstraPoly
+    url: https://astrapoly.com/
+    description: Bulgarian 3D visualization studio making product and interior renders, instructional videos and technical animation.
+    hq:
+      country: Bulgaria
+    disciplines:
+      - product-viz
+      - archviz
+      - 3d-animation
+    markets:
+      - brand
+      - real-estate
+    added_at: '2026-11-09T02:47:52.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

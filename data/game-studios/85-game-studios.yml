@@ -1,0 +1,82 @@
+studios:
+  - name: DINOGOD
+    url: https://dinogod.com/
+    description: Studio founded in 2019 that makes video, board and card games, including the space western Bounty Star.
+    hq:
+      city: Phoenix
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2019
+    notable:
+      - Bounty Star
+    added_at: '2026-11-09T02:47:52.804Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Burst2Flame Games
+    url: https://www.burst2flame.com/
+    description: Indie studio focused on online co-op games, including the turn-based RPG Stolen Realm.
+    hq:
+      city: Oakhurst
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Stolen Realm
+      - Stolen Realm Survivors
+    added_at: '2026-11-09T02:47:52.805Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dreamlit
+    url: https://www.dreamlit.games/
+    description: Studio making Towers of Aghasba, an open-world game about building villages and growing ecosystems.
+    hq:
+      city: West Covina
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Towers of Aghasba
+    added_at: '2026-11-09T02:47:52.806Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Reflection Games
+    url: https://www.reflection.games/
+    description: Studio that made the mobile strategy game Rift Wars.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Rift Wars
+    added_at: '2026-11-09T02:47:52.807Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Big Red Button Entertainment
+    url: https://brbent.com/
+    description: Southern California co-development studio founded in 2009 that builds games and real-time tools for publishers and media companies.
+    hq:
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2009
+    social:
+      linkedin: https://www.linkedin.com/company/big-red-button-entertainment-inc.
+    added_at: '2026-11-09T02:47:52.808Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

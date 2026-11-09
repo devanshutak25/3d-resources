@@ -1,0 +1,932 @@
+studios:
+  - name: iklipse
+    url: https://iklipseworld.com/
+    description: AI ad and video production studio in Paphos making AI commercials, social video ads and AI product imagery.
+    hq:
+      city: Paphos
+      country: Cyprus
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 7030.studio
+    url: https://7030.studio/en
+    description: Ukrainian 2D animation studio making explainer videos, product demos and educational cartoons for businesses.
+    hq:
+      country: Ukraine
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T02:47:52.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: JEMADS
+    url: https://jemads.ai/
+    description: Ukrainian AI production and advertising agency making AI commercials, series and films with an in-house team of AI specialists.
+    hq:
+      country: Ukraine
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: H7-25
+    url: https://h725.studio/
+    description: Boutique 3D animation and VFX studio making commercials and brand films for food brands and streaming platforms.
+    hq:
+      city: Parma
+      country: Italy
+    disciplines:
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Maxibon Romeo & Juliet (Froneri)
+      - Parmareggio spots
+    added_at: '2026-11-09T02:47:52.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lineamentum
+    url: https://www.lineamentum.it/
+    description: VFX vendor for feature films and commercials, covering on-set supervision, CG, FX simulation and compositing.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - film
+      - advertising
+    added_at: '2026-11-09T02:47:52.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blackstone Studio
+    url: https://www.blackstonestudio.it/
+    description: Young VFX studio doing compositing and digital effects for Italian films and TV series.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    notable:
+      - Il rumore delle cose nuove
+      - Peccato
+    added_at: '2026-11-09T02:47:52.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Frame by Frame
+    url: https://frame.it/en/
+    description: Post-production and VFX company with editing, grading, VFX and generative AI units for cinema, streaming and advertising.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Siccità
+    social:
+      instagram: https://www.instagram.com/framebyframe_it
+    added_at: '2026-11-09T02:47:52.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hive Division
+    url: https://www.hivedivision.net/
+    description: Production service and VFX company doing visual effects, in-camera VFX and cinematic VR for film, series and ads.
+    hq:
+      city: Asolo
+      country: Italy
+    disciplines:
+      - vfx
+      - virtual-production
+      - xr
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-09T02:47:52.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: On Air Milano
+    url: https://www.onairmilano.tv/
+    description: Production and post house with a virtual production studio, covering TV shows, fiction, compositing and 2D/3D graphics.
+    hq:
+      city: Milan
+      country: Italy
+    disciplines:
+      - virtual-production
+      - live-action
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    founded: 1991
+    social:
+      instagram: https://instagram.com/onair_milano
+    added_at: '2026-11-09T02:47:52.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Chromatica
+    url: https://www.chromatica.it/
+    description: VFX studio for art-house cinema and drama series, with three David di Donatello wins for digital effects.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2009
+    notable:
+      - La grande bellezza
+      - Pinocchio (2019)
+      - La chimera
+      - The Leopard
+    social:
+      linkedin: https://www.linkedin.com/company/chromatica
+    added_at: '2026-11-09T02:47:52.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Visualogie
+    url: https://www.visualogie.com/ita/
+    description: VFX boutique for Italian film and TV, run by digital effects veterans with a filmography of 300+ titles.
+    hq:
+      city: Rome
+      country: Italy
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2004
+    social:
+      linkedin: https://www.linkedin.com/company/visualogie/
+    added_at: '2026-11-09T02:47:52.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Raised By Monsters
+    url: https://www.raisedbymonsters.eu/
+    description: Unreal Engine studio with a motion capture stage, doing mocap, cinematics, previs and real-time projects for games and film.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - mocap
+      - cinematics
+      - previs
+      - virtual-production
+    markets:
+      - games
+      - film
+    social:
+      instagram: https://www.instagram.com/raisedbymonsters_studio
+      linkedin: https://www.linkedin.com/company/raised-by-monsters/
+    added_at: '2026-11-09T02:47:52.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Digital Lighthouse
+    url: https://digitallighthouse.it/
+    description: Media house making virtual reconstructions, VFX, animation and VR for cinema, TV and digital heritage.
+    hq:
+      country: Italy
+    offices:
+      - city: Faenza
+        country: Italy
+      - city: Montreal
+        country: Canada
+    disciplines:
+      - vfx
+      - xr
+      - scanning
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Perfect Storm Studio
+    url: https://www.perfectstormstudio.com/
+    description: Creative production studio mixing 3D VFX, motion design, animation and live action for brand campaigns.
+    hq:
+      city: Lisbon
+      country: Portugal
+    disciplines:
+      - vfx
+      - motion-design
+      - 3d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/perfect_storm_studios/
+      linkedin: https://www.linkedin.com/company/perfect-storm-studio/
+    added_at: '2026-11-09T02:47:52.604Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HUOU
+    url: https://huou.es/
+    description: 3D animation and CGI studio making fake out-of-home spots, DOOH screens, video mapping and live show visuals.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - 3d-animation
+      - cg
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/huou.es/
+      linkedin: https://www.linkedin.com/company/huou/
+    added_at: '2026-11-09T02:47:52.605Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: La Huella Efectos Digitales
+    url: https://www.lahuellafx.com/
+    description: Full-service VFX studio doing CGI, compositing, grading and broadcast motion graphics for ads and TV.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    founded: 1999
+    added_at: '2026-11-09T02:47:52.606Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sr.Gordo
+    url: https://www.srgordo.com/
+    description: Motion graphics studio using AI tools for TV spots, storyboards, event videos and social content.
+    hq:
+      city: Alcobendas
+      country: Spain
+    disciplines:
+      - motion-design
+      - ai-production
+    markets:
+      - advertising
+    added_at: '2026-11-09T02:47:52.607Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Suricata Lab
+    url: https://suricata.tv/
+    description: Creative studio doing animation, VFX, branding and illustration for brands and series.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - motion-design
+      - vfx
+    markets:
+      - advertising
+      - brand
+    notable:
+      - 'La Liga: Caballo de Troya Digital'
+      - 'Iberia: Only in Madrid'
+    added_at: '2026-11-09T02:47:52.608Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: +34 Virtual Production
+    url: https://mas34vp.com/
+    description: Virtual production and XR stage studio for ads, films and live events.
+    hq:
+      city: Alcorcón
+      country: Spain
+    disciplines:
+      - virtual-production
+      - xr
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-09T02:47:52.609Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sopa de Sobre
+    url: https://www.sopadesobre.com/
+    description: Animation studio doing 2D/3D animation, motion graphics, design and illustration for ads, film and TV.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/sopadesobre_animacion
+      vimeo: https://vimeo.com/sopadesobre/
+    added_at: '2026-11-09T02:47:52.610Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Efectoscopio
+    url: https://efectoscopio.com/
+    description: VFX studio for feature films, series and ads, formed in 2024 by the former Dare Planet Studio team.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2024
+    social:
+      instagram: https://www.instagram.com/efectoscopio_vfx/
+      linkedin: https://www.linkedin.com/company/efectoscopiovfx
+      vimeo: https://vimeo.com/efectoscopio
+    added_at: '2026-11-09T02:47:52.611Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Miopía Efectos Visuales
+    url: https://miopiafx.com/
+    description: VFX company with 20+ years of film, TV and ad work, from script breakdown and on-set supervision to delivery.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    social:
+      instagram: https://www.instagram.com/miopiavfx/
+      linkedin: https://www.linkedin.com/company/miopiafx/
+      vimeo: https://vimeo.com/miopiafx
+    added_at: '2026-11-09T02:47:52.612Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Roots Studios
+    url: https://www.roots-studios.com/
+    description: VFX and post-production studio for feature films and streaming series.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T02:47:52.613Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Free Your Mind
+    url: https://www.fym.tv/
+    description: Post-production house with 100+ staff doing VFX, CGI, grading, motion graphics and virtual production for film, TV and ads.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+      - cg
+      - motion-design
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2001
+    social:
+      instagram: https://www.instagram.com/freeyourmind_studio/
+      linkedin: https://www.linkedin.com/company/free-your-mind---fym/
+    added_at: '2026-11-09T02:47:52.614Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blackout Studio
+    url: https://blackout-av.com/
+    description: Post-production studio doing 2D/3D, VFX, grading and AI-assisted work for ads and film.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+    added_at: '2026-11-09T02:47:52.615Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mapping ON
+    url: https://www.mappingon.es/
+    description: Studio designing architectural video mapping, 360-degree immersive installations, interactive experiences and live VJ shows.
+    hq:
+      city: Madrid
+      country: Spain
+    disciplines:
+      - experiential
+      - interactive
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/mappingon
+      linkedin: https://www.linkedin.com/company/mappingon
+      vimeo: https://vimeo.com/mappingon
+    added_at: '2026-11-09T02:47:52.616Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dog Ears
+    url: https://cheersdogears.com/
+    description: Derry studio that develops and produces children's animation, co-producing the preschool series Puffin Rock with Cartoon Saloon.
+    hq:
+      city: Derry
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Puffin Rock
+      - Puffin Rock and the New Friends
+    social:
+      instagram: https://www.instagram.com/cheersdogears/
+      linkedin: https://www.linkedin.com/company/dog-ears/
+    added_at: '2026-11-09T02:47:52.617Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Trickshot Films
+    url: https://trickshotfilms.com/
+    description: Dublin animation studio making short films, TV series and commercials, plus previs for live-action productions.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - 3d-animation
+      - previs
+    markets:
+      - episodic
+      - advertising
+      - film
+    notable:
+      - Cod & Chips
+      - The Lost Letter
+    added_at: '2026-11-09T02:47:52.618Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mativision
+    url: https://mativision.com/
+    description: London XR studio making 360 video livestreams, VR training and immersive brand experiences since 2005.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+    markets:
+      - brand
+      - music-video
+    founded: 2005
+    notable:
+      - MUSE 360 app
+      - MTV EMA livestreams
+      - Slash 360 iOS app
+    social:
+      instagram: https://www.instagram.com/mativision/
+      linkedin: https://www.linkedin.com/company/mativision/
+    added_at: '2026-11-09T02:47:52.619Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sarner
+    url: https://sarner.com/
+    description: Kingston upon Thames studio that plans, designs and delivers immersive media experiences for museums, theme parks and visitor attractions.
+    hq:
+      city: Kingston upon Thames
+      country: United Kingdom
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/sarner.international/
+      linkedin: https://www.linkedin.com/company/sarner-ltd/
+      vimeo: https://vimeo.com/user45222600
+    added_at: '2026-11-09T02:47:52.620Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Yatta
+    url: https://yatta.studio/
+    description: Bristol animation and motion studio making brand motion, illustration-led animation and 3D campaign work.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    notable:
+      - London City Lionesses matchday motion
+      - Pepsi Sweet Room
+      - ManyPets Tailmates
+    social:
+      instagram: https://www.instagram.com/studio_yatta/
+      linkedin: https://www.linkedin.com/company/studio-yatta/
+      vimeo: https://vimeo.com/user127805959
+    added_at: '2026-11-09T02:47:52.621Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animated Magic
+    url: https://www.animatedmagic.co.uk/
+    description: Bath animation studio producing explainers, illustration and video for brands in attractions, healthcare and tech.
+    hq:
+      city: Bath
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T02:47:52.622Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sons of Graham
+    url: https://www.sonsofgraham.com/
+    description: Bristol motion design studio making explainer, hand-drawn and motion graphics films for organisations, brands and non-profits.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.623Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wigwam Visual
+    url: https://www.wigwamvisual.com/
+    description: Bristol archviz studio making CG stills, animation and interactive content for unbuilt architecture projects.
+    hq:
+      city: Bristol
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - interactive
+    markets:
+      - real-estate
+    notable:
+      - Canons Wharf Bristol
+      - Sydenham High School London
+      - 2410 Columbia Street Vancouver
+    social:
+      instagram: https://www.instagram.com/wigwamvisual
+    added_at: '2026-11-09T02:47:52.624Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Aniventure
+    url: https://www.aniventure.com/
+    description: London-led company that develops, finances and produces animated feature films with partner studios.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+    markets:
+      - film
+    founded: 2014
+    notable:
+      - Animal Farm
+      - Hitpig
+      - 'Riverdance: The Animated Adventure'
+      - Stitch Head
+    social:
+      instagram: https://www.instagram.com/aniventure_studios/
+      vimeo: https://vimeo.com/user139994657
+    added_at: '2026-11-09T02:47:52.625Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: EGG Post Production & VFX
+    url: https://egg.ie/
+    description: Dublin post-production and VFX facility founded in 2004, handling picture, sound and visual effects for film and TV drama.
+    hq:
+      city: Dublin
+      country: Ireland
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+    founded: 2004
+    notable:
+      - Borderline
+    social:
+      instagram: https://www.instagram.com/eggvfx/
+    added_at: '2026-11-09T02:47:52.626Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Enter Yes
+    url: https://www.enteryes.com/
+    description: Belfast independent studio making animated films, VR, motion graphics, VFX and video games, with a Dublin office.
+    hq:
+      city: Belfast
+      country: United Kingdom
+    offices:
+      - city: Dublin
+        country: Ireland
+    disciplines:
+      - xr
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - games
+    notable:
+      - A Wind and the Shadow (with Out of Orbit)
+    social:
+      instagram: https://www.instagram.com/enteryestm
+    added_at: '2026-11-09T02:47:52.627Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Stormy Studio
+    url: https://stormystudio.com/
+    description: Plymouth animation studio making 2D and 3D explainer, training and mode-of-action videos for businesses and pharma since 2013.
+    hq:
+      city: Plymouth
+      country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - medical-science
+    founded: 2013
+    added_at: '2026-11-09T02:47:52.628Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: The Collective CGI
+    url: https://www.collective-agency.com/
+    description: Leeds archviz studio producing CGI, animation and verified views to market property developments.
+    hq:
+      city: Leeds
+      country: United Kingdom
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    notable:
+      - Miles Platting
+      - Huddersfield Gardens
+      - The Pines
+    social:
+      instagram: https://www.instagram.com/the_collective_cgi
+      linkedin: https://uk.linkedin.com/company/the-collective-cgi
+      vimeo: https://vimeo.com/user56655995
+    added_at: '2026-11-09T02:47:52.629Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Image Foundry
+    url: https://www.imagefoundry.co.uk/
+    description: Manchester CGI studio making product and property marketing imagery and animation, running for 20 years.
+    hq:
+      city: Manchester
+      country: United Kingdom
+    disciplines:
+      - archviz
+      - product-viz
+      - cg
+    markets:
+      - real-estate
+      - brand
+    added_at: '2026-11-09T02:47:52.630Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cahoots Studios
+    url: https://cahootsstudios.com/
+    description: Scottish studio making 2D, 3D and stop-motion animation and CG visual effects for commercials, TV, games and film.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - episodic
+      - games
+      - film
+    notable:
+      - Animal Allsorts (CBeebies)
+    social:
+      instagram: https://www.instagram.com/cahootsstudios/
+      linkedin: https://www.linkedin.com/company/cahoots-studios-ltd/
+      vimeo: https://vimeo.com/cahootsstudios
+    added_at: '2026-11-09T02:47:52.631Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Curious Dreamers
+    url: https://www.curiousdreamers.com/
+    description: Glasgow music and screen studio making animated series, stop-motion films and immersive work, including CBeebies' Hushabye Lullabye.
+    hq:
+      city: Glasgow
+      country: United Kingdom
+    disciplines:
+      - stop-motion
+      - experiential
+    markets:
+      - episodic
+      - film
+    notable:
+      - Hushabye Lullabye
+      - Distance to the Moon
+    social:
+      instagram: https://www.instagram.com/curiousdreamers_official/
+      linkedin: https://www.linkedin.com/company/curious-dreamers/
+    added_at: '2026-11-09T02:47:52.632Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Heehaw
+    url: https://www.heehaw.co.uk/
+    description: Edinburgh production company combining VFX, animation, motion design and live-action video for brands and TV.
+    hq:
+      city: Edinburgh
+      country: United Kingdom
+    disciplines:
+      - vfx
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - brand
+      - episodic
+    notable:
+      - Summerwater (VFX)
+    added_at: '2026-11-09T02:47:52.633Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Liquid City
+    url: https://liquid.city/
+    description: London design and prototyping studio making concept films, prototypes and XR, mobile and AI-glass experiences for technology companies.
+    hq:
+      city: London
+      country: United Kingdom
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T02:47:52.634Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Brave Duck & Robots
+    url: https://www.braveduckandrobots.com/
+    description: English studio designing immersive and interactive experiences for attractions, theme parks and cultural venues.
+    hq:
+      country: United Kingdom
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+    notable:
+      - Pompeii Alive (Warner Bros. Discovery Global Experiences)
+      - The Power of Fun (PortAventura World)
+      - Royal Ballet & Opera
+    social:
+      linkedin: https://www.linkedin.com/company/braveduckandrobots/
+    added_at: '2026-11-09T02:47:52.635Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rúcach
+    url: https://www.rucach.com/
+    description: Galway art services and game development studio providing art direction and illustration for tabletop and video games.
+    hq:
+      city: Galway
+      country: Ireland
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - 'Magic: The Gathering'
+      - Dungeons & Dragons
+      - Empire of Sin
+      - 'Star Trek: Fleet Command'
+    added_at: '2026-11-09T02:47:52.636Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Netflix Animation Studios
+    url: https://www.netflixanimation.com/
+    description: In-house feature animation studio of Netflix, running a full CG pipeline across three locations.
+    hq:
+      city: Burbank
+      country: United States
+    offices:
+      - city: Vancouver
+        country: Canada
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+    markets:
+      - film
+    founded: 2018
+    careers: https://www.netflixanimation.com/
+    social:
+      linkedin: https://www.linkedin.com/company/netflix-animation-studios/
+    added_at: '2026-11-09T02:47:52.637Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bonfire Labs
+    url: https://www.bonfirelabs.com/
+    description: Creative studio making launch films, photoreal product animation, motion graphics and 2D/3D animation for tech brands.
+    hq:
+      city: San Francisco
+      country: United States
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+      - product-viz
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Adobe product launches
+      - Google
+      - GoPro launch content
+      - HPE
+    social:
+      instagram: https://www.instagram.com/bonfirelabs/
+      linkedin: https://www.linkedin.com/company/bonfirelabs/
+    added_at: '2026-11-09T02:47:52.638Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: L.A. Castle Studios
+    url: https://www.lacastlestudios.com/
+    description: Virtual production stages with a library of 250+ real-time sets for features, talk shows and game shows.
+    hq:
+      city: Burbank
+      country: United States
+    offices:
+      - city: Albuquerque
+        country: United States
+    disciplines:
+      - virtual-production
+    markets:
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/lacastlestudios/
+      linkedin: https://www.linkedin.com/company/la-castle-studios
+      vimeo: https://vimeo.com/lacastlestudios
+    added_at: '2026-11-09T02:47:52.639Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PaintScaping
+    url: https://paintscaping.com/
+    description: 3D projection mapping studio producing building-scale shows for zoos, resorts, cities and events.
+    hq:
+      city: Los Angeles
+      country: United States
+    disciplines:
+      - experiential
+    markets:
+      - brand
+    notable:
+      - Bellagio Fountains
+      - San Diego Zoo
+      - Dino Lumina
+      - 2022 NFL Draft
+    social:
+      instagram: https://www.instagram.com/paintscaping/
+      linkedin: http://www.linkedin.com/company/1855863
+    added_at: '2026-11-09T02:47:52.640Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

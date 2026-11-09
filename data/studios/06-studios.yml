@@ -3,7 +3,7 @@ studios:
     url: https://mowe.studio/
     description: Florida motion graphics studio making explainer animation that turns health tech and SaaS products into clear stories.
     hq:
-      city: Hallandale Beach, FL
+      city: Hallandale Beach
       country: United States
     disciplines:
       - motion-design
@@ -180,7 +180,7 @@ studios:
     url: https://nathanlove.com/
     description: New York character animation studio making 2D and 3D mascot and brand work for advertising and entertainment.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - 3d-animation
@@ -253,7 +253,7 @@ studios:
     url: https://www.neonzoo.co/
     description: Washington, DC independent film studio making animation and live-action hybrid films for nonprofits and publishers.
     hq:
-      city: Washington, DC
+      city: Washington
       country: United States
     disciplines:
       - 2d-animation
@@ -322,7 +322,7 @@ studios:
     url: https://www.newfangledstudios.com/
     description: Boston creative studio making social-first, digitally native campaigns for consumer brands.
     hq:
-      city: Boston, MA
+      city: Boston
       country: United States
     disciplines:
       - motion-design
@@ -370,7 +370,7 @@ studios:
     url: https://www.niceshoes.com/
     description: New York post-production studio offering VFX, animation, design, color, edit and immersive work for ads and film.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - vfx
@@ -425,7 +425,7 @@ studios:
     url: https://www.noodleanimation.com/
     description: Chicago motion design and animation studio making brand campaigns and motion toolkits for tech and streaming brands.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     disciplines:
       - motion-design
@@ -633,7 +633,7 @@ studios:
     url: https://oddbeast.tv/
     description: 3D motion and animation studio, formerly Polymath, making brand films, product visuals and VFX for marketing clients.
     hq:
-      city: Newport, KY
+      city: Newport
       country: United States
     disciplines:
       - cg
@@ -656,7 +656,7 @@ studios:
     url: https://oddfellows.tv/
     description: Portland motion design studio building brand worlds, design systems and narrative animation for tech and media brands.
     hq:
-      city: Portland, OR
+      city: Portland
       country: United States
     disciplines:
       - motion-design
@@ -1071,7 +1071,7 @@ studios:
     url: https://pesmotionstudio.com/
     description: Chicago motion design studio led by Pedro Estanga making 3D, 2D and collage-style animation for brands.
     hq:
-      city: Chicago, IL
+      city: Chicago
       country: United States
     offices:
       - city: Buenos Aires

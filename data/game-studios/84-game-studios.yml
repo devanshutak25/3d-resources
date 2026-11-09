@@ -1,0 +1,842 @@
+studios:
+  - name: Steel Wool Studios
+    url: https://www.steelwoolstudios.com/
+    description: Developer and publisher of console, PC, mobile and VR games, including Five Nights at Freddy's entries for ScottGames.
+    hq:
+      city: Oakland
+      country: United States
+    segments:
+      - aa
+      - vr
+    platforms:
+      - pc
+      - console
+      - mobile
+      - vr
+    founded: 2012
+    notable:
+      - 'Five Nights at Freddy''s: Help Wanted'
+      - 'Five Nights at Freddy''s: Security Breach'
+    added_at: '2026-11-09T02:47:52.754Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: WayForward
+    url: https://www.wayforward.com/
+    description: Independent developer and publisher founded in 1990, behind the Shantae series and contract work for major publishers.
+    hq:
+      city: Valencia
+      country: United States
+    segments:
+      - aa
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 1990
+    notable:
+      - Shantae
+      - River City Girls
+    notes: Site refuses scripted TLS fetches (curl and Node); HQ Valencia per Wikipedia. Checked 2026-11-09.
+    added_at: '2026-11-09T02:47:52.755Z'
+  - name: Manticore Games
+    url: https://www.manticoregames.com/
+    description: Developer and operator of Core, a platform where players build and share their own games.
+    hq:
+      city: San Mateo
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+    notable:
+      - Core
+    social:
+      linkedin: https://www.linkedin.com/company/manticore-games/
+    added_at: '2026-11-09T02:47:52.756Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bolder Games
+    url: https://www.boldergames.com/
+    description: Studio founded in 2009 that makes its own VR games and builds immersive projects for clients.
+    hq:
+      city: Boulder
+      country: United States
+    segments:
+      - vr
+      - co-dev
+    platforms:
+      - vr
+    founded: 2009
+    notable:
+      - Virballs
+    added_at: '2026-11-09T02:47:52.757Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Arcane Ermine
+    url: https://www.arcaneermine.com/
+    description: Indie studio making its own games, including the obstacle-course racer Obstacle Overdrive.
+    hq:
+      city: Reno
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Obstacle Overdrive
+    added_at: '2026-11-09T02:47:52.758Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: EQ Studios
+    url: https://www.eqstudios.com/
+    description: Indie studio making first-person detective games such as The Painscreek Killings and Scene Investigators.
+    hq:
+      city: Las Vegas
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Painscreek Killings
+      - Scene Investigators
+    added_at: '2026-11-09T02:47:52.759Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Subliminal
+    url: https://subliminalgaming.com/
+    description: Studio founded in 2012 making cozy games such as Button City, plus co-development and porting for partners.
+    hq:
+      city: Albuquerque
+      country: United States
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2012
+    notable:
+      - Button City
+      - 'Button City: Soccer Days'
+    added_at: '2026-11-09T02:47:52.760Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Brainium Studios
+    url: https://brainium.com/
+    description: Mobile game company making free puzzle and card games for iOS and Android.
+    hq:
+      city: Portland
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.761Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ClutchPlay Games
+    url: https://clutchplaygames.com/
+    description: Independent mobile game developer founded in 2012; its first game was Little Chomp.
+    hq:
+      city: Portland
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2012
+    notable:
+      - Little Chomp
+    social:
+      linkedin: http://www.linkedin.com/company/clutchplay-games-llc
+    added_at: '2026-11-09T02:47:52.762Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nami Tentou
+    url: https://www.namitentou.com/
+    description: Indie studio that develops, publishes and ports games to PC and consoles and revives retro game IP.
+    hq:
+      city: Albany
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - PING REDUX
+      - Yeah Yeah Beebiss II
+    social:
+      linkedin: https://linkedin.com/company/namitentou
+    added_at: '2026-11-09T02:47:52.763Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rose City Games
+    url: https://www.rosecitygames.com/
+    description: Indie studio behind the deck-building tactics game Floppy Knights and the puzzle adventure The World Next Door.
+    hq:
+      city: Portland
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Floppy Knights
+      - The World Next Door
+    added_at: '2026-11-09T02:47:52.764Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wizard Fu Games
+    url: https://wizardfu.com/
+    description: Indie studio that made the procedural action RPG Songbringer and the action game Wraithbinder.
+    hq:
+      city: Portland
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2008
+    notable:
+      - Songbringer
+      - Wraithbinder
+    added_at: '2026-11-09T02:47:52.765Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Night Signal Entertainment
+    url: https://nightsignalentertainment.com/
+    description: Indie studio making retro-styled horror games such as NiGHT SIGNAL and Home Safety Hotline.
+    hq:
+      city: Draper
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - NiGHT SIGNAL
+      - Home Safety Hotline
+    added_at: '2026-11-09T02:47:52.766Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wahoo Studios
+    url: https://www.wahoo.com/
+    description: Developer founded in 2001 doing contract work for large publishers and original games under its NinjaBee brand.
+    hq:
+      city: Orem
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2001
+    notable:
+      - A Kingdom for Keflings
+    added_at: '2026-11-09T02:47:52.767Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: WildWorks
+    url: https://www.wildworks.com/
+    description: Studio founded in 2003 that makes the kids' online animal world Animal Jam.
+    hq:
+      city: Draper
+      country: United States
+    segments:
+      - kids-edu
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2003
+    notable:
+      - Animal Jam
+    social:
+      instagram: https://www.instagram.com/playwildworks/
+    added_at: '2026-11-09T02:47:52.768Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Folding Star
+    url: https://foldingstar.space/
+    description: Indie studio making story-driven exploration games such as Desert Angels.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Desert Angels
+    added_at: '2026-11-09T02:47:52.769Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pine Street Codeworks
+    url: https://pinestreetcodeworks.com/
+    description: Indie studio founded by a Surreal Software co-founder; made the puzzle game Tiny Bubbles.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2015
+    notable:
+      - Tiny Bubbles
+    added_at: '2026-11-09T02:47:52.770Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Stumbling Cat
+    url: https://www.stumblingcat.com/
+    description: 'Indie studio founded in 2014 that made the crafting adventure Potions: A Curious Tale.'
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2014
+    notable:
+      - 'Potions: A Curious Tale'
+    added_at: '2026-11-09T02:47:52.771Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DigitalDNA Games
+    url: https://digitaldnagames.com/
+    description: 'Independent studio since 2009 behind the survival game CastleMiner Z, now making CastleMiner Z: Resurrection.'
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2009
+    notable:
+      - CastleMiner Z
+      - Death Toll
+    added_at: '2026-11-09T02:47:52.772Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Parable Worlds
+    url: https://www.parableworlds.com/
+    description: Indie studio in the Seattle area making story-led games such as Adam's Ascending and Altered Algorithm.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Adam's Ascending
+      - Altered Algorithm
+    added_at: '2026-11-09T02:47:52.773Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lightfox Games
+    url: https://www.lightfoxgames.com/
+    description: Venture-backed studio founded in 2019 by former King Seattle staff; made the online party brawler Rumble Club.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+      - console
+    founded: 2019
+    notable:
+      - Rumble Club
+    added_at: '2026-11-09T02:47:52.774Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: A Sharp
+    url: http://a-sharp.com/
+    description: Small developer of narrative strategy games King of Dragon Pass and the Six Ages series.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - King of Dragon Pass
+      - 'Six Ages 2: Lights Going Out'
+      - 'Thousand Hells: The Underworld Heists'
+    added_at: '2026-11-09T02:47:52.775Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: White Lotus Interactive
+    url: https://www.whitelotusinteractive.com/
+    description: Mostly remote indie studio founded in 2013 that made the first-person exploration puzzle game XING.
+    hq:
+      city: Mesa
+      country: United States
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - console
+      - vr
+    founded: 2013
+    notable:
+      - 'XING: The Land Beyond'
+    added_at: '2026-11-09T02:47:52.776Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pocketwatch Games
+    url: https://pocketwatchgames.com/
+    description: Indie studio behind the co-op heist games Monaco and Monaco 2 and the strategy game Tooth and Tail.
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2004
+    notable:
+      - Monaco 2
+      - Tooth and Tail
+      - 'Monaco: What''s Yours Is Mine'
+    added_at: '2026-11-09T02:47:52.777Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Moonlight Kids
+    url: https://www.moonlightkids.co/
+    description: Collaborative indie team spread across three US cities; made the action-adventure The Wild at Heart.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - The Wild at Heart
+    added_at: '2026-11-09T02:47:52.778Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rustic Panda Games
+    url: https://www.rusticpandagames.com/
+    description: 'Seven-person remote indie studio founded in 2020; makes the pixel-art action RPG Colossus: Eternal Blight.'
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - 'Colossus: Eternal Blight'
+    added_at: '2026-11-09T02:47:52.779Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PixelTail Games
+    url: https://www.pixeltailgames.com/
+    description: Small distributed studio, formed by the GMod Tower team, that makes the online social game Tower Unite.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2015
+    notable:
+      - Tower Unite
+      - 'Elevator: Source'
+    added_at: '2026-11-09T02:47:52.780Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Monsarrat
+    url: https://monsarrat.com/
+    description: AR game company with a mostly Poland-based team; makes the outdoor role-playing game Landing Party for phones and AR glasses.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Landing Party
+    added_at: '2026-11-09T02:47:52.781Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wolf Games
+    url: https://www.wolfgames.net/
+    description: Builds custom hosted daily games that media and brand partners run for their audiences.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+      - web
+    added_at: '2026-11-09T02:47:52.782Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Refactor Games
+    url: https://www.refactorgames.com/
+    description: Studio making experimental physics-driven sports games such as Football Simulator, with a soccer game in development.
+    hq:
+      city: Beverly Hills
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Football Simulator
+    social:
+      linkedin: https://www.linkedin.com/company/refactorgames/
+    added_at: '2026-11-09T02:47:52.783Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Floor 84 Studio
+    url: https://f84.com/
+    description: 'Developer of licensed family games, including Dog Man: Mission Impawsible.'
+    hq:
+      city: Van Nuys
+      country: United States
+    segments:
+      - kids-edu
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Dog Man: Mission Impawsible'
+    social:
+      linkedin: https://www.linkedin.com/company/floor-84-studio/
+    added_at: '2026-11-09T02:47:52.784Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Beach Day Studios
+    url: https://www.beachdaystudios.com/
+    description: Makes games and educational content for mobile and XR, including the rhythm game Beat Bolt City.
+    hq:
+      city: Portland
+      country: United States
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - mobile
+      - vr
+      - pc
+    notable:
+      - Beat Bolt City
+    social:
+      linkedin: https://www.linkedin.com/company/beachdaystudios
+    added_at: '2026-11-09T02:47:52.785Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Parallel Plaid
+    url: https://www.parallelplaid.com/
+    description: Independent studio founded in 2017 making mobile party and minigame titles.
+    hq:
+      city: Salt Lake City
+      country: United States
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2017
+    added_at: '2026-11-09T02:47:52.786Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HumaNature Studios
+    url: https://www.humanaturestudios.com/
+    description: Small indie studio formed in 2006 by the creator of ToeJam & Earl; recent games include Kimono Cats and Dancing with Ghosts.
+    hq:
+      city: Lahaina
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2006
+    notable:
+      - 'ToeJam & Earl: Back in the Groove!'
+      - Kimono Cats
+      - Dancing with Ghosts
+    added_at: '2026-11-09T02:47:52.787Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Skunkape Games
+    url: https://skunkapegames.com/
+    description: Small team of early Telltale staff that remasters and publishes the Sam & Max episodic games and Poker Night.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Sam & Max: The Devil''s Playhouse'
+      - 'Sam & Max: Beyond Time and Space'
+      - Poker Night at the Inventory
+    added_at: '2026-11-09T02:47:52.788Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Run Games
+    url: https://www.run-games.com/
+    description: Full-stack developer of online multiplayer games, including the Football Heroes arcade football series.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - console
+    notable:
+      - Football Heroes Turbo
+      - Football Heroes League
+    added_at: '2026-11-09T02:47:52.790Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Jumpdrive Studios
+    url: https://jmpdrv.com/
+    description: Indie studio that made the retro sci-fi fleet strategy game XO.
+    hq:
+      city: Portland
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - XO
+    added_at: '2026-11-09T02:47:52.791Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Collision Studios
+    url: https://collisionstudios.com/
+    description: Developer founded in 2005 that builds games for publishers across mobile, PC and consoles.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2005
+    notable:
+      - Duck Hunting Challenge
+    added_at: '2026-11-09T02:47:52.792Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Drawlabs
+    url: https://www.drawlabs.com/
+    description: Game studio making mobile, web and desktop games for brands, agencies and other studios.
+    hq:
+      city: Chandler
+      country: United States
+    segments:
+      - co-dev
+      - mobile
+    platforms:
+      - mobile
+      - web
+      - pc
+    added_at: '2026-11-09T02:47:52.793Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lightspeed LA
+    url: https://lightspeed.la/
+    description: Tencent-owned AAA game studio in Southern California.
+    hq:
+      country: United States
+    segments:
+      - aaa
+    platforms:
+      - pc
+      - console
+    parent: Tencent
+    added_at: '2026-11-09T02:47:52.794Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Well Told Entertainment
+    url: https://www.welltold.games/
+    description: Indie studio that makes VR games such as Foglands and provides art, animation and trailer co-development for other studios.
+    hq:
+      city: Santa Ana
+      country: United States
+    segments:
+      - indie
+      - co-dev
+      - vr
+    platforms:
+      - vr
+      - console
+    notable:
+      - Foglands
+      - Escape Bloody Mary
+    social:
+      linkedin: https://www.linkedin.com/company/welltoldent
+    added_at: '2026-11-09T02:47:52.795Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Warballoon
+    url: https://www.starcommandgame.com/
+    description: Indie studio behind the space crew management games Star Command and Star Command Galaxies.
+    hq:
+      city: Longmont
+      country: United States
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+      - mobile
+    founded: 2011
+    notable:
+      - Star Command Galaxies
+      - Star Command
+    added_at: '2026-11-09T02:47:52.796Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tako Boy Studios
+    url: https://www.takoboystudios.com/
+    description: Indie studio founded in 2018 making pixel-art games such as Creatures of Aether and Cross Blitz.
+    hq:
+      city: San Diego
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2018
+    notable:
+      - Creatures of Aether
+      - Cross Blitz
+      - Candies 'n Curses
+    added_at: '2026-11-09T02:47:52.797Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mystic Interactive
+    url: https://www.mysticinteractive.com/
+    description: Independent VR studio founded in 2021 that makes the multiplayer spell-casting game Crystal Conquest.
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    founded: 2021
+    notable:
+      - Crystal Conquest
+    added_at: '2026-11-09T02:47:52.798Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Windup Minds
+    url: https://windupminds.com/
+    description: 'Studio behind the Quest titles Bogo and First Steps; makes the virtual pet game Stay: Your Forever Pet!'
+    hq:
+      city: Seattle
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - 'Stay: Your Forever Pet!'
+      - Bogo
+      - First Steps
+    added_at: '2026-11-09T02:47:52.799Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Pixanoh
+    url: https://www.studiopixanoh.com/
+    description: Remote indie studio of about 20 developers making anime-inspired games such as Town of Zoz.
+    hq:
+      city: Los Angeles
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Town of Zoz
+    added_at: '2026-11-09T02:47:52.800Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GRL Games
+    url: https://www.grlgames.net/
+    description: Small family-run studio, founded in 2010, making card and puzzle games for iPhone and iPad.
+    hq:
+      city: Monterey
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2010
+    notable:
+      - Full Deck Solitaire
+      - Solitaire Minute
+    added_at: '2026-11-09T02:47:52.801Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: FunCraft Games
+    url: https://www.funcraft.com/
+    description: Mobile studio making daily word puzzle games, with staff working around the world.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.802Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Super Jump Games
+    url: https://www.superjump.gg/
+    description: Studio building branded and original Fortnite experiences and transmedia game IP.
+    hq:
+      city: San Francisco
+      country: United States
+    segments:
+      - ugc
+    platforms:
+      - pc
+      - console
+    added_at: '2026-11-09T02:47:52.803Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

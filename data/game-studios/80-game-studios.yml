@@ -1,0 +1,843 @@
+studios:
+  - name: Yeti Games
+    url: https://www.yetigames.net/
+    description: Turkish mobile game developer making casual and election-themed games such as Seçim Oyunu.
+    hq:
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Seçim Oyunu
+      - Chess Moves 3D
+    added_at: '2026-11-09T02:47:52.554Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tika Studios
+    url: https://tikastudios.al/
+    description: Independent game studio in Tirana making stylized dark fantasy games rooted in Albanian folklore.
+    hq:
+      city: Tirana
+      country: Albania
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Carnival of Souls
+    added_at: '2026-11-09T02:47:52.555Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Amrita Studio
+    url: https://amrita.studio/
+    description: Mobile game studio with offices in Limassol, Odesa and Dnipro, releasing casual games on Google Play and the App Store.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Odesa
+        country: Ukraine
+      - city: Dnipro
+        country: Ukraine
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.556Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ela Game Studio
+    url: https://www.elagamestudio.com/
+    description: Hyper-casual mobile game studio in Izmir making Unity games for the App Store.
+    hq:
+      city: Izmir
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.557Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fusee
+    url: https://fusee.com/
+    description: Istanbul mobile game studio with 175M+ downloads, maker of Merge Master and Dino io 3D.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Merge Master
+      - Dino io 3D
+    added_at: '2026-11-09T02:47:52.558Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GeekZoneCouch
+    url: https://geekzonecouch.com/
+    description: Turkish indie studio making local split-screen couch co-op games such as Towermouth and Oktoraid.
+    hq:
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Towermouth
+      - Oktoraid
+    added_at: '2026-11-09T02:47:52.559Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Guli Games
+    url: https://guli-games.com/
+    description: 'Independent mobile game studio in Paphos, maker of Legendale: Adventure Lands.'
+    hq:
+      city: Paphos
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - 'Legendale: Adventure Lands'
+    added_at: '2026-11-09T02:47:52.560Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hyperhug
+    url: https://hyperhug.io/
+    description: 'Limassol game publisher and developer with 100M+ players, maker of the multiplayer survival shooter Oxide: Survival Island.'
+    hq:
+      city: Limassol
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2019
+    notable:
+      - 'Oxide: Survival Island'
+    added_at: '2026-11-09T02:47:52.561Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kiki Games
+    url: https://www.kikigames.fun/
+    description: PC simulation game studio in Antalya making store and collection sims such as Supercar Collection Simulator.
+    hq:
+      city: Antalya
+      country: Turkey
+    segments:
+      - indie
+      - simulation
+    platforms:
+      - pc
+    founded: 2021
+    notable:
+      - Supercar Collection Simulator
+      - Clothing Store Simulator
+      - Estate Agent Simulator
+    added_at: '2026-11-09T02:47:52.562Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MiroWin
+    url: https://www.mirowin.com/
+    description: Ukraine-based PC, VR and console game studio behind the VR shooter Boiling Steel and the co-op sim MoonMiners.
+    hq:
+      country: Ukraine
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+      - console
+    founded: 2017
+    notable:
+      - Boiling Steel
+      - MoonMiners
+    added_at: '2026-11-09T02:47:52.563Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OyunStudyosu
+    url: https://www.oyunstudyosu.com/
+    description: Istanbul developer and publisher of Sanalika, a virtual world for Turkey and MENA with 20M+ registered users.
+    hq:
+      city: Istanbul
+      country: Turkey
+    segments:
+      - indie
+    platforms:
+      - web
+      - mobile
+    founded: 2008
+    notable:
+      - Sanalika
+    added_at: '2026-11-09T02:47:52.564Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ReactGames Studio
+    url: https://react-games.studio/
+    description: Mobile game studio in Paphos with 4.5M+ installs across its casual titles.
+    hq:
+      city: Paphos
+      country: Cyprus
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    founded: 2020
+    added_at: '2026-11-09T02:47:52.565Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: VOKI Games
+    url: https://www.vokigames.com/
+    description: Casual mobile game studio based in Limassol with teams in Kyiv and Odesa.
+    hq:
+      city: Limassol
+      country: Cyprus
+    offices:
+      - city: Kyiv
+        country: Ukraine
+      - city: Odesa
+        country: Ukraine
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.566Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: redux.games
+    url: https://redux.games/
+    description: Cyprus-based mobile game studio making a hotel-building tycoon game with live events.
+    hq:
+      country: Cyprus
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    added_at: '2026-11-09T02:47:52.567Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Flexus Games
+    url: https://flexus.games/
+    description: Kyiv game studio founded in 2020 with 25M+ installs across its games, now making the co-op airline game Dear Passengers.
+    hq:
+      city: Kyiv
+      country: Ukraine
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - pc
+      - mobile
+    founded: 2020
+    added_at: '2026-11-09T02:47:52.568Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tiny Games
+    url: https://www.tinygames.it/
+    description: Developer and publisher of casual games for iOS and Android, with 20+ titles released.
+    hq:
+      city: Rome
+      country: Italy
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    parent: redBit games
+    founded: 2014
+    added_at: '2026-11-09T02:47:52.569Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Idra Interactive Studios
+    url: https://idrainteractivestudios.com/en/
+    description: Developer of narrative and applied games, including edutainment titles on film history and science.
+    hq:
+      city: Rome
+      country: Italy
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    founded: 2020
+    notable:
+      - 'Behind the Light: The Extraordinary Life of Luca Comerio'
+      - 'Code # DNA'
+    added_at: '2026-11-09T02:47:52.570Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: RuneHeads
+    url: https://www.runeheads.com/
+    description: Indie studio making tactical and action games, plus porting and prototype services.
+    hq:
+      city: Milan
+      country: Italy
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    founded: 2017
+    notable:
+      - Fall of Light
+      - Conglomerate 451
+    added_at: '2026-11-09T02:47:52.571Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Unfinished Pixel
+    url: https://www.unfinishedpixel.com/
+    description: Indie studio making arcade sports games for PC and consoles.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Super Tennis Blast
+      - Super Soccer Blast
+      - Super Sports Blast
+      - NBA Bounce
+    added_at: '2026-11-09T02:47:52.572Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OverPowered Team
+    url: https://www.overpoweredteam.com/
+    description: Small independent team making strategy, arcade and tycoon games for PC.
+    hq:
+      city: Madrid
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Profane
+      - Godstrike
+      - Ruin Raiders
+      - Block Factory
+    added_at: '2026-11-09T02:47:52.573Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Patrones & Escondites
+    url: https://peworks.info/
+    description: Indie studio making narrative games, interactive fiction and point-and-click titles.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2017
+    notable:
+      - Unmemory
+      - Delete After Reading
+      - Your House
+    added_at: '2026-11-09T02:47:52.574Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dark Curry
+    url: https://darkcurry.com/
+    description: Studio of seasoned developers making VR and casual games.
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    founded: 2014
+    notable:
+      - Undead Citadel
+      - Final Kick
+      - Equalicious
+    added_at: '2026-11-09T02:47:52.575Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Half Sunk Games
+    url: https://halfsunkgames.com/
+    description: 'Indie team making action games, now working on BLOW-UP: Avenge Humanity, a retro FPS.'
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - CMYKill
+      - Prey2Hunter
+    added_at: '2026-11-09T02:47:52.576Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Procedural Games
+    url: https://proceduralgames.com/
+    description: Small studio at Lanzadera in Marina de Valencia making mobile and PC management games.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2023
+    notable:
+      - Tech Startup Tycoon
+      - Legendary Differences
+    added_at: '2026-11-09T02:47:52.577Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BabelGames
+    url: https://babelgames.es/
+    description: Indie studio making racing sims, educational games and Unity editor tools.
+    hq:
+      city: Murcia
+      country: Spain
+    segments:
+      - indie
+      - kids-edu
+    platforms:
+      - pc
+    notable:
+      - 'Speed Rivals: Slot Racing'
+    added_at: '2026-11-09T02:47:52.578Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bowl of Tentacles
+    url: https://bowloftentacles.com/
+    description: Small studio making VR shooters and horror games.
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+      - vr
+    platforms:
+      - pc
+      - vr
+    notable:
+      - Aimtropolis
+      - Evil Inside VR
+    added_at: '2026-11-09T02:47:52.579Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Herobeat Studios
+    url: https://store.steampowered.com/developer/HerobeatStudios
+    description: 'Studio behind the eco-themed adventure Endling, now making Wilderings: The Lost Spring.'
+    hq:
+      city: Barcelona
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Endling: Extinction is Forever'
+    added_at: '2026-11-09T02:47:52.580Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Appnormals Team
+    url: https://appnormals.com/
+    description: Indie studio making narrative adventure games.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Frank and Drake
+      - Terracotta
+      - STAY
+    added_at: '2026-11-09T02:47:52.581Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Flat Cat Games
+    url: https://store.steampowered.com/developer/flatcatgames
+    description: Indie developer of escape room, jigsaw and maze puzzle games.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'The Lab: Escape Room'
+      - 'The Island: Escape Room'
+      - 'Super Jigsaw Puzzle: Generations'
+    added_at: '2026-11-09T02:47:52.582Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tsunoa Games
+    url: https://store.steampowered.com/developer/tsunoagames
+    description: Indie team making samurai action RPGs.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Sengodai
+      - Katana Dragon
+    added_at: '2026-11-09T02:47:52.583Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Majorariatto
+    url: https://store.steampowered.com/developer/majorariatto
+    description: Studio of YouTuber Alva Majo making comedy platformers and arcade games.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Golfing Over It with Alva Majo
+      - Pureya
+      - Ambidextro
+    added_at: '2026-11-09T02:47:52.584Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Anima Project Studio
+    url: https://www.animaproject.studio/
+    description: 'Studio adapting the Anima: Beyond Fantasy tabletop RPG into action RPGs.'
+    hq:
+      city: Valencia
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - 'Anima: Gate of Memories'
+      - 'Anima: Gate of Memories: The Nameless Chronicles'
+      - 'Anima Gate of Memories: I & II Remaster'
+    added_at: '2026-11-09T02:47:52.585Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: WildSphere
+    url: https://wildsphere.es/
+    description: Indie developer of horror, escape and action games.
+    hq:
+      city: Granada
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Oxide Room 104
+      - OXIDE Room 208
+    added_at: '2026-11-09T02:47:52.586Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: mc2games
+    url: https://mc2games.com/
+    description: Indie developer of escape room puzzle games for PC.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - '60 Minutes to Extinction: Escape Room'
+      - 'Pyramids and Aliens: Escape Room'
+      - 'Mystic Academy: Escape Room'
+    added_at: '2026-11-09T02:47:52.587Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Xagu Studios
+    url: https://xagustudios.net/
+    description: Basque developer of sports management games, including cycling, rally and tennis managers.
+    hq:
+      country: Spain
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Live Cycling Manager 2026
+      - Live Rally Manager
+      - Ace Academy
+    added_at: '2026-11-09T02:47:52.588Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gametopia
+    url: https://www.gametopiastudios.com/
+    description: Studio making narrative adventures, now working on the sci-fi thriller Red Dreams.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Verne: The Shape of Fantasy'
+      - Allan Poe's Nightmare
+    added_at: '2026-11-09T02:47:52.589Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Baroque Decay Games
+    url: https://baroquedecay.com/
+    description: Indie developer of pixel-art horror adventures, based in Spain and France.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    notable:
+      - The Count Lucanor
+      - Yuppie Psycho
+      - Catechesis
+    added_at: '2026-11-09T02:47:52.590Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Indigo Studios
+    url: https://indigostudios.one/es/
+    description: Indie studio making narrative mystery adventures and puzzle games.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Last Case of John Morley
+      - Portrait of a Torn
+      - Charon's Staircase
+    added_at: '2026-11-09T02:47:52.591Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Night Council Studio
+    url: https://nightcouncilstudio.com/
+    description: 'Independent studio making the dark fantasy horror game Dark Atlas: Infernum.'
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'Dark Atlas: Infernum'
+    added_at: '2026-11-09T02:47:52.592Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Ao Norte
+    url: https://aonorte.com/
+    description: Galician indie studio making colorful casual and management games.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tiny Garden
+    added_at: '2026-11-09T02:47:52.593Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SVC Games
+    url: https://www.svcgames.com/
+    description: Studio making its own games plus advergames, mixed reality installations, console porting and publishing.
+    hq:
+      city: Santander
+      country: Spain
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+    notable:
+      - Debris Infinity
+    social:
+      instagram: https://www.instagram.com/svcgames/
+    added_at: '2026-11-09T02:47:52.594Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Terahard Studios
+    url: https://terahard.games/
+    description: Unity studio making its own tactics and RPG games plus apps, VR and AR work for partners.
+    hq:
+      city: Athens
+      country: Greece
+    offices:
+      - city: London
+        country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - vr
+    founded: 2012
+    notable:
+      - Dunebound Tactics
+      - Monster Mop Up
+      - RuneSmith
+    added_at: '2026-11-09T02:47:52.595Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Master Crowd Games
+    url: https://mastercrowdgames.com/
+    description: Independent studio at the Polo Nacional de Contenidos Digitales making VR, music and casual games.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - indie
+      - vr
+    platforms:
+      - vr
+      - pc
+      - mobile
+    notable:
+      - 'The Magician VR: The Cursed Wand'
+      - Rock Invasion
+    added_at: '2026-11-09T02:47:52.596Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Corex Games
+    url: https://corexgames.com/
+    description: Mobile studio founded by industry veterans, making racing games.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    notable:
+      - Real Car Racing Simulator
+    added_at: '2026-11-09T02:47:52.597Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Redvel Games
+    url: https://redvelgames.com/
+    description: Mobile developer of football and casual hero games, active for over a decade.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Soccer Star 22 Top Leagues
+      - Soccer Star Ultimate Football
+      - Tap Superheroes
+    added_at: '2026-11-09T02:47:52.598Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Under the Bed Games
+    url: https://underthebedgames.com/
+    description: Indie studio making dark fairy-tale narrative horror adventures.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Tales from Candleforth
+      - 'Wood and Flesh: A Candleforth Short Story'
+    added_at: '2026-11-09T02:47:52.599Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Novelingo
+    url: https://www.novelingo.com/
+    description: Serious games and e-learning studio making educational visual novels and training games.
+    hq:
+      city: Málaga
+      country: Spain
+    segments:
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+      - web
+    notable:
+      - Flamenco!
+      - Los Mundos de Tarno
+      - Academia Alborán
+    added_at: '2026-11-09T02:47:52.600Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PlayMedusa
+    url: https://playmedusa.com/
+    description: Game design and development studio shipping its own games and work-for-hire projects since 2009.
+    hq:
+      country: Spain
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - web
+    notable:
+      - Kaiju Control Force
+      - Unpacking Armageddon
+      - Tinybuns
+    added_at: '2026-11-09T02:47:52.601Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blackmouth Games
+    url: https://blackmouthgames.com/
+    description: Studio making online multiplayer action games.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Domenation
+      - Hit N' Rush
+      - 'Zodiark: Astral Awakening'
+    added_at: '2026-11-09T02:47:52.602Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Triple O Games
+    url: https://www.tripleogames.com/
+    description: Canary Islands studio making Doctrine Strike, a base-building RTS with player-generated units and factions.
+    hq:
+      country: Spain
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Battle Derby
+      - Doctrine Strike
+    added_at: '2026-11-09T02:47:52.603Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

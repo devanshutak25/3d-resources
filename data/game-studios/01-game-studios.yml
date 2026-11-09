@@ -3,7 +3,7 @@ studios:
     url: https://www.naughtydog.com/
     description: Sony first-party game developer in Santa Monica making cinematic third-person action games.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     segments:
       - aaa
@@ -38,7 +38,7 @@ studios:
         country: Poland
       - city: Vancouver
         country: Canada
-      - city: Boston, MA
+      - city: Boston
         country: United States
     segments:
       - aaa
@@ -142,7 +142,7 @@ studios:
     url: https://www.supergiantgames.com/
     description: Independent game studio in San Francisco making hand-painted action games.
     hq:
-      city: San Francisco, CA
+      city: San Francisco
       country: United States
     segments:
       - indie
@@ -167,7 +167,7 @@ studios:
     url: https://sms.playstation.com/
     description: Sony first-party game developer in Los Angeles behind the God of War series.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     segments:
       - aaa
@@ -209,7 +209,7 @@ studios:
     url: https://www.suckerpunch.com/
     description: Sony first-party game developer near Seattle making open-world action games.
     hq:
-      city: Bellevue, WA
+      city: Bellevue
       country: United States
     segments:
       - aaa
@@ -674,7 +674,7 @@ studios:
         country: United Kingdom
       - city: Jeddah
         country: Saudi Arabia
-      - city: Plano, TX
+      - city: Plano
         country: United States
     segments:
       - co-dev

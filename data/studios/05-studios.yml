@@ -3,7 +3,7 @@ studios:
     url: https://losyork.tv/
     description: Santa Monica creative company led by Seth Epstein making design-driven ads and brand campaigns with an international artist network.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     disciplines:
       - motion-design
@@ -25,7 +25,7 @@ studios:
     url: https://www.lostproject.com/
     description: Los Angeles design collective led by Craig Stouffer and Kristen Olsen making titles, CGI and brand work for networks and esports.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - motion-design
@@ -70,7 +70,7 @@ studios:
     url: https://www.loyalkaspar.com/
     description: New York branding agency doing identity, custom type and motion for networks and media brands.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - motion-design
@@ -213,7 +213,7 @@ studios:
     url: https://www.lunarnorth.tv/
     description: Ferndale, Michigan design, animation and interactive studio building motion-led brand systems for regional and national clients.
     hq:
-      city: Ferndale, MI
+      city: Ferndale
       country: United States
     disciplines:
       - motion-design
@@ -261,7 +261,7 @@ studios:
     url: https://www.lvly.tv/
     description: New York studio combining editorial, design and CG/VFX for commercial work, from product beauty shots to campaign design.
     hq:
-      city: New York, NY
+      city: New York
       country: United States
     disciplines:
       - cg
@@ -312,7 +312,7 @@ studios:
     url: https://madebythings.com/
     description: Columbus, Ohio content agency making animation, motion design and brand video built on marketing strategy.
     hq:
-      city: Columbus, OH
+      city: Columbus
       country: United States
     disciplines:
       - motion-design
@@ -379,7 +379,7 @@ studios:
     url: https://makemake.com/
     description: Santa Monica integrated studio of directors, editors, animators, colorists and VFX artists making ads and entertainment work.
     hq:
-      city: Santa Monica, CA
+      city: Santa Monica
       country: United States
     disciplines:
       - vfx
@@ -435,7 +435,7 @@ studios:
     url: https://makevisual.com/
     description: Minneapolis creation studio making motion design and narrative animation for brand and entertainment work, including tech campaigns.
     hq:
-      city: Minneapolis, MN
+      city: Minneapolis
       country: United States
     disciplines:
       - motion-design
@@ -458,10 +458,10 @@ studios:
     url: https://makinestudios.com/
     description: Creative studio making show packages, brand campaigns and title sequences for entertainment networks and media brands.
     hq:
-      city: Marina del Rey, CA
+      city: Marina del Rey
       country: United States
     offices:
-      - city: Venice, CA
+      - city: Venice
         country: United States
     disciplines:
       - title-design
@@ -484,7 +484,7 @@ studios:
     url: https://www.mammal.studio/
     description: Atlanta motion design studio making title sequences and brand campaigns for TV networks and global brands.
     hq:
-      city: Atlanta, GA
+      city: Atlanta
       country: United States
     disciplines:
       - motion-design
@@ -508,7 +508,7 @@ studios:
     url: https://www.mana.tv/
     description: Los Angeles design and animation studio making 2D and 3D character work and trailers for games and entertainment.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - cinematics
@@ -577,7 +577,7 @@ studios:
       city: London
       country: United Kingdom
     offices:
-      - city: Los Angeles, CA
+      - city: Los Angeles
         country: United States
     disciplines:
       - motion-design
@@ -604,7 +604,7 @@ studios:
     url: https://www.massive.work/
     description: Boutique Los Angeles studio making title design, broadcast branding and brand motion for media and cultural clients.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - title-design
@@ -658,7 +658,7 @@ studios:
     url: https://mayda.co/
     description: Creative studio in Brooklyn and London making brand films, animation, live action and immersive installations.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     offices:
       - city: London
@@ -782,7 +782,7 @@ studios:
     url: https://midnightsherpa.com/
     description: Boutique Pasadena studio making CG animation, trailers and UI motion for games, tech and entertainment brands.
     hq:
-      city: Pasadena, CA
+      city: Pasadena
       country: United States
     disciplines:
       - cinematics
@@ -850,7 +850,7 @@ studios:
     url: https://mirada.com/
     description: Los Angeles creative agency and production company in the Trailer Park Group, making live action, animation, VFX and immersive work.
     hq:
-      city: Los Angeles, CA
+      city: Los Angeles
       country: United States
     disciplines:
       - live-action
@@ -903,7 +903,7 @@ studios:
     url: https://mixtapeclub.com/
     description: New York animation studio making motion graphics and explainers for tech and entertainment clients, including Sphere content.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     disciplines:
       - motion-design
@@ -927,7 +927,7 @@ studios:
     url: https://www.mk12.com/
     description: Kansas City animation studio making film title sequences, in-game animation and commercials for film, TV, games and advertising.
     hq:
-      city: Kansas City, MO
+      city: Kansas City
       country: United States
     disciplines:
       - title-design
@@ -1075,7 +1075,7 @@ studios:
     url: https://mosomos.com/
     description: New York and Tokyo animation studio mixing stop motion, 2D, mixed media, motion control and practical effects for brands.
     hq:
-      city: Brooklyn, NY
+      city: Brooklyn
       country: United States
     offices:
       - city: Tokyo

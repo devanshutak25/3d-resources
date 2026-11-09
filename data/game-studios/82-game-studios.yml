@@ -1,0 +1,962 @@
+studios:
+  - name: Tributary Games
+    url: https://www.tributary.games/
+    description: Fully remote UK game studio behind King of the Castle and Occlude.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - King of the Castle
+      - Occlude
+    added_at: '2026-11-09T02:47:52.654Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tundra Games
+    url: https://www.tundragames.com/
+    description: Independent studio based in Oxford and Colchester, founded in 2013, developer of Void War.
+    hq:
+      city: Oxford
+      country: United Kingdom
+    offices:
+      - city: Colchester
+        country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2013
+    notable:
+      - Void War
+    added_at: '2026-11-09T02:47:52.655Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Valko Game Studios
+    url: https://www.valkogames.com/
+    description: Independent UK developer of Labyrinthine and CRYO.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Labyrinthine
+      - CRYO
+      - 'Labyrinthine: Lost in the Sands'
+    added_at: '2026-11-09T02:47:52.656Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Very Evil Demons
+    url: https://veryevildemons.com/
+    description: Worker-owned Dundee studio doing game development, prototyping, porting and consultancy, and making its own game Bean To Me!.
+    hq:
+      city: Dundee
+      country: United Kingdom
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    notable:
+      - Bean To Me!
+    added_at: '2026-11-09T02:47:52.657Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: a2z Interactive
+    url: https://a2zinteractive.net/
+    description: East Yorkshire indie studio behind the survival game Survive the Nights.
+    hq:
+      country: United Kingdom
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Survive the Nights
+    added_at: '2026-11-09T02:47:52.658Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Blue Mammoth Games
+    url: https://bluemammoth.com/
+    description: Ubisoft-owned studio that makes and runs Brawlhalla, a free-to-play platform fighter, and the browser MMO Dungeon Blitz.
+    hq:
+      city: Atlanta
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    parent: Ubisoft
+    founded: 2009
+    careers: https://bluemammoth.com/careers/
+    notable:
+      - Brawlhalla
+      - Dungeon Blitz
+    added_at: '2026-11-09T02:47:52.659Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AEXLAB
+    url: https://aexlab.com/
+    description: VR studio behind VAIL VR, a competitive multiplayer shooter for PC VR and Meta Quest.
+    hq:
+      city: Miami
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    careers: https://aexlab.com/aexlab/career
+    notable:
+      - VAIL VR
+    social:
+      youtube: https://www.youtube.com/@AEXLAB
+    added_at: '2026-11-09T02:47:52.660Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bad Rhino Games
+    url: https://www.badrhinogames.com/
+    description: Independent Unreal Engine partner studio doing co-development and full-cycle game work, and making The Rotting Chronicles.
+    hq:
+      city: Kansas City
+      country: United States
+    segments:
+      - co-dev
+      - aa
+    platforms:
+      - pc
+    careers: https://www.badrhinogames.com/careers/
+    notable:
+      - The Rotting Chronicles
+    added_at: '2026-11-09T02:47:52.661Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cosmo D Studios
+    url: https://cosmod.net/
+    description: Brooklyn indie studio making surreal, music-driven first-person games such as the Off-Peak series and Betrayal At Club Low.
+    hq:
+      city: Brooklyn
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Off-Peak
+      - Tales From Off-Peak City Vol. 1
+      - Betrayal At Club Low
+      - Moves Of The Diamond Hand
+    added_at: '2026-11-09T02:47:52.662Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cubicorn Games
+    url: https://cubicorngames.com/
+    description: Small indie studio in Metro Detroit making PC games such as Down the Drain and the upcoming Super Cucumber.
+    hq:
+      city: Detroit
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2014
+    notable:
+      - Down the Drain
+      - Super Cucumber
+    social:
+      x: https://x.com/CubicornGames
+      instagram: https://www.instagram.com/cubicorngames/
+    added_at: '2026-11-09T02:47:52.663Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: DiG-iT! Games
+    url: https://www.dig-itgames.com/
+    description: Educational game developer making the Roterra puzzle series and game-based learning titles for schools.
+    hq:
+      city: Bethesda
+      country: United States
+    segments:
+      - kids-edu
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - 'Roterra 4: Magical Revolution'
+      - 'Roterra 6: Royal Adventure'
+    social:
+      x: https://twitter.com/DigItGames
+      instagram: https://www.instagram.com/digitgames/
+      linkedin: https://www.linkedin.com/company/dig-it-games/
+    added_at: '2026-11-09T02:47:52.664Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Big Duck Games
+    url: https://www.bigduckgames.com/
+    description: Husband-and-wife mobile studio that makes the Flow Free puzzle series and Flow Fit word puzzles.
+    hq:
+      city: Miami
+      country: United States
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    founded: 2012
+    notable:
+      - Flow Free
+      - Flow Fit
+    social:
+      x: https://www.twitter.com/BigDuckGames
+    added_at: '2026-11-09T02:47:52.665Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Chazak Games
+    url: https://chazakgames.com/
+    description: Small Wisconsin studio making fast action games, including the roguelite FPS High Fructose.
+    hq:
+      city: Wausau
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - High Fructose
+    social:
+      youtube: https://www.youtube.com/@ChazakGames
+    added_at: '2026-11-09T02:47:52.666Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Concrete Software
+    url: https://concretesoftware.com/
+    description: Mobile sports game developer behind PBA Bowling Challenge, PGA TOUR golf games and NHRA Legends of Drag Racing.
+    hq:
+      city: Minneapolis
+      country: United States
+    segments:
+      - mobile
+      - simulation
+    platforms:
+      - mobile
+    founded: 2003
+    notable:
+      - PBA Bowling Challenge
+      - PGA TOUR Golf Shootout
+      - NHRA Legends of Drag Racing
+    social:
+      x: https://x.com/ConcreteGames
+      instagram: https://www.instagram.com/concretesoftware
+    added_at: '2026-11-09T02:47:52.667Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Future Proof Games
+    url: https://futureproofgames.com/
+    description: 'Charlotte indie studio making narrative and hacking games such as Exploit: Zero Day and Ossuary.'
+    hq:
+      city: Charlotte
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2012
+    notable:
+      - 'Exploit: Zero Day'
+      - Ossuary
+      - The Majesty of Colors Remastered
+    social:
+      x: https://twitter.com/PlayFutureProof
+    added_at: '2026-11-09T02:47:52.668Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Graphite Lab
+    url: https://www.graphitelab.com/
+    description: St. Louis developer of console, PC and mobile games, including Hive Jump 2 and branded titles for partners.
+    hq:
+      city: St. Louis
+      country: United States
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - console
+      - mobile
+    notable:
+      - 'Hive Jump 2: Survivors'
+      - Hive Jump
+      - Chop!
+    social:
+      x: https://x.com/graphitelab
+      instagram: https://www.instagram.com/graphitelab/
+      linkedin: https://www.linkedin.com/company/1668203
+    added_at: '2026-11-09T02:47:52.669Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gylee Games
+    url: https://gyleegames.com/
+    description: Small Ohio team behind Ra Ra BOOM, a co-op beat 'em up shooter.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Ra Ra BOOM
+    added_at: '2026-11-09T02:47:52.670Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HypGames
+    url: https://www.hypgames.com/
+    description: Orlando mobile developer of sports games such as Ultimate Golf, PGA TOUR Pro Golf and Fishing Blitz.
+    hq:
+      city: Orlando
+      country: United States
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Ultimate Golf
+      - PGA TOUR Pro Golf
+      - Ultimate 8 Ball Pool
+      - Fishing Blitz
+    added_at: '2026-11-09T02:47:52.671Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Howling Moon Software
+    url: http://howlingmoonsoftware.com/
+    description: Minnesota work-for-hire studio offering Unity, VR and physics programming for games, and makers of the Chipmunk2D physics library.
+    hq:
+      city: Inver Grove Heights
+      country: United States
+    segments:
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+      - vr
+    founded: 2007
+    notable:
+      - Chipmunk2D
+    added_at: '2026-11-09T02:47:52.672Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fun Train
+    url: https://www.funtrainvr.com/
+    description: Savannah VR studio making horror and sci-fi games for Meta Quest, including Exorcism of the Legion and BlackGate.
+    hq:
+      city: Savannah
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+    careers: https://www.funtrainvr.com/careers
+    notable:
+      - Exorcism of the Legion
+      - BlackGate
+      - Jungle Man
+    social:
+      x: https://twitter.com/funtrainvr
+      instagram: https://www.instagram.com/funtrainvr/
+    added_at: '2026-11-09T02:47:52.673Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Forklift Studios
+    url: https://forkliftstudios.com/
+    description: Brooklyn mobile and web game developer behind Tricky Bridge, a game that teaches bridge.
+    hq:
+      city: Brooklyn
+      country: United States
+    segments:
+      - mobile
+      - kids-edu
+    platforms:
+      - mobile
+      - web
+    notable:
+      - Tricky Bridge
+    added_at: '2026-11-09T02:47:52.674Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: JollyCo
+    url: https://www.jollyco.us/
+    description: 'PC, VR and mobile game developer with a Florida office, maker of Sugar Mess: Let''s Play Jolly Battle.'
+    hq:
+      city: Saint Augustine
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - vr
+      - mobile
+    notable:
+      - 'Sugar Mess: Let''s Play Jolly Battle'
+    social:
+      x: https://x.com/jollycovr
+      instagram: https://www.instagram.com/jollyco.us
+    added_at: '2026-11-09T02:47:52.675Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Loric Games
+    url: https://www.loricgames.com/
+    description: Arlington studio founded by Mythic Entertainment veterans, developer of the co-op action RPG Echoes of Elysium.
+    hq:
+      city: Arlington
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Echoes of Elysium
+    social:
+      x: https://x.com/LoricGames
+      linkedin: https://www.linkedin.com/company/loric-games/
+    added_at: '2026-11-09T02:47:52.676Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mind's Eye Games
+    url: https://www.minds-eye-games.com/
+    description: New York indie developer of the action game INTO EVIL and the arena brawler Blast Brawl 2.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - INTO EVIL
+      - Blast Brawl 2
+    social:
+      x: https://twitter.com/MindsEyeGames
+      youtube: https://www.youtube.com/@Minds_Eye_Games
+      instagram: https://www.instagram.com/mindseyegames/
+    added_at: '2026-11-09T02:47:52.677Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mob Entertainment
+    url: https://www.mobentertainment.com/
+    description: Independent transmedia studio behind the Poppy Playtime horror series and its spin-off games and animation.
+    hq:
+      city: St. Louis
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2020
+    notable:
+      - Poppy Playtime
+      - 'Project: Playtime'
+      - Escape from Playtime
+    social:
+      x: https://x.com/mobgamesstudios
+      linkedin: https://www.linkedin.com/company/mobentertainment/
+    added_at: '2026-11-09T02:47:52.678Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mokuni Games
+    url: https://mokuni.com/
+    description: New York game and animation studio making cat games, including the mobile title Kitty in the Box.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2013
+    notable:
+      - Kitty in the Box
+      - 'Meow Cafe: Perfect Match'
+    social:
+      x: https://x.com/MokuniGames
+      instagram: https://www.instagram.com/mokunigames/
+    added_at: '2026-11-09T02:47:52.679Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Muse Games
+    url: http://musegames.com/
+    description: New York studio behind the airship combat game Guns of Icarus, Stars of Icarus and the survival game Wildmender.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    careers: http://musegames.com/jobs/
+    notable:
+      - Guns of Icarus Online
+      - Stars of Icarus
+      - Wildmender
+    social:
+      x: http://www.twitter.com/musegames
+    added_at: '2026-11-09T02:47:52.680Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Neolithic
+    url: https://neolithicdawn.com/
+    description: Austin studio making Neolithic Dawn, a physics-driven Ice Age VR survival game for Meta Quest and Steam.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - Neolithic Dawn
+    social:
+      x: https://twitter.com/NeolithicVRGame
+      instagram: https://www.instagram.com/neolithicvrgame
+    added_at: '2026-11-09T02:47:52.681Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Oxide Games
+    url: https://www.oxidegames.com/
+    description: 'Timonium strategy game studio founded by former Firaxis developers, maker of Ara: History Untold and the Nitrous engine.'
+    hq:
+      city: Timonium
+      country: United States
+    segments:
+      - aa
+    platforms:
+      - pc
+    founded: 2013
+    careers: https://www.oxidegames.com/careers/
+    notable:
+      - 'Ara: History Untold'
+      - Ashes of the Singularity
+    social:
+      x: https://twitter.com/OxideGames
+    added_at: '2026-11-09T02:47:52.682Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Palestar
+    url: https://palestar.com/
+    description: Austin studio that has run DarkSpace, a massively multiplayer space strategy game, on its own engine since 2001.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 1999
+    notable:
+      - DarkSpace
+    added_at: '2026-11-09T02:47:52.683Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Petricore
+    url: https://www.petricoregames.com/
+    description: Worcester game studio building games and XR apps for clients and its own titles on emerging platforms since 2015.
+    hq:
+      city: Worcester
+      country: United States
+    segments:
+      - co-dev
+      - vr
+      - indie
+    platforms:
+      - vr
+      - mobile
+      - pc
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/petricoregames/
+      linkedin: https://www.linkedin.com/company/petricore-inc/
+    added_at: '2026-11-09T02:47:52.684Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Radiangames
+    url: https://www.radiangames.com/
+    description: One-person studio in Urbana, Illinois making arcade and puzzle games such as Rhythm Storm and the city builder Miniopolis.
+    hq:
+      city: Urbana
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+      - mobile
+    founded: 2010
+    notable:
+      - Rhythm Storm
+      - Miniopolis
+    social:
+      x: https://twitter.com/radiangames
+      instagram: https://www.instagram.com/radiangames
+    added_at: '2026-11-09T02:47:52.685Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Retrotainment Games
+    url: https://www.retrotainmentgames.com/
+    description: 'Pittsburgh developer of new NES cartridge games such as Haunted: Halloween ''85 and the upcoming Full Quiet.'
+    hq:
+      city: Pittsburgh
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - console
+      - pc
+    notable:
+      - 'Haunted: Halloween ''85'
+      - 'Haunted: Halloween ''86'
+      - Full Quiet
+    added_at: '2026-11-09T02:47:52.686Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Simcoach Games
+    url: https://www.simcoachgames.com/
+    description: 'Pittsburgh developer of serious games for learning, workforce skills and autism assessment, such as Booeys: Rip in the Rift.'
+    hq:
+      city: Pittsburgh
+      country: United States
+    segments:
+      - kids-edu
+    platforms:
+      - mobile
+      - web
+    notable:
+      - 'Booeys: Rip in the Rift'
+    social:
+      linkedin: https://www.linkedin.com/company/simcoach-games/
+    added_at: '2026-11-09T02:47:52.687Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sinister Design
+    url: https://sinisterdesign.net/
+    description: Chicago indie studio making tactical RPGs and strategy games such as Telepath Tactics Liberated and Together in Battle.
+    hq:
+      city: Chicago
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    founded: 2006
+    notable:
+      - Telepath Tactics Liberated
+      - Together in Battle
+      - True Messiah
+    social:
+      instagram: https://www.instagram.com/sinister_design_games/
+      youtube: https://www.youtube.com/@sinisterdesign
+    added_at: '2026-11-09T02:47:52.688Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Skymap Games
+    url: https://skymap.com/
+    description: Manchester, New Hampshire studio that makes its own games and partners with other developers on co-development.
+    hq:
+      city: Manchester
+      country: United States
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2013
+    careers: https://www.useparallel.com/skymapgames/careers
+    social:
+      x: https://x.com/skymapgames
+    added_at: '2026-11-09T02:47:52.689Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SplitSide Games
+    url: https://www.splitsidegames.com/
+    description: Small Philadelphia team behind Fling to the Finish, a co-op obstacle racing game for PC and consoles.
+    hq:
+      city: Philadelphia
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Fling to the Finish
+    social:
+      x: https://twitter.com/SplitSideGames
+    added_at: '2026-11-09T02:47:52.690Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Storm Flag Games
+    url: https://stormflag.games/
+    description: Boston team specializing in multiplayer game development and Roblox experiences for partners.
+    hq:
+      city: Boston
+      country: United States
+    segments:
+      - ugc
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    social:
+      linkedin: https://www.linkedin.com/company/storm-flag-games
+    added_at: '2026-11-09T02:47:52.691Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Super Soul
+    url: https://supersoul.co/
+    description: Lexington studio making entertainment games, ports, VR and educational and health projects for clients.
+    hq:
+      city: Lexington
+      country: United States
+    segments:
+      - co-dev
+      - kids-edu
+    platforms:
+      - pc
+      - mobile
+      - vr
+    notable:
+      - Let's Drive a Firetruck!
+    social:
+      x: https://twitter.com/SuperSoulStudio
+      instagram: https://www.instagram.com/SuperSoulStudio/
+    added_at: '2026-11-09T02:47:52.692Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Workinman Interactive
+    url: https://www.workinman.com/
+    description: Rochester work-for-hire studio designing games, educational apps, VR and interactive exhibits for entertainment brands.
+    hq:
+      city: Rochester
+      country: United States
+    segments:
+      - co-dev
+      - kids-edu
+    platforms:
+      - web
+      - mobile
+      - vr
+    social:
+      linkedin: https://www.linkedin.com/company/workinman-interactive-llc/
+      x: https://twitter.com/workinmangaming
+    added_at: '2026-11-09T02:47:52.693Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wraith Games
+    url: https://www.wraithgames.com/
+    description: Hamilton, Ohio indie collective making arcade games such as Collapsus and Radarkanoid, with a local studio space.
+    hq:
+      city: Hamilton
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2005
+    careers: https://www.wraithgames.com/jobs-education
+    notable:
+      - Collapsus
+      - Radarkanoid
+      - Cave Worm
+    social:
+      x: https://twitter.com/wraithgames/
+      instagram: http://instagram.com/wraithgames/
+      linkedin: https://www.linkedin.com/company/wraith-games/
+    added_at: '2026-11-09T02:47:52.694Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Will Winn Games
+    url: https://willwinn.games/
+    description: 'Michigan indie studio from the MSU game program, maker of Plunder Panic and BlastBall: All-Stars.'
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2020
+    notable:
+      - Plunder Panic
+      - 'BlastBall: All-Stars'
+      - Trickstir
+    social:
+      x: https://x.com/Will_Winn_Games
+      linkedin: https://www.linkedin.com/company/will-winn-games
+    added_at: '2026-11-09T02:47:52.695Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Zarfhome Software
+    url: https://zarfhome.com/
+    description: Boston interactive fiction studio of Andrew Plotkin, maker of Hadean Lands and other commercial text games.
+    hq:
+      city: Boston
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2011
+    notable:
+      - Hadean Lands
+      - Meanwhile
+      - The Beyond
+    added_at: '2026-11-09T02:47:52.696Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Zenovia Interactive
+    url: https://zenovia.io/
+    description: New York-area studio founded in 2019, developer of the run-and-gun shooter Neon Inferno for PC and consoles.
+    hq:
+      city: New York
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2019
+    notable:
+      - Neon Inferno
+    social:
+      x: https://twitter.com/zenoviallc
+    added_at: '2026-11-09T02:47:52.697Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ZiMAD
+    url: https://zimad.com/
+    description: Mobile developer and publisher of casual puzzle games such as Magic Jigsaw Puzzles and Sudoku Quest, with a studio in Serbia.
+    hq:
+      city: Hollywood
+      country: United States
+    offices:
+      - city: NiÅ¡
+        country: Serbia
+    segments:
+      - mobile
+    platforms:
+      - mobile
+    careers: https://zimad.com/careers/
+    notable:
+      - Magic Jigsaw Puzzles
+      - Sudoku Quest
+      - Art of Puzzles
+    social:
+      linkedin: https://www.linkedin.com/company/zimad.games/
+      instagram: https://www.instagram.com/zimadgames/
+    added_at: '2026-11-09T02:47:52.698Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dragon Fractal Games
+    url: https://www.dragonfractalgames.com/
+    description: Four-person Austin indie co-op behind Draggin', a click-and-drag arcade roguelite.
+    hq:
+      city: Austin
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Draggin'
+    social:
+      youtube: https://www.youtube.com/@DragonFractalGames
+      instagram: https://www.instagram.com/dragonfractalgames/
+    added_at: '2026-11-09T02:47:52.699Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Drizzle Games
+    url: https://drizzlegames.com/
+    description: Two-person Greenville studio making mobile and PC games such as Gutsy the Guinea Pig and Killer Colors.
+    hq:
+      city: Greenville
+      country: United States
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    founded: 2013
+    notable:
+      - Gutsy the Guinea Pig
+      - Killer Colors
+    social:
+      x: https://x.com/drizzlegames
+    added_at: '2026-11-09T02:47:52.700Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SWDTech Games
+    url: https://www.swdtechgames.com/
+    description: New Jersey indie developer of Pixel Noir, a retro detective RPG.
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Pixel Noir
+    social:
+      youtube: https://www.youtube.com/@SWDTechGames1
+    added_at: '2026-11-09T02:47:52.701Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SwordSwipe Studios
+    url: https://swordswipestudios.com/
+    description: Lansing indie studio making shoot-'em-ups such as Bot Gaiden and StarScalers.
+    hq:
+      city: Lansing
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Bot Gaiden
+      - StarScalers
+    social:
+      x: https://twitter.com/SwordSwipeGames
+    added_at: '2026-11-09T02:47:52.702Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Thrill Switch Games
+    url: https://thrillswitchgames.com/
+    description: 'Michigan visual novel studio behind NIGHT/SHADE: You''re The Drug.'
+    hq:
+      country: United States
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - 'NIGHT/SHADE: You''re The Drug'
+    social:
+      x: https://twitter.com/thrillswitchgms
+      instagram: https://www.instagram.com/thrillswitchgames
+    added_at: '2026-11-09T02:47:52.703Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
