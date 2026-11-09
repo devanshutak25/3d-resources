@@ -11,9 +11,10 @@ Project-level goals and intent for 3d_resources.
 - 2026-10-05: Unblock the freshness workflow (GitHub "Allow Actions to create PRs" setting). Oct/Nov flags merged by hand 2026-11-06.
 - 2026-10-05: Launch track (pub_plan Part 2): social preview, awesome-list PRs, community posts, newsletters, GSC.
 - 2026-10-05: Continue web discovery phases. 2026-11-09 news-driven batch +548 (catalog 4,761). Next: bot-walled gaps (SpaceMouse, Neat Video, aescripts), Houdini FX (2).
-- 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v8 at 3,436 + 3,587 game studios (2026-11-09, round 7 Asia-Pacific by country). Next: same country-agent method per region (docs/playbooks/studio-discovery.md): Americas, MEA, studios.json split decision (both >3,000), size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (23), JS-only award sites (CICLOPE, AICP, Clio, Promax) with a headless browser.
+- 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v9 at 3,630 + 3,712 game studios (2026-11-09, round 8 South America + Africa by country). Next: same country-agent method per region (docs/playbooks/studio-discovery.md): North + Central America + Caribbean, Middle East, Egypt production retry, studios.json split decision (both >3,000), size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (23), JS-only award sites (CICLOPE, AICP, Clio, Promax) with a headless browser.
 
 ## Done
+- 2026-11-09: Studio round 8, South America + Africa by country: +194 studios, +125 game studios (12 agents). Committed + pushed.
 - 2026-11-09: Studio round 7, Asia-Pacific by country: +362 studios, +350 game studios (13 agents). Committed + pushed.
 - 2026-11-09: Studio round 6, Europe by country: +380 studios, +555 game studios (14 agents). Committed + pushed.
 - 2026-11-09: News-driven discovery: +548 catalog entries, 26 updates (renames, price/licence changes, HitFilm + Unreal Marketplace deprecated). Committed + pushed.

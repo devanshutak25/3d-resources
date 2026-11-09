@@ -141,3 +141,9 @@ Architectural / structural decisions w/ rationale + date.
 - Same studio under two hosts (2-10.cn + en.2-10.cn): merge into the older row, union disciplines/markets.
 - `scripts/import-studios.js`: force.txt now also clears `dupe name+country` (distinct companies with normalised-equal names); host dupes still block.
 - Research agents: public web only. No connected user services (Tracxn etc.), no extracting API keys/tokens from page bundles. Added to the playbook brief.
+
+## 2026-11-09: Studio round 8, South America + Africa by country
+- Studio `url` that is only a YouTube channel or Facebook page: drop (same as Linktree/Instagram/Behance). Own game site is fine (Malaika Games, Kola Studios).
+- A site with an NFT/Web3 section counts under the crypto rule (Chroma Pixel Games). Early access = released; Steam "Coming soon" + ~10 unverified staff = below bar (Ivalice).
+- Paraguay -> americas; Benin, Madagascar, Rwanda, Togo -> middle-east-africa (COUNTRY_REGION lookup).
+- Region scope "South America + Africa" left out Central America, Caribbean and the Middle East (Gulf, Levant, Israel, Iran): next rounds.

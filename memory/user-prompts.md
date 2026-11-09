@@ -320,3 +320,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > commit it please, and push
 
 **Answered:** Committed round 7 data + importer/studios.js + docs (feat) and memory log (docs), pushed to origin/main.
+
+**Prompt:** (2026-11-09)
+> studio-discovery.md for south america and africa please
+
+**Answered:** Round 8: 12 country agents (5 South America, 7 Africa), both directories. 328 raw -> 319 written (+194 studios -> 3,630, +125 game studios -> 3,712). Dropped YouTube/Facebook-only, NFT, inactive, unreleased rows. Paraguay, Benin, Madagascar, Rwanda, Togo added to COUNTRY_REGION. Validate/test/build ✓. Not committed.
+
+**Prompt:** (2026-11-09)
+> yes, do it
+
+**Answered:** Committed round 8 data + COUNTRY_REGION + docs (feat) and memory log (docs), pushed to origin/main.
