@@ -704,3 +704,197 @@ studios:
     added_at: '2026-11-08T22:14:00.751Z'
     url_status: ok
     url_last_verified: '2026-11-08'
+  - name: Hfrogames
+    url: https://hfrogames.com/
+    description: Lagos indie mobile studio behind Idansquest, an endless runner set on the streets of Lagos.
+    hq:
+      city: Lagos
+      country: Nigeria
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+    notable:
+      - Idansquest
+    added_at: '2026-11-09T00:44:05.344Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dimension11
+    url: https://www.dimension11studios.com/
+    description: 'Nigerian indie studio of about 24 people developing Legends of Orisha: Blood and Water, a Yoruba-inspired action-adventure, in the ID@Xbox program.'
+    hq:
+      city: Ile-Ife
+      country: Nigeria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    founded: 2021
+    social:
+      x: https://x.com/dimension11s
+    added_at: '2026-11-09T00:44:05.345Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: eMedia Interactive
+    url: https://emediainteractive.com/
+    description: 'Nigerian VR studio behind CloserLook VR: Oldways, a story-driven puzzle adventure set at a West African university, released on Steam in 2026.'
+    hq:
+      country: Nigeria
+    segments:
+      - vr
+      - indie
+    platforms:
+      - vr
+      - pc
+    notable:
+      - 'CloserLook VR: Oldways'
+    added_at: '2026-11-09T00:44:05.346Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Stonehollow Workshop
+    url: https://www.stonehollow-workshop.com/
+    description: Argentine indie studio making old-school MMORPGs and RPGs for mobile and PC.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+    notable:
+      - Eterspire
+      - Fateful Lore
+    social:
+      linkedin: https://www.linkedin.com/company/stonehollowworkshop
+    added_at: '2026-11-09T00:44:05.347Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Silent Nova Games
+    url: https://silentnovagames.com/
+    description: VR and mixed reality studio making its own multiplayer VR games plus outsourcing, porting and immersive apps for companies.
+    hq:
+      city: San Miguel de Tucumán
+      country: Argentina
+    segments:
+      - vr
+      - indie
+      - co-dev
+    platforms:
+      - vr
+    notable:
+      - CASHOUT
+    social:
+      instagram: https://www.instagram.com/silentnovagames/
+      linkedin: https://www.linkedin.com/company/silentnovagames
+      youtube: https://www.youtube.com/@SilentNovaGames
+    added_at: '2026-11-09T00:44:05.348Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Boby Studios
+    url: https://bobystudios.com/
+    description: Indie studio making small strategy and systems-driven games for PC.
+    hq:
+      city: Mendoza
+      country: Argentina
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Wild Space
+      - Market Fit
+    added_at: '2026-11-09T00:44:05.349Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pathfinders Studio
+    url: https://www.pathfindersstudio.com/
+    description: Game studio making its own mobile games and full productions or co-development for clients.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    segments:
+      - indie
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    notable:
+      - Time Blast
+      - Merge Knight
+    social:
+      instagram: https://www.instagram.com/pathfindersdev
+      linkedin: https://www.linkedin.com/company/pathfindersdev/
+      youtube: https://www.youtube.com/@pathfindersdev
+    added_at: '2026-11-09T00:44:05.350Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Scubalight Studios
+    url: https://scubalightstudios.com/
+    description: Creative tech studio offering full-cycle game engineering, 2D and 3D art and game design, and developer of a party brawler.
+    hq:
+      city: Mendoza
+      country: Argentina
+    segments:
+      - co-dev
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Don't Kill Rumble
+    social:
+      instagram: https://www.instagram.com/scubalight/
+      linkedin: https://www.linkedin.com/company/scubalight-studios
+      artstation: https://www.artstation.com/scubalight_studios
+    added_at: '2026-11-09T00:44:05.351Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Quarantine Interactive
+    url: https://quarantineinteractive.com/
+    description: Game developer and 3D art studio founded in 2010, making its own PC games and 3D game art, modeling and concept art for clients.
+    hq:
+      country: Argentina
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+    founded: 2010
+    notable:
+      - NoseBound
+    social:
+      instagram: https://www.instagram.com/quarantine.interactive/
+    added_at: '2026-11-09T00:44:05.352Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tragico Media
+    url: https://tragico.media/
+    description: Uruguayan indie studio behind a horror game released on Steam and Xbox.
+    hq:
+      country: Uruguay
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Tourist Trap
+    added_at: '2026-11-09T00:44:05.353Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Coki Studio
+    url: https://warofthedamned.com/
+    description: Uruguayan indie studio making a tactical sci-fi RPG for PC.
+    hq:
+      country: Uruguay
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - War of the Damned
+    added_at: '2026-11-09T00:44:05.354Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

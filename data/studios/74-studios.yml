@@ -1,0 +1,978 @@
+studios:
+  - name: Many-Worlds
+    url: https://many-worlds.com/
+    description: VFX and CG animation studio building hero characters, creatures, rigging, CFX and full CG sequences for film, series, games and ads.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - games
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/many-worlds/
+    added_at: '2026-11-09T00:44:05.361Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Reino Buenos Aires
+    url: https://reinobuenosaires.com/
+    description: Commercial production company with in-house VFX and AI units, making animated and CG spots for brands like Lucchetti, Coca-Cola and Sprite.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - vfx
+      - ai-production
+      - live-action
+    markets:
+      - advertising
+    notable:
+      - 'Lucchetti: Milagrosa'
+      - 'Coca-Cola: Dino vs Meteorito'
+      - 'Mercado Libre: Spike 2'
+    social:
+      instagram: https://www.instagram.com/reinobuenosaires
+      vimeo: https://vimeo.com/reinobuenosaires
+    added_at: '2026-11-09T00:44:05.362Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Borguz
+    url: https://borguz.com/
+    description: 2D animation studio making cut-out, traditional pencil and stop-motion videos for brands and educational content.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Lego
+      - Andesmar
+    added_at: '2026-11-09T00:44:05.363Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Barraca Post
+    url: https://barraca.tv/
+    description: VFX and CGI postproduction studio working mainly on advertising, plus films and series, for agencies and production companies.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - vfx
+      - cg
+    markets:
+      - advertising
+      - film
+      - episodic
+    founded: 2006
+    added_at: '2026-11-09T00:44:05.364Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mouyon
+    url: https://mouyon.com/
+    description: Animation and design studio making 2D, 3D and AI animation, character and VFX pieces for brands, startups and healthcare clients.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/mouyonstudio
+      vimeo: https://vimeo.com/mouyon
+    added_at: '2026-11-09T00:44:05.365Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estudio Ciprés
+    url: https://estudiocipres.com/
+    description: Video production studio making 3D and VFX, motion graphics, 2D and full CG animation, AI content and live show visuals for advertising.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+      - ai-production
+      - experiential
+    markets:
+      - advertising
+    founded: 2019
+    social:
+      instagram: https://www.instagram.com/estudiocipres/
+    added_at: '2026-11-09T00:44:05.366Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PepperMelon
+    url: https://www.peppermelon.tv/
+    description: Character design and CG animation studio making 3D and 2D spots, matte painting and game art for brands like Google, Unilever and Tigo.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - cg
+    markets:
+      - advertising
+      - games
+    notable:
+      - Google Brazil
+      - Mamá Lucchetti
+      - Tigo Paraguay
+    social:
+      instagram: http://instagram.com/ilovepeppermelon
+      vimeo: http://vimeo.com/peppermelon
+    added_at: '2026-11-09T00:44:05.367Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pipalupa
+    url: https://www.pipalupa.com/
+    description: Animation and design studio offering 2D animation, character design, storyboards and game animation for brands, startups and non-profits.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Valencia
+        country: Spain
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+      - games
+    social:
+      linkedin: https://www.linkedin.com/company/pipalupa/
+    added_at: '2026-11-09T00:44:05.368Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Amblagar Studio
+    url: https://www.amblagar.com/
+    description: 2D and 3D animation studio active since 2002, making book trailers and animated pieces from Argentina and Spain.
+    hq:
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - brand
+    founded: 2002
+    social:
+      instagram: https://www.instagram.com/amblagar/
+      linkedin: https://www.linkedin.com/company/amblagar-studio
+      behance: https://www.behance.net/Amblagar
+    added_at: '2026-11-09T00:44:05.369Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: alfiostudio
+    url: https://alfiostudio.com/
+    description: Animation studio making animated music videos, short films and museum installation pieces.
+    hq:
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - music-video
+      - film
+    notable:
+      - 'Emmanuel Horvilleur: Raros'
+      - 'Axel Intro: Dilema'
+    added_at: '2026-11-09T00:44:05.370Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BB Studio Games
+    url: https://www.bbstudiogames.com/
+    description: Game art and development outsourcing studio providing UI/UX, 2D and 3D art, Unity development and AR/VR work for game clients.
+    hq:
+      city: Córdoba
+      country: Argentina
+    disciplines:
+      - outsourcing
+      - xr
+    markets:
+      - games
+    social:
+      linkedin: http://linkedin.com/company/bb-studio-games
+      artstation: https://www.artstation.com/bbstudiogames
+    added_at: '2026-11-09T00:44:05.371Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Teonix Studios
+    url: https://teonixstudios.com/
+    description: VR studio building immersive safety, onboarding and procedure training simulations for energy companies, insurers and SMEs.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - xr
+    markets:
+      - brand
+    added_at: '2026-11-09T00:44:05.372Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cosmic Brew Studios
+    url: https://www.cosmicbrewstudios.com/
+    description: Interactive studio making VR, AR, 360 and Instagram filter projects, animated shorts and its own indie games.
+    hq:
+      country: Argentina
+    disciplines:
+      - xr
+      - interactive
+      - 2d-animation
+    markets:
+      - brand
+      - episodic
+      - games
+    notable:
+      - El cuarto de Arlés (ArCiTec)
+      - Gravityland (with Mil Monos Cine)
+      - Backyard Pirates!
+    added_at: '2026-11-09T00:44:05.373Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Sloop
+    url: https://www.sloopstudio.tv/
+    description: Animation studio that writes, directs and produces character-driven explainer and campaign videos for companies and NGOs.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/sloopstudio/
+      vimeo: https://vimeo.com/sloopstudio
+      linkedin: https://www.linkedin.com/company/sloop-films
+    added_at: '2026-11-09T00:44:05.374Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: VStudios
+    url: https://vstudios3d.com/
+    description: Architectural visualization studio making renders and films for architects on airports, towers and stadiums worldwide.
+    hq:
+      city: Córdoba
+      country: Argentina
+    offices:
+      - city: Miami
+        country: United States
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    notable:
+      - Denver International Airport
+      - Khalifa International Stadium
+      - Cordoba International Airport
+    social:
+      instagram: https://www.instagram.com/vstudios3d_visuals/
+    added_at: '2026-11-09T00:44:05.375Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Make Renders
+    url: https://makerenders.io/
+    description: Architectural rendering company producing photoreal interior and exterior 3D renders for developers and architects.
+    hq:
+      city: Vicente López
+      country: Argentina
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/makerenders/
+    added_at: '2026-11-09T00:44:05.376Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Luster
+    url: https://lusterviz.com/
+    description: Architectural visualization studio making renders, siteplans and urban development visuals for real estate developers.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/luster_viz/
+      linkedin: https://www.linkedin.com/company/lusterviz/
+    added_at: '2026-11-09T00:44:05.377Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tango Studio
+    url: https://tangostudio.ar/
+    description: Architectural visualization and design studio making high-end images for architects such as Morphosis and developers worldwide.
+    hq:
+      city: Rosario
+      country: Argentina
+    disciplines:
+      - archviz
+    markets:
+      - real-estate
+    founded: 2018
+    social:
+      instagram: https://www.instagram.com/tangostudio.ar/
+      linkedin: https://www.linkedin.com/company/tangostudioar/
+    added_at: '2026-11-09T00:44:05.378Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Boostep
+    url: https://boostep.co/
+    description: Design studio doing industrial design, 3D modeling and CGI product visualization for brands and tech products.
+    hq:
+      country: Argentina
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/boostep.studio
+    added_at: '2026-11-09T00:44:05.379Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cacodelphia Studios
+    url: https://cacodelphia.com/
+    description: Virtual production and filming studio with LED volume stages and equipment rental for films, series, commercials and music videos.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - virtual-production
+      - live-action
+    markets:
+      - film
+      - episodic
+      - advertising
+      - music-video
+    social:
+      instagram: https://www.instagram.com/cacodelphiastudios/
+      linkedin: https://www.linkedin.com/company/cacodelphia/
+    added_at: '2026-11-09T00:44:05.380Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pixeloide Studios
+    url: https://pixeloide.com/
+    description: Creative tech studio making games, interactive TV, AR/VR, immersive museum rooms and AI-produced ads since 2010.
+    hq:
+      city: Montevideo
+      country: Uruguay
+    offices:
+      - city: Buenos Aires
+        country: Argentina
+      - city: São Paulo
+        country: Brazil
+    disciplines:
+      - interactive
+      - experiential
+      - xr
+      - ai-production
+    markets:
+      - brand
+      - advertising
+      - games
+    founded: 2010
+    notable:
+      - Truco de Campeones
+      - Sala Inmersiva Bicentenario 1825 (Museo del Gaucho)
+    social:
+      instagram: https://www.instagram.com/pixeloidestudios/
+    added_at: '2026-11-09T00:44:05.381Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BeLiquid
+    url: https://beliquid.tv/
+    description: AI video lab producing branded content, music videos and campaigns that layer generative AI with live action and sound design.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    offices:
+      - city: Miami
+        country: United States
+    disciplines:
+      - ai-production
+      - live-action
+    markets:
+      - advertising
+      - music-video
+      - brand
+    social:
+      instagram: https://www.instagram.com/beliquid.agency/
+      vimeo: https://vimeo.com/beliquid
+      linkedin: https://www.linkedin.com/company/beliquidagency
+    added_at: '2026-11-09T00:44:05.382Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Simple Creative Studio
+    url: https://somossimple.com/
+    description: AI-first creative studio making brand films and generative AI productions for advertisers.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/simple_estudiocreativo/
+      linkedin: https://www.linkedin.com/company/simple-creative-studio
+    added_at: '2026-11-09T00:44:05.383Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HUESO
+    url: https://hueso.co/
+    description: Design and animation studio making brand identities, animated campaigns and illustration for clients like WhatsApp and Instagram.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    notable:
+      - WhatsApp brand design refresh
+      - 'Instagram: Playback'
+    social:
+      instagram: https://www.instagram.com/hueso.co/
+    added_at: '2026-11-09T00:44:05.384Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Aldea VFX
+    url: https://aldeavfx.com/
+    description: Visual effects and animation studio delivering cinematic VFX for film and television productions.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/aldeavfx/
+    added_at: '2026-11-09T00:44:05.385Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NonStop Studios
+    url: https://nonstoptv.tv/
+    description: Audiovisual production group with sound stages, post-production and an in-house AI and VFX team for streaming series and films.
+    hq:
+      country: Argentina
+    disciplines:
+      - live-action
+      - vfx
+      - ai-production
+    markets:
+      - episodic
+      - film
+    founded: 1989
+    notable:
+      - Santa Evita (Disney+)
+      - Granizo (Netflix)
+      - Barrabrava (Prime Video)
+    added_at: '2026-11-09T00:44:05.386Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estudio Ánimo
+    url: https://estudioanimo.tv/
+    description: CGI and AI creative studio making high-end 3D product visualization images and videos for brands without physical shoots.
+    hq:
+      country: Argentina
+    disciplines:
+      - product-viz
+      - cg
+      - ai-production
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/estudioanimo.tv
+      vimeo: https://www.vimeo.com/animolab
+      linkedin: https://www.linkedin.com/company/estudio-nimo
+    added_at: '2026-11-09T00:44:05.387Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Zuncho Multimedia
+    url: https://www.zunchomultimedia.com/
+    description: 3D visualization studio making product and medical renders, interactive applications and VR/MR experiences for companies.
+    hq:
+      city: Mar del Plata
+      country: Argentina
+    disciplines:
+      - product-viz
+      - interactive
+      - xr
+    markets:
+      - medical-science
+      - brand
+    social:
+      instagram: https://www.instagram.com/zunchomultimedia/
+      vimeo: https://vimeo.com/zunchomultimedia
+      linkedin: https://www.linkedin.com/company/zuncho-multimedia/
+    added_at: '2026-11-09T00:44:05.388Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rubicón
+    url: https://rubiconcine.com/
+    description: AI film production company making generative AI films and commercials with human creative direction, working from Argentina and Mexico.
+    hq:
+      country: Argentina
+    disciplines:
+      - ai-production
+    markets:
+      - advertising
+      - film
+    social:
+      instagram: http://www.instagram.com/rubicon.films
+    added_at: '2026-11-09T00:44:05.389Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estudio Guarda
+    url: https://estudioguarda.com/
+    description: Creative studio making motion graphics, animation, show visuals and branded video content for brands and streaming.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - experiential
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T00:44:05.390Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gizmo Animation Studio
+    url: https://gizmosite.tv/
+    description: Animation and VFX studio making 3D and 2D cinematics, mocap-driven trailers and ads for game publishers and brands.
+    hq:
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - cinematics
+      - mocap
+    markets:
+      - games
+      - advertising
+    founded: 2004
+    notable:
+      - 'Clash Royale: Viking Season (Supercell)'
+      - 'Civilization: Write Your Legend (2K)'
+      - 'Game of Thrones: Conquest (Warner Games)'
+      - 'Warpsands: Ghost Siege'
+    added_at: '2026-11-09T00:44:05.391Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Press Start Evolution
+    url: https://www.pressstartevolution.com/
+    description: Interactive studio building augmented and mixed reality experiences, branded games and AI tools for brands, education and entertainment.
+    hq:
+      country: Uruguay
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - games
+    notable:
+      - Casa Soba AR configurator
+    social:
+      instagram: https://www.instagram.com/pressstartevolution/
+      linkedin: https://www.linkedin.com/company/press-start-evolution/
+    added_at: '2026-11-09T00:44:05.392Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nukearts Studio
+    url: https://nukearts.com.br/
+    description: Art outsourcing studio making 2D/3D game art and animation, also developing its own indie games.
+    hq:
+      city: Joinville
+      country: Brazil
+    disciplines:
+      - outsourcing
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/nukearts_studio
+      x: https://twitter.com/nukearts
+      vimeo: https://vimeo.com/nukearts
+    added_at: '2026-11-09T00:44:05.393Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HUUDA
+    url: https://huuda.com/
+    description: Art production studio making skins, characters, environments and VFX for live-service games.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - outsourcing
+      - vfx
+      - 3d-animation
+    markets:
+      - games
+    founded: 2023
+    social:
+      instagram: https://www.instagram.com/huuda.studio
+      linkedin: https://www.linkedin.com/company/huuda
+      artstation: https://www.artstation.com/huuda_studio
+    added_at: '2026-11-09T00:44:05.394Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Afallon
+    url: https://afallonstudios.com/
+    description: Art production studio making assets for real-time projects, from indie titles to AAA games.
+    hq:
+      city: Belo Horizonte
+      country: Brazil
+    disciplines:
+      - outsourcing
+      - 3d-animation
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/afallonstudios
+      artstation: https://www.artstation.com/afallon
+    added_at: '2026-11-09T00:44:05.395Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Skyfix
+    url: https://www.skyfix.com.br/
+    description: Interactive technology studio making brand activations, installations and interactive experiences for events.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - experiential
+      - interactive
+    markets:
+      - brand
+      - advertising
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/skyfixsolucoesinterativas
+    added_at: '2026-11-09T00:44:05.396Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Venturion VR
+    url: https://www.venturion.com.br/
+    description: VR and AR studio making immersive experiences for brands and its own game Slink & Snatch.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - brand
+      - games
+    notable:
+      - 'Slink & Snatch: Tales of Thievery'
+    added_at: '2026-11-09T00:44:05.397Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PUGA Studios
+    url: https://pugastudios.com/
+    description: Art outsourcing studio making stylized 2D and 3D assets for games.
+    hq:
+      city: Recife
+      country: Brazil
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://instagram.com/lifeatpuga
+      linkedin: https://www.linkedin.com/company/pugastudios
+      artstation: https://www.artstation.com/pugastudios
+    added_at: '2026-11-09T00:44:05.398Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animalle Studio
+    url: https://animalleestudio.com.br/
+    description: Immersive studio making educational VR, 360 fulldome and planetarium experiences, plus the VR title Kosmo Laika.
+    hq:
+      city: Barueri
+      country: Brazil
+    disciplines:
+      - xr
+      - experiential
+    markets:
+      - medical-science
+      - games
+    notable:
+      - 'Kosmo Laika: Guide to Space'
+    social:
+      instagram: https://www.instagram.com/animalleestudio
+    added_at: '2026-11-09T00:44:05.399Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Yellow Panda Games
+    url: https://yellowpanda.games/
+    description: Game art outsourcing studio making props, weapons, environments, characters and concept art.
+    hq:
+      city: Balneário Camboriú
+      country: Brazil
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    social:
+      instagram: https://www.instagram.com/yellowpandagames
+      linkedin: https://www.linkedin.com/company/yellow-panda-games
+    added_at: '2026-11-09T00:44:05.400Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cafundó Estúdio Criativo
+    url: https://www.cafundo.tv/
+    description: Creative studio making custom games, interactive installations, phygital experiences and animation.
+    hq:
+      city: Florianópolis
+      country: Brazil
+    disciplines:
+      - interactive
+      - experiential
+      - 2d-animation
+    markets:
+      - brand
+      - games
+    notable:
+      - Tetragon
+    social:
+      instagram: https://www.instagram.com/cafundoestudio
+    added_at: '2026-11-09T00:44:05.401Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Harmonika Games
+    url: https://harmonikaexperience.com/
+    description: Studio making custom games for events and brands, including VR, AR, interactive kiosks and gamification, plus its own Steam games.
+    hq:
+      country: Brazil
+    disciplines:
+      - experiential
+      - xr
+      - interactive
+    markets:
+      - brand
+      - games
+    notable:
+      - Axe Me Down
+      - Big Sword Hero
+    social:
+      instagram: https://www.instagram.com/harmonikagames
+      linkedin: https://www.linkedin.com/company/harmonika-games-ltda
+    added_at: '2026-11-09T00:44:05.402Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lightstar Studios
+    url: http://www.lightstarstudios.com/
+    description: 2D animation studio producing feature films, TV series and commercials for Brazilian and international clients.
+    hq:
+      city: Águas de Lindóia
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2004
+    notable:
+      - Fixed
+      - Asterix and the Vikings
+      - Wonder Pets
+    social:
+      instagram: https://www.instagram.com/lightstarstudios/
+      linkedin: https://www.linkedin.com/company/lightstar-studios/
+    added_at: '2026-11-09T00:44:05.403Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animaking
+    url: https://animaking.com.br/
+    description: Animation studio making feature films, shorts, series and commercials, based in the Sapiens Parque tech park.
+    hq:
+      city: Florianópolis
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - film
+      - episodic
+      - advertising
+    founded: 2001
+    notable:
+      - Minhocas
+    social:
+      instagram: https://www.instagram.com/animaking.studio
+    added_at: '2026-11-09T00:44:05.404Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Anim'All Studio
+    url: https://animallstudio.com.br/
+    description: Animation and VFX studio making 2D and 3D work for advertising, entertainment, game cinematics and original IP.
+    hq:
+      city: Brasília
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - cinematics
+    markets:
+      - advertising
+      - episodic
+      - games
+    notable:
+      - Poupançudos da Caixa
+    social:
+      instagram: https://www.instagram.com/animallstudio/
+      linkedin: https://www.linkedin.com/company/anim-all-studio/
+      vimeo: https://vimeo.com/animallstudio
+    added_at: '2026-11-09T00:44:05.405Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Animar Estúdio
+    url: https://animarestudio.com.br/
+    description: 2D animation studio making series, ads, music videos and training films, plus its own kids IPs.
+    hq:
+      city: Campinas
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    notable:
+      - Fofossauros
+      - Maravilhoso Mundo de Wizkids
+    social:
+      instagram: https://www.instagram.com/animarestudio/
+    added_at: '2026-11-09T00:44:05.406Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BIG Studios
+    url: https://bigstudios.com.br/
+    description: 3D character animation studio making ads and branded content for brands and agencies.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Disney
+      - Hellmann's
+      - Honda
+      - Ticket 50 anos
+    social:
+      instagram: https://www.instagram.com/big_studios/
+      linkedin: https://www.linkedin.com/company/bigstudios/
+      vimeo: https://vimeo.com/bigstudioscgi
+    added_at: '2026-11-09T00:44:05.407Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cookie Studio
+    url: https://cookie.studio/
+    description: Animation and design studio making animated films and idents for brands and broadcasters.
+    hq:
+      city: São Paulo
+      country: Brazil
+    offices:
+      - city: London
+        country: United Kingdom
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - UKTV
+      - OFFF Fortaleza
+      - Expo 2020 Dubai
+    social:
+      instagram: https://www.instagram.com/cookie_studio/
+      vimeo: https://vimeo.com/cookiestudiolondon
+    added_at: '2026-11-09T00:44:05.408Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: D2R Studios
+    url: https://d2rstudios.com/
+    description: Animation, visual effects and post-production studio making story-driven work for film, TV and brands.
+    hq:
+      city: Belo Horizonte
+      country: Brazil
+    offices:
+      - city: Austin
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-09T00:44:05.409Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gato do Mato
+    url: https://gatodomato.tv/
+    description: Animation, CG and post-production studio making ads, explainer films, game work and projection mapping.
+    hq:
+      city: Natal
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - cg
+      - experiential
+    markets:
+      - advertising
+      - brand
+      - games
+    notable:
+      - Prefeitura do Recife São João 2026
+      - Natto Painel LED 3D
+    social:
+      instagram: http://www.instagram.com/gatodomato.tv
+      vimeo: http://www.vimeo.com/gatodomato
+    added_at: '2026-11-09T00:44:05.410Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

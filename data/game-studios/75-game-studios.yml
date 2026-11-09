@@ -1,0 +1,250 @@
+studios:
+  - name: Galsen Games Studio
+    url: https://www.galsengames.com/
+    description: Dakar indie studio adapting Senegalese street games for mobile, Windows and web, starting with Ludo Sénégal.
+    hq:
+      city: Dakar
+      country: Senegal
+    segments:
+      - indie
+      - mobile
+    platforms:
+      - mobile
+      - pc
+      - web
+    notable:
+      - Ludo Sénégal (Ludo Lokati)
+    social:
+      instagram: https://instagram.com/galsengamestudio
+      linkedin: https://linkedin.com/company/galsengamestudio
+      youtube: https://www.youtube.com/channel/UClHC3Os9Db5q13DybVVFdww
+    added_at: '2026-11-09T00:44:05.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AJB Games Studio
+    url: https://ajbgamesstudio.com/
+    description: Moroccan indie studio making first-person horror games for PC, released on Steam and itch.io.
+    hq:
+      country: Morocco
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Martha's Dolls
+      - Martha's Dolls 2
+      - UNCURSED
+      - BOKKIE
+    added_at: '2026-11-09T00:44:05.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Medinova Studio
+    url: https://www.medinovastudio.com/en
+    description: Rabat studio making Unity mobile and WebGL games, with AR/VR work and an online coding academy on the side.
+    hq:
+      city: Rabat
+      country: Morocco
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+      - web
+    notable:
+      - 'Pharaoh''s Guardian: Mummies'
+      - Sniper Elimination Challenge
+      - 'Chameleon Outbreak: Camo Hunt'
+      - Blitz Combat Race
+    social:
+      instagram: https://www.instagram.com/medinova.studio
+      linkedin: https://www.linkedin.com/company/medinova-studio/
+      youtube: https://www.youtube.com/@MedinovaStudio
+    added_at: '2026-11-09T00:44:05.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Hyperodys
+    url: https://hyperodys.com/
+    description: Moroccan mobile game studio making puzzle and sports games and offering game dev outsourcing.
+    hq:
+      country: Morocco
+    segments:
+      - mobile
+      - co-dev
+    platforms:
+      - mobile
+    notable:
+      - Royale Goal
+      - Airborne Strike
+      - Room Jam 3D
+      - Block Zone 3D
+    social:
+      instagram: https://www.instagram.com/hyperodys/
+      linkedin: https://www.linkedin.com/company/111120950
+    added_at: '2026-11-09T00:44:05.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Jana Games Studios
+    url: https://jana.games/
+    description: Sétif studio making PC and mobile indie games, including puzzle, tactics and detective titles.
+    hq:
+      city: Sétif
+      country: Algeria
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    founded: 2014
+    notable:
+      - The Breakable Spiral
+      - Atomica
+    added_at: '2026-11-09T00:44:05.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: QasbahLabs
+    url: https://www.qasbahlabs.com/
+    description: Franco-Moroccan studio developing Rivaldom, a turn-based mobile strategy game in early access, alongside software and gamification work.
+    hq:
+      country: Morocco
+    segments:
+      - mobile
+      - indie
+    platforms:
+      - mobile
+    notable:
+      - Rivaldom (early access)
+    social:
+      linkedin: https://www.linkedin.com/company/qasbahlabs/
+    added_at: '2026-11-09T00:44:05.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Atrybute
+    url: https://www.atrybute.co.za/
+    description: Unreal Engine studio making its own games and doing co-production and game work for clients on PC and mobile.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+      - co-dev
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Fat Pack Joe
+    social:
+      instagram: https://www.instagram.com/atrybutegraphics/
+      linkedin: https://www.linkedin.com/company/atrybute-graphics/
+    added_at: '2026-11-09T00:44:05.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rogue Moon Studios
+    url: https://roguemoonstudio.com/
+    description: Small indie studio making cyberpunk card-battle role-playing games for PC.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - System Crash
+      - 'System Crash: Underworld'
+    added_at: '2026-11-09T00:44:05.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Silvernode Games
+    url: https://www.nnlgame.com/
+    description: Indie studio behind Nine Noir Lives, a comedy-noir point-and-click adventure about cat detectives.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - console
+    notable:
+      - Nine Noir Lives
+    added_at: '2026-11-09T00:44:05.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Made With Monster Love
+    url: https://www.madewithmonsterlove.com/
+    description: Solo indie studio that released Cadence, a music-making logic puzzle game for PC and Mac, in 2026.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Cadence
+    added_at: '2026-11-09T00:44:05.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Every Single Soldier
+    url: https://www.everysinglesoldier.com/
+    description: Cape Town studio making turn-based and real-time strategy games for PC and iPad.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+      - mobile
+    notable:
+      - Vietnam '65
+      - Angola '86
+    social:
+      instagram: https://www.instagram.com/everysinglesoldier/
+    added_at: '2026-11-09T00:44:05.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: STANDER Games
+    url: https://stander.games/
+    description: Cape Town indie studio making illustrated isometric adventure games for PC, Mac and Linux.
+    hq:
+      city: Cape Town
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - The Spirit of Twelve
+      - Wildmark
+    added_at: '2026-11-09T00:44:05.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Impossible Object Games
+    url: https://impossibleobject.co.za/
+    description: Indie studio behind Organosphere, a sci-fi adventure game set in a virus-ravaged future South Africa.
+    hq:
+      country: South Africa
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Organosphere
+    added_at: '2026-11-09T00:44:05.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Red Raketa Studio
+    url: https://redraketa.studio/
+    description: Malagasy indie game studio behind Kalanoro, a PC action-adventure game published by New Tales.
+    hq:
+      country: Madagascar
+    segments:
+      - indie
+    platforms:
+      - pc
+    notable:
+      - Kalanoro (2026)
+    social:
+      instagram: https://www.instagram.com/redraketastudio/
+      linkedin: https://www.linkedin.com/company/red-raketa-studio/
+      x: https://x.com/redraketastudio
+    added_at: '2026-11-09T00:44:05.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

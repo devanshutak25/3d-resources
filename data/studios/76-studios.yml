@@ -1,0 +1,988 @@
+studios:
+  - name: Perro Pixel
+    url: https://perropixel.cl/
+    description: Temuco animation studio making 2D animation and narrative motion graphics for institutional spots, educational capsules, webseries and its own kids IPs.
+    hq:
+      city: Temuco
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - La Tarea de Pudencio
+      - Cuenta Pública CChC 2025
+    social:
+      instagram: https://www.instagram.com/perropixel.cl/
+      youtube: https://www.youtube.com/@perropixelcl
+    added_at: '2026-11-09T00:44:05.461Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gecko Animación
+    url: https://www.geckoanimacion.com/
+    description: Santiago animation producer making 2D and 3D kids content and animation services, plus corporate, educational and astronomy visualization videos.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - episodic
+      - brand
+      - medical-science
+    founded: 2015
+    social:
+      instagram: https://www.instagram.com/geckoanimacion/
+    added_at: '2026-11-09T00:44:05.462Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tres Tercios
+    url: https://www.trestercios.cl/
+    description: Chilean production company making original animated and TV series for children and families.
+    hq:
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+    founded: 2011
+    notable:
+      - Zander
+      - Sissi & César
+      - Así Dicen
+    social:
+      vimeo: https://vimeo.com/trestercios
+    added_at: '2026-11-09T00:44:05.463Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Typpo Creative Lab
+    url: https://typpo.cl/
+    description: Chilean studio that writes, develops and co-produces animated series and kids content for its own IPs and studios abroad.
+    hq:
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Primeras (Firsts)
+      - The Adventures of Papelucho
+      - Guitar & Drum
+      - Silly Sundays
+    added_at: '2026-11-09T00:44:05.464Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kiltropo Animation
+    url: https://kiltropo.com/
+    description: Chilean animation producer developing original 2D and 3D IPs with complex stories for older audiences, plus service work.
+    hq:
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Black Sunday
+      - Los Alas Grises
+      - Lucille
+    added_at: '2026-11-09T00:44:05.465Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Despiertoc Films
+    url: https://despiertocfilms.cl/
+    description: Santiago 2D animation studio producing original short films, features and animated series.
+    hq:
+      city: Santiago
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - La Vida Soñada
+      - El nuevo empleo de Juan Pérez
+      - Los imaginarios
+    added_at: '2026-11-09T00:44:05.466Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Marmota Studio
+    url: https://www.marmotastudio.com/
+    description: Chilean independent 2D animation studio making web and TV cartoons, including Hit Hard, Hara! for Cartoon Network Latin America.
+    hq:
+      country: Chile
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    founded: 2012
+    notable:
+      - Hit Hard, Hara!
+      - The Desert Sisters
+      - Oni Calamity
+    social:
+      instagram: https://www.instagram.com/marmotastudio/
+      youtube: https://www.youtube.com/c/MarmotaStudio
+    added_at: '2026-11-09T00:44:05.467Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Trébol 3
+    url: https://www.trebol3.com/
+    description: Viña del Mar production company making documentaries and animated shorts and series, including the stop-motion short Bestia.
+    hq:
+      city: Viña del Mar
+      country: Chile
+    disciplines:
+      - stop-motion
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    notable:
+      - Bestia
+      - El Umbral
+      - Los Viajeros Invisibles
+      - 'Patagonia: Laboratorio del Fin del Mundo'
+    social:
+      instagram: https://www.instagram.com/trebol3prod/
+      vimeo: https://vimeo.com/user3151777
+    added_at: '2026-11-09T00:44:05.468Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estudio Humedal
+    url: https://estudiohumedal.wordpress.com/
+    description: Small Chilean production studio in Algarrobo making stop-motion and 2D animated shorts plus video and art direction.
+    hq:
+      city: Algarrobo
+      country: Chile
+    disciplines:
+      - stop-motion
+      - 2d-animation
+    markets:
+      - film
+    founded: 2022
+    notable:
+      - Yin Yin
+      - Wing Shop
+      - Salomé
+    added_at: '2026-11-09T00:44:05.469Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: GVG Producciones
+    url: https://www.gvgproducciones.com/
+    description: Chilean producer of science and education content for kids, including 2D animated series, documentaries and interactive pieces.
+    hq:
+      country: Chile
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - episodic
+      - medical-science
+    notable:
+      - Micro Club
+      - Lyn & Babas
+      - Alma y el bosque de los sueños
+    social:
+      instagram: https://www.instagram.com/gvgproduccioneschile
+      youtube: https://www.youtube.com/channel/UCSxA8vGztHjOSGDCEVl0X8A
+    added_at: '2026-11-09T00:44:05.470Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Allbreaker
+    url: https://www.allbreaker.co/
+    description: XR studio building VR training simulators, real-time 3D content and Fortnite custom maps in Unreal Engine for defense, mining, health and education.
+    hq:
+      country: Colombia
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - games
+      - brand
+    added_at: '2026-11-09T00:44:05.471Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Forja Studios
+    url: https://www.forjastudios.com/en
+    description: Art studio doing 2D and 3D animation, VFX, concept art and illustration for video games, films and animated series.
+    hq:
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - outsourcing
+    markets:
+      - games
+      - film
+      - episodic
+    founded: 2013
+    social:
+      instagram: https://instagram.com/forja_studios
+      linkedin: https://linkedin.com/company/86712225
+      x: https://x.com/StudiosForja
+      youtube: https://youtube.com/@ForjaCollective
+    added_at: '2026-11-09T00:44:05.472Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Anita Feliz Studio
+    url: https://anitafelizstudio.com/
+    description: Animation studio making preschool series and shorts in 2D cut-out and stop-motion, such as Chiquifantástica and Chanchito Bacano.
+    hq:
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - film
+    notable:
+      - Chiquifantástica
+      - Chanchito Bacano
+      - El Viaje
+    added_at: '2026-11-09T00:44:05.473Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Unstudio.tv
+    url: https://unstudio.tv/
+    description: Animation studio doing motion graphics, 2D and 3D animation and post-production for ads, music artists and brands.
+    hq:
+      city: Medellín
+      country: Colombia
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - music-video
+      - brand
+    notable:
+      - Feid live visuals (2025)
+      - 'Chef Burger: Chef Film Fest (2024)'
+    social:
+      instagram: https://www.instagram.com/unstudio.tv/
+      behance: https://www.behance.net/unstudio_tv
+    added_at: '2026-11-09T00:44:05.474Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PixelArt
+    url: https://pixelart.com.co/
+    description: 3D rendering studio making architectural renders, virtual staging and AI product photography for developers and brands.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - archviz
+      - product-viz
+      - ai-production
+    markets:
+      - real-estate
+      - brand
+    founded: 2012
+    social:
+      instagram: https://www.instagram.com/pixelart_agency_ia_3d/
+    added_at: '2026-11-09T00:44:05.475Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: D-voxel Render Studio
+    url: https://www.dvoxel.com/
+    description: Archviz studio making architectural renders, 360 virtual tours and 3D animations for real-estate projects in Colombia and the US.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/rendersdvoxel/
+    added_at: '2026-11-09T00:44:05.476Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3D Services Colombia
+    url: https://www.3dservices.com.co/
+    description: 3D laser and LiDAR scanning, reverse engineering and BIM modeling studio for architecture, construction, mining and industry.
+    hq:
+      city: Bogotá
+      country: Colombia
+    disciplines:
+      - scanning
+      - cg
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/3dservicescol/
+      linkedin: https://www.linkedin.com/company/3d-services-colombia/
+      youtube: https://www.youtube.com/@3DServicesLatam
+    added_at: '2026-11-09T00:44:05.477Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ArmyOne Studio
+    url: https://armyone.co/
+    description: Visualization studio turning architecture and product designs into renders and animations for pitches, marketing and sales.
+    hq:
+      city: Cali
+      country: Colombia
+    disciplines:
+      - archviz
+      - product-viz
+      - 3d-animation
+    markets:
+      - real-estate
+      - brand
+    founded: 2016
+    added_at: '2026-11-09T00:44:05.478Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Samsa Studio
+    url: https://www.samsa.studio/
+    description: Animation studio working in 2D, 3D and hybrid techniques with post-production for film, series and streaming, plus original IP.
+    hq:
+      country: Colombia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+      - brand
+    added_at: '2026-11-09T00:44:05.479Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Impacta Games
+    url: https://impactagames.com/
+    description: Studio making training simulators, VR experiences, advergames and interactive apps in Unreal Engine and Unity for companies and institutions.
+    hq:
+      country: Colombia
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+      - games
+    social:
+      instagram: https://www.instagram.com/ImpactaGames/
+      youtube: https://www.youtube.com/@ImpactaGames
+    added_at: '2026-11-09T00:44:05.480Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Aldana Motion VFX
+    url: https://aldanamotion.com/
+    description: VFX and post-production studio doing compositing, CG liquids and 3D characters for TV spots and series, with teams in Ecuador, Colombia and Romania.
+    hq:
+      country: Ecuador
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - episodic
+    founded: 2021
+    notable:
+      - Coca-Cola Christmas spot (Ogilvy)
+      - 'Fanta: Colorful People'
+      - Bake Off Celebrity (HBO Max)
+      - 'Manicho: Zombie Apocalypse'
+    social:
+      instagram: https://www.instagram.com/aldana.motion
+      youtube: https://www.youtube.com/@AldanaMotion
+    added_at: '2026-11-09T00:44:05.481Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: VITA Estudios de Animación
+    url: https://vita-estudios.com/
+    description: Animation and VFX studio doing 3D animation, matte painting, on-set VFX supervision and color grading for feature films.
+    hq:
+      city: Medellín
+      country: Colombia
+    disciplines:
+      - vfx
+      - 3d-animation
+    markets:
+      - film
+    social:
+      instagram: https://www.instagram.com/vita_estudios/
+    added_at: '2026-11-09T00:44:05.482Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kaleido Lab
+    url: https://www.kaleidolab.co/
+    description: Immersive media studio making VR and AR experiences, fulldome films, interactive projection mapping and 3D animation for festivals, museums and brands.
+    hq:
+      city: Cali
+      country: Colombia
+    disciplines:
+      - xr
+      - experiential
+      - 3d-animation
+      - interactive
+    markets:
+      - brand
+      - film
+    founded: 2019
+    notable:
+      - La Travesía Mágica (fulldome short)
+      - Crowd EXPO interactive mapping, Cali 489 years
+    added_at: '2026-11-09T00:44:05.483Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Signos Studio
+    url: http://signos.com.co/
+    description: Animation studio doing 3D animation, motion capture and VR content for tourism sites, television and the web.
+    hq:
+      city: Zipaquirá
+      country: Colombia
+    disciplines:
+      - 3d-animation
+      - mocap
+      - xr
+    markets:
+      - episodic
+      - brand
+    founded: 2000
+    notable:
+      - Zipaquirá VR
+      - Condor VR
+    social:
+      instagram: https://www.instagram.com/signosstudio/
+      vimeo: https://vimeo.com/user79701536
+      youtube: https://www.youtube.com/channel/UCtJql6IWX0q56PxOzDwefQQ
+    added_at: '2026-11-09T00:44:05.484Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Guez Show
+    url: https://www.guezshow.com/
+    description: Kigali animation and production company making 3D animation, VFX, commercials and game assets, and developing an animated feature.
+    hq:
+      city: Kigali
+      country: Rwanda
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+      - xr
+    markets:
+      - film
+      - advertising
+      - games
+    founded: 2013
+    notable:
+      - 'The 600: The Soldiers'' Story (3D sequences)'
+      - Gikoba Underground and Open Air Museum (VR)
+    social:
+      instagram: https://www.instagram.com/GuezShow
+      linkedin: https://www.linkedin.com/company/GuezShow
+      youtube: https://www.youtube.com/GuezShow
+    added_at: '2026-11-09T00:44:05.485Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Malaika Media
+    url: https://malaikamedia.com/
+    description: Kampala video production company with an in-house 2D animation and motion graphics team making explainers for NGOs and brands.
+    hq:
+      city: Kampala
+      country: Uganda
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - brand
+      - advertising
+    social:
+      linkedin: https://ug.linkedin.com/company/malaika-media
+      vimeo: https://vimeo.com/malaikamedia
+      youtube: https://www.youtube.com/c/Malaikamediaug/videos
+    added_at: '2026-11-09T00:44:05.486Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tai
+    url: https://www.tai.or.tz/
+    description: Dar es Salaam social enterprise producing 3D animated films, comics and audio dramas for youth education and behaviour change.
+    hq:
+      city: Dar es Salaam
+      country: Tanzania
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+      - medical-science
+    founded: 2012
+    notable:
+      - Kijani
+    social:
+      linkedin: https://www.linkedin.com/company/tai-tanzania/
+      youtube: https://www.youtube.com/@tai_animate
+    added_at: '2026-11-09T00:44:05.487Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: G Media
+    url: https://gebeyamedia.com/
+    description: Addis Ababa production company making 2D and 3D animation, motion graphics and TV commercials for Ethiopian banks, telecoms and brands.
+    hq:
+      city: Addis Ababa
+      country: Ethiopia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - CBE History (motion graphics)
+      - Taps Send motion graphics campaign
+      - Kukulu game marketing video
+      - Ethio Telecom 5G Adama commercial
+    social:
+      instagram: https://www.instagram.com/gmediastudios_/
+      linkedin: https://et.linkedin.com/company/gmediastudios
+      youtube: https://www.youtube.com/@gmediastudios1/videos
+    added_at: '2026-11-09T00:44:05.488Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Morph Visuals
+    url: https://www.morph.co.ke/
+    description: Nairobi studio making 2D and 3D animated explainer videos and infographics for NGOs, tech companies and government agencies.
+    hq:
+      city: Nairobi
+      country: Kenya
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+    added_at: '2026-11-09T00:44:05.489Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NARA Studios
+    url: https://www.nara-studios.com/
+    description: CGI studio making architectural renders, cinematic sequences and 360 environments for real estate developers, architects and interior designers.
+    hq:
+      city: Cairo
+      country: Egypt
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    social:
+      instagram: https://www.instagram.com/nara_studios
+      linkedin: https://www.linkedin.com/company/nara-studios
+    added_at: '2026-11-09T00:44:05.490Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OsLoop Media Production
+    url: https://agency.osloop.com/
+    description: Animation studio making explainer videos, motion graphics, whiteboard and 3D animation for brands.
+    hq:
+      city: Alexandria
+      country: Egypt
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/osloopmedia/
+      linkedin: https://www.linkedin.com/company/osloop/
+      youtube: https://www.youtube.com/@OsLoopMediaProduction
+    added_at: '2026-11-09T00:44:05.491Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio KÄ
+    url: https://www.lestudioka.com/
+    description: Animation studio in Abidjan and Annecy making 2D animated features and series drawn from West African tales.
+    hq:
+      city: Abidjan
+      country: Côte d'Ivoire
+    offices:
+      - city: Annecy
+        country: France
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Kinafo
+      - Milel & Midid
+    social:
+      instagram: https://www.instagram.com/lestudioka/
+      linkedin: https://www.linkedin.com/company/le-studio-k%C3%A4
+    added_at: '2026-11-09T00:44:05.492Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio SOLF
+    url: https://studio-solf.com/
+    description: Douala animation studio producing 2D and 3D series, films and ads with African themes; runs the CANIMAF animation festival.
+    hq:
+      city: Douala
+      country: Cameroon
+    offices:
+      - city: Yaoundé
+        country: Cameroon
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    social:
+      linkedin: https://www.linkedin.com/company/studio-solf
+      vimeo: https://vimeo.com/user142792830
+    added_at: '2026-11-09T00:44:05.493Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Escargo
+    url: https://www.studioescargo.com/
+    description: Yaoundé visual storytelling studio making 2D animation, motion design and comics for NGOs, publishers and campaigns.
+    hq:
+      city: Yaoundé
+      country: Cameroon
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - brand
+    notable:
+      - ETY et JOJO parlent du climat (UNICEF Gabon)
+      - Cosmos Holidays
+      - Kalatuta City (Dupuis webtoon)
+    added_at: '2026-11-09T00:44:05.494Z'
+  - name: Obelus Film & Animation Studio
+    url: https://obelus.sn/
+    description: Dakar studio producing 3D animated and live-action films, including Ganja, a 3D animated short in Wolof.
+    hq:
+      city: Dakar
+      country: Senegal
+    disciplines:
+      - 3d-animation
+      - live-action
+    markets:
+      - film
+    founded: 2013
+    notable:
+      - Ganja (2019)
+    social:
+      instagram: https://www.instagram.com/obelus_studio
+      linkedin: https://www.linkedin.com/company/obelustudio
+      youtube: https://www.youtube.com/c/ObelusTv
+    added_at: '2026-11-09T00:44:05.495Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mess Pictures
+    url: https://messpictures.com/
+    description: Lomé animation studio producing animated shorts and series, with production services for co-productions.
+    hq:
+      city: Lomé
+      country: Togo
+    disciplines:
+      - 2d-animation
+      - outsourcing
+    markets:
+      - episodic
+      - film
+    added_at: '2026-11-09T00:44:05.496Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Booya Studios
+    url: https://booyastudios.fr/
+    description: Abidjan 2D animation studio making African-themed shorts, series, ads and music videos.
+    hq:
+      city: Abidjan
+      country: Côte d'Ivoire
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+      - music-video
+    founded: 2022
+    notable:
+      - Moyo (Boost'Anim 2024 laureate)
+      - Le Cœur du Djembé
+      - Le Monde selon Djingho
+      - Comian
+    social:
+      instagram: https://www.instagram.com/booya_studios/
+      linkedin: https://ci.linkedin.com/company/booya-studio
+      youtube: https://www.youtube.com/channel/UC_7DbLqVZGTsvazOz-2CdYA
+    added_at: '2026-11-09T00:44:05.497Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: NEVERSEEN
+    url: https://neverseen.ma/
+    description: Casablanca production house making 3D animation, VFX, TV programmes and ad films for brands and broadcasters.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+    markets:
+      - advertising
+      - episodic
+      - brand
+    founded: 2008
+    social:
+      instagram: https://www.instagram.com/neverseenproduction/
+      youtube: https://www.youtube.com/@neverseenprod
+    added_at: '2026-11-09T00:44:05.498Z'
+  - name: FX House
+    url: https://www.fx-house.net/
+    description: Casablanca VFX and 3D animation studio doing compositing, simulation and CG for ads, TV series and film.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - vfx
+      - 3d-animation
+      - cg
+    markets:
+      - advertising
+      - episodic
+      - film
+    social:
+      instagram: https://www.instagram.com/fxhouse.studio/
+      youtube: https://www.youtube.com/@FXhouse.studio
+      linkedin: https://www.linkedin.com/company/fx-house-visual-effects-studio
+    added_at: '2026-11-09T00:44:05.499Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: OCTAV
+    url: https://octav.studio/
+    description: VR and AR studio building training simulations, heritage tours and immersive apps for business clients.
+    hq:
+      city: Marrakech
+      country: Morocco
+    offices:
+      - city: Tallinn
+        country: Estonia
+    disciplines:
+      - xr
+      - interactive
+      - 3d-animation
+    markets:
+      - brand
+    notable:
+      - RiadVR
+      - Crane Simulation
+      - StockVR
+    social:
+      linkedin: https://www.linkedin.com/company/octavstudio
+      youtube: https://www.youtube.com/@OctavStudio
+    added_at: '2026-11-09T00:44:05.500Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: LevelFX Studio
+    url: https://levelfxstudio.com/
+    description: Casablanca studio making 3D product films, VFX and AI-generated ads, with an in-house green-screen virtual set.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - 3d-animation
+      - vfx
+      - virtual-production
+      - ai-production
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/levelfxstudio
+      linkedin: https://www.linkedin.com/company/levelfx-studio/
+      youtube: https://www.youtube.com/@LFXStudio
+    added_at: '2026-11-09T00:44:05.501Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BLACKPEN
+    url: https://blackpen.ma/
+    description: Casablanca creative studio producing 3D renders, CGI product visuals and real-estate imagery alongside branding work.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - cg
+      - product-viz
+      - archviz
+    markets:
+      - brand
+      - real-estate
+      - advertising
+    social:
+      instagram: https://www.instagram.com/blackpen_maroc/
+      linkedin: https://www.linkedin.com/company/blackpen-maroc
+      behance: https://www.behance.net/blackpen_maroc
+    added_at: '2026-11-09T00:44:05.502Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MK Studios Maroc
+    url: https://mkstudios.ma/
+    description: Casablanca archviz studio making 3D renders, animations and virtual tours for architects and property developers.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - archviz
+      - 3d-animation
+    markets:
+      - real-estate
+    added_at: '2026-11-09T00:44:05.503Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: PULSART
+    url: https://www.pulsart.agency/
+    description: Algiers creative studio making 2D and 3D motion design, projection mapping shows, immersive installations and VR/AR for brands.
+    hq:
+      city: Algiers
+      country: Algeria
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - experiential
+      - xr
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/pulsart_agency
+      linkedin: https://www.linkedin.com/company/pulsartcreative/
+    added_at: '2026-11-09T00:44:05.504Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Vision Age VFX
+    url: https://www.visionage-vfx.com/
+    description: Matchmove and 3D tracking vendor for feature film and series VFX, with credits on Nosferatu and Fast X.
+    hq:
+      city: Sousse
+      country: Tunisia
+    disciplines:
+      - vfx
+      - outsourcing
+    markets:
+      - film
+      - episodic
+    founded: 2019
+    notable:
+      - Nosferatu
+      - Fast X
+      - Avenue 5 S2
+    social:
+      instagram: https://www.instagram.com/visionagevfx/
+      linkedin: https://www.linkedin.com/company/visionagevfx/
+    added_at: '2026-11-09T00:44:05.505Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lanterns Studios
+    url: https://lanterns-studios.com/
+    description: Tunis game studio offering motion capture, game animation support and AR/VR apps while developing its own narrative games.
+    hq:
+      city: Tunis
+      country: Tunisia
+    disciplines:
+      - mocap
+      - xr
+      - outsourcing
+    markets:
+      - games
+    notable:
+      - 'Kopno: Blightfall (animation support)'
+    social:
+      linkedin: https://www.linkedin.com/company/lanterns-studios
+    added_at: '2026-11-09T00:44:05.506Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: YUGEN Studio
+    url: https://yugen-studio.com/en
+    description: Tunis design studio making motion graphics, 3D visuals and brand identities for businesses.
+    hq:
+      city: Tunis
+      country: Tunisia
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/yugen.studio.tn/
+    added_at: '2026-11-09T00:44:05.507Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SIGMA Technologies
+    url: https://www.sigmatv.net/
+    description: Casablanca production company making ad films, corporate films and fiction, with in-house VFX and motion design.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - live-action
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - film
+      - brand
+    added_at: '2026-11-09T00:44:05.508Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Grid Paper Studio
+    url: https://www.gridpaperstudio.com/
+    description: Casablanca 3D art outsourcing studio making game environments, props and hard-surface assets, now also developing its own horror game.
+    hq:
+      city: Casablanca
+      country: Morocco
+    disciplines:
+      - outsourcing
+      - cg
+    markets:
+      - games
+    careers: https://www.gridpaperstudio.com/gridpaperstudiocareers
+    social:
+      artstation: https://www.artstation.com/gridpaperstudio
+      linkedin: https://www.linkedin.com/company/grid-paper-studio/
+    added_at: '2026-11-09T00:44:05.509Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Morbiket
+    url: https://morbiket.com/
+    description: Tunis studio making 2D and 3D animated films, series and explainers, children's content and AR experiences.
+    hq:
+      city: Tunis
+      country: Tunisia
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    markets:
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/morbiket/
+      vimeo: https://vimeo.com/morbiket
+      youtube: https://www.youtube.com/@morbiket
+    added_at: '2026-11-09T00:44:05.510Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

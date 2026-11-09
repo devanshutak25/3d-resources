@@ -1,8 +1,8 @@
 # Playbook: studio discovery by country (both directories)
 
 Used for round 6 (Europe, 2026-11-09: 14 agents, 945 raw -> 935 added) and round 7 (Asia-Pacific, 2026-11-09:
-13 agents, 722 raw -> 712 added). Still to run: Americas, Middle East + Africa (regions = `COUNTRY_REGION` in
-`scripts/lib/studios.js`).
+13 agents, 722 raw -> 712 added) and round 8 (South America + Africa, 2026-11-09: 12 agents, 328 raw -> 319 added).
+Still to run: North + Central America + Caribbean, Middle East (regions = `COUNTRY_REGION` in `scripts/lib/studios.js`).
 Rules for what a studio is live in `project.md` §4b; this file is the how.
 
 ## Steps
@@ -85,6 +85,20 @@ curl -sL -m 25 -A "3d-resources-research/1.0" "$URL" | sed -E 's/<script[^>]*>.*
   Mainland China .cn sites mostly refuse non-CN fetches; .my domains often resolve to 0.0.0.0 on the local router.
 - Agent runs took 26-90 min (longer than Europe); the last ones finish well after the first, so dry-run early to catch
   unknown countries and reject classes.
+- Round 8 (South America + Africa): yield is far lower than Europe/Asia (Africa slices 4-31 rows each, half or less of
+  target). Most African studios have only a Facebook/YouTube page or no site: those rows are dropped (`url` must be the
+  studio's own site, own game site, Steam `/developer/` page or own itch.io). Check the Steam `/developer/` URL resolves:
+  some redirect to `/search/?developer=` (not allowed). Set lower targets for thin regions so agents don't pad.
+- Sources that worked: gamesindustryafrica.com WP REST API (by country tag), Africa Games Week studio catalogue,
+  Animation Nigeria directory (animationng.org/studios), Squid Mag database (database.squidmag.ink/studios), Cameroon
+  Animation Network directory, Bizcommunity + IDIDTHAT directories (South Africa), Morocco Gaming Expo exhibitor WP API,
+  FICAM forum PDFs, ABCA "Guia de Estúdios" PDF (Brazil, ~100 URLs), APRO members, BIG Festival API, the "Jogos
+  Brasileiros" Steam curator (~2,280 games with studio + site), Abragames/ADJogosRS lists, ADVA REST API, CAVI, Animachi
+  WP API (`/wp-json/wp/v2/asociados`), GEMA Colombia list, DeVuego country pages, gamedevmap.com `?country=`.
+- Agents still drop helper scripts in `$R` root (get.sh, gpd.py, txt.py in round 8): harmless, but repeat the
+  private-folder rule. One agent tried an API found in a JS bundle again (permission system denied).
+- Read NFT/Web3 menus and "early access" carefully: an "NFT home" page = crypto rule (drop); a game in early access counts
+  as released; a Steam "Coming soon" game with a ~10-person team does not pass the bar.
 
 ## Agent brief (copy to `$R/BRIEF.md`, fill in `$R`)
 

@@ -71,7 +71,7 @@ const COUNTRY_REGION = {
   'Argentina': 'americas', 'Brazil': 'americas', 'Canada': 'americas', 'Chile': 'americas',
   'Colombia': 'americas', 'Costa Rica': 'americas', 'Dominican Republic': 'americas', 'Ecuador': 'americas', 'Mexico': 'americas',
   'Peru': 'americas', 'Puerto Rico': 'americas', 'United States': 'americas', 'Uruguay': 'americas',
-  'Bolivia': 'americas', 'Guatemala': 'americas', 'Panama': 'americas', 'Venezuela': 'americas',
+  'Bolivia': 'americas', 'Guatemala': 'americas', 'Panama': 'americas', 'Paraguay': 'americas', 'Venezuela': 'americas',
 
   'Armenia': 'europe', 'Austria': 'europe', 'Azerbaijan': 'europe', 'Belarus': 'europe', 'Belgium': 'europe',
   'Faroe Islands': 'europe',
@@ -99,7 +99,8 @@ const COUNTRY_REGION = {
   'Qatar': 'middle-east-africa', 'Saudi Arabia': 'middle-east-africa',
   'South Africa': 'middle-east-africa', 'Tanzania': 'middle-east-africa', 'Tunisia': 'middle-east-africa',
   'United Arab Emirates': 'middle-east-africa', "Côte d'Ivoire": 'middle-east-africa', 'Senegal': 'middle-east-africa',
-  'Uganda': 'middle-east-africa', 'Zambia': 'middle-east-africa', 'Zimbabwe': 'middle-east-africa'
+  'Uganda': 'middle-east-africa', 'Zambia': 'middle-east-africa', 'Zimbabwe': 'middle-east-africa',
+  'Benin': 'middle-east-africa', 'Madagascar': 'middle-east-africa', 'Rwanda': 'middle-east-africa', 'Togo': 'middle-east-africa'
 };
 
 function regionOf(country) {

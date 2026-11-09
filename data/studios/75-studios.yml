@@ -1,0 +1,959 @@
+studios:
+  - name: Immagini Animation Studios
+    url: https://immbrasil.com/
+    description: Animation studio making family 2D series and shorts, from development to delivery.
+    hq:
+      city: Belo Horizonte
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2008
+    notable:
+      - Caju & Malu
+      - A Liga do Atol
+    social:
+      instagram: https://www.instagram.com/immbrasil/
+      linkedin: https://www.linkedin.com/company/immbrasil/
+    added_at: '2026-11-09T00:44:05.411Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: IRRA Studio
+    url: https://irra.studio/
+    description: Animation and motion graphics studio making explainer and brand videos for companies across Brazil.
+    hq:
+      city: Londrina
+      country: Brazil
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://instagram.com/irrastudio
+      linkedin: https://www.linkedin.com/company/irrastudio/
+      vimeo: https://vimeo.com/irrastudio
+    added_at: '2026-11-09T00:44:05.412Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Koi Factory
+    url: https://koifactory.com/
+    description: 2D and 3D animation and motion design studio making ads and content for brands and agencies.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    founded: 2012
+    social:
+      instagram: https://instagram.com/koifactory/
+      vimeo: https://vimeo.com/koifactory
+    added_at: '2026-11-09T00:44:05.413Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lunart
+    url: https://lunart.com.br/
+    description: Animation studio making kids series and commercials since 2000.
+    hq:
+      city: Fortaleza
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+    founded: 2000
+    notable:
+      - Astrobaldo
+      - Alba e os Fantasmas
+    social:
+      instagram: https://www.instagram.com/lunart.estudiodeanimacao/
+    added_at: '2026-11-09T00:44:05.414Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Muirak Studio
+    url: https://muirak.com/
+    description: 2D and 3D animation and motion design studio making ads, editorial work and projection-mapped shows.
+    hq:
+      city: Belém
+      country: Brazil
+    offices:
+      - city: São Paulo
+        country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - experiential
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/muirak_studio/
+    added_at: '2026-11-09T00:44:05.415Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Studio Z
+    url: https://studioz.com.br/
+    description: 3D animation studio making ads, series and features, including the preschool series Babydino.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+      - film
+    notable:
+      - Babydino
+    social:
+      instagram: http://instagram.com/studioz3d
+      vimeo: http://vimeo.com/studioz3d
+    added_at: '2026-11-09T00:44:05.416Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: A-toon
+    url: https://www.a-toon.com/
+    description: 2D, 3D and AI animation studio making animation, motion graphics, illustration and game art.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - outsourcing
+    markets:
+      - advertising
+      - games
+    social:
+      instagram: https://www.instagram.com/atoon_images/
+    added_at: '2026-11-09T00:44:05.417Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Belli Studio
+    url: https://www.bellistudio.com.br/
+    description: Animation and theming studio making animated content and themed storytelling for parks and brands.
+    hq:
+      city: Blumenau
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - experiential
+    markets:
+      - episodic
+      - brand
+    founded: 1999
+    notable:
+      - Esquadrão do Mar Azul
+    social:
+      instagram: https://www.instagram.com/belli.studio/
+    added_at: '2026-11-09T00:44:05.418Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mandra Filmes
+    url: https://www.mandra.com.br/
+    description: Production company making animated series and shorts, live action and docs, with in-house VFX and finishing.
+    hq:
+      city: Goiânia
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - live-action
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Gnaks!
+      - A Ilha dos Ilus
+      - Guito & Lino
+    social:
+      instagram: https://www.instagram.com/mandrafilmes
+    added_at: '2026-11-09T00:44:05.419Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Rocambole Produções
+    url: https://www.rocamboleproducoes.com.br/
+    description: Animation production company making shorts, series and the animated feature Teca e Tuti.
+    hq:
+      city: São Carlos
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+      - episodic
+    founded: 2003
+    notable:
+      - Teca e Tuti
+    social:
+      instagram: https://www.instagram.com/rocamboleproducoes/
+    added_at: '2026-11-09T00:44:05.420Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spirit Animation Studios
+    url: https://www.spiritanimation.com/
+    description: 2D and 3D animation boutique making service work for streamers and game companies plus original series.
+    hq:
+      city: Curitiba
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - games
+      - advertising
+    notable:
+      - Carlos
+      - Rosie
+    social:
+      instagram: https://www.instagram.com/spirit_animation/
+      linkedin: https://www.linkedin.com/company/spirit-animation/
+      vimeo: https://vimeo.com/spiritanimation
+    added_at: '2026-11-09T00:44:05.421Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Valu Animation Studios
+    url: https://www.valu.com.br/
+    description: Animation studio making original kids series and animation for co-produced features.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - Poti & Anda Luz
+      - Megasônicos
+      - A Outra Forma
+    social:
+      instagram: https://www.instagram.com/valustudios/
+    added_at: '2026-11-09T00:44:05.422Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Viu Cine
+    url: https://www.viucine.com/
+    description: 2D animation studio and school making series and features, including Pernambuco's first animated feature.
+    hq:
+      city: Recife
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    notable:
+      - 'Além da Lenda: O Filme'
+      - Recife Assombrado
+      - Zoopidia
+    social:
+      instagram: https://www.instagram.com/viucinestudio
+    added_at: '2026-11-09T00:44:05.423Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MOL
+    url: https://estudiomol.tv/
+    description: Full-service production studio making films, animation and AI content for advertising and brands.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - motion-design
+      - 2d-animation
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Subway
+      - Heinz UK
+    added_at: '2026-11-09T00:44:05.424Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: AIR+ATOMO
+    url: https://airatomo.com/
+    description: Production studio making live action, animation, AI hybrid films and post-production for advertising.
+    hq:
+      city: São Paulo
+      country: Brazil
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - live-action
+      - 3d-animation
+      - vfx
+    markets:
+      - advertising
+    notable:
+      - Natura
+      - Hi-Chew
+      - Samsung Galaxy Watch
+    social:
+      instagram: https://www.instagram.com/_airatomo_/
+      vimeo: https://vimeo.com/airatomo
+    added_at: '2026-11-09T00:44:05.425Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: SirCruX Studios
+    url: https://sircrux.com/
+    description: 3D studio making product animation, medical and biotech visualization and interactive 3D web experiences.
+    hq:
+      city: Recife
+      country: Brazil
+    disciplines:
+      - 3d-animation
+      - product-viz
+      - interactive
+    markets:
+      - medical-science
+      - brand
+    social:
+      instagram: https://instagram.com/sircruxstudios
+      linkedin: https://www.linkedin.com/company/sircrux
+    added_at: '2026-11-09T00:44:05.426Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: StartAnima
+    url: https://www.startanima.com.br/
+    description: Animation studio with over 60 years in advertising, film and series production.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/startanima
+      vimeo: https://vimeo.com/startanima
+    added_at: '2026-11-09T00:44:05.427Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: MSP Estúdios
+    url: https://turmadamonica.uol.com.br/
+    description: Studio behind Turma da Mônica, making comics, animated series, films, apps and licensed content.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - film
+    founded: 1959
+    notable:
+      - Turma da Mônica
+      - Mônica Toy
+    social:
+      instagram: https://instagram.com/mspestudios
+      linkedin: https://linkedin.com/company/mspestudios/
+    added_at: '2026-11-09T00:44:05.428Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mistika Pós-Produção
+    url: https://www.mistika.com.br/
+    description: Post-production house doing VFX, finishing, animation and deliveries for film, series and advertising.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Pequeno Segredo
+      - O Grande Circo Místico
+    added_at: '2026-11-09T00:44:05.429Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Picma Creative Post
+    url: https://www.picmapost.com.br/
+    description: Post-production and VFX studio doing compositing, 2D and 3D work for series, film and ads.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - episodic
+      - film
+      - advertising
+    notable:
+      - Senna (Netflix)
+      - O Tempo Não Para (Globo)
+    added_at: '2026-11-09T00:44:05.430Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Quanta
+    url: https://quanta.works/pt/
+    description: Audiovisual services group with stages, rental and a post-production and VFX unit for film, series and ads.
+    hq:
+      city: São Paulo
+      country: Brazil
+    offices:
+      - city: Rio de Janeiro
+        country: Brazil
+      - city: Buenos Aires
+        country: Argentina
+      - city: Miami
+        country: United States
+      - city: Bogotá
+        country: Colombia
+    disciplines:
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    notable:
+      - Senna (Netflix)
+      - Argentina, 1985
+      - 3%
+    added_at: '2026-11-09T00:44:05.431Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Leste
+    url: https://lestebr.com/
+    description: Creative studio making animation, installations, institutional video and cultural projects for brands.
+    hq:
+      city: Londrina
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - experiential
+      - motion-design
+    markets:
+      - brand
+      - advertising
+      - episodic
+    social:
+      instagram: https://www.instagram.com/leste_br/
+    added_at: '2026-11-09T00:44:05.432Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 52 Animation Studio
+    url: https://www.52animationstudio.com/
+    description: Animation studio making original projects and work-for-hire animation.
+    hq:
+      city: Florianópolis
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+    added_at: '2026-11-09T00:44:05.433Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: BlackHouse
+    url: https://www.blackhouse.com.br/
+    description: Real-time 3D animation studio making animated series and ads, with VFX and motion capture.
+    hq:
+      city: São Paulo
+      country: Brazil
+    disciplines:
+      - 3d-animation
+      - vfx
+      - mocap
+    markets:
+      - episodic
+      - advertising
+    notable:
+      - Heroes of Bible
+    added_at: '2026-11-09T00:44:05.434Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Origem Content
+    url: https://www.origemprodutora.com/
+    description: Production company developing animated and live-action content for film and TV.
+    hq:
+      city: Salvador
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - live-action
+    markets:
+      - film
+      - episodic
+    added_at: '2026-11-09T00:44:05.435Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estúdio Makako
+    url: https://estudiomakako.com/
+    description: Animation studio making ad campaigns and original content for brands.
+    hq:
+      city: Porto Alegre
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Melissa
+      - Gramado Parks
+      - Continental Pneus
+    social:
+      vimeo: http://vimeo.com/estudiomakako
+    added_at: '2026-11-09T00:44:05.436Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Valente Estúdio
+    url: https://valentestudio.com.br/
+    description: Creative studio making animated films, games and digital education rooted in Northeast Brazil stories.
+    hq:
+      city: Fortaleza
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - games
+    notable:
+      - Sebastiana
+    added_at: '2026-11-09T00:44:05.437Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Tecnokena
+    url: https://tecnokena.com.br/
+    description: Animation studio making TV series, films, games and books around its own characters.
+    hq:
+      city: Curitiba
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - stop-motion
+    markets:
+      - episodic
+      - film
+    founded: 1998
+    notable:
+      - Brichos
+      - Poing
+    added_at: '2026-11-09T00:44:05.438Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estúdio Ícone
+    url: https://www.estudioicone.com/
+    description: CGI and retouching studio making key visuals and campaign images for brands and agencies.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - cg
+      - product-viz
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Bradesco
+      - OMO
+      - Itaipava
+    social:
+      instagram: https://www.instagram.com/estudioicone/
+      vimeo: https://vimeo.com/estudioicone
+    added_at: '2026-11-09T00:44:05.439Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Criatura Estúdio
+    url: https://acriatura.com/
+    description: Design, VFX and animation studio making mixed-media content for brands, agencies and music artists.
+    hq:
+      country: Brazil
+    offices:
+      - city: New York
+        country: United States
+    disciplines:
+      - vfx
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+      - brand
+      - music-video
+    notable:
+      - Samsung Galaxy A
+      - Skol Beats
+      - Banco do Brasil
+    social:
+      instagram: https://www.instagram.com/criaturaestudio/
+    added_at: '2026-11-09T00:44:05.440Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Clint
+    url: https://clint.work/
+    description: Motion and 3D studio making brand animation and campaign films for agencies and brands.
+    hq:
+      country: Brazil
+    disciplines:
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/clint.studio/
+      vimeo: https://vimeo.com/clintstudio
+    added_at: '2026-11-09T00:44:05.441Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Espacial Filmes
+    url: https://www.espacialfilmes.com.br/
+    description: Animation production company making features, shorts and animated docs with digital, stop-motion and rotoscope techniques.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - stop-motion
+    markets:
+      - film
+    founded: 2018
+    notable:
+      - Placa-mãe
+      - 'Santos Dumont: O Garoto que Queria Voar'
+    social:
+      instagram: https://www.instagram.com/espacial.filmes/
+      linkedin: https://www.linkedin.com/company/espacialfilmes/
+    added_at: '2026-11-09T00:44:05.442Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bros Creative
+    url: https://www.brosmotion.com/
+    description: Motion graphics and animation studio making explainer and brand videos.
+    hq:
+      country: Brazil
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T00:44:05.443Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mold Studio
+    url: https://www.moldstudio.com.br/
+    description: Independent animation studio making kids series, films, 2D ads, animated docs and 2D and 3D cinematics.
+    hq:
+      city: João Pessoa
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - cinematics
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2015
+    notable:
+      - Caçadores de Botija
+    added_at: '2026-11-09T00:44:05.444Z'
+  - name: Studio Chifrezz
+    url: https://www.studiochifrezz.com/
+    description: Women-led animation studio making original TV series and short films.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - film
+    founded: 2021
+    added_at: '2026-11-09T00:44:05.445Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: UPX Studio
+    url: https://www.upxstudio.com.br/pt
+    description: Studio making workplace safety films and 3D animation for industrial and energy companies.
+    hq:
+      city: Rio de Janeiro
+      country: Brazil
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - live-action
+    markets:
+      - brand
+    notable:
+      - Petrobras
+      - Prumo
+      - Eneva
+    added_at: '2026-11-09T00:44:05.446Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Otto Desenhos Animados
+    url: https://www.ottodesenhos.com.br/
+    description: Animation studio making auteur animated features and shorts for adult and family audiences.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - film
+    notable:
+      - Wood & Stock
+      - Até que a Sbórnia Nos Separe
+      - A Cidade dos Piratas
+    added_at: '2026-11-09T00:44:05.447Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mr. Plot
+    url: https://www.mrplot.com.br/
+    description: Studio behind Mundo Bita, making musical animated content for children.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+      - music-video
+    notable:
+      - Mundo Bita
+    added_at: '2026-11-09T00:44:05.448Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bromelia Produções
+    url: https://www.bromeliafilmes.com.br/
+    description: Producer of the Galinha Pintadinha kids music animation franchise and its feature film.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - music-video
+      - film
+    notable:
+      - Galinha Pintadinha
+      - 'Galinha Pintadinha: O Filme'
+    added_at: '2026-11-09T00:44:05.449Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Frameone
+    url: https://frameone.com.br/
+    description: 3D rendering studio making product images and visuals for manufacturers and e-commerce.
+    hq:
+      city: São Bento do Sul
+      country: Brazil
+    disciplines:
+      - product-viz
+      - cg
+    markets:
+      - brand
+    added_at: '2026-11-09T00:44:05.450Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Piloto
+    url: https://piloto.tv/
+    description: Production company combining film and animation for advertising and pop-culture content.
+    hq:
+      city: São Paulo
+      country: Brazil
+    offices:
+      - city: Brasília
+        country: Brazil
+      - city: Salvador
+        country: Brazil
+    disciplines:
+      - live-action
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Natal Sem Fome 2025 (Artplan)
+    added_at: '2026-11-09T00:44:05.451Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pólen Estúdio
+    url: https://polenfilmes.com.br/
+    description: Animation studio making shorts and series for cinema, TV and new media.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - Tic e o Tigre
+      - Meu Melhor Amigo
+    added_at: '2026-11-09T00:44:05.452Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Akwa Creative Lab
+    url: https://somosakwa.com/
+    description: Content studio developing 2D animated kids and family series about nature and Latin American culture.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Lírio's World
+      - The Desert of Ashankya
+    added_at: '2026-11-09T00:44:05.453Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Inhamis Studio
+    url: https://inhamis.com/
+    description: Creative studio making animation and motion graphics for brands, plus its own projects.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - brand
+      - advertising
+    added_at: '2026-11-09T00:44:05.454Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Estúdio Animatório
+    url: https://animatorio.com.br/
+    description: Animation studio making 2D, stop-motion and motion work for advertising, NGOs and content.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - stop-motion
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T00:44:05.455Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dr.Smith!
+    url: https://www.drsmith.com.br/
+    description: Animation and illustration studio making ads, series, shorts and 3D billboard work.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - Sicredi
+      - Detran RS
+      - Bradesco
+    added_at: '2026-11-09T00:44:05.456Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Visorama
+    url: https://www.visorama.tv/
+    description: Motion graphics, animation and branded content studio working from Brazil and Portugal.
+    hq:
+      country: Brazil
+    offices:
+      - city: Rio de Janeiro
+        country: Brazil
+      - city: São Paulo
+        country: Brazil
+      - city: Lisbon
+        country: Portugal
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T00:44:05.457Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Artdaggers
+    url: https://artdaggers.com/
+    description: Art outsourcing studio making characters, environments and other game art for game developers.
+    hq:
+      city: Florianópolis
+      country: Brazil
+    disciplines:
+      - outsourcing
+    markets:
+      - games
+    founded: 2019
+    social:
+      artstation: https://www.artstation.com/artdaggers
+    added_at: '2026-11-09T00:44:05.458Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pé Grande
+    url: https://www.estudiopegrande.com.br/
+    description: Animation studio making 2D, 3D and motion work for ads and international studios, plus original IP.
+    hq:
+      country: Brazil
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - episodic
+    notable:
+      - Samsung
+      - Campbell's
+      - Arthur Snakewalker
+    added_at: '2026-11-09T00:44:05.459Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Idé Productions
+    url: https://ideproductions.com.br/
+    description: Audiovisual producer making films, series, branded content and ads, with animation and VFX.
+    hq:
+      city: São Luís
+      country: Brazil
+    offices:
+      - city: São Paulo
+        country: Brazil
+    disciplines:
+      - live-action
+      - 2d-animation
+      - vfx
+    markets:
+      - film
+      - episodic
+      - advertising
+    added_at: '2026-11-09T00:44:05.460Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

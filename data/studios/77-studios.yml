@@ -1,0 +1,532 @@
+studios:
+  - name: Minimaliste Studio
+    url: https://minimaliste.ma/
+    description: Moroccan creative studio making animated ad videos and motion design alongside branding and web work.
+    hq:
+      country: Morocco
+    disciplines:
+      - motion-design
+      - 2d-animation
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T00:44:05.511Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lung Animation
+    url: https://lung.co.za/
+    description: Boutique Cape Town animation studio making character animation, VFX and motion graphics for ads, brands and broadcast series.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/lung.animation/
+      vimeo: https://vimeo.com/lung
+    added_at: '2026-11-09T00:44:05.512Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Priest
+    url: https://priest.co.za/
+    description: Cape Town post-production studio doing VFX, compositing, motion design and 2D/3D animation for commercials, features and series.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - vfx
+      - motion-design
+      - 3d-animation
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/priest_ct/
+      vimeo: https://vimeo.com/priestpostproduction
+    added_at: '2026-11-09T00:44:05.513Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Then Again
+    url: https://www.thenagain.co/
+    description: Cape Town 2D and 3D animation and illustration studio making brand films, launches and explainers for agencies and brands.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Pepsi rebrand launch
+      - Heineken x Heinz
+      - Toys R Us Christmas brand film
+    social:
+      instagram: https://www.instagram.com/thenagain_co/
+    added_at: '2026-11-09T00:44:05.514Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: POST
+    url: https://www.postct.com/
+    description: Cape Town post-production and VFX studio doing compositing, motion graphics and animation for ads, film and TV.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - film
+      - episodic
+    social:
+      instagram: https://www.instagram.com/postcapetown_/
+    added_at: '2026-11-09T00:44:05.515Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mushroom Media
+    url: https://mushroommedia.co.za/
+    description: Post-production facility doing VFX, grade and finishing for episodic series, feature films and commercials.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    offices:
+      - city: Cape Town
+        country: South Africa
+    disciplines:
+      - vfx
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2004
+    notable:
+      - Shaka Ilembe
+      - Savage Beauty
+      - Silverton Siege
+    social:
+      instagram: https://www.instagram.com/mushroom.media/
+    added_at: '2026-11-09T00:44:05.516Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Left Post Production
+    url: https://www.left.co.za/
+    description: Johannesburg edit, grade, VFX and finishing house for commercials, film, music videos and streaming.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+      - film
+      - music-video
+    founded: 2006
+    social:
+      instagram: http://instagram.com/leftpostproduction
+      vimeo: http://vimeo.com/leftpost
+    added_at: '2026-11-09T00:44:05.517Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Astral Studios
+    url: https://www.astralstudios.co.za/
+    description: Johannesburg studio making corporate video, 2D and 3D animation, explainers and e-learning content for businesses and government.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+      - live-action
+    markets:
+      - brand
+    founded: 1991
+    social:
+      instagram: https://www.instagram.com/astralstudiosza/
+      linkedin: https://www.linkedin.com/company/astral-studios
+      vimeo: https://vimeo.com/astralstudios
+    added_at: '2026-11-09T00:44:05.518Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pixel Chefs
+    url: https://www.pixelchefs.co.za/
+    description: Johannesburg immersive studio building AR filters, VR experiences, brand activations and 3D motion graphics.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - xr
+      - experiential
+      - motion-design
+      - 3d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/pixelchefs/
+      linkedin: https://www.linkedin.com/company/pixel-chefs/
+    added_at: '2026-11-09T00:44:05.519Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Habitat XR
+    url: https://www.habitatxr.com/
+    description: Immersive nature studio making VR, AR, 360 video, holograms and projection experiences for conservation NGOs and science centres.
+    hq:
+      country: South Africa
+    disciplines:
+      - xr
+      - experiential
+    founded: 2014
+    notable:
+      - Dian Fossey Gorilla Fund GorillAR
+      - Bazaruto VR
+      - California Science Center Blue Whales AR
+    social:
+      instagram: https://www.instagram.com/habitatxr/
+      linkedin: https://www.linkedin.com/company/habitatxr/
+    added_at: '2026-11-09T00:44:05.520Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Visualize 3D
+    url: https://v3d.co.za/
+    description: Architectural visualisation studio making interior and exterior renders, animations and VR walkthroughs for architects and developers.
+    hq:
+      country: South Africa
+    disciplines:
+      - archviz
+      - xr
+    markets:
+      - real-estate
+    social:
+      instagram: https://instagram.com/visualize3d_
+      linkedin: https://www.linkedin.com/company/visualize3d-pty-ltd/
+    added_at: '2026-11-09T00:44:05.521Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Fresh VFX
+    url: https://www.freshvfx.co.za/
+    description: Johannesburg VFX and online finishing studio for TV commercials and brand films.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - vfx
+    markets:
+      - advertising
+    founded: 2014
+    notable:
+      - 'South African Tourism: South Africa Awaits'
+      - 'Nando''s: Imposter'
+      - 'Harpic: White and Shine'
+    added_at: '2026-11-09T00:44:05.522Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Buthano Pictures
+    url: https://www.buthanopictures.com/
+    description: Johannesburg animation development studio creating 2D preschool and family series, with visual development, storyboard and animatic services.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Pulane's Adventures
+      - Thala Bot & Friends
+    added_at: '2026-11-09T00:44:05.523Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Strika Communications
+    url: https://www.strika.com/
+    description: Cape Town studio making animation, motion graphics and 3D re-enactments for mining safety training and kids TV.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - motion-design
+    markets:
+      - brand
+      - episodic
+    notable:
+      - 'Promasidor: The Bells TV series'
+      - 'First Quantum Minerals: THINK! Safety'
+    added_at: '2026-11-09T00:44:05.524Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Wondermerk Studios
+    url: https://wondermerk.com/
+    description: Johannesburg studio making short-form 3D animation and motion graphics for TV commercials, product demos and PSAs.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Cadbury PS Duo
+      - Plascon Woodcare
+    social:
+      instagram: https://www.instagram.com/wondermerk
+      vimeo: https://vimeo.com/wondermerk
+      linkedin: https://www.linkedin.com/company/10464852
+    added_at: '2026-11-09T00:44:05.525Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: ThinkLab
+    url: https://thinklabgroup.com/
+    description: Architectural visualisation studio making cinematic CGI stills and films for luxury hospitality, residential and masterplan developers.
+    hq:
+      city: Cape Town
+      country: South Africa
+    offices:
+      - city: Dubai
+        country: United Arab Emirates
+      - city: London
+        country: United Kingdom
+      - city: New York
+        country: United States
+      - city: Sydney
+        country: Australia
+    disciplines:
+      - archviz
+      - cg
+    markets:
+      - real-estate
+    founded: 2009
+    notable:
+      - Mama Shelter Residences, Cape Town
+      - Vilasita, Zimbali
+      - Al Tay Hills, Sharjah
+    social:
+      instagram: https://www.instagram.com/thinklab_global
+      linkedin: https://www.linkedin.com/company/10877391
+    added_at: '2026-11-09T00:44:05.526Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pyro Media
+    url: https://www.pyromedia.co.za/
+    description: Durban studio making 3D product animation, explainer videos and training and induction videos for companies.
+    hq:
+      city: Durban
+      country: South Africa
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - product-viz
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/pyromediastudio/
+      linkedin: https://www.linkedin.com/company/pyromediastudio/
+    added_at: '2026-11-09T00:44:05.527Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: HolyCow
+    url: https://holycow.co.za/
+    description: Explainer animation and corporate video studio making training, onboarding and internal comms films for companies.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    offices:
+      - city: Cape Town
+        country: South Africa
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - brand
+    social:
+      instagram: https://www.instagram.com/holycowcreativeagency/
+      linkedin: https://www.linkedin.com/company/holycowcreativeagency
+      vimeo: https://vimeo.com/holycowgiveithorns
+    added_at: '2026-11-09T00:44:05.528Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Gees.Studio
+    url: https://gees.studio/
+    description: Cape Town director-led studio making brand films, motion design and 3D product animation for sport, streetwear and tech brands.
+    hq:
+      city: Cape Town
+      country: South Africa
+    disciplines:
+      - motion-design
+      - 3d-animation
+      - product-viz
+    markets:
+      - brand
+      - advertising
+    founded: 2012
+    added_at: '2026-11-09T00:44:05.529Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Virtual Reality South Africa
+    url: https://virtualreality.org.za/
+    description: Johannesburg studio building custom VR and AR experiences, 360 video and Matterport virtual tours, plus headset rentals for events.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - xr
+      - scanning
+      - experiential
+    markets:
+      - brand
+    founded: 2016
+    added_at: '2026-11-09T00:44:05.530Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: bizAR Reality
+    url: https://bizarreality.co.za/
+    description: Johannesburg studio building VR training, AR experiences and operator simulators for mining, logistics and manufacturing.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    offices:
+      - city: Cape Town
+        country: South Africa
+    disciplines:
+      - xr
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T00:44:05.531Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Boiler Room
+    url: https://boilerroom.co.za/
+    description: Johannesburg studio making VR training, 3D animation, simulations and gamified e-learning for corporate clients.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - xr
+      - 3d-animation
+      - interactive
+    markets:
+      - brand
+    added_at: '2026-11-09T00:44:05.532Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Toon53 Productions
+    url: https://www.toon53productions.com/
+    description: Johannesburg boutique studio making 2D and 3D animated music videos, visualizers and ads for international recording artists and labels.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - vfx
+    markets:
+      - music-video
+      - advertising
+    founded: 2008
+    notable:
+      - Marshmello
+      - David Guetta
+      - Anne-Marie
+    social:
+      instagram: https://www.instagram.com/toon53productions/
+    added_at: '2026-11-09T00:44:05.533Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Pretty Neat
+    url: https://prettyneat.tv/
+    description: Film production and post house doing editing, grading, motion graphics, VFX and animation for commercials and branded content.
+    hq:
+      country: South Africa
+    disciplines:
+      - live-action
+      - vfx
+      - motion-design
+    markets:
+      - advertising
+      - brand
+    social:
+      instagram: https://www.instagram.com/prettyneat.tv/
+      vimeo: https://vimeo.com/prettyneat
+    added_at: '2026-11-09T00:44:05.534Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Dolph
+    url: https://dolph.co.za/
+    description: Johannesburg creative studio making brand films, animation and design with in-house post-production.
+    hq:
+      city: Johannesburg
+      country: South Africa
+    disciplines:
+      - live-action
+      - motion-design
+      - 2d-animation
+    markets:
+      - brand
+      - advertising
+    social:
+      instagram: https://www.instagram.com/dolphtv/
+      linkedin: https://www.linkedin.com/company/dolph-graphic-video
+    added_at: '2026-11-09T00:44:05.535Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Lightbulbs and Lazers
+    url: https://lightbulbsandlazers.com/
+    description: Harare studio making 2D and 3D animation, digital art and XR experiences for NGOs, public health campaigns and entertainment clients.
+    hq:
+      city: Harare
+      country: Zimbabwe
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+      - xr
+    markets:
+      - advertising
+      - brand
+    notable:
+      - World of Kurhwa
+      - Matamba Immersiv Incubator (2024-2025)
+    social:
+      instagram: https://www.instagram.com/lightbulbsandlazers/
+      x: https://x.com/BulbsandLazers
+    added_at: '2026-11-09T00:44:05.536Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Nafuna Africa
+    url: https://nafuna.africa/
+    description: Bulawayo animation studio and creative tech lab making the Angry Mwana web series, documentaries and brand explainers.
+    hq:
+      city: Bulawayo
+      country: Zimbabwe
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+      - music-video
+    notable:
+      - Angry Mwana
+      - '#263Urban'
+      - HeForShe campaign
+    social:
+      linkedin: https://www.linkedin.com/company/nafuna-africa
+      youtube: https://www.youtube.com/@nafunaafrica
+    added_at: '2026-11-09T00:44:05.537Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'

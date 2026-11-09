@@ -656,3 +656,372 @@ studios:
     added_at: '2026-11-08T22:14:00.763Z'
     url_status: ok
     url_last_verified: '2026-11-08'
+  - name: 32AD
+    url: https://www.32ad.com.ng/
+    description: Lagos VFX and 3D animation studio making CG, character models and game cinematics for film, TV, ads and games, with its own training academy.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - vfx
+      - 3d-animation
+      - motion-design
+      - cinematics
+      - virtual-production
+    markets:
+      - film
+      - episodic
+      - advertising
+      - games
+    notable:
+      - Lady Buckit and the Motley Mopsters (animation services)
+    added_at: '2026-11-09T00:44:05.344Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Spoof Animation
+    url: https://www.spoofanimations.com/
+    description: Lagos 2D and 3D animation studio making series, short films and commercials, behind Hero Corps and Ajaka Lost in Rome.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - advertising
+    careers: https://www.spoofanimations.com/career/
+    notable:
+      - Hero Corps
+      - Ajaka Lost in Rome
+      - EcoBeki
+      - Area Daddy
+    social:
+      instagram: https://www.instagram.com/spoofanimation
+      linkedin: https://www.linkedin.com/company/spoof-animations/
+      youtube: https://www.youtube.com/@spoofanimation942
+    added_at: '2026-11-09T00:44:05.345Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Creele Animation Studios
+    url: https://creelestudios.com/
+    description: Lagos family entertainment studio making 2D and 3D animated shorts and series from African stories, with in-house sound design.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - film
+      - episodic
+    notable:
+      - The Satchel
+      - Sopo
+    social:
+      instagram: https://www.instagram.com/creelestudio
+      linkedin: https://www.linkedin.com/company/creele-animation-studios
+    added_at: '2026-11-09T00:44:05.346Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Acute Formula
+    url: https://acuteformula.net/
+    description: Ghanaian animation studio making series, commercials, a feature and web comics, including Adventures of Paaputu and Kristonii.
+    hq:
+      city: Sakumono
+      country: Ghana
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - advertising
+      - film
+    notable:
+      - Adventures of Paaputu
+      - Kristonii
+      - Afynn (commercial)
+    social:
+      instagram: https://www.instagram.com/acute_formula
+      linkedin: https://www.linkedin.com/company/acute-formula/
+    added_at: '2026-11-09T00:44:05.347Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: EVCL
+    url: https://www.evcl.tv/
+    description: Abuja animation producer of Bino and Fino, a preschool series about African history, geography and culture dubbed into several languages.
+    hq:
+      city: Abuja
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+    markets:
+      - episodic
+    notable:
+      - Bino and Fino
+    social:
+      linkedin: https://www.linkedin.com/company/evcl
+      youtube: https://www.youtube.com/channel/UCp6V_0qxB8GJ7ks8fnCAEbQ
+    added_at: '2026-11-09T00:44:05.348Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Cleec Design Studios
+    url: https://cleecdesigns.com/
+    description: Lagos architectural visualization studio making photoreal renders, walkthrough animation and interactive VR tours for developers and architects.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - archviz
+      - 3d-animation
+      - interactive
+      - xr
+    markets:
+      - real-estate
+    notable:
+      - The Pacific Lagos
+      - Ijede Ferry Terminal
+      - A & A Tower, Eko Atlantic
+      - Renders for Sujimoto
+    social:
+      instagram: https://www.instagram.com/cleecdesigns/
+    added_at: '2026-11-09T00:44:05.349Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bankrah Studios
+    url: https://bankrahstudios.com/
+    description: Accra studio making 3D animation, motion design and VFX for brands such as Nestle Ghana, alongside web design work.
+    hq:
+      city: Accra
+      country: Ghana
+    disciplines:
+      - 3d-animation
+      - motion-design
+      - vfx
+      - product-viz
+    markets:
+      - advertising
+      - brand
+    added_at: '2026-11-09T00:44:05.350Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Limitless Studios
+    url: https://www.limitless-studios.co/
+    description: Lagos 3D animation studio making OmoBerry, a curriculum-based kids series and songs channel for young audiences.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+    markets:
+      - episodic
+    founded: 2020
+    notable:
+      - OmoBerry
+    social:
+      instagram: https://www.instagram.com/limitless_animation/
+      linkedin: https://www.linkedin.com/company/limitless-animation-studios/
+      youtube: https://www.youtube.com/c/OmoBerry
+    added_at: '2026-11-09T00:44:05.351Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Poka Studios
+    url: https://www.pokastudios.com/
+    description: Accra 2D animation studio making animated music visualizers, music videos and short films for African artists.
+    hq:
+      city: Accra
+      country: Ghana
+    disciplines:
+      - 2d-animation
+    markets:
+      - music-video
+      - film
+    notable:
+      - Eve Bounce (Remix) visualizer for Yaadman fka Yung L and Wizkid
+      - The African Flash
+      - Last Night
+    added_at: '2026-11-09T00:44:05.352Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Mills Media
+    url: https://millsmedia.co/
+    description: Accra studio making 2D and 3D animated series on Ghanaian history and myth, the Afrotales+ streaming app and the game Anokye.
+    hq:
+      city: Accra
+      country: Ghana
+    disciplines:
+      - 2d-animation
+      - 3d-animation
+    markets:
+      - episodic
+      - film
+      - brand
+    notable:
+      - Asantewaa
+      - Tumi
+      - Afrotales+
+      - Anokye (game, 2026)
+    social:
+      instagram: https://www.instagram.com/millsmedia_
+      x: https://x.com/millsmediagh
+    added_at: '2026-11-09T00:44:05.353Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Schucks Media
+    url: https://www.schucksmedia.com/
+    description: Lagos studio making 2D animated short films, TV spots and show openers, plus live-action shorts on African stories.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - motion-design
+      - live-action
+    markets:
+      - film
+      - advertising
+      - episodic
+    notable:
+      - Light Strands (Prime Video)
+      - AFEX Nigeria TV spot
+      - Nestle Golden Morn campaign
+      - Squatterz TV opener
+    social:
+      instagram: https://www.instagram.com/schucksmedia
+      linkedin: https://www.linkedin.com/company/schucks-media
+    added_at: '2026-11-09T00:44:05.354Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Folktail Studios
+    url: https://www.folktailstudios.com/
+    description: Lagos 2D animation studio making original African stories and animation and motion graphics services for clients.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 2d-animation
+      - motion-design
+    markets:
+      - episodic
+      - advertising
+    added_at: '2026-11-09T00:44:05.355Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Kennysoft Studios
+    url: https://www.kennysoftstudio.com/
+    description: Port Harcourt video and animation studio making 3D animated spots, TV commercials, explainers and motion graphics, with a training academy.
+    hq:
+      city: Port Harcourt
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - motion-design
+      - vfx
+      - live-action
+    markets:
+      - advertising
+      - brand
+    notable:
+      - Nestoil Tower video
+      - Money Tango explainer
+      - Pedini Kitchen TVC
+    social:
+      instagram: https://www.instagram.com/kennysoftstudios/
+      linkedin: https://www.linkedin.com/company/kennysoftstudios
+    added_at: '2026-11-09T00:44:05.356Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: 3D Motion Pictures
+    url: https://3dmpl.com/
+    description: Lagos production and post studio making 3D and 2D animation, VFX for film, music videos and TV commercials, and archviz.
+    hq:
+      city: Lagos
+      country: Nigeria
+    disciplines:
+      - 3d-animation
+      - 2d-animation
+      - vfx
+      - archviz
+      - motion-design
+    markets:
+      - advertising
+      - music-video
+      - film
+      - real-estate
+    added_at: '2026-11-09T00:44:05.357Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Bleed VFX
+    url: https://www.bleedvfx.com/
+    description: Creative studio directing and producing VFX, dynamic simulations and CG for global advertising and music videos.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - vfx
+      - cg
+      - 3d-animation
+    markets:
+      - advertising
+      - music-video
+    notable:
+      - PUMA Nitro
+      - 'Linkin Park: The Emptiness Machine'
+      - Sephora
+      - 'Coors Light: Freeze the world'
+    social:
+      instagram: https://www.instagram.com/bleedvfx
+      vimeo: https://vimeo.com/bleedvfx
+      linkedin: https://www.linkedin.com/company/bleed-vfx/
+      behance: https://www.behance.net/vfxBleed
+    added_at: '2026-11-09T00:44:05.358Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Zeta Positivo
+    url: https://www.zetapositivo.com.ar/
+    description: 3D and AI-assisted animation studio making characters, corporate mascots, VFX and motion graphics for ads, series and social media.
+    hq:
+      city: Garín
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - vfx
+      - motion-design
+      - ai-production
+    markets:
+      - advertising
+      - episodic
+      - brand
+    social:
+      instagram: https://www.instagram.com/zeta.positivo.animation.studio/
+      vimeo: https://vimeo.com/zetapositivo
+    added_at: '2026-11-09T00:44:05.359Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
+  - name: Malabar
+    url: https://malabar.tv/
+    description: 3D animation studio producing original kids series, feature films and postproduction, plus an AI production service for ads and content.
+    hq:
+      city: Buenos Aires
+      country: Argentina
+    disciplines:
+      - 3d-animation
+      - ai-production
+    markets:
+      - episodic
+      - film
+      - advertising
+    founded: 2001
+    notable:
+      - Robotia
+      - Kito Pizzas
+      - Guri Guazú
+    social:
+      instagram: https://instagram.com/produmalabar/
+      linkedin: https://linkedin.com/company/malabar-producciones-s-r-l/
+      youtube: https://youtube.com/@malabar_TV
+    added_at: '2026-11-09T00:44:05.360Z'
+    url_status: ok
+    url_last_verified: '2026-11-09'
