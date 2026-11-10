@@ -119,7 +119,7 @@ entries:
     description: Web studio that runs many image and video models side by side; Character IDs keep one face, product or place consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video with music and voice-over.
     license: Paid
     entry_type: tool
-    pricing: Credit-based subscription plans; the credit price is shown before each run
+    pricing: Plans from $19.99/mo, credit packs from $39.99
     tags:
       tech:
         - ai-generative

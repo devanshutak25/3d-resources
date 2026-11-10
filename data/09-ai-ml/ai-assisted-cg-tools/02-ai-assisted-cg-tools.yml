@@ -233,7 +233,6 @@ entries:
         - mac
         - linux
       tech:
-        - ai-agent
         - mcp
         - blender
     readme_tags:

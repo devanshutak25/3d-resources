@@ -802,9 +802,22 @@ entries:
   - name: Quady3D
     url: https://quady3d.com/
     added_at: '2026-11-09T09:26:53Z'
-    description: Browser workspace for generating and inspecting 3D assets from text, images, sketches or multiple views before export.
-    license: Freemium
+    description: Browser workspace that runs several 3D generation models (Rodin, Hunyuan3D, Meshy, Tripo, TRELLIS) on text, images, sketches or multiple views, then exports the mesh.
+    pricing: From $24.99/mo, 7-day free trial
+    license: Paid
     entry_type: software
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - subscription
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
   - name: Hunyuan3D-Omni (Tencent)

@@ -993,3 +993,26 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.506Z'
+  - name: PeerBrush
+    url: https://peerbrush.com/
+    description: Open-source layered painting app that edits PSDs with masks and lets a connected AI agent work on its own layer or region of the same document.
+    pricing: Free (GPL-3.0)
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+        - film-vfx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - opensource-alt
+        - ai-generative
+    readme_tags:
+      - Free OSS
+      - AI Agent Layers
+    added_at: '2026-11-10T10:37:46.735Z'
