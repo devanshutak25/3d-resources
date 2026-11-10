@@ -799,6 +799,14 @@ entries:
     added_at: '2026-11-07T09:03:11Z'
     dual_listed_in:
       - ai-ml-for-cg/3d-generation
+  - name: Quady3D
+    url: https://quady3d.com/
+    added_at: '2026-11-09T09:26:53Z'
+    description: Browser workspace for generating and inspecting 3D assets from text, images, sketches or multiple views before export.
+    license: Freemium
+    entry_type: software
+    dual_listed_in:
+      - ai-ml-for-cg/3d-generation
   - name: Hunyuan3D-Omni (Tencent)
     url: https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni
     description: Controllable 3D generation model on Hunyuan3D 2.1 that takes bounding boxes, skeletal poses, point clouds or voxels as extra conditions.
