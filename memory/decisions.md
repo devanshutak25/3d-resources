@@ -148,6 +148,11 @@ Architectural / structural decisions w/ rationale + date.
 - Paraguay -> americas; Benin, Madagascar, Rwanda, Togo -> middle-east-africa (COUNTRY_REGION lookup).
 - Region scope "South America + Africa" left out Central America, Caribbean and the Middle East (Gulf, Levant, Israel, Iran): next rounds.
 
+## 2026-11-10: PR #52-#55 + issue #54 triage
+- Multi-model AI studios (aggregators of image/video/3D models) are in scope like Higgsfield Canvas / Freepik Spaces (#52 Imagera, #53 Quady3D). Consumer filter/template apps stay out (#50/#51 rule).
+- Free trial without a free tier = Paid, not Freemium (#53 Quady3D, 7-day trial).
+- PolyForm Shield source-available = Free (#55), same as custom open-weights licences.
+
 ## 2026-11-09: Studio round 9, North America + Europe second pass
 - "North America" read as US + Canada + Mexico + Central America + Caribbean. "Europe once more" = second pass per cluster, aimed at sources and gaps round 6 missed.
 - El Salvador, Honduras, Jamaica, Trinidad and Tobago -> americas; Albania -> europe (COUNTRY_REGION lookup).

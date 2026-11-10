@@ -341,3 +341,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 
 **Answered:** Read "fix" as the open US city-format item: stripped state suffixes from 249 US hq/office cities ("Los Angeles, CA" -> "Los Angeles"). Validate/test/build ✓. Committed round 9 (feat) + memory (docs), pushed.
 
+
+**Prompt:** (2026-11-09)
+> check PR
+
+**Answered:** Reviewed open PR #52 Imagera (self-submitted, §09 video-generation). Validates locally, merges clean, site live, claims true. CI run waits on maintainer approval. Flagged vague `pricing`, scope (social/marketing multi-model studio). Not merged; asked user.
+
+**Prompt:** (2026-11-10)
+> check PRs and Issues. Close
+
+**Answered:** Triaged #52 Imagera, #53 Quady3D, #55 DESIGN:OS (all accepted; fixes: Imagera pricing, Quady3D Paid + tags, DESIGN:OS dropped `ai-agent` tag) and issue #54 PeerBrush (added to §12 design-software). Session merge blocked by auto-mode classifier; merges + fixes committed locally, user to push and close #54. Catalog 4,765.
