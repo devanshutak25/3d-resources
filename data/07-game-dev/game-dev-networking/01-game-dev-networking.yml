@@ -249,3 +249,36 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.736Z'
+  - name: GameFrameX
+    url: https://github.com/GameFrameX/GameFrameX
+    description: Game framework pairing Unity, Godot, Cocos and Laya clients with a single .NET server. AGPL-3.0.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.333Z'
+  - name: Gaffer On Games
+    url: https://gafferongames.com/
+    description: 'Glenn Fiedler''s articles on game netcode: UDP protocols, packet serialization, reliability and networked physics.'
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - physics
+    added_at: '2026-11-10T11:10:44.426Z'
+  - name: '0 FPS: Replication in Networked Games'
+    url: https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/
+    description: Four-part article series on state replication in networked games, covering latency and bandwidth.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.427Z'

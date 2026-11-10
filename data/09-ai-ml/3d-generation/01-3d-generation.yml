@@ -440,3 +440,76 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.827Z'
+  - name: Sat3DGen
+    url: https://github.com/qianmingduowan/Sat3DGen
+    description: ICLR 2026 code that builds a street-level 3D scene mesh from a single satellite image. A Hugging Face demo exports OBJ and renders walkthrough video.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+      output:
+        - archviz
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.120Z'
+  - name: 404-GEN Blender Add-on
+    url: https://github.com/404-Repo/404-gen-blender-add-on
+    description: Blender add-on that calls the 404-GEN 3D generator, which runs on the Bittensor network.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - modeling
+      skill:
+        - beginner
+      tech:
+        - blender-addon
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.138Z'
+  - name: AnyScene
+    url: https://github.com/apekshik/anyscene
+    description: Agent pipeline that builds a dressed, lit Blender scene from reference images or a short brief, generating each prop through image-to-3D models on fal.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+        - lighting
+        - look-dev
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.186Z'
+  - name: Blender AI Arena
+    url: https://blenderai.org/
+    description: Blind side-by-side voting site and Glicko-2 leaderboard comparing AI models that write Blender Python scripts for 3D modeling prompts, with a public prompt set.
+    entry_type: reference
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.193Z'
+  - name: img2threejs
+    url: https://github.com/img2threejs/img2threejs
+    description: Coding-agent workflow that rebuilds the object in a reference image as a procedural, code-only Three.js model in TypeScript, with no mesh files.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - procedural
+        - real-time
+    added_at: '2026-11-10T11:10:44.580Z'

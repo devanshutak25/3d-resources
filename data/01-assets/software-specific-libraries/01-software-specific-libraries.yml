@@ -307,3 +307,16 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.596Z'
+  - name: Erindale's Nodevember 2020 Shader Pack
+    url: https://erindale.gumroad.com/l/node2020
+    description: Blender file with 30 procedural shaders from Nodevember 2020, cleared for personal and commercial work.
+    license: Free
+    entry_type: asset-source
+    pricing: Free (pay what you want)
+    tags:
+      workflow:
+        - material-authoring
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-11-10T11:10:44.209Z'

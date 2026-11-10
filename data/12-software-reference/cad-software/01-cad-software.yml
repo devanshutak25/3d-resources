@@ -544,3 +544,25 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.640Z'
+  - name: JSCAD
+    url: https://openjscad.xyz/
+    description: Open-source browser and command-line tools for creating parametric 2D and 3D CAD designs with JavaScript code.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - creative-coding
+      output:
+        - product-viz
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.597Z'

@@ -388,3 +388,40 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.930Z'
+  - name: Awesome Game Analysis
+    url: https://github.com/OTFCG/Awesome-Game-Analysis
+    description: Curated list of technical analysis resources for video games.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.351Z'
+  - name: 'Tech Art Resources: Graphics'
+    url: https://guerilla-tactics.com/hats/graphics/
+    description: Annotated link list for technical artists covering shaders, rendering fundamentals, graphics math and optimization.
+    entry_type: reference
+    tags:
+      workflow:
+        - look-dev
+        - rendering
+      output:
+        - games
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.379Z'
+  - name: Heart Machine Tech Art Learning Resources
+    url: https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d
+    description: Heart Machine's list of resources for building technical art skills for games, published after its Hyper Light Breaker tech art talks.
+    entry_type: reference
+    tags:
+      workflow:
+        - fx
+      output:
+        - games
+      skill:
+        - beginner
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.429Z'

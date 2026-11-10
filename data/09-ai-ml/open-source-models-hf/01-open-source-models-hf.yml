@@ -503,3 +503,18 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.443Z'
+  - name: Boogu-Image
+    url: https://github.com/Boogu-Project/Boogu-Image
+    description: Apache-2.0 image generation and editing model family with open weights.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.150Z'

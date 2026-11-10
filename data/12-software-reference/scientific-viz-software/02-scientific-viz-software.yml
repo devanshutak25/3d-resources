@@ -201,3 +201,43 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.864Z'
+  - name: Blender Optics Simulator
+    url: https://github.com/emircbngl/blender-optics-simulator
+    description: Blender add-on for laying out an optical bench with lasers, mirrors, lenses and detectors, tracing beams live with polarization and dispersion, then rendering in Cycles.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - simulation
+        - rendering
+      output:
+        - scientific-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - physics
+    added_at: '2026-11-10T11:10:44.164Z'
+  - name: luma.gl
+    url: https://luma.gl/
+    description: Open-source GPU toolkit for WebGPU and WebGL2 data visualization and compute.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+        - creative-coding
+      output:
+        - scientific-viz
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - real-time
+    added_at: '2026-11-10T11:10:44.600Z'

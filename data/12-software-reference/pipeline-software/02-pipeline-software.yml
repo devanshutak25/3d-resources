@@ -469,3 +469,16 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.774Z'
+  - name: Atoms Crowd
+    url: https://atoms.toolchefs.com/
+    description: Crowd simulation and agent animation toolset from Toolchefs for film, episodic, games and synthetic data.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - animation
+        - simulation
+      output:
+        - film-vfx
+        - games
+    added_at: '2026-11-10T11:10:44.237Z'

@@ -332,3 +332,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.661Z'
+  - name: Mixture
+    url: https://github.com/alelievr/Mixture
+    description: Node-based tool built in Unity for generating textures in real time.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+      tech:
+        - unity-plugin
+        - node-based
+        - procedural
+        - real-time
+    added_at: '2026-11-10T11:10:44.261Z'

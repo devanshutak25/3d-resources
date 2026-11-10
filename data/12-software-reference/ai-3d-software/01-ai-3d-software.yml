@@ -847,3 +847,19 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.452Z'
+  - name: Image3D
+    url: https://image3d.io/
+    description: Browser tool that turns one image or a text prompt into a 3D model, with in-browser preview and GLB, OBJ, STL or PLY export on paid plans.
+    license: Paid
+    entry_type: service
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - ai-generative
+        - subscription
+    added_at: '2026-11-10T11:10:44.134Z'

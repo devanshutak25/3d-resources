@@ -406,3 +406,29 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.875Z'
+  - name: Awesome Generative AI (filipecalegario)
+    url: https://github.com/filipecalegario/awesome-generative-ai
+    description: CC0 curated list of generative AI tools, works, models and references aimed at artistic use.
+    entry_type: reference
+    tags:
+      workflow:
+        - reference
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.160Z'
+  - name: Kubric
+    url: https://github.com/google-research/kubric
+    description: Google Research data generation pipeline for rendering synthetic multi-object videos with instance segmentation masks, depth maps and optical flow.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+        - simulation
+      output:
+        - scientific-viz
+      tech:
+        - physics
+        - offline
+    added_at: '2026-11-10T11:10:44.191Z'

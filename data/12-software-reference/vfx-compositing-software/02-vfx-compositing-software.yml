@@ -1,0 +1,37 @@
+entries:
+  - name: Millumin
+    url: https://www.millumin.com/
+    description: macOS software for building audiovisual shows for theater, dance, video mapping and interactive installations.
+    license: Paid
+    entry_type: software
+    pricing: Rental from 29 EUR
+    tags:
+      workflow:
+        - projection-mapping
+        - compositing
+      output:
+        - event-experiential
+      platform:
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.604Z'
+  - name: Veejay
+    url: https://veejayhq.github.io/
+    description: Visual instrument and real-time video sampler for Linux, with live effects, mixing of multiple sources and recording to disk.
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - event-experiential
+      platform:
+        - linux
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.606Z'

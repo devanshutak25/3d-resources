@@ -297,3 +297,18 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.740Z'
+  - name: ProtonGraph
+    url: https://github.com/protongraph/protongraph
+    description: Experimental node-based app for procedural 3D content generation, built with Godot and aimed at game development.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      tech:
+        - node-based
+        - procedural
+    added_at: '2026-11-10T11:10:44.268Z'

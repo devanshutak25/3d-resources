@@ -624,3 +624,36 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.923Z'
+  - name: HDRView
+    url: https://github.com/wkjarosz/hdrview
+    description: Research-oriented image viewer for examining and comparing high dynamic range images.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+        - compositing
+    added_at: '2026-11-10T11:10:44.274Z'
+  - name: ImageViewer (kopaka1822)
+    url: https://github.com/kopaka1822/ImageViewer
+    description: Image viewer and manipulator for HDR, PFM, DDS, KTX, EXR, PNG, JPG and BMP files.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.276Z'
+  - name: SageThumbs
+    url: https://www.cherubicsoft.com/en/projects/sagethumbs/
+    description: Windows Explorer shell extension that adds image thumbnails and conversion, with AI, PS, EPS and PDF support. GPLv2.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      platform:
+        - win
+    added_at: '2026-11-10T11:10:44.439Z'

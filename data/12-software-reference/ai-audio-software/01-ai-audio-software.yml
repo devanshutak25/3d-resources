@@ -294,3 +294,15 @@ entries:
       - Freemium
       - Web
     best_for: Synced video sound effects
+  - name: WellSaid
+    url: https://www.wellsaid.io/
+    description: AI voiceover platform for teams, with licensed voices built from recordings of real voice actors.
+    entry_type: service
+    tags:
+      workflow:
+        - audio-design
+      platform:
+        - web
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.158Z'

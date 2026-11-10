@@ -480,3 +480,33 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.436Z'
+  - name: OpenDyslexic
+    url: https://opendyslexic.org/
+    description: Typeface designed against common symptoms of dyslexia, released under the SIL OFL.
+    license: Open Source
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.461Z'
+  - name: Geist
+    url: https://vercel.com/font
+    description: Sans, mono and pixel typeface family from Vercel, released as variable fonts under the OFL.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.463Z'
+  - name: Open Baskerville
+    url: https://github.com/klepas/open-baskerville
+    description: Open font project reviving Fry's Baskerville, with sources on GitHub under GPL.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      output:
+        - generalist
+    added_at: '2026-11-10T11:10:44.465Z'

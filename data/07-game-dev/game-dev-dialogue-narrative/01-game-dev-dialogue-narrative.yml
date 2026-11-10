@@ -198,3 +198,34 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.709Z'
+  - name: Dialogger
+    url: https://github.com/etodd/dialogger
+    description: Cross-platform graph editor for writing branching game dialogue.
+    license: Open Source
+    entry_type: tool
+    tags:
+      output:
+        - games
+      tech:
+        - node-based
+    added_at: '2026-11-10T11:10:44.408Z'
+  - name: Game Narrative Resources
+    url: https://sashakirlee.com/game-narrative-resources
+    description: Curated list of books, tools, videos, job-hunting advice and Discord communities for narrative designers and game writers.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.456Z'
+  - name: Emily Short's Interactive Storytelling
+    url: https://emshort.blog/
+    description: Blog on narrative in games and new media.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.457Z'

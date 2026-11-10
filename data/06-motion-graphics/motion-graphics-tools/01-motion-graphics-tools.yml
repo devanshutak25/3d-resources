@@ -978,3 +978,47 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.916Z'
+  - name: Anubis
+    url: https://battleaxe.co/anubis
+    description: Battle Axe panel that renders small MP4 previews from After Effects, Premiere, Animate and Photoshop with templated file names and folders.
+    license: Paid
+    entry_type: plugin
+    pricing: $25
+    tags:
+      workflow:
+        - rendering
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.470Z'
+  - name: Buttcapper
+    url: https://battleaxe.co/buttcapper
+    description: Free Battle Axe script that changes stroke caps and joins on selected paths, layers or the whole comp at once.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.474Z'
+  - name: AEUX
+    url: https://google.github.io/AEUX/
+    description: Open-source panel that transfers Figma and Sketch layers into After Effects as editable shape, text and image layers. Repo archived in 2024.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.477Z'

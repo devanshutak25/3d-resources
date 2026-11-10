@@ -579,3 +579,96 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.696Z'
+  - name: Excalibur.js
+    url: https://excaliburjs.com/
+    description: 2D game engine for the web written in TypeScript, BSD 2-Clause licensed.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.331Z'
+  - name: KorGE
+    url: https://korge.org/
+    description: Multiplatform game engine for Kotlin.
+    entry_type: software
+    tags:
+      output:
+        - games
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.335Z'
+  - name: Nu Game Engine
+    url: https://github.com/bryanedds/Nu
+    description: Functional game engine written in F#. Free for noncommercial use, commercial license $99 per year.
+    license: Free NC
+    entry_type: software
+    pricing: Free noncommercial, $99/yr commercial
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.337Z'
+  - name: camera-controls
+    url: https://github.com/yomotsu/camera-controls
+    description: Camera controller for three.js, similar to OrbitControls but with smooth transitions between viewpoints.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.582Z'
+  - name: Threlte
+    url: https://threlte.xyz/
+    description: 3D framework for Svelte that exposes Three.js as declarative, reactive components.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - generalist
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.584Z'
+  - name: Zephyr3D
+    url: https://zephyr3d.org/
+    description: TypeScript rendering engine for the browser with one API over WebGL, WebGL2 and WebGPU, a scene graph and a web-based editor.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+        - creative-coding
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - gpu
+        - raster
+    added_at: '2026-11-10T11:10:44.593Z'

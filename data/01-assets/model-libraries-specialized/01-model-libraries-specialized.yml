@@ -697,3 +697,17 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.472Z'
+  - name: Greeble Town
+    url: https://greebletown.com/
+    description: Sci-fi and hard-surface greeble kitbash packs with PBR textures for Blender, built for scattering. Includes free packs.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - film-vfx
+        - games
+      tech:
+        - pbr
+    added_at: '2026-11-10T11:10:44.204Z'

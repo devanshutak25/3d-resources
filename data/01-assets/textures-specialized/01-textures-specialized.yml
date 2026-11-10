@@ -242,3 +242,31 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.599Z'
+  - name: Copernicus DEM
+    url: https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM
+    description: ESA digital surface model of Earth at 90 m, 30 m and 10 m resolution with European and global coverage, usable as terrain height data.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - modeling
+      output:
+        - scientific-viz
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.218Z'
+  - name: USGS TNM Downloader
+    url: https://apps.nationalmap.gov/downloader/
+    description: 'Download tool for The National Map: US elevation, imagery, boundaries and transportation data.'
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - reference
+      output:
+        - scientific-viz
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.220Z'

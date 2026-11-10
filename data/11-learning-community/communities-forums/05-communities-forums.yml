@@ -722,3 +722,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.910Z'
+  - name: MUTEK
+    url: https://mutek.org/
+    description: Not-for-profit festival organization for digital creativity in sound, music and audiovisual art, with editions in Montreal, Barcelona, Tokyo and other cities.
+    entry_type: community
+    tags:
+      output:
+        - event-experiential
+    added_at: '2026-11-10T11:10:44.622Z'
+  - name: Awesome Livecoding
+    url: https://codeberg.org/toplap/awesome-livecoding
+    description: TOPLAP's curated list of live coding languages and tools, now maintained on Codeberg.
+    entry_type: reference
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - event-experiential
+    added_at: '2026-11-10T11:10:44.624Z'

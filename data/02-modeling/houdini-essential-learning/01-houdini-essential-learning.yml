@@ -338,3 +338,20 @@ entries:
         - houdini
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: SideFX Digital Learning Material
+    url: https://docs.google.com/spreadsheets/d/11FbYBV_OV2INv3LCk38fmcgZbuVrgxYaZK-1KifCpyc/edit
+    description: Spreadsheet index of SideFX tutorials and talks with type, date, instructor, Houdini version and tags.
+    entry_type: reference
+    added_at: '2026-11-10T11:10:44.244Z'
+  - name: Luiz' Big List of Games Tutorials
+    url: https://www.sidefx.com/tutorials/luiz-big-list-of-games-tutorials/
+    description: Curated list of tutorials recommended to new users learning Houdini for game development.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.246Z'

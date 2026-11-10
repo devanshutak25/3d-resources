@@ -10,7 +10,7 @@ This file is the canonical brief for the repo. It supersedes scattered docs wher
 
 `3d_resources` is a curated, lookup-first reference catalog for the 3D / VFX / motion / games / AI-CG industry. It ships as:
 
-- A GitHub repo (`README.md` + `data/` source): 975 stars (2026-10-05). Catalog size: **4,765 entries, 106 deprecated** across 12 sections / 150 subsections (2026-11-10). Public copy uses `catalog.publicCountLabel()` ("4,600+" on 2026-11-09), never a hardcoded number.
+- A GitHub repo (`README.md` + `data/` source): 1,020 stars (2026-11-10). Catalog size: **4,984 entries, 106 deprecated** across 12 sections / 150 subsections (2026-11-10). Public copy uses `catalog.publicCountLabel()` ("4,800+" on 2026-11-10), never a hardcoded number.
 - A live static site: `https://3d.devanshutak.xyz` (Cloudflare Pages).
 - An `llms.txt` + `llms-full.txt` feed for AI crawlers (ChatGPT, Perplexity, Claude).
 - An Atom feed (`feed.xml`) + sitemap + per-section indexable pages.
@@ -366,6 +366,15 @@ left open, remove when done.
 - Motion Design School Discord entry shares the school's site URL (user: leave as-is, 2026-06-16).
 - 2026-11-03 discovery batch (+367 entries, +188 studios) was verified by the finding agents only; the next
   monthly link run is its first independent check. Fab, aescripts, Shadertoy, Printables, Pond5 block bots (unverified, not added).
+- 2026-11-10 awesome-list re-mine (+219, see CHANGELOG): agent-verified only. 27 aescripts rows backed by Wayback
+  snapshots only (live pages 403) were imported then removed at the user's request. 17 hint-only rows held, not added (GEOlayers 3, RenderGarden, Composite Brush, BAO Bones,
+  Pixel Sorter 4, Fractal Noise 3D, Valve networking wiki x2, Khronos GLSL wiki, Openverse, WOLF RPG Editor, Peter Quint
+  + Rohan Dalvi Vimeo, TRIBES + MDA PDFs, UE C++ API reference, procedural-generation.tumblr.com).
+- Misfile cleanup flagged by the re-mine agents, not done: `youtube-houdini` holds non-Houdini channels (Inigo Quilez,
+  REAC, Codegram, ChromeDevs); channel rows named after one video (youtube-houdini, youtube-blender, Rive);
+  `paid-tutorial-platforms` holds free items; `game-design-theory` and `plugin-marketplaces` act as catch-alls;
+  `VFX Apprentice (Allan McKay)` name/URL mismatch; Quaternius listed twice; `Asis FX` typo (AxisFX); Graswald URL
+  stale; Rubberhose 2 in inspiration; splat tools split between `photogrammetry-scanning` and `gaussian-splatting-nerf`.
 - §07 workflow coverage is 27% by design: gameplay code, networking, UI and similar have no workflow value.
 - 2026-11-09 news batch (+548, see CHANGELOG): agent-verified + main-session probe only. ~21 software/tool rows have
   no licence (not stated on page); several AI model `pricing` strings carry custom weights-licence limits; YouTube

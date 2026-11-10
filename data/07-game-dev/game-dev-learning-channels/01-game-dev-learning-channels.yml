@@ -363,3 +363,61 @@ entries:
         - games
       platform:
         - web
+  - name: Luke Muscat
+    url: https://www.youtube.com/@lukemuscat
+    description: YouTube channel on game design and solo development by the designer of Fruit Ninja and Jetpack Joyride.
+    entry_type: channel
+    tags:
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.349Z'
+  - name: Indie Game Clinic
+    url: https://www.youtube.com/@IndieGameClinic
+    description: YouTube channel that plays in-development indie games and gives feedback on their design and direction.
+    entry_type: channel
+    tags:
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.360Z'
+  - name: GDC Festival of Gaming
+    url: https://www.youtube.com/@GDCFestivalofGaming
+    description: Official Game Developers Conference YouTube channel with recorded talks, including the Technical Artist Bootcamp VFX sessions.
+    license: Free
+    entry_type: channel
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.434Z'
+  - name: AdamCYounis
+    url: https://www.youtube.com/@AdamCYounis
+    description: YouTube channel with game development tutorials and artwork videos, including the Pixel Art Class series.
+    license: Free
+    entry_type: channel
+    tags:
+      workflow:
+        - concept
+      output:
+        - games
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.438Z'
+  - name: Extra Credits
+    url: https://www.youtube.com/@extracredits
+    description: YouTube channel of animated video essays about video games and game design.
+    license: Free
+    entry_type: channel
+    tags:
+      output:
+        - games
+      platform:
+        - web
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.452Z'

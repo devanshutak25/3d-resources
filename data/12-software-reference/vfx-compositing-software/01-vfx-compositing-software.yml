@@ -1124,3 +1124,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.928Z'
+  - name: Modul8
+    url: https://www.garagecube.com/modul8/
+    description: macOS VJ application from garageCube for live performance and real-time video mixing.
+    license: Paid
+    entry_type: software
+    tags:
+      workflow:
+        - compositing
+        - projection-mapping
+      output:
+        - event-experiential
+      platform:
+        - mac
+      skill:
+        - intermediate
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.601Z'

@@ -216,3 +216,37 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.584Z'
+  - name: Blender Fundamentals (Dev Null Productions)
+    url: https://docs.google.com/document/d/1oWYIJWIGyjYJeQ9ZXnwKgS2uFzZ6K8jfILafHJdvg7M/edit
+    description: Free reference document on Blender fundamentals by Dev Null Productions.
+    entry_type: reference
+    tags:
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.221Z'
+  - name: Blender Geometry Nodes Design Patterns
+    url: https://docs.google.com/document/d/10c84Mg8OojWg2O7LiruQ_Cgb4kpMxSL4XRTPuQQPuDI/edit
+    description: Free reference document of Geometry Nodes design patterns by Dev Null Productions.
+    entry_type: reference
+    tags:
+      workflow:
+        - modeling
+      skill:
+        - intermediate
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-11-10T11:10:44.225Z'
+  - name: Blender Material Design Patterns
+    url: https://docs.google.com/document/d/1hSVjUuQOEvJCHDx8JDGbgf_4Buv7kzVuT6wKdEY7U_g/edit
+    description: Free reference document of material and shader node design patterns in Blender by Dev Null Productions.
+    entry_type: reference
+    tags:
+      workflow:
+        - material-authoring
+      skill:
+        - intermediate
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-11-10T11:10:44.227Z'

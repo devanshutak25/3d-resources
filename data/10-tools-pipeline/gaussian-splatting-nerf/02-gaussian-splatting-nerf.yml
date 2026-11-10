@@ -495,3 +495,55 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.876Z'
+  - name: XScene-UEPlugin
+    url: https://github.com/xverse-engine/XScene-UEPlugin
+    description: Unreal Engine 5 plugin for real-time display, management, editing and hybrid rendering of Gaussian splatting models.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+        - xr
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+        - unreal-plugin
+        - real-time
+    added_at: '2026-11-10T11:10:44.136Z'
+  - name: splatreg
+    url: https://github.com/Archerkattri/splatreg
+    description: Python library and CLI that aligns and merges two 3D Gaussian splat scans into one coordinate frame, recovering scale.
+    license: Open Source
+    entry_type: tool
+    tags:
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+    added_at: '2026-11-10T11:10:44.140Z'
+  - name: Open Reality
+    url: https://github.com/reality-opened/openreality
+    description: Turns phone video into a 3D scene with VGGT-SLAM, exports splats, and lets AI assistants query measurements and scene data over MCP.
+    license: Open Source
+    entry_type: tool
+    tags:
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+    added_at: '2026-11-10T11:10:44.143Z'
+  - name: PlayCanvas SOG Format
+    url: https://blog.playcanvas.com/playcanvas-open-sources-sog-format-for-gaussian-splatting/
+    description: PlayCanvas post introducing SOG (Spatially Ordered Gaussians), an open compressed format for Gaussian splats. The example scene drops from a 1GB PLY to 42MB.
+    entry_type: reference
+    tags:
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - gaussian-splatting
+    added_at: '2026-11-10T11:10:44.146Z'

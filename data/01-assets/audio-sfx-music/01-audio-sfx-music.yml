@@ -595,3 +595,61 @@ entries:
     dual_listed_in:
       - assets-libraries/stock-footage
     added_at: '2026-11-08T19:03:24.598Z'
+  - name: SFXMint
+    url: https://sfxmint.com/
+    description: Library of over 10,500 CC0 sound effects for games, video and apps, downloadable without signup.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+    added_at: '2026-11-10T11:10:44.346Z'
+  - name: OpenTracks (formerly DOVA-SYNDROME)
+    url: https://opentracks.com/
+    description: Japanese library of over 19,000 free background music tracks and 1,200 sound effects, usable in commercial work without notification.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.405Z'
+  - name: Soundza
+    url: https://soundza.com/
+    description: Library of free sound effects, loops, one-shots and sample packs, royalty-free for commercial use.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - games
+        - generalist
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.467Z'
+  - name: BySFX
+    url: https://bysfx.com/
+    description: Royalty-free library of sound effects, logo idents and music sold per file or bundle with a one-time payment, plus free samples.
+    license: Paid
+    entry_type: asset-source
+    tags:
+      workflow:
+        - audio-design
+      output:
+        - generalist
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.509Z'

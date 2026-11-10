@@ -558,3 +558,183 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.857Z'
+  - name: GPU Gems
+    url: https://developer.nvidia.com/gpugems/gpugems/contributors
+    description: NVIDIA's three GPU Gems books on real-time rendering and GPU programming techniques, readable in full online.
+    entry_type: book
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - real-time
+    added_at: '2026-11-10T11:10:44.381Z'
+  - name: TU Wien Rendering Course
+    url: https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
+    description: Recorded MSc-level lecture series from TU Wien on ray tracing, photorealistic rendering and global illumination.
+    entry_type: tutorial
+    pricing: Free
+    tags:
+      workflow:
+        - rendering
+      skill:
+        - advanced
+      tech:
+        - ray-tracing
+        - path-tracing
+        - offline
+    added_at: '2026-11-10T11:10:44.385Z'
+  - name: Behind the Pretty Frames
+    url: https://mamoniem.com/category/behind-the-pretty-frames/
+    description: 'Article series dissecting the frame rendering pipelines of shipped games such as Death Stranding, Elden Ring, God of War and Detroit: Become Human.'
+    entry_type: reference
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      skill:
+        - advanced
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.387Z'
+  - name: How Do I Become a Graphics Programmer?
+    url: https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/
+    description: Guide from the AMD Game Engineering team on first steps in graphics programming, with a list of learning websites.
+    entry_type: reference
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      skill:
+        - beginner
+      tech:
+        - real-time
+        - gpu
+    added_at: '2026-11-10T11:10:44.421Z'
+  - name: A Comparison of Modern Graphics APIs
+    url: https://alain.xyz/blog/comparison-of-modern-graphics-apis
+    description: Article comparing the design and data structures of DirectX 12, Vulkan, Metal, WebGPU and OpenGL.
+    entry_type: reference
+    tags:
+      workflow:
+        - rendering
+      output:
+        - games
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - gpu
+    added_at: '2026-11-10T11:10:44.423Z'
+  - name: An Infinite Canvas Tutorial
+    url: https://infinitecanvas.cc/
+    description: Open-source lesson series on building a Figma-like infinite canvas with WebGL and WebGPU, covering SDF rendering, ECS and CRDT collaboration.
+    entry_type: tutorial
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+        - rendering
+      platform:
+        - web
+      skill:
+        - advanced
+      tech:
+        - gpu
+        - real-time
+    added_at: '2026-11-10T11:10:44.588Z'
+  - name: Synthèse d'images avec OpenGL (ES)
+    url: https://www.d-booker.fr/3d/78-synthese-d-images.html
+    description: French-language reference book on real-time image synthesis with OpenGL, OpenGL ES and WebGL on PC, Android and HTML5.
+    license: Paid
+    entry_type: book
+    tags:
+      workflow:
+        - rendering
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - raster
+        - gpu
+    added_at: '2026-11-10T11:10:44.595Z'
+  - name: 'Inigo Quilez: Smooth Minimum'
+    url: https://iquilezles.org/articles/smin/
+    description: Article on the smooth-minimum operator used to blend signed distance field primitives.
+    entry_type: reference
+    tags:
+      workflow:
+        - creative-coding
+        - rendering
+      skill:
+        - advanced
+      tech:
+        - procedural
+        - gpu
+    added_at: '2026-11-10T11:10:44.607Z'
+  - name: 'Inigo Quilez: 3D Distance Functions'
+    url: https://iquilezles.org/articles/distfunctions/
+    description: List of signed distance functions for basic 3D shapes plus the formulas used to combine them smoothly into complex shapes.
+    entry_type: reference
+    tags:
+      workflow:
+        - creative-coding
+        - rendering
+      skill:
+        - advanced
+      tech:
+        - procedural
+        - gpu
+    added_at: '2026-11-10T11:10:44.610Z'
+  - name: Exploring Bump Mapping with WebGL
+    url: https://apoorvaj.io/exploring-bump-mapping-with-webgl
+    description: Interactive article comparing normal mapping, parallax mapping, steep parallax and parallax occlusion mapping with a live WebGL demo.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - rendering
+        - texturing
+      platform:
+        - web
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - raster
+    added_at: '2026-11-10T11:10:44.612Z'
+  - name: Math as Code
+    url: https://github.com/Experience-Monks/math-as-code
+    description: Cheat sheet that translates mathematical notation into equivalent code.
+    license: Open Source
+    entry_type: reference
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+        - reference
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.616Z'
+  - name: Sketching with Math and Quasi Physics
+    url: https://www.kynd.info/p5sketches/index.html
+    description: 'Illustrated notes on math and simple physics for code sketching: randomness, easing, waves, collision, light paths and ragdolls.'
+    entry_type: tutorial
+    tags:
+      workflow:
+        - creative-coding
+        - animation
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - procedural
+        - physics
+    added_at: '2026-11-10T11:10:44.619Z'

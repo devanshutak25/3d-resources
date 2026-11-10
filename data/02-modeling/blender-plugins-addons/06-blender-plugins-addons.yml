@@ -1,0 +1,31 @@
+entries:
+  - name: Komikaze
+    url: https://superhivemarket.com/products/komikaze
+    description: Pack of 200+ toon materials, modifiers, effects, text boxes and filters for comic and NPR rendering in Blender.
+    license: Paid
+    entry_type: asset-source
+    pricing: $45
+    tags:
+      workflow:
+        - look-dev
+        - material-authoring
+        - rendering
+      output:
+        - illustration
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-11-10T11:10:44.207Z'
+  - name: BlenderAddonPackageTool
+    url: https://github.com/xzhuah/BlenderAddonPackageTool
+    description: Framework for developing several Blender add-ons in one project, with testing and packaging helpers.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      skill:
+        - advanced
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.229Z'

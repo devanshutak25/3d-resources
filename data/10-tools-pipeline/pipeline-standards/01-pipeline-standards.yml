@@ -307,3 +307,13 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.869Z'
+  - name: QOI (Quite OK Image Format)
+    url: https://qoiformat.org/
+    description: Lossless image format with PNG-like file sizes, 20x to 50x faster encoding and a one-page specification.
+    license: Open Source
+    entry_type: reference
+    pricing: Free
+    tags:
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.280Z'

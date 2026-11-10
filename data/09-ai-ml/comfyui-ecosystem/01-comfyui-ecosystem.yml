@@ -583,3 +583,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.440Z'
+  - name: ComfyUI-Blender
+    url: https://github.com/alexisrolland/ComfyUI-Blender
+    description: Custom nodes plus a Blender add-on for running ComfyUI workflows from inside Blender.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - ai-generative
+        - node-based
+    added_at: '2026-11-10T11:10:44.189Z'

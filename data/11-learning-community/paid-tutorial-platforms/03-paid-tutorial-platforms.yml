@@ -99,3 +99,18 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.591Z'
+  - name: VFX Apprentice
+    url: https://www.vfxapprentice.com/
+    description: Course platform teaching 2D and 3D visual effects for games and animation.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - fx
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.436Z'

@@ -354,3 +354,33 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.883Z'
+  - name: Magic Eraser (Magic Studio)
+    url: https://magicstudio.com/magiceraser/
+    description: Web tool that removes brushed-over objects, people or text from photos with AI. Free tier has ads and low-resolution downloads.
+    license: Freemium
+    entry_type: tool
+    tags:
+      workflow:
+        - compositing
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.157Z'
+  - name: Mixar
+    url: https://www.mixar.app/
+    description: Open-source 3D editor built on Blender with AI agents that automate retopology, UVs, baking and export prep. Bring your own models.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - retopo
+        - uv
+        - texturing
+        - modeling
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.214Z'

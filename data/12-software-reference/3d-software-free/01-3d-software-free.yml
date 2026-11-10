@@ -566,3 +566,57 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.785Z'
+  - name: JWildfire
+    url: https://github.com/thargor6/JWildfire
+    description: Java-based fractal flame editor and renderer with an optional GPU renderer.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      output:
+        - illustration
+        - motion-graphics
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.212Z'
+  - name: Goo Engine
+    url: https://github.com/dillongoostudios/goo-engine
+    description: Custom Blender build by DillonGoo Studios with extra Eevee shader nodes and light groups for NPR and anime style rendering.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - look-dev
+        - rendering
+        - animation
+      output:
+        - illustration
+        - film-vfx
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.216Z'
+  - name: Inca
+    url: https://incacad.com/
+    description: Open-source 3D modeling, animation and rendering app that follows the Maya 2020 workflow, with polygon and NURBS modeling, rigging and a path tracer.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - animation
+        - rigging
+        - rendering
+      output:
+        - generalist
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - path-tracing
+    added_at: '2026-11-10T11:10:44.324Z'

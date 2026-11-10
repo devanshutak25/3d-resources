@@ -351,3 +351,99 @@ entries:
         - animation
       platform:
         - web
+  - name: Cult of Rig
+    url: http://www.cultofrig.com/
+    description: Archive of live-streamed Maya rigging lectures that build a rig from first principles, with episode notes and downloadable season files.
+    entry_type: tutorial
+    pricing: Free
+    tags:
+      workflow:
+        - rigging
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.390Z'
+  - name: BiteyCastle Academy 2dFX Animation Course
+    url: https://chluaid.gumroad.com/l/bcafx
+    description: Software-agnostic 14-month course on 2D effects animation, teaching the physics of elemental phenomena as applied to animation.
+    entry_type: tutorial
+    pricing: Pay what you want
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - games
+        - illustration
+    added_at: '2026-11-10T11:10:44.393Z'
+  - name: BaM Animation
+    url: https://www.youtube.com/@BaMAnimation
+    description: YouTube channel with 2D animation and digital drawing tutorials, including line art and inking technique.
+    entry_type: channel
+    tags:
+      workflow:
+        - animation
+      output:
+        - illustration
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.395Z'
+  - name: Animator Friendly Rigging
+    url: https://jasonschleifer.com/afr/
+    description: Jason Schleifer's 8-chapter training series, in 4 parts, on building character rigs that suit animators.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - rigging
+      output:
+        - film-vfx
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.433Z'
+  - name: Rive Academy Data Binding (School of Motion)
+    url: https://schoolofmotion.com/courses/rive-academy-data-binding
+    description: School of Motion course on Rive data binding, built around a six-page interactive yearly recap driven by runtime data.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.511Z'
+  - name: Rive Masterclass
+    url: https://www.rivemasterclass.com/
+    description: Project-based Rive course covering animation, state machines, data binding and scripting through one product build, with a separate scripting course.
+    entry_type: tutorial
+    pricing: $299
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+      skill:
+        - beginner
+        - intermediate
+    added_at: '2026-11-10T11:10:44.513Z'
+  - name: 'LERP: Luau Education for Rive Professionals'
+    url: https://forge.mograph.life/apps/lerp/
+    description: Free MIT-licensed interactive course on Luau scripting for Rive, with lessons, exercises, quizzes and reference pages.
+    license: Open Source
+    entry_type: tutorial
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.515Z'

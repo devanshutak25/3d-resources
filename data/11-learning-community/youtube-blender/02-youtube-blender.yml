@@ -1,0 +1,63 @@
+entries:
+  - name: Julien Kaspar
+    url: https://www.youtube.com/@JulienKaspart
+    description: Channel of a 3D artist and game developer at Blender Studio.
+    entry_type: channel
+    tags:
+      workflow:
+        - sculpting
+        - modeling
+    added_at: '2026-11-10T11:10:44.223Z'
+  - name: Erindale
+    url: https://www.youtube.com/@Erindale
+    description: Channel by a technical director teaching Blender and proceduralism.
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+        - material-authoring
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-11-10T11:10:44.230Z'
+  - name: Cartesian Caramel
+    url: https://www.youtube.com/@CartesianCaramel
+    description: Channel on procedural effects made in Blender, mostly livestreams.
+    entry_type: channel
+    tags:
+      workflow:
+        - fx
+        - simulation
+      skill:
+        - advanced
+      tech:
+        - procedural
+        - node-based
+    added_at: '2026-11-10T11:10:44.231Z'
+  - name: Max Hay
+    url: https://www.youtube.com/@MaxHayArt
+    description: Channel teaching how to make high quality renders quickly in Blender.
+    entry_type: channel
+    tags:
+      workflow:
+        - lighting
+        - rendering
+    added_at: '2026-11-10T11:10:44.232Z'
+  - name: dillongoo
+    url: https://www.youtube.com/@dillongoo
+    description: Channel of a director and animator known for fight scenes, working mainly in Blender.
+    entry_type: channel
+    tags:
+      workflow:
+        - animation
+      output:
+        - film-vfx
+    added_at: '2026-11-10T11:10:44.233Z'
+  - name: pixeltrain
+    url: https://www.youtube.com/@pixeltrain3d
+    description: Training channel by a senior 3D and VFX trainer covering Blender for production and Godot game development.
+    entry_type: channel
+    tags:
+      output:
+        - generalist
+    added_at: '2026-11-10T11:10:44.256Z'

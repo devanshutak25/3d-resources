@@ -186,3 +186,14 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.532Z'
+  - name: The Animator's Survival Kit Animated
+    url: http://www.theanimatorssurvivalkit.com/
+    description: Richard Williams' animation masterclass as a 16-DVD set and iPad app, with over 400 animated examples.
+    license: Paid
+    entry_type: tutorial
+    tags:
+      workflow:
+        - animation
+      platform:
+        - ipad
+    added_at: '2026-11-10T11:10:44.397Z'

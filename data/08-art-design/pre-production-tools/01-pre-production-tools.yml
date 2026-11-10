@@ -775,3 +775,20 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.890Z'
+  - name: CozyClay
+    url: https://cozyclay.org/
+    description: Open-source browser previs tool for blocking a scene, posing characters and authoring camera moves and cuts, then handing the shot to an AI video model.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - previs
+        - storyboard
+      output:
+        - film-vfx
+      platform:
+        - web
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.266Z'

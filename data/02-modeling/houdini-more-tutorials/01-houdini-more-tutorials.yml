@@ -344,3 +344,35 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: broken
     deprecated: true
+  - name: 'SideFX Snacks V2: Mojito Magic'
+    url: https://www.youtube.com/playlist?list=PLXNFA1EysfYnrIjLbkUj4x6iPv3qm6jLQ
+    description: 15-video SideFX course by Tim van Helsdingen on making a fake commercial in Houdini from idea to finish.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - fx
+        - simulation
+        - look-dev
+        - rendering
+      output:
+        - motion-graphics
+        - product-viz
+    added_at: '2026-11-10T11:10:44.241Z'
+  - name: Complete A-Z Terrain Handbook
+    url: https://www.youtube.com/playlist?list=PLXNFA1EysfYmi-MJs3VOsozBr9LI299R1
+    description: 13-video SideFX series on creating terrains in Houdini, starting from the foundation layer.
+    entry_type: tutorial
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+        - film-vfx
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.242Z'
+  - name: Houdini Tutorials (Vimeo channel)
+    url: https://vimeo.com/channels/houdinitutorials
+    description: Curated Vimeo collection of Houdini tutorials from many authors.
+    entry_type: tutorial
+    added_at: '2026-11-10T11:10:44.258Z'

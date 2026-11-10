@@ -184,3 +184,26 @@ entries:
       tech:
         - xr
         - godot
+  - name: Godot C# Essentials
+    url: https://github.com/microsoft/godot-csharp-essentials
+    description: Microsoft course material for C# developers learning game development with the Godot Engine.
+    license: Open Source
+    entry_type: tutorial
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.357Z'
+  - name: GameDev.tv Complete Godot 4 2D
+    url: https://gamedev.tv/courses/godot-complete-2d
+    description: Beginner video course that builds several 2D games in Godot 4 with GDScript across 83 lectures and 11.5 hours.
+    license: Paid
+    entry_type: tutorial
+    pricing: $59
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.373Z'

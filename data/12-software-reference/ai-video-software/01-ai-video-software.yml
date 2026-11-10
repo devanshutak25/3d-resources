@@ -755,3 +755,28 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.384Z'
+  - name: Orkas VideoStudio
+    url: https://github.com/Orkas-AI/Orkas-VideoStudio
+    description: MIT-licensed CLI and MCP toolkit that lets a coding agent write a video timeline from a plain-language brief and render the file.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - editing
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.152Z'
+  - name: Mago Studio
+    url: https://github.com/MagoStudio/MagoStudio
+    description: Local-first desktop edition of the Mago AI video editor. Renders run on your own GPU through ComfyUI or in Mago Cloud.
+    license: Open Source
+    entry_type: software
+    tags:
+      workflow:
+        - editing
+      tech:
+        - ai-generative
+        - gpu
+    added_at: '2026-11-10T11:10:44.272Z'

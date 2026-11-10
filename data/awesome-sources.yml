@@ -3,6 +3,7 @@
 sources:
   - agarcialeon/awesome-unity
   - agmmnn/awesome-blender
+  - agmmnn/houdini-resources
   - aishwaryanr/awesome-generative-ai-guide
   - Alinshans/awesome-cg
   - AtakanFire/Awesome-Unreal-Engine
@@ -20,6 +21,7 @@ sources:
   - cjroth/awesome-vr
   - Coop56/awesome-unreal
   - cutbypham/awesome-davinci-resolve
+  - dawdle-deer/awesome-learn-gamedev
   - dharmeshkakadia/awesome-AR
   - Domeee/awesome-augmented-reality
   - drwpow/awesome-oss-fonts

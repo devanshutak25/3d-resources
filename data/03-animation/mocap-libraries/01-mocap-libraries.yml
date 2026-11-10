@@ -809,3 +809,19 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.363Z'
+  - name: gameasset.net
+    url: https://gameasset.net/
+    description: Library of over 10,000 CC0 character animations. Model, texture and audio sections are announced but not live yet.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - cc0
+    added_at: '2026-11-10T11:10:44.316Z'

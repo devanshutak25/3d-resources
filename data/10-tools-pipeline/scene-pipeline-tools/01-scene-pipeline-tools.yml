@@ -529,3 +529,41 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.658Z'
+  - name: dwencode
+    url: https://github.com/DreamWall-Animation/dwencode
+    description: Python wrapper around FFmpeg that encodes image sequences to movies with overlay text, from DreamWall Animation.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - editing
+      output:
+        - film-vfx
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.270Z'
+  - name: Plumber Manager
+    url: https://github.com/hasielhassan/PlumberManager
+    description: Web-based node editor for planning and documenting CG pipeline data flows and DCC connections.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      skill:
+        - advanced
+      tech:
+        - node-based
+    added_at: '2026-11-10T11:10:44.278Z'
+  - name: MayaReCharm
+    url: https://github.com/mathbou/MayaReCharm
+    description: PyCharm plugin that sends code to Maya and attaches the debugger to a running Maya instance. Continues the original MayaCharm.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.282Z'

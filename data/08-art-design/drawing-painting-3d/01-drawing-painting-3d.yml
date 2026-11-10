@@ -289,3 +289,18 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:36:11.653Z'
+  - name: Figure Drawing for All It's Worth
+    url: https://archive.org/details/loomis_FIGURE_draw
+    description: Andrew Loomis's 1943 figure drawing book, readable and downloadable on the Internet Archive.
+    license: Free
+    entry_type: book
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.444Z'

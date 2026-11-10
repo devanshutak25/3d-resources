@@ -947,3 +947,41 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.920Z'
+  - name: 'Advances in Neural 3D Mesh Texturing: A Survey'
+    url: https://arxiv.org/abs/2606.00137
+    description: 2026 Eurographics STAR survey (Computer Graphics Forum) of neural methods for texturing polygonal meshes.
+    entry_type: paper
+    tags:
+      workflow:
+        - texturing
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.112Z'
+  - name: 'Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models'
+    url: https://arxiv.org/abs/2607.01222
+    description: ECCV 2026. Uses video generative models to produce 3D assets that reproduce intricate textures from reference images.
+    entry_type: paper
+    tags:
+      workflow:
+        - texturing
+        - modeling
+      skill:
+        - advanced
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.123Z'
+  - name: Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation
+    url: https://arxiv.org/abs/2605.25220
+    description: CVPR 2026. MVCHead learns 3D Gaussian head avatar generation from single 2D images, with no multi-view data or 3D supervision.
+    entry_type: paper
+    tags:
+      output:
+        - xr
+      skill:
+        - advanced
+      tech:
+        - gaussian-splatting
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.128Z'

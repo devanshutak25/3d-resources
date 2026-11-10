@@ -234,3 +234,24 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.595Z'
+  - name: IndieGuild
+    url: https://indieguild.dev/
+    description: Job board and directory where indie developers find composers, sound designers, voice actors, artists and programmers. Formerly ComposerScout.
+    license: Free
+    entry_type: community
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.348Z'
+  - name: gamedevmap
+    url: https://www.gamedevmap.com/
+    description: Browsable world map and directory of game development studios.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.417Z'

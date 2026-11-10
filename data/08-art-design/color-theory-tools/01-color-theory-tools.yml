@@ -315,3 +315,33 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.518Z'
+  - name: Palette Extractor (Spritewright)
+    url: https://pixelpixi.github.io/spritewright/palette-extractor/
+    description: Browser tool that pulls the exact palette from a sprite or image and exports .gpl, Lospec .hex, CSS variables, JSON or a PNG swatch strip.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+        - illustration
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.523Z'
+  - name: Working with Color in Generative Art
+    url: https://www.tylerxhobbs.com/words/working-with-color-in-generative-art
+    description: Tyler Hobbs essay on getting color right in code-generated artwork.
+    entry_type: reference
+    tags:
+      workflow:
+        - creative-coding
+        - concept
+      output:
+        - illustration
+      skill:
+        - beginner
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.615Z'

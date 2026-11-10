@@ -503,3 +503,29 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:50:36.470Z'
+  - name: Getty Museum Collection
+    url: https://www.getty.edu/art/collection/
+    description: Online collection of the J. Paul Getty Museum. Images under the Getty Open Content Program can be downloaded without charge.
+    license: Free
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - reference
+        - concept
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.210Z'
+  - name: VIShopper Cut Out People
+    url: https://www.vishopper.com/cut-out-people
+    description: Filterable library of cut-out people images for post-production of architectural renderings, with a free-only filter.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow:
+        - compositing
+      output:
+        - archviz
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.442Z'

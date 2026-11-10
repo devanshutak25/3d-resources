@@ -55,3 +55,14 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.878Z'
+  - name: Xuan Prada Blog
+    url: https://www.xuanprada.com/blog
+    description: Long-running blog by a VFX artist with production notes, recently on hybrid AI pipelines. Linked to his Patreon.
+    entry_type: reference
+    tags:
+      workflow:
+        - look-dev
+        - lighting
+      output:
+        - film-vfx
+    added_at: '2026-11-10T11:10:44.260Z'

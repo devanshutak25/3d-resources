@@ -593,3 +593,38 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.702Z'
+  - name: Unity Project Template
+    url: https://github.com/SamuelAsherRivello/unity-project-template
+    description: Starter Unity project with a recommended folder structure and C# coding standards for GameObject-based projects.
+    license: Open Source
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.353Z'
+  - name: Unity, huh, how?
+    url: https://unity.huh.how/
+    description: Troubleshooting wiki for common Unity editor, scripting and error problems.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.355Z'
+  - name: GameCI
+    url: https://game.ci/
+    description: Open-source CI/CD actions and Docker images for building, testing and deploying Unity projects. MIT licensed.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - cloud
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.362Z'

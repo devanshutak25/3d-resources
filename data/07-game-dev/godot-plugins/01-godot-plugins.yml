@@ -649,3 +649,18 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.799Z'
+  - name: Ziva
+    url: https://ziva.sh/
+    description: AI agent plugin for Godot 4.2+ that reads the scene tree, edits nodes and GDScript from chat, and debugs editor errors.
+    license: Freemium
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.343Z'

@@ -173,3 +173,18 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.450Z'
+  - name: Material Map Generator
+    url: https://github.com/joeyballentine/Material-Map-Generator
+    description: Generates normal, displacement and roughness maps with trained models. Last commit 2023.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - material-authoring
+        - texturing
+      output:
+        - games
+      tech:
+        - pbr
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.359Z'

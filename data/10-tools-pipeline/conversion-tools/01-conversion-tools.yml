@@ -820,3 +820,29 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.612Z'
+  - name: DDS Tools
+    url: https://ddstools.com/
+    description: 'Browser DDS converter and viewer: PNG, JPG, TGA and WebP to DDS with BC1 to BC7 and mipmaps, and DDS back to PNG, processed on device.'
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.311Z'
+  - name: Unitypackage Extractor Online
+    url: https://extractunitypackage.com/
+    description: Opens .unitypackage files in the browser without Unity, extracts the original files and exports models as textured GLB.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.326Z'

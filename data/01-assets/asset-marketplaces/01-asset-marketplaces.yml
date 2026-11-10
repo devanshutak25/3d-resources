@@ -249,3 +249,20 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.588Z'
+  - name: MotionElements
+    url: https://www.motionelements.com/
+    description: Royalty-free stock marketplace for video, After Effects templates and music, sold per item or by subscription.
+    license: Paid
+    entry_type: marketplace
+    pricing: From $1 per item, subscription from $16.50/mo
+    tags:
+      workflow:
+        - editing
+      output:
+        - motion-graphics
+        - broadcast
+      platform:
+        - web
+      tech:
+        - subscription
+    added_at: '2026-11-10T11:10:44.469Z'

@@ -93,3 +93,14 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.735Z'
+  - name: Larold's Retro Gameyard
+    url: https://laroldsretrogameyard.com/
+    description: Written tutorials on programming Game Boy and Game Boy Advance games in C, mainly with the GBDK-2020 library.
+    entry_type: tutorial
+    pricing: Free
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.378Z'

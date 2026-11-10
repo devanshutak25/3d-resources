@@ -189,3 +189,17 @@ entries:
       - Paid
       - Unreal Engine
     best_for: Procedural dungeon layouts
+  - name: Tessarium
+    url: https://joelj.itch.io/tessarium
+    description: Tile-first pixel art and level editor where editing a tile updates every placement, with retro console presets.
+    license: Free
+    entry_type: software
+    pricing: Free, optional payment
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+    added_at: '2026-11-10T11:10:44.521Z'

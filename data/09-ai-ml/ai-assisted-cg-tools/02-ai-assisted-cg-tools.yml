@@ -239,3 +239,105 @@ entries:
       - MCP Server
       - Agent Skill
     added_at: '2026-11-09T15:21:04.000Z'
+  - name: blender-kiln
+    url: https://github.com/elithril/blender-kiln
+    description: Claude Code skill that drives Blender through an MCP server to model, clean up, texture, optimize, validate and export game, web or print assets from a description or photo.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - texturing
+      output:
+        - games
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.184Z'
+  - name: Blender Agent Skills
+    url: https://github.com/EL4CTEO/blender-skills
+    description: Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor covering Blender modeling, UVs, PBR, baking, rigging, animation, export and QA.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+        - uv
+        - rigging
+        - animation
+      tech:
+        - ai-generative
+        - pbr
+    added_at: '2026-11-10T11:10:44.185Z'
+  - name: Scenario for Blender
+    url: https://github.com/scenario-labs/blender-plugin
+    description: Blender 5.0+ extension from Scenario that generates AI images, video, 3D models and PBR materials in the viewport and includes a local MCP server for agents.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - ai-generative
+        - pbr
+    added_at: '2026-11-10T11:10:44.188Z'
+  - name: StudioTwin
+    url: https://www.studiotwin.ai/
+    description: AI generation toolkits inside Unreal Engine 5 for animation, 3D models, environments, materials and audio, also available as an MCP server and for Blender.
+    license: Freemium
+    entry_type: plugin
+    pricing: 100 free credits/month
+    tags:
+      workflow:
+        - animation
+        - modeling
+        - material-authoring
+      output:
+        - games
+      platform:
+        - cloud
+      tech:
+        - ai-generative
+        - unreal-plugin
+    added_at: '2026-11-10T11:10:44.342Z'
+  - name: Higgsfield for After Effects
+    url: https://higgsfield.ai/plugins/after-effects
+    description: Higgsfield plugin panel that runs AI reframe, background removal, upscaling and video editing inside After Effects and Premiere Pro.
+    entry_type: plugin
+    tags:
+      workflow:
+        - compositing
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.504Z'
+  - name: genart-skill
+    url: https://github.com/camilleroux/genart-skill
+    description: 'Claude Code skill for generative art: deterministic, hash-seeded sketches prepared for on-chain release.'
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - illustration
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - procedural
+    added_at: '2026-11-10T11:10:44.587Z'

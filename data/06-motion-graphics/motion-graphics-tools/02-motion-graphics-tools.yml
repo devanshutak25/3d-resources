@@ -1,0 +1,361 @@
+entries:
+  - name: Beatgrid
+    url: https://battleaxe.co/beatgrid
+    description: Free Battle Axe tool that creates beat keyframes on the After Effects timeline from a typed BPM or tapped tempo.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.480Z'
+  - name: Textue
+    url: https://tue.lol/textue
+    description: Free After Effects panel with 48 text animation presets, each previewed on its card before applying. Windows only, AE 2023 to 2026.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+    added_at: '2026-11-10T11:10:44.482Z'
+  - name: MAG (Make Ae Great)
+    url: https://broadcastgems.gumroad.com/l/xgmcm
+    description: After Effects panel from broadcastGEMs that bundles 24+ scripts for anchor points, align and distribute, layer swapping and keyframe orchestration.
+    license: Paid
+    entry_type: plugin
+    pricing: $29.90
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.483Z'
+  - name: Renderly 2
+    url: https://madebyloop.co.uk/after-effects-scripts/renderly-2-after-effects/
+    description: After Effects script that defines render sections inside a comp and batch renders several comps with reusable output settings.
+    license: Paid
+    entry_type: plugin
+    pricing: £24.99
+    tags:
+      workflow:
+        - rendering
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.484Z'
+  - name: Stardust
+    url: https://superluminal.tv/stardust
+    description: Node-based 3D particle system plugin for After Effects from Superluminal.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - node-based
+    added_at: '2026-11-10T11:10:44.485Z'
+  - name: AutoFill 2
+    url: https://www.plugineverything.com/autofill
+    description: After Effects plugin that grows animated fills across a layer, with a Style Builder that stacks up to 5 layers of fill, blur and displacement.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.486Z'
+  - name: AfterCodecs
+    url: https://www.autokroma.com/AfterCodecs
+    description: Autokroma export plugin that adds faster ProRes, H.264, H.265 and HAP output to After Effects, Premiere Pro and Media Encoder.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - rendering
+        - editing
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.487Z'
+  - name: FX Console
+    url: https://www.videocopilot.net/tutorials/fx_console_plugin
+    description: Free Video Copilot plugin that adds a quick-search launcher for effects and presets in After Effects.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - compositing
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.489Z'
+  - name: TV Distortion Bundle
+    url: https://www.rowbyte.com/tv-distortion-bundle
+    description: Five Rowbyte plugins for After Effects and Premiere that simulate analog TV distortion, digital glitches, pixel grids and chromatic aberration.
+    license: Paid
+    entry_type: plugin
+    pricing: $99
+    tags:
+      workflow:
+        - fx
+        - compositing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.490Z'
+  - name: Fast Bokeh Pro
+    url: https://www.rowbyte.com/fast-bokeh
+    description: Rowbyte After Effects plugin that produces depth-of-field bokeh blur from a depth map, with custom iris shapes and GPU acceleration.
+    license: Paid
+    entry_type: plugin
+    pricing: $49
+    tags:
+      workflow:
+        - compositing
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    added_at: '2026-11-10T11:10:44.491Z'
+  - name: Extrude
+    url: https://www.plugineverything.com/extrude
+    description: Plugin Everything effect that extrudes live text, shape layers and mask paths in After Effects with directional, vanishing-point and 3D camera modes.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+    added_at: '2026-11-10T11:10:44.493Z'
+  - name: Digit Fiddler
+    url: https://www.plugineverything.com/digit-fiddler
+    description: After Effects plugin that drives counters, currency, percentages and time displays from one slider, with padding and monospacing.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.494Z'
+  - name: DOF PRO
+    url: https://richardrosenman.com/shop/dof-pro-ae/
+    description: Richard Rosenman depth-of-field plugin for After Effects that builds lens blur from depth maps with aperture shapes and bokeh controls.
+    license: Paid
+    entry_type: plugin
+    pricing: $199.99
+    tags:
+      workflow:
+        - compositing
+      output:
+        - film-vfx
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.495Z'
+  - name: ORB
+    url: https://www.videocopilot.net/orb/
+    description: Free Video Copilot plugin for After Effects that renders 3D spheres and planets with a physically based shader, reflection maps and AE lights.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - pbr
+    added_at: '2026-11-10T11:10:44.497Z'
+  - name: Influx
+    url: https://www.autokroma.com/Influx
+    description: Autokroma importer plugin that lets Premiere Pro, After Effects, Media Encoder and Audition read extra audio and video formats natively.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - editing
+        - compositing
+      output:
+        - motion-graphics
+        - film-vfx
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.498Z'
+  - name: Thicc Stroke
+    url: https://www.plugineverything.com/thiccstroke
+    description: Free variable-width stroke plugin for After Effects with gradients along the path, trim controls and width points.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.499Z'
+  - name: Motype
+    url: https://www.yanobox.com/Motype/
+    description: Yanobox text animation plugin with 250 presets for DaVinci Resolve, Final Cut Pro, After Effects, Motion and Premiere Pro on macOS.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - mac
+    added_at: '2026-11-10T11:10:44.501Z'
+  - name: Entropy
+    url: https://wildconstruct.com/products/entropy
+    description: GPU particle plugin for After Effects from Wild Construct, sold as a perpetual license with a 7-day trial.
+    license: Paid
+    entry_type: plugin
+    pricing: $299
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - gpu
+        - perpetual
+    added_at: '2026-11-10T11:10:44.502Z'
+  - name: iArt
+    url: https://www.iart.ai/
+    description: Web tool that generates motion graphics and explainer videos from prompts, images and documents, with paid plans from $20/mo.
+    license: Freemium
+    entry_type: service
+    pricing: Free tier, paid from $20/mo
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - subscription
+    added_at: '2026-11-10T11:10:44.506Z'
+  - name: Atom
+    url: https://tryatom.ai/
+    description: AI assistant panel for After Effects and Premiere Pro that drives Codex, Claude Code or OpenCode to build animations, expressions, edits and captions.
+    license: Paid
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.507Z'
+  - name: Rive Analyzer
+    url: https://nano-step.github.io/rive-analyzer/
+    description: Browser tool that inventories a .riv file and grades it A to F against a best-practice rule set. Runs client-side.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.517Z'
+  - name: Rive Animation Viewer (RAV)
+    url: https://forge.mograph.life/apps/rav/
+    description: Free open-source desktop viewer for .riv files that tests ViewModels, debugs events and exports interactive HTML demos.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.519Z'
+  - name: Motion Bro
+    url: https://motionbro.com/
+    description: Panel for After Effects and Premiere Pro that browses, previews and applies preset and transition packs, with free and paid packs.
+    license: Freemium
+    entry_type: plugin
+    tags:
+      workflow:
+        - animation
+        - editing
+      output:
+        - motion-graphics
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.524Z'

@@ -604,3 +604,64 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.690Z'
+  - name: NixieFX
+    url: https://github.com/azakhary/nixie-fx
+    description: Open-source particle effect runtime for PixiJS and Three.js, paired with a browser editor for authoring effects.
+    license: Open Source
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - fx
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - real-time
+    added_at: '2026-11-10T11:10:44.263Z'
+  - name: Nebula Forge
+    url: https://nebulakit.itch.io/nebula-forge
+    description: Browser generator for procedural space backgrounds with a live volumetric preview and PNG export.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.314Z'
+  - name: SlotVFX
+    url: https://slotvfx.com/
+    description: Desktop editor for 2D game particles, Spine animation, win sequences and UI transitions, with AI-assisted authoring. Early access.
+    license: Freemium
+    entry_type: software
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - games
+      platform:
+        - win
+        - mac
+    added_at: '2026-11-10T11:10:44.321Z'
+  - name: SimplePixelArt
+    url: https://simplepixelart.com/
+    description: Browser pixel art editor with a sprite slicer, palette tools and a tileset maker that exports auto-tile sets to Godot 4 and Tiled.
+    license: Free
+    entry_type: tool
+    pricing: Free
+    tags:
+      workflow:
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.370Z'

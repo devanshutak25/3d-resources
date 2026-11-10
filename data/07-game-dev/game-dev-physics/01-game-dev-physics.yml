@@ -316,3 +316,17 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.730Z'
+  - name: Chipmunk2D
+    url: https://github.com/slembcke/Chipmunk2D
+    description: 2D physics library for games, MIT licensed.
+    license: Open Source
+    entry_type: tool
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      tech:
+        - physics
+        - real-time
+    added_at: '2026-11-10T11:10:44.329Z'

@@ -876,3 +876,44 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.877Z'
+  - name: Simple Tree Tools
+    url: https://nwestfelt.gumroad.com/l/nEGYe
+    description: Set of procedural tree modeling tools for Houdini.
+    license: Free
+    entry_type: plugin
+    pricing: Free (pay what you want)
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - houdini-addon
+        - procedural
+    added_at: '2026-11-10T11:10:44.235Z'
+  - name: Houdini Layout
+    url: https://github.com/beatreichenbach/houdini-layout
+    description: Solaris LOP HDA for transforming and duplicating stage primitives, with edits stored in editable parameters.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - film-vfx
+      tech:
+        - houdini-addon
+        - usd
+    added_at: '2026-11-10T11:10:44.284Z'
+  - name: Meadow
+    url: https://github.com/beatreichenbach/houdini-meadow
+    description: Scattering node toolkit for environment creation in Houdini, installed as a Houdini package.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - film-vfx
+      tech:
+        - houdini-addon
+        - procedural
+    added_at: '2026-11-10T11:10:44.287Z'

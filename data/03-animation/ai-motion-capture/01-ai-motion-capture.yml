@@ -362,3 +362,19 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.907Z'
+  - name: Riggy
+    url: https://riggyapp.com/
+    description: Turns a character PNG, JPG or layered PSD plus a text prompt into a rigged Spine 4.2 skeleton with atlas and animations.
+    license: Paid
+    entry_type: service
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.319Z'

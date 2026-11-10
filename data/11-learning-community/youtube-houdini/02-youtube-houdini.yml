@@ -303,3 +303,53 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.567Z'
+  - name: Simon Houdini
+    url: https://www.youtube.com/@simonhoudini5074
+    description: Channel on procedural content made mainly with Houdini.
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      tech:
+        - procedural
+    added_at: '2026-11-10T11:10:44.249Z'
+  - name: Adrien Lambert
+    url: https://www.youtube.com/@AdrienLambertvfx
+    description: Channel of an environment supervisor at ILM, listed among Houdini channels.
+    entry_type: channel
+    tags:
+      workflow:
+        - modeling
+      output:
+        - film-vfx
+    added_at: '2026-11-10T11:10:44.250Z'
+  - name: Kate Xagoraris (YouTube)
+    url: https://www.youtube.com/@proceduralkate
+    description: Channel on compositing, Houdini and less discussed VFX topics, including VFX history.
+    entry_type: channel
+    tags:
+      workflow:
+        - compositing
+        - fx
+      output:
+        - film-vfx
+    added_at: '2026-11-10T11:10:44.252Z'
+  - name: Varo School (Mix Training)
+    url: https://www.youtube.com/@varoschool
+    description: Community channel teaching VFX, computer graphics, programming and game development.
+    entry_type: channel
+    tags:
+      workflow:
+        - fx
+      output:
+        - film-vfx
+        - games
+    added_at: '2026-11-10T11:10:44.254Z'
+  - name: timj
+    url: https://www.youtube.com/@timjdesign
+    description: Channel of a freelance motion designer working on motion design and abstract visuals.
+    entry_type: channel
+    tags:
+      output:
+        - motion-graphics
+    added_at: '2026-11-10T11:10:44.257Z'

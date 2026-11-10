@@ -711,3 +711,35 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.422Z'
+  - name: Seedream 4.0 (ByteDance)
+    url: https://seed.bytedance.com/en/seedream4_0
+    description: ByteDance image model that handles generation and prompt-based editing in one architecture, with multi-reference input and output up to 4K.
+    entry_type: service
+    tags:
+      workflow:
+        - concept
+      output:
+        - illustration
+      platform:
+        - web
+        - cloud
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.148Z'
+  - name: Ludo.ai
+    url: https://ludo.ai/
+    description: 'AI generator for game assets: sprites, icons, UI, textures, music, 3D models and video.'
+    license: Freemium
+    entry_type: service
+    pricing: 30 free credits
+    tags:
+      workflow:
+        - concept
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+    added_at: '2026-11-10T11:10:44.339Z'

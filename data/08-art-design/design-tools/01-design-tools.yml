@@ -461,3 +461,15 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.502Z'
+  - name: Tiny Tools Directory
+    url: https://tinytools.directory/
+    description: Tag-filtered list of small, free or experimental tools for making games, websites and interactive projects.
+    entry_type: reference
+    tags:
+      workflow:
+        - creative-coding
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.459Z'

@@ -374,3 +374,16 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.451Z'
+  - name: fal
+    url: https://fal.ai/
+    description: Hosted API platform giving access to 1,500+ image, video, audio and 3D generation models, plus serverless GPU compute for custom models.
+    entry_type: service
+    tags:
+      platform:
+        - cloud
+      skill:
+        - intermediate
+      tech:
+        - ai-generative
+        - gpu
+    added_at: '2026-11-10T11:10:44.155Z'

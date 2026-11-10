@@ -1068,3 +1068,18 @@ entries:
     notes: Many listings are fan rigs of IP characters.
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Universal Human Body & Face Rig
+    url: https://cjones.gumroad.com/l/JJuKG
+    description: Chris Jones's human body and face rig for Blender, sold on Gumroad.
+    license: Paid
+    entry_type: asset-source
+    pricing: $198
+    tags:
+      workflow:
+        - rigging
+        - animation
+      output:
+        - film-vfx
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.445Z'

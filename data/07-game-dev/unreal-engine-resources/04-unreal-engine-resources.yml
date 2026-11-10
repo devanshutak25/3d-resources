@@ -782,3 +782,107 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-02'
     added_at: '2026-11-02T18:35:14.914Z'
+  - name: Action Roguelike
+    url: https://github.com/tomlooman/ActionRoguelike
+    description: Co-op action roguelike sample project in Unreal Engine C++, with multiplayer and game AI code to study.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.290Z'
+  - name: 'Unreal Docs: Samples and Tutorials'
+    url: https://dev.epicgames.com/documentation/en-us/unreal-engine/samples-and-tutorials-for-unreal-engine
+    description: Official index of Unreal Engine example scenes, sample games and tutorials.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.292Z'
+  - name: Unreal Engine Documentation
+    url: https://dev.epicgames.com/documentation/en-us/unreal-engine
+    description: Official Unreal Engine 5 documentation from Epic Games.
+    entry_type: reference
+    tags:
+      output:
+        - games
+        - generalist
+    added_at: '2026-11-10T11:10:44.295Z'
+  - name: Devtricks
+    url: https://vorixo.github.io/devtricks/
+    description: Blog on Unreal Engine network programming, including the Iris replication system.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.297Z'
+  - name: hzFishy's Game Dev Notes
+    url: https://notes.hzfishy.fr/
+    description: Public notebook of Unreal Engine 5 and C++ notes, references and troubleshooting, with smaller sections on Unity and Blender.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.300Z'
+  - name: Unreal Directive
+    url: https://unrealdirective.com/
+    description: 'Searchable Unreal Engine references: console variables, keyboard shortcuts, C++ specifiers, project standards, articles and tips.'
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.303Z'
+  - name: Unreal Garden
+    url: https://unreal-garden.com/
+    description: Unreal Engine UI and C++ tutorials plus reference pages for UPROPERTY, UFUNCTION and other specifiers.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.306Z'
+  - name: WizardCell
+    url: https://wizardcell.com/
+    description: Blog on Unreal Engine online multiplayer and gameplay framework practices.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.308Z'
+  - name: Box3DUnreal
+    url: https://github.com/alattanzio/Box3DUnreal
+    description: Unreal Engine plugin that integrates the Box3D physics engine. MIT licensed.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      workflow:
+        - simulation
+      output:
+        - games
+      tech:
+        - physics
+        - unreal-plugin
+    added_at: '2026-11-10T11:10:44.364Z'
+  - name: Unreal-MCP (IvanMurzak)
+    url: https://github.com/IvanMurzak/Unreal-MCP
+    description: MCP plugin that connects the Unreal Editor to AI agents through a C++ editor plugin, a .NET bridge and a CLI.
+    license: Open Source
+    entry_type: plugin
+    tags:
+      output:
+        - games
+      tech:
+        - unreal-plugin
+    added_at: '2026-11-10T11:10:44.367Z'

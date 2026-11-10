@@ -186,3 +186,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.796Z'
+  - name: encantar.js
+    url: https://encantar.dev/
+    description: GPU-accelerated augmented reality library for the web that runs in iOS, Android and desktop browsers without WebXR support.
+    license: Open Source
+    entry_type: software
+    tags:
+      output:
+        - xr
+      platform:
+        - web
+        - ios
+        - android
+      skill:
+        - intermediate
+      tech:
+        - real-time
+        - gpu
+    added_at: '2026-11-10T11:10:44.591Z'

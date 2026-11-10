@@ -906,3 +906,15 @@ entries:
     notes: Maya 2018/2019. Google Drive downloads.
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Hybrid 02 Maya Rig
+    url: https://oninationsquad.gumroad.com/l/hybrid02
+    description: Game-style character rig for Maya 2017 and later, built with Advanced Skeleton and supplied with textures and an Arnold version. Non-commercial use only.
+    license: Free NC
+    entry_type: asset-source
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.398Z'

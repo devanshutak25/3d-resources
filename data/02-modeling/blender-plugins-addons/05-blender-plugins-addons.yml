@@ -1020,3 +1020,169 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.783Z'
+  - name: Molecular+
+    url: https://github.com/u3dreal/molecular-plus
+    description: Particle solver add-on for Blender 4.2+ that adds molecular dynamics and soft-body style particle simulation, continuing the original Molecular add-on.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - simulation
+        - fx
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - physics
+    added_at: '2026-11-10T11:10:44.162Z'
+  - name: Stop-motion-OBJ
+    url: https://github.com/neverhood311/Stop-motion-OBJ
+    description: Blender add-on that imports a sequence of OBJ, PLY or STL meshes as animation frames, for example cached simulations from other apps.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - animation
+        - simulation
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.166Z'
+  - name: Sapling Tree Gen
+    url: https://extensions.blender.org/add-ons/sapling-tree-gen/
+    description: Blender extension that adds a parametric tree with leaves, an armature and wind animation.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - procedural
+    added_at: '2026-11-10T11:10:44.169Z'
+  - name: 3D Print Toolbox
+    url: https://extensions.blender.org/add-ons/print3d-toolbox/
+    description: Blender extension with utilities for checking and preparing meshes for 3D printing.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.172Z'
+  - name: SnapSplit
+    url: https://github.com/Betakontext/snapsplit
+    description: Blender add-on that splits models larger than the print bed into parts and generates matching pins, tenons, dovetails and sockets for assembly.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.175Z'
+  - name: Blenvy
+    url: https://github.com/kaosat-dev/Blenvy
+    description: Blender add-on and Rust crates that let Blender act as a scene and component editor for the Bevy game engine through glTF. Alpha state.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.178Z'
+  - name: SourceIO
+    url: https://github.com/REDxEYE/SourceIO
+    description: Blender 4.0+ add-on that imports Valve Source engine textures, models and maps.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - modeling
+      output:
+        - games
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.181Z'
+  - name: DAZ Importer (Diffeomorphic)
+    url: https://bitbucket.org/Diffeomorphic/import_daz
+    description: Blender add-on that imports DAZ Studio assets, maintained alongside the MHX Runtime System and BVH Retargeter add-ons.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - rigging
+        - animation
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.195Z'
+  - name: Leviate
+    url: https://extensions.blender.org/add-ons/leviate/
+    description: Blender extension for moving the 3D view or objects with hand tracking from a webcam or phone.
+    license: Open Source
+    entry_type: plugin
+    pricing: Free
+    tags:
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+    added_at: '2026-11-10T11:10:44.198Z'
+  - name: Node Pie
+    url: https://github.com/strike-digital/node_pie
+    description: Blender add-on that adds a pie menu for quickly adding nodes in the node editor.
+    license: Free
+    entry_type: plugin
+    pricing: Free
+    tags:
+      workflow:
+        - material-authoring
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - blender-addon
+        - node-based
+    added_at: '2026-11-10T11:10:44.201Z'

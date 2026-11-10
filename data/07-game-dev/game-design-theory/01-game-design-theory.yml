@@ -387,3 +387,116 @@ entries:
       tech:
         - opensource-alt
         - unity-plugin
+  - name: Data-Oriented Design
+    url: https://www.dataorienteddesign.com/dodbook/dodmain.html
+    description: Free online edition of the book on data-oriented design, covering how to structure game code around data layout instead of objects.
+    entry_type: book
+    pricing: Free
+    tags:
+      output:
+        - games
+      skill:
+        - advanced
+    added_at: '2026-11-10T11:10:44.374Z'
+  - name: Are we game yet?
+    url: https://arewegameyet.rs/
+    description: 'Guide to the Rust game development ecosystem: engines, crates by category, games made in Rust and learning resources.'
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.376Z'
+  - name: Platformer Toolkit
+    url: https://gmtk.itch.io/platformer-toolkit
+    description: Interactive video essay from Game Maker's Toolkit where you tune over 30 character movement variables and test them in a sample level.
+    license: Free
+    entry_type: tutorial
+    pricing: Free
+    tags:
+      output:
+        - games
+      platform:
+        - web
+        - win
+        - mac
+        - linux
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.403Z'
+  - name: Levelling The Playing Field
+    url: https://ltpf.ramiismail.com/
+    description: Rami Ismail's recurring advice column on the development, design and business of making games.
+    entry_type: reference
+    tags:
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.410Z'
+  - name: Derek Lieu Creative Blog
+    url: https://www.derek-lieu.com/blog/
+    description: Blog from a game trailer editor with trailer-making guides, case studies, trailer reviews and delivery specs.
+    entry_type: reference
+    tags:
+      workflow:
+        - editing
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.412Z'
+  - name: GameDiscoverCo Newsletter
+    url: https://newsletter.gamediscover.co/
+    description: Newsletter with analysis and data on how players find and buy video games.
+    entry_type: reference
+    tags:
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.414Z'
+  - name: The Door Problem
+    url: https://lizengland.com/blog/the-door-problem/
+    description: Liz England's essay that explains game design and each studio discipline through the questions raised by adding a door to a game.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - beginner
+    added_at: '2026-11-10T11:10:44.419Z'
+  - name: Making Crash Bandicoot
+    url: https://all-things-andy-gavin.com/video-games/making-crash/
+    description: Andy Gavin's blog series on building Crash Bandicoot, including its engine, tool pipeline and art design.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      skill:
+        - intermediate
+    added_at: '2026-11-10T11:10:44.431Z'
+  - name: 'The Art of Game Design: A Book of Lenses'
+    url: https://schellgames.com/art-of-game-design/
+    description: Jesse Schell's game design textbook built around lenses, sets of questions a designer asks about a game. Also sold as a card deck and mobile app.
+    license: Paid
+    entry_type: book
+    tags:
+      output:
+        - games
+    added_at: '2026-11-10T11:10:44.448Z'
+  - name: Pattern Language for Game Design
+    url: https://patternlanguageforgamedesign.com/
+    description: Companion site to Chris Barney's CRC Press book, with an interactive library of game design patterns.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.450Z'
+  - name: GDKeys
+    url: https://gdkeys.com/
+    description: Game design articles, frameworks and small tools by designer Nicolas Kraj, with a Discord community.
+    entry_type: reference
+    tags:
+      output:
+        - games
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.454Z'

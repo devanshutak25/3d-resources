@@ -182,3 +182,21 @@ entries:
         - houdini
     url_last_verified: '2026-11-01'
     url_status: ok
+  - name: Rendorama Houdini Tips
+    url: https://www.rendorama.com/en/houdini-tips-tricks/
+    description: Tagged archive of short Houdini tips and tricks on modeling, texturing, animation, simulation and rendering.
+    entry_type: reference
+    tags:
+      workflow:
+        - modeling
+        - simulation
+        - rendering
+    added_at: '2026-11-10T11:10:44.239Z'
+  - name: SideFX Forum
+    url: https://www.sidefx.com/forum/
+    description: Official SideFX forums for Houdini.
+    entry_type: community
+    tags:
+      platform:
+        - web
+    added_at: '2026-11-10T11:10:44.247Z'
