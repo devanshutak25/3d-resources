@@ -14,7 +14,7 @@ Project-level goals and intent for 3d_resources.
 - 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v10 at 4,043 + 4,202 game studios (2026-11-09, round 9 North America + Europe second pass). Next: same country-agent method (docs/playbooks/studio-discovery.md): Middle East, US/Canada long tail from the gamedevmap CSV split by state, Egypt production retry, studios.json split decision (both >3,000), size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (23), JS-only award sites (CICLOPE, AICP, Clio, Promax) with a headless browser.
 
 ## Done
-- 2026-11-10: PRs #52 Imagera, #53 Quady3D, #55 DESIGN:OS accepted with fixes; issue #54 PeerBrush added. Committed locally, awaiting user push.
+- 2026-11-10: PRs #52 Imagera, #53 Quady3D, #55 DESIGN:OS accepted with fixes; issue #54 PeerBrush added. Pushed 2026-11-10; PRs merged, #54 closed.
 - 2026-11-09: Studio round 9, North America + Europe second pass: +413 studios, +490 game studios (14 agents); fixed 15 shifted game-studio URLs, normalised 249 US cities. Committed + pushed.
 - 2026-11-09: Studio round 8, South America + Africa by country: +194 studios, +125 game studios (12 agents). Committed + pushed.
 - 2026-11-09: Studio round 7, Asia-Pacific by country: +362 studios, +350 game studios (13 agents). Committed + pushed.
