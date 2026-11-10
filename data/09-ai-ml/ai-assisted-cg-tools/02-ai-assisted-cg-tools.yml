@@ -216,3 +216,27 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.447Z'
+  - name: DESIGN:OS 3D Blender
+    url: https://github.com/jangtrinh/design-os-3d-blender
+    description: Free MCP server and agent skill that lets Claude Code, Codex or Cursor model, render and check parametric parts in Blender 5.2 LTS.
+    pricing: Free (PolyForm Shield 1.0.0, source-available)
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - modeling
+        - rendering
+      output:
+        - product-viz
+      platform:
+        - win
+        - mac
+        - linux
+      tech:
+        - ai-agent
+        - mcp
+        - blender
+    readme_tags:
+      - MCP Server
+      - Agent Skill
+    added_at: '2026-11-09T15:21:04.000Z'
