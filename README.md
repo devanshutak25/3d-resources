@@ -186,7 +186,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
 - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(67 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(53 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
-- [Conversion Tools](#conversion-tools) <span class="toc-count">(53 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
+- [Conversion Tools](#conversion-tools) <span class="toc-count">(54 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
 - [Pipeline Standards](#pipeline-standards) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Interchange formats and standards.</small>
 - [Pipeline Overview](#pipeline-overview) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Industry-to-software quick reference.</small>
 
@@ -221,7 +221,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(46 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
 - [Audio Software](#audio-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
 - [Design Software](#design-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
-- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(33 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
+- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(34 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(85 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
 - [Material & Texture Creation Software](#material--texture-creation-software) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Material authoring, texture baking, and PBR painting tools.</small>
@@ -5619,6 +5619,7 @@ Format conversion across image, video, audio, and 3D.
 | Software | Description | Pricing | License | Tags | Best For |
 |---|---|---|---|---|---|
 | [CAD Exchanger](https://cadexchanger.com/) | Desktop app and SDK for viewing and converting CAD files across 30+ formats. | Free viewer, paid Lab and SDK | Free tier | Freemium · CAD | CAD format conversion |
+| [EXR Converter](https://vfx.systems/exr-converter) | Desktop app and CLI for EXR-to-video and video-to-EXR conversion with OpenColorIO, slates, and camera RAW support.<br><small class="see-also">See also: <a href="#viewers--file-utilities">Software Reference → Viewers & File Utilities</a></small> |  | Open source | OpenColorIO · EXR | VFX dailies and plate round-trips |
 | [fre:ac](https://www.freac.org/) | Free, open-source batch audio converter.<br><small class="see-also">See also: <a href="#viewers--file-utilities">Software Reference → Viewers & File Utilities</a></small> |  | Open source | Audio Batch · Open Source | Batch audio conversion |
 | [HandBrake](https://handbrake.fr/) | Free, open-source H.265/AV1 video encoder.<br><small class="see-also">See also: <a href="#viewers--file-utilities">Software Reference → Viewers & File Utilities</a></small> |  | Open source | H.265/AV1 · Open Source | Video encoding |
 | [Luminance HDR](https://qtpfsgui.sourceforge.net/) | HDR workflow. Merge brackets, tonemap, convert EXR/HDR/RGBE.<br><small class="see-also">See also: <a href="#viewers--file-utilities">Software Reference → Viewers & File Utilities</a>, <a href="#photogrammetry--3d-scanning">Tools, Pipeline & Utilities → Photogrammetry & 3D Scanning</a></small> |  | Open source | HDR Workflow · EXR | HDR workflow |
@@ -5712,6 +5713,7 @@ Industry-to-software quick reference.
 | [CHCNAV CoViewer](https://geospatial.chcnav.com/products/chcnav-coviewer) | Free Windows desktop viewer for 3D Gaussian Splatting models in PLY, 3D Tiles and CHCNAV HSC formats, built for review and offline presentation. | Free | Free | 3DGS Viewer |  |
 | [Connecter](https://connecterapp.com/) | Free and visual creative assets management for 3d, AEC and design professionals. |  | Free |  |  |
 | [DJV](https://github.com/grizzlypeak3d/DJV) | Free professional image sequence viewer. |  | Open source | Image Sequences · Film Pipeline | EXR/DPX playback, film pipeline |
+| [EXR Converter](https://vfx.systems/exr-converter) | Desktop app and CLI for EXR-to-video and video-to-EXR conversion with OpenColorIO, slates, and camera RAW support. |  | Open source | OpenColorIO · EXR | VFX dailies and plate round-trips |
 | [f3d](https://f3d.app/) | Fast 3D file viewer (glTF, STL, OBJ, USD, etc.). |  | Open source | 3D Preview · USD Support | Quick 3D file preview |
 | [fre:ac](https://www.freac.org/) | Free, open-source batch audio converter. |  | Open source | Audio Batch · Open Source | Batch audio conversion |
 | [glb.gallery](https://glb.gallery) | Interactive 3D model gallery builder from GLB files, embeddable. |  | Free tier | Embeddable · GLB | 3D portfolio, model showcase |
@@ -6882,6 +6884,7 @@ Image, video, and 3D file viewers.
 | [CHCNAV CoViewer](https://geospatial.chcnav.com/products/chcnav-coviewer) | Free Windows desktop viewer for 3D Gaussian Splatting models in PLY, 3D Tiles and CHCNAV HSC formats, built for review and offline presentation.<br><small class="see-also">See also: <a href="#gaussian-splatting--nerf">Tools, Pipeline & Utilities → Gaussian Splatting & NeRF</a></small> | Free | Free | 3DGS Viewer |  |
 | [Connecter](https://connecterapp.com/) | Free and visual creative assets management for 3d, AEC and design professionals. |  | Free |  |  |
 | [DJV](https://github.com/grizzlypeak3d/DJV) | Free professional image sequence viewer. |  | Open source | Image Sequences · Film Pipeline | EXR/DPX playback, film pipeline |
+| [EXR Converter](https://vfx.systems/exr-converter) | Desktop app and CLI for EXR-to-video and video-to-EXR conversion with OpenColorIO, slates, and camera RAW support.<br><small class="see-also">See also: <a href="#conversion-tools">Tools, Pipeline & Utilities → Conversion Tools</a></small> |  | Open source | OpenColorIO · EXR | VFX dailies and plate round-trips |
 | [f3d](https://f3d.app/) | Fast 3D file viewer (glTF, STL, OBJ, USD, etc.). |  | Open source | 3D Preview · USD Support | Quick 3D file preview |
 | [fre:ac](https://www.freac.org/) | Free, open-source batch audio converter.<br><small class="see-also">See also: <a href="#conversion-tools">Tools, Pipeline & Utilities → Conversion Tools</a></small> |  | Open source | Audio Batch · Open Source | Batch audio conversion |
 | [glb.gallery](https://glb.gallery) | Interactive 3D model gallery builder from GLB files, embeddable. |  | Free tier | Embeddable · GLB | 3D portfolio, model showcase |
