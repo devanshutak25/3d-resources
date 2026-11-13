@@ -18,3 +18,22 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-05'
     pricing_last_verified: '2026-11-05'
+  - name: PSX Character Library
+    url: https://csaf.itch.io/psx-character-library
+    added_at: '2026-11-13T23:51:14Z'
+    description: 'Rigged low poly PSX style characters, 223 across 16 packs, sharing one skeleton and 45 CC0 animation clips, as GLB, FBX, OBJ and Blender files, with textures painted by an AI image model.'
+    license: Paid
+    entry_type: asset-source
+    pricing: '$19.99 one time, packs added later are included; free sampler with one character per pack'
+    tags:
+      output:
+        - games
+      workflow:
+        - rigging
+        - animation
+      tech:
+        - ai-generative
+    readme_tags:
+      - 3D Low-Poly
+      - Paid
+    best_for: 'PS1 style horror and retro 3D games'
