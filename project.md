@@ -21,6 +21,8 @@ It is NOT a tutorial blog, not a news site, not a personal portfolio. It is a fa
 
 ## 2. Goals
 
+Catalog addition (2026-11-13): Border Kit for Tiled proposed in Game Dev / Sprite & VFX tools, marked Paid with a Linux-only tested platform tag; source data remains the source of truth.
+
 Primary:
 - **Pro reference hub** — lookup-first structure, scannable, no marketing fluff.
 - **SEO-friendly** — per-section indexable HTML, real URLs in sitemap, JSON-LD, OG images.

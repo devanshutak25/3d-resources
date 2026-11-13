@@ -665,3 +665,17 @@ entries:
       platform:
         - web
     added_at: '2026-11-10T11:10:44.370Z'
+  - name: Border Kit for Tiled
+    url: https://frenkitchio.itch.io/border-kit-for-tiled
+    description: Python CLI that adds edge pixels to PNG tilesets and updates external Tiled TSX files while preserving tile IDs, animations and collisions.
+    license: Paid
+    entry_type: tool
+    pricing: 4 USD minimum, one-time; free sample
+    best_for: Padding existing Tiled tilesets without rebuilding tile metadata
+    tags:
+      workflow: [texturing]
+      output: [games]
+      platform: [linux]
+      tech: [offline]
+    readme_tags: [Tiled TSX, Tile padding]
+    added_at: '2026-11-13T16:58:35Z'
