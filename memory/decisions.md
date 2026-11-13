@@ -161,3 +161,8 @@ Architectural / structural decisions w/ rationale + date.
 - Studio offering online-casino design as a service line falls under the gambling rule (PUNCHev); a single casino client or casino-themed game title does not.
 - Same studio, two hosts, two countries (Soda Den): keep the own-site row, merge notable, drop the game-site row.
 - US city format: plain city everywhere. Stripped state suffixes from 249 values (user: "fix and then push"). Portland OR/ME etc. now read the same; accepted.
+
+## 2026-11-14: PR #56-#57 triage
+- Decline brand-new, unproven paid micro-tools (#56 Border Kit for Tiled: $4 6 kB AI-written script, published 1 day before PR, AI-agent submitter, free extruders exist). Resubmit once it has users. User call.
+- Contributor edits to project.md are not accepted; PRs touch data/ only.
+- #57 EXR Converter merged as submitted (MIT, cross-platform releases, claims verified); url_status/url_last_verified added in follow-up commit on main. `gh pr merge`/`gh pr close` worked from session again.

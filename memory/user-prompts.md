@@ -356,3 +356,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > push please
 
 **Answered:** Pushed main (d4e0108..e13ddb0). GitHub marked #52, #53, #55 merged; #54 closed by commit.
+
+**Prompt:** (2026-11-14)
+> figure out pull requests
+
+**Answered:** 2 open PRs. #57 EXR Converter merged (claims verified, follow-up adds url_status). #56 Border Kit for Tiled declined + closed with note (1-day-old $4 AI-written script, junk project.md edit). Catalog 4,985.

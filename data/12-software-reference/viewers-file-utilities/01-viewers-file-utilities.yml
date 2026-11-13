@@ -664,6 +664,8 @@ entries:
     license: Open Source
     entry_type: software
     best_for: VFX dailies and plate round-trips
+    url_last_verified: '2026-11-14'
+    url_status: ok
     tags:
       workflow:
         - compositing
