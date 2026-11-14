@@ -515,8 +515,8 @@ entries:
   - name: 3D AI Studio
     url: https://www.3daistudio.com/
     description: Web app that runs several 3D generation models for text-to-3D, image-to-3D, texturing and quad remeshing.
-    pricing: Free plan, Studio 9/mo, Pro 9/mo
-    license: Freemium
+    pricing: Free signup credits, Basic $19/mo, Studio $29/mo, Pro $149/mo
+    license: Paid
     entry_type: software
     tags:
       workflow:
@@ -536,10 +536,10 @@ entries:
     url_last_verified: '2026-11-01'
     url_status: ok
     readme_tags:
-      - Freemium
+      - Paid
       - Multi-Model
     best_for: Comparing 3D generators
-    pricing_last_verified: '2026-10-05'
+    pricing_last_verified: '2026-11-14'
   - name: Neural4D
     url: https://www.neural4d.com/
     description: Web generator that turns text, images or video into watertight 3D models with AI texturing and rigging.

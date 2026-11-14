@@ -303,7 +303,7 @@ entries:
   - name: Remocapp
     url: https://remocapp.com/
     description: Desktop app for real-time markerless body and face capture from two webcams, with Unreal Live Link.
-    pricing: Free tier, from .99/mo (annual)
+    pricing: Free tier, from $9.99/mo (annual)
     license: Paid
     entry_type: software
     tags:
@@ -322,7 +322,7 @@ entries:
     added_at: '2026-10-05T08:51:07.006Z'
     url_last_verified: '2026-11-01'
     url_status: ok
-    pricing_last_verified: '2026-10-05'
+    pricing_last_verified: '2026-11-14'
     readme_tags:
       - Subscription
       - Markerless
