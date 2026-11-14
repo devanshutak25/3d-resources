@@ -49,11 +49,17 @@ const files = walk(root);
 const missing = [];
 const badFragments = [];
 const dupIds = [];
+const badH1 = []; // section/subsection/tag pages must have exactly one <h1> (SEO plan 2026-11-14)
 let pathLinks = 0, fragLinks = 0;
 
 for (const file of files) {
   const rel = path.relative(root, file).replace(/\\/g, '/');
   const html = fs.readFileSync(file, 'utf8');
+
+  if (/^(sections|tags)\//.test(rel)) {
+    const n = (html.match(/<h1[\s>]/g) || []).length;
+    if (n !== 1) badH1.push(`${rel} (${n})`);
+  }
 
   const seen = new Set();
   for (const m of html.matchAll(/\sid="([^"]+)"/g)) {
@@ -89,6 +95,7 @@ const report = (label, list) => {
 report('Missing targets', missing);
 report('Broken fragments', badFragments);
 report('Duplicate ids', dupIds);
+report('Pages without exactly one <h1>', badH1);
 
-if (missing.length || badFragments.length || dupIds.length) process.exit(1);
+if (missing.length || badFragments.length || dupIds.length || badH1.length) process.exit(1);
 console.log('✓ All internal links resolve.');

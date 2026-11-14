@@ -23,6 +23,7 @@ const { slugify } = require('./lib/slugify');
 const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
 const { entriesToJsonLd } = require('./lib/entry-schema');
 const { labelTableCells } = require('./lib/table-labels');
+const copy = require('./lib/seo-copy');
 
 function lastUpdatedDate() {
   try {
@@ -54,8 +55,7 @@ function renderSectionMarkdown(sectionFile) {
 }
 
 // Post-process passes lifted from build-html.js (kept in sync deliberately).
-// `editTargetFile` non-null adds an Edit-on-GitHub link on the matching H2.
-function postProcessHtml(html, anchor, editTargetFile) {
+function postProcessHtml(html) {
   // Heading IDs + tabindex + icon on the H2.
   html = html.replace(/<(h[1-6])>(.*?)<\/\1>/g, (m, tag, inner) => {
     const textOnly = inner.replace(/<[^>]+>/g, '');
@@ -67,15 +67,6 @@ function postProcessHtml(html, anchor, editTargetFile) {
     }
     return `<${tag} id="${id}"${extra}>${body}</${tag}>`;
   });
-
-  // Edit-on-GitHub link on the section H2 (section pages only).
-  if (editTargetFile) {
-    const ghUrl = `${REPO_URL}/blob/main/data/${editTargetFile}`;
-    const editLink = `<a class="edit-on-gh" href="${ghUrl}" target="_blank" rel="noopener noreferrer" aria-label="Edit this section on GitHub"><i class="mdi mdi-pencil-outline" aria-hidden="true"></i><span>Edit</span></a>`;
-    html = html.replace(new RegExp(`<h2 id="${anchor}"([^>]*)>([\\s\\S]*?)</h2>`), (m, attrs, inner) => {
-      return `<h2 id="${anchor}"${attrs}>${inner}${editLink}</h2>`;
-    });
-  }
 
   // External link hygiene.
   const SITE_HOST = new URL(SITE_URL).hostname;
@@ -99,6 +90,37 @@ function postProcessHtml(html, anchor, editTargetFile) {
   return html;
 }
 
+// --- Page header (h1, updated date, intro, tag links) ------------------------
+
+// The rendered markdown opens with the page's own heading (## section / ### subsection)
+// and its description paragraph. Both are replaced by pageHeaderHtml; the heading id is
+// kept on the <h1> so existing #fragment links still land.
+function stripLeadHeading(html, hasDescription) {
+  const m = html.match(/^\s*<h[23] id="([^"]*)"[^>]*>[\s\S]*?<\/h[23]>\s*/);
+  if (!m) return { id: null, html };
+  let rest = html.slice(m[0].length);
+  if (hasDescription) rest = rest.replace(/^<p>[\s\S]*?<\/p>\s*/, '');
+  return { id: m[1], html: rest };
+}
+
+function pageHeaderHtml({ id, h1, icon, editFile, updated, introSentences, links }) {
+  const iconHtml = icon ? `<i class="mdi mdi-${icon} section-icon" aria-hidden="true"></i>` : '';
+  const editHtml = editFile
+    ? `<a class="edit-on-gh" href="${REPO_URL}/blob/main/data/${editFile}" target="_blank" rel="noopener noreferrer" aria-label="Edit this section on GitHub"><i class="mdi mdi-pencil-outline" aria-hidden="true"></i><span>Edit</span></a>`
+    : '';
+  const idAttr = id ? ` id="${escHtml(id)}"` : '';
+  const updatedHtml = updated
+    ? `\n      <p class="page-updated"><small>Updated <time datetime="${updated}">${updated}</time></small></p>`
+    : '';
+  const linksHtml = links.length
+    ? `\n      <nav class="narrow-links" aria-label="Narrow it down"><span>Narrow it down:</span> ${links.map(l =>
+      `<a href="${escHtml(l.href)}">${escHtml(l.label)}</a> <small>(${l.count})</small>`).join(' · ')}</nav>`
+    : '';
+  return `<h1${idAttr} tabindex="-1">${iconHtml}${escHtml(h1)}${editHtml}</h1>${updatedHtml}
+      <section class="page-intro"><p>${escHtml(introSentences.join(' '))}</p></section>${linksHtml}
+`;
+}
+
 // --- JSON-LD builders -------------------------------------------------------
 
 function itemListElements(entries) {
@@ -110,7 +132,7 @@ function itemListElements(entries) {
   }));
 }
 
-function buildSectionJsonLd(section, entries, canonicalUrl) {
+function buildSectionJsonLd(section, entries, canonicalUrl, pageCopy) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
@@ -125,8 +147,9 @@ function buildSectionJsonLd(section, entries, canonicalUrl) {
         '@type': 'CollectionPage',
         '@id': canonicalUrl,
         url: canonicalUrl,
-        name: `${section.title} · 3D Resources`,
-        description: section.description || '',
+        name: pageCopy.name,
+        description: pageCopy.description,
+        ...(pageCopy.dateModified ? { dateModified: pageCopy.dateModified } : {}),
         isPartOf: { '@id': `${SITE_URL}/#website` },
         inLanguage: 'en'
       },
@@ -143,7 +166,7 @@ function buildSectionJsonLd(section, entries, canonicalUrl) {
   };
 }
 
-function buildSubsectionJsonLd(sub, sectionCanonical, subCanonical) {
+function buildSubsectionJsonLd(sub, sectionCanonical, subCanonical, pageCopy) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
@@ -159,8 +182,9 @@ function buildSubsectionJsonLd(sub, sectionCanonical, subCanonical) {
         '@type': 'CollectionPage',
         '@id': subCanonical,
         url: subCanonical,
-        name: `${sub.subTitle} · ${sub.sectionTitle} · 3D Resources`,
-        description: sub.subDescription || '',
+        name: pageCopy.name,
+        description: pageCopy.description,
+        ...(pageCopy.dateModified ? { dateModified: pageCopy.dateModified } : {}),
         isPartOf: { '@id': sectionCanonical },
         inLanguage: 'en'
       },
@@ -203,10 +227,8 @@ function sectionOgImage(slug) {
   return fs.existsSync(png) ? `${SITE_URL}/assets/og/${slug}.png` : `${SITE_URL}/assets/og-image.png`;
 }
 
-function renderSectionPage({ sectionDoc, slug, description, htmlBody, subs, prev, next, jsonLd, lastUpdated }) {
+function renderSectionPage({ sectionDoc, slug, pageTitle, desc, headerBlock, htmlBody, subs, prev, next, jsonLd, lastUpdated }) {
   const canonicalUrl = `${SITE_URL}/sections/${slug}/`;
-  const pageTitle = `${sectionDoc.title} · 3D Resources`;
-  const desc = description || `Curated 3D resources for ${sectionDoc.title}.`;
 
   const prevLink = prev
     ? `<a class="section-nav-prev" href="/sections/${prev.slug}/">← ${escHtml(prev.title)}</a>`
@@ -234,20 +256,17 @@ ${items}
     canonicalUrl, ogImage: sectionOgImage(slug), pageTitle, desc, noindex: false, jsonLd,
     breadcrumbHtml: `<a href="/">3D Resources</a> / <span>${escHtml(sectionDoc.title)}</span>`,
     headerHtml: `<p class="view"><a href="/">← All sections</a></p>\n      <p class="view"><a href="${REPO_URL}">View on GitHub</a></p>`,
-    subNavHtml,
-    htmlBody,
+    subNavHtml: '',
+    htmlBody: `${headerBlock}${subNavHtml}      ${htmlBody}`,
     navHtml: `${prevLink}\n      ${nextLink}`,
     lastUpdated,
     analyticsContext: { pageType: 'section', section: slug }
   });
 }
 
-function renderSubsectionPage({ sub, slug, htmlBody, prev, next, jsonLd, lastUpdated }) {
+function renderSubsectionPage({ sub, pageTitle, desc, headerBlock, htmlBody, prev, next, jsonLd, lastUpdated }) {
   const sectionCanonical = `${SITE_URL}/sections/${sub.sectionSlug}/`;
   const subCanonical = `${sectionCanonical}${sub.subSlug}/`;
-  const pageTitle = `${sub.subTitle} · ${sub.sectionTitle} · 3D Resources`;
-  const desc = sub.subDescription
-    || `Curated ${sub.subTitle} resources in ${sub.sectionTitle}.`;
 
   const prevLink = prev
     ? `<a class="section-nav-prev" href="/sections/${sub.sectionSlug}/${prev.subSlug}/">← ${prev.subTitle}</a>`
@@ -262,7 +281,7 @@ function renderSubsectionPage({ sub, slug, htmlBody, prev, next, jsonLd, lastUpd
     breadcrumbHtml: `<a href="/">3D Resources</a> / <a href="${sectionCanonical}">${escHtml(sub.sectionTitle)}</a> / <span>${escHtml(sub.subTitle)}</span>`,
     headerHtml: `<p class="view"><a href="/sections/${sub.sectionSlug}/">← ${sub.sectionTitle}</a></p>\n      <p class="view"><a href="${REPO_URL}">View on GitHub</a></p>`,
     subNavHtml: '',
-    htmlBody,
+    htmlBody: `${headerBlock}      ${htmlBody}`,
     navHtml: `${prevLink}\n      ${nextLink}`,
     lastUpdated,
     analyticsContext: {
@@ -355,6 +374,9 @@ function main() {
     subsBySection.get(s.sectionSlug).push(s);
   }
 
+  // Catalog-wide tag counts so "Narrow it down" only links indexable tag pages.
+  const tagCounts = copy.tagCounts(allSubs.flatMap(s => s.entries));
+
   let sectionCount = 0, subCount = 0, subNoindex = 0;
   const sectionCards = [];
 
@@ -367,13 +389,27 @@ function main() {
 
     // --- Section page ---
     const md = renderSectionMarkdown(meta.file);
-    let html = marked.parse(md);
     const anchor = slugify(sectionDoc.title);
-    html = postProcessHtml(html, anchor, meta.file);
+    const stripped = stripLeadHeading(postProcessHtml(marked.parse(md)), !!sectionDoc.description);
+    const html = stripped.html;
 
     const canonical = `${SITE_URL}/sections/${meta.slug}/`;
     const entries = entriesFor(meta.file);
-    const jsonLd = buildSectionJsonLd(sectionDoc, entries, canonical);
+    const secPage = {
+      title: sectionDoc.title, seoTitle: sectionDoc.seo_title, intro: sectionDoc.intro,
+      picks: sectionDoc.picks, description: sectionDoc.description || meta.description
+    };
+    const secH1 = copy.heading(secPage, entries);
+    const secIntro = copy.intro(secPage, entries);
+    const secDesc = copy.metaDescription(secIntro);
+    const secModified = copy.lastModified(entries);
+    const jsonLd = buildSectionJsonLd(sectionDoc, entries, canonical,
+      { name: secH1, description: secDesc, dateModified: secModified });
+    const secHeader = pageHeaderHtml({
+      id: stripped.id || anchor, h1: secH1, icon: SECTION_ICONS[anchor], editFile: meta.file,
+      updated: secModified, introSentences: secIntro,
+      links: copy.narrowLinks(entries, tagCounts, seo.THIN_THRESHOLD)
+    });
 
     sectionCards.push({
       slug: meta.slug,
@@ -387,8 +423,8 @@ function main() {
     const next = i < sections.length - 1 ? sections[i + 1] : null;
 
     const page = renderSectionPage({
-      sectionDoc, slug: meta.slug, description: meta.description,
-      htmlBody: html, subs,
+      sectionDoc, slug: meta.slug, pageTitle: copy.titleTag(secH1), desc: secDesc,
+      headerBlock: secHeader, htmlBody: html, subs,
       prev: prev ? { slug: prev.slug, title: prev.title } : null,
       next: next ? { slug: next.slug, title: next.title } : null,
       jsonLd, lastUpdated
@@ -404,18 +440,31 @@ function main() {
       const sub = subs[j];
       const subMd = render.renderSubsectionMarkdown(meta.file, sub.subSlug);
       if (!subMd) continue;
-      let subHtml = marked.parse(subMd);
-      subHtml = postProcessHtml(subHtml, sub.anchor, null);
+      const subStripped = stripLeadHeading(postProcessHtml(marked.parse(subMd)), !!sub.subDescription);
 
       const sectionCanonical = `${SITE_URL}/sections/${meta.slug}/`;
       const subCanonical = `${sectionCanonical}${sub.subSlug}/`;
-      const subJsonLd = buildSubsectionJsonLd(sub, sectionCanonical, subCanonical);
+      const subPageMeta = {
+        title: sub.subTitle, seoTitle: sub.seoTitle, intro: sub.intro,
+        picks: sub.picks, description: sub.subDescription
+      };
+      const subH1 = copy.heading(subPageMeta, sub.entries);
+      const subIntro = copy.intro(subPageMeta, sub.entries);
+      const subDesc = copy.metaDescription(subIntro);
+      const subModified = copy.lastModified(sub.entries);
+      const subJsonLd = buildSubsectionJsonLd(sub, sectionCanonical, subCanonical,
+        { name: subH1, description: subDesc, dateModified: subModified });
+      const subHeader = pageHeaderHtml({
+        id: subStripped.id || sub.anchor, h1: subH1, updated: subModified, introSentences: subIntro,
+        links: copy.narrowLinks(sub.entries, tagCounts, seo.THIN_THRESHOLD)
+      });
 
       const prevSub = j > 0 ? subs[j - 1] : null;
       const nextSub = j < subs.length - 1 ? subs[j + 1] : null;
 
       const subPage = renderSubsectionPage({
-        sub, slug: meta.slug, htmlBody: subHtml,
+        sub, pageTitle: copy.titleTag(subH1), desc: subDesc, headerBlock: subHeader,
+        htmlBody: subStripped.html,
         prev: prevSub, next: nextSub, jsonLd: subJsonLd, lastUpdated
       });
 

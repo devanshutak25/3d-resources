@@ -988,7 +988,7 @@ main > details > ul > li[data-dim]:hover {
 }
 
 /* ---------- A4: heading focus ring (programmatic focus from ToC) ---------- */
-h2:focus-visible, h3:focus-visible {
+h1:focus-visible, h2:focus-visible, h3:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 4px;
   border-radius: 4px;
@@ -1191,7 +1191,7 @@ body.wireframe main > details {
 }
 
 /* ---------- Edit-on-GitHub link in section H2s ---------- */
-h2 .edit-on-gh {
+:is(h1, h2) .edit-on-gh {
   float: right;
   font-size: 0.7em;
   font-weight: 400;
@@ -1205,19 +1205,19 @@ h2 .edit-on-gh {
   transition: opacity 0.15s, color 0.15s;
   white-space: nowrap;
 }
-h2 .edit-on-gh:hover,
-h2 .edit-on-gh:focus-visible {
+:is(h1, h2) .edit-on-gh:hover,
+:is(h1, h2) .edit-on-gh:focus-visible {
   opacity: 1;
   color: var(--accent, #388bfd);
 }
-h2 .edit-on-gh .mdi {
+:is(h1, h2) .edit-on-gh .mdi {
   font-size: 0.95em;
   margin-right: 0.3em;
   vertical-align: -1px;
 }
 @media (max-width: 480px) {
-  h2 .edit-on-gh span { display: none; }
-  h2 .edit-on-gh { padding: 0.25em 0.5em; }
+  :is(h1, h2) .edit-on-gh span { display: none; }
+  :is(h1, h2) .edit-on-gh { padding: 0.25em 0.5em; }
 }
 
 /* ---------- Back-to-top floating button ---------- */
@@ -1300,6 +1300,12 @@ h2 .edit-on-gh .mdi {
 .tag-entry-list li { margin: 0.5rem 0; }
 .tag-entry-where { color: var(--text-subtle); font-size: 0.85em; }
 .tag-entry-where a { color: var(--text-muted); }
+
+/* ---------- Section/subsection page header: updated date, intro, tag links ---------- */
+.page-updated { margin: -0.25rem 0 0.5rem; color: var(--text-subtle); }
+.page-intro p { max-width: 75ch; color: var(--text-muted); }
+.narrow-links { margin: 0.5rem 0 1.25rem; font-size: 0.9em; color: var(--text-subtle); }
+.narrow-links span { font-weight: 600; margin-right: 0.25rem; }
 
 /* ---------- Studios directory (/studios/) ---------- */
 .studio-intro { color: var(--text-muted); max-width: 70ch; }

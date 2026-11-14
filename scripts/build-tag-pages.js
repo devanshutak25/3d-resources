@@ -16,6 +16,8 @@ const render = require('./render');
 const { pageShell, SITE_URL, REPO_URL, escHtml } = require('./lib/page-shell');
 const { isSafeHref } = require('./lib/html-safe');
 const { execSync } = require('child_process');
+const copy = require('./lib/seo-copy');
+const { tagLabel } = require('./lib/tag-labels');
 
 const OG_IMAGE = `${SITE_URL}/assets/og-image.png`;
 
@@ -48,7 +50,7 @@ function entryListHtml(entries) {
   return `      <ul class="tag-entry-list">\n${items}\n      </ul>`;
 }
 
-function buildTagJsonLd(tag, canonicalUrl) {
+function buildTagJsonLd(tag, canonicalUrl, name, desc) {
   const items = tag.entries.slice(0, 100).map((e, i) => ({
     '@type': 'ListItem',
     position: i + 1,
@@ -63,21 +65,21 @@ function buildTagJsonLd(tag, canonicalUrl) {
         itemListElement: [
           { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
           { '@type': 'ListItem', position: 2, name: 'Tags', item: `${SITE_URL}/tags/` },
-          { '@type': 'ListItem', position: 3, name: tag.value, item: canonicalUrl }
+          { '@type': 'ListItem', position: 3, name: tagLabel(tag.group, tag.value), item: canonicalUrl }
         ]
       },
       {
         '@type': 'CollectionPage',
         '@id': canonicalUrl,
         url: canonicalUrl,
-        name: `${tag.value} · 3D Resources`,
-        description: `Curated 3D resources tagged ${tag.value}.`,
+        name,
+        description: desc,
         isPartOf: { '@id': `${SITE_URL}/#website` },
         inLanguage: 'en'
       },
       {
         '@type': 'ItemList',
-        name: tag.value,
+        name: tagLabel(tag.group, tag.value),
         numberOfItems: tag.entries.length,
         itemListElement: items
       }
@@ -88,19 +90,21 @@ function buildTagJsonLd(tag, canonicalUrl) {
 function renderTagPage(tag, lastUpdated) {
   const canonicalUrl = `${SITE_URL}/tags/${tag.pathSlug}/`;
   const groupLabel = GROUP_LABEL[tag.group] || tag.group;
-  const pageTitle = `${tag.value} · ${groupLabel} · 3D Resources`;
+  const label = tagLabel(tag.group, tag.value);
+  const h1 = copy.tagHeading(tag.group, tag.value, tag.entries);
+  const pageTitle = copy.titleTag(h1);
   const n = tag.entries.length;
-  const desc = `${n} curated 3D resource${n === 1 ? '' : 's'} tagged ${tag.value} (${groupLabel}).`;
+  const desc = `${n} curated 3D resource${n === 1 ? '' : 's'} tagged ${label} (${groupLabel}).`;
 
-  const htmlBody = `<h1>Resources tagged: ${escHtml(tag.value)}</h1>
+  const htmlBody = `<h1>${escHtml(h1)}</h1>
       <p class="tag-intro">${escHtml(desc)} <a href="/tags/">Browse all tags</a>.</p>
 ${entryListHtml(tag.entries)}`;
 
   return pageShell({
     canonicalUrl, ogImage: OG_IMAGE, pageTitle, desc,
     noindex: !tag.indexable,
-    jsonLd: buildTagJsonLd(tag, canonicalUrl),
-    breadcrumbHtml: `<a href="/">3D Resources</a> / <a href="/tags/">Tags</a> / <span>${escHtml(tag.value)}</span>`,
+    jsonLd: buildTagJsonLd(tag, canonicalUrl, h1, desc),
+    breadcrumbHtml: `<a href="/">3D Resources</a> / <a href="/tags/">Tags</a> / <span>${escHtml(label)}</span>`,
     headerHtml: `<p class="view"><a href="/tags/">← All tags</a></p>\n      <p class="view"><a href="${REPO_URL}">View on GitHub</a></p>`,
     subNavHtml: '',
     htmlBody,
@@ -126,7 +130,7 @@ function renderHubPage(tags, lastUpdated) {
   const sections = groupOrder.filter(g => byGroup.has(g)).map(g => {
     const label = GROUP_LABEL[g] || g;
     const links = byGroup.get(g).map(t =>
-      `        <li><a href="/tags/${t.pathSlug}/">${escHtml(t.value)}</a> <small>(${t.entries.length})</small></li>`
+      `        <li><a href="/tags/${t.pathSlug}/">${escHtml(tagLabel(t.group, t.value))}</a> <small>(${t.entries.length})</small></li>`
     ).join('\n');
     return `      <h2 id="${g}">${escHtml(label)}</h2>\n      <ul class="tag-hub-list">\n${links}\n      </ul>`;
   }).join('\n');

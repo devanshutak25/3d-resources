@@ -69,9 +69,11 @@ Secondary:
 │   │   ├── heading-id.js      # Entity-decoding heading id (== render.githubAnchor) used by build-html.
 │   │   ├── page-shell.js      # Shared HTML shell for section/subsection/tag pages.
 │   │   ├── seo-pages.js       # SEO page enumeration: subsectionPages/tagPages/THIN_THRESHOLD.
+│   │   ├── seo-copy.js        # Pure page copy: h1/<title> ("3D Generation: 55 tools"), answer-first intro, meta description, "Narrow it down" tag links, lastModified.
+│   │   ├── tag-labels.js      # Tag display labels for server pages; parity-tested against filter.js *_LABELS.
 │   │   ├── entry-schema.js    # Per-entry schema.org JSON-LD.
 │   │   ├── canonical-url.js, quality-score.js, slugify.js, table-labels.js, ingest-core.js, rss.js
-│   │   └── *.test.js          # catalog, canonical-url, quality-score, entry-schema, escaping, heading-id, review-regressions.
+│   │   └── *.test.js          # catalog, canonical-url, quality-score, entry-schema, escaping, heading-id, review-regressions, seo-copy, tag-labels, studios.
 │   ├── passes/verify-tags.js  # Per-chunk subagent pass.
 │   ├── _archive/              # Dead one-shot scripts (tracked, never run). See its README.
 │   ├── run-tests.js           # Runs every scripts/lib/*.test.js (npm test).
@@ -123,6 +125,9 @@ Secondary:
 
 - **Section** — top-level category. 12 total, ordered by `data/sections.yml`. One file `data/NN-<slug>.yml`. Renders as H2.
 - **Subsection** — grouping inside a Section. Has `slug`, `title`, `description`. Renders as H3. Lives only in the Section file metadata.
+  Optional SEO overrides (freeform, no enums; validate.js checks type, banned words, seo_title ≤60, picks exist):
+  `seo_title` (replaces the generated h1/title), `intro` (replaces the description as the intro's first sentence),
+  `picks` (entry URLs named first in the intro's name lists). None set yet (2026-11-14).
 - **Entry** — a single resource. Conforms to `schema/entry.schema.json`.
 - **Chunk** — file holding ≤50 Entries for one Subsection. Path: `data/<section>/<sub>/NN-<sub>.yml`. Insertion-ordered, append-friendly. Storage unit only.
 - **Pass** — per-Chunk in-place edit by an LLM subagent. Driver: `scripts/pass.js` + `scripts/passes/<task>.js`. Branch-per-pass, per-Chunk commit, draft PR. Task names must match `[\w-]+` (no paths); `pass.js` shells out via `execFileSync('git', [...])` only, never a shell string.
@@ -246,7 +251,10 @@ Full run ~12 s (was ~4 min before the 2026-10-05 render index). Order:
 10. `build-llms-txt.js` -> llms.txt + llms-full.txt.
 11. `build-feed.js` -> Atom feed.
 12. `build-sitemap.js` (sole sitemap writer; indexable pages that exist on disk).
-13. `check-built-links.js` (fails the build on a missing target, broken fragment or duplicate id).
+13. `check-built-links.js` (fails the build on a missing target, broken fragment, duplicate id, or a sections/ or tags/ page without exactly one `<h1>`).
+
+Sitemap `<lastmod>` is per page: newest `added_at`/`url_last_verified`/`pricing_last_verified` over its entries
+(hubs + homepage = catalog max, studio pages = their studios). No `<changefreq>`/`<priority>`.
 
 **README stays in FULL mode.** `render.js --mode=lite` exists but is unwired (open decision, §11). render.js
 must not read anything gitignored: CI renders from a clean checkout and render-readme.yml commits the result.
@@ -326,7 +334,12 @@ Facet groups are separate **list** properties (`facet_license: ['Free']`), not o
 - `/game-studios/`: same page template and JS. Segment pills (AAA/AA/Indie/Mobile/Co-dev/VR/UGC), rows Platforms / Part of / Games; filters Segment chips, Platforms + People chips, Location, Group by adds Parent company. /studios/ and /game-studios/ link to each other (intro line + bottom nav); site header + README meta line link both.
 - Material Design Icons via CDN (subset).
 - Back-to-top button (visible after 600 px scroll).
-- "Edit on GitHub" pill in each section H2.
+- Section/subsection page header (SEO plan 2026-11-14, `build-section-pages.js` `pageHeaderHtml`): `<h1>` "<Title>: N tools|sites|…"
+  (noun from entry_type when ≥60% share, else "resources"; keeps the old heading id), "Updated YYYY-MM-DD" (page lastModified,
+  also `CollectionPage.dateModified`), `.page-intro` (description + counts by licence + up to 3 names per Open source / Free /
+  Runs in the browser bucket, ≤320 chars; first sentences = meta description ≤155), `.narrow-links` (top 5 indexable tags).
+  Tag pages: "<Label> resources: N tools". `<title>` = h1 + " | 3D Resources" (suffix dropped when over 60 chars).
+- "Edit on GitHub" pill in each section H1.
 - WebGL 3D graph view (`graph.html`) with mobile collapsible legend (bottom-sheet FAB on ≤720px). Starts with sections + subsections only; "All resources" toggle adds every entry. Click selects and shows details; the only external open is the "Open resource" link in the details card. Search ranks exact > prefix > substring, caps at 30 with a "Showing 30 of N" note + catalog link. Onboarding is a real modal (inert + focus loop). CDN import failure or a 12 s timeout shows Retry + "Browse the list instead".
 
 ## 10. Memory protocol (mandatory)
@@ -481,6 +494,9 @@ left open, remove when done.
 - Not verified in a real browser: filter drawer, screen reader behaviour, real-device keyboard,
   graph WebGL runtime. `record_sessions_percent: 100` needs sampling before a launch spike.
 - Workstream B4 (related "See also" beyond dual listings) deferred.
+- SEO plan (`docs/plans/2026-11-14-seo-plan.md`): Phases 0, 1, 2, 4 shipped 2026-11-14. Open: Phase 3 (free/open-source
+  intersection pages, only after GSC shows "free <subsection>" impressions), Phase 5 (PageSpeed + Rich Results Test by hand),
+  hand-written `seo_title`/`intro`/`picks` for the ~30 subsections with search demand.
 
 **Repo hygiene:**
 - Local paths and verbatim prompts were scrubbed from tracked files on 2026-10-05 but remain in git history.
@@ -510,6 +526,7 @@ left open, remove when done.
 - Domain vocab → `CONTEXT.md`.
 - Architecture decisions → `docs/adr/*`.
 - Studio discovery method (country-by-country agents) → `docs/playbooks/studio-discovery.md`.
+- SEO code plan (h1/titles, data-driven intros, lastmod, intersection pages) → `docs/plans/2026-11-14-seo-plan.md`.
 - Project rules → `CLAUDE.md` (and this file).
 - Data contract → `schema/entry.schema.json` + `schema/vocab.yml`.
 - Memory log → `memory/*`.

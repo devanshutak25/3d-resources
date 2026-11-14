@@ -73,6 +73,45 @@ function validateVocab() {
   }
 }
 
+// A period price with no currency, or a bare ".99" amount, usually means a shell ate
+// "$1x" during an edit (2026-10-05: "Studio 9/mo"). Warning only: some prices are genuinely odd.
+const PERIOD_PRICE = /\d\s*\/\s*(mo|month|yr|year)\b/i;
+const CURRENCY = /[$€£¥₹]|\b(USD|EUR|GBP|INR|JPY|CAD|AUD)\b/;
+const BARE_CENTS = /(^|[^\d$€£¥₹])\.\d\d\b/;
+
+function validatePricing() {
+  for (const { sectionFile, subSlug, entry } of catalog.iterEntries()) {
+    const p = entry.pricing;
+    if (typeof p !== 'string') continue;
+    if ((PERIOD_PRICE.test(p) && !CURRENCY.test(p)) || BARE_CENTS.test(p)) {
+      warnings.push(`${sectionFile} :: ${subSlug} :: ${entry.name}: pricing "${p}" looks like a lost currency sign`);
+    }
+  }
+}
+
+// Optional editorial SEO fields on subsection objects in data/NN-<section>.yml (project.md §4).
+function validateSeoFields() {
+  for (const meta of catalog.loadSections().sections) {
+    const sec = catalog.loadSection(meta.file);
+    for (const sub of sec.subsections || []) {
+      const loc = `${meta.file} :: ${sub.slug}`;
+      for (const k of ['seo_title', 'intro']) {
+        if (sub[k] === undefined) continue;
+        if (typeof sub[k] !== 'string' || !sub[k].trim()) { errors.push(`${loc}: ${k} must be a non-empty string`); continue; }
+        if (BANNED.test(sub[k])) errors.push(`${loc}: ${k} breaks writing rules (em-dash or banned phrase)`);
+      }
+      if (typeof sub.seo_title === 'string' && sub.seo_title.length > 60) errors.push(`${loc}: seo_title over 60 chars`);
+      if (sub.picks === undefined) continue;
+      if (!Array.isArray(sub.picks) || sub.picks.some(u => typeof u !== 'string' || !/^https?:\/\//.test(u))) {
+        errors.push(`${loc}: picks must be a list of entry URLs`);
+        continue;
+      }
+      const urls = new Set(require('./render').loadSubEntries(meta.file, sub.slug, sec.slug).map(e => normalizeUrl(e.url)));
+      for (const u of sub.picks) if (!urls.has(normalizeUrl(u))) warnings.push(`${loc}: pick ${u} is not an entry in this subsection`);
+    }
+  }
+}
+
 function validateDuplicates() {
   // Cross-section duplicates of the same URL are storage errors after the
   // canonical+mirror migration. The canonical entry should live in one chunk
@@ -160,6 +199,8 @@ function main() {
   validateSchema();
   validateVocab();
   validateDuplicates();
+  validatePricing();
+  validateSeoFields();
   validateStudios();
 
   if (warnings.length) {

@@ -33,6 +33,10 @@ function subsectionPages() {
         subSlug: sub.slug,
         subTitle: sub.title,
         subDescription: sub.description || '',
+        // Optional editorial overrides (project.md §4): seo_title, intro, picks.
+        seoTitle: sub.seo_title || null,
+        intro: sub.intro || null,
+        picks: sub.picks || [],
         anchor: render.githubAnchor(sub.title),
         entries,
         indexable: entries.length >= THIN_THRESHOLD

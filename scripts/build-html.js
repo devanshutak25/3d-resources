@@ -101,7 +101,9 @@ const jsonLd = {
       '@type': 'Person',
       '@id': `${SITE_URL}/#person`,
       name: 'Devanshu Tak',
-      url: 'https://devanshutak.xyz'
+      url: 'https://devanshutak.xyz',
+      // Ties the site, repo and author into one entity for search engines.
+      sameAs: ['https://github.com/devanshutak25', REPO_URL]
     },
     {
       '@type': 'CollectionPage',
