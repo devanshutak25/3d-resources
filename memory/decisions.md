@@ -169,3 +169,10 @@ Architectural / structural decisions w/ rationale + date.
 
 ## 2026-11-14: PR #58 triage
 - Declined #58 PSX Character Library (CSAF itch.io, $19.99 bundle): page ~1 month old, 0 ratings, pack count + price still rising, AI-agent submitter, seller mass-produces AI asset bundles. Same rule as #56. Resubmit invited once rated and price settles.
+
+## 2026-11-14: SEO plan Phases 0-2, 4
+- Page h1/title formula `<Title>: N <noun>`; noun from entry_type only when ≥60% share, else "resources". Title suffix " | 3D Resources" dropped when >60 chars.
+- Intro lead = subsection description (or `intro` override); the rendered description paragraph is removed so it isn't shown twice.
+- Tag labels: server copy in scripts/lib/tag-labels.js + parity test vs filter.js, not a shared JSON (keeps filter.js sync, no fetch).
+- 3D AI Studio: free signup credits only, no free plan -> Paid (user, 2026-11-14; trial rule from #53).
+- Phase 3 (free/open-source intersection pages) waits for GSC impressions; Phase 5 is manual.

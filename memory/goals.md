@@ -9,11 +9,13 @@ Project-level goals and intent for 3d_resources.
 ## Active goals
 - 2026-10-05: Keep the catalog link-healthy: monthly link-check triage (5 unreachable left, see project.md §11).
 - 2026-10-05: Unblock the freshness workflow (GitHub "Allow Actions to create PRs" setting). Oct/Nov flags merged by hand 2026-11-06.
+- 2026-11-14: SEO plan open phases: 3 (intersection pages, after GSC data), 5 (PageSpeed + Rich Results by hand), hand-written seo_title/intro/picks for ~30 subsections.
 - 2026-10-05: Launch track (pub_plan Part 2): social preview, awesome-list PRs, community posts, newsletters, GSC.
 - 2026-10-05: Continue web discovery phases. 2026-11-09 news-driven batch +548 (catalog 4,761). Next: bot-walled gaps (SpaceMouse, Neat Video, aescripts), Houdini FX (2).
 - 2026-10-31: /studios/ directory: every animation/VFX/motion/CG/archviz/game/VP/XR/outsourcing studio in the world. v10 at 4,043 + 4,202 game studios (2026-11-09, round 9 North America + Europe second pass). Next: same country-agent method (docs/playbooks/studio-discovery.md): Middle East, US/Canada long tail from the gamedevmap CSV split by state, Egypt production retry, studios.json split decision (both >3,000), size pass on new rows (LinkedIn), mainland China, Maghreb/Levant/Gulf, previs (23), JS-only award sites (CICLOPE, AICP, Clio, Promax) with a headless browser.
 
 ## Done
+- 2026-11-14: SEO plan Phases 0, 1, 2, 4 applied (h1 + titles, data-driven intros, tag links, sitemap lastmod, dateModified, pricing guard). Not committed.
 - 2026-11-10: PRs #52 Imagera, #53 Quady3D, #55 DESIGN:OS accepted with fixes; issue #54 PeerBrush added. Pushed 2026-11-10; PRs merged, #54 closed.
 - 2026-11-09: Studio round 9, North America + Europe second pass: +413 studios, +490 game studios (14 agents); fixed 15 shifted game-studio URLs, normalised 249 US cities. Committed + pushed.
 - 2026-11-09: Studio round 8, South America + Africa by country: +194 studios, +125 game studios (12 agents). Committed + pushed.

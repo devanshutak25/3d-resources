@@ -371,3 +371,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > decline with a note
 
 **Answered:** Closed #58 with note (no track record, moving count/price; resubmit once rated). Logged in decisions.md.
+
+**Prompt:** (2026-11-14)
+> G:\Personal\3d_resources\docs\plans\2026-11-14-seo-plan.md apply the changes here
+
+**Answered:** Applied SEO plan Phases 0, 1, 2, 4 (pricing fix + guard, seo-copy.js h1/titles/intros/tag links, tag-labels.js, sitemap lastmod, dateModified, sameAs, h1 build check). Phase 3 + 5 left open (gated). Validate/test/build ✓. Not committed.
+
+**Prompt:** (2026-11-14)
+> Should be paid, yes. make changes and commit
+
+**Answered:** 3D AI Studio licence + readme_tag Freemium -> Paid. Validate/test/build ✓. Committed SEO plan work + data fix.
