@@ -361,3 +361,13 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > figure out pull requests
 
 **Answered:** 2 open PRs. #57 EXR Converter merged (claims verified, follow-up adds url_status). #56 Border Kit for Tiled declined + closed with note (1-day-old $4 AI-written script, junk project.md edit). Catalog 4,985.
+
+**Prompt:** (2026-11-14)
+> evaluate PRs
+
+**Answered:** 1 open PR. #58 PSX Character Library (CSAF, self-submitted by AI agent): validates, URL live, claims mostly true but counts already stale (page now 237 chars / 17 packs), price rises with pack count, 0 ratings, seller is a ~month-old AI mass-production shop (18 bundle libraries). Recommended decline per #56 precedent; awaiting user call.
+
+**Prompt:** (2026-11-14)
+> decline with a note
+
+**Answered:** Closed #58 with note (no track record, moving count/price; resubmit once rated). Logged in decisions.md.

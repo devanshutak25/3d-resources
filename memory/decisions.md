@@ -166,3 +166,6 @@ Architectural / structural decisions w/ rationale + date.
 - Decline brand-new, unproven paid micro-tools (#56 Border Kit for Tiled: $4 6 kB AI-written script, published 1 day before PR, AI-agent submitter, free extruders exist). Resubmit once it has users. User call.
 - Contributor edits to project.md are not accepted; PRs touch data/ only.
 - #57 EXR Converter merged as submitted (MIT, cross-platform releases, claims verified); url_status/url_last_verified added in follow-up commit on main. `gh pr merge`/`gh pr close` worked from session again.
+
+## 2026-11-14: PR #58 triage
+- Declined #58 PSX Character Library (CSAF itch.io, $19.99 bundle): page ~1 month old, 0 ratings, pack count + price still rising, AI-agent submitter, seller mass-produces AI asset bundles. Same rule as #56. Resubmit invited once rated and price settles.
