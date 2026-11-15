@@ -1,0 +1,14 @@
+entries:
+  - name: RafaSC UE5 Material Guides
+    url: https://rafucos.github.io/rafasc-links/guides/
+    added_at: '2026-11-15T16:46:00.000Z'
+    description: Written step-by-step guides on stylized water, toon shading and hand-painted edge wear in Unreal Engine 5 materials.
+    license: Free
+    entry_type: tutorial
+    tags:
+      workflow:
+        - material-authoring
+      output:
+        - games
+      tech:
+        - unreal
