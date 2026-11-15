@@ -29,7 +29,7 @@ subsections:
   - slug: unreal-engine-resources
     title: "Unreal Engine: Resources"
     description: Unreal Engine resources and marketplace picks.
-    chunks: 4
+    chunks: 5
   - slug: game-dev-level-design
     title: "Game Dev Tools: Level Design"
     description: Level editors and blockout tools.
