@@ -221,7 +221,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(46 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
 - [Audio Software](#audio-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
 - [Design Software](#design-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
-- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(34 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
+- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(35 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(85 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
 - [Material & Texture Creation Software](#material--texture-creation-software) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Material authoring, texture baking, and PBR painting tools.</small>
@@ -6905,6 +6905,7 @@ Image, video, and 3D file viewers.
 **Related:**
 - [&lt;model-viewer&gt;](https://modelviewer.dev/). Google web component that embeds interactive glTF/GLB models in a page, with AR mode and an editor for testing models.
 - [3D Lab Viewer](https://viewer.3dlab.id/). Browser viewer for STL, OBJ, STEP, 3MF and GLB with measuring, cross-sections and export to STL, OBJ, GLB or 3MF.
+- [3D Vision Art GLB Viewer](https://3dvisionart.net/glb-viewer/). Browser viewer for GLB, glTF, FBX, OBJ and USDZ that shows polycount, texture RAM and extracted PBR maps.
 - [Babylon.js Sandbox](https://sandbox.babylonjs.com/). Drag-and-drop browser viewer for glTF, GLB, OBJ and .babylon files built on the Babylon.js engine.
 - [CADProps GLB Viewer](https://www.cadprops.com/tools/glb-viewer/). Browser-based viewer for static, uncompressed GLB geometry and approximate dimensions.
 - [GLBKit](https://www.glbkit.com/). Browser toolkit that opens 19 3D formats, converts between GLB, glTF, OBJ, FBX and STL, and reports triangles, draw calls and texture memory.
