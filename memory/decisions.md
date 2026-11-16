@@ -176,3 +176,7 @@ Architectural / structural decisions w/ rationale + date.
 - Tag labels: server copy in scripts/lib/tag-labels.js + parity test vs filter.js, not a shared JSON (keeps filter.js sync, no fetch).
 - 3D AI Studio: free signup credits only, no free plan -> Paid (user, 2026-11-14; trial rule from #53).
 - Phase 3 (free/open-source intersection pages) waits for GSC impressions; Phase 5 is manual.
+
+## 2026-11-16: PR #59 + issue #60 triage
+- Declined #59 RafaSC UE5 Material Guides: guides published 2026-11-15 (1 day before PR), 0-star repo, site funnels to author's paid Fab listings. #56/#58 rule extended to free tutorial sites that are fresh sales funnels. Resubmit invited.
+- Accepted #60 3D Vision Art GLB Viewer (dev-disclosed, free, client-side, no signup) into §12 viewers-file-utilities. Same class as CADProps GLB Viewer (vendor lead-gen tool, still useful). Issue closed.

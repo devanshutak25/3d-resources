@@ -386,3 +386,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > push please
 
 **Answered:** Pushed main (SEO plan commits 0bd6e43..2f2a051 + this log).
+
+**Prompt:** (2026-11-16)
+> check issues and PRs and close
+
+**Answered:** #60 GLB Viewer added to §12 viewers-file-utilities, issue closed. #59 RafaSC guides declined + closed (1-day-old content, Fab funnel). Catalog 4,986. Committed.

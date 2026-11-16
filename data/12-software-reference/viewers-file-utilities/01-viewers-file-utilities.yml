@@ -684,3 +684,23 @@ entries:
       - EXR
     dual_listed_in:
       - tools-pipeline-utilities/conversion-tools
+  - name: 3D Vision Art GLB Viewer
+    url: https://3dvisionart.net/glb-viewer/
+    added_at: '2026-11-16T06:00:00.000Z'
+    description: Browser viewer for GLB, glTF, FBX, OBJ and USDZ that shows polycount, texture RAM and extracted PBR maps.
+    license: Free
+    entry_type: tool
+    url_last_verified: '2026-11-16'
+    url_status: ok
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - Web
+      - glTF
