@@ -180,3 +180,7 @@ Architectural / structural decisions w/ rationale + date.
 ## 2026-11-16: PR #59 + issue #60 triage
 - Declined #59 RafaSC UE5 Material Guides: guides published 2026-11-15 (1 day before PR), 0-star repo, site funnels to author's paid Fab listings. #56/#58 rule extended to free tutorial sites that are fresh sales funnels. Resubmit invited.
 - Accepted #60 3D Vision Art GLB Viewer (dev-disclosed, free, client-side, no signup) into §12 viewers-file-utilities. Same class as CADProps GLB Viewer (vendor lead-gen tool, still useful). Issue closed.
+
+## 2026-11-18: PR #61 + issue #62 triage
+- Accepted #62 CC0 Materials (dev-submitted, CC0, 26 materials, domain registered 2026-11-09) into §01 textures-free-pbr. Free with no paid funnel, so #56/#58/#59 freshness rule (paid or sales-funnel) not applied. "seamless" in submission swapped for "tileable" (banned word).
+- Accepted #61 3DLoom 3MF Viewer (dev-disclosed, free, client-side, no signup, domain registered 2026-11-03). Same class as #60: vendor lead-gen tool (site sells AI model gen), useful on its own. Validated locally (no CI: first-time contributor). `gh pr merge` blocked by auto-mode classifier this session; user to merge.

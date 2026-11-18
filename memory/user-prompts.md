@@ -391,3 +391,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check issues and PRs and close
 
 **Answered:** #60 GLB Viewer added to §12 viewers-file-utilities, issue closed. #59 RafaSC guides declined + closed (1-day-old content, Fab funnel). Catalog 4,986. Committed.
+
+**Prompt:** (2026-11-18)
+> check issues and PRs and close
+
+**Answered:** #62 CC0 Materials added to §01 textures-free-pbr (committed locally). #61 3DLoom 3MF Viewer validated, accept; merge + issue close + push blocked by permission classifier, left for user.

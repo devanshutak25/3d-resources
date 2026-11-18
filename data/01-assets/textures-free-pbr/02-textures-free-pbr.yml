@@ -221,3 +221,25 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.604Z'
+  - name: CC0 Materials
+    url: https://cc0materials.com/
+    description: CC0 library of tileable PBR materials up to 4K with OpenGL and DirectX normals, displacement and AO maps, previewed on a 3D sphere.
+    license: Free
+    entry_type: asset-source
+    tags:
+      workflow:
+        - texturing
+        - material-authoring
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - pbr
+        - cc0
+    readme_tags:
+      - CC0
+      - PBR
+    url_status: ok
+    url_last_verified: '2026-11-18'
+    added_at: '2026-11-18T00:00:00.000Z'
