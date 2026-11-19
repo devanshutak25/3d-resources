@@ -665,3 +665,27 @@ entries:
       platform:
         - web
     added_at: '2026-11-10T11:10:44.370Z'
+  - name: SpriteShip
+    url: https://spriteship.com/
+    added_at: '2026-11-19T12:00:00.000Z'
+    description: AI 2D game art workspace that generates character sprite sheets, tilesets and backgrounds, with editing tools, exports for Phaser, Godot, Unity, GameMaker and Tiled, and MCP/API access.
+    license: Freemium
+    entry_type: service
+    pricing: 1,000 one-time free credits; from $10/mo
+    tags:
+      workflow:
+        - concept
+        - texturing
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - mcp
+    dual_listed_in:
+      - software-reference/ai-image-software
+    readme_tags:
+      - AI
+      - Sprites
