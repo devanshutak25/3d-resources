@@ -704,3 +704,21 @@ entries:
     readme_tags:
       - Web
       - glTF
+  - name: 3DLoom 3MF Viewer
+    url: https://3dloom.com/3mf-viewer
+    added_at: '2026-11-16T15:35:35.000Z'
+    description: Browser viewer for 3MF projects from Bambu Studio, OrcaSlicer and PrusaSlicer that shows painted filament colors and converts them to STL, with files kept on your device.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - 3mf
+    readme_tags:
+      - Web
+      - 3MF
