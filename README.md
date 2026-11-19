@@ -34,7 +34,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Free Asset Giveaways](#free-asset-giveaways) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Recurring free asset drops. Bookmark these.</small>
 - [Software-Specific Asset Libraries](#software-specific-asset-libraries) <span class="toc-count">(17 items)</span><br><small class="toc-desc">Official asset libraries tied to specific DCCs.</small>
 - [HDRIs](#hdris) <span class="toc-count">(14 items)</span><br><small class="toc-desc">HDR environment maps for lighting and reflections.</small>
-- [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(30 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
+- [Textures & Materials: Free PBR Libraries](#textures--materials-free-pbr-libraries) <span class="toc-count">(31 items)</span><br><small class="toc-desc">Free PBR texture libraries for materials authoring.</small>
 - [Textures: Specialized](#textures-specialized) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Specialty texture sources: displacement, patterns, sprites, terrain.</small>
 - [Textures: Premium](#textures-premium) <span class="toc-count">(5 items)</span><br><small class="toc-desc">Professional paid texture libraries.</small>
 - [Stock Images & References](#stock-images--references) <span class="toc-count">(33 items)</span><br><small class="toc-desc">Free and public-domain stock images, and 2D references.</small>
@@ -126,7 +126,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Game Dev Tools: Dialogue & Narrative](#game-dev-tools-dialogue--narrative) <span class="toc-count">(14 items)</span><br><small class="toc-desc">Dialogue, narrative scripting, and IF tools.</small>
 - [Game Dev Tools: Audio Middleware](#game-dev-tools-audio-middleware) <span class="toc-count">(9 items)</span><br><small class="toc-desc">Adaptive audio and spatial audio middleware.</small>
 - [Game Dev Tools: Networking & Multiplayer](#game-dev-tools-networking--multiplayer) <span class="toc-count">(19 items)</span><br><small class="toc-desc">Multiplayer frameworks and game servers.</small>
-- [Game Dev Tools: Sprite & VFX](#game-dev-tools-sprite--vfx) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Sprite animation, 2D VFX, texture packers.</small>
+- [Game Dev Tools: Sprite & VFX](#game-dev-tools-sprite--vfx) <span class="toc-count">(51 items)</span><br><small class="toc-desc">Sprite animation, 2D VFX, texture packers.</small>
 - [Game Dev Tools: AI & Procedural Generation](#game-dev-tools-ai--procedural-generation) <span class="toc-count">(18 items)</span><br><small class="toc-desc">WFC, noise, procedural pipelines, economy design.</small>
 - [Game Dev Tools: Physics Engines](#game-dev-tools-physics-engines) <span class="toc-count">(16 items)</span><br><small class="toc-desc">Open-source physics engines.</small>
 - [Game Dev Tools: Version Control](#game-dev-tools-version-control) <span class="toc-count">(6 items)</span><br><small class="toc-desc">Version control for binary-heavy game projects.</small>
@@ -234,7 +234,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Misc 3D Utilities Software](#misc-3d-utilities-software) <span class="toc-count">(44 items)</span><br><small class="toc-desc">Reference, scattering, simulation, and specialty 3D utilities.</small>
 - [Scientific & Medical Visualization Software](#scientific--medical-visualization-software) <span class="toc-count">(56 items)</span><br><small class="toc-desc">Molecular, volumetric, medical, astronomy, CFD, GIS, and data viz tools, plus DCC bridges and educators.</small>
 - [Software Reference: Legacy & Defunct](#software-reference-legacy--defunct) <span class="toc-count">(4 items)</span><br><small class="toc-desc">Historically significant 3D, VFX, rendering, and post software that is discontinued, sunset, or archival.</small>
-- [AI Image & Texture Generation Software](#ai-image--texture-generation-software) <span class="toc-count">(33 items)</span><br><small class="toc-desc">AI image generation and AI texture/material generation tools.</small>
+- [AI Image & Texture Generation Software](#ai-image--texture-generation-software) <span class="toc-count">(34 items)</span><br><small class="toc-desc">AI image generation and AI texture/material generation tools.</small>
 - [AI Video Generation Software](#ai-video-generation-software) <span class="toc-count">(36 items)</span><br><small class="toc-desc">AI text-to-video and image-to-video generation tools.</small>
 - [AI 3D Generation Software](#ai-3d-generation-software) <span class="toc-count">(37 items)</span><br><small class="toc-desc">AI text-to-3D, image-to-3D, and 3D-asset generation tools.</small>
 - [AI Audio & Music Generation Software](#ai-audio--music-generation-software) <span class="toc-count">(18 items)</span><br><small class="toc-desc">AI music, voice, and SFX generation tools.</small>
@@ -440,6 +440,7 @@ Free PBR texture libraries for materials authoring.
 - [ambientCG](https://ambientcg.com/). Library of 2000+ CC0 PBR materials, HDRIs and models, free to download.
 - [Arroway Textures](https://www.arroway-textures.ch/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Digital textures for 3D rendering and real-time use.
 - [C4DCenter Material Library](https://c4dcenter.com/material-library/). Free Cinema 4D materials with high-quality texture maps. Personal and commercial use.
+- [CC0 Materials](https://cc0materials.com/). CC0 library of tileable PBR materials up to 4K with OpenGL and DirectX normals, displacement and AO maps, previewed on a 3D sphere.
 - [Celestia Motherlode](http://www.celestiamotherlode.net/). Repository of Celestia addons: textures, models, and celestial objects.
 - [CG Bookcase](https://www.cgbookcase.com/textures/). Free CC0 PBR texture library with downloadable texture map sets.
 - [Free PBR](https://freepbr.com/). Hundreds of free materials.
@@ -3506,6 +3507,7 @@ Sprite animation, 2D VFX, texture packers.
 - [SpriteLib](https://www.widgetworx.com/projects/sl.html). Collection of static and animated graphic objects (also commonly known as sprites).
 - [SpriteLoop](https://balkanramgames.itch.io/spriteloop). Cut-out 2D animation tool that rigs PNG parts with skins and variants, exporting spritesheets, PNG sequences, GIF and WebP; early alpha.
 - [SpritePaint](https://spritepaint.com/). Browser pixel art editor with layers, onion-skinned frame animation up to 100 frames, and PNG, GIF, sprite sheet or MP4 export.
+- [SpriteShip](https://spriteship.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. AI 2D game art workspace that generates character sprite sheets, tilesets and backgrounds, with editing tools, exports for Phaser, Godot, Unity, GameMaker and Tiled, and MCP/API access.<br><small class="see-also">See also: <a href="#ai-image--texture-generation-software">Software Reference → AI Image & Texture Generation Software</a></small>
 - [SpriteUV2](https://www.spriteuv.com/) <span class="lic-pill lic-paid">Paid</span>. Tool for creating optimal meshes for textures/sprites and packing them into an atlas.
 - [Starbound](https://playstarbound.com/). Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
 - [Stitches](https://draeton.github.io/stitches/). An HTML5 sprite sheet generator.
@@ -7466,6 +7468,7 @@ AI image generation and AI texture/material generation tools.
 - [Ludo.ai](https://ludo.ai/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. AI generator for game assets: sprites, icons, UI, textures, music, 3D models and video.
 - [Seedream 4.0 (ByteDance)](https://seed.bytedance.com/en/seedream4_0) <span class="lic-pill lic-unknown" title="No license recorded for this entry">License unspecified</span>. ByteDance image model that handles generation and prompt-based editing in one architecture, with multi-reference input and output up to 4K.
 - [SLK_img2pixel](https://captain4lk.itch.io/slk-img2pixel). Convert images/textures to pixel art.
+- [SpriteShip](https://spriteship.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. AI 2D game art workspace that generates character sprite sheets, tilesets and backgrounds, with editing tools, exports for Phaser, Godot, Unity, GameMaker and Tiled, and MCP/API access.<br><small class="see-also">See also: <a href="#game-dev-tools-sprite--vfx">Game Development → Game Dev Tools: Sprite & VFX</a></small>
 - [StableGen](https://github.com/sakalond/StableGen). Blender add-on that textures scenes by projecting multi-view diffusion images through a ComfyUI backend.<br><small class="see-also">See also: <a href="#texture--material-generation">AI & Machine Learning for CG → Texture & Material Generation</a></small>
 
 ### AI Video Generation Software
