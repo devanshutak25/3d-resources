@@ -396,3 +396,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check issues and PRs and close
 
 **Answered:** #62 CC0 Materials added to §01 textures-free-pbr (committed locally). #61 3DLoom 3MF Viewer validated, accept; merge + issue close + push blocked by permission classifier, left for user.
+
+**Prompt:** (2026-11-19)
+> check issues and PRs and close and [pasted email: SpriteShip suggestion for Game Dev Tools: Sprite & VFX]
+
+**Answered:** Merged #61 3DLoom, pushed #62 CC0 (auto-closed), declined + closed #63 NextJSON (generic JSON tool). Added SpriteShip to §07 sprite-vfx (+ §12 ai-image mirror). Catalog 4,989. Pushed.

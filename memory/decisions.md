@@ -184,3 +184,9 @@ Architectural / structural decisions w/ rationale + date.
 ## 2026-11-18: PR #61 + issue #62 triage
 - Accepted #62 CC0 Materials (dev-submitted, CC0, 26 materials, domain registered 2026-11-09) into §01 textures-free-pbr. Free with no paid funnel, so #56/#58/#59 freshness rule (paid or sales-funnel) not applied. "seamless" in submission swapped for "tileable" (banned word).
 - Accepted #61 3DLoom 3MF Viewer (dev-disclosed, free, client-side, no signup, domain registered 2026-11-03). Same class as #60: vendor lead-gen tool (site sells AI model gen), useful on its own. Validated locally (no CI: first-time contributor). `gh pr merge` blocked by auto-mode classifier this session; user to merge.
+
+## 2026-11-19: PR #61 + issue #63 + SpriteShip email triage
+- Merged #61 (squash) and pushed #62 commit; `gh pr merge` worked this session.
+- Declined #63 NextJSON: generic JSON formatter/diff (ad-supported, 2024 domain), no 3D-format features. Generic dev utilities out of scope even when pitched as "pipeline" tools.
+- Accepted SpriteShip (vendor email suggestion via CONTRIBUTING invite, disclosed). Domain 2026-05-21, real SaaS with $0 plan + 1,000 one-time credits, from $10/mo -> Freemium (Ludo.ai precedent; $0 plan exists, unlike 3D AI Studio). §07 game-dev-sprite-vfx + dual_listed_in software-reference/ai-image-software. Tags ai-generative + mcp.
+- Email suggestions get no issue; logged here only.
