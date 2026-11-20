@@ -401,3 +401,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check issues and PRs and close and [pasted email: SpriteShip suggestion for Game Dev Tools: Sprite & VFX]
 
 **Answered:** Merged #61 3DLoom, pushed #62 CC0 (auto-closed), declined + closed #63 NextJSON (generic JSON tool). Added SpriteShip to §07 sprite-vfx (+ §12 ai-image mirror). Catalog 4,989. Pushed.
+
+**Prompt:** (2026-11-20)
+> check issues and PRs and close and is this worth adding? [pasted: Brushory "Import brushes into Procreate" tutorial suggestion for Art, Design & Visual Storytelling]
+
+**Answered:** No open issues or PRs. Brushory declined: brushory.com does not resolve (DNS ENOTFOUND), no search presence, and topic is covered by Procreate's official help + Procreate Handbook already in §12. Nothing added.
