@@ -825,3 +825,28 @@ entries:
       tech:
         - cc0
     added_at: '2026-11-10T11:10:44.316Z'
+  - name: Cosindra MotionSmith Free Animations
+    url: https://cosindra.ai/motionsmith/free-animations
+    description: Gallery of 1,216 AI-generated character animations on the UE5 Manny skeleton with root motion, as FBX, GLB or BVH. Best take of each downloads free with an account.
+    license: Freemium
+    entry_type: asset-source
+    pricing: Best take free with account; other takes from $9.99/mo
+    pricing_last_verified: '2026-11-20'
+    tags:
+      workflow:
+        - animation
+      output:
+        - games
+      platform:
+        - web
+      tech:
+        - ai-generative
+        - unreal
+        - godot
+    readme_tags:
+      - AI
+      - FBX
+    notes: Vendor email suggestion 2026-11-20. Public beta, Terms governed by Turkish law. Commercial use allowed on every plan per pricing page; no standalone license for gallery clips.
+    url_status: ok
+    url_last_verified: '2026-11-20'
+    added_at: '2026-11-20T12:00:00.000Z'

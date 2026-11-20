@@ -190,3 +190,7 @@ Architectural / structural decisions w/ rationale + date.
 - Declined #63 NextJSON: generic JSON formatter/diff (ad-supported, 2024 domain), no 3D-format features. Generic dev utilities out of scope even when pitched as "pipeline" tools.
 - Accepted SpriteShip (vendor email suggestion via CONTRIBUTING invite, disclosed). Domain 2026-05-21, real SaaS with $0 plan + 1,000 one-time credits, from $10/mo -> Freemium (Ludo.ai precedent; $0 plan exists, unlike 3D AI Studio). §07 game-dev-sprite-vfx + dual_listed_in software-reference/ai-image-software. Tags ai-generative + mcp.
 - Email suggestions get no issue; logged here only.
+
+## 2026-11-20: Cosindra MotionSmith email triage
+- Accepted Cosindra MotionSmith Free Animations (vendor email). 1,216 AI text-to-motion clips on UE5 Manny w/ root motion, FBX/GLB/BVH; best take free w/ free account, other takes paid (from $9.99/mo) -> Freemium. §03 mocap-libraries, asset-source. Description says "AI-generated" (vendor page never says mocap). Commercial use allowed per pricing page; no clip-specific licence, beta, Turkish law -> noted in `notes:`. Not the #56/#58 rule: large free tier, not a fresh paid micro-pack.
+- `unreal`/`godot` are `tech` tags, not `output` (validator rejects them in output).

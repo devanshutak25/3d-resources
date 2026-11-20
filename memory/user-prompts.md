@@ -406,3 +406,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check issues and PRs and close and is this worth adding? [pasted: Brushory "Import brushes into Procreate" tutorial suggestion for Art, Design & Visual Storytelling]
 
 **Answered:** No open issues or PRs. Brushory declined: brushory.com does not resolve (DNS ENOTFOUND), no search presence, and topic is covered by Procreate's official help + Procreate Handbook already in §12. Nothing added.
+
+**Prompt:** (2026-11-20)
+> [pasted email: Cosindra MotionSmith free animations suggestion for Animation & Rigging, Freemium]
+
+**Answered:** Verified site (live, 1,216 clips, best take free w/ account, paid from $9.99/mo, commercial use OK, AI-generated, beta). Added to §03 mocap-libraries as Freemium asset-source. Catalog 4,990. Committed.
