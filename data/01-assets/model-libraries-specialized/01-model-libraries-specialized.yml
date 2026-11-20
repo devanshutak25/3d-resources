@@ -711,3 +711,15 @@ entries:
       tech:
         - pbr
     added_at: '2026-11-10T11:10:44.204Z'
+  - name: Renderoverse Blender Character Rigs
+    url: https://renderoverse.com/models/blender
+    description: Collection of rigged fan-art characters for Blender 5.2.1+ with editable .blend files, FBX exports and textures.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      workflow: [rigging, animation]
+      platform: [web]
+      tech: [blender]
+    readme_tags: [Character Rigs, FBX]
+    dual_listed_in: [animation-rigging/character-rigs-other]
+    added_at: '2026-11-20T11:53:36.962Z'
