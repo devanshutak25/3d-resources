@@ -416,3 +416,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > [pasted email: BoxesModel suggestion for CAD Software, Freemium: parametric 3D-printable boxes/organizers/pegboards/Gridfinity, STL + STEP]
 
 **Answered:** Verified site (796 models, 3 generators, STL+STEP, default size free w/ sign-in, $1.90/model or $9.90/mo, terms 2026-10-14). Added to §12 cad-software as Freemium tool. Catalog 4,991. Committed.
+
+**Prompt:** (2026-11-23)
+> check issues and PRs and close
+
+**Answered:** 0 issues. 1 PR: #64 Renderoverse rigs: 9 NSFW fan-art rigs of copyrighted IP, declined + closed with comment. Nothing open now.
