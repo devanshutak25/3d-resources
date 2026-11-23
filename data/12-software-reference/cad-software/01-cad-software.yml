@@ -566,3 +566,30 @@ entries:
       tech:
         - procedural
     added_at: '2026-11-10T11:10:44.597Z'
+  - name: BoxesModel
+    url: https://boxesmodel.com/
+    description: Browser-based parametric generators and a library of about 800 3D-printable boxes, drawer organizers, pegboards and Gridfinity bins, exported as STL and STEP.
+    license: Freemium
+    entry_type: tool
+    pricing: Default-size downloads free with account; custom sizes $1.90/model or $9.90/mo
+    pricing_last_verified: '2026-11-23'
+    best_for: Sized storage boxes and Gridfinity bins for 3D printing
+    tags:
+      workflow:
+        - modeling
+      output:
+        - product-viz
+      platform:
+        - web
+      skill:
+        - beginner
+      tech:
+        - procedural
+        - mcp
+    readme_tags:
+      - 3D Printing
+      - Gridfinity
+    notes: Vendor email suggestion 2026-11-23. Terms effective 2026-10-14, operator is an individual business in China. Licence allows personal prints and selling physical prints; redistributing model files is not allowed.
+    url_status: ok
+    url_last_verified: '2026-11-23'
+    added_at: '2026-11-23T12:00:00.000Z'

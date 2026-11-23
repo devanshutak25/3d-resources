@@ -411,3 +411,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > [pasted email: Cosindra MotionSmith free animations suggestion for Animation & Rigging, Freemium]
 
 **Answered:** Verified site (live, 1,216 clips, best take free w/ account, paid from $9.99/mo, commercial use OK, AI-generated, beta). Added to §03 mocap-libraries as Freemium asset-source. Catalog 4,990. Committed.
+
+**Prompt:** (2026-11-23)
+> [pasted email: BoxesModel suggestion for CAD Software, Freemium: parametric 3D-printable boxes/organizers/pegboards/Gridfinity, STL + STEP]
+
+**Answered:** Verified site (796 models, 3 generators, STL+STEP, default size free w/ sign-in, $1.90/model or $9.90/mo, terms 2026-10-14). Added to §12 cad-software as Freemium tool. Catalog 4,991. Committed.

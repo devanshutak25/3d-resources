@@ -194,3 +194,7 @@ Architectural / structural decisions w/ rationale + date.
 ## 2026-11-20: Cosindra MotionSmith email triage
 - Accepted Cosindra MotionSmith Free Animations (vendor email). 1,216 AI text-to-motion clips on UE5 Manny w/ root motion, FBX/GLB/BVH; best take free w/ free account, other takes paid (from $9.99/mo) -> Freemium. §03 mocap-libraries, asset-source. Description says "AI-generated" (vendor page never says mocap). Commercial use allowed per pricing page; no clip-specific licence, beta, Turkish law -> noted in `notes:`. Not the #56/#58 rule: large free tier, not a fresh paid micro-pack.
 - `unreal`/`godot` are `tech` tags, not `output` (validator rejects them in output).
+
+## 2026-11-23: BoxesModel email triage
+- Accepted BoxesModel (vendor email). Parametric web generators (drawer organizer, pegboard, Gridfinity) + ~796 printable box models, STL + STEP, MCP connector. Every model free at default size w/ sign-in; custom size $1.90/model one-time or $9.90/mo -> Freemium. §12 cad-software, entry_type tool. Terms effective 2026-10-14 (5 weeks old) but large free tier, so not the #56/#58 freshness rule (Cosindra precedent).
+- 3D printing has no output enum: mapped to `product-viz` (PrintWhat precedent), "3D Printing" in readme_tags.
