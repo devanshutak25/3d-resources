@@ -792,3 +792,15 @@ entries:
       tech:
         - ai-generative
     added_at: '2026-11-10T11:10:44.266Z'
+  - name: Linger
+    url: https://withlinger.com/
+    added_at: '2026-11-24T12:51:01.000Z'
+    description: Native Mac app for organizing visual references with source links and notes, finding them by text or color, and arranging selected images on project canvases.
+    license: Paid
+    entry_type: software
+    pricing: 7-day trial, one-time purchase
+    tags:
+      workflow: [reference, concept]
+      platform: [mac]
+    readme_tags: [Local Library, Moodboards]
+    best_for: Visual research and moodboards for pre-production
