@@ -846,3 +846,21 @@ entries:
       platform:
         - web
     added_at: '2026-11-10T11:10:44.326Z'
+  - name: STLPal
+    url: https://stlpal.com/
+    description: Browser tools that resize, repair and convert STL, 3MF, OBJ, GLB and FBX files for 3D printing, with files processed on your device.
+    pricing: Free
+    license: Free
+    entry_type: tool
+    best_for: Fixing and converting models before slicing
+    tags:
+      workflow:
+        - modeling
+      output:
+        - generalist
+      platform:
+        - web
+    readme_tags:
+      - STL
+      - 3D Printing
+    added_at: '2026-11-24T04:23:26Z'
