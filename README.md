@@ -186,7 +186,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Matchmoving & Camera Tracking](#matchmoving--camera-tracking) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Camera tracking, object tracking, and camera matching tools.</small>
 - [Miscellaneous 3D Tools & Utilities](#miscellaneous-3d-tools--utilities) <span class="toc-count">(67 items)</span><br><small class="toc-desc">Assorted CG utilities and specialty tools.</small>
 - [Plugin & Addon Marketplaces](#plugin--addon-marketplaces) <span class="toc-count">(53 items)</span><br><small class="toc-desc">Per-software plugin marketplaces.</small>
-- [Conversion Tools](#conversion-tools) <span class="toc-count">(54 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
+- [Conversion Tools](#conversion-tools) <span class="toc-count">(55 items)</span><br><small class="toc-desc">Format conversion across image, video, audio, and 3D.</small>
 - [Pipeline Standards](#pipeline-standards) <span class="toc-count">(18 items)</span><br><small class="toc-desc">Interchange formats and standards.</small>
 - [Pipeline Overview](#pipeline-overview) <span class="toc-count">(1 item)</span><br><small class="toc-desc">Industry-to-software quick reference.</small>
 
@@ -5672,6 +5672,7 @@ Format conversion across image, video, audio, and 3D.
 - [spark.js (Ludicon)](https://ludicon.com/sparkjs) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. JavaScript library that transcodes WebP, AVIF or JXL textures to GPU-native compressed formats at runtime on WebGPU.
 - [Splat2Mesh (Arcana)](https://arcana-mfg.com/splat2mesh/) <span class="lic-pill lic-nc" title="Free for non-commercial use only">Free, non-commercial</span>. Windows 11 app that converts 3D Gaussian Splatting PLY scans into usable 3D meshes; free for personal and non-commercial use.<br><small class="see-also">See also: <a href="#gaussian-splatting--nerf">Tools, Pipeline & Utilities → Gaussian Splatting & NeRF</a></small>
 - [Squoosh](https://squoosh.app/). Google. AVIF/WebP/JPEG XL image compression.
+- [STLPal](https://stlpal.com/). Browser tools that resize, repair and convert STL, 3MF, OBJ, GLB and FBX files for 3D printing, with files processed on your device.
 - [TinyPNG](https://tinypng.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Lossy PNG/JPEG compression.
 - [Trify3D STL Editor](https://trify3d.com/tools/stl-editor/). Browser tool that views, repairs and converts STL files, exporting STL, 3MF or PLY, with optional AI image-to-STL generation.
 - [Unitypackage Extractor Online](https://extractunitypackage.com/). Opens .unitypackage files in the browser without Unity, extracts the original files and exports models as textured GLB.
