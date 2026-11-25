@@ -722,3 +722,21 @@ entries:
     readme_tags:
       - Web
       - 3MF
+  - name: Mint Polycount Checker
+    url: https://mint.gg/polycount-checker
+    added_at: '2026-11-24T00:00:00.000Z'
+    description: Browser tool that reports triangles, vertices, draw calls and texture memory for GLB and glTF files and checks them against web, AR and game budgets, with files kept on your device.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - reference
+      output:
+        - generalist
+      platform:
+        - web
+      tech:
+        - glb
+    readme_tags:
+      - Web
+      - glTF
