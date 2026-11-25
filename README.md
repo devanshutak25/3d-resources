@@ -74,7 +74,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 
 - [Animation: Channels & Tutorials](#animation-channels--tutorials) <span class="toc-count">(32 items)</span><br><small class="toc-desc">Channels, courses and tutorials on 2D, motion and interactive animation.</small>
 - [AI Motion Capture & Animation](#ai-motion-capture--animation) <span class="toc-count">(39 items)</span><br><small class="toc-desc">AI-powered mocap and character animation tools.</small>
-- [Mocap & Animation Libraries](#mocap--animation-libraries) <span class="toc-count">(40 items)</span><br><small class="toc-desc">Downloadable motion-capture and game animation clips: stores, free packs, engine samples, animal mocap.</small>
+- [Mocap & Animation Libraries](#mocap--animation-libraries) <span class="toc-count">(41 items)</span><br><small class="toc-desc">Downloadable motion-capture and game animation clips: stores, free packs, engine samples, animal mocap.</small>
 - [Mocap Datasets](#mocap-datasets) <span class="toc-count">(44 items)</span><br><small class="toc-desc">Research and open motion-capture datasets in BVH, FBX and SMPL. Most are non-commercial.</small>
 - [Character Rigs: Maya](#character-rigs-maya) <span class="toc-count">(38 items)</span><br><small class="toc-desc">Free and paid Maya animation rigs, rig directories and creator stores.</small>
 - [Character Rigs: Other Apps](#character-rigs-other-apps) <span class="toc-count">(50 items)</span><br><small class="toc-desc">Animation rigs for Blender, 3ds Max, Cinema 4D, Houdini, Unreal, Unity, Daz and 2D apps.</small>
@@ -214,7 +214,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [3D Software: Free](#3d-software-free) <span class="toc-count">(29 items)</span><br><small class="toc-desc">Free and open-source 3D software.</small>
 - [3D Software: Free Tier](#3d-software-free-tier) <span class="toc-count">(11 items)</span><br><small class="toc-desc">Freemium 3D software with free tier available.</small>
 - [3D Software: Paid](#3d-software-paid) <span class="toc-count">(42 items)</span><br><small class="toc-desc">Professional paid 3D software.</small>
-- [CAD Software](#cad-software) <span class="toc-count">(26 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
+- [CAD Software](#cad-software) <span class="toc-count">(27 items)</span><br><small class="toc-desc">Computer-aided design tools.</small>
 - [2D & Animation Software](#2d--animation-software) <span class="toc-count">(59 items)</span><br><small class="toc-desc">Digital painting, illustration, 2D animation.</small>
 - [VFX & Compositing Software](#vfx--compositing-software) <span class="toc-count">(52 items)</span><br><small class="toc-desc">VFX, compositing, and real-time simulation tools.</small>
 - [Render Engines](#render-engines) <span class="toc-count">(45 items)</span><br><small class="toc-desc">Production render engines across CPU, GPU, biased, and unbiased path tracers.</small>
@@ -1488,6 +1488,7 @@ Downloadable motion-capture and game animation clips: stores, free packs, engine
 - [Awesome Dog Mocap](https://awesomedog.com/) <span class="lic-pill lic-paid">Paid</span>. Dog motion capture animation packs sold as FBX and on Unity Asset Store, Fab, and the iClone marketplace.
 - [Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions](https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture). 2500 free human motion-capture clips in BVH format.
 - [cMonkeys Huge FBX Mocap Library](https://archive.org/details/Huge_FBX_Mocap_Library). 2,534 CMU mocap clips converted to grouped FBX files for Unity, mirrored on Internet Archive.
+- [Cosindra MotionSmith Free Animations](https://cosindra.ai/motionsmith/free-animations) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Gallery of 1,216 AI-generated character animations on the UE5 Manny skeleton with root motion, as FBX, GLB or BVH. Best take of each downloads free with an account.
 - [Explosive](https://www.explosive.ws/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Game animation packs for Unity, Unreal, and Godot/Blender, incl. RPG Character pack (1,437 clips), Crafting, and Warrior sets, with free versions.
 - [Free Motion Pack 1](https://jdbeardmore.itch.io/free-motion-pack-1). 21 free mocap FBX animations on the Mixamo Exo Gray armature with T-pose on frame 1 for retargeting.
 - [Game Animation Sample Project](https://www.fab.com/listings/880e319a-a59e-4ed2-b268-b32dac7fa016). Epic sample with 500+ mocap locomotion and traversal clips driven by Motion Matching, compatible with all UE Mannequins and MetaHumans.<br><small class="see-also">See also: <a href="#character-rigs-other-apps">Animation & Rigging → Character Rigs: Other Apps</a></small>
@@ -6525,6 +6526,7 @@ Computer-aided design tools.
 | [Zoo Design Studio](https://zoo.dev/) | Code-and-UI CAD app with the KCL modeling language on Zoo's own geometry engine. |  | Free tier | Freemium · Code CAD | Code-based CAD design |
 
 **Related:**
+- [BoxesModel](https://boxesmodel.com/) <span class="lic-pill lic-freemium" title="Free tier with paid upgrades">Free tier</span>. Browser-based parametric generators and a library of about 800 3D-printable boxes, drawer organizers, pegboards and Gridfinity bins, exported as STL and STEP.
 - [build123d](https://build123d.readthedocs.io/). Python parametric CAD library on OpenCascade that exports STEP and STL.
 - [CadQuery](https://cadquery.github.io/). Python library for parametric CAD models on the OpenCascade kernel.
 
