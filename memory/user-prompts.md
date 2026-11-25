@@ -426,3 +426,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check issues & PRs and close
 
 **Answered:** #65 STLPal + #68 Mint Polycount Checker validated, accept; `gh pr merge` blocked by auto-mode classifier, left for user. Declined + closed #66 Linger (pre-1.0 paid app, native build ~2 weeks old) and #67 Valmera (generic AI creator video editor, AI-assistant submission, UTM links).
+
+**Prompt:** (2026-11-25)
+> go ahead and merge please
+
+**Answered:** Squash-merged #65 STLPal + #68 Mint (gh pr merge worked on explicit user ask). Added url_status/url_last_verified on main, catalog 4,993. Pushed main incl. 5 earlier unpushed commits.

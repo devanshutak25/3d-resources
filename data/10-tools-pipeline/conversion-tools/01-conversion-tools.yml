@@ -852,6 +852,8 @@ entries:
     pricing: Free
     license: Free
     entry_type: tool
+    url_last_verified: '2026-11-25'
+    url_status: ok
     best_for: Fixing and converting models before slicing
     tags:
       workflow:

@@ -728,6 +728,8 @@ entries:
     description: Browser tool that reports triangles, vertices, draw calls and texture memory for GLB and glTF files and checks them against web, AR and game budgets, with files kept on your device.
     license: Free
     entry_type: tool
+    url_last_verified: '2026-11-25'
+    url_status: ok
     tags:
       workflow:
         - reference
