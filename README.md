@@ -221,7 +221,7 @@ Curated by [Devanshu Tak](https://devanshutak.xyz) · built with Claude · [Sugg
 - [Video Editing Software](#video-editing-software) <span class="toc-count">(46 items)</span><br><small class="toc-desc">NLEs and post-production software.</small>
 - [Audio Software](#audio-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">Audio editing, mixing, sound design, and SFX generation.</small>
 - [Design Software](#design-software) <span class="toc-count">(47 items)</span><br><small class="toc-desc">UI/UX, vector, raster design apps.</small>
-- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(36 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
+- [Viewers & File Utilities](#viewers--file-utilities) <span class="toc-count">(37 items)</span><br><small class="toc-desc">Image, video, and 3D file viewers.</small>
 - [Game Engines: Free & Open Source](#game-engines-free--open-source) <span class="toc-count">(85 items)</span><br><small class="toc-desc">Free and open-source game engines.</small>
 - [Game Engines: Commercial Free Tiers](#game-engines-commercial-free-tiers) <span class="toc-count">(15 items)</span><br><small class="toc-desc">Commercial engines with generous free tiers.</small>
 - [Material & Texture Creation Software](#material--texture-creation-software) <span class="toc-count">(23 items)</span><br><small class="toc-desc">Material authoring, texture baking, and PBR painting tools.</small>
@@ -6916,6 +6916,7 @@ Image, video, and 3D file viewers.
 - [glTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/). Khronos reference viewer that renders glTF 2.0 files with physically based shading in WebGL.
 - [Kino Transcode](https://kino.ai/tools/transcode). Free in-browser converter that opens BRAW, R3D, ProRes and DNxHR files locally (nothing uploaded) and exports H.264 MP4 or ProRes MOV.<br><small class="see-also">See also: <a href="#video-editing-software">Software Reference → Video Editing Software</a></small>
 - [KTX Viewer](https://ktxviewer.com/). Browser viewer for KTX and KTX2 textures, including Basis Universal, BC1-BC7, ETC and ASTC, with mip, cubemap face and channel inspection.
+- [Mint Polycount Checker](https://mint.gg/polycount-checker). Browser tool that reports triangles, vertices, draw calls and texture memory for GLB and glTF files and checks them against web, AR and game budgets, with files kept on your device.
 - [Online 3D Viewer](https://3dviewer.net/). Browser viewer for OBJ, FBX, glTF, STL, 3DM, STEP and other 3D files.
 - [PlayCanvas Model Viewer](https://playcanvas.com/viewer). Browser viewer for glTF 2.0 models and 3D Gaussian splats from PlayCanvas, built to follow the glTF spec closely.
 - [SageThumbs](https://www.cherubicsoft.com/en/projects/sagethumbs/). Windows Explorer shell extension that adds image thumbnails and conversion, with AI, PS, EPS and PDF support. GPLv2.
