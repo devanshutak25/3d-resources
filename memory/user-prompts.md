@@ -421,3 +421,8 @@ Older prompts (to 2026-09-30): `memory/archive/user-prompts-2026Q2Q3.md`.
 > check issues and PRs and close
 
 **Answered:** 0 issues. 1 PR: #64 Renderoverse rigs: 9 NSFW fan-art rigs of copyrighted IP, declined + closed with comment. Nothing open now.
+
+**Prompt:** (2026-11-25)
+> check issues & PRs and close
+
+**Answered:** #65 STLPal + #68 Mint Polycount Checker validated, accept; `gh pr merge` blocked by auto-mode classifier, left for user. Declined + closed #66 Linger (pre-1.0 paid app, native build ~2 weeks old) and #67 Valmera (generic AI creator video editor, AI-assistant submission, UTM links).

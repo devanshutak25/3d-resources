@@ -201,3 +201,10 @@ Architectural / structural decisions w/ rationale + date.
 
 ## 2026-11-23: PR #64 triage
 - Declined + closed #64 Renderoverse Blender Character Rigs (maintainer-submitted). All 9 releases NSFW-tagged fan art of copyrighted IP (Pokémon, Naruto, MHA, Tangled, Urotsukidōji), uploader @NSFWstudio, licence "Other". PR body understated it ("three", "some mature"). Applies 2026-10-05 fan-rig rule; NSFW asset sources out of scope.
+
+## 2026-11-25: PR #65/#66/#68 + issue #67 triage
+- Accept #65 STLPal (maker-disclosed, free, client-side, no account; domain 2026-10-10). Same class as #61 3DLoom. §10 conversion-tools.
+- Accept #68 Mint Polycount Checker (vendor-disclosed; mint.gg sells agent-driven AI 3D gen, checker is free, client-side, no signup). Same class as #60/#61 lead-gen tools useful on their own. §12 viewers-file-utilities.
+- Both validated locally (40 warnings = baseline). `gh pr merge` blocked by auto-mode classifier; user to merge.
+- Declined #66 Linger: paid ($39 one-time), v0.8.x, native macOS app shipped mid-Nov 2026, domain 2026-08-31. #56/#58 rule (unproven paid). PureRef + Eagle cover the slot. Resubmit after 1.0.
+- Declined #67 Valmera: general creator AI video editor ($15-100/mo), not 3D/VFX/motion production. Submitted by vendor's AI assistant, UTM-tagged links.
