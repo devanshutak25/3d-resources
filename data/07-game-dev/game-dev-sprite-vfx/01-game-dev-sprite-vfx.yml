@@ -689,3 +689,20 @@ entries:
     readme_tags:
       - AI
       - Sprites
+  - name: SpriteSheet.dev
+    url: https://spritesheet.dev/
+    added_at: '2026-11-26T12:32:39.000Z'
+    description: Browser tool that packs frames or a GIF into a sprite sheet with TexturePacker JSON, Aseprite JSON or Sparrow XML, and cuts existing sheets back into frames.
+    license: Free
+    entry_type: tool
+    tags:
+      workflow:
+        - animation
+        - texturing
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Web
+      - Sprites
