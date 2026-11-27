@@ -1050,3 +1050,22 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-08'
     added_at: '2026-11-08T19:03:24.922Z'
+  - name: Clips Kitty
+    url: https://github.com/ColinGPT9/clips-studio
+    added_at: '2026-11-27T17:50:20.000Z'
+    description: Open-source Windows app that turns long gameplay and stream recordings into captioned 9:16 short clips on your own PC, with Whisper word-level captions, active-speaker reframing and webcam-plus-gameplay split layouts.
+    license: Open Source
+    entry_type: software
+    pricing: Free
+    best_for: Vertical shorts from gameplay recordings
+    tags:
+      workflow:
+        - editing
+      output:
+        - games
+        - broadcast
+      platform:
+        - win
+    readme_tags:
+      - Shorts
+      - Auto Captions
